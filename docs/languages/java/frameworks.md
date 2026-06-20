@@ -3,7 +3,7 @@ slug: /languages/java/frameworks
 title: Frameworks
 description: Discover modern frameworks like Micronaut and Quarkus for building modular, cloud-native Java applications with fast boot times and optimal container performance.
 created: 2023-03-05
-last_update: 2025-09-15
+updated: 2025-09-15
 ---
 ## Micronaut
 

@@ -3,7 +3,7 @@ slug: /data-warehouses/clickhouse/intro
 title: Introduction to ClickHouse
 description: Discover ClickHouse, the open source column-oriented database for real-time analytics with powerful SQL query capabilities.
 created: 2023-11-24
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ClickHouse is an open source column-oriented database management system capable of realtime generation of analytical data reports using SQL queries.
 

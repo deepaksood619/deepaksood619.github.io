@@ -3,7 +3,7 @@ slug: /data-warehouses/bigquery/biglake
 title: BigLake Unified Storage Engine
 description: Discover BigLake, the storage engine unifying analytics and AI queries for multiformat, secure, and performant data management.
 created: 2025-05-25
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 BigLake is a storage engine that provides a unified interface for analytics and AI engines to query multiformat, multicloud, and multimodal data in a secure, governed, and performant manner. Build a single-copy AI lakehouse designed to reduce management of and need for custom data infrastructure.
 

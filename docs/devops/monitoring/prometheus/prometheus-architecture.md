@@ -3,7 +3,7 @@ slug: /devops/monitoring/prometheus/prometheus-architecture
 title: Understanding Prometheus Architecture
 description: Explore the key components of Prometheus architecture and learn about scaling, metrics collection, and alert management.
 created: 2023-03-05
-last_update: 2024-06-20
+updated: 2024-06-20
 ---
 ## Components
 

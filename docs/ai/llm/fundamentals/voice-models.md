@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/voice-models
 title: Voice Models
 description: Discover top voice models like Whisper for accurate speech-to-text conversion, multilingual recognition, and efficient audio transcription solutions.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Speech to text Model - Whisper / Voice to Text / Audio to Text
 

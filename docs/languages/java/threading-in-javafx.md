@@ -3,7 +3,7 @@ slug: /languages/java/threading-in-javafx
 title: Threading in JavaFX
 description: Learn about threading in JavaFX, including the JavaFX Scene Graph, Worker, Task, and Service to enhance your application's performance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 JavaFX Scene Graph
 

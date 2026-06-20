@@ -3,7 +3,7 @@ slug: /ideas/startup-ideas-physical
 title: Startup Ideas - Physical
 description: Discover innovative physical startup ideas like a consolidated gig marketplace and personalized at-home gym trainers for ultimate convenience and experience.
 created: 2023-03-05
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 ## Consolidated Gig Marketplace
 

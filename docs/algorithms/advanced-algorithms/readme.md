@@ -3,7 +3,7 @@ slug: /algorithms/advanced-algorithms/readme
 title: Advanced Algorithms Overview
 description: "Explore various advanced algorithms including A* Search, Linear Programming, and the Travelling Salesman Problem in this comprehensive guide."
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [A* Search Algorithms](a-search-algorithm)
 - [Informed Search Algorithms](informed-search-algorithms)

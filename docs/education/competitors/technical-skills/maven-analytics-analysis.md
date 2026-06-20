@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/maven-analytics-analysis
 title: Maven Analytics Platform Overview
 description: Discover Maven Analytics, a leading platform for business intelligence training with over 1,000,000 students globally.
 created: 2026-06-13
-last_update: 2026-06-16
+updated: 2026-06-16
 ---
 ## Overview
 

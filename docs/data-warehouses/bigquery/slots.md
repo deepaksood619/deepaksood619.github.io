@@ -3,7 +3,7 @@ slug: /data-warehouses/bigquery/slots
 title: Understanding BigQuery Slots
 description: Learn about BigQuery slots, their usage, and how to leverage slot-based pricing for efficient query execution.
 created: 2025-01-27
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - A BigQuery slot is a virtual compute unit used by BigQuery to execute SQL queries or other job types. During the execution of a query, BigQuery automatically determines how many slots are used by the query. The number of slots used depends on the amount of data being processed, the complexity of the query, and the number of slots available.
 - Fair scheduling in BigQuery

@@ -3,7 +3,7 @@ slug: /technologies/apache-airflow/astronomer
 title: Understanding Astronomer and Airflow
 description: Explore Astronomer's deployment, CI/CD templates, and scaling strategies for optimizing Airflow performance.
 created: 2024-02-19
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 [astro deploy | Astronomer Documentation](https://docs.astronomer.io/astro/cli/astro-deploy)
 

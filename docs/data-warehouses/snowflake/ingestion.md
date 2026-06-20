@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/ingestion
 title: Efficient Data Loading in Snowflake
 description: Discover effective methods for data ingestion in Snowflake, including COPY command and Snowpipe for seamless data integration.
 created: 2024-01-04
-last_update: 2025-10-16
+updated: 2025-10-16
 ---
 ## Snowflake Data Loading
 

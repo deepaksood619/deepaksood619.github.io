@@ -3,7 +3,7 @@ slug: /computer-science/security/tools
 title: Essential Cybersecurity Tools
 description: Discover key tools like CyberChef and Dex for encryption, data analysis, and authentication in your cybersecurity projects.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - [GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef) ⭐ 35k
 - [CyberChef](https://gchq.github.io/CyberChef/)

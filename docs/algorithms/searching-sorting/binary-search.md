@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/binary-search
 title: Understanding Binary Search and STL Queries
 description: Learn how to implement lower_bound and upper_bound queries in C++ STL using binary search technique.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Finding the index of first element in *A* which is not less than *x* is called lower_bound query in C++ STL. The answer of our first query isn-lower_bound(x)
 

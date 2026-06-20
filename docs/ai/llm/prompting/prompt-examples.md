@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/prompt-examples
 title: Prompt Examples
 description: Discover a versatile collection of prompt examples for education, AI applications, and effective learning tools to enhance your creativity and productivity.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 - [personal-tutor-prompt](education/product-concepts/personal-tutor-prompt.md)
 - [quiz-app-prompt](education/product-concepts/quiz-app-prompt.md)

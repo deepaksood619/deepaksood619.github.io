@@ -3,7 +3,7 @@ slug: /computer-science/testing/postman
 title: "Postman: Mock API Resources"
 description: Explore top mock API servers and resources for testing REST APIs with Postman. Enhance your development workflow effortlessly.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Fake API REST Mocks Server Tests (Mock API)
 

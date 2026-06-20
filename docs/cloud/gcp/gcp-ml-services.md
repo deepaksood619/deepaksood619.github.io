@@ -3,7 +3,7 @@ slug: /cloud/gcp/gcp-ml-services
 title: GCP ML Services
 description: Discover GCP's powerful ML services, including Gemini AI for advanced language tasks and Vertex AI for seamless model building and deployment.
 created: 2024-08-02
-last_update: 2025-11-09
+updated: 2025-11-09
 ---
 ## Gemini AI
 

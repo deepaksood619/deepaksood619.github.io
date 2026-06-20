@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-platform
 title: Confluent Platform Overview
 description: Explore the Confluent Platform, including secrets management, licenses, and quick installation guide for seamless integration.
 created: 2025-12-01
-last_update: 2026-04-21
+updated: 2026-04-21
 ---
 - Confluent Secrets and Identity Management (CSID)
 	- [GitHub - confluentinc/csid-secrets-providers: Enables use of external third-party systems for storing/retrieving key/value pairs with Confluent clusters.](https://github.com/confluentinc/csid-secrets-providers) ⭐ 11

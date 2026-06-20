@@ -3,7 +3,7 @@ slug: /knowledge/biology/heart
 title: Heart
 description: Learn about atherosclerosis, its risks, heart attacks, and sudden cardiac events impacting 1 in 4 individuals in India and the importance of heart health.
 created: 2025-06-22
-last_update: 2025-07-28
+updated: 2025-07-28
 ---
 **Atherosclerosis** is **the buildup of fats, cholesterol and other substances in and on the artery walls**. This buildup is called plaque. The plaque can cause arteries to narrow, blocking blood flow. The plaque also can burst, leading to a blood clot.
 

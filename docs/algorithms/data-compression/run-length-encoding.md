@@ -3,7 +3,7 @@ slug: /algorithms/data-compression/run-length-encoding
 title: Run Length Encoding Explained
 description: Discover the basics of run length encoding, its applications, and a Java implementation for bitmap compression.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/Run-Length-Encoding-image1.jpg)
 

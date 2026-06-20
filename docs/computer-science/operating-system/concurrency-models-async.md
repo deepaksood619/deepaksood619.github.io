@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/concurrency-models-async
 title: Exploring Async Concurrency Models
 description: Discover the differences between single-threaded synchronous and threaded models in asynchronous programming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Single-threaded synchronous model
 

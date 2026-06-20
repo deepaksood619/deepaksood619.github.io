@@ -3,7 +3,7 @@ slug: /languages/frameworks/android/readme
 title: Android
 description: Explore essential Android development topics like Jetpack, Kotlin, services, and testing, plus nocode tools for rapid app creation and database options.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - [jetpack](languages/frameworks/android/jetpack.md)
 - [kotlin](languages/frameworks/android/kotlin.md)

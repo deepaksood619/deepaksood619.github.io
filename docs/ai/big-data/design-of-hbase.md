@@ -3,7 +3,7 @@ slug: /ai/big-data/design-of-hbase
 title: Design of HBase
 description: Discover HBase, the scalable NoSQL database built on Hadoop, featuring a unique architecture, components, and advanced features like auto sharding and cross-datacenter replication.
 created: 2023-03-05
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 1. What is HBase
 2. HBase Architecture

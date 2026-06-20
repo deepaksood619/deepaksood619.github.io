@@ -3,7 +3,7 @@ slug: /mathematics/general/properties
 title: Properties
 description: Explore essential mathematical properties including commutative, associative, and distributive properties to enhance your understanding of addition and multiplication.
 created: 2023-03-05
-last_update: 2024-01-15
+updated: 2024-01-15
 ---
 1. [The Commutative Property of Addition](http://www.coolmath.com/prealgebra/06-properties/01-properties-commutative-addition-01) ( x + y = y + x )
 2. [The Commutative Property of Multiplication](http://www.coolmath.com/prealgebra/06-properties/02-properties-commutative-multiplication-01) ( x *y = y* x )

@@ -3,7 +3,7 @@ slug: /databases-nosql/mongodb/data-types
 title: Data Types
 description: Discover essential data types in MongoDB, including String, Integer, Boolean, Double, Arrays, and more for effective data storage and management.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - **String−** This is the most commonly used datatype to store the data. String in MongoDB must be UTF-8 valid.
 - **Integer−** This type is used to store a numerical value. Integer can be 32 bit or 64 bit depending upon your server.

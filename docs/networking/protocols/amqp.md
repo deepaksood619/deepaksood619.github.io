@@ -3,7 +3,7 @@ slug: /networking/protocols/amqp
 title: Understanding AMQP Protocol Features
 description: Explore the Advanced Message Queuing Protocol (AMQP) and its reliable, secure messaging solutions for enterprise applications.
 created: 2023-03-05
-last_update: 2024-07-30
+updated: 2024-07-30
 ---
 ## Advanced Message Queuing Protocol (AMQP)
 

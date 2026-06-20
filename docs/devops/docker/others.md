@@ -3,7 +3,7 @@ slug: /devops/docker/others
 title: Docker Image Inspection and Logging
 description: Explore Docker images effectively with Dive and configure logging with AWS for optimized performance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Dive
 

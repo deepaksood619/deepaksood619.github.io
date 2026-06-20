@@ -3,7 +3,7 @@ slug: /data-structures/hashtable/bloom-filters
 title: Understanding Bloom Filters
 description: Explore Bloom filters, a space-efficient data structure for probabilistic membership testing with no false negatives.
 created: 2023-03-05
-last_update: 2024-03-03
+updated: 2024-03-03
 ---
 A **Bloom filter** is a space-efficient [probabilistic](https://en.wikipedia.org/wiki/Probabilistic)[data structure](https://en.wikipedia.org/wiki/Data_structure), conceived by [Burton Howard Bloom](https://en.wikipedia.org/w/index.php?title=Burton_Howard_Bloom&action=edit&redlink=1) in 1970, that is **used to test whether an [element](https://en.wikipedia.org/wiki/Element_(mathematics)) is a member of a [set](https://en.wikipedia.org/wiki/Set_(computer_science))**.[False positive](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) matches are possible, but [false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) are not -- in other words, a query returns either "possibly in set" or "definitely not in set". Elements can be added to the set, but not removed (though this can be addressed with a "counting" filter); the more elements that are added to the set, the larger the probability of false positives. So if our design can tolerate false positive then we should consider using bloom filters because it's very space efficient.
 

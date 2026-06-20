@@ -3,7 +3,7 @@ slug: /management/business/business-case-studies
 title: Compelling Business Case Studies
 description: Explore insightful business case studies on brands like Nestle and Indigo to enhance your strategy and marketing effectiveness.
 created: 2023-03-05
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 https://www.youtube.com/c/AdityaSaini1505/videos
 

@@ -3,7 +3,7 @@ slug: /languages/frameworks/others
 title: Others
 description: Explore OpenCL, a versatile framework for programming on heterogeneous platforms, enabling efficient execution on CPUs, GPUs, DSPs, and other hardware accelerators.
 created: 2023-03-05
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 ## OpenCL
 

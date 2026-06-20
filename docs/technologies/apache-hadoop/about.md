@@ -3,7 +3,7 @@ slug: /technologies/apache-hadoop/about
 title: Introduction to Apache Hadoop
 description: Explore Apache Hadoop's architecture, including HDFS, MapReduce, and YARN, for efficient large data processing and storage.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 - MapReduce API (Processing large parallel data)
 - MapReduce job management

@@ -3,7 +3,7 @@ slug: /python/python-intro/resources
 title: Essential Python Resources for Beginners
 description: Explore a curated list of invaluable resources, tutorials, and documentation to kickstart your Python programming journey.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Getting started
 

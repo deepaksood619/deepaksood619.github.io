@@ -3,7 +3,7 @@ slug: /languages/sql/dql-data-query-language/aggregation-queries
 title: Aggregation Queries
 description: Learn how to use aggregation queries in SQL, including AVG, COUNT, MAX, and MIN, to effectively analyze and summarize your data.
 created: 2023-05-28
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ### AVG
 

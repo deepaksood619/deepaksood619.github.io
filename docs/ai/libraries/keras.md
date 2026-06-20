@@ -3,7 +3,7 @@ slug: /ai/libraries/keras
 title: Keras
 description: Keras 3 is a versatile deep learning framework enabling fast model development and state-of-the-art performance with JAX, TensorFlow, and PyTorch for diverse applications.
 created: 2024-09-18
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 Keras 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, and PyTorch. Effortlessly build and train models for computer vision, natural language processing, audio processing, timeseries forecasting, recommender systems, etc.
 

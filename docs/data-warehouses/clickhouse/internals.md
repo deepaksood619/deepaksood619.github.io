@@ -3,7 +3,7 @@ slug: /data-warehouses/clickhouse/internals
 title: Understanding ClickHouse Internals
 description: Explore ClickHouse internals, including fast performance, sharding, replication, and key features for modern SQL in 2023.
 created: 2025-05-16
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Internals
 

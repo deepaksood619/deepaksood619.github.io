@@ -3,7 +3,7 @@ slug: /technologies/others/readme
 title: Other Technologies Overview
 description: Explore various technologies such as N8N, Presto, and IoT solutions in our comprehensive list of resources.
 created: 2023-03-05
-last_update: 2025-07-03
+updated: 2025-07-03
 ---
 - [N8N](technologies/others/n8n.md)
 - [Presto](presto)

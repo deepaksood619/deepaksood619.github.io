@@ -3,7 +3,7 @@ slug: /devops/monitoring/grafana
 title: "Grafana: Open Source Analytics"
 description: Explore Grafana, the powerful open source platform for beautiful analytics, featuring 40 data sources, 28 panels, and extensive dashboards.
 created: 2023-03-05
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 The open platform for beautiful analytics and monitoring (open source software for time series analytics) (Expression browser)
 

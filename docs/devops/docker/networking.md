@@ -3,7 +3,7 @@ slug: /devops/docker/networking
 title: Understanding Docker Networking Basics
 description: Explore the Container Networking Model and Docker's native network drivers for enhanced application portability.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Container Networking Model CNM
 

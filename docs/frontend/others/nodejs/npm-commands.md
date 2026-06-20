@@ -3,7 +3,7 @@ slug: /frontend/others/nodejs/npm-commands
 title: Essential NPM Commands Guide
 description: Discover key NPM commands for managing dependencies, troubleshooting errors, and running packages effectively.
 created: 2023-03-05
-last_update: 2024-11-28
+updated: 2024-11-28
 ---
 npx - npm package runner
 

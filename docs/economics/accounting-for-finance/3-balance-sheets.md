@@ -3,7 +3,7 @@ slug: /economics/accounting-for-finance/3-balance-sheets
 title: 3 Balance Sheets
 description: Explore the three perspectives of balance sheets: capital investment, current value, and liquidation value, to enhance your financial understanding.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Balance Sheets - Assets Owned & Money Owed
 

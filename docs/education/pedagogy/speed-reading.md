@@ -3,7 +3,7 @@ slug: /education/pedagogy/speed-reading
 title: Mastering Speed Reading Techniques
 description: Unlock your reading potential with effective speed reading techniques to improve comprehension and efficiency.
 created: 2023-03-05
-last_update: 2026-05-05
+updated: 2026-05-05
 ---
 Read to Lead
 

@@ -3,7 +3,7 @@ slug: /networking/protocols/udp
 title: Understanding User Datagram Protocol (UDP)
 description: Explore the User Datagram Protocol (UDP), its design, and its role in facilitating efficient message transmission in computer networking.
 created: 2023-03-05
-last_update: 2023-05-03
+updated: 2023-05-03
 ---
 In [computer networking](https://en.wikipedia.org/wiki/Computer_network), theUser Datagram Protocol(UDP) is one of the core members of the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite). The protocol was designed by [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed) in 1980 and formally defined in [RFC](https://en.wikipedia.org/wiki/Request_for_Comments_(identifier)) [768](https://tools.ietf.org/html/rfc768). With UDP, computer applications can send messages, in this case referred to as [datagrams](https://en.wikipedia.org/wiki/Datagram), to other hosts on an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)(IP) network. Prior communications are not required in order to set up [communication channels](https://en.wikipedia.org/wiki/Communication_channel) or data paths.
 

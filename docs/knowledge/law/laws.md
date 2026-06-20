@@ -3,7 +3,7 @@ slug: /knowledge/law/laws
 title: Laws
 description: Explore the impact of unnecessary laws on entrepreneurship in India, and understand key legal concepts like indemnification and contract term variations.
 created: 2023-03-05
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## Thoughts
 

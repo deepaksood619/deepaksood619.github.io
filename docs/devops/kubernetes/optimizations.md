@@ -3,7 +3,7 @@ slug: /devops/kubernetes/optimizations
 title: Kubernetes System Optimizations
 description: Learn effective resource reservation and network stack optimization techniques for optimizing Kubernetes system performance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Reserving Resources For The System and Kubelet
 

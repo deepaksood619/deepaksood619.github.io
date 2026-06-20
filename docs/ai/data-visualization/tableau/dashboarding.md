@@ -3,7 +3,7 @@ slug: /ai/data-visualization/tableau/dashboarding
 title: Dashboarding
 description: Learn how to effectively change date range filters in Tableau dashboards, including managing dimension and measure filters for better data visualization.
 created: 2023-08-11
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ### Changing Time from Date Range Filter
 

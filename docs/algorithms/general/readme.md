@@ -3,7 +3,7 @@ slug: /algorithms/general/readme
 title: Comprehensive Guide to Algorithms
 description: Explore a variety of algorithms, from basic concepts to advanced techniques, including sorting, searching, and optimization strategies.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Algo + DS](algo-ds)
 - [Types of Algorithms](types-of-algorithms)

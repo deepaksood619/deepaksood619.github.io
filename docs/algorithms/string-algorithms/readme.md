@@ -3,7 +3,7 @@ slug: /algorithms/string-algorithms/readme
 title: Comprehensive Guide to String Algorithms
 description: Explore various string algorithms, including Knuth-Morris-Pratt, Boyer-Moore, and Rabin Karp, to enhance your coding skills.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Intro](algorithms/string-algorithms/intro.md)
 - [Substring Search Intro](substring-search-intro)

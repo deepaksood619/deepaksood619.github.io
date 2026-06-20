@@ -3,7 +3,7 @@ slug: /computer-science/system-design/message-queues
 title: Evolution of Message Queues
 description: Explore the evolution of message queue architectures from IBM MQ to RabbitMQ, Kafka, and Pulsar.
 created: 2023-12-28
-last_update: 2025-11-05
+updated: 2025-11-05
 ---
 `IBM MQ -> RabbitMQ -> Kafka -> Pulsar`, How do message queue architectures evolve?
 

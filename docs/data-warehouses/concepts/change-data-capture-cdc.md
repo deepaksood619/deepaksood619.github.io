@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/change-data-capture-cdc
 title: Understanding Change Data Capture (CDC)
 description: Explore Change Data Capture (CDC) techniques for tracking data changes in various database systems and enhancing data integration.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 In [databases](https://en.wikipedia.org/wiki/Database), change data capture(CDC) is a set of software [design patterns](https://en.wikipedia.org/wiki/Design_pattern_(computer_science)) used to determine (and track) the data that has changed so that action can be taken using the changed data. CDC is also an approach to data integration that is based on the identification, capture and delivery of the changes made to enterprise data sources.
 

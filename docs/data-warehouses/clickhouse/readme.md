@@ -3,7 +3,7 @@ slug: /data-warehouses/clickhouse/readme
 title: Comprehensive Guide to ClickHouse
 description: Explore ClickHouse with in-depth resources on architecture, table engines, queries, and more in this complete guide.
 created: 2025-06-10
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - [Intro](data-warehouses/clickhouse/intro.md)
 - [Internals](data-warehouses/clickhouse/internals.md)

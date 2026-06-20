@@ -3,7 +3,7 @@ slug: /knowledge/biology/exercise-stretching/gym-routine
 title: Gym Routine
 description: Discover an effective gym routine with targeted workouts for every muscle group, including tips and a detailed split schedule for optimal results.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Tips
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/52-pull-request-risk-tagging-heuristics
 title: AI Model for Pull Request Risk Tagging
 description: Discover key heuristics for creating an AI model that assesses code change risks and generates accurate risk tags.
 created: 2024-07-17
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 ## What are all the heuristics that can be used to create a AI model that can create a "change risk tag" if the code changes is risky or not
 

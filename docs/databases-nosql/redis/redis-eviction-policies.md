@@ -3,7 +3,7 @@ slug: /databases-nosql/redis/redis-eviction-policies
 title: Redis Eviction Policies
 description: Discover Redis eviction policies like noeviction, allkeys-lru, and volatile-lru to manage memory effectively and optimize cache performance.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 **Cache Eviction Policies**
 

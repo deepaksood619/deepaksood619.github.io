@@ -3,7 +3,7 @@ slug: /education/pedagogy/learning-styles
 title: Debunking Learning Styles in EdTech
 description: Explore evidence-based behavioral archetypes for effective EdTech product design, moving beyond traditional sensory-based learning models.
 created: 2025-02-27
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 > **Research synthesis for EdTech product design.** Traditional sensory-based learning style models are largely debunked neuromyths. Modern cognitive science replaces them with behavioral archetypes — dynamic, context-dependent patterns of how skilled adult learners approach complex material.
 

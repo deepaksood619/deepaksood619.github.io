@@ -3,7 +3,7 @@ slug: /devops/docker/dockerfile-example
 title: Sample Dockerfile for Python Projects
 description: Learn to create a Dockerfile for Python applications with our detailed example and best practices for efficient containerization.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [GitHub - irbigdata/data-dockerfiles: a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.](https://github.com/irbigdata/data-dockerfiles) ⭐ 584
 

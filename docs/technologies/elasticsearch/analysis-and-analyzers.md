@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/analysis-and-analyzers
 title: Understanding Analysis and Analyzers
 description: Explore the process of analysis, from tokenization to normalization, and learn how analyzers optimize text for improved searchability.
 created: 2023-03-05
-last_update: 2024-11-29
+updated: 2024-11-29
 ---
 Analysis is a process that consists of the following:
 

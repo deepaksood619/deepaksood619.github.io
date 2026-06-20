@@ -3,7 +3,7 @@ slug: /mathematics/geometry/transformations
 title: Transformations
 description: Explore rigid transformations in geometry, including translations, rotations, reflections, and dilations, to enhance your understanding of spatial relationships.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 [Introduction to rigid transformations:Transformations](https://www.khanacademy.org/math/geometry/hs-geo-transformations#hs-geo-transformations-intro)
 

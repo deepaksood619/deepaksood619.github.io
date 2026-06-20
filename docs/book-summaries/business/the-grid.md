@@ -3,7 +3,7 @@ slug: /book-summaries/business/the-grid
 title: The Grid
 description: Discover how treating your business holistically enhances desirability, profitability, and longevity while adapting to ever-changing markets and customer needs.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Matt Watkinson
 

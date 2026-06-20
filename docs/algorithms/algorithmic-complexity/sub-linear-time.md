@@ -3,7 +3,7 @@ slug: /algorithms/algorithmic-complexity/sub-linear-time
 title: Understanding Sub-Linear Time Algorithms
 description: Explore sub-linear time algorithms, their characteristics, and how they efficiently process data without examining the entire input.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 An algorithm is said to run in**sub-linear time**(often spelled**sublinear time**) if*T*(*n*) = o(*n*) (small oh)
 

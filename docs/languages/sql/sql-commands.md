@@ -3,7 +3,7 @@ slug: /languages/sql/sql-commands
 title: SQL Commands
 description: Explore essential SQL commands, including DDL, DQL, DML, DCL, and TCL, to effectively manage and query your databases.
 created: 2023-03-05
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ## Types
 

@@ -3,7 +3,7 @@ slug: /management/product-analytics/marketing-mix-modeling-MMM
 title: Marketing Mix Modeling Explained
 description: Discover how marketing mix modeling (MMM) analyzes data to enhance media performance, optimize plans, and maximize ROI.
 created: 2025-01-08
-last_update: 2025-02-27
+updated: 2025-02-27
 ---
 Marketing mix modeling (MMM) is a statistical analysis technique that uses sales and marketing data to measure the impact of marketing activities on sales. It's a data-driven tool that helps marketers:
 

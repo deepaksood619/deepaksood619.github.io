@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/generative-adversarial-networks-gans
 title: Generative Adversarial Networks (GANs)
 description: Discover how Generative Adversarial Networks (GANs) utilize two neural networks to create realistic data by transforming random noise into lifelike images.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://www.toptal.com/machine-learning/generative-adversarial-networks
 

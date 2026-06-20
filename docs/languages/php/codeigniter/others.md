@@ -3,7 +3,7 @@ slug: /languages/php/codeigniter/others
 title: Others
 description: Explore essential logging practices in PHP, covering error management and event tracking to enhance application performance and debugging efficiency.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Logging
 

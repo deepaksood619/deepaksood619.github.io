@@ -3,7 +3,7 @@ slug: /computer-science/others/bioinformatics-biotechnology
 title: Exploring Bioinformatics and Biotechnology
 description: Discover the Protein Data Bank (PDB) and RCSB's role in structural bioinformatics and large biological molecule research.
 created: 2023-03-05
-last_update: 2024-07-22
+updated: 2024-07-22
 ---
 ## PDB - Protein Data Bank
 

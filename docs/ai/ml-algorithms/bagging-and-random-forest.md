@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/bagging-and-random-forest
 title: Bagging and Random Forest
 description: Discover how Bagging and Random Forest enhance machine learning accuracy by using ensemble methods to improve predictions through multiple decision trees.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Random Forest is one of the most popular machine learning algorithms. It is a type of ensemble machine learning algorithm called Bootstrap Aggregation or bagging.
 

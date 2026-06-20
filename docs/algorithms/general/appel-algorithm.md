@@ -3,7 +3,7 @@ slug: /algorithms/general/appel-algorithm
 title: Appel's Algorithm for N-Body Simulation
 description: Explore Appel's Algorithm, a method for efficiently simulating N-body interactions using a tree structure for improved computational speed.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Appel's algorithm for N-body simulation
 

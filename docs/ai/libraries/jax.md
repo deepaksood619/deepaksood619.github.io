@@ -3,7 +3,7 @@ slug: /ai/libraries/jax
 title: JAX
 description: Discover JAX, the powerful Python library that combines NumPy-like array computations with JIT compilation and automatic differentiation for high-performance machine learning.
 created: 2024-09-19
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - J - Just-in-time
 - A - Autograd

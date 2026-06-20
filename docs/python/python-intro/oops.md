@@ -3,7 +3,7 @@ slug: /python/python-intro/oops
 title: Understanding OOP in Python
 description: Explore the major principles of object-oriented programming in Python, including encapsulation, inheritance, and polymorphism.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 In Python, everything is an object, and can be handled as such. This is what is meant when we say, for example, that functions are first-class objects. Functions, classes, strings, and even types are objects in Python: like any object, they have a type, they can be passed as function arguments, and they may have methods and properties. In this understanding, Python is an object-oriented language.
 

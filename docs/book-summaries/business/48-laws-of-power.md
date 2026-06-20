@@ -3,7 +3,7 @@ slug: /book-summaries/business/48-laws-of-power
 title: 48 Laws of Power
 description: Discover the 48 Laws of Power by Robert Greene, offering strategies on mastering influence and navigating the complexities of power dynamics effectively.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Robert Greene
 

@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/concepts
 title: Understanding Processes and Management
 description: Explore the concept of processes in execution, including stack, heap, text, and data sections essential for program management.
 created: 2023-03-05
-last_update: 2024-08-23
+updated: 2024-08-23
 ---
 ## Processes and Process Management
 

@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/key-indexed-counting
 title: Key-Indexed Counting Algorithm Explained
 description: Discover the key-indexed counting algorithm, its properties, applications, and how it efficiently sorts data with integer keys.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Proporties
 

@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/intro
 title: Nutrition
 description: Explore evidence-based nutrition and biohacking to understand essential nutrients for survival, growth, and reproduction in all living organisms.
 created: 2023-03-05
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 Biohacking
 

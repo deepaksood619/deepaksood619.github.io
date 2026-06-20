@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/gtid-replication
 title: GTID Replication
 description: Discover how GTID replication simplifies transaction tracking, ensures server consistency, and streamlines replica management without relying on log files.
 created: 2024-05-04
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 When using GTIDs, each transaction can be identified and tracked as it is committed on the originating server and applied by any replicas; this means that it is not necessary when using GTIDs to refer to log files or positions within those files when starting a new replica or failing over to a new source, which greatly simplifies these tasks. Because GTID-based replication is completely transaction-based, it is simple to determine whether sources and replicas are consistent; as long as all transactions committed on a source are also committed on a replica, consistency between the two is guaranteed. You can use either statement-based or row-based replication with GTIDs (see [Section 16.2.1, "Replication Formats"](https://dev.mysql.com/doc/refman/5.7/en/replication-formats.html "16.2.1 Replication Formats")); however, for best results, we recommend that you use the row-based format.
 

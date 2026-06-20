@@ -3,7 +3,7 @@ slug: /readme
 title: Deepak's Personal Knowledge Wiki
 description: Explore Deepak's personal wiki for notes, insights, and curated must-read pages on a variety of topics.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 This is my personal wiki where I share everything I know about this world in form of an online wiki.
 

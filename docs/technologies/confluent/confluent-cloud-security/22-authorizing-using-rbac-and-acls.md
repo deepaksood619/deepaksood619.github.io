@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-security/22-authorizing-using-rbac
 title: RBAC and ACLs Authorization Explained
 description: Learn how to effectively manage user access in Confluent Cloud using RBAC and ACLs for enhanced security and efficiency.
 created: 2025-12-10
-last_update: 2026-03-09
+updated: 2026-03-09
 ---
 Your identities will need access to Confluent Cloud, whether it is to create applications or send and receive data. Allowing them to access your cluster as easily as possible is important to how well your business runs. At the same time, your access model needs to be structured in a way where you can easily add, remove, change, and verify permissions.
 

@@ -3,7 +3,7 @@ slug: /algorithms/string-algorithms/intro
 title: Understanding Subarrays and Subsequences
 description: Explore the key differences between subarrays and subsequences with examples and mathematical insights.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Subarray/substring
 

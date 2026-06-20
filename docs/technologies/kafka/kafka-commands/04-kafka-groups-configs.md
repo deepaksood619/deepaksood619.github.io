@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-commands/04-kafka-groups-configs
 title: Kafka Consumer Group Management
 description: Discover essential Kafka group configurations for managing consumer offsets and enhancing cluster performance.
 created: 2026-03-21
-last_update: 2026-03-25
+updated: 2026-03-25
 ---
 This module focuses on the administrative side of Kafka: managing consumer group offsets, broker/topic configurations, and cluster-wide security and maintenance.
 

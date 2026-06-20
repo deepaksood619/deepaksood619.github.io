@@ -3,7 +3,7 @@ slug: /computer-science/distributed-system/consistency
 title: Understanding Consistency in Distributed Systems
 description: Explore the concept of consistency in distributed systems and learn about different consistency levels to manage data effectively.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 When we're talking about *consistency* in distributed systems, we are referring to the concept that you will have some data distributed in different nodes of your system, and each one of those might have a copy of your data. If it's a read-only dataset, any client connecting to any of the nodes will always receive the same data, so there is no consistency problem. When it comes to read-write datasets, some conflicts can arise. Each one of the nodes can update its own copy of the data, so if a client connects to different nodes in your system, it might receive different values for the same data.
 

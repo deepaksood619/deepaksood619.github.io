@@ -3,7 +3,7 @@ slug: /python/django/others
 title: Using Fixtures and PostgreSQL ModelFields
 description: Learn how to pre-populate your Django database with fixtures and explore PostgreSQL-specific ModelFields for enhanced data management.
 created: 2023-03-05
-last_update: 2025-04-20
+updated: 2025-04-20
 ---
 ## Fixtures
 

@@ -3,7 +3,7 @@ slug: /psychology/stoicism
 title: Stoicism
 description: Explore Stoicism's key principles, like premeditatio malorum, to embrace resilience, overcome fears, and find happiness in the journey of life.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 [How to be a stoic](book-summaries/philosophy-relationships/how-to-be-a-stoic.md)
 

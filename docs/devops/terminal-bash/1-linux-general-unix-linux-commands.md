@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/1-linux-general-unix-linux-commands
 title: Essential Linux/Unix Commands Guide
 description: Master essential Linux and Unix commands for file management, SSH connections, and more with our comprehensive guide.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## Display
 

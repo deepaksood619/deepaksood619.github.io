@@ -3,7 +3,7 @@ slug: /python/others/pymysql
 title: Introduction to PyMySQL
 description: Learn to connect and interact with MySQL databases using PyMySQL. Get installation and usage instructions to get started.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 https://github.com/PyMySQL/PyMySQL
 

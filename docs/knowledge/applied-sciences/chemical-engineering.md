@@ -3,7 +3,7 @@ slug: /knowledge/applied-sciences/chemical-engineering
 title: Chemical Engineering
 description: Explore the diverse field of chemical engineering, focusing on processes like polymerization, cracking, and renewable biomass for efficient chemical manufacturing.
 created: 2023-03-05
-last_update: 2024-03-12
+updated: 2024-03-12
 ---
 ## Chemical Engineering
 

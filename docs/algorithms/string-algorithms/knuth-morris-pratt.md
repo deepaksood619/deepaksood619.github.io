@@ -3,7 +3,7 @@ slug: /algorithms/string-algorithms/knuth-morris-pratt
 title: Understanding Knuth-Morris-Pratt Algorithm
 description: Explore the Knuth-Morris-Pratt algorithm, its applications, and how it optimizes string matching with efficient searching techniques.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/Knuth-Morris-Pratt-image1.jpg)
 

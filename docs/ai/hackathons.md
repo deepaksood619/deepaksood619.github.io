@@ -3,7 +3,7 @@ slug: /ai/hackathons
 title: Hackathons
 description: Join our hackathon to innovate automated root cause analysis solutions using machine learning for faster IT incident resolution and improved workflows.
 created: 2024-02-03
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Hackathon Problem Statement: Automated Root Cause Analysis with LLM
 

@@ -3,7 +3,7 @@ slug: /technologies/celery/workers
 title: Understanding Celery Workers
 description: Learn how Celery workers manage task execution pools for optimal performance and concurrency in task processing.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 ## The Celery worker
 

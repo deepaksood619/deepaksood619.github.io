@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/logistic-regression
 title: Logistic regression
 description: Discover logistic regression, a key machine learning technique for binary classification, utilizing the logistic function to transform outputs between 0 and 1.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Logistic regression is another technique borrowed by machine learning from the field of statistics. It is the go-to method for **binary classification problems** (problems with two class values).
 

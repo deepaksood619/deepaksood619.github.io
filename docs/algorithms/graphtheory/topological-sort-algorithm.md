@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/topological-sort-algorithm
 title: Understanding Topological Sort Algorithm
 description: Explore the topological sort algorithm for acyclic edge-weighted digraphs and its application in precedence scheduling for efficient task management.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Acyclic Edge Weighted Digraphs
 

@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/disk-io
 title: Understanding Disk IO Operations
 description: Explore essential disk IO system calls and functions, including standard, vectored, and memory-mapped IO for efficient data handling.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## IO
 

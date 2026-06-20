@@ -3,7 +3,7 @@ slug: /databases-nosql/redis/intro
 title: Redis
 description: Discover Redis, the fast, open-source in-memory data store that functions as a database, cache, and message broker, supporting diverse data structures and high availability.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Redis (Remote Dictionary Service)
 

@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/elasticsearch-the-definitive-guide
 title: "Elasticsearch Explained: A Comprehensive Guide"
 description: Discover Elasticsearch, a powerful search and analytics engine, enabling scalable, real-time data exploration and analysis for effective insights.
 created: 2023-03-05
-last_update: 2024-11-29
+updated: 2024-11-29
 ---
 Elasticsearch is a distributed, scalable, real-time search and analytics engine. It enables you to search, analyze, and explore your data. It exists because raw data sitting on a hard drive is just not useful.
 

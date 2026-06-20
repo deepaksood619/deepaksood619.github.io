@@ -3,7 +3,7 @@ slug: /technologies/apache-airflow/parallelism
 title: Understanding Parallelism in Airflow
 description: Explore the configuration options for parallelism in Airflow v1.10.2, including per-DAG settings for concurrency and active runs.
 created: 2024-03-21
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Here's an expanded list of configuration options that are available since Airflow v1.10.2. Some can be set on a per-DAG or per-operator basis, but may also fall back to the setup-wide defaults when they are not specified.
 

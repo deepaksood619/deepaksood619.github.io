@@ -3,7 +3,7 @@ slug: /frontend/others/nextjs/data-fetching
 title: Data Fetching in Next.js 13
 description: Explore data fetching techniques in Next.js 13, including SSR, SSG, CSR, and ISR with the new app/ directory and React's use hook.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 **Note**: Next.js 13 introduces the `app/` directory (beta). This new directory has support for [colocated data fetching](https://beta.nextjs.org/docs/data-fetching/fundamentals) at the component level, using the new React `use` hook and an extended `fetch` Web API.
 

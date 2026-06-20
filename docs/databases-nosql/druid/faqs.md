@@ -3,7 +3,7 @@ slug: /databases-nosql/druid/faqs
 title: FAQs
 description: Discover Apache Druid's unique capabilities as a real-time analytics database and find out when to choose it over traditional data warehouses like Redshift and Snowflake.
 created: 2023-11-24
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 [Frequently Asked Questions | Apache Druid](https://druid.apache.org/faq/)
 

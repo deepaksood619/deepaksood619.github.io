@@ -3,7 +3,7 @@ slug: /data-warehouses/clickhouse/data-storage
 title: Understanding Data Storage Techniques
 description: Learn how data parts are organized and stored efficiently in tables, using primary keys and formatted for optimal performance.
 created: 2025-05-16
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 A table consists of data parts sorted by primary key.
 

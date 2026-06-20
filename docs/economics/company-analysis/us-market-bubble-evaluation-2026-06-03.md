@@ -3,7 +3,7 @@ slug: /economics/company-analysis/us-market-bubble-evaluation-2026-06-03
 title: US Market Bubble Evaluation June 2026
 description: Assessing the US market's caution phase with medium risk; major indicators signal potential corrections ahead.
 created: 2026-06-04
-last_update: 2026-06-06
+updated: 2026-06-06
 ---
 **Evaluation Date:** June 3, 2026
 **Framework Version:** US Market Bubble Detector v2.1

@@ -3,7 +3,7 @@ slug: /mathematics/algebra/others
 title: Others
 description: Discover the key concepts of slope, x-intercept, and y-intercept, essential for understanding line equations in algebra.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Slope
 

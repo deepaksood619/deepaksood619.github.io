@@ -3,7 +3,7 @@ slug: /knowledge/geography/wildlife
 title: Wildlife
 description: Explore the IUCN Red List of Threatened Species, detailing conservation statuses, extinct species, and critical classifications for global wildlife preservation.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## IUCN Red List of Threatened Species
 

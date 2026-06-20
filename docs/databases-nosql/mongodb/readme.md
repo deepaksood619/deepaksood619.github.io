@@ -3,7 +3,7 @@ slug: /databases-nosql/mongodb/readme
 title: MongoDB
 description: Discover MongoDB with in-depth resources on indexing, data types, sharding, replication, commands, and more for efficient NoSQL database management.
 created: 2025-06-10
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - [MongoDB Intro](databases-nosql/mongodb/intro.md)
 - [Overview](databases-nosql/mongodb/overview.md)

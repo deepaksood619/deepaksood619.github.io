@@ -3,7 +3,7 @@ slug: /psychology/consumerism
 title: Consumerism
 description: Explore consumerism's impact on happiness, desire vs. need, and anti-consumerism alternatives like asceticism and affluenza in today's society.
 created: 2023-07-21
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 Spending money not equal to happiness
 

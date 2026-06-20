@@ -3,7 +3,7 @@ slug: /algorithms/algorithmic-complexity/time-complexities
 title: Understanding Time Complexities in Algorithms
 description: Explore Big O notation and learn how to evaluate algorithm performance based on time complexities for efficient programming.
 created: 2023-03-05
-last_update: 2024-10-11
+updated: 2024-10-11
 ---
 [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)
 

@@ -3,7 +3,7 @@ slug: /databases-nosql/vector-databases/indexing
 title: Indexing
 description: Discover indexing techniques like HNSW, IVF, and PQ for efficient approximate nearest neighbor search in vector databases, balancing speed, memory, and accuracy.
 created: 2025-06-23
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 HNSW, IVF, and PQ are all Indexing techniques used in approximate nearest neighbor (ANN) search, often within vector databases like Milvus. HNSW (Hierarchical Navigable Small World graph) excels at speed and recall but uses more memory. **IVF (Inverted File)** is efficient for clustered data and faster queries but can be less precise. **PQ (Product Quantization)** is memory-efficient and fast but may reduce accuracy due to compression. Combining these techniques, like IVF-PQ and HNSW-PQ, is common to balance speed, memory, and accuracy.
 

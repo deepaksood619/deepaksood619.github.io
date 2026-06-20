@@ -3,7 +3,7 @@ slug: /knowledge/applied-sciences/others-power-energy
 title: Others / Power / Energy
 description: Explore energy independence solutions, comparing solar in hot climates to geothermal and solar in cold regions, plus insights on nuclear safety with core catchers.
 created: 2023-03-05
-last_update: 2026-06-07
+updated: 2026-06-07
 ---
 ## Usage
 

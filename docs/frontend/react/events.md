@@ -3,7 +3,7 @@ slug: /frontend/react/events
 title: Understanding Synthetic Events in React
 description: Explore how React handles events with SyntheticEvent, ensuring consistent behavior across browsers for various event types.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Your event handlers will be passed instances ofSyntheticEvent, a cross-browser wrapper around the browser's native event. It has the same interface as the browser's native event, includingstopPropagation()andpreventDefault(), except the events work identically across all browsers.
 

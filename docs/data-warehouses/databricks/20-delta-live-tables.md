@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/20-delta-live-tables
 title: Delta Live Tables Overview
 description: Discover Delta Live Tables, a framework for building reliable data processing pipelines with automated orchestration and data quality management.
 created: 2023-03-20
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 Delta Live Tables is a declarative framework for building reliable, maintainable, and testable data processing pipelines. You define the transformations to perform on your data and Delta Live Tables manages task orchestration, cluster management, monitoring, data quality, and error handling.
 

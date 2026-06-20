@@ -3,7 +3,7 @@ slug: /devops/devops-intro/infra-as-code-iac
 title: Understanding Infrastructure as Code
 description: Explore Infrastructure as Code (IaC) and its benefits for managing and tracking infrastructure configurations efficiently.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 Infrastructure as Code (IaC) is a paradigm that manages and tracks infrastructure configuration in files rather than manually or graphical user interfaces. This allows for more scalable infrastructure configuration and more importantly allows for transparent tracking of changes through usually versioning system
 

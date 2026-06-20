@@ -3,7 +3,7 @@ slug: /ai/model-evaluation/model-validation-monitoring
 title: Model Validation / Monitoring
 description: Ensure robust model performance with comprehensive validation techniques, including in-time and out-of-time validation, for accurate predictions on unseen data.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ### Poor model performance on unseen data
 

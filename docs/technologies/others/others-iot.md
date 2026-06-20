@@ -3,7 +3,7 @@ slug: /technologies/others/others-iot
 title: IoT Platforms Overview
 description: Explore secure and scalable IoT platforms like Mainflux, ThingsBoard, and Eclipse Hono for developing intelligent solutions.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## MainFlux
 

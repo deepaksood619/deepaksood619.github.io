@@ -3,7 +3,7 @@ slug: /knowledge/language/general
 title: General
 description: Discover the CEFR framework that standardizes language learning, teaching, and assessment across Europe, enhancing foreign language education globally.
 created: 2023-03-05
-last_update: 2025-06-17
+updated: 2025-06-17
 ---
 ## Subject Object Verbs
 

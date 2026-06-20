@@ -3,7 +3,7 @@ slug: /data-structures/linear-data-structure/problems
 title: "Solving Common Coding Problems: Anagrams, Array Pairs, and Missing Elements"
 description: Explore efficient solutions for anagrams, unique array pairs summing to k, and finding missing elements in integer arrays.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Anagrams (ABC, CBA are anagrams of each other)
 

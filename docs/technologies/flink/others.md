@@ -3,7 +3,7 @@ slug: /technologies/flink/others
 title: Amazon Managed Service for Apache Flink
 description: Leverage Amazon Managed Service for Apache Flink to efficiently process and analyze streaming data with Java, Scala, Python, or SQL.
 created: 2025-12-15
-last_update: 2025-12-15
+updated: 2025-12-15
 ---
 ## Amazon Managed Service for Apache Flink
 

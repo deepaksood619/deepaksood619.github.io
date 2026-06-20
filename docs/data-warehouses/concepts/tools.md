@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/tools
 title: Informatica PowerCenter and IICS Tools
 description: Explore Informatica PowerCenter and IICS for efficient data extraction, transformation, and loading across various systems and cloud platforms.
 created: 2024-01-24
-last_update: 2025-10-12
+updated: 2025-10-12
 ---
 ## Informatica PowerCenter / IICS
 

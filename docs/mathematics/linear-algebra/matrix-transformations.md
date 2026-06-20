@@ -3,7 +3,7 @@ slug: /mathematics/linear-algebra/matrix-transformations
 title: Matrix Transformations
 description: Explore matrix transformations, covering linear functions, examples, multiplication, inverses, and determinants for a comprehensive understanding of linear algebra.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 1. [Functions and linear transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations#linear-transformations)
 

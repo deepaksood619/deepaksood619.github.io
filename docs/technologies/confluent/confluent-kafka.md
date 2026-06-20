@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-kafka
 title: "Confluent Kafka: Streaming Data Governance"
 description: Explore Confluent Kafka's stream governance, quality, and differences with open source Kafka for effective data management.
 created: 2025-12-01
-last_update: 2026-05-30
+updated: 2026-05-30
 ---
 [Streaming Data Governance \| Understanding the Confluent Cloud Stream Governance Platform - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1sKNegs6Y8m92PRoYrcQzm)
 

@@ -3,7 +3,7 @@ slug: /frontend/js-javascript/web-api
 title: Understanding Web APIs in JavaScript
 description: Explore how Web APIs enhance client-side JavaScript functionality with simplified syntax and access to browser features.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Application Programming Interfaces (APIs) are constructs made available in programming languages to allow developers to create complex functionality more easily. They abstract more complex code away from you, providing some easier syntax to use in its place.
 

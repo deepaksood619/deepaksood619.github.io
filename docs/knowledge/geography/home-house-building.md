@@ -3,7 +3,7 @@ slug: /knowledge/geography/home-house-building
 title: Home / House Building
 description: Explore essential tips for house building, including architecture, safety features, and luxury home options to create your dream living space.
 created: 2024-06-29
-last_update: 2026-06-03
+updated: 2026-06-03
 ---
 - [living](knowledge/geography/living.md)
 - [new-home-place-house](knowledge/geography/new-home-place-house.md)

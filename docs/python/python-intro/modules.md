@@ -3,7 +3,7 @@ slug: /python/python-intro/modules
 title: Understanding Python Modules
 description: Learn about Python modules, their structure, and how to effectively use them for organizing code and functions.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 A module is a file containing Python definitions and statements. The file name is the module name with the suffix.pyappended. Within a module, the module's name (as a string) is available as the value of the global variable `__name__`.
 

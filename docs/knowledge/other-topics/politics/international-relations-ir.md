@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/politics/international-relations-ir
 title: International Relations IR
 description: Explore key concepts of international relations, including diplomacy, power dynamics, and the importance of strategic interests in a changing world order.
 created: 2023-03-05
-last_update: 2025-03-14
+updated: 2025-03-14
 ---
 In international relations there are no permanent friends or enemies only permanent interests
 

@@ -3,7 +3,7 @@ slug: /technologies/flink/intro
 title: Introduction to Apache Flink
 description: Discover Apache Flink's stream-first approach for processing batches and streams using the Kappa architecture. Learn how it simplifies stream processing.
 created: 2025-12-15
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Apache Flink is a stream processing framework that can also handle batch tasks. It considers batches to simply be data streams with finite boundaries, and thus treats batch processing as a subset of stream processing. This stream-first approach to all processing has a number of interesting side effects.
 

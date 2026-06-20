@@ -3,7 +3,7 @@ slug: /ai/data-visualization/tableau/augmented-analytics
 title: Augmented Analytics
 description: Explore augmented analytics powered by AI and ML to enhance data interaction, drive insights, and empower informed decisions across your organization.
 created: 2023-07-13
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 [Augmented analytics](https://www.tableau.com/learn/articles/augmented-analytics) is a class of analytics powered by artificial intelligence (AI) and machine learning (ML) that expands a human’s ability to interact with data at a contextual level. We use AI to make analytics accessible so that more people can confidently explore and interact with data to drive meaningful decisions. From automated modeling to guided natural language queries, our augmented analytics capabilities are powerful and trusted to help organizations leverage their growing amount of data and empower a wider business audience to discover insights.
 

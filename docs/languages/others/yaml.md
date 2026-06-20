@@ -3,7 +3,7 @@ slug: /languages/others/yaml
 title: Yaml
 description: Discover YAML, a human-friendly data serialization language that easily integrates with multiple programming languages and enhances data management.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 YAML Ain't Markup Language is a data serialization language that matches user's expectations about data. It designed to be human friendly and works perfectly with other programming languages. It is useful to manage data and includes Unicode printable characters. This chapter will give you an introduction to YAML and gives you an idea about its features.
 

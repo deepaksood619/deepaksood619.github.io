@@ -3,7 +3,7 @@ slug: /book-summaries/economics-finance/small-is-beautiful
 title: "Small Is Beautiful: Economics as if People Mattered"
 description: Discover Ernst F. Schumacher's influential book "Small Is Beautiful," advocating for an economy that prioritizes people and environmental sustainability over profit.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By ERNST F. SCHUMACHER
 

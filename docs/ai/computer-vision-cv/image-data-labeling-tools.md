@@ -3,7 +3,7 @@ slug: /ai/computer-vision-cv/image-data-labeling-tools
 title: Image / Data Labeling Tools
 description: Discover top image and data labeling tools like Label Studio and Labelbox for efficient data annotation, AI model training, and custom UI solutions.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [Open Source Data Labeling | Label Studio](https://labelstud.io/)
 

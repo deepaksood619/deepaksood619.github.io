@@ -3,7 +3,7 @@ slug: /languages/c++/templates
 title: Templates
 description: Explore C++ templates for efficient coding, enabling type parameterization, code reuse, and polymorphism with insights on template specialization and metaprogramming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 http://www.geeksforgeeks.org/templates-cpp
 

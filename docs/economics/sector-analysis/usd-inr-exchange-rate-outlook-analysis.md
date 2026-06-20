@@ -3,7 +3,7 @@ slug: /economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis
 title: USD INR Exchange Rate Outlook Analysis
 description: Explore the USD INR exchange rate outlook and macroeconomic drivers affecting the Indian Rupee's depreciation in this comprehensive May 2026 analysis.
 created: 2026-05-21
-last_update: 2026-05-23
+updated: 2026-05-23
 ---
 **Macroeconomic Drivers and Future Trajectory of the Indian Rupee: An Exhaustive Analysis of the USD/INR Depreciation - Tue, 19 May 2026**
 

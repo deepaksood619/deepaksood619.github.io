@@ -3,7 +3,7 @@ slug: /ai/pandas/cheatsheet
 title: CheatSheet
 description: Discover essential pandas commands and data importing techniques with this comprehensive CheatSheet to enhance your data analysis skills.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://www.kaggle.com/grroverpr/pandas-cheatsheet
 

@@ -3,7 +3,7 @@ slug: /python/advanced/super
 title: Understanding Python Multiple Inheritance
 description: Learn about Super, Method Resolution Order, and the C3 Linearization Algorithm in Python to effectively manage multiple inheritance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Super considered super - pycon 2015
 

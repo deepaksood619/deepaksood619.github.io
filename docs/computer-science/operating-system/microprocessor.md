@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/microprocessor
 title: Understanding Microprocessors and Architectures
 description: Explore microprocessors, multilevel architectures, and the differences between RISC and CISC in this comprehensive NPTEL course.
 created: 2023-03-05
-last_update: 2026-04-07
+updated: 2026-04-07
 ---
 ## Course - NPTEL - IIT-Guwahati, by Dr. John Jose
 

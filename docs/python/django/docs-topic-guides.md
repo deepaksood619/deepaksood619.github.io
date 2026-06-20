@@ -3,7 +3,7 @@ slug: /python/django/docs-topic-guides
 title: Django Installation and Database Models
 description: Explore comprehensive guides on installing Django, setting up databases, and managing models for your web applications.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 - [How to install Django](https://docs.djangoproject.com/en/2.0/topics/install/)
     - [Install Python](https://docs.djangoproject.com/en/2.0/topics/install/#install-python)

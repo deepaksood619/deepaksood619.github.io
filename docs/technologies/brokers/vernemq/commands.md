@@ -3,7 +3,7 @@ slug: /technologies/brokers/vernemq/commands
 title: VerneMQ Admin Commands Guide
 description: Explore essential vmq-admin commands for managing your VerneMQ cluster, sessions, plugins, and metrics effectively.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ```bash
 vmq-admin

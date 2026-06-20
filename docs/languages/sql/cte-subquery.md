@@ -3,7 +3,7 @@ slug: /languages/sql/cte-subquery
 title: CTE / Subquery
 description: Learn about SQL subqueries, including scalar and correlated subqueries, and how to effectively use them with CTEs for complex data retrieval.
 created: 2023-11-22
-last_update: 2024-03-18
+updated: 2024-03-18
 ---
 ## SQL Subqueries
 

@@ -3,7 +3,7 @@ slug: /technologies/kafka/strimzi
 title: Strimzi HTTP Bridge for Kafka
 description: Discover the Strimzi HTTP Bridge for Apache Kafka, enabling seamless integration of HTTP clients with Kafka clusters through a REST API.
 created: 2023-03-05
-last_update: 2024-03-30
+updated: 2024-03-30
 ---
 ## Strimzi HTTP Bridge for Apache Kafka
 

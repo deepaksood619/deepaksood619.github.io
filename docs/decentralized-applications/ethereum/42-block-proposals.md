@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/42-block-proposals
 title: Block Proposals
 description: Learn how validators in Ethereum propose blocks through a pseudo-random selection process, enhancing the blockchain's consensus and security.
 created: 2023-09-13
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## WHO PRODUCES BLOCKS?
 

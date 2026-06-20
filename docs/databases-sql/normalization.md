@@ -3,7 +3,7 @@ slug: /databases-sql/normalization
 title: Normalization
 description: Learn about normalization, a crucial process that organizes data, reduces redundancy, and enhances consistency in databases for better efficiency.
 created: 2023-03-05
-last_update: 2025-10-08
+updated: 2025-10-08
 ---
 - Normalization is the process of organizing the data in the database.
 - Normalization is used to minimize the redundancy from a relation or set of relations. It is also used to eliminate the undesirable characteristics like Insertion, Update and Deletion Anomalies.

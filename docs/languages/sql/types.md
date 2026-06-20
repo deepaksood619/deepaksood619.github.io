@@ -3,7 +3,7 @@ slug: /languages/sql/types
 title: Types
 description: Explore various database query languages like SQL, PL/SQL, and TSQL, highlighting their unique features and applications in relational database management systems.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 - **SQL** is a query language to operate on sets.
     It is more or less standardized, and used by almost all relational database management systems: SQL Server, Oracle, MySQL, PostgreSQL, DB2, Informix, etc.

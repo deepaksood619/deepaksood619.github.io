@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/solana
 title: Solana
 description: Discover Solana, a high-speed Layer 1 blockchain with 50,000 TPS and low transaction fees, powering the SOL coin and various innovative applications.
 created: 2025-10-08
-last_update: 2026-01-10
+updated: 2026-01-10
 ---
 - Solana - Chain
 - SOL - Coin

@@ -3,7 +3,7 @@ slug: /devops/kubernetes/workloads/pods
 title: Understanding Kubernetes Pods
 description: Explore the basics of Kubernetes Pods, their structure, and how they encapsulate applications in your cluster.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 A Pod is the basic building block of Kubernetes -- the smallest and simplest unit in the Kubernetes object model that you create or deploy. A Pod represents a running process on your cluster.
 

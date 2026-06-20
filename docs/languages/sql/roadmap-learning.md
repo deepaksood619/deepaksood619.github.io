@@ -3,7 +3,7 @@ slug: /languages/sql/roadmap-learning
 title: Roadmap / Learning
 description: Master SQL basics in Week 1 with essential commands like SELECT, INSERT, UPDATE, and DELETE, and dive into relational database structures.
 created: 2025-01-30
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## Week 1: SQL Basics, Querying Fundamentals, and Migration Processes
 

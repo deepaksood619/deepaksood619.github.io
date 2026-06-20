@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/system-sort
 title: Understanding Java System Sort
 description: Explore the Java System Sort methods, including quicksort and mergesort, and learn about efficient sorting techniques for various data types.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Java System Sort - Arrays.sort()
 

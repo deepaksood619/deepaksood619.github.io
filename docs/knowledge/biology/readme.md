@@ -3,7 +3,7 @@ slug: /knowledge/biology/readme
 title: Biology
 description: Explore the essential aspects of biology, including genetics, anatomy, nutrition, organ systems, and health to enhance your understanding of life sciences.
 created: 2023-03-05
-last_update: 2025-06-22
+updated: 2025-06-22
 ---
 - [Exercise / Stretching](exercise-stretching/readme.md)
 - [Nutrition](nutrition/readme.md)

@@ -3,7 +3,7 @@ slug: /ideas/conversational-reminder-assistant
 title: Intelligent Conversational Reminder Assistant
 description: Effortlessly manage your reminders and tasks using natural language with our powerful conversational reminder assistant.
 created: 2026-06-19
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 > "Remind me to call Rahul tomorrow at 6pm" — typed into WhatsApp or spoken as a voice note — and the assistant handles everything.
 

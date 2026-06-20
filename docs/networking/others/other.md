@@ -3,7 +3,7 @@ slug: /networking/others/other
 title: OpenConnect and OpenSSH Overview
 description: Explore OpenConnect and OpenSSH, two essential open-source tools for secure VPN connections and networking utilities.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## OpenConnect
 

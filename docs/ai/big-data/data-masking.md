@@ -3,7 +3,7 @@ slug: /ai/big-data/data-masking
 title: Data Masking
 description: Discover how data masking enhances data security by obscuring sensitive information to comply with privacy regulations like GDPR while maintaining data utility.
 created: 2024-11-18
-last_update: 2024-11-18
+updated: 2024-11-18
 ---
 ## What is data masking?
 

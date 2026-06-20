@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/external-sort
 title: Understanding External Sort in Unix
 description: Explore how Unix uses external sort with R-way merging to efficiently handle large datasets beyond memory limits.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/External-Sort-image1.jpg)
 

@@ -3,7 +3,7 @@ slug: /psychology/readme
 title: Psychology
 description: Explore the fundamentals of psychology, including self-awareness, habits, procrastination, biases, and strategic thinking to enhance personal growth and well-being.
 created: 2023-03-05
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 - [Learning](education/pedagogy/readme.md)
 - [Soft Skills](soft-skills/readme.md)

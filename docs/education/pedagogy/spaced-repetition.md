@@ -3,7 +3,7 @@ slug: /education/pedagogy/spaced-repetition
 title: Understanding Spaced Repetition
 description: Learn how spaced repetition enhances memory retention and combats the forgetting curve for effective learning.
 created: 2026-06-17
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 Spaced repetition is a learning technique that involves reviewing information at increasing intervals over time to combat the forgetting curve and optimize long-term retention. It's one of the most evidence-based and effective methods for memorizing large amounts of information.
 
@@ -71,6 +71,13 @@ Newer algorithm developed for Anki (2023+):
 - More accurate predictions than SM-2
 - Considers: card difficulty, memory stability, retrievability, and scheduling history
 - Available as an option in Anki 23.10+
+
+#### Algorithm & Scheduling Terms
+
+- **FSRS (Free Spaced Repetition Scheduler):** The modern, default scheduling algorithm in Anki. It uses advanced data modeling to predict your forgetting curve much more accurately than the older algorithm.
+- **SM-2:** The classic, legacy algorithm used by older versions of Anki. It relies on fixed multipliers and is highly prone to "Ease Hell"—a glitch where cards get permanently stuck in short intervals.
+- **Interval Modifer:** A global deck setting used to scale the length of all card intervals up or down. You can adjust this to decrease your review workload or to boost your overall retention rate.
+- **Maximum Interval:** The absolute upper limit of days a card can be pushed into the future. For example, if you set this to 365 days, you will see that card at least once a year, no matter how well you know it
 
 ### Review Quality Ratings
 
@@ -220,6 +227,13 @@ Most SRS platforms use a quality scale to adjust scheduling:
 
 - Fuzz factor helps with this automatically
 - Advanced: use add-ons like "Load Balancer" for better distribution
+
+### Others
+
+- **Lapse:** The act of failing a review card. When you lapse a card, its progress is reset or penalized depending on your settings.
+- **Interval:** The amount of time Anki waits before showing you a card again (e.g., 4 days, 2 weeks).
+- **Ease:** A multiplier that dictates how fast your intervals grow. If you easily remember a card, its ease increases; if you fail it, the ease drops.
+- **Active Recall:** The memory-building process of forcing your brain to retrieve a fact from scratch, rather than simply recognizing it. Anki relies heavily on this
 
 ## Spaced Repetition Techniques
 
@@ -602,6 +616,8 @@ The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 - Wozniak, P. A. (1990). SuperMemo 2 Algorithm. [https://www.supermemo.com/en/archives1990-2015/english/ol/sm2](https://www.supermemo.com/en/archives1990-2015/english/ol/sm2)
 - Wozniak, P. A., & Gorzelanczyk, E. J. (1994). Optimization of repetition spacing in the practice of learning. *Acta Neurobiologiae Experimentalis, 54*, 59-62
 - FSRS Documentation: [https://github.com/open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)
+- [Studying - Anki Manual](https://docs.ankiweb.net/studying.html)
+- [Statistics - Anki Manual](https://docs.ankiweb.net/stats.html)
 
 ### Practical Guides
 

@@ -3,7 +3,7 @@ slug: /databases-sql/aws-redshift/intro
 title: AWS Redshift
 description: Discover AWS Redshift, a fully managed data warehouse service that utilizes columnar storage and PostgreSQL technology for efficient data processing and analytics.
 created: 2023-03-05
-last_update: 2026-04-25
+updated: 2026-04-25
 ---
 - OLAP
 - Columnar data storage structure

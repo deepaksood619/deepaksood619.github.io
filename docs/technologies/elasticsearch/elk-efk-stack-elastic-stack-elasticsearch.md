@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/elk-efk-stack-elastic-stack-elasticsearch
 title: ELK/EFK Stack Overview
 description: Discover the ELK/EFK Stack, including Elasticsearch, Logstash, and Kibana, for effective data search and analysis.
 created: 2023-03-05
-last_update: 2025-11-10
+updated: 2025-11-10
 ---
 ## ELK stands for Elasticsearch - Logstash - Kibana
 

@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/synthesis-tutor-analysis
 title: Synthesis Tutor Analysis Report
 description: Discover Synthesis Tutor, an AI-driven math platform for elementary students, focusing on neurodiversity and adaptive learning.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Comprehensive Competitor Analysis**
 

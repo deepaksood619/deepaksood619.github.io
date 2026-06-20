@@ -3,7 +3,7 @@ slug: /mathematics/probability/probability-distribution
 title: Probability Distribution
 description: Discover the fundamentals of probability distribution, a key concept in probability theory and statistics that describes the likelihood of various outcomes in experiments.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory) and [statistics](https://en.wikipedia.org/wiki/Statistics), a**probability distribution** is a mathematical function that provides the probabilities of occurrence of different possible outcomes in an [experiment](https://en.wikipedia.org/wiki/Experiment_(probability_theory)). In more technical terms, the probability distribution is a description of a [random](https://en.wikipedia.org/wiki/Randomness) phenomenon in terms of the [probabilities](https://en.wikipedia.org/wiki/Probability) of [events](https://en.wikipedia.org/wiki/Event_(probability_theory)). For instance, if the [random variable](https://en.wikipedia.org/wiki/Random_variable)*X*is used to denote the outcome of a coin toss ("the experiment"), then the probability distribution of *X* would take the value 0.5 for*X*= heads, and 0.5 for*X*= tails(assuming the coin is fair). Examples of random phenomena can include the results of an [experiment](https://en.wikipedia.org/wiki/Experiment_(probability_theory)) or [survey](https://en.wikipedia.org/wiki/Survey_methodology).
 

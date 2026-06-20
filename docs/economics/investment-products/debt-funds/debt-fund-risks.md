@@ -3,7 +3,7 @@ slug: /economics/investment-products/debt-funds/debt-fund-risks
 title: Debt Mutual Funds Risks
 description: Explore the risks of debt mutual funds, including cashflow, default, interest rate, and credit rating risks that impact overall investment performance.
 created: 2024-09-12
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ### Cashflow risk
 

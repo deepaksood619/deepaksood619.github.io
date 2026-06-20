@@ -3,7 +3,7 @@ slug: /python/python-intro/virtualenv-and-pip
 title: Using VirtualEnv and Pip Effectively
 description: Learn how to create isolated Python environments with virtualenv and manage packages with pip for efficient project development.
 created: 2023-03-05
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 ## VirtualEnv
 

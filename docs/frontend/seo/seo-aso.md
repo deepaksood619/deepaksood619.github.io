@@ -3,7 +3,7 @@ slug: /frontend/seo/seo-aso
 title: SEO and ASO Strategies Explained
 description: Explore SEO, ASO, and the emerging GEO strategies to optimize your content for search engines and AI-powered chat engines.
 created: 2024-12-03
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - SEO - Search Engine Optimization
 - SMO - Social Media Optimization

@@ -3,7 +3,7 @@ slug: /python/python-intro/classes
 title: Understanding Python Classes and Inheritance
 description: Learn how to create classes, utilize inheritance, and manage namespaces in Python with practical examples and explanations.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Creating a class
 

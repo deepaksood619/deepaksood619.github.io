@@ -3,7 +3,7 @@ slug: /economics/investment-products/readme
 title: Mutual Funds
 description: Explore mutual funds, including debt funds, risks, indicators, index investing, and ETFs, to enhance your investment knowledge and strategy.
 created: 2023-03-05
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 - [Fixed Income](economics/investment-products/debt-funds/fixed-income-instruments.md)
 - [Debt Mutual Funds](economics/investment-products/debt-funds/debt-mutual-funds-overview.md)

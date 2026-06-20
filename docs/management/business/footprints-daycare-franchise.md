@@ -3,7 +3,7 @@ slug: /management/business/footprints-daycare-franchise
 title: Footprints Daycare Franchise Review
 description: Explore the pros and cons of investing in the Footprints Daycare franchise before making a decision on this long-term commitment.
 created: 2026-05-23
-last_update: 2026-05-23
+updated: 2026-05-23
 ---
 ## Pros and Cons
 

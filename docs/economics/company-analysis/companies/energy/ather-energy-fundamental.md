@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/energy/ather-energy-fundamental
 title: Ather Energy Fundamental Analysis 2026
 description: Explore Ather Energy's growth potential and risks in the electric scooter market with our detailed fundamental analysis.
 created: 2026-06-03
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NSE

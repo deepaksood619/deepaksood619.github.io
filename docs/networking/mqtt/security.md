@@ -3,7 +3,7 @@ slug: /networking/mqtt/security
 title: Essential MQTT Security Practices
 description: Learn crucial security measures for MQTT, including authentication and TLS transport security for safe communication.
 created: 2023-03-05
-last_update: 2023-11-26
+updated: 2023-11-26
 ---
 Security is a very important part of any communication. MQTT itself keeps everything as simple as possible and relies on other proven technologies for safeguards instead of reinventing the wheel.
 

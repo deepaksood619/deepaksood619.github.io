@@ -3,7 +3,7 @@ slug: /book-summaries/business/the-science-of-selling
 title: The Science of Selling
 description: Explore "The Science of Selling" for evidence-based strategies from neuroscience and psychology that enhance pitches, influence decisions, and boost sales success.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By David Hoffeld
 

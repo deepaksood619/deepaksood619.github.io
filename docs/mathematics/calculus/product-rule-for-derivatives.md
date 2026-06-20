@@ -3,7 +3,7 @@ slug: /mathematics/calculus/product-rule-for-derivatives
 title: Product Rule for Derivatives
 description: Learn the Product Rule for Derivatives in calculus to effectively differentiate the product of two functions and enhance your mathematical skills.
 created: 2023-03-05
-last_update: 2024-12-15
+updated: 2024-12-15
 ---
 ![image](../../media/Product-Rule-for-Derivatives-image1.jpg)
 

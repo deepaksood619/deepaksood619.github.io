@@ -3,7 +3,7 @@ slug: /algorithms/general/quick-select
 title: Understanding Randomized Quickselect Algorithm
 description: Explore the Quick Select algorithm to find the kth smallest item in linear time using a partitioning method.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Randomized quickselect, a quicksort variant which finds the kth smallest item in linear time.
 

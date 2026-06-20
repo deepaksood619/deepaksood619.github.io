@@ -3,7 +3,7 @@ slug: /management/product-management/behavioral-design-economics
 title: Behavioral Design in Economics
 description: Explore how behavioral design and economic principles influence decision-making and enhance user engagement.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 https://www.lennysnewsletter.com/p/how-to-use-behavioral-science-to
 

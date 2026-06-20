@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/system-design-genbi
 title: "GenBI: AI-Powered Telecom Insights"
 description: Discover GenBI, the unified natural language business intelligence platform designed to streamline telecom data analysis.
 created: 2025-11-04
-last_update: 2025-11-04
+updated: 2025-11-04
 ---
 ## Problem Statement: GenBI — Unified Natural Language Business Intelligence Platform for Telecom
 

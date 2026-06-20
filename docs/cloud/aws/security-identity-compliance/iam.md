@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/iam
 title: IAM
 description: Discover AWS Identity and Access Management (IAM) to securely manage user access, enforce least privilege, and align identity governance with best practices.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 - [iam-access-policies](cloud/aws/security-identity-compliance/iam-access-policies.md)
 - permission guardrails

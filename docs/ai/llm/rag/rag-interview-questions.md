@@ -3,7 +3,7 @@ slug: /ai/llm/rag/rag-interview-questions
 title: RAG Interview Questions
 description: Explore CRAG vs. Self-RAG strategies to enhance reliability in information retrieval with innovative evaluation techniques for improved document relevance.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ### 1. Corrective RAG (CRAG) vs. Self-RAG
 

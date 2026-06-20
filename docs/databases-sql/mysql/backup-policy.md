@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/backup-policy
 title: Backup Policy
 description: Learn how to implement an effective backup policy for MySQL using mysqldump for full backups of InnoDB tables and ensure data safety.
 created: 2024-05-26
-last_update: 2025-07-25
+updated: 2025-07-25
 ---
 ## Full Backups
 

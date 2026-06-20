@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-learning-deep-dive-new-findings
 title: Deep Learning in Adaptive Learning Platforms
 description: Explore new academic findings on deep learning's role in adaptive education platforms and validate the DKT + LLM approach.
 created: 2026-06-07
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Date:** 2026-06-07
 

@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/documentation
 title: Comprehensive Snowflake Documentation
 description: Explore our detailed Snowflake documentation to connect seamlessly and integrate with various ecosystems including BI and machine learning.
 created: 2024-01-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ### [Overview](https://docs.snowflake.com/en/guides "Overview")
 

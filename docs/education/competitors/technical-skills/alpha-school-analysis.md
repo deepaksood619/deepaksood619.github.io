@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/alpha-school-analysis
 title: "Alpha School: AI Microschool Analysis"
 description: Explore Alpha School's innovative AI-powered microschool model, competitive advantages, and impressive growth in the K-12 education sector.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Comprehensive Competitor Analysis**
 

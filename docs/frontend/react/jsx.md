@@ -3,7 +3,7 @@ slug: /frontend/react/jsx
 title: Understanding JSX Syntax and Rules
 description: Learn the key rules of JSX, including element structure, attribute naming, and JavaScript integration for React development.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 JSX Rules
 

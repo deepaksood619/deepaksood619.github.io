@@ -3,7 +3,7 @@ slug: /devops/devops-intro/chaos-engineering
 title: Understanding Chaos Engineering
 description: Explore chaos engineering to enhance system resilience and performance under real-world disruptions through controlled experiments.
 created: 2023-03-05
-last_update: 2025-05-13
+updated: 2025-05-13
 ---
 Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system's capability to withstand turbulent conditions in production.
 

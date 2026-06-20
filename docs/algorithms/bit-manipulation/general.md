@@ -3,7 +3,7 @@ slug: /algorithms/bit-manipulation/general
 title: Understanding Bitwise Operators in Programming
 description: Explore the fundamentals of bitwise operators with examples, including AND, OR, XOR, and more for efficient programming.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 Bitwise Operators ( a = 60, b = 13)
 

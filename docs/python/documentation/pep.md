@@ -3,7 +3,7 @@ slug: /python/documentation/pep
 title: Understanding Python Enhancement Proposals
 description: Explore key Python Enhancement Proposals (PEPs) including PEP 8, the style guide every Python developer should know.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 PEP-0 - Python Enhancement Proposals
 

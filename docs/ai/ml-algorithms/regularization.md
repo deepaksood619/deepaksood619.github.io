@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/regularization
 title: Regularization
 description: Explore regularization techniques like L1, L2, and early stopping to improve model performance by controlling complexity and enhancing generalization.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 **Techniques used to generalize a model**
 

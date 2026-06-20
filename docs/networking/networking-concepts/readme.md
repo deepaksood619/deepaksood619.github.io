@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/readme
 title: Essential Networking Concepts Guide
 description: Explore key networking concepts, including OSI layers, TCP/IP, and data center networking for a comprehensive understanding.
 created: 2023-03-05
-last_update: 2024-02-07
+updated: 2024-02-07
 ---
 - [Intro](networking/networking-concepts/intro.md)
 - [Book - Computer Networks](book-computer-networks)

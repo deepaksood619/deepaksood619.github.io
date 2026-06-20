@@ -3,7 +3,7 @@ slug: /computer-science/programming-paradigms/structural-bridge
 title: Understanding the Bridge Design Pattern
 description: Discover the Bridge design pattern for separating abstraction and implementation in structural design for more scalable object-oriented programming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Bridge is a structural design pattern that divides one or more classes into two separate hierarchies - abstraction and implementation, allowing them to be changed independently of each other
 

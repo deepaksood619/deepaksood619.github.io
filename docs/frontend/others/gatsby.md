@@ -3,7 +3,7 @@ slug: /frontend/others/gatsby
 title: Building Fast Websites with Gatsby
 description: Discover how Gatsby, a free and open-source framework, enables developers to create dynamic and high-performance websites effortlessly.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
 

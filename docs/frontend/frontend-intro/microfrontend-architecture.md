@@ -3,7 +3,7 @@ slug: /frontend/frontend-intro/microfrontend-architecture
 title: Understanding Microfrontend Architecture
 description: Discover the benefits of microfrontend architecture for building scalable and manageable web applications.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Micro-frontend architecture is a design approach in which a [front-end](https://www.toptal.com/front-end) app is decomposed into individual, semi-independent "microapps" working loosely together.
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/25-wso2-automated-claims-processing
 title: Automated Claims Processing Architecture
 description: Explore the architecture stack for automated claims processing using WSO2 and Kafka for seamless integration.
 created: 2026-04-28
-last_update: 2026-05-03
+updated: 2026-05-03
 ---
 ### 1. The Architecture Stack
 

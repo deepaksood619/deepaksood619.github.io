@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/99-others
 title: Databricks File Download and DBIO Insights
 description: Learn how to download files from Databricks and understand the DBIO file fragment process on NetApp Data ONTAP.
 created: 2023-03-10
-last_update: 2025-10-24
+updated: 2025-10-24
 ---
 ## Download file from DBFS in Databricks
 

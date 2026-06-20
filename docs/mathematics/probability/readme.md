@@ -3,7 +3,7 @@ slug: /mathematics/probability/readme
 title: Probability
 description: Explore the fundamentals of probability, including random variables, distributions, the Central Limit Theorem, and Monte Carlo simulations for practical applications.
 created: 2023-03-05
-last_update: 2025-05-03
+updated: 2025-05-03
 ---
 - [Intro](mathematics/probability/intro.md)
 - [Random Variables](random-variables)

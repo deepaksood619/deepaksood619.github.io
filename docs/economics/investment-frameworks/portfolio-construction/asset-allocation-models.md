@@ -3,7 +3,7 @@ slug: /economics/investment-frameworks/portfolio-construction/asset-allocation-m
 title: Asset Allocation Models
 description: Explore asset allocation models to optimize your investment strategy by balancing risk and return based on your age, goals, and economic conditions.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Category:** Investment Frameworks - Portfolio Construction
 **Last Updated:** 2026-06-08

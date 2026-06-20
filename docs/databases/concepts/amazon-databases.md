@@ -3,7 +3,7 @@ slug: /databases/concepts/amazon-databases
 title: Overview of Amazon Databases
 description: Explore key Amazon databases like RDS, Aurora, DynamoDB, and ElastiCache for efficient data management and scalability.
 created: 2024-04-24
-last_update: 2025-11-24
+updated: 2025-11-24
 ---
 - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
 - [Amazon RDS](databases-sql/amazon-rds.md)

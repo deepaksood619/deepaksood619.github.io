@@ -3,7 +3,7 @@ slug: /cloud/aws/compute/burstable-instances
 title: Burstable Instances
 description: Explore Amazon EC2 Burstable Instances, offering cost-effective CPU usage with baseline levels and the ability to burst for enhanced performance.
 created: 2024-08-02
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Traditional Amazon EC2 instance types provide fixed CPU resources, while burstable performance instances provide a baseline level of CPU utilization with the ability to burst CPU utilization above the baseline level. This ensures that you pay only for baseline CPU plus any additional burst CPU usage resulting in lower compute costs. The baseline utilization and ability to burst are governed by CPU credits. Burstable performance instances are the only instance types that use credits for CPU usage.
 

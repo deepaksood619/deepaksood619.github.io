@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/65-problems-in-iot-industry
 title: Challenges Facing the IoT Industry
 description: Discover the top challenges in the IoT industry, including mobile device management, data accuracy, and storage solutions.
 created: 2024-03-17
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 ## Top 5 Problems Faced by IoT Industry
 

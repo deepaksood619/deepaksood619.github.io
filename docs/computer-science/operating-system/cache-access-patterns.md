@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/cache-access-patterns
 title: Cache Access Patterns Explained
 description: Understand cache writing policies like write-through, its advantages, disadvantages, and the impact on data retrieval and storage.
 created: 2023-03-05
-last_update: 2023-11-09
+updated: 2023-11-09
 ---
 When a system writes data to cache, it must at some point write that data to the backing store as well. The timing of this write is controlled by what is known as thewrite policy.
 

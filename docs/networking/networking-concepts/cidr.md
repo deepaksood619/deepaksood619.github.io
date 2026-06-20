@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/cidr
 title: "Understanding CIDR: Classless Inter-Domain Routing"
 description: Learn about CIDR, its role in IP address allocation, and how it revolutionized Internet routing practices.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## Classless Inter-Domain Routing
 

@@ -3,7 +3,7 @@ slug: /databases/concepts/concurrency-control
 title: Understanding Concurrency Control
 description: Learn how concurrency control maintains atomicity and isolation in database transactions for seamless multi-user access.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 The protocol to allow transactions to access a database in a multi-programmed fashion while preserving the illusion that each of them is executing alone on a dedicated system
 

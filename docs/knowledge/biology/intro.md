@@ -3,7 +3,7 @@ slug: /knowledge/biology/intro
 title: Biology
 description: Explore biology's role in longevity through DNA protection, dietary choices, and physical fitness while understanding organism classification and taxonomy.
 created: 2023-03-05
-last_update: 2026-04-07
+updated: 2026-04-07
 ---
 ## Live longer
 

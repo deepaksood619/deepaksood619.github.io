@@ -3,7 +3,7 @@ slug: /ai/model-evaluation/confusion-matrix
 title: Confusion Matrix
 description: Explore the confusion matrix, accuracy metrics, and evaluation methods, including their impact on false positives and negatives in model performance.
 created: 2023-03-05
-last_update: 2024-11-13
+updated: 2024-11-13
 ---
 The confusion matrix shows - The observations broken down by actual classes and predicted classes
 

@@ -3,7 +3,7 @@ slug: /mathematics/probability/365-ds-probability
 title: 365 DS - Probability
 description: Explore the fundamentals of probability, combinatorics, and Bayesian inference, covering formulas, expected values, permutations, combinations, and more.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## The Basics of Probability
 

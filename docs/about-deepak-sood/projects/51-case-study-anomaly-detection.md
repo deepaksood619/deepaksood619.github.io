@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/51-case-study-anomaly-detection
 title: Anomaly Detection Using Isolation Forest
 description: Explore how Isolation Forest detects anomalies in metric data, ensuring data integrity and accurate predictions.
 created: 2024-07-17
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## Introduction
 

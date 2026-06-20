@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/diet-nutritional-analysis
 title: Diet Nutritional Analysis
 description: Explore the clinical nutritional analysis of traditional Indian vegetarian meals, focusing on macronutrient distribution, micronutrient bioavailability, and dietary optimization.
 created: 2026-06-06
-last_update: 2026-06-07
+updated: 2026-06-07
 ---
 **Clinical Nutritional Analysis and Dietary Optimization of a Traditional Indian Vegetarian Meal Plan**
 

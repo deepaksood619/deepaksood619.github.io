@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/other-graph-algorithms
 title: Exploring Dominating Set Algorithms
 description: Discover the dominating set problem in graph theory and its significance in computational complexity and graph optimization.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Dominating Set
 

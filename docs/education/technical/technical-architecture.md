@@ -3,7 +3,7 @@ slug: /education/technical/technical-architecture
 title: Innovative Technical Architecture for Learning
 description: Explore adaptive learning systems with real-time AI agents generating personalized content to enhance user engagement and goal achievement.
 created: 2026-06-04
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Feedbacks / Questions
 

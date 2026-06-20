@@ -3,7 +3,7 @@ slug: /databases-nosql/druid/paper
 title: Paper
 description: Discover how real-time nodes optimize event stream ingestion and querying in Druid, ensuring immediate data availability and efficient event handling.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ### 1. Realtime Node
 

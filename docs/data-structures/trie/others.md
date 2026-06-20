@@ -3,7 +3,7 @@ slug: /data-structures/trie/others
 title: Understanding Hash Array Mapped Tries
 description: Explore the concept of Hash Array Mapped Tries (HAMT), a hybrid data structure combining features of hash tables and tries.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Hash Array Mapped Tries (HAMT)
 

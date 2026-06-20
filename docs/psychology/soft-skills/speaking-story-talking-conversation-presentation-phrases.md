@@ -3,7 +3,7 @@ slug: /psychology/soft-skills/speaking-story-talking-conversation-presentation-p
 title: Effective Speaking and Presentation Tips
 description: Learn essential phrases and body language techniques for impactful storytelling and presentations.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 Use english - Indians have a bias towards English
 

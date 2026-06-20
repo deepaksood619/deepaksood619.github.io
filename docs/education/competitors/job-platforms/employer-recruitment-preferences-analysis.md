@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/employer-recruitment-preferences-anal
 title: Job Boards vs. Education Platforms
 description: Explore employer recruitment preferences for entry-level tech hires between job boards and education platforms in this insightful analysis.
 created: 2026-06-08
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Last Updated:** June 2026
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/36-ai-chatbot-saas
 title: AI ChatBot SaaS Solutions
 description: Discover powerful AI ChatBot SaaS features, including RAG setup, multichannel integration, and analytics for enhanced customer engagement.
 created: 2025-04-06
-last_update: 2025-04-08
+updated: 2025-04-08
 ---
 ## Product features
 

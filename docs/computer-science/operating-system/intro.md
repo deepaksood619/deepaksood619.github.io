@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/intro
 title: Key Elements of Operating Systems
 description: Explore the essential elements and design principles of operating systems, including types and key functionalities.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## There are three key elements of an operating system
 

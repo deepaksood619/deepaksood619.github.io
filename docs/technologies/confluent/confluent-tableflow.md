@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-tableflow
 title: "Confluent Tableflow: Seamless Data Integration"
 description: Discover how Confluent Tableflow enables real-time access to Kafka data as tables, eliminating the need for traditional ETL processes.
 created: 2025-12-01
-last_update: 2026-02-28
+updated: 2026-02-28
 ---
 [Tableflow: Materialize Apache Kafka® Topics as Apache Iceberg™ and Delta Lake Tables With Zero ETL - YouTube](https://www.youtube.com/watch?v=O2l5SB-camQ&ab_channel=ConfluentDeveloper)
 

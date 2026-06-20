@@ -3,7 +3,7 @@ slug: /databases/concepts/history
 title: Exploring Historical Developments
 description: Discover the evolution of databases with rich visuals and insights from lectures and resources.
 created: 2023-03-05
-last_update: 2024-01-23
+updated: 2024-01-23
 ---
 ![image](../../media/History-image1.jpg)
 

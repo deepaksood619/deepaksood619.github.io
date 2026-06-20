@@ -3,7 +3,7 @@ slug: /psychology/intelligence
 title: Intelligence
 description: Explore Howard Gardner's 8 types of intelligence, highlighting diverse ways individuals process information and the heritability of cognitive abilities.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 Howard Gardner, a psychologist & professor at Harvard University, first introduced the concept of 8 types of human intelligence in his 1983 book Frames of Mind.
 

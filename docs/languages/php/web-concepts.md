@@ -3,7 +3,7 @@ slug: /languages/php/web-concepts
 title: Web Concepts
 description: Learn essential web concepts like browser redirection using PHP's header() function and the differences between GET and POST methods for data transmission.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Browser Redirection
 

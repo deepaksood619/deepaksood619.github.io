@@ -3,7 +3,7 @@ slug: /frontend/seo/seo-tools
 title: Essential SEO Tools for Success
 description: Discover a curated list of essential SEO tools, including Google resources and expert insights to enhance your online presence.
 created: 2024-12-03
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - [GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 989
 	- [Awesome SEO tools list](https://seotoolslist.org/#/)

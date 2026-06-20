@@ -3,7 +3,7 @@ slug: /languages/sql/others
 title: Others
 description: Discover when to use a unique constraint versus a unique index in your database for optimal performance and clear code documentation.
 created: 2023-03-05
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## When should I use a unique constraint instead of a unique index
 

@@ -3,7 +3,7 @@ slug: /management/project-management/scrum-meetings
 title: Scrum Meeting Best Practices
 description: Discover essential Scrum meeting best practices, from effective video calls to pre and post-meeting workflows, to enhance team collaboration and productivity.
 created: 2023-03-05
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 - Video Calls
 - Don't add all in video call (to save bandwidth)

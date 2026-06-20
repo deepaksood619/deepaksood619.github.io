@@ -3,7 +3,7 @@ slug: /courses/course-credit-risk-modeling/fraud-detection-and-prevention
 title: Fraud Detection and Prevention
 description: Discover effective fraud detection and prevention strategies, including anomaly detection and real-time analytics, to safeguard your transactions.
 created: 2024-09-17
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - **Anomaly Detection:** Identify unusual patterns in transaction data that may indicate fraudulent activity.
 - **Real-time Fraud Detection:** Use real-time analytics to detect and prevent fraudulent transactions as they occur.

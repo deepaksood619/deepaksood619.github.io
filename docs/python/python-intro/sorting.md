@@ -3,7 +3,7 @@ slug: /python/python-intro/sorting
 title: Comprehensive Guide to Sorting in Python
 description: Learn how to sort lists and dictionaries in Python using sort() and sorted() methods for efficient data organization.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Sort items in a list in alphabetical order, or reverse alphabetical order.
 

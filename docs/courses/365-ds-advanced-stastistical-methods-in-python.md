@@ -3,7 +3,7 @@ slug: /courses/365-ds-advanced-stastistical-methods-in-python
 title: 365 DS - Advanced Stastistical Methods in Python
 description: Master advanced statistical methods in Python with our comprehensive course on linear and multiple regression analysis, interpretation, and essential techniques.
 created: 2024-02-01
-last_update: 2024-02-01
+updated: 2024-02-01
 ---
 ## Linear regression
 

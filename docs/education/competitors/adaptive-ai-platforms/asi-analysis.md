@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/asi-analysis
 title: "ASI: AI-Native Education Analysis"
 description: Explore ASI, an AI-native education platform founded by a high school student, focusing on innovative tutoring solutions.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Comprehensive Competitor Analysis**
 

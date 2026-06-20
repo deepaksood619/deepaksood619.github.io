@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/celestia
 title: Celestia
 description: Discover Celestia, a scalable modular blockchain network designed to enhance data availability and consensus, addressing the blockchain trilemma effectively.
 created: 2023-07-23
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 A scalable modular blockchain network built for data availability and consensus
 

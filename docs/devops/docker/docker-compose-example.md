@@ -3,7 +3,7 @@ slug: /devops/docker/docker-compose-example
 title: Docker Compose Example Configuration
 description: Explore a Docker Compose example with services, environment variables, and deployment strategies for efficient container orchestration.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 ```yaml
 version: "3.7"

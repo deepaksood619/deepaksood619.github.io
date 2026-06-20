@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/bash-shortcuts
 title: Essential Bash Shortcuts
 description: Discover essential Bash shortcuts for controlling your screen and moving the cursor efficiently while working in the terminal.
 created: 2023-03-05
-last_update: 2024-05-24
+updated: 2024-05-24
 ---
 ## Controlling the Screen
 

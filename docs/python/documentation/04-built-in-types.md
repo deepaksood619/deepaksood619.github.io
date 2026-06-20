@@ -3,7 +3,7 @@ slug: /python/documentation/04-built-in-types
 title: Understanding Python Built-in Types
 description: Explore Python's built-in types including numeric, sequence, mapping, and more for efficient programming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 4.1. Truth Value Testing
 

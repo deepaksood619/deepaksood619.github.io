@@ -3,7 +3,7 @@ slug: /languages/sql/ddl-data-definition-language/readme
 title: DDL - Data Definition Language
 description: Discover the essentials of Data Definition Language (DDL) in SQL, including commands like CREATE, ALTER, DROP, and indexing for effective database management.
 created: 2023-03-05
-last_update: 2024-11-28
+updated: 2024-11-28
 ---
 ## DDL (Data Definition Language)
 

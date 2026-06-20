@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/system-design-uber-lyft-ride-sharing-
 title: "System Design: Uber and Lyft Ride Sharing"
 description: Explore the core features and storage solutions for Uber and Lyft ride sharing services in this comprehensive system design guide.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 [System Design: Uber Lyft ride sharing services - Interview question](https://www.youtube.com/watch?v=J3DY3Te3A_A)
 

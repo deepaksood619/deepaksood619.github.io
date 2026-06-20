@@ -3,7 +3,7 @@ slug: /management/jobs/platforms
 title: Top Platforms for Tech Jobs
 description: Discover the best platforms to find tech jobs, including remote opportunities and startup positions with leading companies.
 created: 2023-08-29
-last_update: 2026-05-23
+updated: 2026-05-23
 ---
 - [Mercor \| Organizing human intelligence to power the AI economy](https://www.mercor.com/)
 	- https://www.reddit.com/r/ArtificialInteligence/comments/1onvdcp/mercor_ai_what_the_actual_hell_is_going_on/

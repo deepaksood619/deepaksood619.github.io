@@ -3,7 +3,7 @@ slug: /ai/libraries/tensorflow/intro
 title: TensorFlow
 description: Discover TensorFlow, a powerful deep learning library that offers high-level APIs, TensorBoard visualization, and resources to kickstart your AI projects.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Tools
 

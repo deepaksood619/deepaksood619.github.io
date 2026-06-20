@@ -3,7 +3,7 @@ slug: /ai/model-evaluation/generalization-and-sampling
 title: Generalization and Sampling
 description: Master generalization and sampling techniques to improve model performance, prevent overfitting, and establish reliable benchmarks in machine learning.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Learn how to
 

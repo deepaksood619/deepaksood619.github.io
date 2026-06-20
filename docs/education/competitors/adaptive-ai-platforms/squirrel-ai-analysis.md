@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/squirrel-ai-analysis
 title: Squirrel AI Company Overview
 description: Explore Squirrel AI's growth journey, leadership, funding, and impact in the education technology sector since 2014.
 created: 2026-06-07
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

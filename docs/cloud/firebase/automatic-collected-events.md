@@ -3,7 +3,7 @@ slug: /cloud/firebase/automatic-collected-events
 title: Automatic Collected Events
 description: Discover how automatic collected events in Firebase Analytics enhance your app's performance by tracking key interactions without extra coding.
 created: 2023-03-05
-last_update: 2025-11-09
+updated: 2025-11-09
 ---
 Automatically collected events are triggered by basic interactions with your app. As long as you use the Firebase SDK, you don't need to write any additional code to collect these events.
 

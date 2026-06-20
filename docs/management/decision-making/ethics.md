@@ -3,7 +3,7 @@ slug: /management/decision-making/ethics
 title: Panopticon and Ethical Surveillance
 description: Explore the panopticon's design by Jeremy Bentham and its implications for ethical surveillance and self-regulation in institutional settings.
 created: 2023-03-05
-last_update: 2025-11-01
+updated: 2025-11-01
 ---
 ## Panoticon
 

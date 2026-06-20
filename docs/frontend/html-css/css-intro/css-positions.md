@@ -3,7 +3,7 @@ slug: /frontend/html-css/css-intro/css-positions
 title: Understanding CSS Positioning Techniques
 description: Learn how to use CSS positioning values to manipulate element layouts and create dynamic visual effects.
 created: 2023-03-05
-last_update: 2023-03-20
+updated: 2023-03-20
 ---
 CSS Positions allow you to manipulate how elements are positioned to achieve many different visual effects.
 

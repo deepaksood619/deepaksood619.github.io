@@ -3,7 +3,7 @@ slug: /databases-nosql/milvus/architecture
 title: Architecture
 description: Explore Milvus's cloud-native architecture for high-performance vector databases, enabling efficient similarity search and AI-driven unstructured data retrieval.
 created: 2025-06-24
-last_update: 2025-06-24
+updated: 2025-06-24
 ---
 Milvus is an **open-source**, **cloud-native** vector database designed for high-performance similarity search on massive vector datasets. Built on top of popular vector search libraries including Faiss, HNSW, DiskANN, and SCANN, it empowers AI applications and unstructured data retrieval scenarios. Before proceeding, familiarize yourself with the [basic principles](https://milvus.io/docs/glossary.md) of embedding retrieval.
 

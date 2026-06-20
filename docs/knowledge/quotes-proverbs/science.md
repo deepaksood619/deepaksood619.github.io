@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/science
 title: Science
 description: Explore the fundamentals of science, from key equations to the trust in scientific knowledge, revealing how it shapes our understanding of the world.
 created: 2023-03-05
-last_update: 2023-06-26
+updated: 2023-06-26
 ---
 Science is a 6 decimal approximation to real knowledge
 

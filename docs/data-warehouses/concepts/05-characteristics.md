@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/05-characteristics
 title: Key Characteristics of Data Warehouses
 description: Discover the essential characteristics of data warehouses, including being subject-oriented, integrated, time-variant, and non-volatile.
 created: 2023-03-05
-last_update: 2025-12-16
+updated: 2025-12-16
 ---
 A data warehouse has following characteristics:
 

@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/master-data-management-mdm
 title: Master Data Management Explained
 description: Discover how Master Data Management (MDM) creates reliable business data for improved reporting and decision-making.
 created: 2024-07-22
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 Master data management (MDM) involves creating a single master record for each person, place, or thing in a business, from across internal and external data sources and applications. This information has been de-duplicated, reconciled and enriched, becoming a consistent, reliable source. Once created, this master data serves as a trusted view of business-critical data that can be managed and shared across the business to promote accurate reporting, reduce data errors, remove redundancy, and help workers make better-informed business decisions.
 

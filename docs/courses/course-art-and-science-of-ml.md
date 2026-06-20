@@ -3,7 +3,7 @@ slug: /courses/course-art-and-science-of-ml
 title: Course - Art and Science of ML
 description: Explore the Art and Science of Machine Learning, mastering intuition, model tuning, and experimentation to enhance your ML skills and performance.
 created: 2023-03-05
-last_update: 2024-09-18
+updated: 2024-09-18
 ---
 ## Introduction
 

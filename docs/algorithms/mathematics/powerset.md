@@ -3,7 +3,7 @@ slug: /algorithms/mathematics/powerset
 title: "Understanding Powersets: Definition and Algorithm"
 description: Explore the concept of powersets, including subsets, algorithms, and bit manipulation techniques for generating them efficiently.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ### Power Set
 

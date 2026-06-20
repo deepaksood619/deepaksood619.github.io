@@ -3,7 +3,7 @@ slug: /decentralized-applications/others
 title: Others
 description: Discover IPFS, a peer-to-peer distributed file system that enables content-addressable storage and sharing of hypermedia across all computing devices.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## IPFS (InterPlanatery File System)
 

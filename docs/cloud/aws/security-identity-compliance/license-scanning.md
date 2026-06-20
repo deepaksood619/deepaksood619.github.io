@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/license-scanning
 title: License Scanning
 description: Discover how license scanning ensures legal compliance, manages open-source components, and mitigates risks in software development projects.
 created: 2024-02-07
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 License scanning refers to the process of automatically analyzing and identifying software licenses associated with code or components within a software project.
 

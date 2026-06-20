@@ -3,7 +3,7 @@ slug: /book-summaries/business/the-dip
 title: The Dip
 description: Discover how to navigate the challenges of "The Dip" by Seth Godin, and learn when to quit or strive for exceptional success in your endeavors.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Seth Godin
 

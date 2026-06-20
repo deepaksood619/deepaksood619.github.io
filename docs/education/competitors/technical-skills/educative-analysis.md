@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/educative-analysis
 title: Educative.io Developer Education Analysis
 description: Explore Educative.io, an interactive learning platform revolutionizing developer training with in-browser coding and text-based courses.
 created: 2026-05-30
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 - **Category:** Interactive Developer Education Platform
 - **Founded:** 2015

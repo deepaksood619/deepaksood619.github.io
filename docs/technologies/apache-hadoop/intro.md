@@ -3,7 +3,7 @@ slug: /technologies/apache-hadoop/intro
 title: Introduction to Apache Hadoop
 description: Learn about Apache Hadoop, its batch processing framework, and the essential components like HDFS for managing big data.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 Apache Hadoop is a processing framework that exclusively provides batch processing. Hadoop was the first big data framework to gain significant traction in the open-source community. Based on several papers and presentations by Google about how they were dealing with tremendous amounts of data at the time, Hadoop reimplemented the algorithms and component stack to make large scale batch processing more accessible.
 

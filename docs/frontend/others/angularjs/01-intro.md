@@ -3,7 +3,7 @@ slug: /frontend/others/angularjs/01-intro
 title: Introduction to Angular Framework
 description: Discover how Angular enhances Single Page Applications with powerful tools, components, and best practices for web development.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 It is used in Single Page Applications Project.
 

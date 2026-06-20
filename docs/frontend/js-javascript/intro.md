@@ -3,7 +3,7 @@ slug: /frontend/js-javascript/intro
 title: Introduction to JavaScript Basics
 description: Explore JavaScript's lightweight, dynamic nature and features, including object-oriented capabilities and prototype inheritance.
 created: 2023-03-05
-last_update: 2024-03-18
+updated: 2024-03-18
 ---
 ## Javascript
 

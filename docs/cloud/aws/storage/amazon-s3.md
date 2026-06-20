@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-s3
 title: Amazon S3
 description: Discover Amazon S3 for scalable cloud storage with unmatched durability, robust performance, and cost-effective solutions for large files and videos.
 created: 2023-03-05
-last_update: 2026-04-11
+updated: 2026-04-11
 ---
 S3: More than 235 distributed microservices
 

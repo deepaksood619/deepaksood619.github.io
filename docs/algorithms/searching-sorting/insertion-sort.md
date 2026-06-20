@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/insertion-sort
 title: Insertion Sort Explained
 description: Learn how insertion sort works, its efficiency, and implications for sorting arrays with distinct keys.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 Insertion sorttakes elements of the array sequentially, and maintains a sorted subarray to the left of the current point. It does this by taking an element, finding its correct position in the sorted array, and shifting all following elements by 1, leaving a space for the element to be inserted.
 

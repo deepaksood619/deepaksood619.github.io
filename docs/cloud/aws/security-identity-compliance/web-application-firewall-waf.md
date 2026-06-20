@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/web-application-firewall-waf
 title: Web Application Firewall (WAF)
 description: Enhance your security with AWS Web Application Firewall (WAF), protecting CloudFront, ALB, API Gateway, and AppSync from threats and vulnerabilities.
 created: 2025-11-09
-last_update: 2025-11-10
+updated: 2025-11-10
 ---
 AWS WAF can be deployed on Amazon CloudFront, the Application Load Balancer (ALB), Amazon API Gateway, and AWS AppSync. As part of Amazon CloudFront it can be part of your Content Distribution Network (CDN) protecting your resources and content at the Edge locations. As part of the Application Load Balancer it can protect your origin web servers running behind the ALBs. As part of Amazon API Gateway, it can help secure and protect your REST APIs. As part of AWS AppSync, it can help secure and protect your GraphQL APIs.
 

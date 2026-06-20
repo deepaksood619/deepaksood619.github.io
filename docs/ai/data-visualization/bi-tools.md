@@ -3,7 +3,7 @@ slug: /ai/data-visualization/bi-tools
 title: BI Tools
 description: Compare Power BI and Google Data Studio for data integration and visualization, highlighting their functionalities and user-friendliness.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 https://www.toptal.com/business-intelligence/interview-questions
 

@@ -3,7 +3,7 @@ slug: /databases-sql/postgres/documentation
 title: Documentation
 description: Explore comprehensive PostgreSQL documentation, including tutorials, SQL language resources, bug reporting guidelines, and a brief history of the database.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 [Preface](https://www.postgresql.org/docs/12/preface.html)
 

@@ -3,7 +3,7 @@ slug: /knowledge/language/parts-of-speech
 title: Parts of Speech
 description: Explore the eight parts of speech, including nouns, verbs, and more, to enhance your understanding of language and improve your writing skills.
 created: 2023-03-05
-last_update: 2025-06-08
+updated: 2025-06-08
 ---
 The eight parts of speech are nouns, pronouns, verbs, adjectives, adverbs, conjunctions, prepositions, and interjections.
 

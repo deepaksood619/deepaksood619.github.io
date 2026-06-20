@@ -3,7 +3,7 @@ slug: /python/advanced/readme
 title: Advanced Python Techniques and Resources
 description: Explore advanced Python topics including architecture, memory management, web scraping, concurrency, and more to enhance your programming skills.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Architecture](python/advanced/architecture.md)
 - [Memory Management](memory-management)

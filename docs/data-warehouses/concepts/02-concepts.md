@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/02-concepts
 title: Understanding Data Warehouse Concepts
 description: Explore the key components of data warehouses, including the importance of RDBMS for effective data management.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ![image](../../media/Data-Warehousing_Concepts-image1.jpg)
 

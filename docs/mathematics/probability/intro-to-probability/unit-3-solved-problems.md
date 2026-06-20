@@ -3,7 +3,7 @@ slug: /mathematics/probability/intro-to-probability/unit-3-solved-problems
 title: Birthday Problem Analysis
 description: Explore the birthday problem and rook placement on a chessboard, analyzing probabilities of unique birthdays and safe arrangements in these classic scenarios.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 ## The birthday problem
 

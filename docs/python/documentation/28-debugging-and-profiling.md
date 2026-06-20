@@ -3,7 +3,7 @@ slug: /python/documentation/28-debugging-and-profiling
 title: Effective Debugging and Profiling in Python
 description: Learn essential techniques for debugging and profiling Python applications, including tools like pdb, timeit, and tracemalloc.
 created: 2023-03-05
-last_update: 2025-04-24
+updated: 2025-04-24
 ---
 - 27.1. bdb - Debugger framework
 - 27.2. faulthandler - Dump the Python traceback

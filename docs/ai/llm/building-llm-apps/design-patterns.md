@@ -3,7 +3,7 @@ slug: /ai/llm/building-llm-apps/design-patterns
 title: Design patterns
 description: Explore design patterns in in-context learning, enhancing LLM performance by optimizing prompts and leveraging contextual data for scalable AI applications.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## In-context learning
 

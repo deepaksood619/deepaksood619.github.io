@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/the-5-am-club
 title: The 5 AM Club
 description: Unlock your potential with "The 5 AM Club" by Robin Sharma, focusing on morning mastery, distraction-free productivity, and achieving peak performance.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Robin Sharma
 

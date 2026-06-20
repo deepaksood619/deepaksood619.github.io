@@ -3,7 +3,7 @@ slug: /mathematics/general/numbers
 title: Numbers
 description: Explore the various types of numbers, including natural, whole, integers, rational, and real numbers, and understand their unique characteristics and uses.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ![image](../../media/Numbers-image1.jpg)
 

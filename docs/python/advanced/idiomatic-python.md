@@ -3,7 +3,7 @@ slug: /python/advanced/idiomatic-python
 title: Mastering Idiomatic Python Practices
 description: Enhance your Python skills with idiomatic practices like chained comparisons, truthy values, and effective string formatting.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Idiomatic Python
 

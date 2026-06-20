@@ -3,7 +3,7 @@ slug: /algorithms/data-compression/huffman-compression
 title: Understanding Huffman Compression Techniques
 description: Explore Huffman Compression with variable-length codes, prefix-free codes, and methods for efficient data encoding and expansion.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Variable-length codes
 

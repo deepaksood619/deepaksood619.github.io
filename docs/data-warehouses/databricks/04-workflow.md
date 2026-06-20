@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/04-workflow
 title: Databricks Job Workflow Management
 description: Learn how to create, run, and manage Databricks jobs using AWS for efficient data workflows.
 created: 2023-03-17
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 [Create, run, and manage Databricks Jobs | Databricks on AWS](https://docs.databricks.com/workflows/jobs/jobs.html)
 

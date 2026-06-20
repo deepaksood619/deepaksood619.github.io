@@ -3,7 +3,7 @@ slug: /algorithms/general/prime-factorization
 title: Understanding Prime Factorization Basics
 description: Learn prime factorization techniques, including trial division and prime factor trees, to break down numbers into their prime components.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Prime factorization or integer factorization of a number is breaking a number down into the set of prime numbers which multiply together to result in the original number. This is also known as prime decomposition.
 

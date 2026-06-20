@@ -3,7 +3,7 @@ slug: /cloud/aws/networking-content-delivery/amazon-route53
 title: Amazon Route53
 description: Discover Amazon Route 53, a scalable DNS service that connects users to AWS infrastructure, ensuring low-latency, fault-tolerant traffic routing and health monitoring.
 created: 2025-11-04
-last_update: 2025-11-05
+updated: 2025-11-05
 ---
 Scalable Domain Name System
 

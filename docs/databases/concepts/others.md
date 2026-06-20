@@ -3,7 +3,7 @@ slug: /databases/concepts/others
 title: "Understanding JDBC: Java Database Connectivity"
 description: Explore JDBC, the API for Java that enables seamless database connectivity and interaction with relational databases.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## JDBC - Java Database Connectivity
 

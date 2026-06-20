@@ -3,7 +3,7 @@ slug: /cloud/others/imagekit
 title: Imagekit
 description: Optimize and transform your images effortlessly with ImageKit's powerful features like performance monitoring, SEO-friendly URLs, and advanced cropping tools.
 created: 2024-01-04
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ### Intro
 

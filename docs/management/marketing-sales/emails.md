@@ -3,7 +3,7 @@ slug: /management/marketing-sales/emails
 title: Comprehensive Email Clients and Tools
 description: Explore a curated list of email clients and sending tools for effective communication and outreach.
 created: 2025-04-29
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Email Clients
 

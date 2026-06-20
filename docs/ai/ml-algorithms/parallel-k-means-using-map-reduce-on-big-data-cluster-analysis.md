@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/parallel-k-means-using-map-reduce-on-big-data-cluster-an
 title: Parallel K-means using Map Reduce on Big Data Cluster Analysis
 description: Discover how to implement parallel K-means clustering using Map Reduce for efficient big data analysis and optimization of computational resources.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ![image](../../media/Parallel-K-means-using-Map-Reduce-on-Big-Data-Cluster-Analysis-image1.jpg)
 

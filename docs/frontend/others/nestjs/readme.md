@@ -3,7 +3,7 @@ slug: /frontend/others/nestjs/readme
 title: Introduction to NestJs Framework
 description: Discover NestJs, a powerful Node.js framework designed for building scalable and efficient server-side applications using TypeScript.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8)
 

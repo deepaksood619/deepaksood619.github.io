@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/replication
 title: Replication
 description: Learn how to set up and manage MySQL replication effectively with our comprehensive tutorials and courses for enhanced database performance.
 created: 2024-05-04
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 [MySQL Replication Tutorial - YouTube](https://www.youtube.com/playlist?list=PLd5sTGXltJ-mvbbhIyLT8hjinK9RYfjhY)
 

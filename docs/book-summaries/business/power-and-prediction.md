@@ -3,7 +3,7 @@ slug: /book-summaries/business/power-and-prediction
 title: Power and Prediction
 description: Explore "Power and Prediction," a profound analysis of AI's transformative influence on the economy, business strategies, and societal dynamics by leading experts.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 The Disruptive Economics of Artificial Intelligence
 

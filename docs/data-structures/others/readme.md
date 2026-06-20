@@ -3,7 +3,7 @@ slug: /data-structures/others/readme
 title: Key Data Structures for Databases
 description: Explore essential data structures like SSTables and LSM Trees that enhance database performance and indexing.
 created: 2023-03-05
-last_update: 2025-02-02
+updated: 2025-02-02
 ---
 - [SSTables, Sorted String Tables](sstables-sorted-string-tables)
 - [LSM (Log Structured Merge Trees)](lsm-log-structured-merge-trees)

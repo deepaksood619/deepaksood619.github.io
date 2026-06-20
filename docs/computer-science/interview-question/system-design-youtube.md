@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/system-design-youtube
 title: YouTube System Design Overview
 description: Explore the intricate system design of YouTube, including video uploads, transcoding, and metadata handling for efficient streaming.
 created: 2024-09-24
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ![System Design of YouTube](../../media/Pasted%20image%2020240921221234.jpg)
 

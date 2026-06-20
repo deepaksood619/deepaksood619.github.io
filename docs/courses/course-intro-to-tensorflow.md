@@ -3,7 +3,7 @@ slug: /courses/course-intro-to-tensorflow
 title: Course - Intro to TensorFlow
 description: Explore the fundamentals of TensorFlow, mastering lazy evaluation, graphs, sessions, and variables in this hands-on introductory course.
 created: 2023-03-05
-last_update: 2024-09-19
+updated: 2024-09-19
 ---
 https://www.youtube.com/watch?v=tPYj3fFJGjk
 

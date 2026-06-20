@@ -3,7 +3,7 @@ slug: /technologies/apache-spark/06-sliding-window-analytics
 title: Sliding Window Analytics Overview
 description: Explore scalable sliding window analytics for stream processing with efficient fault tolerance and flexible window types.
 created: 2023-03-05
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 Stream processing framework that is
 

@@ -3,7 +3,7 @@ slug: /devops/kubernetes/services-loadbalancing-and-networking/others
 title: Kubernetes DNS for Services and Pods
 description: Learn how Kubernetes DNS manages name resolution for services and pods in your cluster.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## DNS for services and pods
 

@@ -3,7 +3,7 @@ slug: /knowledge/general/readme
 title: General
 description: Explore a comprehensive guide on general knowledge, covering humanity, science, mental models, timelines, and more to enhance your understanding and curiosity.
 created: 2023-03-05
-last_update: 2023-03-29
+updated: 2023-03-29
 ---
 - [Intro](knowledge/general/intro.md)
 - [Outline of Knowledge](outline-of-knowledge)

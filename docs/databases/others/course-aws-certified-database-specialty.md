@@ -3,7 +3,7 @@ slug: /databases/others/course-aws-certified-database-specialty
 title: AWS Certified Database Specialty Course
 description: Master AWS database services, optimization, and management strategies to excel in the AWS Certified Database - Specialty exam.
 created: 2023-03-05
-last_update: 2024-03-30
+updated: 2024-03-30
 ---
 PTO - Performance Tuning and Optimization
 

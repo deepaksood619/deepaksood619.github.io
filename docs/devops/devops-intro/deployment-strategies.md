@@ -3,7 +3,7 @@ slug: /devops/devops-intro/deployment-strategies
 title: Effective Deployment Strategies Explained
 description: Discover essential deployment strategies like Blue/Green and Canary deployments to optimize your software release process.
 created: 2023-03-05
-last_update: 2023-12-23
+updated: 2023-12-23
 ---
 ![image](../../media/DevOps-DevOps-Deployment-Strategies-image1.jpg)
 

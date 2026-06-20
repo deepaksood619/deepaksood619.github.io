@@ -3,7 +3,7 @@ slug: /frontend/others/angularjs/03-modules
 title: Understanding Angular Modules
 description: Explore Angular modules, their structure, and how they enhance code maintainability and testability in your Angular applications.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Modules
 

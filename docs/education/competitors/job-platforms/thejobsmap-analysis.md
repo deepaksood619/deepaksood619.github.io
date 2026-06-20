@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/thejobsmap-analysis
 title: TheJobsMap Analysis Overview
 description: Explore preliminary insights into TheJobsMap, a global tech job aggregator with limited public information available.
 created: 2026-06-08
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ## ⚠️ Research Limitation Notice
 

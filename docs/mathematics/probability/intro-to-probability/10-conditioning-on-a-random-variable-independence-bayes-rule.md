@@ -3,7 +3,7 @@ slug: /mathematics/probability/intro-to-probability/10-conditioning-on-a-random-
 title: 10. Conditioning on a random variable; Independence; Bayes' rule
 description: Explore the concepts of conditioning on random variables, independence, and Bayes' rule in probability theory to enhance your statistical analysis skills.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 ![image](../../../media/Intro-Syllabus_10.-Conditioning-on-a-random-variable;-Independence;-Bayes'-rule-image1.jpg)
 

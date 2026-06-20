@@ -3,7 +3,7 @@ slug: /cloud/others/akamai
 title: Akamai
 description: Discover how Akamai's offloading improves user experience by serving content from edge servers, reducing costs, and enhancing delivery speed.
 created: 2025-02-13
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 ### Offload
 

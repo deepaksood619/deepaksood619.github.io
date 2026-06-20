@@ -3,7 +3,7 @@ slug: /devops/kubernetes/concepts-and-overview/readme
 title: Kubernetes Objects Overview
 description: Explore the essential Kubernetes objects, their roles, and how they help manage your cluster's desired state effectively.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Kubernetes Objects
 

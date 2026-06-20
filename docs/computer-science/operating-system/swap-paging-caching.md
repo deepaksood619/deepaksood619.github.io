@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/swap-paging-caching
 title: Understanding Swap, Paging, and Caching
 description: Explore the concepts of swap, paging, and caching in memory management for efficient system performance and memory allocation.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Paging
 

@@ -3,7 +3,7 @@ slug: /psychology/people
 title: People
 description: Discover influential financial experts and role models like Warren Buffett, Ray Dalio, and Elon Musk, shaping the world of investing and innovation.
 created: 2023-06-26
-last_update: 2026-02-12
+updated: 2026-02-12
 ---
 ## Financial Experts
 

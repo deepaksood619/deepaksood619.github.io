@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/mysql-heatwave
 title: MySQL Heatwave
 description: Discover MySQL HeatWave, the fully managed database combining OLTP, OLAP, and ML for unmatched performance, eliminating ETL complexity and costs.
 created: 2023-12-14
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 One Database for OLTP, OLAP, ML & Lakehouse
 

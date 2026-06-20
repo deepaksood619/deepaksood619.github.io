@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/nano-urea
 title: Nano Urea
 description: Explore nano urea's agronomic benefits, environmental impact, and geopolitical significance in enhancing global agriculture and sustainable practices.
 created: 2026-06-06
-last_update: 2026-06-07
+updated: 2026-06-07
 ---
 **Comprehensive Analysis of Nano Urea: Agronomic Efficacy, Environmental Life Cycle, and Global Geopolitical Implications**
 

@@ -3,7 +3,7 @@ slug: /frontend/react/course
 title: React Course Resources and Roadmap
 description: Explore essential React course materials, coding questions, and roadmaps to enhance your development skills with React.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Roadmap - https://www.youtube.com/watch?v=Ip_jOSpThSg
 

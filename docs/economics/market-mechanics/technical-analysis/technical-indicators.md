@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/technical-analysis/technical-indicators
 title: Technical Indicators
 description: Discover essential technical indicators like RSI, MACD, Stochastic, and ROC to enhance your trading strategies and make informed investment decisions.
 created: 2023-03-05
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ### Relative strength index (RSI) (14)
 

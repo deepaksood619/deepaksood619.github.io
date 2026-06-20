@@ -3,7 +3,7 @@ slug: /python/python-intro/operators
 title: Understanding Python Operators
 description: Explore the different types of operators in Python, including arithmetic, logical, and identity operators, and their usage.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 Types of Operator
 

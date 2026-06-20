@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/drinking-water-with-meal
 title: Drinking Water with Meal
 description: Explore the complexities of drinking water with meals, examining its physiological and metabolic impacts in our comprehensive analysis of periprandial hydration.
 created: 2026-06-10
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 **The Physiological, Metabolic, and Clinical Dynamics of Periprandial Hydration: A Comprehensive Gastroenterological Analysis**
 

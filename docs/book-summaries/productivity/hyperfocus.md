@@ -3,7 +3,7 @@ slug: /book-summaries/productivity/hyperfocus
 title: Hyperfocus
 description: Discover how to boost productivity and creativity by mastering hyperfocus, reclaiming your attention, and managing your mental space effectively.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Chris Bailey
 

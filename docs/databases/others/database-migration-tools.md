@@ -3,7 +3,7 @@ slug: /databases/others/database-migration-tools
 title: Essential Database Migration Tools
 description: Explore top database migration tools like Liquibase to track, version, and deploy schema changes efficiently.
 created: 2024-01-02
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 ## Liquibase
 

@@ -3,7 +3,7 @@ slug: /devops/kubernetes/workloads/controllers
 title: Understanding Kubernetes Controllers
 description: Explore the role of controllers in Kubernetes orchestration, including their functions and how to create custom operators.
 created: 2023-03-05
-last_update: 2026-05-13
+updated: 2026-05-13
 ---
 ## Controllers / Operators
 

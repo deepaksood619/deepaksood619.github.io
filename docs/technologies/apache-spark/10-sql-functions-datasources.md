@@ -3,7 +3,7 @@ slug: /technologies/apache-spark/10-sql-functions-datasources
 title: SQL Functions and Data Sources
 description: Explore essential PySpark SQL functions and data sources for effective data manipulation. Learn about aggregate, window, JSON functions and more.
 created: 2023-03-16
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 ## PySpark SQL Functions
 

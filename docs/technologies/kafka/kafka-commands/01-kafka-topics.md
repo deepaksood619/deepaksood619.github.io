@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-commands/01-kafka-topics
 title: Managing Kafka Topics
 description: Learn how to create, inspect, and modify Kafka topics with essential commands for efficient topic management.
 created: 2026-03-21
-last_update: 2026-03-25
+updated: 2026-03-25
 ---
 This module covers the lifecycle of Kafka topics, including creation, inspection, and modification.
 

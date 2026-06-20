@@ -3,7 +3,7 @@ slug: /technologies/apache/apache-iceberg
 title: Understanding Apache Iceberg
 description: Discover Apache Iceberg, a high-performance format for analytics tables, enabling reliable SQL operations across multiple engines seamlessly.
 created: 2025-12-04
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Iceberg is a high-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, and Hive to safely work with the same tables, at the same time.
 

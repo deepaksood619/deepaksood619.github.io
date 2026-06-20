@@ -3,7 +3,7 @@ slug: /computer-science/security/cryptography/public-key-cryptography
 title: Understanding Public-Key Cryptography
 description: Learn how public-key cryptography uses key pairs for secure authentication and encryption in digital communications.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Public key cryptography, orasymmetrical cryptography, is any cryptographic system that uses pairs of [keys](https://en.wikipedia.org/wiki/Cryptographic_key):public keyswhich may be disseminated widely, andprivate keyswhich are known only to the owner. This accomplishes two functions:[authentication](https://en.wikipedia.org/wiki/Authentication_protocol), where the public key verifies that a holder of the paired private key sent the message, and [encryption](https://en.wikipedia.org/wiki/Encryption), where only the paired private key holder can decrypt the message encrypted with the public key
 

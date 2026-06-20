@@ -3,7 +3,7 @@ slug: /knowledge/history/others
 title: Others
 description: Explore topics on totalitarianism, monopolies, evolution, and more with insightful summaries from Blinkist and related links about history and science.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Blinkist - The future is history
 

@@ -3,7 +3,7 @@ slug: /devops/devops-intro/load-balancer-features
 title: Key Load Balancer Features
 description: Explore essential load balancer features, including service discovery methods and patterns for improved backend management.
 created: 2024-01-19
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ## Service discovery
 

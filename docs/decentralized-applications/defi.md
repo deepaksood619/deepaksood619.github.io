@@ -3,7 +3,7 @@ slug: /decentralized-applications/defi
 title: DeFi
 description: Explore DeFi, where decentralized finance revolutionizes banking through blockchain, offering seamless lending, borrowing, and token swapping for enhanced capital efficiency.
 created: 2023-03-05
-last_update: 2026-01-02
+updated: 2026-01-02
 ---
 You can hide and cross borders with, that gives you access to your own private offworld bank account
 

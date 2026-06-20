@@ -3,7 +3,7 @@ slug: /computer-science/distributed-system/cap-theorem
 title: Understanding CAP Theorem Explained
 description: Explore the CAP Theorem's core concepts: consistency, availability, and partition tolerance in distributed systems.
 created: 2023-03-05
-last_update: 2025-12-16
+updated: 2025-12-16
 ---
 Proposed by Eric Brewer (Berkeley)
 

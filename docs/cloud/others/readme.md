@@ -3,7 +3,7 @@ slug: /cloud/others/readme
 title: Other Clouds
 description: Explore various cloud solutions, including Linode, Oracle, VMware, and CDNs, to enhance your infrastructure and optimize performance across platforms.
 created: 2023-03-05
-last_update: 2025-11-09
+updated: 2025-11-09
 ---
 - [Linode](cloud/others/linode.md)
 - [Oracle](oracle)

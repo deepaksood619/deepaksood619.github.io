@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/climate-change
 title: Climate Change
 description: Explore the impact of climate change on our planet, global warming trends, and innovative solutions for a sustainable future.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Earth / Environment / Global warming
 

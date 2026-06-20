@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/clothes-textiles
 title: Cloth Fibers / Textiles
 description: Explore the world of cloth fibers and textiles, from cotton and linen to polyester and silk, and discover their unique properties and uses.
 created: 2023-07-21
-last_update: 2025-08-04
+updated: 2025-08-04
 ---
 1. Cotton
 2. Linen

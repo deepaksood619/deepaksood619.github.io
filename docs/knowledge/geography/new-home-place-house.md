@@ -3,7 +3,7 @@ slug: /knowledge/geography/new-home-place-house
 title: New Home / Place Buying / House
 description: Explore essential insights on buying a new home, understanding housing investments, and choosing the best places to live for long-term benefits.
 created: 2024-02-23
-last_update: 2026-05-18
+updated: 2026-05-18
 ---
 - [Living](knowledge/geography/living.md)
 - [home-house-building](knowledge/geography/home-house-building.md)

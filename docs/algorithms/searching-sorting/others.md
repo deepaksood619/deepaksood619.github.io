@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/others
 title: Advancements in Sorting Lower Bounds
 description: Explore efficient sorting techniques using the word RAM model and van Embde Boas Trees to tackle the Predecessor Problem.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Beating sorting lower bounds
 

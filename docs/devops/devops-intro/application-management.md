@@ -3,7 +3,7 @@ slug: /devops/devops-intro/application-management
 title: Comprehensive Application Management Services
 description: Discover effective application management techniques for optimizing software performance and integrating enterprise functions.
 created: 2024-01-30
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Application management provides a wide variety of application services, processes and methodologies for maintaining, enhancing and managing custom applications, packaged software applications or network-delivered applications.
 

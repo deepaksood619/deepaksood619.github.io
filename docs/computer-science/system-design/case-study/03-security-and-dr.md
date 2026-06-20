@@ -3,7 +3,7 @@ slug: /computer-science/system-design/case-study/03-security-and-dr
 title: Security and Data Recovery Strategies
 description: Explore BFB's security architecture, compliance, and client-side field level encryption for protecting sensitive PII.
 created: 2026-01-29
-last_update: 2026-01-29
+updated: 2026-01-29
 ---
 ## Security Architecture and Compliance
 

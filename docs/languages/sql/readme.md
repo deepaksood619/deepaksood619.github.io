@@ -3,7 +3,7 @@ slug: /languages/sql/readme
 title: SQL
 description: Explore SQL with our comprehensive guide covering concepts, commands, data types, and advanced queries to enhance your database management skills.
 created: 2023-03-05
-last_update: 2025-11-01
+updated: 2025-11-01
 ---
 - [Intro](languages/sql/intro.md)
 - [Concepts](languages/sql/concepts.md)

@@ -3,7 +3,7 @@ slug: /algorithms/advanced-algorithms/disk-scheduling-algorithms
 title: Understanding Disk Scheduling Algorithms
 description: Explore the elevator (SCAN) algorithm in disk scheduling, which optimizes read/write requests by mimicking elevator behavior.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Elevator algorithm / SCAN
 

@@ -3,7 +3,7 @@ slug: /languages/others/other-languages
 title: Other Languages
 description: Explore the essentials of diverse programming languages like Assembly and Elixir, including their uses, advantages, and programming concepts to enhance your skills.
 created: 2023-03-05
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 https://dev.to/raygun/top-43-programming-languages-when-and-how-to-use-them-515n
 

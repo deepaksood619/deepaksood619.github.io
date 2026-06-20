@@ -3,7 +3,7 @@ slug: /education/market-analysis/isa-pap-student-experience
 title: ISA/PAP Student Experience Insights
 description: Explore the mixed student experiences with ISA/PAP, focusing on satisfaction, stress, and gaming behaviors in education financing.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Last Updated:** June 2026
 

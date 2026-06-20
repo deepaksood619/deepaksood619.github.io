@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/the-squiggly-career
 title: The Squiggly Career
 description: Discover how to navigate the modern career landscape by embracing flexibility, identifying your strengths, and taking control of your professional journey with "The Squiggly Career."
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Helen Tupper and Sarah Ellis
 

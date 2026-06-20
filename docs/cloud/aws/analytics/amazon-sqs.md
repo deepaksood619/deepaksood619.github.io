@@ -3,7 +3,7 @@ slug: /cloud/aws/analytics/amazon-sqs
 title: Amazon SQS
 description: Discover Amazon SQS, a fully managed message queuing service that simplifies message handling for microservices, ensuring reliability and scalability without overhead.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Managed Message Queues
 

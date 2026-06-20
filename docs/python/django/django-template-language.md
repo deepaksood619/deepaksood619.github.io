@@ -3,7 +3,7 @@ slug: /python/django/django-template-language
 title: Understanding Django Template Language
 description: Explore the basics of Django Template Language, including placeholders, template tags, and filters for dynamic content.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 `{{ foo }}` - this is a placeholder in the template, for the variable *foo* that is passed to the template from a view.
 

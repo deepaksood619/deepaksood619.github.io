@@ -3,7 +3,7 @@ slug: /computer-science/system-design/trade-offs
 title: Understanding Trade-Offs in System Design
 description: Explore key trade-offs in engineering decisions, including speed, memory, and operational complexities in system design.
 created: 2023-03-05
-last_update: 2024-03-13
+updated: 2024-03-13
 ---
 Compute is cheap. Storage is cheap. Engineering time is expensive.
 

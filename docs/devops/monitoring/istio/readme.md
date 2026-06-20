@@ -3,7 +3,7 @@ slug: /devops/monitoring/istio/readme
 title: Comprehensive Guide to Istio
 description: Explore Istio's architecture, traffic management, security, and observability with our detailed guide and resources.
 created: 2023-03-05
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 - [Istio](devops/monitoring/istio/intro.md)
 - [Architecture](devops/monitoring/istio/architecture.md)

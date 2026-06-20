@@ -3,7 +3,7 @@ slug: /databases-sql/aws-aurora/high-availability-ha-others
 title: High Availability (HA) Others
 description: Discover MySQL InnoDB Cluster for high availability, featuring automated failover, fault tolerance, and disaster recovery with seamless data replication.
 created: 2024-05-02
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## MySQL Enterprise High Availability
 

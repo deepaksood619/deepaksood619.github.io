@@ -3,7 +3,7 @@ slug: /education/competitors/india-edtech/growthschool-analysis
 title: GrowthSchool Company Analysis
 description: Explore the preliminary insights and market position of GrowthSchool, an upskilling platform targeting professionals.
 created: 2026-05-27
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **⚠️ RESEARCH STATUS:** Preliminary analysis based on limited public information. Website heavily JavaScript-rendered, detailed metrics not publicly accessible. Requires follow-up research.
 

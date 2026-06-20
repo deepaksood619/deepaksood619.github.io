@@ -3,7 +3,7 @@ slug: /python/documentation/readme
 title: Comprehensive Python Documentation
 description: Explore extensive documentation covering Python's standard library, built-in functions, types, and more for effective coding.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 - [The Python Standard Library](the-python-standard-library)
 - [01 Intro](python/documentation/01-intro.md)

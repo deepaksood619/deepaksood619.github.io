@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/intro
 title: Security, Identity and Compliance
 description: Explore AWS Security, Identity, and Compliance solutions for effective user access management, threat detection, and automated vulnerability management in the cloud.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 1. **AWS Identity & Access Management (IAM) -** Manage User Access and Encryption Keys
 2. **Amazon Cognito** - Identity management for your apps

@@ -3,7 +3,7 @@ slug: /mathematics/probability/intro-to-probability/additional-theoretical-mater
 title: Additional Theoretical Material
 description: Explore the concepts of functions, variance of the geometric PMF, and memorylessness property in probability theory to deepen your understanding of random variables.
 created: 2023-03-05
-last_update: 2023-05-03
+updated: 2023-05-03
 ---
 ## Functions
 

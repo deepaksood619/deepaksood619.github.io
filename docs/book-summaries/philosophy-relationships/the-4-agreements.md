@@ -3,7 +3,7 @@ slug: /book-summaries/philosophy-relationships/the-4-agreements
 title: The 4 Agreements
 description: Discover the transformative wisdom of the 4 Agreements, focusing on the power of words, avoiding assumptions, and embracing personal freedom for a better life.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ### Agreement 1: Be impeccable with your Word
 

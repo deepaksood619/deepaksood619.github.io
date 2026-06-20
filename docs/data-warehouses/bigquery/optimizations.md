@@ -3,7 +3,7 @@ slug: /data-warehouses/bigquery/optimizations
 title: BigQuery Job Priority Optimizations
 description: Learn how to set Batch job priority for efficient ad-hoc query execution in BigQuery Studio.
 created: 2025-01-18
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Config Optimizations
 

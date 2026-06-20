@@ -3,7 +3,7 @@ slug: /knowledge/links
 title: Links
 description: Discover daily top headlines, insightful analyses, and essential video links curated for your knowledge and growth in news, finance, and technology.
 created: 2023-09-16
-last_update: 2026-05-26
+updated: 2026-05-26
 ---
 ### Daily
 

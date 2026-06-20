@@ -3,7 +3,7 @@ slug: /languages/php/readme
 title: PHP
 description: Discover PHP with comprehensive resources on syntax, operators, frameworks, web concepts, and practical examples to boost your coding skills.
 created: 2023-03-05
-last_update: 2024-09-19
+updated: 2024-09-19
 ---
 - [Intro](languages/php/intro.md)
 - [Documentation](languages/php/documentation.md)

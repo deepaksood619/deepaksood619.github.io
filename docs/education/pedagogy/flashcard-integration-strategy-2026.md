@@ -3,7 +3,7 @@ slug: /education/pedagogy/flashcard-integration-strategy-2026
 title: Flashcard Integration Strategy 2026
 description: Explore an active recall approach for LLM-maintained PKM using LearnKit flashcards to enhance learning and retention.
 created: 2026-06-19
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 **Context:** Shifting focus from passive note-taking to active recall via LearnKit flashcards
 

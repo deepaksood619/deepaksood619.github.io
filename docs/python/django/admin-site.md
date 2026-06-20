@@ -3,7 +3,7 @@ slug: /python/django/admin-site
 title: Django Admin Site Overview
 description: Explore the essentials of the Django admin site, ModelAdmin objects, and how to customize list_display and fieldsets.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Overview
 

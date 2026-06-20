@@ -3,7 +3,7 @@ slug: /devops/kubernetes/api-resources
 title: Essential Kubernetes API Resources
 description: Explore key Kubernetes API resources including namespaces, pods, StatefulSets, ReplicaSets, roles, and load balancing strategies.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ### Namespaces
 

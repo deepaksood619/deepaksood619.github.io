@@ -3,7 +3,7 @@ slug: /frontend/html-css/css-intro/centering
 title: CSS Centering Techniques Explained
 description: Learn various methods to center div elements in CSS, including horizontal, vertical, and bottom alignment with practical code examples.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ```css
 /* Centering a div in a page, Basic */

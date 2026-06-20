@@ -3,7 +3,7 @@ slug: /cloud/aws/compute/amazon-ec2
 title: Amazon EC2
 description: Explore Amazon EC2 for scalable virtual servers in the cloud, and learn how to install Docker on your Ubuntu EC2 instance for seamless application deployment.
 created: 2024-12-21
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 Virtual Servers in the Cloud
 

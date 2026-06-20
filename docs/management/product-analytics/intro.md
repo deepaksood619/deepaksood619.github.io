@@ -3,7 +3,7 @@ slug: /management/product-analytics/intro
 title: Understanding Product Analytics
 description: Explore product analytics, customer segmentation techniques, and purchase behavior analysis in this comprehensive guide.
 created: 2025-02-27
-last_update: 2025-04-12
+updated: 2025-04-12
 ---
 [What is Product Analytics? Your Ultimate Guide | FullStory](https://www.fullstory.com/product-analytics/)
 

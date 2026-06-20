@@ -3,7 +3,7 @@ slug: /cloud/aws/others/others
 title: Others
 description: Explore essential steps for setting up your AWS account, including account creation, billing management, and leveraging the AWS Cloud Adoption Framework for digital transformation.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Creating a new account
 

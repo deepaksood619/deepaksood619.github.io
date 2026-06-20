@@ -3,7 +3,7 @@ slug: /languages/sql/operators-wildcards
 title: Operators / Wildcards
 description: Explore essential SQL operators and wildcards, including arithmetic, bitwise, comparison, and compound operators, to enhance your database management skills.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## SQL Arithmetic Operators
 

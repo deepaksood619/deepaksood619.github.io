@@ -3,7 +3,7 @@ slug: /python/django/architecture
 title: Understanding MVT Architecture in Django
 description: Explore the MVT architectural pattern in Django, focusing on rapid development, reusability, and efficient database management.
 created: 2023-03-05
-last_update: 2025-04-20
+updated: 2025-04-20
 ---
 Follows **Model-View-Template (MVT)** architectural pattern.
 

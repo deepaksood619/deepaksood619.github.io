@@ -3,7 +3,7 @@ slug: /decentralized-applications/intro
 title: Intro
 description: Explore the evolution of decentralized applications, their tech stacks, key features, and the impact of cryptocurrencies in the Web 3.0 landscape.
 created: 2023-03-05
-last_update: 2024-12-23
+updated: 2024-12-23
 ---
 1. Centralized
 2. Decentralised

@@ -3,7 +3,7 @@ slug: /technologies/apache-spark/01-terms
 title: Understanding Spark RDDs and Data Structures
 description: Explore the fundamentals of Spark RDDs, their characteristics, and their role in data processing.
 created: 2023-03-05
-last_update: 2025-11-24
+updated: 2025-11-24
 ---
 ## RDDs, DataFrames, DataSets
 

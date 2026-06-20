@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/milk
 title: Milk
 description: Discover the different types of milk, including cow's, almond, soy, and oat milk, and learn which option is best for your health and the planet.
 created: 2026-03-09
-last_update: 2026-06-07
+updated: 2026-06-07
 ---
 - Cow's Milk
     - Raw Milk / Whole Milk

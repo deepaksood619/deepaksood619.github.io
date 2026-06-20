@@ -3,7 +3,7 @@ slug: /python/django/other-topics
 title: Understanding Django Model Layer
 description: Explore the Django model layer, including models, QuerySets, and instance methods for effective database management.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## The model layer
 

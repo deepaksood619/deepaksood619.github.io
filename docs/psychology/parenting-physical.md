@@ -3,7 +3,7 @@ slug: /psychology/parenting-physical
 title: Parenting Physical
 description: Discover nutritious finger food ideas and homemade snacks for babies, perfect for teething and baby-led weaning to support healthy eating habits.
 created: 2026-01-10
-last_update: 2026-01-10
+updated: 2026-01-10
 ---
 ## Finger Foods
 

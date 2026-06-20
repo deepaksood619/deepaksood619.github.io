@@ -3,7 +3,7 @@ slug: /databases/concepts/disk-oriented-vs-in-memory-dbs
 title: Disk-Oriented vs In-Memory DBs
 description: Explore the differences between disk-oriented and in-memory database management systems and their impact on performance and efficiency.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Background
 

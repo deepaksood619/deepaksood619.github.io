@@ -3,7 +3,7 @@ slug: /ai/nlp/word-embedding-to-transformers
 title: Word Embedding to Transformers
 description: Explore the evolution of NLP from Word Embedding to Transformers, uncovering key techniques like machine translation and text classification.
 created: 2023-12-18
-last_update: 2025-03-14
+updated: 2025-03-14
 ---
 ## 1. Introduction
 

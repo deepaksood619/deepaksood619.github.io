@@ -3,7 +3,7 @@ slug: /knowledge/history/jainism
 title: Jainsm
 description: Explore Jainism's core principles: Ahimsa, Anekantavada, and Aparigraha, promoting non-violence, tolerance, and non-attachment for spiritual growth.
 created: 2026-06-12
-last_update: 2026-06-16
+updated: 2026-06-16
 ---
 ## 1. The Three Core Pillars (The "Three A's")
 

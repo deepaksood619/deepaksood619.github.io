@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/intro
 title: Introduction to Snowflake Architecture
 description: Discover Snowflake's multi-cluster, shared storage architecture designed for scalable cloud-based data management.
 created: 2024-01-04
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 Multi-cluster, shared storage architecture
 

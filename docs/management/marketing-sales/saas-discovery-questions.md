@@ -3,7 +3,7 @@ slug: /management/marketing-sales/saas-discovery-questions
 title: Effective SaaS Discovery Questions
 description: Explore key SaaS discovery questions to uncover business pain points and prioritize solutions effectively.
 created: 2025-06-14
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 ## Business Pain Questions
 

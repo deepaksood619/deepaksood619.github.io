@@ -3,7 +3,7 @@ slug: /knowledge/applied-sciences/generator-vs-inverter
 title: Generator vs Inverter
 description: Discover the key differences between generators and inverters as reliable residential power backup solutions in India's evolving energy landscape.
 created: 2026-06-06
-last_update: 2026-06-07
+updated: 2026-06-07
 ---
 **Comprehensive Analysis of Residential Power Backup Solutions in India: Generators versus Inverters**
 

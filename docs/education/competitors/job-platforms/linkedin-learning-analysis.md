@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/linkedin-learning-analysis
 title: LinkedIn Learning B2B Skills Analysis
 description: Explore LinkedIn Learning's B2B enterprise model, targeting corporate, educational, and government sectors for skills development.
 created: 2026-06-08
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Last Updated:** June 2026
 

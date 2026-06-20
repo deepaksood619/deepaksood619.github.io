@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-last_update: 2026-03-09
+updated: 2026-03-09
 ---
 ```bash
 ./kafka-topics --version

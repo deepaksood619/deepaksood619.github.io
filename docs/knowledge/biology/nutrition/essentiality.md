@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/essentiality
 title: Essentiality
 description: Discover the importance of essential nutrients for optimal health, and learn which nutrients your body needs from dietary sources to function effectively.
 created: 2023-03-05
-last_update: 2026-04-07
+updated: 2026-04-07
 ---
 ## Essential nutrients
 

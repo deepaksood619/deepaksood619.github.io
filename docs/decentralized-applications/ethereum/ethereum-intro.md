@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/ethereum-intro
 title: Ethereum
 description: Explore Ethereum, a decentralized platform for smart contracts using Solidity, powered by the GHOST protocol for blockchain validation and security.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 Ethereum is a **decentralized platform** that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
 

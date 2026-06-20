@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/solidity
 title: Solidity
 description: Explore Solidity for smart contracts, covering ERC protocols, token sales, and advanced development techniques in our comprehensive courses and bootcamps.
 created: 2023-03-05
-last_update: 2025-02-09
+updated: 2025-02-09
 ---
 ![image](../../media/solidity-course.webp)
 

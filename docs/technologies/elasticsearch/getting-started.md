@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/getting-started
 title: Getting Started with Elasticsearch
 description: Learn how to efficiently use Elasticsearch with optimistic concurrency control and Java API for seamless data operations.
 created: 2023-03-05
-last_update: 2024-11-29
+updated: 2024-11-29
 ---
 ## Points
 

@@ -3,7 +3,7 @@ slug: /languages/php/operators
 title: Operators
 description: Learn about PHP operators including arithmetic, comparison, logical, assignment, and conditional operators to enhance your programming skills effectively.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 - Arithmetic Operators
 - Comparison Operators

@@ -3,7 +3,7 @@ slug: /databases-nosql/comparisons
 title: Comparisons
 description: Explore the key differences between Postgres and MySQL, highlighting performance, data integrity, indexing options, and advanced analytics capabilities.
 created: 2023-11-24
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Postgres vs MySQL / MySQL vs Postgres
 

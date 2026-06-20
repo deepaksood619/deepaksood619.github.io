@@ -3,7 +3,7 @@ slug: /knowledge/physics/astronomy
 title: Astronomy
 description: Explore the wonders of astronomy, from Earth's motion around the Sun to the fascinating concepts of azimuth and asterisms in the night sky.
 created: 2023-03-05
-last_update: 2023-11-22
+updated: 2023-11-22
 ---
 [Earth's motion around the Sun, not as simple as I thought](https://youtu.be/82p-DYgGFjI)
 

@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/market-structure/market-indicators
 title: Others
 description: Explore the India VIX, a key indicator of market volatility, alongside insights into equity risk premium and effective trading strategies.
 created: 2023-08-11
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ## Nifty VIX (India Volatility Index)
 

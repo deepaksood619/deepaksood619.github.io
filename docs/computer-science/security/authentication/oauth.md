@@ -3,7 +3,7 @@ slug: /computer-science/security/authentication/oauth
 title: "Understanding OAuth: Secure Access Delegation"
 description: Learn about OAuth, the open standard for secure delegated access to server resources without exposing user credentials.
 created: 2023-03-05
-last_update: 2025-07-28
+updated: 2025-07-28
 ---
 - OAuth is an open standard for access delegation
 - OAuth provides to clients a "secure delegated access" to server resources on behalf of a resource owner

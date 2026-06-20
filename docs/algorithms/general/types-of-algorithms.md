@@ -3,7 +3,7 @@ slug: /algorithms/general/types-of-algorithms
 title: Essential Types of Algorithms Explained
 description: Explore key algorithm types, including recursive, backtracking, divide and conquer, dynamic programming, and greedy approaches for efficient problem-solving.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 1. Simple recursive algorithms
 

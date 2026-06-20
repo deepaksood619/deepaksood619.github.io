@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/34-optimizing-real-time-user-analytics-using-c
 title: Real-Time User Analytics Optimization
 description: Discover how a leading EdTech platform enhanced its real-time user analytics and ad personalization with ClickHouse.
 created: 2025-05-16
-last_update: 2025-05-16
+updated: 2025-05-16
 ---
 - **Client:** A leading EdTech platform with millions of active college students across India.
 - **Technology Stack:** ClickHouse, Kafka, Python (ETL), Grafana, Kubernetes

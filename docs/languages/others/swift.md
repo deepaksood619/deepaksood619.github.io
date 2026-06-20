@@ -3,7 +3,7 @@ slug: /languages/others/swift
 title: Swift
 description: Explore Swift's basics, including syntax, data types like Int and Float, and their typical ranges for effective programming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Basic Syntax -
 

@@ -3,7 +3,7 @@ slug: /frontend/frontend-intro/frontend-architecture
 title: Understanding PRPL for PWAs
 description: Learn about the PRPL pattern for optimizing frontend architecture in Progressive Web Apps to enhance performance and user experience.
 created: 2023-03-05
-last_update: 2024-08-12
+updated: 2024-08-12
 ---
 ## PRPL pattern
 

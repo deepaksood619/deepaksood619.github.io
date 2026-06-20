@@ -3,7 +3,7 @@ slug: /economics/investment-frameworks/portfolio-construction/portfolios
 title: Portfolios
 description: Explore diverse investment portfolios including equity, debt, gold, real estate, and crypto to optimize asset allocation for financial growth.
 created: 2026-06-13
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## Portfolio
 

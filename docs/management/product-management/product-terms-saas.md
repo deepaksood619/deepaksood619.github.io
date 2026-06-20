@@ -3,7 +3,7 @@ slug: /management/product-management/product-terms-saas
 title: Essential SaaS Product Terms Explained
 description: Explore key SaaS product terms like PLP, PDP, and take-up rate to enhance your ecommerce strategy.
 created: 2023-03-05
-last_update: 2024-01-02
+updated: 2024-01-02
 ---
 ## Ecommerce
 

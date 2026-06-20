@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/types-of-code
 title: Understanding Legacy and Greenfield Code
 description: Explore the differences between legacy and greenfield code in software development to enhance your project strategies.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Legacy code
 

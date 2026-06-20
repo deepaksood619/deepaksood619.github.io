@@ -3,7 +3,7 @@ slug: /algorithms/general/orthogonal-rectangle-intersection-search
 title: Orthogonal Rectangle Intersection Search Using Sweep Line
 description: Learn how to efficiently find intersections among N orthogonal rectangles using the sweep-line algorithm.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Goal: find all intersections among a set of N orthogonal rectangles
 

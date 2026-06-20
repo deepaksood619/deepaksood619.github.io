@@ -3,7 +3,7 @@ slug: /data-warehouses/bigquery/interview-questions
 title: Essential BigQuery Interview Questions
 description: Prepare for your next interview with key BigQuery questions and detailed answers about its performance and scalability.
 created: 2025-01-28
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ### 1. What is BigQuery, and how does it differ from traditional databases?
 

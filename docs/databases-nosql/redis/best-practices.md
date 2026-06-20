@@ -3,7 +3,7 @@ slug: /databases-nosql/redis/best-practices
 title: Best Practices
 description: Discover essential Redis best practices, including indexing patterns, geospatial data handling, and full-text search techniques for optimized performance.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - [Introduction](https://redislabs.com/redis-best-practices/introduction/)
 - [Indexing Patterns](https://redislabs.com/redis-best-practices/indexing-patterns/)

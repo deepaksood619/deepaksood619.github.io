@@ -3,7 +3,7 @@ slug: /technologies/confluent/readme
 title: Confluent Technologies Overview
 description: Explore Confluent's key technologies, including Kafka, Cloud, and data governance solutions for seamless streaming and monitoring.
 created: 2025-12-01
-last_update: 2026-04-21
+updated: 2026-04-21
 ---
 - [confluent-kafka](technologies/confluent/confluent-kafka.md)
 - [confluent-tableflow](technologies/confluent/confluent-tableflow.md)

@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-architecture
 title: Understanding Kafka Architecture
 description: Explore the key components of Kafka architecture, including topics, partitions, and performance advantages like sequential I/O.
 created: 2023-03-05
-last_update: 2026-01-29
+updated: 2026-01-29
 ---
 Kafka consists of brokers that take messages from the producers and add to a partition of a topic. Brokers provide the messages to the consumers from the partitions.
 

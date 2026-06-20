@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/technology/physicswallah-comprehensi
 title: PhysicsWallah Comprehensive Investment Analysis
 description: Explore the investment outlook for PhysicsWallah, a promising EdTech firm with growth potential and evolving unit economics.
 created: 2026-06-06
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 - **Analysis Date:** June 4, 2026
 - **Exchange:** NSE / BSE

@@ -3,7 +3,7 @@ slug: /mathematics/calculus/essence-of-calculus-3blue1brown
 title: Essence of Calculus - 3Blue1Brown
 description: Explore the Essence of Calculus with 3Blue1Brown, covering derivatives, limits, integration, Taylor series, and visual insights for deeper understanding.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 1. Introduction
 

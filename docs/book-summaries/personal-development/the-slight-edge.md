@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/the-slight-edge
 title: The Slight Edge
 description: Discover how small daily choices lead to massive success and happiness in "The Slight Edge," a guide to mastering simple disciplines for lasting achievements.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 Turning Simple Disciplines into Massive Success and Happiness
 

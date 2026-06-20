@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/09-kimball-inmon-architecture
 title: Kimball vs Inmon Data Warehouse Architecture
 description: Explore the differences between Kimball and Inmon data warehouse architectures, including their applications and methodologies for effective data management.
 created: 2023-03-16
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 For designing a data warehouse, there are two most common architectures named **Kimball** and **Inmon.**
 

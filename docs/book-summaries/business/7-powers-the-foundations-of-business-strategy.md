@@ -3,7 +3,7 @@ slug: /book-summaries/business/7-powers-the-foundations-of-business-strategy
 title: "7 Powers: The Foundations of Business Strategy"
 description: Discover the seven foundational powers of business strategy, including scale economies and network effects, to enhance competitiveness and drive growth.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Hamilton Helmer
 

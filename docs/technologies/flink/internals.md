@@ -3,7 +3,7 @@ slug: /technologies/flink/internals
 title: Apache Flink Internals Overview
 description: Explore Apache Flink's stateful computations, TaskManager memory configuration, and efficient data streaming capabilities in this comprehensive guide.
 created: 2025-12-15
-last_update: 2026-01-11
+updated: 2026-01-11
 ---
 ## Apache Flink- Stateful Computations over Data Streams
 

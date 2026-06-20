@@ -3,7 +3,7 @@ slug: /mathematics/probability/binomial-random-variables
 title: Binomial Random Variables
 description: Explore binomial random variables, key conditions, and their applications in probability, including independent trials and fixed success rates.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 1. Binomial Random Variables
 

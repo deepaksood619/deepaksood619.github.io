@@ -3,7 +3,7 @@ slug: /ai/llm/agents/frontend-ui-frameworks-libraries
 title: Frontend / UI - Frameworks / Libraries
 description: Discover top Frontend/UI frameworks and libraries like CopilotKit and Assistant UI to enhance AI application development with customizable, high-quality components.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 - [GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol · GitHub](https://github.com/copilotkit/copilotkit) ⭐ 35k
 - [GitHub - assistant-ui/assistant-ui: Typescript/React Library for AI Chat💬🚀 · GitHub](https://github.com/assistant-ui/assistant-ui) ⭐ 11k

@@ -3,7 +3,7 @@ slug: /computer-science/testing/test-pyramid
 title: Understanding the Test Pyramid
 description: Explore the test pyramid concept, including unit, integration, and component tests for efficient software quality assurance.
 created: 2023-03-05
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## Typical Test Pyramid
 

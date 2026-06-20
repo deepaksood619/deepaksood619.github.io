@@ -3,7 +3,7 @@ slug: /databases/modeling/data-modeling
 title: Understanding Data Modeling Techniques
 description: Learn about data modeling in software engineering and how to create effective data models for information systems.
 created: 2023-03-05
-last_update: 2025-08-28
+updated: 2025-08-28
 ---
 Data modeling in [software engineering](https://en.wikipedia.org/wiki/Software_engineering) is the process of creating a [data model](https://en.wikipedia.org/wiki/Data_model) for an [information system](https://en.wikipedia.org/wiki/Information_system) by applying certain formal techniques
 

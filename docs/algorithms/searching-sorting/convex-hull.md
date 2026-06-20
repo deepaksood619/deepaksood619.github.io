@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/convex-hull
 title: Understanding the Convex Hull Concept
 description: Explore the convex hull's definition, properties, applications, and the Graham Scan algorithm for efficient computation.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - Smallest polygon that encloses all the points
 - The convex hull of a set of N points is the smallest perimeter fence enclosing the points.

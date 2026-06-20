@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-rest-proxy
 title: Kafka REST Proxy Overview
 description: Explore the Kafka REST Proxy for easy data production, consumption, and cluster management via a simple RESTful interface.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 The Kafka REST Proxy provides a RESTful interface to a Kafka cluster. It makes it easy to produce and consume data, view the state of the cluster, and perform administrative actions without using the native Kafka protocol or clients. Examples of use cases include reporting data to Kafka from any front-end app built in any language, ingesting data into a stream processing framework that doesn't yet support Kafka, and scripting administrative actions.
 

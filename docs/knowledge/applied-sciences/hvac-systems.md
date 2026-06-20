@@ -3,7 +3,7 @@ slug: /knowledge/applied-sciences/hvac-systems
 title: HVAC Systems
 description: Discover how efficient HVAC systems can reduce energy waste in commercial buildings, cut costs, and lower greenhouse gas emissions for a sustainable future.
 created: 2023-11-22
-last_update: 2024-10-08
+updated: 2024-10-08
 ---
 - H - Heating
 - V - Ventilation

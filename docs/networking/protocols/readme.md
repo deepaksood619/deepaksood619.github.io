@@ -3,7 +3,7 @@ slug: /networking/protocols/readme
 title: Networking Protocols Overview
 description: Explore key networking protocols including TCP, UDP, HTTP, and more to understand their functionalities and applications.
 created: 2023-03-05
-last_update: 2025-02-02
+updated: 2025-02-02
 ---
 - [Protocols](networking/protocols/intro.md)
 - [Protocols Intro](protocols-intro)

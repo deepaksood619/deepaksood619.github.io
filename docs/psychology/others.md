@@ -3,7 +3,7 @@ slug: /psychology/others
 title: Others
 description: Explore classical conditioning through Pavlov's experiment, detailing its processes, types, and significance in understanding learning behaviors.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Classical Conditioning (Pavlov's Experiment)
 

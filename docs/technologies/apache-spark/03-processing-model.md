@@ -3,7 +3,7 @@ slug: /technologies/apache-spark/03-processing-model
 title: Apache Spark Processing Model
 description: Discover Apache Spark's efficient processing model, enhancing batch processing with in-memory computation and optimized performance.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 Apache Spark is a next generation batch processing framework with stream processing capabilities. Built using many of the same principles of Hadoop's MapReduce engine, Spark focuses primarily on speeding up batch processing workloads by offering full in-memory computation and processing optimization.
 

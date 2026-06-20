@@ -3,7 +3,7 @@ slug: /technologies/apache-airflow/intro
 title: Introduction to Airflow Workflows
 description: Explore Airflow, a powerful platform for authoring, scheduling, and monitoring workflows using directed acyclic graphs (DAGs).
 created: 2023-03-05
-last_update: 2025-10-24
+updated: 2025-10-24
 ---
 Airflow is a platform to programmatically author, schedule and monitor workflows.
 

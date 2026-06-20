@@ -3,7 +3,7 @@ slug: /computer-science/system-design/readme
 title: Comprehensive System Design Guide
 description: Explore various system design concepts including architectures, trade-offs, and integration patterns for robust applications.
 created: 2023-03-05
-last_update: 2026-01-30
+updated: 2026-01-30
 ---
 - [Intro](computer-science/system-design/intro.md)
 - [Trade offs](trade-offs)

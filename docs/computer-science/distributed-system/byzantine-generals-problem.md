@@ -3,7 +3,7 @@ slug: /computer-science/distributed-system/byzantine-generals-problem
 title: Understanding the Byzantine Generals' Problem
 description: Explore the Byzantine Generals' Problem and its implications for consensus in distributed networks, ensuring resilience against faulty nodes.
 created: 2023-06-24
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ![image](../../media/Fallacies-and-Problems-image1.jpg)
 

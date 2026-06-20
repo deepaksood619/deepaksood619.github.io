@@ -3,7 +3,7 @@ slug: /management/roles/principle-software-engineer
 title: Understanding the Principal Software Engineer Role
 description: Explore the responsibilities and mindset of a Principal Software Engineer, emphasizing technical leadership and team empowerment.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [My thoughts about the Principal role](https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html)
 

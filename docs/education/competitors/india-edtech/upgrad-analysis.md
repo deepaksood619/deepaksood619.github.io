@@ -3,7 +3,7 @@ slug: /education/competitors/india-edtech/upgrad-analysis
 title: UpGrad Company Analysis Overview
 description: Explore UpGrad's growth, acquisitions, and market position in the edtech sector since its founding in 2015.
 created: 2026-05-27
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

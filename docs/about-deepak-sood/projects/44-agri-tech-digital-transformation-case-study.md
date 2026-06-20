@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study
 title: Agri-Tech Startup Digital Transformation
 description: Explore how a tech-driven agri-tech startup overcame challenges through digital transformation to enhance scalability and streamline operations.
 created: 2024-11-24
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 **Case Study: Digital Transformation for an Agri-Tech Startup**
 

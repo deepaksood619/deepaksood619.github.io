@@ -3,7 +3,7 @@ slug: /devops/cicd/comparison
 title: CI/CD Tools for Kubernetes
 description: Explore our comprehensive comparison of CI/CD tools focused on Kubernetes deployments to optimize your software delivery.
 created: 2026-05-09
-last_update: 2026-05-23
+updated: 2026-05-23
 ---
 ## Overview
 

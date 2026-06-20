@@ -3,7 +3,7 @@ slug: /cloud/others/vmware
 title: VMware
 description: Discover VMware ESXi, the high-performance bare-metal hypervisor that enhances virtualization efficiency and scalability for large-scale environments.
 created: 2023-12-23
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## VMware ESXi
 

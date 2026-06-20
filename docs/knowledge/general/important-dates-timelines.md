@@ -3,7 +3,7 @@ slug: /knowledge/general/important-dates-timelines
 title: Important Dates / Timelines
 description: Explore key historical milestones, including NATO's formation, environmental conferences, and significant global observances throughout January and beyond.
 created: 2023-03-05
-last_update: 2024-10-19
+updated: 2024-10-19
 ---
 |                      |                                                                                                               |
 | -------------------- | ------------------------------------------------------------------------------------------------------------- |

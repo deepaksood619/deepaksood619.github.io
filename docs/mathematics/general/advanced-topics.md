@@ -3,7 +3,7 @@ slug: /mathematics/general/advanced-topics
 title: Advanced Topics
 description: Explore advanced topics in probability and statistics, including Bayes' Theorem, Maximum Likelihood Estimation, and the Monty Hall Problem.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Bayes' Theorem and Conditional Probability (https://brilliant.org/wiki/bayes-theorem)
 Linear Diophantine Equations (https://brilliant.org/wiki/linear-diophantine-equations-one-equation/#linear-diophantine-equations)

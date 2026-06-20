@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-guarantees
 title: Understanding Kafka Guarantees
 description: Explore Kafka's message and processing guarantees, including ordering, delivery semantics, and fault tolerance capabilities.
 created: 2025-09-03
-last_update: 2026-01-25
+updated: 2026-01-25
 ---
 - Messages sent by a producer to a topic and a partition are appended in the same order
 - A consumer instance gets the messages in the same order as they are produced

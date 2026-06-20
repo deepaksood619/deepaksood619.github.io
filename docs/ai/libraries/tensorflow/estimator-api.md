@@ -3,7 +3,7 @@ slug: /ai/libraries/tensorflow/estimator-api
 title: Estimator API
 description: Discover the Estimator API to create and monitor production-ready machine learning models, training on large datasets efficiently with TensorBoard integration.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 - Estimator API - Wrapping a model in a common set of APIs
 - Create production ready machine learning models

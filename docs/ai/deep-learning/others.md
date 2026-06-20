@@ -3,7 +3,7 @@ slug: /ai/deep-learning/others
 title: Others
 description: Explore deep learning innovations like Neural Networks in racing cars and Stable Diffusion's capabilities in generating detailed images from text descriptions.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Neural networks racing car - https://www.youtube.com/watch?v=wL7tSgUpy8w
 

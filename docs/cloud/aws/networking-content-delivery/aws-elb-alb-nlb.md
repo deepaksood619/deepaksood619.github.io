@@ -3,7 +3,7 @@ slug: /cloud/aws/networking-content-delivery/aws-elb-alb-nlb
 title: AWS ELB / ALB / NLB
 description: Discover AWS Elastic Load Balancing (ELB) with ALB, NLB, and automatic traffic distribution for high availability and scalable applications.
 created: 2023-03-05
-last_update: 2025-11-04
+updated: 2025-11-04
 ---
 Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions. It can handle the varying load of your application traffic in a single Availability Zone or across multiple Availability Zones. Elastic Load Balancing offers three types of load balancers that all feature the high availability, automatic scaling, and robust security necessary to make your applications fault tolerant.
 

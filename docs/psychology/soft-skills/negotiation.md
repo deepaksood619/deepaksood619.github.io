@@ -3,7 +3,7 @@ slug: /psychology/soft-skills/negotiation
 title: Essential Negotiation Tips for Success
 description: Discover key negotiation tips to gain leverage and foster lasting relationships for future negotiations.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 You want leverage.
 

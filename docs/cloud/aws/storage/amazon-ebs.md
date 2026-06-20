@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-ebs
 title: Amazon EBS
 description: Discover Amazon EBS: network-attached storage for EC2 instances, offering scalable capacity, performance tuning, and point-in-time snapshots for data management.
 created: 2023-03-05
-last_update: 2025-11-14
+updated: 2025-11-14
 ---
 ## EBS Usage
 

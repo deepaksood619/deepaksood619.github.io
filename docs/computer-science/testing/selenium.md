@@ -3,7 +3,7 @@ slug: /computer-science/testing/selenium
 title: Selenium Testing Basics
 description: Learn how to run Selenium tests with ChromeDriver and RemoteWebDriver using Java code examples.
 created: 2024-01-15
-last_update: 2024-02-14
+updated: 2024-02-14
 ---
 ```bash
 pip install selenium

@@ -3,7 +3,7 @@ slug: /education/market-analysis/placement-challenges-analysis
 title: Placement Challenges Analysis Report
 description: Explore key insights from 500+ Indian students on placement challenges, validating our edtech startup's approach for effective learning.
 created: 2026-06-06
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Date:** 2026-06-06
 

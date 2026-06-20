@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/sockets
 title: Understanding Sockets in Network Programming
 description: Learn how to create and use sockets for network communication in Python and UNIX with this comprehensive guide.
 created: 2023-03-05
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 ## Socket
 

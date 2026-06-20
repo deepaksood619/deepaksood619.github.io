@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-listeners
 title: Understanding Kafka Listeners
 description: Learn how to configure Kafka listeners for proper client connection using advertised.listeners in Docker and AWS scenarios.
 created: 2023-03-05
-last_update: 2025-02-05
+updated: 2025-02-05
 ---
 tl;dr : You need to set `advertised.listeners` (or `KAFKA_ADVERTISED_LISTENERS`if you're using Docker images) to the external address (host/IP) so that clients can correctly connect to it. Otherwise they'll try to connect to the internal host address and if that's not reachable then problems ensue
 

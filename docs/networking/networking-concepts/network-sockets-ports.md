@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/network-sockets-ports
 title: Understanding Network Sockets and Ports
 description: Learn about network sockets and ports, their roles in data transmission, and how they function in computer networks.
 created: 2023-03-05
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 ## Network Sockets
 

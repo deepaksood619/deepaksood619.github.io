@@ -3,7 +3,7 @@ slug: /book-summaries/business/primed-to-perform
 title: Primed to Perform
 description: Discover how intrinsic and extrinsic motivations influence performance with insights from "Primed to Perform" by Neel Doshi and Lindsay McGregor.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Neel Doshi & Lindsay McGregor
 

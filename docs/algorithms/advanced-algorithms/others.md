@@ -3,7 +3,7 @@ slug: /algorithms/advanced-algorithms/others
 title: Streaming and Sketching Algorithms Overview
 description: Explore streaming algorithms and sketching techniques for efficient data processing and sampling in large datasets.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Streaming and Sketching Algorithms
 

@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/zcash-zec
 title: Zcash ZEC
 description: Discover Zcash (ZEC), the privacy-focused digital currency that enhances Bitcoin's design with advanced zero-knowledge technology for secure, anonymous transactions.
 created: 2025-10-12
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Zcash is HTTPS for money.
 

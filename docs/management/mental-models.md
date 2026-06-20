@@ -3,7 +3,7 @@ slug: /management/mental-models
 title: Mental Models
 description: Explore essential mental models like 1-on-1s, forcing functions, and the Directly Responsible Individual to enhance productivity and accountability in your organization.
 created: 2023-03-05
-last_update: 2026-05-25
+updated: 2026-05-25
 ---
 - [Weekly 1--1s](https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees) - "1--1's can add a whole new level of speed and agility to your company."
 - [Forcing Function](https://en.wikipedia.org/wiki/Forcing_function) - "A forcing function is any task, activity or event that forces you to take action and produce a result."

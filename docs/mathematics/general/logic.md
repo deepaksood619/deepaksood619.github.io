@@ -3,7 +3,7 @@ slug: /mathematics/general/logic
 title: Logic
 description: Explore the diverse concepts and types of logic, from informal to mathematical, and understand how they evaluate reasoning and language effectively.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Conceptions of logic
 

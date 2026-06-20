@@ -3,7 +3,7 @@ slug: /networking/others/5g-wireless-networking
 title: Exploring 5G Wireless Networking Innovations
 description: Discover cutting-edge techniques in 5G wireless networking, including ML applications and advanced PHY/MAC strategies.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Wireless Network Design
 

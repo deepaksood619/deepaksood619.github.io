@@ -3,7 +3,7 @@ slug: /management/product-analytics/customer-analytics-in-python
 title: Customer Analytics with Python
 description: Learn customer analytics using Python through segmentation, clustering, and pricing strategies for effective marketing.
 created: 2023-03-05
-last_update: 2025-02-27
+updated: 2025-02-27
 ---
 https://365datascience.teachable.com/p/customer-analytics-in-python
 

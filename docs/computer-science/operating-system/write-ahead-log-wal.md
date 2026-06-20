@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/write-ahead-log-wal
 title: Understanding Write Ahead Log (WAL)
 description: Explore Write Ahead Log (WAL) techniques for ensuring atomicity and durability in database systems. Learn how it enhances data integrity.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), write-ahead logging(WAL) is a family of techniques for providing [atomicity](https://en.wikipedia.org/wiki/Atomic_(computer_science)) and [durability](https://en.wikipedia.org/wiki/Durability_(database_systems))(two of the [ACID](https://en.wikipedia.org/wiki/ACID) properties) in [database systems](https://en.wikipedia.org/wiki/Database_system). The changes are first recorded in the log, which must be written to stable storage, before the changes are written to the database.
 In a system using WAL, all modifications are written to a [log](https://en.wikipedia.org/wiki/Database_log) before they are applied. Usually both redo and undo information is stored in the log.

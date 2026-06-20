@@ -3,7 +3,7 @@ slug: /ideas/saas-apocalypse-opportunities
 title: "SaaS Apocalypse: Unleashing New Opportunities"
 description: Discover how AI-driven development creates new opportunities for solo founders to disrupt traditional SaaS markets.
 created: 2026-06-01
-last_update: 2026-06-02
+updated: 2026-06-02
 ---
 ## Executive Summary
 

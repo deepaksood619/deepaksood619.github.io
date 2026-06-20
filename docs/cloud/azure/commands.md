@@ -3,7 +3,7 @@ slug: /cloud/azure/commands
 title: Commands
 description: Discover essential Azure CLI commands for managing Kubernetes clusters, upgrading services, and configuring IP allocations with ease.
 created: 2023-03-05
-last_update: 2025-11-09
+updated: 2025-11-09
 ---
 ```bash
 brew update && brew install azure-cli

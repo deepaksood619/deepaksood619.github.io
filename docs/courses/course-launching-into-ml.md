@@ -3,7 +3,7 @@ slug: /courses/course-launching-into-ml
 title: Course - Launching into ML
 description: Enroll in "Launching into ML" to master deep learning, optimize models, and tackle common challenges in machine learning with hands-on experience in TensorFlow.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Objectives
 

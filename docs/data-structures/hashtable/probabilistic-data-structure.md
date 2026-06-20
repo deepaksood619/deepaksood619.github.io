@@ -3,7 +3,7 @@ slug: /data-structures/hashtable/probabilistic-data-structure
 title: Understanding Probabilistic Data Structures
 description: Explore how probabilistic data structures optimize memory usage and performance for big data and streaming applications.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Probabilistic data structures are a group of data structures that are extremely useful for big data and streaming applications. Generally speaking, these data structures use hash functions to randomize and compactly represent a set of items. Collisions are ignored but errors can be well-controlled under certain threshold. Comparing with error-free approaches, these algorithms use much less memory and have constant query time. They usually support union and intersection operations and therefore can be easily parallelized.
 

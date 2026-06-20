@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/from-strength-to-strength
 title: From Strength to Strength
 description: Discover how Arthur C. Brooks' "From Strength to Strength" guides individuals over 40 to find success, happiness, and purpose in the second half of life.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 Finding Success, Happiness and Deep Purpose in the Second Half of Life
 

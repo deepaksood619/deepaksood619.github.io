@@ -3,7 +3,7 @@ slug: /ai/llm/agents/agentic-frameworks-deep-dive-analysis
 title: Agentic Frameworks Deep Dive Analysis
 description: Explore the evolution of agentic frameworks and their role in orchestrating autonomous intelligence for advanced reasoning and execution in modern AI systems.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 **Strategic Orchestration of Autonomous Intelligence: A Comparative Analysis of Modern Agentic Frameworks and the Evolution of High-Complexity Reasoning Systems**
 

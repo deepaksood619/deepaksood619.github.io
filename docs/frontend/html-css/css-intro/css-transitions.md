@@ -3,7 +3,7 @@ slug: /frontend/html-css/css-intro/css-transitions
 title: Understanding CSS Transitions
 description: Learn how to create smooth animations using CSS Transitions with this comprehensive guide on properties, duration, and timing.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 The simplest (and most straightforward) way to animate your components is through CSS Transitions. In this article, you'll learn how CSS Transitions work, and how to make animations with it.
 

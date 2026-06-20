@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/80-stashfin
 title: Stashfin Onboarding Process Overview
 description: Discover the streamlined onboarding process at Stashfin, designed for efficient integration into our fintech team.
 created: 2023-11-26
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ## Product
 

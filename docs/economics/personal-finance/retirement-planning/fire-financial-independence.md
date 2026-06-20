@@ -3,7 +3,7 @@ slug: /economics/personal-finance/retirement-planning/fire-financial-independenc
 title: Financial Independence, Retire Early (FIRE) / Retirement
 description: Discover the FIRE movement, where saving and investing 50-70% of your income empowers you to achieve financial independence and retire early.
 created: 2023-03-05
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 FIRE means to save and invest aggressively in your 20s and 30s so that you can live the latter years of your life freely
 

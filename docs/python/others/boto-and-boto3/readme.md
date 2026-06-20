@@ -3,7 +3,7 @@ slug: /python/others/boto-and-boto3/readme
 title: "Boto & Boto3: AWS SDK for Python"
 description: Learn how to securely use boto and boto3, handle exceptions, and manage AWS resources efficiently in Python.
 created: 2023-03-05
-last_update: 2024-01-19
+updated: 2024-01-19
 ---
 AWS SDK for python
 

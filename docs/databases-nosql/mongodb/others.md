@@ -3,7 +3,7 @@ slug: /databases-nosql/mongodb/others
 title: Others
 description: Explore MongoDB's oplog for tracking write operations and change streams for real-time data updates, ensuring consistency and responsiveness in your applications.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Mongodb Oplog
 

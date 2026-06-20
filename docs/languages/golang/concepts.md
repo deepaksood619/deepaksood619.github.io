@@ -3,7 +3,7 @@ slug: /languages/golang/concepts
 title: Concepts
 description: Explore Go's native concurrency with goroutines, channels, and select for efficient parallel processing and seamless task synchronization.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Goroutines & Channels
 

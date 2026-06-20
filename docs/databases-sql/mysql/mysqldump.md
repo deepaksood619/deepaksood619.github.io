@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/mysqldump
 title: MySQLDump
 description: Learn how to effectively use MySQLDump commands for database backups, including options for single transactions and specific schema exports.
 created: 2024-05-26
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 ## Commands
 

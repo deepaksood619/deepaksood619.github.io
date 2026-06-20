@@ -3,7 +3,7 @@ slug: /python/others/boto-and-boto3/slides
 title: Boto3 Slides Overview
 description: Explore Boto3, the AWS SDK for Python, and learn how to easily interact with AWS through Python programming.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Boto3
 

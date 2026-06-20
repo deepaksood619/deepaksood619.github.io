@@ -3,7 +3,7 @@ slug: /cloud/aws/compute/amazon-ec2-instance-types
 title: Amazon EC2 Instance types
 description: Discover and compare Amazon EC2 instance types effortlessly with tools and resources for pricing, performance, and specifications to optimize your cloud computing needs.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 [It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 

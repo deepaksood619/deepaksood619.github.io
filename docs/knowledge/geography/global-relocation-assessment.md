@@ -3,7 +3,7 @@ slug: /knowledge/geography/global-relocation-assessment
 title: Global Relocation Assessment
 description: Optimize your global relocation with strategic assessments of geopolitical stability, economic indicators, and infrastructure for tech professionals and their families.
 created: 2026-05-19
-last_update: 2026-05-25
+updated: 2026-05-25
 ---
 **Strategic Global Relocation Assessment: Optimizing Geopolitical, Economic, and Developmental Vectors for Advanced Technology Professionals**
 

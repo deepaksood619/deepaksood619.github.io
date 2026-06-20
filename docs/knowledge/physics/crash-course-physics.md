@@ -3,7 +3,7 @@ slug: /knowledge/physics/crash-course-physics
 title: Crash Course Physics
 description: Explore Crash Course Physics, covering key concepts like motion, forces, energy, and waves to deepen your understanding of the physical world.
 created: 2023-03-05
-last_update: 2023-03-17
+updated: 2023-03-17
 ---
 1. Motion in a Straight Line
 

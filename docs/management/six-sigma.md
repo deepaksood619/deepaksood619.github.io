@@ -3,7 +3,7 @@ slug: /management/six-sigma
 title: Six Sigma
 description: Enhance problem-solving skills, boost efficiency, reduce costs, and unlock career advancement with our comprehensive Six Sigma training program.
 created: 2023-11-26
-last_update: 2023-11-26
+updated: 2023-11-26
 ---
 ### Enhanced Problem-Solving Skills
 

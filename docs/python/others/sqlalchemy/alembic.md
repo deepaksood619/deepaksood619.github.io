@@ -3,7 +3,7 @@ slug: /python/others/sqlalchemy/alembic
 title: "Alembic: Database Migration Tool"
 description: Explore Alembic, a powerful tool for Python database migrations with SQLAlchemy, featuring automatic generation and full database compatibility.
 created: 2026-03-31
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Alembic is a lightweight, powerful database migration tool designed for Python, specifically working with the SQLAlchemy ORM. It manages database schema evolution by creating and running version-controlled migration scripts, allowing developers to upgrade or downgrade database structures safely.
 

@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-s3-tables
 title: Amazon S3 Tables
 description: Discover Amazon S3 Tables for optimized tabular data storage, offering faster queries and improved performance with seamless integration into popular query engines.
 created: 2024-12-12
-last_update: 2025-12-10
+updated: 2025-12-10
 ---
 [Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/) give you storage that is optimized for tabular data such as daily purchase transactions, streaming sensor data, and ad impressions in Apache Iceberg format, for easy queries using popular query engines like [Amazon Athena](https://aws.amazon.com/athena), [Amazon EMR](https://aws.amazon.com/emr), and [Apache Spark](https://spark.apache.org/). When compared to self-managed table storage, you can expect up to 3x faster query performance and up to 10x more transactions per second, along with the operational efficiency that is part-and-parcel when you use a fully managed service.
 

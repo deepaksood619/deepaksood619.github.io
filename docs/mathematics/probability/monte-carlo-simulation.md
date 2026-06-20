@@ -3,7 +3,7 @@ slug: /mathematics/probability/monte-carlo-simulation
 title: Monte Carlo Simulation
 description: Explore Monte Carlo simulation to analyze risks and visualize decision outcomes through probabilistic modeling and repeated calculations for better decision-making.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Monte Carlo simulation(also known as the Monte Carlo Method) lets you see all the possible outcomes of your decisions and assess the impact of risk, allowing for better decision making under uncertainty.
 Monte Carlo simulation performs risk analysis by building models of possible results by substituting a range of values - a probability distribution - for any factor that has inherent uncertainty. It then calculates results over and over, each time using a different set of random values from the probability functions. Depending upon the number of uncertainties and the ranges specified for them, a Monte Carlo simulation could involve thousands or tens of thousands of recalculations before it is complete. Monte Carlo simulation produces distributions of possible outcome values.

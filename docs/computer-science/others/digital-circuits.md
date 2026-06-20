@@ -3,7 +3,7 @@ slug: /computer-science/others/digital-circuits
 title: Understanding Digital Circuits and Karnaugh Maps
 description: Explore digital circuits and learn how Karnaugh maps simplify Boolean algebra for efficient circuit design.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Karnaugh Maps
 

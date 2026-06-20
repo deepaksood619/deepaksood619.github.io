@@ -3,7 +3,7 @@ slug: /education/product-concepts/ai-coding-test-platform
 title: AI Coding Assessment Platform
 description: Discover an affordable and efficient AI coding test platform to streamline tech hiring and create unique assessment questions.
 created: 2026-05-02
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Research Summary ✅
 

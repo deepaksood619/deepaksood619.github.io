@@ -3,7 +3,7 @@ slug: /languages/java/reflection
 title: Reflection
 description: Explore the Java Reflection API to examine and modify classes, methods, and interfaces at runtime for enhanced flexibility and backward compatibility.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Reflection is an api used to examine or modify the behavior of methods, classes or interfaces at runtime.
 

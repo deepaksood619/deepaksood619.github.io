@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/optimizations
 title: Understanding Snowflake Micro-partitions
 description: Explore how Snowflake's micro-partitions optimize data storage and enable efficient querying with granular pruning capabilities.
 created: 2024-01-04
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Micro-partitions
 

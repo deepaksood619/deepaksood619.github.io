@@ -3,7 +3,7 @@ slug: /languages/c++/stl-containers
 title: STL Containers
 description: Discover the power of STL containers in C++, including sequences, container adapters, and associative containers for efficient data management and manipulation.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 1. Sequences
    - C++ Vectors

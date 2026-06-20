@@ -3,7 +3,7 @@ slug: /computer-science/others/readme
 title: Explore Diverse Learning Resources
 description: Discover a variety of topics including tech books, game development, bioinformatics, and more in our comprehensive guide.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Tech Books](tech-books)
 - [Computer Graphics](computer-graphics)

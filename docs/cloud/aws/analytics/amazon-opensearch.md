@@ -3,7 +3,7 @@ slug: /cloud/aws/analytics/amazon-opensearch
 title: Amazon Opensearch
 description: Discover Amazon OpenSearch, a powerful search and analytics service, and explore its features, comparisons with Elasticsearch, and getting started guide.
 created: 2025-04-03
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## OpenSearch
 

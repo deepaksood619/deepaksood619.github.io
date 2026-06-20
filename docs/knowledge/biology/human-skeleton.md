@@ -3,7 +3,7 @@ slug: /knowledge/biology/human-skeleton
 title: Human Skeleton
 description: Explore the human skeleton's structure, with 206 bones in adulthood, divided into axial and appendicular parts, and learn about bone density and development.
 created: 2023-03-05
-last_update: 2025-09-02
+updated: 2025-09-02
 ---
 Thehuman skeletonis the internal framework of the body. It is composed of around 270 [bones](https://en.wikipedia.org/wiki/Bone) at birth -- this total decreases to around 206 bones by adulthood after some bones get fused together.The bone mass in the skeleton reaches maximum [density](https://en.wikipedia.org/wiki/Bone_density) around age 21. The human skeleton can be divided into the [axial skeleton](https://en.wikipedia.org/wiki/Axial_skeleton) and the [appendicular skeleton](https://en.wikipedia.org/wiki/Appendicular_skeleton). The axial skeleton is formed by the [vertebral column](https://en.wikipedia.org/wiki/Human_vertebral_column), the [rib cage](https://en.wikipedia.org/wiki/Human_rib_cage), the [skull](https://en.wikipedia.org/wiki/Human_skull) and other associated bones. The appendicular skeleton, which is attached to the axial skeleton, is formed by the [shoulder girdle](https://en.wikipedia.org/wiki/Shoulder_girdle), the [pelvic girdle](https://en.wikipedia.org/wiki/Pelvic_girdle) and the bones of the upper and lower limbs.
 

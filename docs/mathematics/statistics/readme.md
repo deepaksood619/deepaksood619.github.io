@@ -3,7 +3,7 @@ slug: /mathematics/statistics/readme
 title: Statistics
 description: Explore comprehensive statistics resources covering descriptive analysis, hypothesis testing, sampling techniques, and advanced topics like correlation and nonparametric methods.
 created: 2023-03-05
-last_update: 2025-12-16
+updated: 2025-12-16
 ---
 - [Intro](mathematics/statistics/intro.md)
 - [Glossary](mathematics/statistics/glossary.md)

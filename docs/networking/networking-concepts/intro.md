@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/intro
 title: Understanding Network Connections and Packets
 description: Explore the fundamentals of network connections and learn how packets transmit data across networks efficiently.
 created: 2023-03-05
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 ## Connection
 

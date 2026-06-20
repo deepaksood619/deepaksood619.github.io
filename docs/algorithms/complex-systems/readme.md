@@ -3,7 +3,7 @@ slug: /algorithms/complex-systems/readme
 title: Understanding Complex Systems and Algorithms
 description: Explore complex systems, game theory, and algorithms like MiniMax to enhance your knowledge and critical thinking skills.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Complex Systems](algorithms/complex-systems/intro.md)
 - [Game Theory](game-theory)

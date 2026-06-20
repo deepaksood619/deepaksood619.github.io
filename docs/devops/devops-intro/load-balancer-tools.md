@@ -3,7 +3,7 @@ slug: /devops/devops-intro/load-balancer-tools
 title: Essential Load Balancer Tools
 description: Discover top load balancer tools like Nginx and HAProxy, and their benefits for high availability and traffic management.
 created: 2023-03-05
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ## Cheatsheet
 

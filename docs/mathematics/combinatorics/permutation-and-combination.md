@@ -3,7 +3,7 @@ slug: /mathematics/combinatorics/permutation-and-combination
 title: Permutation and Combination
 description: Explore the differences between permutation and combination: where order matters for permutations, combinations simplify choices without regard for order.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Permutation - Order matters
 

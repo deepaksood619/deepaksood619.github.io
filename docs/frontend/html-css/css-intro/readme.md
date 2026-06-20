@@ -3,7 +3,7 @@ slug: /frontend/html-css/css-intro/readme
 title: Introduction to CSS Basics
 description: Learn the fundamentals of CSS, its advantages, and how it enhances the design and layout of web pages for an improved user experience.
 created: 2023-03-05
-last_update: 2024-12-23
+updated: 2024-12-23
 ---
 Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.
 

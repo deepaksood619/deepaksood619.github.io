@@ -3,7 +3,7 @@ slug: /mathematics/calculus/intro
 title: Intro
 description: Explore the essentials of Calculus, including limits, derivatives, and integrals, to understand rates of change and the areas under curves.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 The word Calculus comes from Latin meaning "small stone", Because it is like understanding something by looking at small pieces.
 Differential Calculuscuts something into small pieces to find how it changes.

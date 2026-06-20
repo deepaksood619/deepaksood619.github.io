@@ -3,7 +3,7 @@ slug: /devops/docker/service-configuration-reference
 title: Service Configuration Options Guide
 description: Explore build configuration options for Docker, including context, Dockerfile, build arguments, and caching strategies for efficient deployments.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## build - Configuration options that are applied at build time
 

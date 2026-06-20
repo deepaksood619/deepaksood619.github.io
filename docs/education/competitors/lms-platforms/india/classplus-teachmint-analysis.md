@@ -3,7 +3,7 @@ slug: /education/competitors/lms-platforms/india/classplus-teachmint-analysis
 title: "Classplus & Teachmint: B2B LMS Pivots"
 description: Explore the challenges and pivots of Classplus and Teachmint in India's B2B LMS market during the 2020-2022 edtech boom.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Category:** India B2B LMS (Coaching Institute Tech) | Last updated: 2026-06-09
 

@@ -3,7 +3,7 @@ slug: /mathematics/calculus/others
 title: Others
 description: Explore the Laplace transform, a vital integral transform in mathematics, used for converting functions of time into complex frequency variables for science and engineering.
 created: 2023-03-05
-last_update: 2024-08-07
+updated: 2024-08-07
 ---
 ## Laplace Transform
 

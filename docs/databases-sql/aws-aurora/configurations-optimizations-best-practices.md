@@ -3,7 +3,7 @@ slug: /databases-sql/aws-aurora/configurations-optimizations-best-practices
 title: Configurations / Optimizations / Best Practices
 description: Discover best practices for optimizing Amazon RDS for MySQL configurations, focusing on key performance indicators and parameter management for improved efficiency.
 created: 2023-03-05
-last_update: 2025-10-12
+updated: 2025-10-12
 ---
 RDS - [Best practices for configuring parameters for Amazon RDS for MySQL, part 1: Parameters related to performance | AWS Database Blog](https://aws.amazon.com/blogs/database/best-practices-for-configuring-parameters-for-amazon-rds-for-mysql-part-1-parameters-related-to-performance/)
 

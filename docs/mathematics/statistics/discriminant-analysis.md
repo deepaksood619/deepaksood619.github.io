@@ -3,7 +3,7 @@ slug: /mathematics/statistics/discriminant-analysis
 title: Discriminant Analysis
 description: Discover how discriminant analysis helps researchers determine group differences and predict group membership using categorical and interval data.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 During a study, there are often questions that strike the researcher that must be answered. These questions include questions like 'are the groups different?', 'on what variables, are the groups most different?', 'can one predict which group a person belongs to using such variables?' etc. In answering such questions, discriminant analysis is quite helpful.
 

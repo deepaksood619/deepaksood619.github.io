@@ -3,7 +3,7 @@ slug: /psychology/soft-skills/asking-right-questions
 title: Asking the Right Questions
 description: Learn how to ask open-ended questions to gather insightful information and encourage deep reflection.
 created: 2023-03-05
-last_update: 2025-08-28
+updated: 2025-08-28
 ---
 A good question is the one that lets you obtain the **type, quality,** and **quantity** of information you need.
 

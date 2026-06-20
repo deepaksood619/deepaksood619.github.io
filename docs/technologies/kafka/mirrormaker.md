@@ -3,7 +3,7 @@ slug: /technologies/kafka/mirrormaker
 title: Understanding MirrorMaker 2.0
 description: Explore how MirrorMaker 2.0 aggregates Kafka messages across clusters using Kafka Connect for seamless data integration.
 created: 2026-03-04
-last_update: 2026-03-04
+updated: 2026-03-04
 ---
 MirrorMaker, is simple a Kafka consumer and producer, linked together with a queue. Can aggregate messages from two local clusters into an aggregate cluster, and then copying that cluster to other datacenters.
 

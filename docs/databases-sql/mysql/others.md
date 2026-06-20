@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/others
 title: Others
 description: Discover MySQL table limits, including maximum columns, row sizes, and unique indexing with NULL values to optimize your database design and performance.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Facts
 

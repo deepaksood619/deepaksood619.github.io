@@ -3,7 +3,7 @@ slug: /devops/docker/stack-swarm
 title: Understanding Docker Stack and Swarm
 description: Learn how to manage services with Docker Swarm, including task management, scaling, and integrated cluster features.
 created: 2023-03-05
-last_update: 2026-05-09
+updated: 2026-05-09
 ---
 Defines the interactions of all the services.
 

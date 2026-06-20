@@ -3,7 +3,7 @@ slug: /courses/confluent-certifications
 title: Confluent Certifications
 description: Discover Confluent Certifications for Apache Kafka, including CCDAK and CCAAK, to validate your skills in developing and administering real-time streaming applications.
 created: 2025-12-04
-last_update: 2026-03-03
+updated: 2026-03-03
 ---
 - [Confluent Certification for Apache Kafka \| Confluent](https://www.confluent.io/certification/)
 - [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/issuer/21429/credentials?page_size=50&page=0)

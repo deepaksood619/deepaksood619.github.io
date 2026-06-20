@@ -3,7 +3,7 @@ slug: /languages/frameworks/android/testing
 title: Testing
 description: Discover essential Android code analysis tools like Lint, Checkstyle, and Findbugs to enhance code quality, performance, and compliance with coding standards.
 created: 2024-01-11
-last_update: 2025-12-10
+updated: 2025-12-10
 ---
 ## Android Code analysis tools
 

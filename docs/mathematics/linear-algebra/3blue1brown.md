@@ -3,7 +3,7 @@ slug: /mathematics/linear-algebra/3blue1brown
 title: 3Blue1Brown
 description: Explore the foundational concepts of linear algebra with 3Blue1Brown, covering vectors, transformations, eigenvalues, and more for a deeper understanding.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 1. Vectors
 2. Linear combinations, span and basis vectors

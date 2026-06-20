@@ -3,7 +3,7 @@ slug: /technologies/brokers/emqtt/deployment-and-installation
 title: Deployment and Installation Guide
 description: Learn the essential steps for deploying and installing load balancers and configuring ports for cluster communication.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../../media/Technologies-Brokers-Deployment-and-Installation-image1.jpg)
 

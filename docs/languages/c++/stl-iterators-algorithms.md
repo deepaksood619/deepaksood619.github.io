@@ -3,7 +3,7 @@ slug: /languages/c++/stl-iterators-algorithms
 title: STL Iterators Algorithms
 description: Discover STL iterators in C++, their different types, and how to efficiently access and manipulate container elements like vectors.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## C++ Iterators
 

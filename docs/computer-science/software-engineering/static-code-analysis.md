@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/static-code-analysis
 title: Understanding Static Code Analysis
 description: Explore static code analysis, its benefits, and how cyclomatic complexity measures code quality effectively.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 Static code analysis looks at the code without executing it. It is usually extremely fast to execute, requires little effort to add to your workflow, and can uncover common mistakes. The only downside is that it is not tailored towards your code.
 

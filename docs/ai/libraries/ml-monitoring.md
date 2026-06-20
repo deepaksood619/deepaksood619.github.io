@@ -3,7 +3,7 @@ slug: /ai/libraries/ml-monitoring
 title: ML Monitoring
 description: Learn how to effectively monitor machine learning models in production by understanding data, model behavior, and system performance for optimal results.
 created: 2024-01-24
-last_update: 2025-02-15
+updated: 2025-02-15
 ---
 [A Guide to Monitoring Machine Learning Models in Production | NVIDIA Technical Blog](https://developer.nvidia.com/blog/a-guide-to-monitoring-machine-learning-models-in-production/)
 

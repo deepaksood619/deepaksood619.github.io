@@ -3,7 +3,7 @@ slug: /courses/google-professional-data-engineer-pde
 title: Google Professional Data Engineer (PDE)
 description: Prepare for the Google Professional Data Engineer exam with 50 multiple choice questions covering BigQuery, Cloud SQL, Machine Learning, and more.
 created: 2023-03-17
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ## Format
 

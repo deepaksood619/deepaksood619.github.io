@@ -3,7 +3,7 @@ slug: /decentralized-applications/liquidity-mining
 title: Liquidity Mining
 description: Explore liquidity mining in DeFi, where users earn cryptocurrency rewards by providing liquidity to trading pools, enhancing decentralized exchange efficiency.
 created: 2023-03-10
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Liquidity mining is a process in decentralized finance (DeFi) that incentivizes users to provide liquidity to a liquidity pool by rewarding them with cryptocurrency tokens. Liquidity pools are used to facilitate decentralized trading and allow users to trade cryptocurrencies without relying on centralized exchanges.
 

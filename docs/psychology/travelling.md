@@ -3,7 +3,7 @@ slug: /psychology/travelling
 title: Travelling
 description: Explore thoughtful travel experiences that prioritize meaningful connections and mindful living over constant partying and superficial adventures.
 created: 2024-08-08
-last_update: 2026-05-29
+updated: 2026-05-29
 ---
 Every weekend shouldn't be a party. Once a year trip plan
 

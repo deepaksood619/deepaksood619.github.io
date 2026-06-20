@@ -3,7 +3,7 @@ slug: /frontend/others/angularjs/12-dependency-injection
 title: Understanding Dependency Injection in Angular
 description: Learn how Angular uses dependency injection to streamline component services and enhance application architecture.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 *Dependency injection* is a way to supply a new instance of a class with the fully-formed dependencies it requires. Most dependencies are services. Angular uses dependency injection to provide new components with the services they need.
 

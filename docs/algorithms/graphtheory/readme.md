@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/readme
 title: Comprehensive Guide to Graph Theory
 description: Explore essential concepts and algorithms in graph theory, including search methods, spanning trees, and shortest path algorithms.
 created: 2023-03-05
-last_update: 2023-12-23
+updated: 2023-12-23
 ---
 - [Intro](algorithms/graphtheory/intro.md)
 - [Graph Search](graph-search)

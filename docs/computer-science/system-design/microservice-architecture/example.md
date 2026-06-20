@@ -3,7 +3,7 @@ slug: /computer-science/system-design/microservice-architecture/example
 title: Microservices Design with Redis
 description: Explore how Redis simplifies microservices design patterns and enhances team autonomy for improved financial systems.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 https://thenewstack.io/how-redis-simplifies-microservices-design-patterns
 

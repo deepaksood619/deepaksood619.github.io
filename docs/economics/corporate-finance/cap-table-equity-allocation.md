@@ -3,7 +3,7 @@ slug: /economics/corporate-finance/cap-table-equity-allocation
 title: Cap Table and Equity Allocation for Startups
 description: Discover the essential guide to cap tables and equity allocation for startups, understanding ownership, dilution, and funding implications for better decision-making.
 created: 2026-05-04
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ## What is a Cap Table?
 

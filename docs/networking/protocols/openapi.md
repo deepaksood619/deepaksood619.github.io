@@ -3,7 +3,7 @@ slug: /networking/protocols/openapi
 title: Understanding OpenAPI Specifications
 description: Learn about OpenAPI, its features, and how to utilize Swagger tools for designing and documenting REST APIs.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ### [What Is OpenAPI?](https://swagger.io/docs/specification/about/)
 

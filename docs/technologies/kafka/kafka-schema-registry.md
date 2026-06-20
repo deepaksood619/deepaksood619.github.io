@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-schema-registry
 title: Kafka Schema Registry Overview
 description: Explore Kafka Schema Registry for managing Avro schemas with a RESTful interface and compatibility settings for efficient schema evolution.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 https://www.confluent.io/blog/schemas-contracts-compatibility
 

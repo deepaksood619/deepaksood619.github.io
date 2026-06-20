@@ -3,7 +3,7 @@ slug: /technologies/git/commands
 title: Essential Git Commands and Shortcuts
 description: Discover key git commands, shortcuts, and techniques for cloning repositories efficiently without history.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Shortcuts
 

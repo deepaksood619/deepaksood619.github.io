@@ -3,7 +3,7 @@ slug: /ai/data-visualization/metabase
 title: Metabase
 description: Discover Metabase, the open-source business intelligence tool that simplifies data analysis with intuitive graphs, dashboards, and team sharing features.
 created: 2023-07-17
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Metabase is an open source business intelligence tool. It lets you ask questions about your data, and displays answers in formats that make sense, whether that's a bar graph or a detailed table.
 

@@ -3,7 +3,7 @@ slug: /databases-nosql/aws-dynamodb/cheatsheet
 title: Cheatsheet
 description: Explore the essentials of DynamoDB, a scalable NoSQL database offering predictable performance, data durability, and flexible read/write capacity options.
 created: 2023-03-05
-last_update: 2025-11-12
+updated: 2025-11-12
 ---
 ## The Basics of DynamoDB
 

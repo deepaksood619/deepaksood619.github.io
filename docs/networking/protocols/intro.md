@@ -3,7 +3,7 @@ slug: /networking/protocols/intro
 title: Comprehensive Network Protocols Overview
 description: Explore key network protocols across application, transport, internet, and link layers for enhanced understanding and application.
 created: 2023-03-05
-last_update: 2025-02-09
+updated: 2025-02-09
 ---
 1. Application Layer
     - BGP

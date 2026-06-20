@@ -3,7 +3,7 @@ slug: /ai/big-data/types-of-data
 title: Types of Data
 description: Explore the various types of data, including structured and semi-structured, to understand their organization, analysis, and application in databases.
 created: 2023-11-18
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 ## Types of Data - by organization
 

@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/depth-first-search-dfs
 title: Understanding Depth First Search (DFS) Algorithm
 description: Explore Depth First Search (DFS) algorithm: its time complexity, traversal types, and differences between graph and tree traversal.
 created: 2023-03-05
-last_update: 2023-08-21
+updated: 2023-08-21
 ---
 Time Complexity: O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
 

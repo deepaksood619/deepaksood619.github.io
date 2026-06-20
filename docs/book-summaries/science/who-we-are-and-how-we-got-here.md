@@ -3,7 +3,7 @@ slug: /book-summaries/science/who-we-are-and-how-we-got-here
 title: Who we are and how we got here
 description: Explore ancient DNA and how it reveals insights into human origins, evolution, and our connection to a common ancestor, Mitochondrial Eve.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By David Reich
 

@@ -3,7 +3,7 @@ slug: /python/documentation/27-development-tools/static-code-analysis
 title: Static Code Analysis Tools for Python
 description: Explore essential static code analysis tools like isort and pylint to enhance your Python code quality and maintainability.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## black / autopep8 / yapf (Auto formatters)
 

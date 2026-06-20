@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/pwskills-analysis
 title: PW Skills Analysis Overview
 description: Explore the market position and offerings of PW Skills, the professional upskilling arm of PhysicsWallah in India's dynamic edtech landscape.
 created: 2026-06-08
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ## Overview
 

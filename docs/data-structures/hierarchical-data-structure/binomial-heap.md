@@ -3,7 +3,7 @@ slug: /data-structures/hierarchical-data-structure/binomial-heap
 title: Understanding Binomial Heaps
 description: Explore the concept of Binomial Heaps, their key properties, and advantages in merging binary heaps efficiently.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 ## Key Points
 

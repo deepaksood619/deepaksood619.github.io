@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-security/23-understanding-encrypti
 title: Understanding Data Encryption Basics
 description: Learn the essentials of encryption, its significance for data privacy, and how Confluent Cloud protects your data in motion and at rest.
 created: 2025-12-10
-last_update: 2026-01-28
+updated: 2026-01-28
 ---
 Corporate policies, industry standards, and national and international regulations may all require you to protect the privacy and integrity of the data you handle. Encryption uses mathematical techniques to scramble data so that it is meaningless if observed by someone who lacks the necessary key to decrypt it.
 

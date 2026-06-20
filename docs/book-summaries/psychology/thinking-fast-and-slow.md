@@ -3,7 +3,7 @@ slug: /book-summaries/psychology/thinking-fast-and-slow
 title: Thinking, Fast and Slow
 description: Explore Daniel Kahneman's "Thinking, Fast and Slow," a groundbreaking book on decision-making, judgment errors, and insights into human psychology and economics.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Daniel Kahneman
 

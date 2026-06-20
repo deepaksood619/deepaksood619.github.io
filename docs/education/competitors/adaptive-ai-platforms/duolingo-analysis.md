@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/duolingo-analysis
 title: Duolingo Company Analysis
 description: Explore Duolingo's growth, market position, and financial performance as it leads the language learning sector.
 created: 2026-06-07
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

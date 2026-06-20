@@ -3,7 +3,7 @@ slug: /algorithms/dynamic-programming/greedy-algorithms
 title: Overview of Greedy Algorithms
 description: Explore various greedy algorithms, including Huffman coding and arithmetic coding, for efficient data compression and encoding techniques.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 ### Algorithms
 

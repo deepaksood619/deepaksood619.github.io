@@ -3,7 +3,7 @@ slug: /mathematics/statistics/percentiles
 title: Percentiles
 description: Discover how percentiles help you understand your position within a dataset by indicating what percentage of the population has scores lower than yours.
 created: 2023-06-24
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Tell you what percentage of the population has a score or value that's lower than yours.
 

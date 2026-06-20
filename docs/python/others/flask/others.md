@@ -3,7 +3,7 @@ slug: /python/others/flask/others
 title: Flask SQLite Database Connection
 description: Learn how to establish a SQLite database connection in Flask for handling web application requests and responses.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://github.com/pallets/flask/tree/1.1.2/examples/tutorial
 

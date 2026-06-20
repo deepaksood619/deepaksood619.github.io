@@ -3,7 +3,7 @@ slug: /mathematics/general/fermat-last-theorem
 title: Fermat's Last Theorem
 description: "Explore Fermat's Last Theorem, a pivotal concept in number theory asserting no three positive integers can satisfy a² + b² = c² for n > 2."
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 In [number theory](https://en.wikipedia.org/wiki/Number_theory), **Fermat's Last Theorem**(sometimes called**Fermat's conjecture**, especially in older texts) states that no three [positive](https://en.wikipedia.org/wiki/Positive_number)[integers](https://en.wikipedia.org/wiki/Integer) *a*, *b*, and *c* satisfy the equation *a^n^*+*b^n^*=*c^n^* for any integer value of *n* greater than 2. The cases *n* = 1 and *n* = 2 have been known to have infinitely many solutions since antiquity.
 

@@ -3,7 +3,7 @@ slug: /databases-nosql/mongodb/indexes
 title: Indexes
 description: Indexes in MongoDB enhance query efficiency by allowing quicker data retrieval, reducing collection scans and enabling sorted results for optimal performance.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 Indexes support the efficient execution of queries in MongoDB. Without indexes, MongoDB must perform a collection scan, i.e. scan every document in a collection, to select those documents that match the query statement. If an appropriate index exists for a query, MongoDB can use the index to limit the number of documents it must inspect.
 

@@ -3,7 +3,7 @@ slug: /ai/numpy/data-types
 title: Data Types
 description: Explore various data types including boolean, integers, and floating-point values, and understand their characteristics and uses in programming.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 | Sr.No. | Data Types & Description |
 |---|---|

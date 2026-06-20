@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/02-intro-to-ether
 title: Intro to Ether
 description: Discover the basics of Ether (ETH), the cryptocurrency powering Ethereum, and learn about its role in transaction fees on the blockchain network.
 created: 2023-03-05
-last_update: 2024-03-18
+updated: 2024-03-18
 ---
 ## What is a cryptocurrency?
 

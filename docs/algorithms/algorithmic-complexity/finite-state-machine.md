@@ -3,7 +3,7 @@ slug: /algorithms/algorithmic-complexity/finite-state-machine
 title: Understanding Finite-State Machines
 description: Explore the concepts of deterministic and non-deterministic finite automata, transitions, and states in computational theory.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 DFA - Deterministic Finite Automata
 

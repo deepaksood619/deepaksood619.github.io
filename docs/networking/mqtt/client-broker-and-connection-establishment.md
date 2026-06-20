@@ -3,7 +3,7 @@ slug: /networking/mqtt/client-broker-and-connection-establishment
 title: Understanding MQTT Client and Broker
 description: Explore the roles of clients and brokers in MQTT connection establishment for effective message transfer and session management.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Client
 

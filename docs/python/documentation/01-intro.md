@@ -3,7 +3,7 @@ slug: /python/documentation/01-intro
 title: Introduction to a High-Level Programming Language
 description: Explore the key characteristics and features of a general-purpose interpreted programming language created by Guido van Rossum.
 created: 2023-03-05
-last_update: 2023-04-11
+updated: 2023-04-11
 ---
 ## Characteristics
 

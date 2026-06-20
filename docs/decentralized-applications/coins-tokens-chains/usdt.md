@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/usdt
 title: USDT
 description: Discover USDT, the pioneering stablecoin that bridges cryptocurrency and fiat, offering high liquidity and low volatility for seamless digital transactions.
 created: 2023-03-05
-last_update: 2025-10-08
+updated: 2025-10-08
 ---
 ## What is USDT?
 

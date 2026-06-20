@@ -3,7 +3,7 @@ slug: /data-warehouses/bigquery/pricing
 title: BigQuery Pricing Overview
 description: Explore the cost structure of BigQuery including queries, slot pricing, and best practices for cost management.
 created: 2025-05-21
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - Queries (on-demand) - $6.25 per TiB - The first 1 TiB per month is free.
 - [Pricing  |  BigQuery: Cloud Data Warehouse  |  Google Cloud](https://cloud.google.com/bigquery/pricing)

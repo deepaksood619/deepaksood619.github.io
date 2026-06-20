@@ -3,7 +3,7 @@ slug: /frontend/html-css/css-intro/others
 title: CSS Animations and Transitions Guide
 description: Learn about CSS keyframe animations, transition properties, and how media queries enhance web design in this comprehensive guide.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## CSS Keyframe Animation
 

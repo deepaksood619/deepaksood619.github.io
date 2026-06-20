@@ -3,7 +3,7 @@ slug: /databases-nosql/time-series-db/influxdb/others
 title: Others
 description: Discover the supported protocols for InfluxDB, including CollectD, Graphite, OpenTSDB, and Prometheus, along with guides for high availability and data management.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Supported Protocols
 

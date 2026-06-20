@@ -3,7 +3,7 @@ slug: /management/project-management/readme
 title: Project Management Resources and Tools
 description: Discover essential project management resources, tools, and methodologies, including Agile, Scrum, PERT, CPM, and templates for effective team collaboration.
 created: 2023-03-05
-last_update: 2024-09-01
+updated: 2024-09-01
 ---
 - [Intro](management/project-management/intro.md)
 - [SDLC Methodologies](management/project-management/sdlc-methodologies.md)

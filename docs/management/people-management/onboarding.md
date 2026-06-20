@@ -3,7 +3,7 @@ slug: /management/people-management/onboarding
 title: Comprehensive Onboarding Guide for Tech Teams
 description: Explore our detailed onboarding guide for new tech employees, including tools, processes, and team integration steps.
 created: 2023-12-10
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ### IDE - VSCode
 

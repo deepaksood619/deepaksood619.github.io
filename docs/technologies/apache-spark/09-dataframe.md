@@ -3,7 +3,7 @@ slug: /technologies/apache-spark/09-dataframe
 title: Essential PySpark DataFrame Operations
 description: Explore key PySpark DataFrame operations including creation, conversion, and manipulation techniques for efficient data analysis.
 created: 2023-03-16
-last_update: 2025-12-16
+updated: 2025-12-16
 ---
 - [PySpark - Create an empty DataFrame](https://sparkbyexamples.com/pyspark/pyspark-create-an-empty-dataframe/)
 - [PySpark - Convert RDD to DataFrame](https://sparkbyexamples.com/pyspark/convert-pyspark-rdd-to-dataframe/)

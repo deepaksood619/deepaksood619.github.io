@@ -3,7 +3,7 @@ slug: /computer-science/programming-concepts/type-systems
 title: Understanding Type Systems in Programming
 description: Explore the rules of type systems that categorize constructs in programming languages for better code safety and organization.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 In [programming languages](https://en.wikipedia.org/wiki/Programming_language), atype systemis a set of rules that assigns a property called [type](https://en.wikipedia.org/wiki/Type_(computer_science)) to the various constructs of a [computer program](https://en.wikipedia.org/wiki/Computer_program), such as [variables](https://en.wikipedia.org/wiki/Variable_(computer_science)), [expressions](https://en.wikipedia.org/wiki/Expression_(computer_science)), [functions](https://en.wikipedia.org/wiki/Function_(computer_science)) or [modules](https://en.wikipedia.org/wiki/Modular_programming).These types formalize and enforce the otherwise implicit categories the programmer uses for [algebraic data types](https://en.wikipedia.org/wiki/Algebraic_data_type), data structures, or other components (e.g. "string", "array of float", "function returning boolean").
 

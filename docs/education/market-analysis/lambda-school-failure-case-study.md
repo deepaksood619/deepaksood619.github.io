@@ -3,7 +3,7 @@ slug: /education/market-analysis/lambda-school-failure-case-study
 title: Lambda School Failure Analysis
 description: Explore the cautionary case study of Lambda School's failure in ISA-funded coding bootcamps and learn critical lessons for future models.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Last Updated:** June 2026
 

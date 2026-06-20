@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/fatigue
 title: Fatigue
 description: Explore the causes and solutions for fatigue, including stress, anemia, fibromyalgia, and effective lifestyle changes to boost your energy levels.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 1. Stress
 2. Anemia

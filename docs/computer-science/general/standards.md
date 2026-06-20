@@ -3,7 +3,7 @@ slug: /computer-science/general/standards
 title: Understanding ASCII and Base64 Standards
 description: Explore the ASCII character set and Base64 encoding schemes for binary data representation in computer science.
 created: 2023-03-05
-last_update: 2026-01-21
+updated: 2026-01-21
 ---
 ## ASCII
 

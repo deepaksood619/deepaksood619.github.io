@@ -3,7 +3,7 @@ slug: /management/marketing-sales/communications-email-sms-marketing
 title: Effective Email and SMS Marketing Strategies
 description: Explore key strategies and channels for successful email and SMS marketing to enhance your communication efforts.
 created: 2025-04-29
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - [Emails](management/marketing-sales/emails.md)
 

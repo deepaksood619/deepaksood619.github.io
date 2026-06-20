@@ -3,7 +3,7 @@ slug: /management/project-management/program-management
 title: Effective Program Management Strategies
 description: Discover effective program management strategies that align projects with company goals, drive organizational change, and implement agile and DevOps practices.
 created: 2023-12-18
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Program management is the management of multiple related projects at the same time. A program is a set of interconnected projects overseen by a program manager whose main goal is to ensure that all work ties back into company-wide goals and objectives.
 

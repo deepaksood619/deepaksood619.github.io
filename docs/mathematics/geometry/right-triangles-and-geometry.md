@@ -3,7 +3,7 @@ slug: /mathematics/geometry/right-triangles-and-geometry
 title: Right Triangles and Geometry
 description: Explore key concepts of right triangles in geometry, including the Pythagorean theorem, special triangles, and trigonometric ratios with easy mnemonics.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 1. [Pythagorean theorem](https://www.khanacademy.org/math/geometry/hs-geo-trig#hs-geo-pyth-theorem)
 

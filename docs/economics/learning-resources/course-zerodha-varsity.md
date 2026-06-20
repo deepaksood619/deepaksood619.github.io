@@ -3,7 +3,7 @@ slug: /economics/learning-resources/course-zerodha-varsity
 title: Course - Investing Zerodha Varsity
 description: Learn stock market fundamentals, technical analysis, and investment strategies with the comprehensive Zerodha Varsity course to enhance your financial literacy.
 created: 2023-03-05
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 ### 1 - [Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
 

@@ -3,7 +3,7 @@ slug: /databases-sql/aws-redshift/pricing-sizing
 title: Pricing / Sizing
 description: Discover how to choose the right Amazon Redshift node types and optimize pricing with RA3 or DC2 for your data workloads efficiently.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [GitHub - aws-samples/amazon-redshift-config-compare](https://github.com/aws-samples/amazon-redshift-config-compare) ⭐ 25
 

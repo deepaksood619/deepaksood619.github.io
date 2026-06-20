@@ -3,7 +3,7 @@ slug: /ai/data-visualization/tableau/concepts
 title: Concepts
 description: Discover how Tableau assigns dimensions and measures to data fields, enabling effective data visualization and analysis in your projects.
 created: 2023-07-14
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 [Field Types: Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
 

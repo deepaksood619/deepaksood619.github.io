@@ -3,7 +3,7 @@ slug: /devops/others/jenkins
 title: Understanding Jenkins for CI/CD
 description: Learn how Jenkins can streamline your software development with customizable pipelines, project types, and credential management.
 created: 2023-03-05
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 ## What can you do with Jenkins?
 

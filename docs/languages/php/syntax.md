@@ -3,7 +3,7 @@ slug: /languages/php/syntax
 title: Syntax
 description: Discover compile-time constants in Syntax, including LINE for current line numbers and FILE for full file paths with resolved symlinks.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## Compile-time constants
 

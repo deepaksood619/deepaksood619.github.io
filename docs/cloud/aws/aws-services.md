@@ -3,7 +3,7 @@ slug: /cloud/aws/aws-services
 title: AWS Services
 description: Explore AWS services for seamless migration, management tools, and efficient data transport solutions to enhance your cloud infrastructure and streamline operations.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [https://docs.aws.amazon.com/index.html](https://docs.aws.amazon.com/index.html)
 

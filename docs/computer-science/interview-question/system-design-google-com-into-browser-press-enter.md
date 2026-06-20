@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/system-design-google-com-into-browser
 title: "System Design: Typing Google.com Explained"
 description: Discover the intricate steps that occur when you type google.com into your browser and hit enter, from DNS lookup to HTTP requests.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ![What happens when you type a URL into a browser?](../../media/What-happens-when-you-type-a-URL-into-a-browser.webp)
 

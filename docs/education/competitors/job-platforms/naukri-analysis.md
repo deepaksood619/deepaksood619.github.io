@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/naukri-analysis
 title: Naukri.com Market Leader Analysis
 description: Explore the business model and revenue streams of Naukri.com, India's leading job board. Learn how it connects employers and job seekers.
 created: 2026-06-08
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Last Updated:** June 2026
 

@@ -3,7 +3,7 @@ slug: /courses/se-radio
 title: SE Radio
 description: Explore SE Radio's insights on software design and architecture, unraveling expert approaches and the impact of organizational structures on development.
 created: 2023-03-05
-last_update: 2024-03-30
+updated: 2024-03-30
 ---
 ## 333: Software Design Decoded: 66 Ways Experts Think
 

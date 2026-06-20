@@ -3,7 +3,7 @@ slug: /about-deepak-sood/paper-publications-references
 title: "Papers & Publications"
 description: Explore the impactful research on empowering Community Health Workers in rural India, focusing on maternal and child health through peer learning strategies.
 created: 2023-03-05
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Deepak Sood, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 499-508. DOI: https://doi.org/10.1145/3038912.3052624
 

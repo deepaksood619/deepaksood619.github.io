@@ -3,7 +3,7 @@ slug: /frontend/others/nodejs/libraries
 title: Essential JavaScript Libraries
 description: Explore essential JavaScript libraries like Lodash and PassportJS to enhance your web development projects.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Frontends
 

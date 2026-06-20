@@ -3,7 +3,7 @@ slug: /management/product-analytics/clustering
 title: Understanding Clustering Techniques
 description: Explore the different types of clustering, including hierarchical and flat methods, along with distance measurement techniques.
 created: 2025-02-27
-last_update: 2025-02-27
+updated: 2025-02-27
 ---
 ## Types of Clustering
 

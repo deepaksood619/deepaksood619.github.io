@@ -3,7 +3,7 @@ slug: /computer-science/programming-paradigms/oops-solid
 title: Understanding OOP and SOLID Principles
 description: Explore the fundamentals of OOP including classes, objects, and SOLID principles for enhanced software design.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 AEIP - Abstraction, Encapsulation, Inheritance and Polymorphism
 

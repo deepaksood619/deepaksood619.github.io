@@ -3,7 +3,7 @@ slug: /computer-science/programming-concepts/type-introspection-and-reflection
 title: Type Introspection and Reflection Explained
 description: Learn about type introspection and reflection, understanding runtime type examination and dynamic attribute modification in programming.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 ## Type Introspection
 

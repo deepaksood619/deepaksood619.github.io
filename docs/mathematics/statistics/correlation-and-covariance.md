@@ -3,7 +3,7 @@ slug: /mathematics/statistics/correlation-and-covariance
 title: Correlation and Covariance
 description: Explore the concepts of correlation and covariance to understand data relationships, causation, and prediction between variables like stock prices and interest rates.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Data Relationships
 

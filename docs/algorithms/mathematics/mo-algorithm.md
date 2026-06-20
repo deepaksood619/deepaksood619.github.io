@@ -3,7 +3,7 @@ slug: /algorithms/mathematics/mo-algorithm
 title: Understanding MO's Algorithm for Efficient Range Queries
 description: Explore MO's Algorithm to optimize range sum queries with square root decomposition for faster results.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Query Square Root Decomposition
 

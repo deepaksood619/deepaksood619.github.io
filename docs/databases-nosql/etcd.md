@@ -3,7 +3,7 @@ slug: /databases-nosql/etcd
 title: etcd
 description: Discover etcd, the distributed key-value store used by Kubernetes for reliable data storage, leader elections, and seamless configuration management.
 created: 2024-01-23
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 etcd is a distributed key value store that provides a reliable way to store data across a cluster of machines. It's open-source and available on GitHub. etcd gracefully handles leader elections during network partitions and will tolerate machine failure, including the leader.
 

@@ -3,7 +3,7 @@ slug: /devops/monitoring/istio/security
 title: Securing Communication with Istio
 description: Discover how Istio enhances application security with authentication, authorization, and encrypted communication at scale.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Istio's security capabilities free developers to focus on security at the application level. Istio provides the underlying secure communication channel, and manages authentication, authorization, and encryption of service communication at scale. With Istio, service communications are secured by default, letting you enforce policies consistently across diverse protocols and runtimes -- all with little or no application changes.
 

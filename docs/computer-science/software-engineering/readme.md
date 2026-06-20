@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/readme
 title: Comprehensive Guide to Software Engineering
 description: Explore essential concepts in software engineering, including coding guidelines, technical debt, refactoring, and more.
 created: 2023-03-05
-last_update: 2026-05-01
+updated: 2026-05-01
 ---
 - [Software Engineering](computer-science/software-engineering/intro.md)
 - [Coding Guidelines / Code Reviews / Clean Code](computer-science/software-engineering/coding-guidelines-code-reviews-clean-code.md)

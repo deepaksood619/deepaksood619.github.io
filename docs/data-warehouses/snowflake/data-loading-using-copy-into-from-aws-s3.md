@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/data-loading-using-copy-into-from-aws-s3
 title: Efficient Data Loading with COPY INTO
 description: Learn how to use COPY INTO to load data from AWS S3 into Snowflake for efficient batch processing and error handling.
 created: 2025-10-16
-last_update: 2025-10-18
+updated: 2025-10-18
 ---
 ## Overview
 

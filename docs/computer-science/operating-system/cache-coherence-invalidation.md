@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/cache-coherence-invalidation
 title: Understanding Cache Coherence Issues
 description: Explore cache coherence in computer architecture and learn how it impacts data uniformity in multiprocessing systems.
 created: 2023-03-05
-last_update: 2024-04-29
+updated: 2024-04-29
 ---
 In [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture), cache coherence is the uniformity of shared resource data that ends up stored in multiple [local caches](https://en.wikipedia.org/wiki/Cache_(computing)). When clients in a system maintain [caches](https://en.wikipedia.org/wiki/CPU_cache) of a common memory resource, problems may arise with incoherent data, which is particularly the case with [CPUs](https://en.wikipedia.org/wiki/Central_processing_unit) in a [multiprocessing](https://en.wikipedia.org/wiki/Multiprocessing) system.
 

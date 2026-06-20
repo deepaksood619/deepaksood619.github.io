@@ -3,7 +3,7 @@ slug: /education/strategy/pitch
 title: AI-Native Learning Platform
 description: Empower professionals with our AI-driven assessment and learning platform for skill development and career advancement at no cost.
 created: 2026-06-04
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 **Last Updated:** 2026-06-04
 

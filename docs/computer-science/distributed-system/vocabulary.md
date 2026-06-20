@@ -3,7 +3,7 @@ slug: /computer-science/distributed-system/vocabulary
 title: Understanding Distributed Systems Vocabulary
 description: Explore key terms related to distributed systems like availability configurations, conflict resolution, and consistency models.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Harvest and Yield
 

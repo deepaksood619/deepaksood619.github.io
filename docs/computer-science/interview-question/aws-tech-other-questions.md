@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/aws-tech-other-questions
 title: AWS Tech Questions and Solutions
 description: Explore key AWS questions on migration, performance, and data strategies to optimize your cloud operations.
 created: 2023-03-05
-last_update: 2024-12-01
+updated: 2024-12-01
 ---
 ### AWS
 

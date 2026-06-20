@@ -3,7 +3,7 @@ slug: /algorithms/general/list-of-algorithms
 title: Comprehensive List of Algorithms
 description: Explore a detailed list of algorithms including automated planning and various combinatorial and graph algorithms.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 1. **Automated Planning**
 

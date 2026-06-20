@@ -3,7 +3,7 @@ slug: /devops/kubernetes/troubleshooting
 title: Effective Kubernetes Troubleshooting Guide
 description: Discover essential techniques for troubleshooting Kubernetes issues and CPU profiling with BPF tools in this comprehensive guide.
 created: 2023-03-05
-last_update: 2025-10-24
+updated: 2025-10-24
 ---
 [Linux BPF CPU Profiling with kubectl on Microsoft Azure Kubernetes (AKS)](https://www.youtube.com/watch?v=TMwHWofbMtY)
 

@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/data-engineering
 title: Comprehensive Data Engineering Services
 description: Explore our data engineering services including ETL, data modeling, warehousing, big data processing, and MLOps for optimized data management.
 created: 2024-02-28
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Services
 

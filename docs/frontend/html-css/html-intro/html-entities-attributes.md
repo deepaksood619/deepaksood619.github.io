@@ -3,7 +3,7 @@ slug: /frontend/html-css/html-intro/html-entities-attributes
 title: Understanding HTML Entities and Attributes
 description: "Learn about HTML entities, reserved characters, and how to use character entities for proper web display. Enhance your HTML knowledge now!"
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Reserved characters in HTML must be replaced with character entities.
 

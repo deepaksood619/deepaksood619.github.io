@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/boosting-and-adaboost
 title: Boosting and Adaboost
 description: Discover how Boosting and AdaBoost enhance classification performance by combining weak classifiers to create powerful predictive models.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Boosting is an ensemble technique that attempts to create a strong classifier from a number of weak classifiers.
 

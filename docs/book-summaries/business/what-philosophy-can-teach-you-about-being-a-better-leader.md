@@ -3,7 +3,7 @@ slug: /book-summaries/business/what-philosophy-can-teach-you-about-being-a-bette
 title: What Philosophy Can Teach You About Being a Better Leader
 description: Discover how philosophical principles can enhance your leadership skills by fostering a mindset of experimentation, learning, and adapting strategies.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Alison Reynolds, Dominic Houlder, Jules Goddard, and David Lewis
 

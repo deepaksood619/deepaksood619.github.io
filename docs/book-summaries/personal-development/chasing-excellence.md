@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/chasing-excellence
 title: Chasing Excellence
 description: Discover how to achieve athletic excellence through passion, commitment, and the power of incremental improvements for ultimate performance growth.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Ben Bergero
 

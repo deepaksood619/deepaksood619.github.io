@@ -3,7 +3,7 @@ slug: /data-structures/general/elementary-symbol-tables
 title: Understanding Elementary Symbol Tables
 description: Explore the concept of elementary symbol tables, their applications, and how key-value pairs function in programming and data management.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Symbol Tables (Associative Arrays, Maps and Dictionaries)
 

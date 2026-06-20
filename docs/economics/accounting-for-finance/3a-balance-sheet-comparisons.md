@@ -3,7 +3,7 @@ slug: /economics/accounting-for-finance/3a-balance-sheet-comparisons
 title: "3A: Balance Sheet Comparisons"
 description: Explore balance sheet comparisons across sectors, highlighting asset differences and the impact of intangible assets and goodwill on financial statements.
 created: 2023-03-05
-last_update: 2025-02-27
+updated: 2025-02-27
 ---
 ## Balance Sheet: A Life Cycle Perspective
 

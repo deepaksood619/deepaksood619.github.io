@@ -3,7 +3,7 @@ slug: /management/jobs/resume-keywords-pointers
 title: Essential Resume Keywords for Developers
 description: Discover key resume pointers for backend PHP and Python roles, highlighting essential skills and technologies to boost your job applications.
 created: 2023-12-10
-last_update: 2025-01-27
+updated: 2025-01-27
 ---
 ### Backend - PHP
 

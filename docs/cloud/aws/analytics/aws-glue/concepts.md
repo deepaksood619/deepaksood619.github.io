@@ -3,7 +3,7 @@ slug: /cloud/aws/analytics/aws-glue/concepts
 title: AWS Glue Concepts
 description: Discover the key components of AWS Glue, a managed ETL service that simplifies data movement with Data Catalogs, Crawlers, ETL Jobs, and Triggers.
 created: 2025-12-04
-last_update: 2025-12-10
+updated: 2025-12-10
 ---
 AWS Glue is a fully managed ETL (extract, transform, load) service that allows you to easily move data between different data sources and targets. The key components are:
 

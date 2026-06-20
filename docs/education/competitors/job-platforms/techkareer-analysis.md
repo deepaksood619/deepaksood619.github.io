@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/techkareer-analysis
 title: TechKareer Recruitment Analysis
 description: Discover how TechKareer connects top engineering talent with businesses at lower costs and faster hiring times.
 created: 2026-06-08
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Overview
 

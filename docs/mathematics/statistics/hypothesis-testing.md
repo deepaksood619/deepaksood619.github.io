@@ -3,7 +3,7 @@ slug: /mathematics/statistics/hypothesis-testing
 title: Hypothesis Testing
 description: Explore hypothesis testing concepts, including null and alternative hypotheses, error types, p-values, and mean tests in this comprehensive guide.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Null vs Alternative
 

@@ -3,7 +3,7 @@ slug: /management/project-management/others
 title: Project Management Tools Overview
 description: Explore top project management tools like Plane, JIRA, Linear, and Redmine for efficient issue tracking and team collaboration in one comprehensive overview.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Tools
 

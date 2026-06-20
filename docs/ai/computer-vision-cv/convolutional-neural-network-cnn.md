@@ -3,7 +3,7 @@ slug: /ai/computer-vision-cv/convolutional-neural-network-cnn
 title: Convolutional Neural Network (CNN)
 description: Discover how Convolutional Neural Networks (CNNs) excel in image classification and computer vision, revolutionizing deep learning applications since AlexNet.
 created: 2024-09-17
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## Neural Networks
 

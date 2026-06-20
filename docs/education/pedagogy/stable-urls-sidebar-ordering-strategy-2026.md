@@ -3,7 +3,7 @@ slug: /education/pedagogy/stable-urls-sidebar-ordering-strategy-2026
 title: Stable URLs and Sidebar Strategy 2026
 description: Discover effective strategies for maintaining stable URLs and sidebar ordering in PKM to enhance SEO and user experience.
 created: 2026-06-19
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 **Problem:** File moves break links, cause 404s, hurt SEO, disrupt sidebar order
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/30-aiops
 title: AIOps Challenges and Solutions
 description: Explore the top challenges in managing IT infrastructure and effective AIOps solutions for better visibility and performance.
 created: 2026-02-27
-last_update: 2026-02-28
+updated: 2026-02-28
 ---
 ## Top challenges organizations face when managing a complicated IT infrastructure
 

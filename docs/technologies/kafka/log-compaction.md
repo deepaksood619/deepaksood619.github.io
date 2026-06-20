@@ -3,7 +3,7 @@ slug: /technologies/kafka/log-compaction
 title: Understanding Kafka Log Compaction
 description: Explore Kafka log compaction, a retention policy that retains the latest messages per key for efficient data management.
 created: 2025-12-20
-last_update: 2026-03-25
+updated: 2026-03-25
 ---
 Kafka log compaction is a **retention policy that keeps only the latest message for each key in a topic partition**, creating a log with a complete snapshot of the final values, rather than deleting by time or size.
 

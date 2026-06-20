@@ -3,7 +3,7 @@ slug: /ai/llm/interview-prep/interview-questions
 title: Interview Questions
 description: Explore the architecture of Transformers, featuring encoders, decoders, and self-attention layers, essential for understanding machine translation.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Can you provide a high-level overview of Transformers' architecture?
 

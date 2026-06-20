@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/codesignal-analysis
 title: CodeSignal Company Overview
 description: Discover CodeSignal's growth, market position, and funding details in the competitive technical hiring assessment landscape.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

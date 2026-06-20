@@ -3,7 +3,7 @@ slug: /management/project-management/intro
 title: Project Management Essentials
 description: Discover essential project management factors like budget, timeline, goals, and values to effectively manage and deliver successful projects.
 created: 2023-03-05
-last_update: 2025-04-08
+updated: 2025-04-08
 ---
 https://blog.trello.com/project-management-methodologies
 

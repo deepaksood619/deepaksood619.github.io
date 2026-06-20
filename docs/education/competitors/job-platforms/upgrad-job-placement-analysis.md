@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/upgrad-job-placement-analysis
 title: upGrad Job Placement Insights
 description: Explore upGrad's hybrid education model and its effective job placement analysis for aspiring professionals in India.
 created: 2026-06-08
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Last Updated:** June 2026
 

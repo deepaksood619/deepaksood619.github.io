@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/readme
 title: Overview of Current Projects
 description: Explore diverse projects in fintech, edtech, and more, showcasing expertise in cost optimization, database management, and analytics.
 created: 2023-12-01
-last_update: 2026-05-29
+updated: 2026-05-29
 ---
 ## Domain Knowledge
 

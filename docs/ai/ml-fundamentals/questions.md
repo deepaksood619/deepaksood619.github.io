@@ -3,7 +3,7 @@ slug: /ai/ml-fundamentals/questions
 title: Questions
 description: Explore the concepts of univariate, bivariate, and multivariate analysis, and learn effective strategies for handling datasets with missing values.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Differentiate between univariate, bivariate, and multivariate analysis
 

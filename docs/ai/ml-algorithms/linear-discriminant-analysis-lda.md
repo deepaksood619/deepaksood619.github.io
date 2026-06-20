@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/linear-discriminant-analysis-lda
 title: Linear Discriminant Analysis (LDA)
 description: Discover Linear Discriminant Analysis (LDA), an effective method for multi-class classification that utilizes statistical properties to enhance prediction accuracy.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Hi, Logistic Regression is a classification algorithm traditionally limited to only two-class classification problems.
 

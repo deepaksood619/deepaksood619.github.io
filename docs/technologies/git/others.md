@@ -3,7 +3,7 @@ slug: /technologies/git/others
 title: Essential Git Practices
 description: Explore essential Git practices, including .gitkeep, Git LFS, and hooks to enhance your version control workflow.
 created: 2023-03-05
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 ## .gitkeep
 

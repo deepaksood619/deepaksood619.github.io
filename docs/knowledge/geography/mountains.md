@@ -3,7 +3,7 @@ slug: /knowledge/geography/mountains
 title: Mountains
 description: Discover Mount Kilimanjaro, Africa's highest peak, and explore scenic routes like Machame and Lemosho for an unforgettable climbing adventure.
 created: 2026-06-06
-last_update: 2026-06-06
+updated: 2026-06-06
 ---
 ## MOUNT KILIMANJARO - Tanzania · 5,895 m · Roof of Africa
 

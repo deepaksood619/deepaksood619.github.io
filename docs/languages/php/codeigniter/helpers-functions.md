@@ -3,7 +3,7 @@ slug: /languages/php/codeigniter/helpers-functions
 title: Helpers / Functions
 description: Discover how to effectively utilize helpers and functions in CodeIgniter to enhance your system's functionality with built-in and custom options.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 As the name suggests, it will help you build your system. It is divided into small functions to serve different functionality. A number of helpers are available in CodeIgniter, which are listed in the table below. We can build our own helpers too.
 

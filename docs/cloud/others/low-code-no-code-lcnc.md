@@ -3,7 +3,7 @@ slug: /cloud/others/low-code-no-code-lcnc
 title: Low-Code / No-Code Platforms / LCNC
 description: Discover low-code and no-code platforms to rapidly build applications without extensive coding skills, featuring tools like n8n, Sim, and Flutterflow.
 created: 2024-07-15
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 - [n8n](technologies/others/n8n.md)
 - [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim) ⭐ 29k

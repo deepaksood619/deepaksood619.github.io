@@ -3,7 +3,7 @@ slug: /ai/move-37/reinforcement-learning
 title: Reinforcement Learning
 description: Explore reinforcement learning, a machine learning approach where software agents maximize cumulative rewards through actions in dynamic environments.
 created: 2023-03-05
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 ## Reinforcement learning
 

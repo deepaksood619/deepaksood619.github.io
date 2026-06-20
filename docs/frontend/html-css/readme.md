@@ -3,7 +3,7 @@ slug: /frontend/html-css/readme
 title: HTML and CSS Resources
 description: Explore comprehensive resources on HTML and CSS, including component libraries, introductions, and mastering key techniques.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 - [Component Libraries](component-libraries/readme.md)
     - [Components](component-libraries/components)

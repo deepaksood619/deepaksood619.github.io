@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/networking-tools
 title: Essential Networking Tools for Linux
 description: Explore crucial Linux networking tools like curl, bmon, and aria2 for efficient data transfer and network monitoring.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ![image](../../media/DevOps-Terminal-Bash-Networking-tools-image1.jpg)
 

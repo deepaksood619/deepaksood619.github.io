@@ -3,7 +3,7 @@ slug: /technologies/apache/apache-pulsar
 title: Apache Pulsar Overview
 description: Discover Apache Pulsar, a powerful open-source pub-sub messaging system featuring low latency, scalability, and serverless integration.
 created: 2023-03-05
-last_update: 2025-05-21
+updated: 2025-05-21
 ---
 Apache Pulsar is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
 

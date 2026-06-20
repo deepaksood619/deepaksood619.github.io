@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/msd-radix-sort
 title: Understanding MSD Radix Sort
 description: Explore the MSD Radix Sort algorithm with in-depth images and explanations for effective data sorting techniques.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/MSD-Radix-Sort-image1.jpg)
 

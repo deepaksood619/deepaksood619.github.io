@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/bayes-classification
 title: Bayes Classification
 description: Discover how Naive Bayes simplifies predictive modeling using class probabilities and Bayes Theorem for effective data analysis and classification.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Naive Bayes
 

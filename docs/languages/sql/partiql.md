@@ -3,7 +3,7 @@ slug: /languages/sql/partiql
 title: PartiQL
 description: Explore PartiQL, a versatile query language enabling seamless data access across various formats and databases, enhancing agility in data lake environments.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Data may also reside in the data lake, stored in formats that may lack schema, or may involve nesting or multiple values (e.g., [Parquet](https://parquet.apache.org/), JSON). Every different type and flavor of data store may suit a particular use case, but each also comes with its own query language. The result is tight coupling between the query language and the format in which data is stored. Hence, if you want to change your data to another format, or change the database engine you use to access/process that data (which is not uncommon in a data lake world), or change the location of your data, you may also need to change your application and queries. This is a very large obstacle to the agility and flexibility needed to effectively use data lakes.
 

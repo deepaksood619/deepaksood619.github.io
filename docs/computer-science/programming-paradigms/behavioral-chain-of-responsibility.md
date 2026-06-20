@@ -3,7 +3,7 @@ slug: /computer-science/programming-paradigms/behavioral-chain-of-responsibility
 title: Behavioral Chain of Responsibility Pattern
 description: Explore the Chain of Responsibility pattern in behavioral design for effective request handling in object-oriented programming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in thechain
 

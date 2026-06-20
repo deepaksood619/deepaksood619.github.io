@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/87-stashfin-team-management-culture
 title: "Stashfin Team Management & Culture"
 description: Explore Stashfin’s automated hiring process, team culture, and mandatory code reviews for effective project management and collaboration.
 created: 2023-12-01
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ### Hiring
 

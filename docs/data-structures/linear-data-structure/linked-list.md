@@ -3,7 +3,7 @@ slug: /data-structures/linear-data-structure/linked-list
 title: "Understanding Linked Lists: Types and Operations"
 description: Explore the fundamentals of linked lists, their types, key operations, and unique variants in data structures for efficient data management.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Points to remember
 

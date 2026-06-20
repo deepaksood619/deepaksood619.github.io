@@ -3,7 +3,7 @@ slug: /knowledge/biology/organ-systems
 title: Organ Systems
 description: Explore the human organ systems, including the circulatory and digestive systems, and understand their vital roles in nutrient delivery and waste removal.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 1. [Circulatory system](https://en.wikipedia.org/wiki/Circulatory_system):
     - Circulates [blood](https://en.wikipedia.org/wiki/Blood) around the body via the [heart](https://en.wikipedia.org/wiki/Human_heart), [arteries](https://en.wikipedia.org/wiki/Artery) and [veins](https://en.wikipedia.org/wiki/Vein), delivering [oxygen](https://en.wikipedia.org/wiki/Oxygen) and nutrients to organs and cells and carrying their waste products away.

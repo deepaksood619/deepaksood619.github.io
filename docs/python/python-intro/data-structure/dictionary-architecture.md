@@ -3,7 +3,7 @@ slug: /python/python-intro/data-structure/dictionary-architecture
 title: Understanding Python Dictionary Architecture
 description: Explore the architecture of Python dictionaries, including hash tables, collision resolution, and memory management for efficient data storage.
 created: 2023-03-05
-last_update: 2024-08-12
+updated: 2024-08-12
 ---
 - Python dictionaries are implemented as hash tables.
 - Hash tables must allow for hash collisions i.e. even if two distinct keys have the same hash value, the table's implementation must have a strategy to insert and retrieve the key and value pairs unambiguously.

@@ -3,7 +3,7 @@ slug: /education/market-analysis/isa-pap-regulatory-landscape
 title: "ISA/PAP Regulatory Comparison: India vs US"
 description: Explore the regulatory landscape of Income Share Agreements and Payable After Placement in India and the US, outlining risks and enforcement challenges.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Last Updated:** June 2026
 

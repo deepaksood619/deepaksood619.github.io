@@ -3,7 +3,7 @@ slug: /algorithms/data-compression/intro
 title: Understanding Entropy Encoding and Lossless Compression
 description: Explore the basics of entropy encoding, lossless compression techniques, and their advantages in data storage and transmission.
 created: 2023-03-05
-last_update: 2024-02-14
+updated: 2024-02-14
 ---
 https://quixdb.github.io/squash-benchmark
 

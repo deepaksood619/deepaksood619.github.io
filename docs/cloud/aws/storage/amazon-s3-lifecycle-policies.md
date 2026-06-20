@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-s3-lifecycle-policies
 title: Object Lifecycle Management
 description: Optimize your storage costs with Amazon S3's Object Lifecycle Management, enabling transition and expiration actions for efficient object management.
 created: 2025-10-24
-last_update: 2025-11-14
+updated: 2025-11-14
 ---
 To manage your objects so that they are stored cost effectively throughout their lifecycle, configure their lifecycle. A lifecycle configuration is a set of rules that define actions that Amazon S3 applies to a group of objects.
 

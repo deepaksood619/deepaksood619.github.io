@@ -3,7 +3,7 @@ slug: /devops/monitoring/readme
 title: Comprehensive Monitoring Solutions
 description: Explore diverse monitoring tools like Prometheus, Grafana, and more for effective data collection, storage, analysis, and alerting.
 created: 2023-03-05
-last_update: 2025-09-02
+updated: 2025-09-02
 ---
 - [Metrics](metrics)
 - [Prometheus](prometheus/readme.md)

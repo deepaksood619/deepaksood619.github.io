@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/54-airflow-kafka-migration
 title: Airflow and Kafka Migration Project
 description: Explore our migration from Confluent Kafka and Airflow SaaS to on-prem solutions, enhancing control and cost efficiency.
 created: 2024-07-12
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Client - [Coto.World | Women-Only Community & Consultation App](https://coto.world/)
 

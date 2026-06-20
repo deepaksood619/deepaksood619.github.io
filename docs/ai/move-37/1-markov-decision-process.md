@@ -3,7 +3,7 @@ slug: /ai/move-37/1-markov-decision-process
 title: 1. Markov Decision Process
 description: Explore the Markov Decision Process, a key mathematical framework in Reinforcement Learning that defines states, actions, and rewards for optimal AI interaction.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Introduction
 

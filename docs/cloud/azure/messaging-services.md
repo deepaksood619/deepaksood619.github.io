@@ -3,7 +3,7 @@ slug: /cloud/azure/messaging-services
 title: Messaging Services
 description: Discover Azure messaging services, including Event Grid, Event Hubs, and Service Bus, to optimize event distribution and big data streaming for your applications.
 created: 2025-11-01
-last_update: 2025-11-09
+updated: 2025-11-09
 ---
 [Compare Azure messaging services - Azure Service Bus \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services)
 

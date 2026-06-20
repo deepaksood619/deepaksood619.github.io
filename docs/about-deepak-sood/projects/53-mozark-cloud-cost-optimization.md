@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/53-mozark-cloud-cost-optimization
 title: Mozark Cloud Cost Optimization
 description: Enhance your AWS performance and reduce costs with Mozark's expert cloud optimization strategies, achieving significant savings and efficiency.
 created: 2024-07-17
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 ## Client Overview
 

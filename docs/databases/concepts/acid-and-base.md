@@ -3,7 +3,7 @@ slug: /databases/concepts/acid-and-base
 title: Understanding ACID and BASE Principles
 description: Explore the key differences between ACID and BASE in database management, focusing on consistency, availability, and scalability.
 created: 2023-03-05
-last_update: 2023-12-16
+updated: 2023-12-16
 ---
 ## ACID (SQL)
 

@@ -3,7 +3,7 @@ slug: /algorithms/general/n-queens-problem
 title: Solving the N Queens Problem
 description: Explore the N Queens problem, a classic chess puzzle, and discover algorithms to place queens on a chessboard without conflict.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following is a solution for 4 Queen problem.
 

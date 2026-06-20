@@ -3,7 +3,7 @@ slug: /databases-sql/aws-aurora/monitoring
 title: Monitoring
 description: Discover essential monitoring tools and event notifications for AWS RDS, including Performance Insights and Enhanced Monitoring for optimal database performance.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Monitoring and Event Notifications
 

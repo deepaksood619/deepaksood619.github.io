@@ -3,7 +3,7 @@ slug: /management/jobs/companies
 title: Key Global Companies Overview
 description: Explore major companies across technology, mobility, e-commerce, recruitment, and collaboration tools in this comprehensive guide.
 created: 2023-08-29
-last_update: 2026-06-06
+updated: 2026-06-06
 ---
 - FAANGM / MAANG - Facebook, Apple, Amazon, Netflix, Google, Microsoft
 - WITCH - Wipro, Infosys, Tata Consultancy Services, Cognizant, HCL

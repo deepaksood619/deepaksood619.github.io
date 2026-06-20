@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/the-art-of-impossible
 title: The Art of Impossible
 description: Unlock your potential with "The Art of Impossible" by Steven Kotler, mastering motivation, learning, creativity, and flow to achieve your dreams.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Steven Kotler
 

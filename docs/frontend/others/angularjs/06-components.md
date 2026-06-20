@@ -3,7 +3,7 @@ slug: /frontend/others/angularjs/06-components
 title: Understanding Angular Components
 description: Learn about Angular components, the building blocks of applications, and how they manage views and user interactions.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 ## Angular Components
 

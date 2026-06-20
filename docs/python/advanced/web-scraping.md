@@ -3,7 +3,7 @@ slug: /python/advanced/web-scraping
 title: Web Scraping Techniques and Tools
 description: Explore essential web scraping techniques using wget, BeautifulSoup, lxml, and Selenium to extract data efficiently from websites.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Web Scraping is a technique in which a computer program extracts data from human-readable output coming from websites.
 

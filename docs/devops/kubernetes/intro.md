@@ -3,7 +3,7 @@ slug: /devops/kubernetes/intro
 title: Introduction to Kubernetes Orchestration
 description: Explore Kubernetes and container orchestration, including concepts like Borg, orchestration vs. choreography, and application containerization.
 created: 2023-03-05
-last_update: 2026-05-09
+updated: 2026-05-09
 ---
 **One liner - Kubernetes/Mesos - software tools to manage and coordinate containers**
 

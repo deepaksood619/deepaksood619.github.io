@@ -3,7 +3,7 @@ slug: /frontend/html-css/component-libraries/readme
 title: Comprehensive Guide to Component Libraries
 description: Explore top CSS-in-JS libraries like Emotion and styled-components for efficient application styling.
 created: 2023-03-05
-last_update: 2025-04-24
+updated: 2025-04-24
 ---
 https://lwc.dev
 

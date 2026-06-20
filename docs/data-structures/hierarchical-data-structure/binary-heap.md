@@ -3,7 +3,7 @@ slug: /data-structures/hierarchical-data-structure/binary-heap
 title: Understanding Binary Heaps
 description: Explore binary heaps, their properties, and applications in priority queues and heapsort algorithms for efficient data processing.
 created: 2023-03-05
-last_update: 2023-03-26
+updated: 2023-03-26
 ---
 ## Points to remember
 

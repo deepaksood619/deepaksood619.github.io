@@ -3,7 +3,7 @@ slug: /technologies/git/branching-strategies
 title: Effective Branching Strategies for Development
 description: Learn efficient branching strategies for software development, focusing on simplicity before product release.
 created: 2023-03-05
-last_update: 2025-05-01
+updated: 2025-05-01
 ---
 Note: Up until the first public release of a product, it absolutely makes sense to commit all changes directly to the main branch - even if you are a Git flow advocate - for the sake of the speed and simplicity of the development workflow. Since there's no production yet, there's no possibility of a production bug that the team needs to fix ASAP. Doing all the branching magic that classic Git flow implies is therefore overkill at this stage
 

@@ -3,7 +3,7 @@ slug: /algorithms/general/sweep-line-algorithm
 title: Sweep Line Algorithm for Line Segment Intersections
 description: Learn how the sweep line algorithm efficiently finds intersections among orthogonal line segments in O(N log N + R) time.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Orthogonal Line Segment Intersection
 

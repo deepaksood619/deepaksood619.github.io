@@ -3,7 +3,7 @@ slug: /python/python-intro/exceptions
 title: Understanding Exceptions in Python
 description: Learn when to use exceptions versus conditional handling in Python for efficient error management and code performance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Should I Use Exceptions of Conditional Handling?
 

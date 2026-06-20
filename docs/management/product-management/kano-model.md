@@ -3,7 +3,7 @@ slug: /management/product-management/kano-model
 title: Understanding the Kano Model
 description: Explore the Kano Model to identify must-be and one-dimensional quality attributes that impact customer satisfaction.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ![image](../../media/Product-Management-image6.jpg)
 

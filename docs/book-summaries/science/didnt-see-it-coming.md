@@ -3,7 +3,7 @@ slug: /book-summaries/science/didnt-see-it-coming
 title: Didn't see it coming
 description: Discover how to overcome the unexpected challenges of cynicism, burnout, and disconnection with Carey Nieuwhof's insightful book, "Didn't See It Coming."
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 Overcoming the Seven Greatest Challenges That No One Expects and Everyone Experiences Book by Carey Nieuwhof
 

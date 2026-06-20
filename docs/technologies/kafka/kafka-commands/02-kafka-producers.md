@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-commands/02-kafka-producers
 title: Understanding Kafka Producers
 description: Explore essential tools and commands for sending data to Kafka topics, including serialization and performance testing options.
 created: 2026-03-21
-last_update: 2026-03-25
+updated: 2026-03-25
 ---
 This module details the tools used to send data into Kafka topics, ranging from basic console inputs to serialized data formats and performance testing.
 

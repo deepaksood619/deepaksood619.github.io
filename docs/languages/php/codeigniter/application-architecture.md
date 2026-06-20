@@ -3,7 +3,7 @@ slug: /languages/php/codeigniter/application-architecture
 title: Application Architecture
 description: Discover the key elements of application architecture, including routing, caching, security checks, and efficient data handling for optimal performance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Application Architecture
 

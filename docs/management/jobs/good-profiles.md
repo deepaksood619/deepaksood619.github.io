@@ -3,7 +3,7 @@ slug: /management/jobs/good-profiles
 title: Notable LinkedIn Profiles
 description: Explore a curated list of impressive LinkedIn profiles and resumes from industry leaders and professionals in various fields.
 created: 2023-08-29
-last_update: 2025-11-01
+updated: 2025-11-01
 ---
 - [linkedin.com/in/dr-vinod-ebinezer-44b2981/details/experience/](https://www.linkedin.com/in/dr-vinod-ebinezer-44b2981/details/experience/)
 - https://www.linkedin.com/in/hirenchandaria

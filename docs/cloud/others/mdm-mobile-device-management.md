@@ -3,7 +3,7 @@ slug: /cloud/others/mdm-mobile-device-management
 title: MDM (Mobile Device Management)
 description: Discover how Mobile Device Management (MDM) enhances workforce productivity while ensuring the security of corporate data on smartphones, tablets, and laptops.
 created: 2024-02-07
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 Mobile device management (MDM) is a proven methodology and toolset used to provide a workforce mobile productivity tools and applications while keeping corporate data secure.
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/39-ai-powered-call-quality-monitoring
 title: AI-Powered Call Quality Monitoring
 description: Discover an AI-driven system for call quality monitoring, offering insights like sentiment analysis and post-call analytics.
 created: 2025-01-26
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Overview
 

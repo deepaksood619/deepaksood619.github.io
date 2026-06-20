@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/eating-routine
 title: Eating Routine
 description: Explore the debate between structured eating routines and intuitive hunger cues for optimal nutrition, weight management, and metabolic health.
 created: 2026-04-28
-last_update: 2026-04-29
+updated: 2026-04-29
 ---
 **Deep Research Prompt -** What is best eating on a routine with Limited quantity or taking the Hunger cues and eating according to your hunger and satiety
 

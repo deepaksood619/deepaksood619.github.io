@@ -3,7 +3,7 @@ slug: /knowledge/general/knowledge-of-humanity
 title: Knowledge of Humanity
 description: Explore the rich tapestry of humanity through the humanities, arts, and performing arts, including music, conducting, and diverse musical genres.
 created: 2023-03-05
-last_update: 2025-02-27
+updated: 2025-02-27
 ---
 ## Humanities
 

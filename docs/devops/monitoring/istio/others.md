@@ -3,7 +3,7 @@ slug: /devops/monitoring/istio/others
 title: Istio vs Kubernetes Ingress Overview
 description: Explore the differences, benefits, and features of Istio Ingress and Kubernetes Ingress for efficient service mesh management.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Istio Ingress vs Kubernetes Ingress
 

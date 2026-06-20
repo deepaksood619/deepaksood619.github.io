@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/47-genai-case-study-careers360
 title: Boosting Careers360's Productivity with GenAI
 description: Discover how Careers360 enhanced content creation efficiency using GenAI and Amazon Bedrock for better research and productivity.
 created: 2024-09-11
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 Case Study: Enhancing Productivity at Careers360 with GenAI and Amazon Bedrock
 

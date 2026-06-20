@@ -3,7 +3,7 @@ slug: /cloud/aws/compute/amazon-ec2-asg
 title: Amazon EC2 Auto Scaling Group (ASG)
 description: Optimize your cloud resources with Amazon EC2 Auto Scaling Groups, offering Simple, Step, and Target Tracking policies for efficient capacity management.
 created: 2025-10-24
-last_update: 2025-10-27
+updated: 2025-10-27
 ---
 Scale Compute Capacity to Meet Demand
 

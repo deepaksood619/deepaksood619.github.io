@@ -3,7 +3,7 @@ slug: /languages/sql/databricks-sql-functions
 title: Databricks SQL Functions
 description: Explore essential Databricks SQL functions, including built-in capabilities and specific functions like str_to_map, for efficient data manipulation and analysis.
 created: 2023-09-06
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 [Built-in functions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-functions-builtin.html)
 

@@ -3,7 +3,7 @@ slug: /psychology/strategic-thinking
 title: Strategic Thinking
 description: Unlock your potential with strategic thinking to enhance leadership, decision-making, and goal achievement through a combination of mindset and analytical techniques.
 created: 2023-03-05
-last_update: 2025-04-17
+updated: 2025-04-17
 ---
 Defined as the process that determines the manner in which people think about, assess, view, and create the future for themselves and others.It's a combination of mindset and techniques that determines one's ability to know their goal and how to achieve it.
 

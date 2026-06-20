@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/35-aws-hands-on-amazon-q-workshop
 title: AWS Amazon Q Developer Workshop
 description: Join the AWS hands-on Amazon Q workshop to enhance your software development skills with AI-driven tools for improved workflow.
 created: 2025-05-01
-last_update: 2025-05-03
+updated: 2025-05-03
 ---
 1. Amazon Q Developer Cloud Operations Workshop
 2. Amazon Q Developer Data Engineering Workshop

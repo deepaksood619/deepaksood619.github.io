@@ -3,7 +3,7 @@ slug: /cloud/aws/readme
 title: AWS
 description: Explore AWS services, tools, and compliance solutions for cloud computing, including cost optimization and analytics with AWS Glue, SQS, and SNS.
 created: 2023-03-05
-last_update: 2026-01-02
+updated: 2026-01-02
 ---
 - [Intro](cloud/aws/intro.md)
 - [AWS Services](aws-services)

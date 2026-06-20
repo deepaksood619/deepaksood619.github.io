@@ -3,7 +3,7 @@ slug: /management/business/other-preschool-daycare-franchise
 title: Footprints FOCO Franchise Insights
 description: Explore the Footprints FOCO franchise insights, focusing on preschool models, marketing strategies, and operational success in the daycare industry.
 created: 2026-05-23
-last_update: 2026-05-29
+updated: 2026-05-29
 ---
 I am exploring footprints foco model.
 

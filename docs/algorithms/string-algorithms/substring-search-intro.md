@@ -3,7 +3,7 @@ slug: /algorithms/string-algorithms/substring-search-intro
 title: Introduction to Substring Search Algorithms
 description: Explore various substring search algorithms, including brute-force, KMP, Boyer-Moore, and Rabin-Karp, along with their applications.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 Algorithms for searching for a substring in a piece of text. We begin with a brute-force algorithm, whose running time is quadratic in the worst case. Next, we consider the ingenious Knuth--Morris--Pratt algorithm whose running time is guaranteed to be linear in the worst case. Then, we introduce the Boyer--Moore algorithm, whose running time is sublinear on typical inputs. Finally, we consider the Rabin--Karp fingerprint algorithm, which uses hashing in a clever way to solve the substring search and related problems
 

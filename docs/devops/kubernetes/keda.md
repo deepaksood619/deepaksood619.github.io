@@ -3,7 +3,7 @@ slug: /devops/kubernetes/keda
 title: "Introduction to KEDA: Event-Driven Autoscaling"
 description: Discover KEDA, a lightweight component for Kubernetes that enables event-driven autoscaling alongside existing frameworks.
 created: 2024-05-31
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 Kubernetes Event-driven Autoscaling
 

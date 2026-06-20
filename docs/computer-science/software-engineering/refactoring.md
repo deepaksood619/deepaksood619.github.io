@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/refactoring
 title: Understanding the 7 R's of Refactoring
 description: Explore the 7 R's of refactoring, detailing common use cases and deployment strategies for modern application management.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## The 7 R's: Common use cases and deployment
 

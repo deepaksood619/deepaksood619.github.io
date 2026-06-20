@@ -3,7 +3,7 @@ slug: /databases-nosql/readme
 title: NoSQL Databases
 description: Explore the world of NoSQL databases, including MongoDB, Redis, and Cassandra, and discover their diverse use cases and unique features for modern applications.
 created: 2025-06-10
-last_update: 2025-06-24
+updated: 2025-06-24
 ---
 - [Column Family](databases-nosql/column-family.md)
 - [NoSQL Databases](databases-nosql/others.md)

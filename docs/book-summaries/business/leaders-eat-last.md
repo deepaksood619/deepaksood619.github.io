@@ -3,7 +3,7 @@ slug: /book-summaries/business/leaders-eat-last
 title: Leaders Eat Last
 description: Explore Simon Sinek's "Leaders Eat Last" to understand the impact of endorphins, dopamine, serotonin, and oxytocin on leadership and teamwork.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Simon Sinek
 

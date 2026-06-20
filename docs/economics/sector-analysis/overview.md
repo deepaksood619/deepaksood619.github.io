@@ -3,7 +3,7 @@ slug: /economics/sector-analysis/overview
 title: Overview
 description: Explore sector analysis to understand unique factors influencing businesses, with tailored approaches for banking, insurance, and airline industries.
 created: 2025-04-12
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## What is sector analysis?
 

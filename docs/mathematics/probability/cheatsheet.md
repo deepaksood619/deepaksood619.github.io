@@ -3,7 +3,7 @@ slug: /mathematics/probability/cheatsheet
 title: Cheatsheet
 description: Explore our comprehensive cheatsheet on MultiVariate Normal Distribution, featuring key concepts, visual aids, and an extensive table of distributions.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 MVN - MultiVariate Normal Distribution
 

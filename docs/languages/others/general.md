@@ -3,7 +3,7 @@ slug: /languages/others/general
 title: General
 description: Discover the concept of domain-specific languages (DSLs), specialized computer languages tailored for unique application domains, enhancing software development and efficiency.
 created: 2023-03-05
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ## Domain Specific Languages (DSLs)
 

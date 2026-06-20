@@ -3,7 +3,7 @@ slug: /networking/protocols/http-3-quic
 title: Understanding HTTP/3 QUIC Protocol
 description: Discover how HTTP/3 uses QUIC for efficient streaming and improved performance over traditional TCP.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 QUIC - Quick UDP Internet Connections
 

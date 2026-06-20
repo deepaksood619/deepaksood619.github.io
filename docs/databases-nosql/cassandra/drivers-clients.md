@@ -3,7 +3,7 @@ slug: /databases-nosql/cassandra/drivers-clients
 title: Drivers / Clients
 description: Discover how to connect to a Cassandra database using the Cassandra driver in Python to efficiently query video data by tags.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ```python
 pip install cassandra-driver

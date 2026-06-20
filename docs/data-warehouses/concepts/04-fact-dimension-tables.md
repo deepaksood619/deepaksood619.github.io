@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/04-fact-dimension-tables
 title: Understanding Fact and Dimension Tables
 description: Explore dimensional modeling concepts to optimize data warehouses for analytics through fact and dimension tables.
 created: 2023-03-16
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Dimensional Modeling?
 

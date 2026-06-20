@@ -3,7 +3,7 @@ slug: /knowledge/games/chess
 title: Chess
 description: Explore the strategic world of chess, learn piece values, algebraic notation, and file concepts to enhance your game and tactics.
 created: 2023-03-05
-last_update: 2025-06-04
+updated: 2025-06-04
 ---
 **King - Priceless, Queen - 9, Rook - 5, Bishop (better than knight) - 3, Knight - 3, Pawn - 1**
 

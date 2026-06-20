@@ -3,7 +3,7 @@ slug: /economics/fundamentals/inflation-indexes
 title: Inflation Indexes
 description: Explore the impact of inflation through key metrics like the Wholesale Price Index (WPI) and Consumer Price Index (CPI) to understand price trends.
 created: 2023-08-21
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 Inflation is a sustained increase in the general prices of goods and services. Increasing inflation erodes the purchasing power of money.
 

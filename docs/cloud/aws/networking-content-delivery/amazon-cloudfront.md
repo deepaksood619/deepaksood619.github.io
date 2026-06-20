@@ -3,7 +3,7 @@ slug: /cloud/aws/networking-content-delivery/amazon-cloudfront
 title: Amazon CloudFront
 description: Amazon CloudFront is a global CDN that securely delivers dynamic, static, and streaming content through a vast network of edge locations for optimized performance.
 created: 2024-09-01
-last_update: 2025-12-16
+updated: 2025-12-16
 ---
 Amazon CloudFront is a global Content Delivery Network (CDN) service which securely delivers website's dynamic, static, and streaming content by making it available from a global network of edge locations. Amazon CloudFront supports all types of files that can be served over HTTP.
 

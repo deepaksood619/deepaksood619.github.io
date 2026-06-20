@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/hyperverge-academy-analysis
 title: HyperVerge Academy Insights
 description: Discover HyperVerge Academy, a free tech bootcamp empowering under-resourced learners with industry mentorship and a 100% placement rate.
 created: 2026-06-08
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Overview
 

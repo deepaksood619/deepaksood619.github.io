@@ -3,7 +3,7 @@ slug: /networking/mqtt/readme
 title: Understanding MQTT Protocol Essentials
 description: Explore MQTT essentials including publish/subscribe patterns, QoS levels, security, and best practices for IoT applications.
 created: 2023-03-05
-last_update: 2024-07-12
+updated: 2024-07-12
 ---
 - [Intro](networking/mqtt/intro.md)
 - [Publish Subscribe Pattern](publish-subscribe-pattern)

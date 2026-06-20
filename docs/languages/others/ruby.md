@@ -3,7 +3,7 @@ slug: /languages/others/ruby
 title: Ruby
 description: Discover Ruby gems for packaging functionality, enhancing projects with features like JSON conversion, pagination, and API interactions, essential for Jekyll sites.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Gems
 

@@ -3,7 +3,7 @@ slug: /python/documentation/08-data-types
 title: Understanding Python Data Types
 description: Explore essential Python data types including datetime, collections, and more. Enhance your programming skills with efficient data handling techniques.
 created: 2023-03-05
-last_update: 2024-01-24
+updated: 2024-01-24
 ---
 ## 8.1. datetime - Basic date and time types
 

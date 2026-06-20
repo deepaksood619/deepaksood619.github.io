@@ -3,7 +3,7 @@ slug: /computer-science/system-design/n-tier-application-architecture
 title: Understanding N-Tier Application Architecture
 description: Explore N-tier architecture's logical layers and physical tiers to enhance application scalability and resiliency.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 An N-tier architecture divides an application into logical layers and physical tiers.
 

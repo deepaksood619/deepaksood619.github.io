@@ -3,7 +3,7 @@ slug: /education/pedagogy/memory
 title: Understanding Memory Processes
 description: Explore memory retention techniques like spaced repetition, interleaving, and the role of the hippocampus in memory consolidation.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 Brain have a visual spatial center - Therefore images are stored very efficiently.
 

@@ -3,7 +3,7 @@ slug: /education/competitors/job-platforms/cutshort-analysis
 title: Cutshort Hiring Platform Overview
 description: Explore Cutshort, an AI-powered tech hiring platform transforming the recruitment landscape for startups in India.
 created: 2026-06-08
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Last Updated:** June 2026
 

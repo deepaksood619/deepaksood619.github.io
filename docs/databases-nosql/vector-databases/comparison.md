@@ -3,7 +3,7 @@ slug: /databases-nosql/vector-databases/comparison
 title: Comparison
 description: Discover a comprehensive comparison of vector databases, exploring features, performance, and capabilities to help you choose the right solution for your needs.
 created: 2025-06-23
-last_update: 2025-07-03
+updated: 2025-07-03
 ---
 - [GitHub Star History - Vector DB Comparison](https://www.star-history.com/#qdrant/qdrant&milvus-io/milvus&chroma-core/chroma&weaviate/weaviate&Date)
 - [Vector DB Comparison](https://superlinked.com/vector-db-comparison)

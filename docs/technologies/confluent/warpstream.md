@@ -3,7 +3,7 @@ slug: /technologies/confluent/warpstream
 title: "WarpStream: Revolutionizing Data Streaming"
 description: Discover WarpStream, a cost-effective, Kafka-compatible data streaming platform built on S3 for seamless, efficient data management.
 created: 2025-02-24
-last_update: 2026-04-21
+updated: 2026-04-21
 ---
 [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 

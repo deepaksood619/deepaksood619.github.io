@@ -3,7 +3,7 @@ slug: /ai/data-science/datasets
 title: Datasets
 description: Explore diverse datasets like MNIST and credit card fraud data to enhance your AI projects and image processing systems with valuable resources.
 created: 2023-05-25
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 [Home - Data Commons](https://datacommons.org/)
 

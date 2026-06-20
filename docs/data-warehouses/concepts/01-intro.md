@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/01-intro
 title: Understanding Data Warehousing Essentials
 description: Explore the fundamentals of data warehousing, its role in business intelligence, and how it integrates data for effective analysis.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 In [computing](https://en.wikipedia.org/wiki/Computing), a data warehouse (DW or DWH), also known as an enterprise data warehouse (EDW), is a system used for [reporting](https://en.wikipedia.org/wiki/Business_reporting) and [data analysis](https://en.wikipedia.org/wiki/Data_analysis), and is considered a core component of [business intelligence](https://en.wikipedia.org/wiki/Business_intelligence). DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place that are used for creating analytical reports for workers throughout the enterprise.
 

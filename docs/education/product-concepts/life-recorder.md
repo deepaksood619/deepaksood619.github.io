@@ -3,7 +3,7 @@ slug: /education/product-concepts/life-recorder
 title: Understanding Ambient Lifelogging
 description: Explore the technological and societal impacts of AI-driven wearable devices in continuous life recording and ambient lifelogging.
 created: 2026-02-19
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## The Era of the AI Life Recorder: Technological, Psychological, and Societal Implications of Always-On Wearable Intelligence
 

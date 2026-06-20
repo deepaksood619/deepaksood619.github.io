@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/artificial-neural-networks
 title: Artificial Neural Networks
 description: Explore the fundamentals of artificial neural networks, their architecture, and applications transforming industries through advanced machine learning techniques.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/Artificial-Neural-Networks-image1.jpg)
 

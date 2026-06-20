@@ -3,7 +3,7 @@ slug: /knowledge/physics/intro
 title: Intro
 description: Explore retrocausality and Newtonian mechanics, focusing on momentum's definition and importance in physics to understand motion in three-dimensional space.
 created: 2023-03-05
-last_update: 2024-03-18
+updated: 2024-03-18
 ---
 1. Retrocausality - That future can effect the past. Ex - if I spill the coffee tomorrow then I can see the stain today.
 

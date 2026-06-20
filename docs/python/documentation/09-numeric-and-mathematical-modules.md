@@ -3,7 +3,7 @@ slug: /python/documentation/09-numeric-and-mathematical-modules
 title: Numeric and Mathematical Modules Overview
 description: Explore Python's numeric and mathematical modules, including functions for numbers, statistics, and complex arithmetic.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 9.1. numbers - Numeric abstract base classes
 

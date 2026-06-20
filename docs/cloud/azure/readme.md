@@ -3,7 +3,7 @@ slug: /cloud/azure/readme
 title: Azure
 description: Explore Azure services, commands, IAM, networking, VMs, and more to enhance your cloud computing skills and optimize your projects effectively.
 created: 2023-03-05
-last_update: 2025-12-15
+updated: 2025-12-15
 ---
 - [Azure Services](cloud/azure/services.md)
 - [Azure Commands](cloud/azure/commands.md)

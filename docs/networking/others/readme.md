@@ -3,7 +3,7 @@ slug: /networking/others/readme
 title: Networking Tools and Data Formats
 description: Explore essential networking tools, VPN options, and comprehensive guides on various data formats and serialization techniques.
 created: 2023-03-05
-last_update: 2025-02-27
+updated: 2025-02-27
 ---
 - [Falcor](falcor)
 - [VPN](vpn)

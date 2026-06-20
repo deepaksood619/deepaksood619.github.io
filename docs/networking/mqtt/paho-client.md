@@ -3,7 +3,7 @@ slug: /networking/mqtt/paho-client
 title: Paho MQTT Client Example
 description: Learn how to use the Paho MQTT client in Python to connect, subscribe to topics, and handle messages effectively.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ```python
 import paho.mqtt.client as mqtt

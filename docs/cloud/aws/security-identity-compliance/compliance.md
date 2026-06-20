@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/compliance
 title: Compliances
 description: Discover essential insights on PCI and SOC compliance to secure credit card information and ensure service organization trust with standardized audits.
 created: 2024-02-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## PCI Compliance
 

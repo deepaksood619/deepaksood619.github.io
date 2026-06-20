@@ -3,7 +3,7 @@ slug: /languages/sql/dcl-data-control-language
 title: DCL - Data Control Language
 description: Learn about Data Control Language (DCL) in SQL, including user permissions, grants, and managing database access effectively.
 created: 2023-03-05
-last_update: 2024-05-14
+updated: 2024-05-14
 ---
 ## Data Control Language (DCL) / Data Management Language (DML)
 

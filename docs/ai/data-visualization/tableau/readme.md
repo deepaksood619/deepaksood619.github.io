@@ -3,7 +3,7 @@ slug: /ai/data-visualization/tableau/readme
 title: Tableau
 description: Explore Tableau's architecture, data sources, dashboarding, and augmented analytics for effective data visualization and analysis in your business.
 created: 2023-07-13
-last_update: 2026-06-12
+updated: 2026-06-12
 ---
 - [Architecture and Components](ai/data-visualization/tableau/architecture-components.md)
 - [Data Model](ai/data-visualization/tableau/data-model.md)

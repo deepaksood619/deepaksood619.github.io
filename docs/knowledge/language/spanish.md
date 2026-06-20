@@ -3,7 +3,7 @@ slug: /knowledge/language/spanish
 title: Spanish
 description: Discover essential Spanish vocabulary and phrases, from greetings to basic grammar, with the Duolingo Spanish Podcast for effective language learning.
 created: 2023-03-05
-last_update: 2023-06-24
+updated: 2023-06-24
 ---
 ## Duolingo Spanish Podcast
 

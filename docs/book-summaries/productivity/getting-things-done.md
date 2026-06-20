@@ -3,7 +3,7 @@ slug: /book-summaries/productivity/getting-things-done
 title: Getting Things Done
 description: Master productivity with the Getting Things Done method: capture, process, organize, review, and engage for effective task management and focus.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 CPR - Capture Process Review
 

@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/system-design-tinyurl
 title: System Design Overview of TinyURL
 description: Explore the design principles behind TinyURL, including URL shortening, persistence, and API functionality for efficient URL management.
 created: 2023-03-05
-last_update: 2023-11-20
+updated: 2023-11-20
 ---
 [System Design : Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 

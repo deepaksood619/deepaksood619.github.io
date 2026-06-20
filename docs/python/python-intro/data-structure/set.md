@@ -3,7 +3,7 @@ slug: /python/python-intro/data-structure/set
 title: Understanding Python Sets and Frozen Sets
 description: Learn about Python sets, their properties, differences from lists, and how to create immutable frozen sets for your data structures.
 created: 2023-03-05
-last_update: 2023-06-07
+updated: 2023-06-07
 ---
 - Set doesn't support indexing/slicing
 - Set doesn't support random.choices(a), since it doesn't support indexing

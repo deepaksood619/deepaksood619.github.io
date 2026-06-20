@@ -3,7 +3,7 @@ slug: /frontend/others/docusaurus
 title: Getting Started with Docusaurus
 description: Learn how to create, build, and deploy your Docusaurus website with essential commands and plugins for optimal performance.
 created: 2023-03-05
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 ```bash
 npx create-docusaurus@latest my-website classic

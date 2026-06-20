@@ -3,7 +3,7 @@ slug: /management/business/service-based-model
 title: Service Based Model Overview
 description: Explore the service-based model featuring dedicated teams and team augmentation for efficient project delivery and flexible talent solutions.
 created: 2024-02-13
-last_update: 2025-05-30
+updated: 2025-05-30
 ---
 ## Dedicated Team
 

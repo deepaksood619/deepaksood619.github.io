@@ -3,7 +3,7 @@ slug: /education/competitors/technical-hiring-assessment-market
 title: Technical Hiring Assessment Market Insights
 description: Explore the growing technical hiring assessment market, driven by practical coding assessments and remote hiring trends.
 created: 2026-05-03
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Market Overview
 

@@ -3,7 +3,7 @@ slug: /computer-science/distributed-system/others
 title: Understanding CRDTs and Their Applications
 description: Learn about Conflict-free Replicated Data Types (CRDTs), their types, and how they ensure data consistency across distributed systems.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## CRDTs (Conflict-free Replicated Data Types)
 

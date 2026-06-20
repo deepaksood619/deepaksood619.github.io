@@ -3,7 +3,7 @@ slug: /ai/data-visualization/tableau/administration
 title: Administration
 description: Discover Tableau Cloud's administration features, including site capacity allowances and advanced management options for optimal storage solutions.
 created: 2025-02-02
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Tableau Cloud Site Capacity
 

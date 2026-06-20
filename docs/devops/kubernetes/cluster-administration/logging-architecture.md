@@ -3,7 +3,7 @@ slug: /devops/kubernetes/cluster-administration/logging-architecture
 title: Containerized Application Logging Architecture
 description: Explore the best practices for logging in containerized applications and understand cluster-level logging for Kubernetes.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 The easiest and most embraced logging method for containerized applications is to write to the **standard output and standard error streams**.
 

@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/k-nearest-neighbor-knn
 title: K-Nearest Neighbor (KNN)
 description: Discover how K-Nearest Neighbor (KNN) uses similarity measures like Euclidean distance for regression and classification to make accurate predictions.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 The model representation for KNN is the entire training dataset. Simple right?
 

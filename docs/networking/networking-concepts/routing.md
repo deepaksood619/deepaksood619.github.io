@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/routing
 title: Understanding IP Address Routing
 description: Explore the different types of IP address routing, including unicast, multicast, anycast, and broadcast addressing.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 IP addresses are classified into several classes of operational characteristics: unicast, multicast, anycast and broadcast addressing.
 

@@ -3,7 +3,7 @@ slug: /data-warehouses/concepts/data-engineering-challenges
 title: Key Data Engineering Challenges
 description: Explore essential data engineering challenges and solutions including data silos and real-time data pipelines for effective analytics.
 created: 2025-06-23
-last_update: 2025-06-23
+updated: 2025-06-23
 ---
 ### 1. Elimination of Data Silos - Unified Lakehouse Architecture
 

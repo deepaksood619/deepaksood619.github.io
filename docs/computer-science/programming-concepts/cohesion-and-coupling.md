@@ -3,7 +3,7 @@ slug: /computer-science/programming-concepts/cohesion-and-coupling
 title: Understanding Cohesion and Coupling
 description: Explore the concepts of cohesion and coupling in software design, and learn how to optimize module interconnections for better performance.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## COUPLING - An indication of the strength of interconnections between program units
 

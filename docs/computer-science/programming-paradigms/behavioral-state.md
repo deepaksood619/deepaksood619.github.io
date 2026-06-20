@@ -3,7 +3,7 @@ slug: /computer-science/programming-paradigms/behavioral-state
 title: Understanding the State Pattern
 description: Explore the state pattern, a behavioral design pattern that implements state machines in object-oriented programming.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 The**state pattern** is a [behavioral](https://en.wikipedia.org/wiki/Behavioral_pattern)[software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) that implements a [state machine](https://en.wikipedia.org/wiki/State_machine) in an [object-oriented](https://en.wikipedia.org/wiki/Object-oriented) way. With the state pattern, a state machine is implemented by implementing each individual state as a derived class of the state pattern interface, and implementing state transitions by invoking [methods](https://en.wikipedia.org/wiki/Method_(computer_programming)) defined by the pattern's superclass.
 The state pattern can be interpreted as a [strategy pattern](https://en.wikipedia.org/wiki/Strategy_pattern) which is able to switch the current strategy through invocations of methods defined in the pattern's interface.

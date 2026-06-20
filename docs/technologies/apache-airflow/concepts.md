@@ -3,7 +3,7 @@ slug: /technologies/apache-airflow/concepts
 title: Understanding DAGs and Operators in Airflow
 description: Explore key concepts of DAGs and operators in Airflow, including scope, default arguments, and context managers for efficient workflows.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 ## DAGs
 

@@ -3,7 +3,7 @@ slug: /networking/protocols/rest-representational-state-transfer-restful
 title: Understanding RESTful Architecture
 description: Explore RESTful architecture, its stateless nature, and the separation of client and server for efficient web communication.
 created: 2023-03-05
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 REST + JSON over HTTP
 REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server.

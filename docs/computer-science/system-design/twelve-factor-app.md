@@ -3,7 +3,7 @@ slug: /computer-science/system-design/twelve-factor-app
 title: Understanding the Twelve-Factor App
 description: Learn about the twelve-factor app methodology for building scalable, portable, and agile software-as-a-service applications.
 created: 2023-03-05
-last_update: 2025-05-21
+updated: 2025-05-21
 ---
 In the modern era, software is commonly delivered as a service: calledweb apps, orsoftware-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that:
 

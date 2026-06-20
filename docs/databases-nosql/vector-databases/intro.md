@@ -3,7 +3,7 @@ slug: /databases-nosql/vector-databases/intro
 title: Intro
 description: Discover how vector databases enhance data management with advanced indexing, high-speed ingestion, and support for AI-driven queries in modern applications.
 created: 2024-12-18
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 A vector database is a specialized DBMS that stores vector embeddings utilizing innovative techniques for storage, indexing, and query processing. They offer data management capabilities, such as CRUD and language bindings to widely used data science languages such as Python, SQL, Java, and Tensorflow. Additionally, they deliver advanced features such as high-speed ingestion, sharding, and replication.
 

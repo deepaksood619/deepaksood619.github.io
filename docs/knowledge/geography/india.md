@@ -3,7 +3,7 @@ slug: /knowledge/geography/india
 title: India
 description: Explore India's demographics with a population of 1.428 billion, highlighting sex ratios and literacy rates across states and union territories.
 created: 2023-03-05
-last_update: 2026-06-07
+updated: 2026-06-07
 ---
 ### Population Distribution
 

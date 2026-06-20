@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/layer-2-protocols
 title: Layer 2 Protocols
 description: Explore Layer 2 protocols for Ethereum, including Arbitrum, Polygon, and zkSync, which enhance scalability and functionality while ensuring security.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 - [arbitrum](decentralized-applications/ethereum/arbitrum.md)
 - [polygon](decentralized-applications/ethereum/polygon.md) (MATIC)

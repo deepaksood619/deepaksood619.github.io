@@ -3,7 +3,7 @@ slug: /python/python-intro/requirements-file
 title: Understanding Pip Requirements Files
 description: Learn how to create and use pip requirements files for seamless package installations in Python projects.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 pip supports installing from [PyPI](http://pypi.python.org/pypi), version control, local projects, and directly from distribution files.
 

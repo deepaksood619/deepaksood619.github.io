@@ -3,7 +3,7 @@ slug: /education/competitors/lms-platforms/global/blackboard-anthology-analysis
 title: Blackboard Anthology Analysis Overview
 description: Explore the legacy and market shifts of Blackboard Anthology, a major player in academic LMS with significant industry insights.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Category:** Legacy Academic LMS | Last updated: 2026-06-09
 

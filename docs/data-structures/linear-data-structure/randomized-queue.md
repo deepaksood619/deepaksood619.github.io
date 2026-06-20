@@ -3,7 +3,7 @@ slug: /data-structures/linear-data-structure/randomized-queue
 title: Understanding Randomized Queue Concept
 description: Learn about the randomized queue data structure, where items are removed uniformly at random, distinct from traditional stacks and queues.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Randomized queue
 

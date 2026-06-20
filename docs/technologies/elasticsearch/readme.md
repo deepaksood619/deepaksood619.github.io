@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/readme
 title: Comprehensive Guide to Elasticsearch
 description: Explore Elasticsearch with our complete guide covering architecture, commands, analysis, and full-text searches.
 created: 2023-03-05
-last_update: 2024-01-04
+updated: 2024-01-04
 ---
 - [ELK/EFK Stack / Elastic Stack / Elasticsearch](elk-efk-stack-elastic-stack-elasticsearch)
 - [Elasticsearch: The Definitive Guide](elasticsearch-the-definitive-guide)

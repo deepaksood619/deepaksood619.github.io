@@ -3,7 +3,7 @@ slug: /languages/golang/interview-questions
 title: Interview Questions
 description: Learn how to use `sync.Mutex` in Go to manage concurrent access to shared resources with practical examples and essential tips for effective locking.
 created: 2024-11-28
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 ## 1. Using `sync.Mutex` in Go
 

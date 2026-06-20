@@ -3,7 +3,7 @@ slug: /data-warehouses/bigquery/query-working
 title: Understanding Query Types in BigQuery
 description: Explore interactive, batch, and continuous query jobs in BigQuery to optimize your data processing and resource management.
 created: 2025-05-25
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Types of queries
 

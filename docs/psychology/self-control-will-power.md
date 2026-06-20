@@ -3,7 +3,7 @@ slug: /psychology/self-control-will-power
 title: Self Control / Will Power
 description: Discover effective techniques for enhancing self-control and willpower, focusing on decision-making, delayed gratification, and habit formation.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Before you try to increase your willpower, try to decrease the friction in your environment.
 

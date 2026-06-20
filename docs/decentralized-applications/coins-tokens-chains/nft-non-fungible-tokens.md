@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens
 title: NFT (Non Fungible Tokens)
 description: Explore the world of NFTs (Non-Fungible Tokens) including PFPs, generative art, and essential tools for trading and creating unique digital assets.
 created: 2023-03-05
-last_update: 2024-03-21
+updated: 2024-03-21
 ---
 ## Fungible
 

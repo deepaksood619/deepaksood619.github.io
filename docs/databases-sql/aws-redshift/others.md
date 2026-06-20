@@ -3,7 +3,7 @@ slug: /databases-sql/aws-redshift/others
 title: Others
 description: Discover how Amazon Redshift’s column-level access controls and native spatial data processing enhance data analytics and security for informed decision-making.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Column level access controls
 

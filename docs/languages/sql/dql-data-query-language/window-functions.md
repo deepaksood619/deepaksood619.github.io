@@ -3,7 +3,7 @@ slug: /languages/sql/dql-data-query-language/window-functions
 title: Window Functions
 description: Discover how window functions in SQL enhance data analysis by allowing calculations over sets of rows while retaining access to individual row attributes.
 created: 2023-05-28
-last_update: 2025-11-01
+updated: 2025-11-01
 ---
 Window functions can be simply explained as calculation functions similar to aggregating, but where normal aggregating via the GROUP BY clause combines then hides the individual rows being aggregated, window functions have access to individual rows and can add some of the attributes from those rows into the result set.
 

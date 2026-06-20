@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/01-intro-to-ethereum
 title: Intro to Ethereum
 description: Discover Ethereum and learn about blockchain technology, including how nodes, blocks, and consensus work together to secure transactions.
 created: 2023-03-05
-last_update: 2023-07-12
+updated: 2023-07-12
 ---
 ## What is a Blockchain?
 

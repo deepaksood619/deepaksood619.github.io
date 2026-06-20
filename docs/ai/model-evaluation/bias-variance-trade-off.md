@@ -3,7 +3,7 @@ slug: /ai/model-evaluation/bias-variance-trade-off
 title: bias-variance trade-off
 description: Explore the bias-variance trade-off in machine learning to understand model performance and the balance between simplicity and flexibility in algorithms.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 Machine learning algorithms can best be understood through the lens of the **bias-variance trade-off.**
 

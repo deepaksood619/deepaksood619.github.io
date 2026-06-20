@@ -3,7 +3,7 @@ slug: /computer-science/security/systems-protection
 title: Comprehensive Systems Protection Techniques
 description: Explore essential systems protection methods against buffer overflow attacks and access controls for enhanced security.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ### Protection against Buffer Overflow attacks / Stash smashing attacks
 

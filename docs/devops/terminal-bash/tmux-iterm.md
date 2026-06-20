@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/tmux-iterm
 title: Using Tmux with iTerm
 description: Learn how to efficiently manage multiple terminal sessions with Tmux and iTerm for enhanced productivity.
 created: 2023-03-05
-last_update: 2026-04-03
+updated: 2026-04-03
 ---
 Tmux is a terminal multiplexer.
 

@@ -3,7 +3,7 @@ slug: /economics/taxation/returns-tax-taxes-itr
 title: Returns / Tax / Taxes / ITR
 description: Discover essential insights on tax returns, consultations, and input tax credits for FY 2022-2023 to optimize your tax strategy and compliance.
 created: 2025-02-05
-last_update: 2026-06-13
+updated: 2026-06-13
 ---
 - https://taxbuddy.com
 - Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax

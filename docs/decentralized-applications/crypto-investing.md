@@ -3,7 +3,7 @@ slug: /decentralized-applications/crypto-investing
 title: Crypto Investing
 description: Explore crypto investing strategies, from buying top coins like Bitcoin and Ethereum to mining and monitoring gas fees for optimal returns.
 created: 2023-03-05
-last_update: 2026-01-10
+updated: 2026-01-10
 ---
 - Don't buy it, mine it
 

@@ -3,7 +3,7 @@ slug: /mathematics/combinatorics/pigeonhole-principle
 title: Pigeonhole Principle
 description: Discover the Pigeonhole Principle in mathematics, which states that if more items than containers exist, at least one container must hold multiple items.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the **pigeonhole principle** states that if *n* items are put into *m* containers, with `n>m`, then at least one container must contain more than one item.
 

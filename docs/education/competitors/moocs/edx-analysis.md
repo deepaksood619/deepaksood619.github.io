@@ -3,7 +3,7 @@ slug: /education/competitors/moocs/edx-analysis
 title: edX Competitor Analysis Overview
 description: Discover edX's competitive landscape, business model, and key metrics for the leading MOOC platform founded by MIT and Harvard.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Comprehensive Competitor Analysis**
 

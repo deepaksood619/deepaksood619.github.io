@@ -3,7 +3,7 @@ slug: /computer-science/security/cryptography/post-quantum-cryptography
 title: Understanding Post-Quantum Cryptography
 description: Explore post-quantum cryptography and its resistant algorithms against quantum computer attacks for secure digital communications.
 created: 2024-01-02
-last_update: 2026-03-04
+updated: 2026-03-04
 ---
 Post-quantum cryptography (PQC) is the development of cryptographic algorithms that are resistant to attacks from quantum computers. It's also known as quantum-proof, quantum-safe, or quantum-resistant.
 

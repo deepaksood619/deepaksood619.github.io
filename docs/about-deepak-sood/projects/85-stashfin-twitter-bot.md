@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/85-stashfin-twitter-bot
 title: Stashfin Twitter Bot Implementation
 description: Discover how Stashfin enhanced customer support on Twitter with an automated bot for faster response and improved satisfaction.
 created: 2024-03-03
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 Enhancing Customer Support with a Twitter Bot: A Case Study for Stashfin
 

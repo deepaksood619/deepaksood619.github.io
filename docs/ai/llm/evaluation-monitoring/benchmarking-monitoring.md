@@ -3,7 +3,7 @@ slug: /ai/llm/evaluation-monitoring/benchmarking-monitoring
 title: Benchmarking / Monitoring
 description: Discover LangFuse, the open-source platform for LLM benchmarking and monitoring, offering observability, metrics, evaluations, and seamless integration.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 - [evaluation](ai/llm/evaluation-monitoring/evaluation.md)
 

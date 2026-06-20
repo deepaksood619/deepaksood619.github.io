@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/development-approaches
 title: Unique Development Approaches Explained
 description: Explore unconventional development approaches like ADD, CDD, and CYAE, and their impact on software projects.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Asshole Driven development (ADD) - Any team where the biggest jerk makes all the big decisions is asshole driven development. All wisdom, logic or process goes out the window when Mr. Asshole is in the room, doing whatever idiotic, selfish thing he thinks is best. There may rules and processes, but Mr. A breaks them and people follow anyway.
 

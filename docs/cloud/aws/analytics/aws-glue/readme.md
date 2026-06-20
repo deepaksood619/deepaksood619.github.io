@@ -3,7 +3,7 @@ slug: /cloud/aws/analytics/aws-glue/readme
 title: AWS Glue
 description: AWS Glue simplifies and reduces costs for ETL processes by enabling seamless data integration, management, and monitoring across diverse data sources.
 created: 2023-03-05
-last_update: 2026-01-26
+updated: 2026-01-26
 ---
 - [AWS Glue Concepts](cloud/aws/analytics/aws-glue/concepts.md)
 

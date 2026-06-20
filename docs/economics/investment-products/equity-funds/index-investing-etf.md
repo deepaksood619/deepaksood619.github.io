@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/index-investing-etf
 title: Index Investing / ETF
 description: Discover the advantages of index investing and ETFs, including factor-based and multi-factor indices that blend active stock selection with passive strategies.
 created: 2023-08-11
-last_update: 2026-06-13
+updated: 2026-06-13
 ---
 ## What is a factor-based index?
 

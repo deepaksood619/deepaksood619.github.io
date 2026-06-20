@@ -3,7 +3,7 @@ slug: /economics/investment-frameworks/stock-selection/stocks-equity-basics
 title: Stocks / Equity
 description: Explore key insights on stocks and equity, including strategies for buying, selling, and tax exemptions on long-term capital gains to maximize your investments.
 created: 2023-03-05
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 The stock market is a device for transferring money from the impatient to the patient - Warren Buffet
 

@@ -3,7 +3,7 @@ slug: /economics/CLAUDE
 title: "Economics & Finance Knowledge Base"
 description: "Explore our LLM-maintained Economics & Finance Knowledge Base for in-depth market research, financial concepts, and investment intelligence."
 created: 2026-06-09
-last_update: 2026-06-10
+updated: 2026-06-10
 ---
 **LLM-maintained financial research repository** - Systematic market research, economic analysis, financial concepts, and investment intelligence stored as structured markdown files.
 

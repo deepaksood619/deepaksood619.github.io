@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/book-computer-networks
 title: Computer Networks Overview and Concepts
 description: Explore the essential concepts of computer networks, including hardware, software, and reference models in Tanenbaum and Wetherall's comprehensive guide.
 created: 2023-03-05
-last_update: 2023-08-23
+updated: 2023-08-23
 ---
 Andrew S Tanenbaum and DAVID J. WETHERALL
 

@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-vs-confluent-platform
 title: Comparing Confluent Cloud and Platform
 description: Discover the key differences between Confluent Cloud and Confluent Platform for your Kafka needs.
 created: 2025-12-01
-last_update: 2025-12-04
+updated: 2025-12-04
 ---
 **Confluent Platform is a self-managed distribution of Apache Kafka that you control and operate, typically for on-premises or private cloud deployments, while Confluent Cloud is a fully-managed, cloud-native Kafka service that offloads all infrastructure management to Confluent**. The primary difference is the operational model: Platform offers flexibility and complete control at the cost of requiring significant operational expertise, whereas Cloud offers simplicity and scalability with a pay-as-you-go model but is managed by the provider.
 

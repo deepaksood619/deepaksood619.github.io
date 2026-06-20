@@ -3,7 +3,7 @@ slug: /databases-nosql/vector-databases/readme
 title: Vector Databases
 description: Explore vector databases, their indexing techniques, comparisons, and popular platforms like Milvus, Weaviate, and Qdrant for efficient data management.
 created: 2025-06-23
-last_update: 2025-06-24
+updated: 2025-06-24
 ---
 - [Intro](databases-nosql/vector-databases/intro.md)
 - [Indexing](databases-nosql/vector-databases/indexing.md)

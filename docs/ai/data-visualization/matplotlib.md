@@ -3,7 +3,7 @@ slug: /ai/data-visualization/matplotlib
 title: Matplotlib
 description: Explore Matplotlib for creating stunning 2D graphs and plots in Python, enhancing your data visualization skills with interactive tutorials and examples.
 created: 2023-03-05
-last_update: 2024-02-26
+updated: 2024-02-26
 ---
 Matplotlib
 

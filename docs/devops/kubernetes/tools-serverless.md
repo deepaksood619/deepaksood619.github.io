@@ -3,7 +3,7 @@ slug: /devops/kubernetes/tools-serverless
 title: Top Serverless Tools Overview
 description: Explore essential serverless tools like OpenFaaS, OpenWhisk, Kubeless, and Knative to streamline your cloud-native applications.
 created: 2024-07-24
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 - **OpenFaas**: Offers Docker and Kubernetes support with an active community. Managed with faas-cli, it uses Prometheus for metrics and offers prebuilt triggers and runtimes. Installation via Brew and deployment to Kubernetes using Helm or raw YAML.
 - **OpenWhisk**: Apache project supported by IBM and Adobe. Main concepts include Actions, Triggers, Feeds, Alarms, and Rules. Supports deployment on Kubernetes, Mesos, OpenShift, and Compose but recommends Kubernetes. Complex architecture written in Scala.

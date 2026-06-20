@@ -3,7 +3,7 @@ slug: /technologies/apache-spark/05-spark-built-in-libraries
 title: Overview of Spark Built-in Libraries
 description: Explore Apache Spark's built-in libraries for big data, including MLlib for machine learning and key algorithms for data processing.
 created: 2023-03-05
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 ## Intro
 

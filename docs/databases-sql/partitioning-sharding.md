@@ -3,7 +3,7 @@ slug: /databases-sql/partitioning-sharding
 title: Partitioning / Sharding
 description: Explore partitioning and sharding techniques to efficiently manage large datasets in databases, ensuring optimal performance and resource allocation.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Partitioning / Sharding Data
 

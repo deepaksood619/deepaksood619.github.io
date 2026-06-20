@@ -3,7 +3,7 @@ slug: /education/competitors/india-edtech/careers360-analysis
 title: Careers360 Company Analysis
 description: Explore Careers360's insights, scale, and coverage in the education sector, serving millions of students and parents annually.
 created: 2026-05-09
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

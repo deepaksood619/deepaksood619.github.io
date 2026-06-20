@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/vector-embeddings
 title: Vector Embeddings
 description: Discover how vector embeddings transform words and data into numerical representations, enhancing machine understanding and enabling effective data processing.
 created: 2023-12-18
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 **Vector embeddings are a way to convert words and sentences and other data into numbers that capture their meaning and relationships.** They represent different data types as points in a multidimensional space, where similar data points are clustered closer together. These numerical representations help machines understand and process this data more effectively.
 

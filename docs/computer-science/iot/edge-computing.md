@@ -3,7 +3,7 @@ slug: /computer-science/iot/edge-computing
 title: Understanding Edge Computing
 description: Explore edge computing: optimizing data processing near its source to enhance bandwidth efficiency and analytics.
 created: 2023-03-05
-last_update: 2024-01-19
+updated: 2024-01-19
 ---
 Edge computingis a method of optimizing [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) systems by performing data processing at the edge of the network, near the source of the data.
 

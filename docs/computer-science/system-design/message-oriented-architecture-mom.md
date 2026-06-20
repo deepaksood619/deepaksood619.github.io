@@ -3,7 +3,7 @@ slug: /computer-science/system-design/message-oriented-architecture-mom
 title: Understanding Message Oriented Architecture (MOM)
 description: Explore Message Oriented Architecture (MOM) and its role in distributed systems communication using protocols like AMQP and MQTT.
 created: 2023-11-26
-last_update: 2026-02-15
+updated: 2026-02-15
 ---
 Message oriented middleware (MOM) refers to the software infrastructure supporting sending and receiving messages between distributed systems. AMQP and MQTT are the two most relevant protocols in this context. They are extensively used for exchanging messages since they provide an abstraction of the different participating system entities, alleviating their coordination and simplifying the communication programming details.
 

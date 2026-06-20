@@ -3,7 +3,7 @@ slug: /economics/investment-products/structured-products/portfolio-management-se
 title: Portfolio Management Services (PMS)
 description: Explore our Portfolio Management Services, offering tailored investment strategies like Discretionary, Non-discretionary, and Advisory PMS for diverse financial goals.
 created: 2024-09-08
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 - Marcellus - 10L-50L
 	- [Marcellus Global Compounders (GCP) | PMS Investment Strategies](https://marcellus.in/portfolio-management-services/global-compounders/)

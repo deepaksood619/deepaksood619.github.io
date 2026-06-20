@@ -3,7 +3,7 @@ slug: /databases-nosql/time-series-db/influxdb/upgrades
 title: Upgrades
 description: Discover InfluxDB 3.0’s groundbreaking upgrades, featuring faster queries, reduced storage costs, and enhanced data management for advanced time series analytics.
 created: 2023-11-29
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## InfluxDB 3.0 keeps raising the bar
 

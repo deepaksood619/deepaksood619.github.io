@@ -3,7 +3,7 @@ slug: /cloud/aws/developer-tools/intro
 title: Developer Tools
 description: Accelerate AWS application development with AWS CodeStar's pre-configured tools for building, testing, and deploying across popular programming languages.
 created: 2023-03-05
-last_update: 2025-09-12
+updated: 2025-09-12
 ---
 ## AWS CodeStar
 

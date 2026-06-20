@@ -3,7 +3,7 @@ slug: /cloud/aws/others/amazon-cloudwatch
 title: Amazon CloudWatch
 description: Explore Amazon CloudWatch, the essential monitoring tool for AWS resources and applications, featuring over 40 Grafana dashboards for comprehensive visibility.
 created: 2025-11-19
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 Monitor Resources and Applications
 

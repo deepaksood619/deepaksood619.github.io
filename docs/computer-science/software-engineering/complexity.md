@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/complexity
 title: Understanding Software Complexity
 description: Explore the key aspects of managing software complexity through modularity and iterative learning for better engineering practices.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 - **Learning and Discovery -** Iteration, Feedback, Incrementalism, Experimentation and Empiricism
 - **Managing Complexity -** Modularity, Information Hiring, Seperation of Concerns, Loose-Coupling, Cohesion

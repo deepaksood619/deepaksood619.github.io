@@ -3,7 +3,7 @@ slug: /databases-sql/aws-aurora/readme
 title: AWS Aurora
 description: Discover AWS Aurora, a high-performance, scalable database service with features like serverless option, global databases, and best practices for optimization.
 created: 2025-06-10
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - [AWS Aurora](databases-sql/aws-aurora/intro.md)
 - [Aurora Documentation](databases-sql/aws-aurora/aurora-documentation.md)

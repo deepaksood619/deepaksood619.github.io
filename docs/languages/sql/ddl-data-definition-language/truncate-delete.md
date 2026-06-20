@@ -3,7 +3,7 @@ slug: /languages/sql/ddl-data-definition-language/truncate-delete
 title: Truncate vs Delete
 description: Explore the key differences between Truncate and Delete in SQL, including rollback options, identity resets, and locking behavior for better database management.
 created: 2024-05-16
-last_update: 2025-06-22
+updated: 2025-06-22
 ---
 | Truncate                                     | Delete                                                                                     |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------ |

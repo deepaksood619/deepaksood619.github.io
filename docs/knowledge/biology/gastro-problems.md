@@ -3,7 +3,7 @@ slug: /knowledge/biology/gastro-problems
 title: Gastro Problems
 description: Discover the causes, symptoms, and implications of celiac disease, a chronic autoimmune disorder affecting the digestive system due to gluten intolerance.
 created: 2025-06-22
-last_update: 2026-05-04
+updated: 2026-05-04
 ---
 ## Celiac Disease - https://www.medicalnewstoday.com/articles/38085.php
 

@@ -3,7 +3,7 @@ slug: /devops/devops-intro/design
 title: Designing Self-Healing Distributed Services
 description: Learn how to design self-healing distributed services with fault tolerance and centralized logging solutions.
 created: 2023-03-05
-last_update: 2025-10-21
+updated: 2025-10-21
 ---
 ## How do you design a self-healing distributed service?
 

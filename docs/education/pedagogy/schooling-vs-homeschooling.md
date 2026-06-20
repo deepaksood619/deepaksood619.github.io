@@ -3,7 +3,7 @@ slug: /education/pedagogy/schooling-vs-homeschooling
 title: Schooling vs Homeschooling Explained
 description: Explore the socialization debate between traditional schooling and homeschooling in this comprehensive analysis of educational methodologies.
 created: 2026-05-28
-last_update: 2026-05-29
+updated: 2026-05-29
 ---
 **The Socialization Paradigm: A Comparative Analysis of Traditional Schooling and Home Education**
 

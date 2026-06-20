@@ -3,7 +3,7 @@ slug: /economics/accounting-for-finance/5-cleaning-up-accounting
 title: "5: Cleaning Up Accounting"
 description: Explore how accountants navigate evolving challenges in taxes, managerial compensation, contractual commitments, and long-term investments in today's economy.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## The Accountant's Role
 

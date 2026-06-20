@@ -3,7 +3,7 @@ slug: /python/python-intro/generators
 title: Understanding Python Generators
 description: Explore how generator functions and the yield statement work in Python to create efficient iterators and manage state.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 - Generator functions allow you to declare a function that behaves like an iterator.
 - They allow programmers to make an iterator in a fast, easy, and clean way.

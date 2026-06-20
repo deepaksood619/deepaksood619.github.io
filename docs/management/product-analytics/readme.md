@@ -3,7 +3,7 @@ slug: /management/product-analytics/readme
 title: Comprehensive Product Analytics Guide
 description: Explore key product analytics topics including customer insights, marketing modeling, and tools for data-driven decisions.
 created: 2025-02-27
-last_update: 2025-11-09
+updated: 2025-11-09
 ---
 - [Product Analytics Intro](management/product-analytics/intro.md)
 - [Customer Analytics in Python](management/product-analytics/customer-analytics-in-python.md)

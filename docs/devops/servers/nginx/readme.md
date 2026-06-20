@@ -3,7 +3,7 @@ slug: /devops/servers/nginx/readme
 title: NGINX Performance and Installation Guide
 description: Discover how NGINX tackles the C10K problem and learn to install it for efficient web server management.
 created: 2023-03-05
-last_update: 2024-01-11
+updated: 2024-01-11
 ---
 Designed to address the C10K problem: How can web servers handle 10,000 clients at the same time. With each new incoming connection, NGINX creates a file descriptor, which consumes less memory than an entire thread or process. Because its architecture is event-driven rather than process-based, NGINX also reduces the need for context switching that occurs in process-per-connection web servers.
 

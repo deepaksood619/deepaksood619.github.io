@@ -3,7 +3,7 @@ slug: /devops/monitoring/prometheus/querying
 title: Comprehensive Guide to Querying Functions
 description: Explore essential querying functions in Prometheus, including abs(), ceil(), absent(), and more for effective data analysis.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 ## Functions
 

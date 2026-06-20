@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/vechain
 title: Vechain
 description: Discover VeChain, a public blockchain enhancing enterprise adoption with innovative meta-transaction features and solutions for real-world economic challenges.
 created: 2023-03-05
-last_update: 2023-08-12
+updated: 2023-08-12
 ---
 ## VECHAINTHOR
 

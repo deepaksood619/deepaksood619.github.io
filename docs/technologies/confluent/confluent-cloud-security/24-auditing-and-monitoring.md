@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-security/24-auditing-and-monitorin
 title: Auditing and Monitoring Confluent Cloud
 description: Learn how to effectively audit and monitor your Confluent Cloud cluster for security and operational insights.
 created: 2025-12-10
-last_update: 2026-01-28
+updated: 2026-01-28
 ---
 Inside each topic, you will find a stream of the permission checks that occur as a user or application attempts to take action that has been protected by your ACLs or RBAC policies. Audit logs track operations to create, delete, and modify Confluent Cloud resources, such as API keys, Kafka clusters, user accounts, service accounts, SSO connections, and connectors.
 

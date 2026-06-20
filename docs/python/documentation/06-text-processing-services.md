@@ -3,7 +3,7 @@ slug: /python/documentation/06-text-processing-services
 title: Comprehensive Text Processing Services Overview
 description: Explore essential text processing services including string operations, regex, and Unicode handling in Python.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 6.1. string - Common string operations
 

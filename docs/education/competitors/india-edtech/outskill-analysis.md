@@ -3,7 +3,7 @@ slug: /education/competitors/india-edtech/outskill-analysis
 title: Outskill Analysis Overview
 description: Explore Outskill's preliminary analysis as an AI education platform offering fellowships and workshops for professionals.
 created: 2026-05-27
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **⚠️ RESEARCH STATUS:** Preliminary analysis based on limited public information. Website heavily JavaScript-rendered, detailed information not publicly accessible. Requires follow-up research.
 

@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/my-quotes
 title: My Quotes
 description: Discover insightful quotes on personal growth, success, and the importance of continuous improvement in life and work at My Quotes.
 created: 2023-03-05
-last_update: 2025-10-25
+updated: 2025-10-25
 ---
 Pros outweight the cons
 

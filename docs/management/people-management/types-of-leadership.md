@@ -3,7 +3,7 @@ slug: /management/people-management/types-of-leadership
 title: Exploring Various Leadership Styles
 description: Discover the key types of leadership, including transformational, situational, authoritarian, and more, to enhance your management skills.
 created: 2023-11-23
-last_update: 2026-04-07
+updated: 2026-04-07
 ---
 ### 1. Transformational leadership
 

@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/caching-strategies-topologies
 title: Effective Caching Strategies Explained
 description: Explore key caching strategies like cooperative and partial caching to enhance performance and optimize data management.
 created: 2023-03-05
-last_update: 2024-10-19
+updated: 2024-10-19
 ---
 ### 1. Cooperative/Distributed caching
 

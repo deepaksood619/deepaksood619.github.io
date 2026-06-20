@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/predictive-analytics-1
 title: Predictive Analytics 1
 description: Explore key techniques in predictive analytics, including Random Forest, Gradient Boosted Decision Trees, bootstrapping, and Spark ML programming in this informative lecture.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Preface
 

@@ -3,7 +3,7 @@ slug: /technologies/kafka/others
 title: Kafka Event Storage Formats
 description: Explore Kafka's serialization and deserialization of events, and learn about popular formats like Avro, Protobuf, and JSON.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Storage formats: Serialization and deserialization of events
 

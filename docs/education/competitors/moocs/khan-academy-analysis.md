@@ -3,7 +3,7 @@ slug: /education/competitors/moocs/khan-academy-analysis
 title: Khan Academy Competitor Analysis
 description: Explore a comprehensive competitor analysis of Khan Academy, the pioneer in free education with innovative AI tutoring and extensive resources.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Comprehensive Competitor Analysis**
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-f
 title: "Stream Processing with Kafka & Flink"
 description: Explore stream processing concepts and tools like Kafka and Flink in this insightful podcast episode.
 created: 2024-12-20
-last_update: 2026-04-07
+updated: 2026-04-07
 ---
 Vaishnavi - Hi everyone, and welcome to Code & Deploy! I’m your host, Vaishnavi, and I’m thrilled to have you join us for today’s exciting episode. For those of you, new to the podcast, this is where we break down complex tech topics into bite-sized, insightful discussions that resonate with tech professionals and enthusiasts alike.
 

@@ -3,7 +3,7 @@ slug: /frontend/readme
 title: Frontend
 description: Explore essential frontend tools and technologies, including SEO, HTML/CSS, JavaScript, and React, to enhance your web development skills.
 created: 2023-03-05
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 - [Frontend](frontend-intro/readme.md)
 - [SEO](frontend/seo/readme.md)

@@ -3,7 +3,7 @@ slug: /cloud/azure/azure-event-hubs
 title: Azure Event Hubs
 description: Discover Azure Event Hubs, a cloud-native data streaming service that ingests millions of events per second, supporting Apache Kafka for real-time analytics.
 created: 2025-11-01
-last_update: 2026-01-02
+updated: 2026-01-02
 ---
 Azure Event Hubs is a native data-streaming service in the cloud that can stream millions of events per second, with low latency, from any source to any destination. Event Hubs is compatible with Apache Kafka. It enables you to run existing Kafka workloads without any code changes.
 

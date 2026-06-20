@@ -3,7 +3,7 @@ slug: /ideas/readme
 title: Ideas
 description: Explore innovative ideas for startups, non-profits, and societal impact, along with insights on entrepreneurship, improvements, and future visions.
 created: 2026-05-01
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 - [Intro](ideas/intro.md)
 - [Creating a Business / Startup](ideas/creating-a-business-startup.md)

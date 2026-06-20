@@ -3,7 +3,7 @@ slug: /psychology/mental-models
 title: Mental Models
 description: Discover how the 80/20 Rule reveals that a small percentage of inputs lead to the majority of outputs, enhancing productivity and focus in your life.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## 80/20 Rule / Pareto Principle
 

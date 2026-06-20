@@ -3,7 +3,7 @@ slug: /education/pedagogy/pkm-scaling-recommendations-2026
 title: PKM Scaling Strategies for 2026
 description: Explore key PKM scaling recommendations for transitioning to a 50,000+ note system while maintaining personal knowledge integrity.
 created: 2026-06-19
-last_update: 2026-06-19
+updated: 2026-06-19
 ---
 **Analysis Date:** 2026-06-19
 

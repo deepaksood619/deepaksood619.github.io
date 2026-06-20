@@ -3,7 +3,7 @@ slug: /computer-science/programming-paradigms/functional-programming
 title: Understanding Functional Programming Principles
 description: Explore the core concepts of functional programming, including immutability, first-class functions, and advanced techniques to enhance your coding skills.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Everything is immutable
 

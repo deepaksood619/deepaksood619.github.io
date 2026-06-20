@@ -3,7 +3,7 @@ slug: /devops/kubernetes/storage
 title: Kubernetes Storage Solutions Overview
 description: Explore essential Kubernetes storage components like Volumes, Persistent Volumes, and Dynamic Provisioning for efficient container applications.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 1. Volumes
 2. Persistant Volumes

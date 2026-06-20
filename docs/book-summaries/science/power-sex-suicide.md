@@ -3,7 +3,7 @@ slug: /book-summaries/science/power-sex-suicide
 title: Power, Sex, Suicide
 description: Explore Nick Lane's "Power, Sex, Suicide," uncovering the vital role of cellular respiration and mitochondria in life’s energy processes.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Nick Lane
 

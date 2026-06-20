@@ -3,7 +3,7 @@ slug: /education/competitors/lms-platforms/summary
 title: LMS Market Overview and Insights
 description: Explore the global LMS market's size, growth projections, and strategic gaps in academic, corporate, and other sectors.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Synthesis across global and Indian LMS competitor analyses** | Last updated: 2026-06-09
 

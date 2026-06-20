@@ -3,7 +3,7 @@ slug: /python/django/content-types
 title: Understanding Django Content Types
 description: Explore Django's Content Types and how to use GenericForeignKey for efficient model relationships, simplifying user activity tracking.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Content Types
 

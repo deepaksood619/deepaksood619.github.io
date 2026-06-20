@@ -3,7 +3,7 @@ slug: /technologies/flink/glossary
 title: Flink Glossary of Terms
 description: Explore key concepts of Apache Flink, including Checkpoint Storage and Flink Application Clusters for better understanding.
 created: 2025-12-16
-last_update: 2026-01-26
+updated: 2026-01-26
 ---
 ## Checkpoint Storage
 

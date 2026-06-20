@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/10-medallion-architecture
 title: Understanding Medallion Architecture
 description: Explore the medallion architecture, a data design pattern for optimizing data flow in lakehouse environments.
 created: 2023-03-07
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## What is a medallion architecture?
 

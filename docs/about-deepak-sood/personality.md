@@ -3,7 +3,7 @@ slug: /about-deepak-sood/personality
 title: Personality
 description: Discover the Advocate (INFJ-A) personality type, a quiet visionary defined by confidence, idealism, and adaptability in thought and action.
 created: 2023-06-26
-last_update: 2026-02-12
+updated: 2026-02-12
 ---
 ## About Me
 

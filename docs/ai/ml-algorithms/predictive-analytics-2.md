@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/predictive-analytics-2
 title: Predictive Analytics 2
 description: Explore Gradient Boosted Decision Trees in predictive analytics, focusing on boosting methods and their application in big data for enhanced model accuracy.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Gradient Boosted Decision Trees - Regression
 

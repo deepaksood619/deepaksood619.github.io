@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/problems
 title: Key Problems in Algorithm Design
 description: Explore classic algorithmic challenges including Knight's Tour, Inorder Successor in BST, and Word Ladder Problem for efficient problem-solving.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Knight's Tour Problem
 

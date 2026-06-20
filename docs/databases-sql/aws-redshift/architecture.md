@@ -3,7 +3,7 @@ slug: /databases-sql/aws-redshift/architecture
 title: Architecture
 description: Discover Amazon Redshift architecture, featuring a Leader Node coordinating Compute Nodes for efficient query management and communication in data processing.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ![image](../../media/AWS-Redshift_Architecture-image1.jpg)
 

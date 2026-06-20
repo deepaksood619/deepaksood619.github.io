@@ -3,7 +3,7 @@ slug: /technologies/kafka/readme
 title: Comprehensive Guide to Kafka
 description: Explore Kafka architecture, installation, configurations, and more in this detailed guide for developers and data engineers.
 created: 2023-03-05
-last_update: 2026-03-21
+updated: 2026-03-21
 ---
 - [Intro to Kafka](intro-to-kafka)
 - [Kafka Architecture](kafka-architecture)

@@ -3,7 +3,7 @@ slug: /python/others/sqlalchemy/readme
 title: Introduction to SQLAlchemy
 description: Learn about SQLAlchemy, a powerful toolkit for database and Python integration, featuring ORM and SQL Expression Language.
 created: 2023-03-05
-last_update: 2026-03-31
+updated: 2026-03-31
 ---
 ## Alchemist
 

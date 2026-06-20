@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/politics/indian-polity
 title: India Polity
 description: Explore India's polity with essential insights on the Constitution, federalism, and the parliamentary system to excel in UPSC CSE/IAS preparations.
 created: 2023-03-05
-last_update: 2026-06-16
+updated: 2026-06-16
 ---
 [Complete M Laxmikanth Polity in 100 Parts by Dr Sidharth Arora | Crack UPSC CSE/IAS 2021/22/23](https://www.youtube.com/watch?v=TXhSrKJ1ahk)
 

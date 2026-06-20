@@ -3,7 +3,7 @@ slug: /languages/others/ruby-ror-interview-questions
 title: Ruby / RoR - Interview Questions
 description: Discover essential Ruby on Rails interview questions covering ActiveRecord concepts like `includes`, `joins`, `preload`, and effective database transactions.
 created: 2025-07-17
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ### 1. What is the difference between `includes`, `joins`, and `preload` in Rails ActiveRecord?
 

@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/energy/suzlon-energy-comprehensive
 title: Suzlon Energy Investment Analysis
 description: Discover why Suzlon Energy is a compelling buy in the renewable energy sector with strong growth and attractive valuations.
 created: 2026-06-06
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 - **Analysis Date:** June 4, 2026
 - **Exchange:** NSE / BSE

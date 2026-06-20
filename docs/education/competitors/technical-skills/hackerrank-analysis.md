@@ -3,7 +3,7 @@ slug: /education/competitors/technical-skills/hackerrank-analysis
 title: HackerRank Company Analysis
 description: Explore HackerRank's market position, revenue model, and key customers in the technical hiring assessment space.
 created: 2026-05-03
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

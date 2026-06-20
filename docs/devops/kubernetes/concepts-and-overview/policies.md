@@ -3,7 +3,7 @@ slug: /devops/kubernetes/concepts-and-overview/policies
 title: Cluster Resource Management Policies
 description: Learn how to implement resource quotas and limit resource usage in shared cluster environments effectively.
 created: 2023-03-05
-last_update: 2025-05-08
+updated: 2025-05-08
 ---
 ## Limit Ranges
 

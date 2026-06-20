@@ -3,7 +3,7 @@ slug: /psychology/intro
 title: Psychology
 description: Explore Maslow's hierarchy of needs, a key psychological theory outlining human motivation from physiological needs to self-actualization and beyond.
 created: 2023-03-05
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Maslow's hierarchy of needs
 

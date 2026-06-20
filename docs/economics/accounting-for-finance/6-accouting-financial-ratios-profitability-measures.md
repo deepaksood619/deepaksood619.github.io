@@ -3,7 +3,7 @@ slug: /economics/accounting-for-finance/6-accouting-financial-ratios-profitabili
 title: "6: Accouting Financial Ratios - Profitability Measures"
 description: Discover how accounting financial ratios, particularly profitability measures like profit margins, enable meaningful comparisons across companies and time.
 created: 2023-03-05
-last_update: 2024-10-07
+updated: 2024-10-07
 ---
 ### From Absolutes to Ratios
 

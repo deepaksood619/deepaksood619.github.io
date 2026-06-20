@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/62-application-management-case-study-telecom
 title: Optimizing Telecom Application Management
 description: Explore how OpsTree transformed Airtel Africa's application management using SRE principles and advanced debugging techniques.
 created: 2024-03-17
-last_update: 2024-12-18
+updated: 2024-12-18
 ---
 ## Title
 

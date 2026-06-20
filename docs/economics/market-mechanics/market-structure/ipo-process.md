@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/market-structure/ipo-process
 title: IPO
 description: Explore the IPO process, from angel investors and seed funding to company valuation and share face value, empowering your investment strategies.
 created: 2023-07-10
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 [**https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/**](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
 

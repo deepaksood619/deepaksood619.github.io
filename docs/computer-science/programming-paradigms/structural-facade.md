@@ -3,7 +3,7 @@ slug: /computer-science/programming-paradigms/structural-facade
 title: Understanding Structural Facade Pattern
 description: Learn how the Structural Facade pattern simplifies subsystem interactions by providing a higher-level interface.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 According to [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns) definition, facade provides a simplified interface for a set of interfaces of a subsystem. It defines a convenient higher-level interface to interact with.
 

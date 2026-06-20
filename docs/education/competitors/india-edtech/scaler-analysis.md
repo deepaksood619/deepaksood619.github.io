@@ -3,7 +3,7 @@ slug: /education/competitors/india-edtech/scaler-analysis
 title: Scaler Tech Upskilling Analysis
 description: Explore Scaler's premium tech upskilling programs, competitive advantages, and AI-focused curriculum for professionals in India.
 created: 2026-05-30
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Comprehensive Competitor Analysis**
 

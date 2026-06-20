@@ -3,7 +3,7 @@ slug: /ideas/founders-journey
 title: Founders Journey
 description: Discover how successful entrepreneurs like Steve Wozniak and Larry Page started their companies while maintaining day jobs, proving the myth of "going all in" is not the only path to success.
 created: 2025-09-25
-last_update: 2026-05-01
+updated: 2026-05-01
 ---
 ## People who have started companies without leaving their jobs
 

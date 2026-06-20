@@ -3,7 +3,7 @@ slug: /python/others/requests
 title: HTTP Requests in Python
 description: Learn how to make HTTP requests in Python using the requests library with examples for GET and POST methods.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ```python
 r = requests.get('https://api.github.com/user', auth=('user', 'pass'))

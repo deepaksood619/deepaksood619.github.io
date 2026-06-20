@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/polygon
 title: Polygon
 description: Discover Polygon, the layer-2 solution enhancing Ethereum with fast, cost-effective transactions and robust compatibility for decentralized applications.
 created: 2023-03-05
-last_update: 2023-08-21
+updated: 2023-08-21
 ---
 Polygon, previously known as Matic Network, is a layer-2 scaling solution for the Ethereum blockchain. It aims to improve the scalability and performance of the Ethereum network by providing faster and cheaper transactions through its own infrastructure.
 

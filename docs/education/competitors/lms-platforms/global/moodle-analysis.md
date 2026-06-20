@@ -3,7 +3,7 @@ slug: /education/competitors/lms-platforms/global/moodle-analysis
 title: Moodle Open-Source LMS Overview
 description: Explore Moodle, the leading open-source LMS, its features, pricing, and global market position.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Category:** Open-Source Academic & Institutional LMS | Last updated: 2026-06-09
 

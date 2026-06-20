@@ -3,7 +3,7 @@ slug: /ai/llm/interview-prep/interview-questions-top-50
 title: Top 50 Large Language Model (LLM) Interview
 description: Explore key concepts of large language models (LLMs) in our top 50 interview, covering tokenization, attention mechanisms, and more for enhanced understanding.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 ## Question 1: What does tokenization entail, and why is it critical for LLMs?
 

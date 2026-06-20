@@ -3,7 +3,7 @@ slug: /management/roles/data
 title: Head of Data Action Plan
 description: Learn essential steps for new data leaders to align with executives and assess company data resources.
 created: 2023-03-14
-last_update: 2023-06-22
+updated: 2023-06-22
 ---
 You join a 100 person company as the head of data. What should you do?
 

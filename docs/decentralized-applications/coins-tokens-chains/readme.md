@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/readme
 title: Coins / Tokens / Chains
 description: Explore the world of coins, tokens, and chains, from Bitcoin and Ethereum to dual token economies and wallets, to enhance your crypto knowledge.
 created: 2023-03-05
-last_update: 2025-10-16
+updated: 2025-10-16
 ---
 - [Coin Token Intro](decentralized-applications/coins-tokens-chains/coin-token-intro.md)
 - [Dual Token Economy](decentralized-applications/coins-tokens-chains/dual-token-economy.md)

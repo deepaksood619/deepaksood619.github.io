@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/intro
 title: MySQL
 description: Discover MySQL, the fast, stable, and open-source relational database management system with ACID properties, master-slave architecture, and flexible storage options.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 Many tables and relationship between tables
 

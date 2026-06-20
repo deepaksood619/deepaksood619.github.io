@@ -3,7 +3,7 @@ slug: /python/django/overview
 title: Introduction to Django Framework
 description: Discover how Django simplifies web development, enabling quick app creation with its powerful features and open-source flexibility.
 created: 2023-03-05
-last_update: 2025-12-10
+updated: 2025-12-10
 ---
 https://www.djangoproject.com/start/overview
 

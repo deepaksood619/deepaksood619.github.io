@@ -3,7 +3,7 @@ slug: /languages/sql/functions
 title: Functions
 description: Discover essential MySQL string functions, including ASCII, CONCAT, and CHAR_LENGTH, to enhance your database management and optimize data manipulation.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## MySQL String Functions
 

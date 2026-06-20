@@ -3,7 +3,7 @@ slug: /psychology/burnout
 title: Burnout
 description: Explore the causes of programmer burnout and discover effective tips to manage stress, enhance productivity, and protect your energy for sustainable growth.
 created: 2023-05-24
-last_update: 2025-12-20
+updated: 2025-12-20
 ---
 ## Programmers Burnout
 

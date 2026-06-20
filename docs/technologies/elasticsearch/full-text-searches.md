@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/full-text-searches
 title: Understanding Full Text Searches
 description: Learn about full text searches, including stop words, stemming, and the difference between entities and attributes.
 created: 2023-03-05
-last_update: 2024-11-29
+updated: 2024-11-29
 ---
 - Ignoring "stop words" such as "a", 'the', 'and'
 - Stemming words, so that 'pony' and 'ponies' are considered similar

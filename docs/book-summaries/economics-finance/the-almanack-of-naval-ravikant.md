@@ -3,7 +3,7 @@ slug: /book-summaries/economics-finance/the-almanack-of-naval-ravikant
 title: The Almanack of Naval Ravikant
 description: Explore "The Almanack of Naval Ravikant," a guide to achieving wealth and happiness through insightful philosophies on reputation, decisions, and mindset.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 A guide to wealth and happiness
 

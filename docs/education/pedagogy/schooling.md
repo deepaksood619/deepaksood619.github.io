@@ -3,7 +3,7 @@ slug: /education/pedagogy/schooling
 title: Customized School Comparison Guide
 description: Discover a tailored list of schools based on location, age, preferences, and budget to find the perfect educational fit for your child.
 created: 2025-04-27
-last_update: 2026-06-13
+updated: 2026-06-13
 ---
 ## Finding perfect school prompt
 

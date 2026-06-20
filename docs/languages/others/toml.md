@@ -3,7 +3,7 @@ slug: /languages/others/toml
 title: TOML
 description: Discover TOML, the minimal, easy-to-read configuration file format designed for seamless data structure mapping and straightforward parsing across various programming languages.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Tom's Obvious, Minimal Language
 

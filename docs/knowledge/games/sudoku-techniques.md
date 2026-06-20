@@ -3,7 +3,7 @@ slug: /knowledge/games/sudoku-techniques
 title: Sudoku Techniques
 description: Discover effective Sudoku techniques with our guide on basic and advanced strategies to enhance your gameplay and solve puzzles more efficiently.
 created: 2023-03-05
-last_update: 2025-03-12
+updated: 2025-03-12
 ---
 https://www.learn-sudoku.com/basic-techniques.html
 

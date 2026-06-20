@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/shell-intro
 title: Introduction to Shell Interfaces
 description: Learn about shell environments in UNIX, including different types of shells and their commands for executing programs.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Shell
 

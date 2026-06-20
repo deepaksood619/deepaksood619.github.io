@@ -3,7 +3,7 @@ slug: /languages/frameworks/android/kotlin
 title: Kotlin
 description: Explore Kotlin's features, including Kotlin Flows, the Repository Pattern, and comparisons with Java for modern Android development skills.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://proandroiddev.com/android-unidirectional-state-flow-without-rx-596f2f7637bb
 

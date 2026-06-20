@@ -3,7 +3,7 @@ slug: /technologies/kafka/security/03-kafka-authentication-basics
 title: Kafka Authentication Essentials
 description: Learn the basics of Kafka authentication to secure client and broker connections in your Kafka-based system.
 created: 2026-01-25
-last_update: 2026-01-29
+updated: 2026-01-29
 ---
 One way that Kafka provides security is through built-in authentication. Similar to checking an ID, authentication is the act of verifying the identity of an entity requesting access to a system component. In a Kafka-based system, there are many different interactions that begin with participants authenticating the components with which they are communicating.
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/75-bake-io-data-engineering
 title: Bake.io Data Engineering Overview
 description: Explore Bake.io's data engineering practices using Databricks to build a centralized data warehouse and manage ETL workflows.
 created: 2023-12-06
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - Working on Databricks to create centralized data warehouse with bronze, silver and gold layers
 - Creating and managing workflows/pipelines for ETL, ELT, Rollups, etc

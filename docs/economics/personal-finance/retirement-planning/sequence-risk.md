@@ -3,7 +3,7 @@ slug: /economics/personal-finance/retirement-planning/sequence-risk
 title: Sequence of Returns Risk
 description: Understand sequence of returns risk and its impact on retirement portfolios, highlighting how investment timing affects withdrawal outcomes.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 **Category:** Personal Finance - Retirement Planning
 **Last Updated:** 2026-06-08

@@ -3,7 +3,7 @@ slug: /decentralized-applications/coins-tokens-chains/coin-token-intro
 title: Tokens
 description: Discover how tokens streamline blockchain development, enable asset tokenization, and enhance user interaction with various platforms and services.
 created: 2023-03-05
-last_update: 2024-03-18
+updated: 2024-03-18
 ---
 ## Tokens’ key benefits
 

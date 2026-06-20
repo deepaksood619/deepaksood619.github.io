@@ -3,7 +3,7 @@ slug: /networking/others/grpc/concepts
 title: Understanding Flow Control Concepts
 description: Explore flow control mechanisms for managing traffic and protecting resource-constrained endpoints effectively.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Flow Control
 

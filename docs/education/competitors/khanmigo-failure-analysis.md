@@ -3,7 +3,7 @@ slug: /education/competitors/khanmigo-failure-analysis
 title: Khanmigo Failure Analysis Report
 description: Explore the reasons behind Khanmigo's failure in education and insights on aligning AI with effective learning methods.
 created: 2026-05-30
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Why Khanmigo Failed - A Post-Mortem Analysis
 

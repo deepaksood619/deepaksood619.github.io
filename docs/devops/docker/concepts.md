@@ -3,7 +3,7 @@ slug: /devops/docker/concepts
 title: Understanding Docker Namespaces
 description: Explore how Docker uses namespaces for process isolation, network management, and more to create secure container environments.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Namespaces
 

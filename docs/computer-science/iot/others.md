@@ -3,7 +3,7 @@ slug: /computer-science/iot/others
 title: Innovative IoT Indoor Location Solutions
 description: Explore cutting-edge indoor location technologies like P2PLoc and RSSI for enhanced IoT applications.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## CE - Accurate Indoor Location for the IoT (Jan 19)
 

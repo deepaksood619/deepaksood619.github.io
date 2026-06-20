@@ -3,7 +3,7 @@ slug: /devops/ides/medium-blogging
 title: Unlocking Medium Blogging Insights
 description: Discover tips and strategies for effective Medium blogging. Read the full article for free on my personal blog.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 You have reached the pay-walled version of this article. You can read it absolutely for free [on my blog](https://preslav.me/2018/12/02/designing-well-structured-rest-apis-with-flask-restplus-part-1/), however.
 

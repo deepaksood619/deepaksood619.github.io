@@ -3,7 +3,7 @@ slug: /databases-nosql/redis/readme
 title: Redis
 description: Explore Redis, a powerful in-memory database, covering data types, eviction policies, streams, queues, best practices, and scaling techniques for optimal performance.
 created: 2025-06-10
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - [Redis](databases-nosql/redis/intro.md)
 - [Documentation](databases-nosql/redis/documentation.md)

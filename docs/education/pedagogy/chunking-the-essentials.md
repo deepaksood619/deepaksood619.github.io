@@ -3,7 +3,7 @@ slug: /education/pedagogy/chunking-the-essentials
 title: Understanding Chunking in Learning
 description: Explore the essentials of chunking to enhance comprehension, creativity, and effective learning strategies.
 created: 2023-03-05
-last_update: 2026-05-05
+updated: 2026-05-05
 ---
 ## Key points
 

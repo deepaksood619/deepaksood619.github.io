@@ -3,7 +3,7 @@ slug: /knowledge/biology/others
 title: Others
 description: Explore insights on health, autophagy, and angiogenesis while uncovering key concepts from Blinkist summaries that enhance wellness and longevity.
 created: 2023-03-05
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 ## Blinkists
 

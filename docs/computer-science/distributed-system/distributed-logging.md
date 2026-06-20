@@ -3,7 +3,7 @@ slug: /computer-science/distributed-system/distributed-logging
 title: Understanding Distributed Logging
 description: Explore the fundamentals of distributed logging, including physical and logical logging, and its significance in application development.
 created: 2023-03-05
-last_update: 2025-11-10
+updated: 2025-11-10
 ---
 ## Logs
 

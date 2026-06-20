@@ -3,7 +3,7 @@ slug: /education/competitors/readme
 title: Competitor Analysis of Online Learning Platforms
 description: Explore insights on top MOOC platforms like Coursera, edX, Khan Academy, and FreeCodeCamp, detailing user bases and revenue strategies.
 created: 2026-05-04
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## MOOC & Online Learning Platforms
 

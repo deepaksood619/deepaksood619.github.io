@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/feature-engineering
 title: Feature Engineering
 description: Discover how to optimize machine learning with effective feature engineering, scaling datasets, preprocessing, and managing features using Feast.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Intro
 

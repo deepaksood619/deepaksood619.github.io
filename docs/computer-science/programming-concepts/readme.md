@@ -3,7 +3,7 @@ slug: /computer-science/programming-concepts/readme
 title: Essential Programming Concepts Overview
 description: Explore key programming concepts including type systems, metaprogramming, and dependency injection to enhance your coding skills.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Type Systems](type-systems)
 - [Type Introspection and Reflection](type-introspection-and-reflection)

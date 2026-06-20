@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/system-design-mmog-game
 title: System Design for MMOG Games
 description: Explore the essential elements of system design in MMOG games, including game loops, physics engines, and networking strategies.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 [System design: Design Multiplayer game](https://www.youtube.com/playlist?list=PLkQkbY7JNJuCoOw3epgKcNIU6rFri4iQk)
 

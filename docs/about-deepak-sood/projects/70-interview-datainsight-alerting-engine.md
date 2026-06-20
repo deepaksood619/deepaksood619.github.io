@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/70-interview-datainsight-alerting-engine
 title: DataInsight Alerting Engine Interview
 description: Explore the DataInsight cloud platform's architecture, integration challenges, and advanced data visualization capabilities for enterprises.
 created: 2023-12-01
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 ## Data Insight
 

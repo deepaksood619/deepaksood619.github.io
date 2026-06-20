@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/sparkl-analysis
 title: Sparkl Edventure Company Analysis
 description: Explore the innovative journey of Sparkl Edventure, founded by leaders in India's edtech landscape.
 created: 2026-05-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

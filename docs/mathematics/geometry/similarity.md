@@ -3,7 +3,7 @@ slug: /mathematics/geometry/similarity
 title: Similarity
 description: Explore the concept of similarity in geometry, including triangle similarity, solving problems, and the angle bisector theorem for effective understanding.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 [Definitions of similarity:Similarity](https://www.khanacademy.org/math/geometry/hs-geo-similarity#hs-geo-similarity-definitions)
 

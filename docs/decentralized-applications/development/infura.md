@@ -3,7 +3,7 @@ slug: /decentralized-applications/development/infura
 title: Infura
 description: Explore Infura's powerful API to retrieve Ethereum block numbers and check Ether balances effortlessly for your blockchain applications.
 created: 2023-08-26
-last_update: 2023-08-26
+updated: 2023-08-26
 ---
 ### Get the current block number
 

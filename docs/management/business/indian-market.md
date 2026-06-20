@@ -3,7 +3,7 @@ slug: /management/business/indian-market
 title: Insights Into The Indian Market
 description: Explore key insights on spending habits and industry trends in the Indian market for 2024 and beyond.
 created: 2023-03-05
-last_update: 2025-04-12
+updated: 2025-04-12
 ---
 [Indus Valley Annual Report 2024 - Blume Ventures](https://blume.vc/reports/indus-valley-annual-report-2024)
 

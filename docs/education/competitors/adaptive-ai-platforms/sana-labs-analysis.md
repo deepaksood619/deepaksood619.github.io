@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/sana-labs-analysis
 title: Sana Labs Company Overview
 description: Explore Sana Labs' growth, funding, and acquisition by Workday, along with key statistics and recognitions in the AI technology sector.
 created: 2026-06-07
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 ## Company Overview
 

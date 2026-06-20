@@ -3,7 +3,7 @@ slug: /knowledge/geography/countries
 title: Countries
 description: Explore global countries, their unique cultural norms, and resources like StudyGe and essential UN group insights for comprehensive learning.
 created: 2023-03-05
-last_update: 2026-05-27
+updated: 2026-05-27
 ---
 ## Apps
 

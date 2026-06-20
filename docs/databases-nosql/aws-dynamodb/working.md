@@ -3,7 +3,7 @@ slug: /databases-nosql/aws-dynamodb/working
 title: Working
 description: Learn how to calculate DynamoDB item sizes by understanding attribute name lengths, data types, and encoding for efficient database management.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## DynamoDB Item Sizes
 

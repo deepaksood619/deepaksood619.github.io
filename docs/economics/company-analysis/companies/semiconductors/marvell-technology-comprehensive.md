@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/semiconductors/marvell-technology-co
 title: Marvell Technology Stock Analysis
 description: Explore Marvell Technology's investment outlook, current valuation, and key market drivers influencing its stock performance.
 created: 2026-06-09
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 - **Analysis Date:** June 9, 2026
 - **Exchange:** NASDAQ

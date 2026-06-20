@@ -3,7 +3,7 @@ slug: /databases-nosql/milvus/deployment
 title: Deployment
 description: Discover Milvus Lite, a lightweight Python library for quick prototyping and efficient vector database integration in applications and smart devices.
 created: 2025-06-24
-last_update: 2025-06-24
+updated: 2025-06-24
 ---
 ## Milvus Lite
 

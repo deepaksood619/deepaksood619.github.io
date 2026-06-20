@@ -3,7 +3,7 @@ slug: /courses/course-credit-risk-modeling/fraud-types
 title: Fraud Types
 description: Explore various types of fraud, including financial frauds, to understand their impact and how to protect yourself against them.
 created: 2024-09-24
-last_update: 2024-11-24
+updated: 2024-11-24
 ---
 ## Financial Frauds
 

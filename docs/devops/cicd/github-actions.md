@@ -3,7 +3,7 @@ slug: /devops/cicd/github-actions
 title: Introduction to GitHub Actions
 description: Explore GitHub Actions, a powerful CI/CD platform for automating workflows, testing, and deployment directly from your repository.
 created: 2026-05-09
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Overview
 

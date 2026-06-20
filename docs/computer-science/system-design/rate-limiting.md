@@ -3,7 +3,7 @@ slug: /computer-science/system-design/rate-limiting
 title: Understanding Rate Limiting in Networks
 description: Explore how rate limiting protects network endpoints and mitigates DoS attacks through traffic control and hardware appliances.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Endpoint Protection
 

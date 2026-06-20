@@ -3,7 +3,7 @@ slug: /management/business/business-terms
 title: Understanding Business Operating Models
 description: Explore key business terms like COCO, COPO, FOFO, and FOCO to enhance your franchise investment knowledge.
 created: 2023-03-05
-last_update: 2025-03-08
+updated: 2025-03-08
 ---
 ### Operating Models
 

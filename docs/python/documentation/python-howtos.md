@@ -3,7 +3,7 @@ slug: /python/documentation/python-howtos
 title: Essential Python HowTos
 description: Explore key Python HowTos: porting code, functional programming, regex, and more to enhance your development skills.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Porting Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html)
 - [Porting Extension Modules to Python 3](https://docs.python.org/3/howto/cporting.html)

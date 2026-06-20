@@ -3,7 +3,7 @@ slug: /education/strategy/competitive-advantages
 title: Competitive Advantages of Non-Profits
 description: Discover why non-profits outperform for-profits with free access, transparency, and lower costs in education.
 created: 2026-06-04
-last_update: 2026-06-08
+updated: 2026-06-08
 ---
 **Last Updated:** 2026-06-04
 

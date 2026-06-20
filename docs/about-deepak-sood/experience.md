@@ -3,7 +3,7 @@ slug: /about-deepak-sood/experience
 title: Experience
 description: Discover a skilled engineer with 10+ years in data engineering, specializing in system scalability, microservices, infrastructure, and team leadership.
 created: 2023-03-05
-last_update: 2026-03-16
+updated: 2026-03-16
 ---
 [Resume](https://bit.ly/deepak_sood_resume)
 

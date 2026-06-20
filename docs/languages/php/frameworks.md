@@ -3,7 +3,7 @@ slug: /languages/php/frameworks
 title: Frameworks
 description: Discover the top PHP frameworks like Laravel, Symfony, and CodeIgniter for efficient web development, featuring MVC architecture and modern tools.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://kinsta.com/blog/php-frameworks
 

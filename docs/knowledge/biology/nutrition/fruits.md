@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/fruits
 title: Fruits
 description: Discover the iconic Indian mango varieties like Alphonso, Banganapalli, and Kesar, celebrated for their unique flavors and rich textures.
 created: 2026-06-16
-last_update: 2026-06-16
+updated: 2026-06-16
 ---
 ![image](../../../media/Nutrition_Food-image4.jpg)
 

@@ -3,7 +3,7 @@ slug: /computer-science/system-design/microservice-architecture/domain-driven-de
 title: Understanding Domain Driven Design
 description: Learn how Domain Driven Design aligns software code with business domains for effective collaboration and complex design.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 Domain-driven design(DDD) is the concept that the structure and language of software code (class names, class methods, class variables) should match the [business domain](https://en.wikipedia.org/wiki/Business_domain). For example, if a software processes loan applications, it might have classes such as LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.
 

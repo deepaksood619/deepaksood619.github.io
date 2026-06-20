@@ -3,7 +3,7 @@ slug: /computer-science/security/authentication/intro
 title: Understanding Authentication Factors
 description: Explore the three authentication factors and methods to enhance security and protect against cyber threats.
 created: 2023-03-05
-last_update: 2025-05-21
+updated: 2025-05-21
 ---
 ## Factors
 

@@ -3,7 +3,7 @@ slug: /databases-sql/aws-aurora/backup
 title: Backup
 description: Discover Amazon Aurora's backup options, including automated backups and snapshots, ensuring data protection and point-in-time restoration within defined retention periods.
 created: 2024-04-13
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [Understanding Amazon Aurora backup storage usage - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-storage-backup.html)
 

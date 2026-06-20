@@ -3,7 +3,7 @@ slug: /technologies/apache-hadoop/mapreduce-examples
 title: Comprehensive MapReduce Examples
 description: Explore a variety of practical MapReduce examples with detailed images to enhance your understanding of this powerful data processing framework.
 created: 2024-12-12
-last_update: 2024-12-12
+updated: 2024-12-12
 ---
 ![image](../../media/Technologies-Apache-MapReduce-Examples-image1.jpg)
 

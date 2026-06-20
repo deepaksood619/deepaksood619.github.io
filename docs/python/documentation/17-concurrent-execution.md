@@ -3,7 +3,7 @@ slug: /python/documentation/17-concurrent-execution
 title: Concurrent Execution in Python
 description: Explore threading, multiprocessing, and concurrent futures for efficient parallel task management in Python.
 created: 2023-03-05
-last_update: 2024-08-12
+updated: 2024-08-12
 ---
 - [17.1.threading - Thread-based parallelism](https://docs.python.org/3/library/threading.html)
 - [17.2.multiprocessing - Process-based parallelism](https://docs.python.org/3/library/multiprocessing.html)

@@ -3,7 +3,7 @@ slug: /databases-sql/postgres/architecture
 title: Architecture
 description: Discover PostgreSQL's internal architecture, focusing on the essential Postmaster and Backend processes that ensure efficient database management and connections.
 created: 2024-01-30
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 PostgreSQL uses processes in their internal architecture. It has been a topic of debate whether going to threads are better or not, but meanwhile I think it is a good idea to understand all these processes and what they do. Let us go through them
 

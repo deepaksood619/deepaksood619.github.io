@@ -3,7 +3,7 @@ slug: /languages/golang/examples
 title: Examples
 description: Explore a sample RabbitMQ publisher in Go, featuring HTTP routing and message publishing, to enhance your Docker development skills.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://github.com/marcel-dempers/docker-development-youtube-series/blob/master/messaging/rabbitmq/applications/publisher/publisher.go
 

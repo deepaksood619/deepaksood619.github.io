@@ -3,7 +3,7 @@ slug: /databases-sql/postgres/replication
 title: Replication
 description: Discover the types of database replication, including streaming and physical replication, ensuring high availability, disaster recovery, and data consistency.
 created: 2024-01-11
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ### Types
 

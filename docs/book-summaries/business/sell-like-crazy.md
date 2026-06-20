@@ -3,7 +3,7 @@ slug: /book-summaries/business/sell-like-crazy
 title: Sell Like Crazy
 description: Unlock the secrets to skyrocketing sales with Sabri Suby's "Sell Like Crazy," featuring powerful strategies, compelling offers, and effective customer engagement techniques.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Sabri Suby
 

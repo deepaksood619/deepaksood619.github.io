@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/03-optimizations
 title: Data Workload Optimizations Guide
 description: Discover strategies to optimize data workloads with Delta Lake and reduce storage costs using Databricks on AWS.
 created: 2023-03-10
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 [Comprehensive Guide to Optimize Data Workloads \| Databricks](https://www.databricks.com/discover/pages/optimize-data-workloads-guide)
 

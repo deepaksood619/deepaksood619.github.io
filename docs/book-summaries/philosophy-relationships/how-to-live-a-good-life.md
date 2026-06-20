@@ -3,7 +3,7 @@ slug: /book-summaries/philosophy-relationships/how-to-live-a-good-life
 title: How to live a good life
 description: Discover how ancient philosophies like Buddhism, Confucianism, and Daoism can guide you in choosing a personal philosophy for a fulfilling life.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By Massimo pigliucci
 

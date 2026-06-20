@@ -3,7 +3,7 @@ slug: /ai/llm/evaluation-monitoring/tuning
 title: Tuning
 description: Discover the art of tuning and fine-tuning large language models to enhance performance for specific applications using tailored datasets and strategies like LoRA.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 The process of adapting a model to a new domain or set of custom use cases by training the model on new data
 

@@ -3,7 +3,7 @@ slug: /technologies/kafka/security/06-encryption
 title: Understanding Data Encryption Techniques
 description: Learn about data encryption, its importance for client-cluster security, and methods for securing communication between brokers and ZooKeeper.
 created: 2026-01-25
-last_update: 2026-01-25
+updated: 2026-01-25
 ---
 Encryption uses mathematical techniques to scramble data so that it is unreadable by those who don’t have the right key, and it also protects the data’s integrity so that you can determine if it was tampered with during its journey.
 

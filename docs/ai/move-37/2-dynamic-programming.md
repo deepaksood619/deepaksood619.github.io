@@ -3,7 +3,7 @@ slug: /ai/move-37/2-dynamic-programming
 title: 2. Dynamic Programming
 description: Explore dynamic programming in sports betting, focusing on value iteration and the stochastic Bellman equation for optimal policy computation.
 created: 2023-03-05
-last_update: 2023-12-06
+updated: 2023-12-06
 ---
 ## Sports Betting
 

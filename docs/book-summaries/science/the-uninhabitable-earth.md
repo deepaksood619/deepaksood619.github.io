@@ -3,7 +3,7 @@ slug: /book-summaries/science/the-uninhabitable-earth
 title: The Uninhabitable Earth
 description: Explore the alarming predictions of climate change in "The Uninhabitable Earth," highlighting severe consequences like extreme heat, flooding, and ecological collapse.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By David Wallace-Wells - A Story of the Future
 

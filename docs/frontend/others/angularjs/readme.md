@@ -3,7 +3,7 @@ slug: /frontend/others/angularjs/readme
 title: Comprehensive Guide to AngularJS
 description: Explore our complete AngularJS guide, covering modules, components, data binding, directives, services, and more.
 created: 2023-03-05
-last_update: 2023-03-20
+updated: 2023-03-20
 ---
 - [AngularJS](frontend/others/angularjs/intro.md)
 - [Tour of Heroes](tour-of-heroes)

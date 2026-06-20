@@ -3,7 +3,7 @@ slug: /data-structures/trie/r-way-tries
 title: Understanding R-way Tries
 description: Explore R-way tries, an efficient data structure for searching and storing strings, through comprehensive images and detailed explanations.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/R-way-Tries-image1.jpg)
 

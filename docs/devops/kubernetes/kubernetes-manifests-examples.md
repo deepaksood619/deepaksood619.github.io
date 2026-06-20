@@ -3,7 +3,7 @@ slug: /devops/kubernetes/kubernetes-manifests-examples
 title: Kubernetes Manifests Examples Guide
 description: Explore detailed Kubernetes manifest examples, including ConfigMap structures, for efficient resource management in your applications.
 created: 2023-03-05
-last_update: 2024-10-08
+updated: 2024-10-08
 ---
 ## Resource Schema Components (Manifests)
 

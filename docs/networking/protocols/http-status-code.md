@@ -3,7 +3,7 @@ slug: /networking/protocols/http-status-code
 title: Understanding HTTP Status Codes
 description: Explore the various HTTP status codes, including informational, success, and redirection responses, to enhance your web development skills.
 created: 2023-03-05
-last_update: 2025-01-16
+updated: 2025-01-16
 ---
 ### 1×× Informational
 

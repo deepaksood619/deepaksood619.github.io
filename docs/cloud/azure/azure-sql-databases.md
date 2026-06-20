@@ -3,7 +3,7 @@ slug: /cloud/azure/azure-sql-databases
 title: Azure SQL Databases
 description: Discover Azure SQL Databases with flexible deployment models, pricing options, and central management features for optimal performance and scalability.
 created: 2025-05-16
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 ## Deployment models
 

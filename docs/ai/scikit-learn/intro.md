@@ -3,7 +3,7 @@ slug: /ai/scikit-learn/intro
 title: Intro
 description: Discover simple, efficient open-source tools for data mining and analysis, built on NumPy and SciPy, accessible for everyone to enhance machine learning projects.
 created: 2023-03-05
-last_update: 2024-10-19
+updated: 2024-10-19
 ---
 - Simple and efficient tools for data mining and data analysis
 - Accessible to everybody, and reusable in various contexts

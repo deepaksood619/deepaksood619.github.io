@@ -3,7 +3,7 @@ slug: /algorithms/dynamic-programming/how-to-find-dp
 title: "Mastering Dynamic Programming: A Guide"
 description: Learn how to identify and solve dynamic programming problems with essential steps and techniques for success.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Steps to solve a DP
 

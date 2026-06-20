@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/26-wso2-real-time-fraud-detection
 title: WSO2 Real-Time Fraud Detection
 description: Explore a cloud-native architecture utilizing WSO2 for real-time fraud detection and efficient transaction routing.
 created: 2026-04-28
-last_update: 2026-05-04
+updated: 2026-05-04
 ---
 ### 1. The Architecture Stack
 

@@ -3,7 +3,7 @@ slug: /technologies/kafka/comparison
 title: Confluent vs. AWS MSK Comparison
 description: Explore the key advantages of Confluent over AWS MSK for enterprise-level data streaming solutions.
 created: 2025-02-27
-last_update: 2026-01-19
+updated: 2026-01-19
 ---
 ## Architectural Considerations
 

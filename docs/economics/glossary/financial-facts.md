@@ -3,7 +3,7 @@ slug: /economics/glossary/financial-facts
 title: Facts
 description: Explore crucial global wealth facts, including the total wealth, market capitalizations, and economic growth rates across nations to understand financial dynamics.
 created: 2023-03-05
-last_update: 2026-06-09
+updated: 2026-06-09
 ---
 - Real state capitalization, economy - 340 trillion dollar
 - Global Equity market - 80 trillion dollar

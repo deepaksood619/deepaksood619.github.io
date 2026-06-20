@@ -3,7 +3,7 @@ slug: /technologies/flink/processing-model
 title: Understanding Flink's Processing Model
 description: Explore the essential elements of Apache Flink's processing model, including APIs and stream handling of unbounded datasets.
 created: 2025-12-15
-last_update: 2025-12-15
+updated: 2025-12-15
 ---
 ## APIs
 

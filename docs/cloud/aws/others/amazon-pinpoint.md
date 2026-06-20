@@ -3,7 +3,7 @@ slug: /cloud/aws/others/amazon-pinpoint
 title: Amazon Pinpoint
 description: Engage your customers with Amazon Pinpoint's personalized communications, analytics, and A/B testing across multiple channels to reduce churn and boost relationships.
 created: 2023-03-05
-last_update: 2025-11-05
+updated: 2025-11-05
 ---
 Understand and engage your customers by sending them personalized, timely, and relevant communications through multiple channels.
 

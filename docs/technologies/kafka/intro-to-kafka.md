@@ -3,7 +3,7 @@ slug: /technologies/kafka/intro-to-kafka
 title: Introduction to Apache Kafka
 description: Learn about Apache Kafka, a scalable platform for real-time data processing using streams and connecting external systems.
 created: 2023-03-05
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 - Kafka Core is the distributed, durable equivalent of Unix pipes. Use it to connect and compose your large-scale data applications
 - Kafka Streams are the commands of your Unix pipelines. Use it to transform data stored in Kafka

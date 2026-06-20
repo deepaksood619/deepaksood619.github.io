@@ -3,7 +3,7 @@ slug: /databases-nosql/cassandra/data-model
 title: Data Model
 description: Explore data modeling in Cassandra, focusing on partition and clustering keys, query techniques, and efficient indexing strategies for optimal performance.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - **Partition Key**
 - **Clustering Key**

@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/coroutines
 title: Understanding Coroutines in Python
 description: Explore the concept of coroutines in Python, their benefits for non-preemptive multitasking, and their role in cooperative programming.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 [Coroutines](https://www.geeksforgeeks.org/coroutine-in-python/) are general control structures where flow control is cooperatively passed between two different routines without returning.
 Coroutinesare [computer program](https://en.wikipedia.org/wiki/Computer_program) components that generalize [subroutines](https://en.wikipedia.org/wiki/Subroutine) for [non-preemptive multitasking](https://en.wikipedia.org/wiki/Non-preemptive_multitasking), by allowing execution to be suspended and resumed. Coroutines are well-suited for implementing familiar program components such as [cooperative tasks](https://en.wikipedia.org/wiki/Cooperative_multitasking), [exceptions](https://en.wikipedia.org/wiki/Exception_handling), [event loops](https://en.wikipedia.org/wiki/Event_loop), [iterators](https://en.wikipedia.org/wiki/Iterator), [infinite lists](https://en.wikipedia.org/wiki/Lazy_evaluation) and [pipes](https://en.wikipedia.org/wiki/Pipeline_(software)).

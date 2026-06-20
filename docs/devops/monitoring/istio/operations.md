@@ -3,7 +3,7 @@ slug: /devops/monitoring/istio/operations
 title: Optimizing Load Balancer and Ingress Gateway
 description: Learn how to configure load balancers and ingress gateways, add ports, and manage SSL certificates for efficient traffic management.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Load Balancer
 

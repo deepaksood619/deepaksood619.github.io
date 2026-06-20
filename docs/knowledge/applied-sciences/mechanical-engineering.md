@@ -3,7 +3,7 @@ slug: /knowledge/applied-sciences/mechanical-engineering
 title: Mechanical Engineering
 description: Explore mechanical engineering, covering aerospace, acoustical, automotive, and biomedical fields, with insights into fluid mechanics, dynamics, and design principles.
 created: 2023-03-05
-last_update: 2026-04-21
+updated: 2026-04-21
 ---
 ## Outline
 

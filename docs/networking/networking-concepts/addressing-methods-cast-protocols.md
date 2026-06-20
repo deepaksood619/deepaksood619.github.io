@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/addressing-methods-cast-protocols
 title: Understanding Cast Protocols in Networking
 description: Explore key addressing methods in networking, including unicast, multicast, and broadcast protocols for efficient data communication.
 created: 2023-03-05
-last_update: 2025-10-25
+updated: 2025-10-25
 ---
 The **cast** term here signifies some data (stream of packets) is being transmitted to the recipient(s) from client(s) side over the communication channel that help them to communicate. Let's see some of the "cast" concepts that are prevailing in the computer networks field.
 

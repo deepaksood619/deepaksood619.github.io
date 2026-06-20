@@ -3,7 +3,7 @@ slug: /frontend/others/nextjs/readme
 title: Benefits of Using NextJS Framework
 description: Explore how NextJS simplifies web development with React, offering server-side rendering, optimizations, and an exceptional developer experience.
 created: 2023-03-05
-last_update: 2025-02-09
+updated: 2025-02-09
 ---
 ### Why NextJS
 

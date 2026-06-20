@@ -3,7 +3,7 @@ slug: /devops/monitoring/istio/examples
 title: Istio VirtualService Examples
 description: Explore practical examples of Istio VirtualService configurations for routing traffic in microservices.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 apiVersion: networking.istio.io/v1alpha3
 kind: VirtualService

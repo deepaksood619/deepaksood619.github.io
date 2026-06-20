@@ -3,7 +3,7 @@ slug: /devops/devops-intro/others
 title: Understanding Federated Identity Systems
 description: Explore federated identity in IT, its relation to single sign-on, and its role in linking electronic identities across multiple systems.
 created: 2023-03-05
-last_update: 2024-01-24
+updated: 2024-01-24
 ---
 ## Resource Estimation/Capacity Planning
 

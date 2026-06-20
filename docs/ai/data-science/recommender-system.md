@@ -3,7 +3,7 @@ slug: /ai/data-science/recommender-system
 title: Recommender System
 description: Discover how Recommender Systems enhance user experience by personalizing recommendations based on user preferences and behaviors across various services.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 A Recommender System (a.k.a. Collaborative Filtering, Social Filtering, and Social Information Filtering) is an information filtering technique that takes details and data associated with a user's profile and compares it with similar data (habits, likes, opinions, etc.) of other users on the same service in order to present recommendations of what might be of interest to the original user.
 

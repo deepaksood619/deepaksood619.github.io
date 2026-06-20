@@ -3,7 +3,7 @@ slug: /technologies/others/fasttag
 title: FastTag Integration and Services
 description: Explore FastTag integration APIs, fuel payment solutions, and reseller opportunities for seamless transactions.
 created: 2023-12-14
-last_update: 2024-12-19
+updated: 2024-12-19
 ---
 [Fastag Service | Fastag Integration API](https://zuelpay.in/FasTag_API)
 

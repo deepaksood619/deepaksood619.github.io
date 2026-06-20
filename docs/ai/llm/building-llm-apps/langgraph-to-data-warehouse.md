@@ -3,7 +3,7 @@ slug: /ai/llm/building-llm-apps/langgraph-to-data-warehouse
 title: LangGraph to Data Warehouse
 description: Discover how LangGraph stores data in Postgres and learn architectural patterns for analyzing and extracting your LangGraph data effectively.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 To understand how to analyze your LangGraph data, it helps to first look at exactly how LangGraph writes that data to Postgres, and then look at the architectural patterns for extracting it.
 

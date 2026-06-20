@@ -3,7 +3,7 @@ slug: /devops/monitoring/telegraf/readme
 title: Telegraf Metrics Collection Agent
 description: Telegraf is a lightweight agent for collecting and processing metrics with a versatile plugin system for enhanced data management.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 Telegraf is an agent written in Go for collecting, processing, aggregating, and writing metrics.
 

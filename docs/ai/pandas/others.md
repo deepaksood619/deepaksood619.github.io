@@ -3,7 +3,7 @@ slug: /ai/pandas/others
 title: Others
 description: Discover essential Python tools for data analysis, including pandas_profiling for quick insights, SQL reading techniques, and the user-friendly bamboolib interface.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 https://en.wikipedia.org/wiki/Math_Kernel_Library
 

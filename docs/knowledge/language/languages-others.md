@@ -3,7 +3,7 @@ slug: /knowledge/language/languages-others
 title: Languages Others
 description: Explore diverse languages including Tibetan, French, and Chinese, and discover the unique cultural nuances and expressions within each language.
 created: 2023-03-05
-last_update: 2026-03-18
+updated: 2026-03-18
 ---
 [What Is Wrong With Hindi? - YouTube](https://www.youtube.com/watch?v=U4Bb7RNjN8w)
 

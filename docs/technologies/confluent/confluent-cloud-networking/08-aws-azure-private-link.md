@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-networking/08-aws-azure-private-li
 title: AWS/Azure Private Link Overview
 description: Learn how AWS/Azure Private Link enables secure private networking access to your Confluent Cloud cluster through virtual endpoints.
 created: 2025-12-10
-last_update: 2026-04-23
+updated: 2026-04-23
 ---
 ## Private Link – Overview
 

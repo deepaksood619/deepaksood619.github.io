@@ -3,7 +3,7 @@ slug: /technologies/flink/watermarks
 title: Understanding Watermarks in Apache Flink
 description: Learn how watermarks in Apache Flink manage event timing and late event handling for accurate data processing.
 created: 2025-12-15
-last_update: 2026-03-25
+updated: 2026-03-25
 ---
 Watermarks determine how long the system should wait for out-of-order events.
 

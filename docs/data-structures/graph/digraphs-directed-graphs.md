@@ -3,7 +3,7 @@ slug: /data-structures/graph/digraphs-directed-graphs
 title: "Understanding Digraphs: Directed Graph Concepts"
 description: Explore key concepts of digraphs, including paths, connectivity, and PageRank, with visual aids to enhance your understanding.
 created: 2023-03-05
-last_update: 2024-07-30
+updated: 2024-07-30
 ---
 ![image](../../media/Digraphs-(Directed-Graphs)-image1.jpg)
 

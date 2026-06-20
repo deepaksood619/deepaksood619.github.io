@@ -3,7 +3,7 @@ slug: /book-summaries/productivity/on-writing-well
 title: On Writing Well
 description: Master the art of nonfiction writing with William Zinsser's insights on confidence, selectivity, and the power of effective rewriting.
 created: 2026-06-18
-last_update: 2026-06-18
+updated: 2026-06-18
 ---
 By William Zinsser
 

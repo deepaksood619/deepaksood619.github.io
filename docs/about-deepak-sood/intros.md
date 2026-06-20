@@ -3,7 +3,7 @@ slug: /about-deepak-sood/intros
 title: Intros
 description: Discover expert strategies for architecting scalable AI and data systems that transform complex challenges into intelligent business solutions.
 created: 2024-12-18
-last_update: 2026-02-12
+updated: 2026-02-12
 ---
 ## Targeted Introduction
 

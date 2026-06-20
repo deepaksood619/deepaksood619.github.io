@@ -3,7 +3,7 @@ slug: /languages/c++/printf
 title: printf
 description: Discover how to effectively use the printf function in programming, including format specifiers that control output types like signed integers.
 created: 2023-03-05
-last_update: 2025-12-16
+updated: 2025-12-16
 ---
 A *format specifier* follows this prototype:
 

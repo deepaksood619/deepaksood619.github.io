@@ -3,7 +3,7 @@ slug: /languages/java/comparable-interface
 title: Comparable Interface
 description: Explore the Comparable Interface, enabling flexible data sorting through callback methods like compareTo() for diverse data types such as Double, String, and File.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ![image](../../media/Comparable-Interface-image1.jpg)
 

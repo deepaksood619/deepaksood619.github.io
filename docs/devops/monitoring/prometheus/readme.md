@@ -3,7 +3,7 @@ slug: /devops/monitoring/prometheus/readme
 title: Prometheus Monitoring Overview
 description: Explore Prometheus monitoring with architecture, querying, rules, and alert management features in this comprehensive guide.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Prometheus](devops/monitoring/prometheus/intro.md)
 - [Prometheus Architecture](prometheus-architecture)

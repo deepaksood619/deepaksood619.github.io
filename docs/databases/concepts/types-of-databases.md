@@ -3,7 +3,7 @@ slug: /databases/concepts/types-of-databases
 title: Exploring Types of Databases
 description: Learn about different types of databases, including RDBMS and its features like tables, rows, and SQL access.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## RDBMS / Relational database (ACID)
 

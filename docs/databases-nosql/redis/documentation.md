@@ -3,7 +3,7 @@ slug: /databases-nosql/redis/documentation
 title: Documentation
 description: Explore comprehensive Redis documentation covering commands, pipelining, Pub/Sub, Lua scripting, debugging, and memory optimization for optimal programming efficiency.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Programming with Redis
 

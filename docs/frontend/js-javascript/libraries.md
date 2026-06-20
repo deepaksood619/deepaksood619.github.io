@@ -3,7 +3,7 @@ slug: /frontend/js-javascript/libraries
 title: Essential Libraries for React Development
 description: Discover Axios and SWR, two powerful libraries for efficient data fetching and management in React applications.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Axios
 

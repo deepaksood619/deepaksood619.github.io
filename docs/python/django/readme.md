@@ -3,7 +3,7 @@ slug: /python/django/readme
 title: Comprehensive Django Guide
 description: Explore our comprehensive Django guide covering architecture, templates, authentication, models, optimizations, and more.
 created: 2023-03-05
-last_update: 2025-05-25
+updated: 2025-05-25
 ---
 - [Overview](python/django/overview.md)
 - [Architecture](python/django/architecture.md)

@@ -3,7 +3,7 @@ slug: /ai/ml-algorithms/ensemble-algorithms
 title: Ensemble Algorithms
 description: Discover ensemble algorithms in machine learning, including voting, stacking, bagging, boosting, and cascading for improved predictive performance.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. Unlike a statistical ensemble in statistical mechanics, which is usually infinite, a machine learning ensemble consists of only a concrete finite set of alternative models, but typically allows for much more flexible structure to exist among those alternatives.
 

@@ -3,7 +3,7 @@ slug: /data-structures/others/bitmap
 title: Understanding Bitmap Data Structures
 description: Explore the concept of bitmap data structures, including bit arrays, and their efficiency in storing and processing bits.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Bitmap / Bit Array / Bit Vector / Bitmap index / Bit set / Bit string
 

@@ -3,7 +3,7 @@ slug: /devops/terraform/examples
 title: Terraform AWS Examples
 description: Explore practical Terraform examples for AWS, including instance creation and S3 bucket setup with explicit dependencies.
 created: 2023-03-05
-last_update: 2024-01-11
+updated: 2024-01-11
 ---
 ```bash
 #Variables

@@ -3,7 +3,7 @@ slug: /databases-nosql/aws-dynamodb/readme
 title: DynamoDB
 description: Explore AWS DynamoDB with guides on core components, table classes, capacity modes, and a helpful cheatsheet for efficient NoSQL database management.
 created: 2025-06-10
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 - [AWS DynamoDB](databases-nosql/aws-dynamodb/intro.md)
 - [Working](databases-nosql/aws-dynamodb/working.md)

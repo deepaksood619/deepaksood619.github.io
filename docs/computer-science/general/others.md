@@ -3,7 +3,7 @@ slug: /computer-science/general/others
 title: Understanding Indirection in Programming
 description: Explore the concept of indirection in computer programming and learn how it simplifies access to data through memory addresses and pointers.
 created: 2023-03-05
-last_update: 2024-09-17
+updated: 2024-09-17
 ---
 ISO 3103 - How to brew tea?
 

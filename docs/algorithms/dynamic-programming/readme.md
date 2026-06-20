@@ -3,7 +3,7 @@ slug: /algorithms/dynamic-programming/readme
 title: Understanding Dynamic Programming Techniques
 description: Explore key concepts in dynamic programming including methods, examples, and algorithms like the Knapsack Problem and Levenshtein Distance.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 - [Intro](algorithms/dynamic-programming/intro.md)
 - [How to find DP](how-to-find-dp)

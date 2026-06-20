@@ -3,7 +3,7 @@ slug: /networking/readme
 title: Networking
 description: Explore essential networking concepts, protocols, and architectural patterns like Peer-to-Peer, API Gateway, and Pub-Sub for effective data communication.
 created: 2023-03-05
-last_update: 2026-01-26
+updated: 2026-01-26
 ---
 - [Networking Concepts](networking-concepts/readme.md)
 - [Protocols](protocols/readme.md)

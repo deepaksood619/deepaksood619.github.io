@@ -3,7 +3,7 @@ slug: /decentralized-applications/on-chain-analytics
 title: On-Chain Analytics
 description: Unlock actionable insights from blockchain data with on-chain analytics to enhance your crypto market strategies and decision-making.
 created: 2023-03-16
-last_update: 2025-10-16
+updated: 2025-10-16
 ---
 On-chain metrics turn blockchain-based transaction data into actionable crypto market insights.
 

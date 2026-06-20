@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/recovery
 title: Data Recovery with Time Travel
 description: Learn how to leverage Snowflake's Time Travel for efficient data recovery and historical data analysis.
 created: 2024-01-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Time Travel
 

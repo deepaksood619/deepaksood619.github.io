@@ -3,7 +3,7 @@ slug: /databases-sql/mysql/sql-mysql-tools
 title: SQL / MySQL Tools
 description: Discover essential SQL and MySQL tools for monitoring, diagnosis, and testing, including Percona Monitoring, Monyog, and the mysqlslap benchmarking tool.
 created: 2023-03-05
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 ## Monitoring
 

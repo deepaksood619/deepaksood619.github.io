@@ -3,7 +3,7 @@ slug: /languages/c++/io
 title: IO
 description: Discover how to optimize character input in C++ with effective I/O techniques using char arrays and fast synchronization for better performance.
 created: 2023-03-05
-last_update: 2026-06-17
+updated: 2026-06-17
 ---
 ## Char input
 

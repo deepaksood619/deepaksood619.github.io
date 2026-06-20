@@ -3,7 +3,7 @@ slug: /languages/php/codeigniter/mvc
 title: MVC
 description: Learn about the MVC architecture in CodeIgniter, focusing on Views for displaying data simply and effectively within your web applications.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ![image](../../../media/CodeIgniter_MVC-image1.jpg)
 

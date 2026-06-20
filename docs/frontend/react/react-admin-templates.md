@@ -3,7 +3,7 @@ slug: /frontend/react/react-admin-templates
 title: React Admin Templates and Resources
 description: Explore curated React admin templates, authentication guides, and links to additional resources for building robust applications.
 created: 2023-03-05
-last_update: 2026-04-28
+updated: 2026-04-28
 ---
 - https://marmelab.com/react-admin/doc/2.8/Authentication.html
 - https://github.com/marmelab/react-admin

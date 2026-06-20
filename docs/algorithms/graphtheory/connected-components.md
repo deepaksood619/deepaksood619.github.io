@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/connected-components
 title: Understanding Connected Components in Graphs
 description: Explore the concept of connected components, union-find, and efficient query handling in graph theory.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Connected Components
 

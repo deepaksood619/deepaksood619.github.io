@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/blogs-conferences-blogging-presentati
 title: "Tech Thursdays: Blogging and Onboarding Series"
 description: Explore our Tech Thursdays series focusing on startup onboarding, coding best practices, and essential infrastructure setups for developers.
 created: 2023-03-05
-last_update: 2025-08-20
+updated: 2025-08-20
 ---
 ## Startup onboarding series
 

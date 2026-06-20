@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/habits
 title: Habits
 description: Discover how habits shape your future and learn to transform your life through consistent, deliberate changes for lasting self-improvement.
 created: 2023-03-05
-last_update: 2023-08-04
+updated: 2023-08-04
 ---
 When in doubt do
 

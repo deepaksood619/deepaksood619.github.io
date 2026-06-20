@@ -3,7 +3,7 @@ slug: /languages/others/javascript-templating
 title: JavaScript Templating
 description: Discover JavaScript templating, a powerful client-side data binding method using popular libraries like AngularJS and Handlebars for organized code management.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://medium.com/@BuildMySite1/javascript-templating-what-is-templating-7ff49d97db6b
 

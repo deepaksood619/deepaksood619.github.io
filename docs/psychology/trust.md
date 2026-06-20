@@ -3,7 +3,7 @@ slug: /psychology/trust
 title: Trust
 description: Explore the concept of trust, its ties to vulnerability and risk aversion, and discover how generational factors shape trust levels in society.
 created: 2024-09-24
-last_update: 2024-09-24
+updated: 2024-09-24
 ---
 Trust does not mean that others have to do things the way you expect them to. Trust means to become vulnerable.
 

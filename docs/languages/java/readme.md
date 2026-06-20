@@ -3,7 +3,7 @@ slug: /languages/java/readme
 title: Java
 description: Explore Java programming with resources on lambda expressions, collections, concurrency, JVM architecture, and more to enhance your coding skills.
 created: 2023-03-05
-last_update: 2024-01-15
+updated: 2024-01-15
 ---
 - [Intro](languages/java/intro.md)
 - [Lambda Expressions](lambda-expressions)

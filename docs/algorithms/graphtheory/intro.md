@@ -3,7 +3,7 @@ slug: /algorithms/graphtheory/intro
 title: Introduction to Graph Theory
 description: Explore the origins and fundamentals of graph theory, including key concepts and graph-processing challenges.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Origins of Graph Theory
 

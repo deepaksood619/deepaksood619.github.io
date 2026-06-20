@@ -3,7 +3,7 @@ slug: /networking/networking-concepts/peer-to-peer
 title: Understanding Peer to Peer Networks
 description: Learn about P2P networks, their structure, and how they differ from traditional client-server architectures.
 created: 2024-02-07
-last_update: 2025-02-15
+updated: 2025-02-15
 ---
 A **P2P** network is a type of network in which different computers communicate with each other directly without the need for a central server. The peer in the term indicates that all participating computers/systems are equal. These computers are also called **nodes**.
 

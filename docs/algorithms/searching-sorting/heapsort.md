@@ -3,7 +3,7 @@ slug: /algorithms/searching-sorting/heapsort
 title: Heapsort Algorithm Explained
 description: Learn how the Heapsort algorithm efficiently sorts elements by building a max heap and removing the maximum repeatedly.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 Heapsortstarts by building a max heap. A binary max heap is a nearly complete binary tree in which each parent node is larger or equal to its children. The heap is stored in the same memory in which the original array elements are. Once the heap is formed, it completely replaces the array. After that, we take and remove the first element, restore the heap property, thus reducing the heap size by 1, after which we place the max element at the end of that memory. This is repeated until we empty out the heap, resulting in the smallest element being in the first place, and the following elements being sequentially larger.
 

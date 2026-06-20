@@ -3,7 +3,7 @@ slug: /networking/others/delta-lake
 title: Delta Lake Overview
 description: Explore Delta Lake, an open-source storage framework for building Lakehouse architectures with robust ACID transaction support.
 created: 2023-03-10
-last_update: 2025-02-14
+updated: 2025-02-14
 ---
 [Delta Lake](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf) is an open-source storage framework that enables building a [Lakehouse architecture](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 

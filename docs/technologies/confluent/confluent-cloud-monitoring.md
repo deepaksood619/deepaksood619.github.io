@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-monitoring
 title: Confluent Cloud Monitoring Guide
 description: Explore our comprehensive guide on monitoring Confluent Cloud, including metrics, notifications, and consumer lag management.
 created: 2026-02-27
-last_update: 2026-02-28
+updated: 2026-02-28
 ---
 ## [Log and Monitor](https://docs.confluent.io/cloud/current/monitoring/index.html)
 

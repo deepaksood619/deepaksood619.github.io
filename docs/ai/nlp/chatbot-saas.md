@@ -3,7 +3,7 @@ slug: /ai/nlp/chatbot-saas
 title: Chatbot SAAS
 description: Discover top Chatbot SAAS solutions like Rasa, Haptik, and Intercom to enhance customer engagement and automate support with AI-driven conversations.
 created: 2023-12-06
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 ## Chats: Human and Bots
 

@@ -3,7 +3,7 @@ slug: /computer-science/system-design/enterprise-integration-patterns
 title: Enterprise Integration Patterns Overview
 description: Explore technology-independent design guidance for robust integration solutions and understand ESB vs Message Brokers.
 created: 2023-03-05
-last_update: 2025-07-05
+updated: 2025-07-05
 ---
 The patterns provide technology-independent design guidance for developers and architects to describe and develop robust integration solutions.
 

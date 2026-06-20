@@ -3,7 +3,7 @@ slug: /algorithms/complex-systems/move-by-nature
 title: Understanding Move by Nature in Game Theory
 description: Explore the concept of 'move by nature' in game theory, where randomness influences decision-making in extensive form games.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://en.wikipedia.org/wiki/Move_by_nature
 

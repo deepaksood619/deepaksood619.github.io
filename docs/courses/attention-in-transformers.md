@@ -3,7 +3,7 @@ slug: /courses/attention-in-transformers
 title: Attention in Transformers
 description: Learn the attention mechanism in transformers and implement it in PyTorch to build scalable AI applications and enhance your understanding of LLMs.
 created: 2025-02-24
-last_update: 2025-05-03
+updated: 2025-05-03
 ---
 Attention in Transformers: Concepts and Code in PyTorch.
 

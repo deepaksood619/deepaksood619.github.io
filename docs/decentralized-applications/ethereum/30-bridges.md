@@ -3,7 +3,7 @@ slug: /decentralized-applications/ethereum/30-bridges
 title: Bridges
 description: Discover how blockchain bridges enhance interoperability, enabling seamless communication and asset movement between diverse blockchain networks.
 created: 2023-03-17
-last_update: 2024-03-18
+updated: 2024-03-18
 ---
 With the proliferation of L1 blockchains and L2 [scaling](https://ethereum.org/en/developers/docs/scaling/) solutions, alongside an ever-growing number of decentralized applications going cross-chain, the need for communication and asset movement across chains has become an essential part of network infrastructure. Different types of bridges exist to help make this possible.
 

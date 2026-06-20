@@ -3,7 +3,7 @@ slug: /technologies/others/n8n
 title: N8N Workflow Automation Tool
 description: Discover n8n, a powerful open-source workflow automation tool to effectively streamline and automate your tasks across multiple services.
 created: 2025-07-03
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 - [n8n.io - a powerful workflow automation tool](https://n8n.io/) (80K stars)
 - [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n) ⭐ 192k

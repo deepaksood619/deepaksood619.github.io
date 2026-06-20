@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/stages
 title: Understanding Snowflake Stages
 description: Learn about Snowflake stages, including internal user and table stages, for efficient data loading and unloading.
 created: 2024-01-04
-last_update: 2025-06-10
+updated: 2025-06-10
 ---
 A Snowflake stage is a location in cloud storage that you use to load and unload data from a table.
 

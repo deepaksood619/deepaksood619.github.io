@@ -3,7 +3,7 @@ slug: /data-structures/hierarchical-data-structure/b-tree
 title: Understanding B-Trees in Computer Science
 description: Learn about B-Trees, their structure, and applications in databases for efficient data management and retrieval.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 ## Points
 

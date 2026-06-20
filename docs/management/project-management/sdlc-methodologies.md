@@ -3,7 +3,7 @@ slug: /management/project-management/sdlc-methodologies
 title: SDLC Methodologies Overview
 description: Explore various SDLC methodologies like Agile, Scrum, and Waterfall to enhance project management efficiency and deliver successful software solutions.
 created: 2024-07-17
-last_update: 2025-06-14
+updated: 2025-06-14
 ---
 - Agile: Flexible, Fast, And Short Collaborative Sprint Projects
 - Scrum: Quick And Continuous Development Projects

@@ -3,7 +3,7 @@ slug: /frontend/others/angularjs/intro
 title: Introduction to AngularJS
 description: Discover AngularJS architecture, components, and essential resources for building dynamic web applications.
 created: 2023-03-05
-last_update: 2023-12-05
+updated: 2023-12-05
 ---
 https://www.toptal.com/angular/angular-9-tutorial-angular-ivy
 

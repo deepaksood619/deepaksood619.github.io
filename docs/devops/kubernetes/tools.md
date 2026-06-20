@@ -3,7 +3,7 @@ slug: /devops/kubernetes/tools
 title: Essential Kubernetes Tools Stack
 description: Discover a comprehensive Kubernetes stack featuring ArgoCD, Terraform, and powerful tools like Grafana Tanka for efficient cluster management.
 created: 2023-03-05
-last_update: 2026-06-11
+updated: 2026-06-11
 ---
 https://devops-stack.io
 

@@ -3,7 +3,7 @@ slug: /devops/servers/nginx/configs
 title: Nginx ConfigMap YAML Example
 description: Explore a detailed Nginx ConfigMap YAML example to configure Nginx settings for optimal performance in your Kubernetes environment.
 created: 2023-03-05
-last_update: 2024-01-11
+updated: 2024-01-11
 ---
 ```yaml
 apiVersion: v1

@@ -3,7 +3,7 @@ slug: /mathematics/calculus/functions
 title: Functions
 description: Explore the fundamentals of functions, including polynomials, trigonometric, exponential, and logarithmic functions, to enhance your mathematical understanding.
 created: 2023-03-05
-last_update: 2023-03-07
+updated: 2023-03-07
 ---
 ## Elementary Functions
 

@@ -3,7 +3,7 @@ slug: /technologies/flink/commands
 title: Essential Docker Commands for Flink
 description: Learn essential Docker commands to set up Apache Flink for hands-on exercises and SQL client usage.
 created: 2025-12-16
-last_update: 2026-03-27
+updated: 2026-03-27
 ---
 [Docker Setup for the Hands-on Exercises](https://developer.confluent.io/courses/apache-flink/docker-setup/)
 

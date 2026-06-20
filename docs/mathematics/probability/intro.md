@@ -3,7 +3,7 @@ slug: /mathematics/probability/intro
 title: Intro
 description: Explore empirical and theoretical probability, Laplace's rule of succession, and Bayesian updating to enhance your understanding of probability theory.
 created: 2023-03-05
-last_update: 2024-02-05
+updated: 2024-02-05
 ---
 ## Two types of probability
 

@@ -3,7 +3,7 @@ slug: /courses/coursera-how-google-does-ml
 title: Coursera - How Google does ML
 description: Learn how Google utilizes machine learning, explore mathematical models, and develop a data strategy to optimize AI applications in this Coursera course.
 created: 2023-03-05
-last_update: 2024-02-01
+updated: 2024-02-01
 ---
 ## Mathematical Models used in ML
 
