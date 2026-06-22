@@ -56,7 +56,7 @@ cd docs/economics
 
 Real-world example from a 2600+ note documentation repository:
 
-```
+```text
 .
 ├── CLAUDE.md (project infrastructure)
 │   ├─ Docusaurus build configuration
@@ -96,7 +96,7 @@ Real-world example from a 2600+ note documentation repository:
 
 ## When to Create Domain CLAUDE.md Files
 
-### ✅ Create domain-specific CLAUDE.md when:
+### ✅ Create domain-specific CLAUDE.md when
 
 Building **LLM-maintained knowledge bases** where Claude actively:
 
@@ -111,7 +111,7 @@ Building **LLM-maintained knowledge bases** where Claude actively:
 - `education/CLAUDE.md` - Education startup research wiki
 - `company-analysis/CLAUDE.md` - Company fundamental analysis
 
-### ❌ Do NOT create domain CLAUDE.md for:
+### ❌ Do NOT create domain CLAUDE.md for
 
 **Passive note collections** where content is:
 
@@ -431,7 +431,7 @@ date: 2026-04-15
 
 ## Best Practices Summary
 
-### ✅ DO:
+### ✅ DO
 
 1. **Document hierarchy** in root CLAUDE.md with visual diagram
 2. **Use 5-field frontmatter** consistently across all files
@@ -442,7 +442,7 @@ date: 2026-04-15
 7. **Update the `updated` date** when making changes
 8. **Open Claude Code at root** for full project access
 
-### ❌ DON'T:
+### ❌ DON'T
 
 1. **Duplicate content** from parent files
 2. **Create domain files** for passive note collections
@@ -500,7 +500,7 @@ cd docs/economics
 
 ### Project Structure
 
-```
+```text
 deepaksood619.github.io/
 ├── CLAUDE.md (project infrastructure)
 ├── docusaurus.config.js
@@ -562,7 +562,7 @@ grep -r "Obsidian CLI" */CLAUDE.md
 
 ### Step 2: Identify Hierarchy Levels
 
-```
+```text
 Root (project) → Content (docs/) → Domain (economics/) → Sub-domain (company-analysis/)
 ```
 

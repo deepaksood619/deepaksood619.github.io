@@ -203,6 +203,7 @@ Structured dev workflow framework with TDD, debugging, planning, and code review
 ```
 
 **Key skills:**
+
 - test-driven-development - RED-GREEN-REFACTOR cycle
 - systematic-debugging - 4-phase root cause process
 - brainstorming - Socratic design refinement
@@ -321,16 +322,20 @@ hermes gateway      # Start messaging gateway
 ### Performance & Efficiency
 
 - [Caveman](https://github.com/JuliusBrussee/caveman) ⭐ 73k - Cuts 65% of tokens by talking like caveman
+
   ```bash
   claude plugin marketplace add JuliusBrussee/caveman
   claude plugin install caveman@caveman
   ```
+
 - [RTK](https://github.com/rtk-ai/rtk) ⭐ 63k - CLI proxy reducing token consumption 60-90%
+
   ```bash
   brew install rtk
   rtk init -g  # Install for Claude Code
   rtk gain --all  # Show savings stats
   ```
+
   - [rtk — Make your AI coding agent smarter \| CLI proxy](https://www.rtk-ai.app/)
   - **Four strategies applied per command type:**
     1. Smart Filtering - Removes noise (comments, whitespace, boilerplate)
@@ -343,14 +348,18 @@ hermes gateway      # Start messaging gateway
 ### Frontend & Testing
 
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 34k
+
   ```bash
   claude mcp add playwright npx @playwright/mcp@latest
   ```
+
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 44k
+
   ```bash
   /plugin marketplace add ChromeDevTools/chrome-devtools-mcp
   /plugin install chrome-devtools-mcp
   ```
+
 - [Browserbase Skills](https://github.com/browserbase/skills) ⭐ 3.6k - Web browsing tool
 
 ### Domain-Specific
@@ -442,6 +451,7 @@ Use Grep/Glob only for text searches (comments, strings, config).
 ```
 
 Remind at specific time:
+
 ```bash
 remind me at 3pm to push release branch
 ```
@@ -485,16 +495,19 @@ claude-code-viewer --port 3400
 From [Stop babysitting your agents](https://youtube.com/watch?v=wI0ptqCSL0I):
 
 **Autonomous Verification Circuits**
+
 - Automate backend debugging (API hits, DB checks, logs, tests)
 - Self-healing loops: catch errors, fix bugs, iterate before PR
 - Self-improving assets: update shared `skill.md` on blockers
 
 **Parallelization**
+
 - Use `/rename` to categorize threads
 - Combine Tmux + Git worktrees + `claude agents`
 - Claude Code Desktop GUI for unified management
 
 **Background Loops**
+
 - Delegate non-coding tasks (docs, ticket triage, CI)
 - `/loop 10m` for auto-checking work
 - Persistent circuits via cron/GitHub Actions
@@ -502,14 +515,17 @@ From [Stop babysitting your agents](https://youtube.com/watch?v=wI0ptqCSL0I):
 From [How we Claude Code](https://youtube.com/watch?v=IlqJqcl8ONE):
 
 **Model-Driven Requirements**
+
 - Interactive interviewing vs massive specs upfront
 - Let Claude critique architecture to find roadblocks
 
 **HTML Specs & Token Efficiency**
+
 - Structured HTML layouts > unstructured Markdown
 - Visual diagrams + schemas = maximum context
 
 **Agent-Native Verification**
+
 - Multi-surface checks: terminal, dashboard, CLI
 - Auto-upload validation videos to S3 in PR description
 
@@ -523,6 +539,7 @@ From [How we Claude Code](https://youtube.com/watch?v=IlqJqcl8ONE):
 4. **Goal-driven Execution** - Define success, loop until verified
 
 **Working signs:**
+
 - Fewer unnecessary diffs
 - Simple code first time
 - Clarifying questions before implementation
@@ -535,6 +552,7 @@ From [Arguing With Agents](https://blowmage.com/2026/04/14/arguing-with-agents/)
 **Problem:** RLHF trains models to read between the lines. Long CLAUDE.md interpreted as "urgency" rather than literal instructions.
 
 **Solution:**
+
 - Don't ask agents to explain deviations (triggers confabulation)
 - Rewrite "don't do X" as "always do Y"
 - Use structural enforcement (hooks, linters) over conversational rules
@@ -554,6 +572,7 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 [Claude Code on Vertex AI](https://code.claude.com/docs/en/google-vertex-ai)
 
 **Limitations:**
+
 - ❌ WebSearch - Blocked by VPC Service Controls
 - ✅ WebFetch - Works for specific URLs
 - ❌ `claude remote-control` - Only with `claude login`

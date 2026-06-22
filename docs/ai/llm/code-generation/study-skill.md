@@ -36,6 +36,7 @@ grep -ri "<topic>" docs/
 ```
 
 **Analyze findings:**
+
 - List all relevant notes found (with scores)
 - Identify main notes vs peripheral mentions
 - Note gaps in current knowledge base
@@ -52,6 +53,7 @@ Read(path="docs/<category>/<note3>.md")
 ```
 
 **Synthesize current knowledge:**
+
 - Create structured summary from existing notes
 - Identify what you already know
 - Highlight connections between notes
@@ -68,6 +70,7 @@ WebSearch(query="<topic> best practices 2026")
 ```
 
 **Key sources to check:**
+
 - Official documentation (if tech topic)
 - Recent academic papers (if research topic)
 - Industry best practices
@@ -107,6 +110,7 @@ WebSearch(query="<topic> best practices 2026")
 ```
 
 **Teaching style:**
+
 - Clear, concise explanations
 - Connect to what user already knows (from their notes)
 - Use examples and analogies
@@ -116,6 +120,7 @@ WebSearch(query="<topic> best practices 2026")
 ### Step 5: Interactive Q&A Loop
 
 **Answer follow-up questions:**
+
 - User asks questions about the topic
 - Provide detailed answers
 - Reference existing notes when relevant
@@ -123,6 +128,7 @@ WebSearch(query="<topic> best practices 2026")
 - Track which answers should be added to notes
 
 **For each Q&A:**
+
 ```markdown
 **Q:** [User's question]
 
@@ -139,6 +145,7 @@ WebSearch(query="<topic> best practices 2026")
 **After Q&A session, update notes:**
 
 **If new information complements existing note:**
+
 ```bash
 # Read current note
 Read(path="docs/<category>/<note>.md")
@@ -163,6 +170,7 @@ Edit(
 ```
 
 **If significant new information, create new note:**
+
 ```bash
 # Use /note skill to create new note
 /note <new-topic> [url]
@@ -204,6 +212,7 @@ Edit(
 ### When to Update Existing Notes
 
 **UPDATE existing note if:**
+
 - New information directly extends existing content
 - Clarifies or corrects existing information
 - Adds examples or recent developments
@@ -212,6 +221,7 @@ Edit(
 ### When to Create New Notes
 
 **CREATE new note if:**
+
 - Topic deserves standalone documentation
 - Significant new subtopic emerged from study
 - Current notes don't have a clear home for new info
@@ -220,6 +230,7 @@ Edit(
 ### What to Add to Notes
 
 **ADD to notes:**
+
 - ✅ Factual information learned
 - ✅ Important clarifications
 - ✅ Recent developments/updates
@@ -229,6 +240,7 @@ Edit(
 - ❌ NOT temporary study session notes
 
 **Format additions professionally:**
+
 - Extract key points from Q&A
 - Write in encyclopedic style
 - Integrate with existing content
@@ -287,7 +299,7 @@ Edit(
 
 ## Example Session
 
-```
+```text
 User: /study Apache Kafka
 
 Step 1: Search

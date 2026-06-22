@@ -6,8 +6,6 @@ created: 2026-04-15
 updated: 2026-06-22
 ---
 
-# CLAUDE.md
-
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
@@ -28,6 +26,7 @@ Personal knowledge base built with Docusaurus 3.8, containing 2600+ markdown not
 This folder is Google Drive synced. Running npm commands would create `node_modules/` which would attempt to sync 100k+ files to Google Drive, causing sync issues and consuming massive storage.
 
 **For local development:**
+
 1. Clone the repository to a local (non-synced) directory
 2. Run npm commands there
 3. Use this Google Drive location only for content editing
@@ -141,7 +140,7 @@ Configured in `.pre-commit-config.yaml`:
 
 ## CLAUDE.md Hierarchy
 
-```
+```text
 .
 ├── CLAUDE.md (this file - project infrastructure)
 └── docs/
@@ -155,6 +154,7 @@ Configured in `.pre-commit-config.yaml`:
 ```
 
 **How hierarchy works:**
+
 - Claude Code walks UP the directory tree loading all CLAUDE.md files
 - Inner files take precedence for conflicting instructions
 - Instructions are additive (child extends parent)
@@ -162,18 +162,21 @@ Configured in `.pre-commit-config.yaml`:
 ## When to Create Domain CLAUDE.md Files
 
 Create domain-specific CLAUDE.md files for **LLM-maintained knowledge bases** where Claude actively:
+
 - Creates/updates structured content (not just edits existing notes)
 - Maintains cross-references and consistency
 - Follows templates and quality standards
 - Performs systematic research and synthesis
 
 **Current domains with CLAUDE.md files:**
+
 - `economics/` - Financial research, company analysis, taxation
 - `economics/company-analysis/` - Detailed company fundamental/technical analysis
 - `education/` - Education startup research wiki
 - `ideas/` - Multi-domain startup opportunity research
 
 **Folders WITHOUT CLAUDE.md files** (passive note collections):
+
 - `ai/`, `databases/`, `algorithms/`, `book-summaries/`, etc.
 - These are personal learning notes edited manually in Obsidian
 - They inherit all rules from `docs/CLAUDE.md` automatically
@@ -181,6 +184,7 @@ Create domain-specific CLAUDE.md files for **LLM-maintained knowledge bases** wh
 ## Working Directory
 
 **Recommended:** Open Claude Code at project root (`deepaksood619.github.io/`)
+
 - Full access to git operations and build file visibility
 - CLAUDE.md hierarchy loads automatically when you cd to subfolders
 - Use `cd docs/economics` to focus context when needed

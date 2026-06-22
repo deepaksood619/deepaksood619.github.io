@@ -58,6 +58,7 @@ grep -r "CRITICAL:" docs/CLAUDE.md
 ```
 
 **When to use:**
+
 - Looking for specific code/function names
 - Finding exact error messages
 - Searching for specific commands or syntax
@@ -85,6 +86,7 @@ find docs/ -name "*config*"
 ```
 
 **When to use:**
+
 - You know the general category/folder
 - Browsing related content
 - Understanding vault organization
@@ -106,13 +108,14 @@ ls -la "$(dirname path/to/file.md)"
 ```
 
 **When to use:**
+
 - Found one relevant file, need related content
 - Building context around a topic
 - Following knowledge graph connections
 
 ### Decision Tree
 
-```
+```text
 Need to find content?
 ├─ Conceptual/topic-based? → Use semantic search (Step 1)
 ├─ Exact keyword/phrase? → Use text search (Step 2)
@@ -171,12 +174,14 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - ✅ Ask before deleting anything
 
 **Sidebar ordering during reorganization:**
+
 - Use numbered prefixes (`01-`, `02-`, `03-`) for files that need specific ordering
 - Preserves order in both Docusaurus sidebar and Obsidian file list
 - Example: `01-introduction.md`, `02-core-concepts.md`, `03-advanced.md`
 - Only use when explicit ordering is important (tutorials, guides, sequential content)
 
 **Folder audit when adding files:**
+
 - After creating a new file, audit the containing folder
 - Check if reorganization is needed (grouping related files)
 - Check if recategorization is needed (file belongs in different folder)
@@ -188,6 +193,7 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 **CRITICAL:** Only write notes that are evergreen facts, learnings, and reference material. Temporary/contextual information stays in chat.
 
 **Write to notes (✅):**
+
 - Permanent facts and concepts
 - Technical documentation and how-tos
 - Best practices and patterns
@@ -195,6 +201,7 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - Learnings that will be useful later
 
 **Keep in chat only (❌):**
+
 - Temporary analysis or investigation results
 - Context-specific debugging output
 - One-time answers to specific questions
@@ -206,23 +213,28 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 ### 3. Markdown Formatting (Docusaurus)
 
 **Page structure:**
+
 - NO H1 heading (title comes from frontmatter)
 - Blank lines between all blocks (paragraphs, lists, code, tables)
 - Natural language slugs: `/topic-name` NOT `/folder/path/topic-name`
 
 **Code blocks:**
-- Always specify language: ```python, ```bash, ```javascript
+
+- Always specify language: ```python,```bash, ```javascript
 
 **MDX compatibility:**
+
 - Escape `<` `>` with backticks: `<50`, `>100`
 - Don't use `[]` square brackets without escaping
 
 **Links:**
+
 - Standard markdown only (no wikilinks `[[]]`)
 - Use relative paths for internal links
 - Full documentation: See "Markdown Writing Guidelines" section below
 
 **Content length (IMPORTANT):**
+
 - **Be concise** - Only add core/relevant content
 - Extract essential information, not entire articles
 - Target: ~50-150 lines for most topics
@@ -250,16 +262,19 @@ mcp__obsidian-hybrid-search__search(query="hierarchical configuration", limit=5)
 ### 5. Content Taxonomy
 
 **LLM-Maintained Knowledge Bases** (have CLAUDE.md):
+
 - `economics/` - Financial research, company analysis, taxation
 - `economics/company-analysis/` - Fundamental/technical analysis
 - `education/` - Education startup research wiki
 - `ideas/` - Multi-domain startup research
 
 **Passive Note Collections** (inherit from this file):
+
 - `ai/`, `databases/`, `algorithms/`, `book-summaries/`, etc.
 - No CLAUDE.md needed - automatically inherit all rules
 
 **Tool Configuration:**
+
 - `devops/ides/` - IDE configs, editor settings, tool integrations
 
 ## Obsidian CLI Usage
@@ -313,6 +328,7 @@ updated: YYYY-MM-DD
 ```
 
 **Slug rules:**
+
 - Use natural language: `/claude-md-best-practices`
 - NOT folder-based: `~/devops/ides/claude-md-best-practices~`
 - Prevents 404s when files move
@@ -350,11 +366,13 @@ def hello():
 ### MDX Compatibility
 
 ❌ Wrong:
+
 ```markdown
 Value <50 or >100
 ```
 
 ✅ Correct:
+
 ```markdown
 Value `<50` or `>100`
 ```
@@ -362,11 +380,13 @@ Value `<50` or `>100`
 ### Links & Images
 
 **Links:**
+
 - Standard markdown: `[Text](path/to/file.md)`
 - NO wikilinks: `~~[[wikilink]]~~`
 - Use relative paths
 
 **Images:**
+
 - Store in `/docs/media/`
 - Reference: `![alt](../media/image.png)`
 
@@ -391,11 +411,13 @@ graph TD
 ### Common Workflows
 
 **Add new note:**
+
 ```bash
 /Applications/Obsidian.app/Contents/MacOS/Obsidian create path="folder/topic.md" content="# Topic\n\nContent" open vault="$VAULT"
 ```
 
 **Find related notes:**
+
 ```bash
 # Backlinks (incoming)
 /Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="file.md" vault="$VAULT"
@@ -408,6 +430,7 @@ graph TD
 ```
 
 **Bulk operations:**
+
 ```bash
 # For 100+ files, use direct tools then reload
 # Example: grep + Edit for bulk replacements
@@ -417,6 +440,7 @@ graph TD
 ### Maintenance
 
 **Check vault health:**
+
 ```bash
 # Find orphans (no incoming links)
 /Applications/Obsidian.app/Contents/MacOS/Obsidian orphans vault="$VAULT"
@@ -431,11 +455,13 @@ graph TD
 ## Integration with Docusaurus
 
 **Build validation:**
+
 - Broken links → build fails (`onBrokenLinks: 'throw'`)
 - Invalid MDX → pre-commit hook catches
 - Large files → pre-commit blocks
 
 **Workflow:**
+
 1. Use Obsidian CLI for structural changes
 2. Preview: `npm start` (localhost:3000) in local clone
 3. Validate: `npm run build` in local clone

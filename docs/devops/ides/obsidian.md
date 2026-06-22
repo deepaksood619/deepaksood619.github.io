@@ -17,7 +17,7 @@ Extensions that helps make obsidian better
 - Outliners (Outlines like Roam Research)
 - DataView - [How to use the Obsidian Dataview plugin](https://www.youtube.com/watch?v=JTObSymEvWA)
 - Kanban
-    - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban) ⭐ 4.3k
+    - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban) ⭐ 4.4k
     - [Obsidian Kanban Plugin - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban)
     - [Set a WIP Limit - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban/How+do+I/Set+a+WIP+Limit)
 - Calendar
@@ -37,37 +37,40 @@ Extensions that helps make obsidian better
 - Editing Toolbar / Obsidian Markdown formattting Assistant
 - Linter
 - Reading Time
-- [GitHub - SilentVoid13/Templater: A template plugin for obsidian · GitHub](https://github.com/SilentVoid13/Templater)
-	- [Some of My Best Templates · SilentVoid13/Templater · Discussion #1754 · GitHub](https://github.com/SilentVoid13/Templater/discussions/1754)
-- [GitHub - platers/obsidian-linter: An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility. · GitHub](https://github.com/platers/obsidian-linter)
-- [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace) ⭐ 93
-- [GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault](https://github.com/zsviczian/excalibrain) ⭐ 961
-- [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin) ⭐ 696
-- [GitHub - SkepticMystic/breadcrumbs: Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/](https://github.com/SkepticMystic/breadcrumbs) ⭐ 793
+- [GitHub - SilentVoid13/Templater: A template plugin for obsidian · GitHub](https://github.com/SilentVoid13/Templater) ⭐ 5.1k
+	- [Some of My Best Templates · SilentVoid13/Templater · Discussion #1754 · GitHub](https://github.com/SilentVoid13/Templater/discussions/1754) ⭐ 5.1k
+- [GitHub - platers/obsidian-linter: An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility. · GitHub](https://github.com/platers/obsidian-linter) ⭐ 2.0k
+- [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace) ⭐ 94
+- [GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault](https://github.com/zsviczian/excalibrain) ⭐ 968
+- [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin) ⭐ 700
+- [GitHub - SkepticMystic/breadcrumbs: Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/](https://github.com/SkepticMystic/breadcrumbs) ⭐ 797
 - [My Top 44 Obsidian Plugins RANKED](https://www.youtube.com/watch?v=xVQGrn9gQKI)
 - [GitHub - flyingnobita/obsidian-github-stars: Display the number of stars next to GitHub repository links in Obsidian.](https://github.com/flyingnobita/obsidian-github-stars) ⭐ 5
 - [4 game-changing Obsidian workflows I wish I tried earlier](https://www.xda-developers.com/game-changing-obsidian-workflows/)
 - Make.md [Make.md is the best Obsidian plugin to help keep you organized and beautify your notes](https://www.xda-developers.com/makemd-best-obsidian-plugin-organize-beautify-notes/)
-- [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch) ⭐ 2.0k
-- [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc) ⭐ 894
-- [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt) ⭐ 941
-- **[GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot) ⭐ 7.2k**
-- [GitHub - nhaouari/obsidian-textgenerator-plugin: Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.](https://github.com/nhaouari/obsidian-textgenerator-plugin) ⭐ 1.9k
+- [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch) ⭐ 2.1k
+- [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc) ⭐ 896
+- [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt) ⭐ 946
+- **[GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot) ⭐ 7.3k**
+- [GitHub - nhaouari/obsidian-textgenerator-plugin: Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.](https://github.com/nhaouari/obsidian-textgenerator-plugin) ⭐ 2.0k
 	- [GPT in Obsidian: Text Generator Plugin - YouTube](https://www.youtube.com/watch?v=OergqWCdFKc)
 - TODO - [Use H1 or YAML property "title" instead of or in addition to filename as display name - Feature requests - Obsidian Forum](https://forum.obsidian.md/t/use-h1-or-yaml-property-title-instead-of-or-in-addition-to-filename-as-display-name/687/148)
 	- [Add option to display title instead of filename - Help - Obsidian Forum](https://forum.obsidian.md/t/add-option-to-display-title-instead-of-filename/40897/5)
 - [GitHub - javalent/admonitions: Adds admonition block-styled content to Obsidian.md](https://github.com/javalent/admonitions) ⭐ 1.3k
-- [GitHub - brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5.1k
+- [GitHub - brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5.2k
 	- [Obsidian Smart Connections UPDATE 📝 Rediscover Notes With Obsidian AI - YouTube](https://www.youtube.com/watch?v=7Rvl9Sl29Jk)
-- [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage) ⭐ 674
+- [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage) ⭐ 683
 - [GitHub - PaulTreanor/notes-dater: Adds created\_on and updated\_on dates of the active note to status bar](https://github.com/PaulTreanor/notes-dater) ⭐ 18
-- [GitHub - polyipseity/obsidian-terminal: Integrate consoles, shells, and terminals. · GitHub](https://github.com/polyipseity/obsidian-terminal) ⭐ 846
+- [GitHub - polyipseity/obsidian-terminal: Integrate consoles, shells, and terminals. · GitHub](https://github.com/polyipseity/obsidian-terminal) ⭐ 871
 - [GitHub - obsidian-community/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian · GitHub](https://github.com/obsidian-community/obsidian-style-settings) ⭐ 2.3k
 - Folder organization
 	- [File Explorer Organization \| Custom Sort Revisited - YouTube](https://www.youtube.com/watch?v=VY_VPI-STlg)
 	- [What Nobody Tells You About Organizing Folders in Obsidian - YouTube](https://www.youtube.com/watch?v=RNH4zpVUm3E)
 	- [How to Manage Projects with Four Intensities - YouTube](https://www.youtube.com/watch?v=Ew7ZBu4r8vg)
 	- [A Custom Obsidian Theme To Feel More Reflective - YouTube](https://www.youtube.com/watch?v=lUZjpIhYOEw)
+- [GitHub - ozntel/file-explorer-note-count: Obsidian Plugin for viewing the number of elements under each folder within the file explorer · GitHub](https://github.com/ozntel/file-explorer-note-count) ⭐ 148
+- [GitHub - RohitNahar-Offical/colorful-folders-obsidian: Automatically adds beautiful premium preset colors to all folders and subfolders in Obsidian · GitHub](https://github.com/rohitnahar-offical/colorful-folders-obsidian) ⭐ 11
+	- [GitHub - Mithadon/obsidian-color-folders-files: Obsidian plugin to customize the appearance of folders and files through a context menu with color picker and style options. · GitHub](https://github.com/Mithadon/obsidian-color-folders-files) ⭐ 48
 
 ### LearnKit - Spaced Repetition (Flashcards)
 
@@ -95,7 +98,7 @@ Companion is LearnKit's built-in AI study assistant for working directly with th
 Turn notes into study-ready material without leaving Obsidian.
 
 - [LearnKit - Obsidian Plugin](https://community.obsidian.md/plugins/learnkit)
-- [GitHub - ctrlaltwill/LearnKit: A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools. · GitHub](https://github.com/ctrlaltwill/LearnKit)
+- [GitHub - ctrlaltwill/LearnKit: A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools. · GitHub](https://github.com/ctrlaltwill/LearnKit) ⭐ 130
 
 **Settings / Preferences**
 
@@ -105,20 +108,20 @@ Turn notes into study-ready material without leaving Obsidian.
 
 - [Ultimate guide to best Obsidian themes | Elizabeth Butler](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/)
 	- Minimal Things
-		- [GitHub - kepano/obsidian-minimal-settings: Settings plugin to control colors and fonts in Minimal Theme · GitHub](https://github.com/kepano/obsidian-minimal-settings)
+		- [GitHub - kepano/obsidian-minimal-settings: Settings plugin to control colors and fonts in Minimal Theme · GitHub](https://github.com/kepano/obsidian-minimal-settings) ⭐ 757
 - [7+ Obsidian Themes for a Drastic Design Facelift!](https://akshayhallur.com/blog/best-obsidian-themes)
 - Things (current)
-	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things) ⭐ 982
+	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things) ⭐ 987
 - [GitHub - aaaaalexis/obsidian-cupertino: A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.](https://github.com/aaaaalexis/obsidian-cupertino) ⭐ 1.1k
 
 ## Obsidian MCP Servers
 
 - [Obsidian MCP server + VScode Agent + Claude - YouTube](https://www.youtube.com/watch?v=BPGsl62rV-c)
 - [Let Claude Automate Your Obsidian Notes: Second Brain AI Agent (MCP) - YouTube](https://www.youtube.com/watch?v=VeTnndXyJQI)
-- [GitHub - MarkusPfundstein/mcp-obsidian: MCP server that interacts with Obsidian via the Obsidian rest API community plugin](https://github.com/MarkusPfundstein/mcp-obsidian) ⭐ 3.9k
+- [GitHub - MarkusPfundstein/mcp-obsidian: MCP server that interacts with Obsidian via the Obsidian rest API community plugin](https://github.com/MarkusPfundstein/mcp-obsidian) ⭐ 4.0k
 - [Obsidian MCP servers: experiences and recommendations? - Help - Obsidian Forum](https://forum.obsidian.md/t/obsidian-mcp-servers-experiences-and-recommendations/99936/6)
 - [Automate Note Generation in Obsidian with Claude Desktop and MCP Servers - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/automate-note-generation-in-obsidian-with-claude-desktop-and-mcp-servers/99542)
-- [GitHub - StevenStavrakis/obsidian-mcp: A simple MCP server for Obsidian](https://github.com/StevenStavrakis/obsidian-mcp) ⭐ 715
+- [GitHub - StevenStavrakis/obsidian-mcp: A simple MCP server for Obsidian](https://github.com/StevenStavrakis/obsidian-mcp) ⭐ 716
 - [Mind blown: MCP + Obsidian : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1hdl0cl/mind_blown_mcp_obsidian/)
 - [Writing 2,000 words in 90 minutes with Obsidian + MCP + Claude.](https://www.haihai.ai/obsidian-mcp/)
 - [AI in Obsidian: Local LLM Setup Guide in CoPilot - YouTube](https://www.youtube.com/watch?v=hOaSO_e7MYs)
@@ -134,9 +137,9 @@ Turn notes into study-ready material without leaving Obsidian.
 	- **[Obsidian With Claude: The Setup I Said You Didn't Need - YouTube](https://www.youtube.com/watch?v=B35SWx_4BNM)**
 	- [How to Build an AI Second Brain with Claude Code and Obsidian \| MindStudio](https://www.mindstudio.ai/blog/build-ai-second-brain-claude-code-obsidian-2)
 	- [💎 How Claude + Obsidian + MCP Solved My Organizational Problems](https://www.eleanorkonik.com/p/how-claude-obsidian-mcp-solved-my)
-- [GitHub - memd-app/me.md: AI-guided personal knowledge system. Build a verified knowledge graph of yourself through interview-style sessions with Claude. All data stays local. · GitHub](https://github.com/memd-app/me.md) ⭐ 11
+- [GitHub - memd-app/me.md: AI-guided personal knowledge system. Build a verified knowledge graph of yourself through interview-style sessions with Claude. All data stays local. · GitHub](https://github.com/memd-app/me.md) ⭐ 13
 	- [me.md - Your Verified Personal Context](https://www.me.md/)
-- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 26k
+- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 27k
 
 ### Obsidian Hybrid Search
 
@@ -149,13 +152,14 @@ claude mcp add-json obsidian-hybrid-search '{"command":"npx","args":["-y","-p","
 
 ```
 
-[GitHub - flowing-abyss/obsidian-hybrid-search: Hybrid search over your Obsidian vault – CLI and MCP server · GitHub](https://github.com/flowing-abyss/obsidian-hybrid-search)
+[GitHub - flowing-abyss/obsidian-hybrid-search: Hybrid search over your Obsidian vault – CLI and MCP server · GitHub](https://github.com/flowing-abyss/obsidian-hybrid-search) ⭐ 77
 
 [Hybrid Search — hybrid search MCP server + CLI for AI assistants (BM25 + semantic, Obsidian-native) - #2 by WhiteNoise - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/hybrid-search-hybrid-search-mcp-server-cli-for-ai-assistants-bm25-semantic-obsidian-native/112491/2)
 
 **Alternatives -**
+
 - [I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian \| Towards Data Science](https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/)
-- [GitHub - ben-vargas/obsidian-vectorize-mcp: Obsidian Vectorize (obvec) - Serverless Vector Search with MCP for your Obsidian notes · GitHub](https://github.com/ben-vargas/obsidian-vectorize-mcp)
+- [GitHub - ben-vargas/obsidian-vectorize-mcp: Obsidian Vectorize (obvec) - Serverless Vector Search with MCP for your Obsidian notes · GitHub](https://github.com/ben-vargas/obsidian-vectorize-mcp) ⭐ 9
 
 ## Obsidian Shortcuts
 
@@ -326,7 +330,7 @@ Toggle side bars
 	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)
 	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin) ⭐ 55k
 - [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) ⭐ 42k - A privacy-first, open-source platform for knowledge management and collaboration
-- [GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 36k
+- [GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 37k
 - [Obsidian alternatives that are open source (free) and sync feature as well : r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/x95y56/obsidian_alternatives_that_are_open_source_free/)
 
 ## Obsidian Automated Metadata: Core Learnings

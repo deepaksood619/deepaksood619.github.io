@@ -177,7 +177,7 @@ Actual performance depends on workload shape and the interaction between dimensi
 
 The partition count often determines the minimum CKU requirement, regardless of throughput:
 
-```
+```text
 Minimum CKU = Total Partitions / 4,500
 ```
 

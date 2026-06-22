@@ -14,5 +14,6 @@
   "learnkit",
   "templater-obsidian",
   "omnisearch",
-  "obsidian-linter"
+  "obsidian-linter",
+  "file-explorer-note-count"
 ]

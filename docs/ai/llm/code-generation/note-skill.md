@@ -36,6 +36,7 @@ grep -ri "<topic>" docs/
 ```
 
 **Analyze results:**
+
 - Does dedicated page exist? → UPDATE mode
 - Only scattered mentions? → CREATE mode
 - No mentions? → CREATE mode (determine category from topic keywords)
@@ -51,7 +52,8 @@ WebFetch(url="<provided-url>", prompt="Extract key information, features, descri
 **If no URL:**
 
 Ask user:
-```
+
+```text
 Please provide either:
 1. URL to official source (GitHub, docs, article)
 2. Brief description/key points about <topic>
@@ -64,6 +66,7 @@ Please provide either:
 **Use semantic search results + topic keywords to categorize:**
 
 **Technology/Tools:** Keywords: software, platform, API, library, framework, tool, system
+
 - Apache projects → `docs/technologies/apache/`
 - Kafka ecosystem → `docs/technologies/kafka/`
 - Message brokers → `docs/technologies/brokers/`
@@ -74,26 +77,32 @@ Please provide either:
 - General tech → `docs/technologies/`
 
 **Psychology/Mental Models:** Keywords: psychology, cognitive, mental model, thinking, bias, behavior
+
 - Mental models → `docs/psychology/mental-models/`
 - General psychology → `docs/psychology/`
 
 **Health/Wellness:** Keywords: health, sleep, diet, nutrition, exercise, wellness
+
 - Sleep → `docs/health/sleep/` (create if not exists)
 - Nutrition → `docs/health/nutrition/` (create if not exists)
 - General health → `docs/health/`
 
 **Economics/Business:** Keywords: economics, finance, business, company, market
+
 - Company analysis → `docs/economics/company-analysis/`
 - General economics → `docs/economics/`
 
 **Education:** Keywords: learning, education, teaching, pedagogy
+
 - `docs/education/`
 
 **Algorithms/CS:** Keywords: algorithm, data structure, complexity, computer science
+
 - Algorithms → `docs/algorithms/`
 - Data structures → `docs/data-structures/`
 
 **Books/Summaries:** Keywords: book, author, summary
+
 - `docs/book-summaries/`
 
 **Check if category folder exists:**
@@ -139,6 +148,7 @@ updated: <YYYY-MM-DD>
 ```
 
 **Content length guidelines:**
+
 - **Introduction:** 1-2 sentences max
 - **Key features/points:** 5-10 bullets (most important only)
 - **Sections:** Only add sections with core/essential information
@@ -176,6 +186,7 @@ Edit(file_path="...", old_string="updated: <old-date>", new_string="updated: <to
 **Common patterns:**
 
 **Pattern 1: Comparison/list pages**
+
 ```markdown
 # In docs/technologies/kafka/others.md
 - Apache Pulsar
@@ -184,6 +195,7 @@ Edit(file_path="...", old_string="updated: <old-date>", new_string="updated: <to
 ```
 
 **Pattern 2: Overview/README pages**
+
 ```markdown
 # In docs/psychology/readme.md
 - [Cognitive Biases](psychology/cognitive-biases.md)
@@ -191,6 +203,7 @@ Edit(file_path="...", old_string="updated: <old-date>", new_string="updated: <to
 ```
 
 **Pattern 3: Related concept pages**
+
 ```markdown
 # In docs/health/sleep.md
 ## Related Topics
@@ -199,6 +212,7 @@ Edit(file_path="...", old_string="updated: <old-date>", new_string="updated: <to
 ```
 
 **Link path format (CRITICAL):**
+
 - ✅ Full path from docs/: `[Link](technologies/kafka/topic.md)`
 - ❌ Relative path: `[Link](../kafka/topic.md)`
 
@@ -225,6 +239,7 @@ ls -la docs/<category>/
 ```
 
 **Audit checklist:**
+
 - ✅ Check if files should be grouped into subfolders
 - ✅ Check if new file belongs in different category
 - ✅ Check if numbered prefixes needed for ordering
@@ -255,6 +270,7 @@ ls -la docs/<category>/
 ### Evergreen Content Only
 
 **Write to notes (✅):**
+
 - Permanent facts and concepts
 - Technical documentation and how-tos
 - Best practices and patterns
@@ -262,6 +278,7 @@ ls -la docs/<category>/
 - Learnings that will be useful later
 
 **Keep in chat only (❌):**
+
 - Temporary analysis or investigation results
 - Context-specific debugging output
 - One-time answers to specific questions
@@ -273,11 +290,13 @@ ls -la docs/<category>/
 ### UPDATE vs CREATE
 
 **UPDATE if:**
+
 - Dedicated page exists at `docs/<category>/<topic>.md`
 - Page is sparse/outdated
 - New information complements existing
 
 **CREATE if:**
+
 - No dedicated page exists
 - Only brief mentions in lists
 - Topic deserves standalone documentation
@@ -287,11 +306,12 @@ ls -la docs/<category>/
 1. **Exact match from semantic search results** (if topic found in existing category)
 2. **Keyword matching** (tech keywords → technologies/, psychology keywords → psychology/)
 3. **Ask user** if ambiguous:
-   ```
+
+   ```text
    Found potential categories:
    1. technologies/
    2. ai/
-   
+
    Which category? (or suggest new category)
    ```
 
@@ -329,6 +349,7 @@ ls -la docs/<category>/
 9. **Delete during reorganization** - When reorganizing, NEVER delete links/content without confirmation. Only move/reorganize/split into files
 
 **Sidebar ordering during reorganization:**
+
 - Use numbered prefixes (`01-`, `02-`, `03-`) for files that need specific ordering
 - Preserves order in both Docusaurus sidebar and Obsidian file list
 - Example: `01-introduction.md`, `02-core-concepts.md`, `03-advanced.md`
@@ -338,7 +359,7 @@ ls -la docs/<category>/
 
 ### Example 1: Technology
 
-```
+```text
 User: /note Apache Iggy https://github.com/apache/iggy
 
 Step 1: Search
@@ -371,7 +392,7 @@ Step 6: Report
 
 ### Example 2: Mental Model
 
-```
+```text
 User: /note Eisenhower Matrix
 
 Step 1: Search
@@ -405,7 +426,7 @@ Step 6: Report
 
 ### Example 3: Health Topic
 
-```
+```text
 User: /note sleep hygiene https://sleepfoundation.org/sleep-hygiene
 
 Step 1: Search
@@ -444,7 +465,7 @@ Step 6: Report
 
 **Action:** Ask user with suggestions
 
-```
+```text
 Topic: "<topic>"
 
 Couldn't auto-categorize. Suggestions based on keywords:
@@ -464,7 +485,8 @@ mkdir -p docs/<new-category>/
 ```
 
 Report in summary:
-```
+
+```text
 📂 Category: <new-category>/ (✨ new category created)
 ```
 
@@ -472,7 +494,7 @@ Report in summary:
 
 **Action:** Fall back to asking user
 
-```
+```text
 ❌ Couldn't fetch from URL.
 
 Please provide:
@@ -484,7 +506,7 @@ Please provide:
 
 **Action:** UPDATE instead of create
 
-```
+```text
 ℹ️ Found existing page: docs/<category>/<topic>.md
 
 Checking if update needed...
