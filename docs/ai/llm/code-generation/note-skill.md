@@ -126,15 +126,24 @@ updated: <YYYY-MM-DD>
 
 ## Key Points / Features
 
-- <Copy from source>
-- <Copy from source>
+- <Copy from source - essential items only>
+- <Copy from source - 5-10 bullets max>
 
-## <Additional sections based on content type>
+## <Additional sections based on content type - keep concise>
 
 ## Links
 
-- <Source URL if available>
+- <Source URL>
+- <Additional reading>
+- <Related resources>
 ```
+
+**Content length guidelines:**
+- **Introduction:** 1-2 sentences max
+- **Key features/points:** 5-10 bullets (most important only)
+- **Sections:** Only add sections with core/essential information
+- **Total length:** Aim for ~50-150 lines for most topics
+- **Additional content:** Put supplementary info in "Links" or "Further Reading" section, not in main content
 
 **Use Obsidian CLI to create:**
 
@@ -264,6 +273,7 @@ ls docs/<full-path-to-target>  # Must exist
 6. **Auto-categorize** - Based on semantic search + keywords
 7. **5-field frontmatter** - slug, title, description, created, updated
 8. **Natural language slugs** - `/topic-name` not `/folder/path/topic-name`
+9. **Be concise** - Only add core/relevant content; put additional resources in "Links" or "Further Reading" section
 
 ### ❌ DON'T
 
@@ -274,6 +284,14 @@ ls docs/<full-path-to-target>  # Must exist
 5. **Create broken links** - Verify target exists
 6. **Add H1 heading** - Title comes from frontmatter
 7. **Guess category** - Use semantic search or ask user
+8. **Be verbose** - Avoid copying entire articles; extract only core concepts, key features, and essential info. Additional resources → "Links" section
+9. **Delete during reorganization** - When reorganizing, NEVER delete links/content without confirmation. Only move/reorganize/split into files
+
+**Sidebar ordering during reorganization:**
+- Use numbered prefixes (`01-`, `02-`, `03-`) for files that need specific ordering
+- Preserves order in both Docusaurus sidebar and Obsidian file list
+- Example: `01-introduction.md`, `02-core-concepts.md`, `03-advanced.md`
+- Only use when explicit ordering is important (tutorials, guides, sequential content)
 
 ## Example Executions
 

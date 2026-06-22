@@ -161,6 +161,21 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - ❌ Don't commit in loops/workflows
 - ✅ Only commit when user explicitly asks: "commit these changes"
 
+### 2.5. NEVER Delete Content During Reorganization
+
+**CRITICAL:** When reorganizing files, NEVER delete links or content without user confirmation. Only reorganize, move, or split into multiple files.
+
+- ❌ Don't delete links, references, or content during reorganization
+- ✅ Only reorganize/move content to different sections or files
+- ✅ Split large files into multiple smaller files if needed
+- ✅ Ask before deleting anything
+
+**Sidebar ordering during reorganization:**
+- Use numbered prefixes (`01-`, `02-`, `03-`) for files that need specific ordering
+- Preserves order in both Docusaurus sidebar and Obsidian file list
+- Example: `01-introduction.md`, `02-core-concepts.md`, `03-advanced.md`
+- Only use when explicit ordering is important (tutorials, guides, sequential content)
+
 ### 3. Markdown Formatting (Docusaurus)
 
 **Page structure:**
@@ -179,6 +194,12 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - Standard markdown only (no wikilinks `[[]]`)
 - Use relative paths for internal links
 - Full documentation: See "Markdown Writing Guidelines" section below
+
+**Content length (IMPORTANT):**
+- **Be concise** - Only add core/relevant content
+- Extract essential information, not entire articles
+- Target: ~50-150 lines for most topics
+- Additional resources → "Links" or "Further Reading" section
 
 ### 4. Semantic Search Available
 

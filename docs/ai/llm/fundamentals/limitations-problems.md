@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/limitations-problems
 title: Model Limitations / Problems
 description: Discover the limitations of AI models, including hallucinations and outdated information, impacting their accuracy and reliability in generating responses.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-22
 ---
 ## Hallucinations
 
@@ -37,3 +37,4 @@ If a model is trained on a sentence of the form "A is B", it will not automatica
 ## Links
 
 - [Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science](https://ai.stanford.edu/~kzliu/blog/unlearning)
+- Major problem is also it is very slow, have to do a lot of **botsitting**
