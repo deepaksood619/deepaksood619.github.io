@@ -32,6 +32,7 @@ And with Confluent Platform 5.4 or newer, you have the additional option to [cen
 - AWS SQS
 - Google Cloud Pub/Sub
 - Azure Event Hubs
+- [**Apache Iggy**](technologies/apache/apache-iggy.md)
 - **Redpanda**
 	- Redpanda is the real-time engine for modern apps. Kafka API Compatible; 10x faster
 	- https://redpanda.com
