@@ -175,6 +175,8 @@ EOF
 /my-skill
 ```
 
+**Example skill:** [Note Skill](ai/llm/code-generation/note-skill.md) - Fully automated knowledge base organization with semantic search, categorization, and intelligent linking
+
 **Best practices:**
 
 1. **Clear invocation triggers**: Describe when skill should activate
