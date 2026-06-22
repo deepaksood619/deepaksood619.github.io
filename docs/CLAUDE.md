@@ -358,6 +358,59 @@ code here
 
 ### Additional Best Practices
 
+**Page Titles:**
+
+- **Do NOT add H1 heading** (`# Title`) at the top of markdown files
+- Docusaurus uses the `title` field from frontmatter to generate page titles
+- Adding an H1 heading creates redundant duplicate titles on the page
+
+**Example:**
+
+```markdown
+❌ Wrong:
+---
+title: CLAUDE.md Best Practices
+---
+
+# CLAUDE.md Best Practices  ← Redundant, don't add this!
+
+Content starts here...
+
+✅ Correct:
+---
+title: CLAUDE.md Best Practices
+---
+
+Content starts here...  ← No H1 heading needed
+```
+
+**Slug Naming:**
+
+- **Use natural language slugs**, NOT folder-based paths
+- Slugs should be descriptive and independent of file location
+- This prevents 404 errors when files are moved between folders
+
+**Example:**
+
+```markdown
+❌ Wrong (folder-based):
+---
+slug: /devops/ides/claude-md-best-practices
+---
+
+✅ Correct (natural language):
+---
+slug: /claude-md-best-practices
+---
+```
+
+**Rationale:**
+
+- Files can be moved to different folders without updating slug
+- No broken links when folder structure is reorganized
+- Cleaner, more memorable URLs
+- Slug becomes the canonical identifier, not the file path
+
 **Links:**
 
 - Use relative paths for internal links

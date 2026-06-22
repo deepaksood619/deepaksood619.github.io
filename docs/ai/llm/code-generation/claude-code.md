@@ -47,6 +47,7 @@ After writing or editing code, check LSP diagnostics before moving on. Fix any t
 ## Claude Code Features
 
 1. **CLAUDE.md:** A project memory file to define custom rules and conventions. Claude reads at the start of every session. (run `/init` to create or update)
+   - **See:** [CLAUDE.md Best Practices](devops/ides/claude-md-best-practices.md) for hierarchical organization and inheritance patterns
 2. **Permissions:** Control which tools Claude can and can't use.
 3. **Plan Mode:** Claude plans before it acts. You can review them before any code changes.
 4. **Checkpoints:** Automatic snapshots of your project to revert to if something goes wrong.
@@ -78,6 +79,7 @@ claude --help
 
 - **/compact**: Manually shrinks the conversation history to save tokens while preserving key context.
 - **/init**: Initializes a `CLAUDE.md` file in your project to store local coding standards and instructions.
+	- **[CLAUDE.md Best Practices](devops/ides/claude-md-best-practices.md)** - Hierarchical organization for multi-domain projects
 	- [andrej-karpathy-skills/CLAUDE.md at main · forrestchang/andrej-karpathy-skills · GitHub](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/CLAUDE.md) ⭐ 176k
 	- [Writing a good CLAUDE.md \| HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - **/model**: Quickly switch between models (e.g., switching to `haiku` for fast tasks or `opus` for complex logic).
