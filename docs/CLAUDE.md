@@ -220,7 +220,9 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 
 **Code blocks:**
 
-- Always specify language: ```python,```bash, ```javascript
+- Always specify language: ```python, ```bash, ```javascript
+- For plain text blocks, use ```text (not unfenced)
+- NEVER use unfenced code blocks - they break Docusaurus rendering
 
 **MDX compatibility:**
 

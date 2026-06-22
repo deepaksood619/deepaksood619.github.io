@@ -155,6 +155,12 @@ updated: <YYYY-MM-DD>
 - **Total length:** Aim for ~50-150 lines for most topics
 - **Additional content:** Put supplementary info in "Links" or "Further Reading" section, not in main content
 
+**Code blocks (CRITICAL):**
+
+- Always fence code blocks with language: ```python, ```bash, ```json
+- For plain text, use ```text (not unfenced)
+- NEVER use unfenced code blocks - they break Docusaurus rendering
+
 **Use Obsidian CLI to create:**
 
 ```bash
