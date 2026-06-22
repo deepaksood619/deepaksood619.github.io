@@ -1,3 +1,11 @@
+---
+slug: /CLAUDE
+title: CLAUDE.md
+description: Project-level guidance for Claude Code when working with deepaksood619.github.io Docusaurus knowledge base
+created: 2026-04-15
+updated: 2026-06-22
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -14,6 +22,17 @@ Personal knowledge base built with Docusaurus 3.8, containing 2600+ markdown not
 - Auto-deploys on push to master branch
 
 ## Development Commands
+
+**⚠️ CRITICAL: NEVER run npm commands in this directory**
+
+This folder is Google Drive synced. Running npm commands would create `node_modules/` which would attempt to sync 100k+ files to Google Drive, causing sync issues and consuming massive storage.
+
+**For local development:**
+1. Clone the repository to a local (non-synced) directory
+2. Run npm commands there
+3. Use this Google Drive location only for content editing
+
+**Available commands (use in local clone only):**
 
 ```bash
 # Install dependencies
@@ -115,6 +134,58 @@ Configured in `.pre-commit-config.yaml`:
 - Check for broken links (build will fail on broken links)
 - Verify search indexing after deployment (Algolia)
 
+## Content Editing
+
+**For content editing, Obsidian CLI usage, and markdown formatting guidelines:**
+→ See [docs/CLAUDE.md](docs/CLAUDE.md)
+
+## CLAUDE.md Hierarchy
+
+```
+.
+├── CLAUDE.md (this file - project infrastructure)
+└── docs/
+    ├── CLAUDE.md (content infrastructure - Obsidian CLI, markdown rules)
+    ├── economics/
+    │   ├── CLAUDE.md (financial KB - inherits docs/CLAUDE.md)
+    │   └── company-analysis/
+    │       └── CLAUDE.md (company analysis - inherits all above)
+    ├── education/CLAUDE.md (education wiki - inherits docs/CLAUDE.md)
+    └── ideas/CLAUDE.md (startup research - inherits docs/CLAUDE.md)
+```
+
+**How hierarchy works:**
+- Claude Code walks UP the directory tree loading all CLAUDE.md files
+- Inner files take precedence for conflicting instructions
+- Instructions are additive (child extends parent)
+
+## When to Create Domain CLAUDE.md Files
+
+Create domain-specific CLAUDE.md files for **LLM-maintained knowledge bases** where Claude actively:
+- Creates/updates structured content (not just edits existing notes)
+- Maintains cross-references and consistency
+- Follows templates and quality standards
+- Performs systematic research and synthesis
+
+**Current domains with CLAUDE.md files:**
+- `economics/` - Financial research, company analysis, taxation
+- `economics/company-analysis/` - Detailed company fundamental/technical analysis
+- `education/` - Education startup research wiki
+- `ideas/` - Multi-domain startup opportunity research
+
+**Folders WITHOUT CLAUDE.md files** (passive note collections):
+- `ai/`, `databases/`, `algorithms/`, `book-summaries/`, etc.
+- These are personal learning notes edited manually in Obsidian
+- They inherit all rules from `docs/CLAUDE.md` automatically
+
+## Working Directory
+
+**Recommended:** Open Claude Code at project root (`deepaksood619.github.io/`)
+- Full access to git operations and build file visibility
+- CLAUDE.md hierarchy loads automatically when you cd to subfolders
+- Use `cd docs/economics` to focus context when needed
+- **Never run npm commands here** (Google Drive sync issue)
+
 ## Obsidian Integration
 
 Primary editing happens in Obsidian with these considerations:
@@ -122,3 +193,4 @@ Primary editing happens in Obsidian with these considerations:
 - Obsidian-specific syntax (e.g., `[[wikilinks]]`) NOT compatible - use standard markdown links
 - Graph view and backlinks are Obsidian-only features
 - `.obsidian/` folder contains Obsidian settings (git-ignored except hotkeys.json)
+- See `docs/CLAUDE.md` for complete Obsidian CLI reference

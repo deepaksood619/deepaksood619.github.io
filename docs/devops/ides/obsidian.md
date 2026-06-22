@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -309,6 +309,63 @@ Toggle side bars
 - [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) ⭐ 42k - A privacy-first, open-source platform for knowledge management and collaboration
 - [GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 36k
 - [Obsidian alternatives that are open source (free) and sync feature as well : r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/x95y56/obsidian_alternatives_that_are_open_source_free/)
+
+## Obsidian Automated Metadata: Core Learnings
+
+### Generating Dynamic Frontmatter
+
+To automatically inject metadata (properties) into new notes, use the **Templater** community plugin.
+
+- Standard Obsidian templates insert static text, which hardcodes a single date.
+- Templater tags dynamically evaluate variables at the exact millisecond of file creation.
+- **The Evergreen Blueprint:** Place this block at the very top of your master template file:
+
+```markdown
+---
+slug: obsidian-new-note-template
+title: Obsidian Simple New Note Template
+description: Obsidian Simple New Note Template for creating a new note.
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
+updated: <% tp.file.creation_date("YYYY-MM-DD") %>
+---
+```
+
+### Tracking File Modifications (The `updated` Key)
+
+Because template engines only run **once** at file birth, tracking ongoing file updates requires a continuous background process.
+
+If you choose the multi-purpose **Linter** plugin to manage timestamps, you must explicitly connect text modifications to the frontmatter parser.
+
+- **The "Never" Pitfall:** By default, Linter ignores text changes and only looks at property shifts.
+- **The Fix:** You must change **Update YAML Timestamp on File Contents Update** from _Never_ to _On Lint_.
+- **The Trigger:** Combine this with **Lint on Save** or **Lint on Change** so the plugin actively runs its checks as you work.
+
+## Note: Tags vs. Keywords in Documentation Systems
+
+### Core Concept
+
+While **tags** and **keywords** both classify content, they serve entirely different systems. **Tags** build the public architecture for human navigation, whereas **keywords** inject invisible metadata intended for machine parsing.
+
+### Structural Comparison
+
+| Attribute            | Tags                                                                 | Keywords                                                       |
+| -------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Primary Audience** | **Human Users** (site visitors)                                      | **Search Crawlers** / Internal Indexers                        |
+| **Visibility**       | **Visible:** Stamped as clickable UI badges on the page              | **Hidden:** Buried entirely within the HTML source header      |
+| **System Action**    | Programmatically generates unique index pages grouping related files | Injects a static `<meta name="keywords" content="...">` string |
+
+### Behavior and Impact
+
+#### Tags (Human-Centric Navigation)
+
+- **How it works:** When a user clicks a tag badge, the system dynamically generates a collection route displaying all files matching that metadata parameter.
+- **SEO Risk:** If left unmanaged, search engines crawl these thin collection pages, treating them as duplicate content. This can exhaust your website's crawl budget.
+
+#### Keywords (Machine-Centric Metadata)
+
+- **How it works:** Designed historically to summarize page context directly for automated web crawlers.
+- **SEO Reality:** Modern search engines (like Google) completely ignore the `<meta name="keywords">` tag because it was historically abused for search manipulation.
+- **Current Value:** Only useful if your system relies on an isolated internal search plugin (e.g., localized tools requiring strict meta-tag definitions to surface site results).
 
 ## Others
 

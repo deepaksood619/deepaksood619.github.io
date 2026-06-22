@@ -1,10 +1,13 @@
 ---
 slug: /economics/CLAUDE
-title: "Economics & Finance Knowledge Base"
-description: "Explore our LLM-maintained Economics & Finance Knowledge Base for in-depth market research, financial concepts, and investment intelligence."
+title: Economics & Finance Knowledge Base
+description: Explore our LLM-maintained Economics & Finance Knowledge Base for in-depth market research, financial concepts, and investment intelligence.
 created: 2026-06-09
-updated: 2026-06-10
+updated: 2026-06-22
 ---
+
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+
 **LLM-maintained financial research repository** - Systematic market research, economic analysis, financial concepts, and investment intelligence stored as structured markdown files.
 
 ## Core Purpose
@@ -157,9 +160,9 @@ Periodically verify: stale content (`>6` months for regulatory, `>12` months for
 
 **Prefer Obsidian CLI** over direct file operations for link graph updates and backlink maintenance.
 
-**Full command reference:** See `/docs/CLAUDE.md` for complete Obsidian CLI examples (search, read, append, backlinks, orphans, etc.)
-
 **VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
+
+**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Content Standards
 
@@ -430,15 +433,13 @@ tags: [finance, valuation, concept-name]
 
 ## Markdown & Formatting
 
-**See `/docs/CLAUDE.md`** for full Docusaurus markdown guidelines (blank lines, code blocks, MDX compatibility).
+**Inherits:** All markdown rules from [docs/CLAUDE.md](../CLAUDE.md) (blank lines, code blocks, standard links, MDX compatibility).
 
-**Key rules:**
+**Additional financial content rules:**
 
-- Blank lines between all content blocks (paragraphs, tables, sections)
-- Standard markdown links (no wikilinks)
-- Language specified for code blocks
 - Full paths for links starting with `economics/`
-- Tables for comparisons and data
+- Tables for all comparisons and data
+- Financial formatting standards (see below)
 
 **MDX compatibility (CRITICAL for financial content):**
 

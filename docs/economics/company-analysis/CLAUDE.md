@@ -3,8 +3,11 @@ slug: /economics/company-analysis/CLAUDE
 title: Company Analysis Knowledge Base
 description: Discover an LLM-maintained financial analysis repository for systematic company research, fundamental analysis, and market intelligence in structured markdown files.
 created: 2026-04-15
-updated: 2026-06-06
+updated: 2026-06-22
 ---
+
+**Inherits:** Financial KB standards from [economics/CLAUDE.md](../CLAUDE.md) and content infrastructure from [docs/CLAUDE.md](../../CLAUDE.md)
+
 **LLM-maintained financial analysis repository** - Systematic company research, fundamental analysis, and market intelligence stored as structured markdown files.
 
 ## Core Purpose
@@ -132,11 +135,9 @@ Periodically verify: stale analyses (`>3` months old), broken cross-references, 
 
 ## Obsidian CLI Usage
 
-**Prefer Obsidian CLI** over direct file operations for link graph updates and backlink maintenance.
-
-**Full command reference:** See `/docs/CLAUDE.md` for complete Obsidian CLI examples (search, read, append, backlinks, orphans, etc.)
-
 **VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
+
+**Commands:** See [docs/CLAUDE.md](../../CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Content Standards
 
@@ -385,15 +386,12 @@ tags: [sector-analysis, {sector}, indian-markets]
 
 ## Markdown & Formatting
 
-**See `/docs/CLAUDE.md`** for full Docusaurus markdown guidelines (blank lines, code blocks, MDX compatibility).
+**Inherits:** All markdown rules from [docs/CLAUDE.md](../../CLAUDE.md) and [economics/CLAUDE.md](../CLAUDE.md)
 
-**Key rules for financial reports:**
+**Company analysis specific formatting:**
 
-- Blank lines between all content blocks (paragraphs, tables, sections)
-- Standard markdown links (no wikilinks)
-- Language specified for code blocks (if using code)
 - Full paths for links starting with `economics/company-analysis/`
-- Tables for all metric comparisons
+- Tables for all metric comparisons and peer analysis
 
 **MDX compatibility (CRITICAL for financial data):**
 

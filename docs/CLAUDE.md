@@ -3,8 +3,11 @@ slug: /CLAUDE
 title: claude.md
 description: Discover essential guidance for managing your Obsidian vault using CLI, ensuring optimal performance and maintenance of your markdown notes in `/docs`.
 created: 2026-04-15
-updated: 2026-05-23
+updated: 2026-06-22
 ---
+
+**Inherits:** Project infrastructure from [root CLAUDE.md](../CLAUDE.md)
+
 Guidance for working with Obsidian vault in `/docs` using CLI.
 
 ## Environment

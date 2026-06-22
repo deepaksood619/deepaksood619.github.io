@@ -3,8 +3,11 @@ slug: /education/CLAUDE
 title: Education Research Wiki
 description: Explore our LLM-maintained Education Research Wiki, designed for education startups to streamline knowledge, support product decisions, and enhance research accuracy.
 created: 2026-04-15
-updated: 2026-06-17
+updated: 2026-06-22
 ---
+
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+
 **LLM-maintained wiki for education startup development** - Systematic knowledge organization supporting product decisions with research evidence.
 
 ## Core Purpose
@@ -144,9 +147,9 @@ When creating new content, place files in the appropriate folder:
 
 **Prefer Obsidian CLI** over direct file operations for link graph updates and backlink maintenance.
 
-**Full command reference:** See `/docs/CLAUDE.md` for complete Obsidian CLI examples (search, read, append, backlinks, orphans, etc.)
-
 **VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
+
+**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Content Standards
 
@@ -231,14 +234,12 @@ How this research informs product decisions
 
 ## Markdown & Formatting
 
-**See `/docs/CLAUDE.md`** for full Docusaurus markdown guidelines (blank lines, code blocks, MDX compatibility).
+**Inherits:** All markdown rules from [docs/CLAUDE.md](../CLAUDE.md)
 
-**Key rules:**
+**Education content specific rules:**
 
-- Blank lines between all content blocks
-- Standard markdown links (no wikilinks)
-- Language specified for code blocks
-- Relative paths for links/images
+- Full paths for links starting with `education/`
+- Relative paths for images
 
 **MDX compatibility (CRITICAL):**
 

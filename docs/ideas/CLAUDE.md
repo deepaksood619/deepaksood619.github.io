@@ -3,8 +3,11 @@ slug: /ideas/CLAUDE
 title: claude.md
 description: Discover Claude.md, an LLM-driven wiki for comprehensive multi-domain startup research, integrating sources, insights, and cross-referencing for informed decision-making.
 created: 2026-05-01
-updated: 2026-05-23
+updated: 2026-06-22
 ---
+
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+
 **LLM-maintained wiki for multi-domain startup research**
 
 ## Core Purpose
@@ -230,8 +233,6 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 ## Important
 
 - No access to `office/*` folder (sensitive data)
-- Use standard markdown links (not wikilinks)
-- Blank lines between content blocks
-- Code blocks with language specified
+- **Formatting:** All markdown rules inherited from [docs/CLAUDE.md](../CLAUDE.md)
+- **Obsidian CLI:** Full command reference in [docs/CLAUDE.md](../CLAUDE.md)
 - Prefer Obsidian CLI for creating/updating research files
-- Use Read tool for reading files
