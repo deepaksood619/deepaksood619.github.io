@@ -84,4 +84,4 @@ For simpler use cases, where you are primarily interested in data changes (witho
 
 ## Links
 
-- [oracle-xstream-cdc-source-connector](technologies/confluent/oracle-xstream-cdc-source-connector.md)
+- [oracle-xstream-cdc-source-connector](technologies/confluent/data-integration/oracle-xstream-cdc-source-connector.md)

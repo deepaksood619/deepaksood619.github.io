@@ -10,7 +10,7 @@ updated: 2026-03-21
 - [02-kafka-producers](technologies/kafka/kafka-commands/02-kafka-producers.md)
 - [03-kafka-consumers](technologies/kafka/kafka-commands/03-kafka-consumers.md)
 - [04-kafka-groups-configs](technologies/kafka/kafka-commands/04-kafka-groups-configs.md)
-- [confluent cli-tools](technologies/confluent/cli-tools.md)
+- [confluent cli-tools](technologies/confluent/tools/cli-tools.md)
 
 ## Configuration
 

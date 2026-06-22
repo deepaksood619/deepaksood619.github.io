@@ -39,6 +39,7 @@ Comprehensive knowledge base covering economic theory, finance, investing, and p
 
 ### Investment Products - Mutual funds, ETFs, and structured products
 
+- [Investment Products](economics/investment-products/readme.md)
 - Equity Funds
 - Debt Funds
 - Hybrid & Alternative
@@ -49,6 +50,7 @@ Comprehensive knowledge base covering economic theory, finance, investing, and p
 
 ### Market Mechanics
 
+- [Market Mechanics](economics/market-mechanics/readme.md)
 - **Market Structure:** Order Types, [IPO](economics/market-mechanics/market-structure/ipo-process.md)
 - Trading & Derivatives
 - Technical Analysis - [Indicators](economics/market-mechanics/technical-analysis/technical-indicators.md)

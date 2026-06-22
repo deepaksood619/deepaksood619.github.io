@@ -152,6 +152,152 @@ The following table lists editable cluster settings for Dedicated clusters and t
 
 [Manage Kafka Cluster Configuration Settings in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/clusters/broker-config.html)
 
+## Dedicated Cluster Sizing Considerations
+
+### Multi-Dimensional Sizing Model
+
+Confluent Cloud Dedicated clusters use a multi-dimensional sizing model based on CKUs (Confluent Units for Kafka). Each CKU provides:
+
+**Per CKU Capacity:**
+
+- **Ingress:** 60 MBps
+- **Egress:** 180 MBps
+- **Partitions:** 4,500
+- **Total Client Connections:** 18,000
+- **Connection Attempts:** 500 per second
+- **Requests:** 15,000 per second
+
+### Important Sizing Principles
+
+**1. Multiple Dimensions Must Be Considered:**
+
+Actual performance depends on workload shape and the interaction between dimensions. If one dimension is pushed high, another may become the bottleneck before reaching headline throughput numbers.
+
+**2. Partition Count Sets the Floor:**
+
+The partition count often determines the minimum CKU requirement, regardless of throughput:
+
+```
+Minimum CKU = Total Partitions / 4,500
+```
+
+For example, 35,000 partitions requires at least 8 CKUs, even if throughput is low.
+
+**3. Throughput Alone Can Be Misleading:**
+
+A cluster with low steady-state throughput (e.g., 100-150 MBps) might still require substantial CKUs due to:
+
+- High partition counts
+- Large consumer groups with frequent rebalances
+- Metadata request patterns
+- Peak load during rebalances or rolls
+
+### Consumer-Heavy Workload Considerations
+
+For workloads with many consumers relative to throughput:
+
+**What Drives Sizing:**
+
+- **Rebalance Behavior:** Not just steady-state throughput
+- **Metadata Request Volume:** Especially with regex subscriptions
+- **Consumer Group Size:** Large groups amplify rebalance costs
+- **Client Connection Patterns:** Connection storms during rolls
+
+**Metadata Request Characteristics:**
+
+- Metadata handling is CPU-intensive on brokers
+- Authorization checks add overhead
+- Response sizes can reach multiple megabytes with large topic counts
+- Regex subscriptions generate more metadata traffic under classic protocol
+
+### Workload-Specific Sizing Factors
+
+**High Consumer Count Workloads:**
+
+When consumer count is high relative to throughput:
+
+1. **Classic Protocol:** Metadata storms during rebalances can drive CKU requirements
+2. **Request Load:** Metadata requests may exceed produce/fetch quota implications
+3. **Roll Behavior:** Consumer reconnects can skew load across brokers
+
+**Mitigations:**
+
+- Use Cooperative Sticky assignment (short-term)
+- Migrate to KIP-848 protocol (long-term)
+- Minimize regex subscriptions where possible
+- Plan for rebalance/roll headroom
+
+**Mixed Client Environments:**
+
+Heterogeneous client libraries and versions increase operational complexity:
+
+- Different metadata refresh behaviors
+- Protocol quirks and compatibility issues
+- Slower adoption of client-side optimizations
+
+### Sizing Recommendations
+
+**Baseline Calculation:**
+
+1. Calculate partition-driven floor: `Partitions / 4,500`
+2. Calculate throughput requirements: `Max(Ingress/60, Egress/180)`
+3. Take the maximum of these values as starting point
+
+**Add Headroom For:**
+
+- Consumer rebalance activity (especially with classic protocol + regex)
+- Cluster roll events and reconnect storms
+- Peak connection/request bursts
+- Future growth
+
+**No Simple Formula For:**
+
+- Metadata request volume per CKU
+- Consumer count per CKU
+- Regex subscribers per CKU
+
+These dimensions require load testing with representative workload patterns.
+
+### Validation and Testing
+
+**Before Production:**
+
+- Test rebalance behavior under expected consumer scale
+- Validate roll scenarios with target consumer counts
+- Monitor metadata request rates and response sizes
+- Profile CPU usage during rebalance events
+
+**Key Metrics to Monitor:**
+
+- Metadata request rate and latency
+- Metadata response size distribution
+- Rebalance frequency and duration
+- Broker CPU utilization during rebalances
+- Request queue depth and processing time
+
+### Common Anti-Patterns
+
+**Sizing Only on Throughput:**
+
+Don't size based solely on steady-state MBps. Consider:
+
+- Partition count baseline
+- Consumer rebalance patterns
+- Metadata request characteristics
+- Peak load during operational events
+
+**Ignoring Rebalance Costs:**
+
+Large consumer groups with classic protocol can generate expensive rebalance activity that doesn't show up in throughput metrics.
+
+**Underestimating Metadata Load:**
+
+Metadata requests can be more expensive than produce/fetch quotas suggest, especially with:
+
+- Large topic counts
+- Regex subscriptions
+- Frequent consumer membership changes
+
 ## Links
 
 [Kafka Cluster Types in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/clusters/cluster-types.html)

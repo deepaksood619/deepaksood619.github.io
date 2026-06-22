@@ -83,9 +83,9 @@ The Kafka data model consists of messages and topics
     - Each message is consumed by any one of the available consumers
     - Messages are consumed in the same order that they are received
 
-![image](../../media/Technologies-Kafka-Intro-to-Kafka-image1.jpg)
+![image](media/Technologies-Kafka-Intro-to-Kafka-image1.jpg)
 
-![image](../../media/Technologies-Kafka-Intro-to-Kafka-image2.jpg)
+![image](media/Technologies-Kafka-Intro-to-Kafka-image2.jpg)
 
 ## Brokers
 
@@ -148,7 +148,7 @@ Kafka offers different ways to commit messages. Auto-committing might acknowledg
 
 A good practice is to combine both synchronous and asynchronous commits, where we use asynchronous commits in the processing loop for higher throughput and synchronous commits in exception handling to make sure the the last offset is always committed.
 
-![Can Kafka Lose Messages?](../../media/Screenshot%202025-02-18%20at%2010.13.11%20PM.jpg)
+![Can Kafka Lose Messages?](media/Screenshot%202025-02-18%20at%2010.13.11%20PM.jpg)
 
 ## ISR
 

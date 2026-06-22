@@ -152,7 +152,7 @@ p.flush()
 
 ## Resources
 
-- [kafka-python](technologies/kafka/kafka-python.md)
+- [kafka-python](technologies/kafka/clients/kafka-python.md)
 - [Confluent Developer - YouTube](https://www.youtube.com/@ConfluentDeveloper)
 - [Confluent - YouTube](https://www.youtube.com/@Confluent)
 - https://github.com/confluentinc/confluent-kafka-python

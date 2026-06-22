@@ -7,11 +7,11 @@ updated: 2025-12-20
 ---
 Topics live in Kafka's storage layer - they are part of the Kafka "filesystem" powered by the brokers. In contrast, streams and tables are concepts of Kafka's processing layer, used in tools like [ksqlDB](https://ksqldb.io/) and [Kafka Streams](https://docs.confluent.io/current/streams/index.html). These tools process your events stored in "raw" topics by turning them into streams and tables - a process that is conceptually very similar to how a relational database turns the bytes in files on disk into an RDBMS table for you to work with.
 
-![image](../../media/Technologies-Kafka-Kafka-Streams-image1.jpg)
+![image](media/Technologies-Kafka-Kafka-Streams-image1.jpg)
 
 An event stream in Kafka is a topic with a schema. Keys and values of events are no longer opaque byte arrays but have specific types, so we know what's in the data. Like a topic, a stream is unbounded.
 
-![image](../../media/Technologies-Kafka-Kafka-Streams-image2.jpg)
+![image](media/Technologies-Kafka-Kafka-Streams-image2.jpg)
 
 https://www.confluent.io/blog/kafka-streams-tables-part-3-event-processing-fundamentals
 

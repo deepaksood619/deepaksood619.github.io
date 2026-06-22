@@ -21,7 +21,7 @@ The guarantee provided by a compatibility level can be thought of as a [safety 
 
 Compatibility checks know nothing of what actual data exists in a system, so may appear more strict than necessary. For example, in JSON Schema, a schema that allows additional properties in the payload that are not defined in the schema is referred to as an [open content model](https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/). Adding a new property definition to an open content model is a backward incompatible change. That's because undefined properties that appear in old data may conflict with the new property definition, such as having a different type. However, you may not have any data with undefined properties. To get around this issue, the compatibility level can be temporarily set to NONE while the new schema is registered to the subject. Alternatively, compatibility groups can be used, which are explained later.
 
-![Schema Registry Compatibility Rules](../../media/Screenshot%202025-12-15%20at%207.57.21%20PM.png)
+![Schema Registry Compatibility Rules](media/Screenshot%202025-12-15%20at%207.57.21%20PM.png)
 
 | **Mode**     | **Can I Delete Fields?**            | **Can I Add Fields?**              | **Key Requirement**                   |
 | ------------ | ----------------------------------- | ---------------------------------- | ------------------------------------- |

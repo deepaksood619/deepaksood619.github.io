@@ -1,36 +1,91 @@
 ---
 slug: /technologies/confluent/readme
-title: Confluent Technologies Overview
-description: Explore Confluent's key technologies, including Kafka, Cloud, and data governance solutions for seamless streaming and monitoring.
+title: Confluent Platform & Cloud
+description: Explore Confluent's enterprise Apache Kafka platform, cloud services, and data streaming solutions including governance, security, and integration tools.
 created: 2025-12-01
-updated: 2026-04-21
+updated: 2026-06-22
 ---
-- [confluent-kafka](technologies/confluent/confluent-kafka.md)
-- [confluent-tableflow](technologies/confluent/confluent-tableflow.md)
-- [confluent-pitch](technologies/confluent/confluent-pitch.md)
-- [kora](technologies/confluent/kora.md)
-- [cloud-documentation](technologies/confluent/cloud-documentation.md)
-	- [confluent-cloud](technologies/confluent/confluent-cloud.md)
-	- [Confluent Cloud Networking](technologies/confluent/confluent-cloud-networking/readme.md)
-	- [Confluent Cloud Security](technologies/confluent/confluent-cloud-security/readme.md)
-	- [govern-data-streams](technologies/confluent/govern-data-streams.md)
-	- [confluent-cloud-monitoring](technologies/confluent/confluent-cloud-monitoring.md)
-	- [confluent-cloud-flink](technologies/confluent/confluent-cloud-flink.md)
-	- [confluent-cloud-connect](technologies/confluent/confluent-cloud-connect.md)
-		- [oracle-xstream-cdc-source-connector](technologies/confluent/oracle-xstream-cdc-source-connector.md)
-- [platform-documentation](technologies/confluent/platform-documentation.md)
-	- [confluent-platform](technologies/confluent/confluent-platform.md)
-	- [confluent-for-kubernetes-cfk](technologies/confluent/confluent-for-kubernetes-cfk.md)
-- [confluent-cloud-vs-confluent-platform](technologies/confluent/confluent-cloud-vs-confluent-platform.md)
-- [confluent-private-cloud-cpc](technologies/confluent/confluent-private-cloud-cpc.md)
-- [confluent-intelligence](technologies/confluent/confluent-intelligence.md)
-- [warpstream](technologies/confluent/warpstream.md)
-- [cluster-linking](technologies/confluent/cluster-linking.md)
-- [disaster-recovery-dr-failover](technologies/confluent/disaster-recovery-dr-failover.md)
-- [replicator](technologies/confluent/replicator.md)
-- [commands](technologies/confluent/commands.md)
-- Terraform - [confluent-provider](devops/terraform/confluent-provider.md)
-- [cli-tools](technologies/confluent/cli-tools.md)
-- [confluent-cluster-types](technologies/confluent/confluent-cluster-types.md)
-- [pricing](technologies/confluent/pricing.md)
-- [43-podcast-stream-processing-using-kafka-and-flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+Confluent is the enterprise platform built on Apache Kafka, offering managed cloud services, additional components, and enterprise-grade features for data streaming.
+
+## Overview
+
+- [Confluent Pitch](technologies/confluent/confluent-pitch.md)
+- [Confluent Platform vs Cloud](technologies/confluent/cloud/confluent-cloud-vs-confluent-platform.md)
+- [Confluent Cluster Types](technologies/confluent/cloud/confluent-cluster-types.md)
+- [Pricing](technologies/confluent/pricing.md)
+
+## Confluent Platform (On-Premise)
+
+- [Platform Documentation](technologies/confluent/platform/platform-documentation.md)
+- [Confluent Platform](technologies/confluent/platform/confluent-platform.md)
+- [Confluent for Kubernetes (CFK)](technologies/confluent/platform/confluent-for-kubernetes-cfk.md)
+- [Confluent Private Cloud (CPC)](technologies/confluent/platform/confluent-private-cloud-cpc.md)
+
+## Confluent Cloud
+
+- [Cloud Documentation](technologies/confluent/cloud/cloud-documentation.md)
+- [Confluent Cloud Overview](technologies/confluent/cloud/confluent-cloud.md)
+- [Confluent Cloud Monitoring](technologies/confluent/cloud/confluent-cloud-monitoring.md)
+
+### Cloud Networking
+
+- [Confluent Cloud Networking Overview](technologies/confluent/cloud-networking/readme.md)
+- [Introduction](technologies/confluent/cloud-networking/01-introduction.md)
+- [Confluent Cloud Overview](technologies/confluent/cloud-networking/02-confluent-cloud-overview.md)
+- [Secure Public Endpoints](technologies/confluent/cloud-networking/03-secure-public-endpoints.md)
+- [VPC/VNet Peering Overview](technologies/confluent/cloud-networking/05-vpc-vpnet-peering-overview.md)
+- [AWS Transit Gateway](technologies/confluent/cloud-networking/07-aws-transit-gateway.md)
+- [AWS/Azure Private Link](technologies/confluent/cloud-networking/08-aws-azure-private-link.md)
+- [Best Networking Options](technologies/confluent/cloud-networking/10-best-networking-options.md)
+- [Confluent Cloud with Private Networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking.md)
+
+### Cloud Security
+
+- [Confluent Cloud Security Overview](technologies/confluent/cloud-security/readme.md)
+- [Authenticating Users and Applications](technologies/confluent/cloud-security/21-authenticating-users-and-applications.md)
+- [Authorizing using RBAC and ACLs](technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls.md)
+- [Understanding Encryption](technologies/confluent/cloud-security/23-understanding-encryption.md)
+- [Auditing and Monitoring](technologies/confluent/cloud-security/24-auditing-and-monitoring.md)
+- [Maintaining Compliance and Privacy](technologies/confluent/cloud-security/25-maintaining-compliance-and-privacy.md)
+- [IP Filtering](technologies/confluent/cloud-security/ip-filtering.md)
+
+## Components
+
+### Core Components
+
+- [Kafka Schema Registry](technologies/confluent/components/kafka-schema-registry.md)
+  - [Schema Registry Compatibility Rules](technologies/confluent/components/kafka-schema-registry-compatibility-rules.md)
+- [Kafka REST Proxy](technologies/confluent/components/kafka-rest-proxy.md)
+- [Confluent Cloud Connect](technologies/confluent/components/confluent-cloud-connect.md)
+  - [Oracle XStream CDC Source Connector](technologies/confluent/data-integration/oracle-xstream-cdc-source-connector.md)
+- [Confluent Cloud Flink](technologies/confluent/components/confluent-cloud-flink.md)
+- [Confluent Tableflow](technologies/confluent/components/confluent-tableflow.md)
+- [Confluent Intelligence](technologies/confluent/components/confluent-intelligence.md)
+
+## Data Integration
+
+- [Cluster Linking](technologies/confluent/data-integration/cluster-linking.md)
+- [Replicator](technologies/confluent/data-integration/replicator.md)
+- [Disaster Recovery / DR Failover](technologies/confluent/data-integration/disaster-recovery-dr-failover.md)
+- [Oracle XStream CDC Source Connector](technologies/confluent/data-integration/oracle-xstream-cdc-source-connector.md)
+
+## Stream Governance
+
+- [Confluent Kafka (Governance Overview)](technologies/confluent/governance/confluent-kafka.md)
+- [Govern Data Streams](technologies/confluent/governance/govern-data-streams.md)
+
+## Tools & CLI
+
+- [CLI Tools](technologies/confluent/tools/cli-tools.md)
+- [Commands](technologies/confluent/tools/commands.md)
+- [Terraform - Confluent Provider](devops/terraform/confluent-provider.md)
+
+## Technology
+
+- [Kora Engine](technologies/confluent/technology/kora.md)
+- [WarpStream](technologies/confluent/technology/warpstream.md)
+
+## Projects & Resources
+
+- [Podcast: Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+- [Apache Kafka Documentation](technologies/kafka/readme.md)

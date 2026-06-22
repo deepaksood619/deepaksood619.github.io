@@ -15,12 +15,12 @@ updated: 2026-06-11
     - Active-standby architecture
     - Stretch clusters
 - MirrorMaker1 and MirrorMaker2
-	- [mirrormaker](technologies/kafka/mirrormaker.md)
+	- [mirrormaker](technologies/kafka/operations/mirrormaker.md)
 - Other cross-cluster mirroring solutions
     - Uber uReplicator
-    - [replicator](technologies/confluent/replicator.md)
+    - [replicator](technologies/confluent/data-integration/replicator.md)
     - Multi-Region Clusters
-    - [Cluster Linking](technologies/confluent/cluster-linking.md)
+    - [Cluster Linking](technologies/confluent/data-integration/cluster-linking.md)
 
 ## Comparisons
 
@@ -178,6 +178,6 @@ Auto-scaling Kafka is complicated. It usually cannot be done just based on some 
 
 ## Links
 
-- [mirrormaker](technologies/kafka/mirrormaker.md)
-- [cluster-linking](technologies/confluent/cluster-linking.md)
-- [replicator](technologies/confluent/replicator.md)
+- [mirrormaker](technologies/kafka/operations/mirrormaker.md)
+- [cluster-linking](technologies/confluent/data-integration/cluster-linking.md)
+- [replicator](technologies/confluent/data-integration/replicator.md)

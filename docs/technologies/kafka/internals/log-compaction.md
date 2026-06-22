@@ -12,7 +12,7 @@ Kafka log compaction is a **retention policy that keeps only the latest message 
 
 Log compaction is a mechanism to give finer-grained per-record retention, rather than the coarser-grained time-based retention. The idea is to selectively remove records where we have a more recent update with the same primary key. This way the log is guaranteed to have at least the last state for each key.
 
-![image](../../media/Technologies-Kafka-Intro-image2.jpg)
+![image](media/Technologies-Kafka-Intro-image2.jpg)
 
 ## Topic compaction
 

@@ -326,5 +326,5 @@ updated: 2026-02-27
 
 - [Confluent Cloud Networking](technologies/confluent/confluent-cloud-networking/readme.md)
 - [Confluent Cloud Security](technologies/confluent/confluent-cloud-security/readme.md)
-- [govern-data-streams](technologies/confluent/govern-data-streams.md)
-- [confluent-cloud-flink](technologies/confluent/confluent-cloud-flink.md)
+- [govern-data-streams](technologies/confluent/governance/govern-data-streams.md)
+- [confluent-cloud-flink](technologies/confluent/components/confluent-cloud-flink.md)

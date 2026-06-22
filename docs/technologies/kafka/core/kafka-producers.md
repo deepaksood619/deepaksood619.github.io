@@ -12,7 +12,7 @@ The producer is the creator of the message in Kafka
 - Topics should already exist before a message is placed by the producer
 - Messages are added at one end of the partition
 
-![image](../../media/Technologies-Kafka-Kafka-Producers-image1.jpg)
+![image](media/Technologies-Kafka-Kafka-Producers-image1.jpg)
 
 - We start producing messages to Kafka by creating a ProducerRecord, which must include the topic we want to send the record to and a value. Optionally, we can also specifiy a key and/or a partition. Once we send the ProducerRecord, the first thing the producer will do is serialize the key and value objects to ByteArrays so they can be send over the network.
 - Next, the data is sent to a partitioner. If we specified a partition in the ProducerRecord, the partitioner doesn't do anything and simply returns the partition we specified. If we didn't, the partitioner will choose a partition for us, usually based on the ProducerRecord key. Once a partition is selected, the producer knows which topic and partition the record will go to. It then adds the record to a batch of records that will also be sent to the same topic and partition. A separate thread is responsible for sending those batches of records to the appropriate Kafka brokers.
@@ -54,7 +54,7 @@ One of the most interesting features of Avro, and what makes it a good fit for u
 - Unlike Avro files, where storing the entire schema in the data file is associated with a fairly reasonable overhead, storing the entire schema in each record will usually more than double the record size. However, Avro still requires the entire schema to be present when reading the record, so we need to locate the schema elsewhere. To achieve this, we follow a common architecture pattern and use a *Schema Registry*.
 - The idea is to store all the schemas used to write data to Kafka in the registry. Then we simply store the identifier for the schema in the record we produce to Kafka. The consumers can then use the identifier to pull the record out of the schema registry and deserialize the data. The key is that all this work - storing the schema in the reg‐ istry and pulling it up when required - is done in the serializers and deserializers. The code that produces data to Kafka simply uses the Avro serializer just like it would any other serializer.
 
-![image](../../media/Technologies-Kafka-Kafka-Producers-image2.jpg)
+![image](media/Technologies-Kafka-Kafka-Producers-image2.jpg)
 
 - **Partitions**
     - Keys serve two goals: they are additional information that gets stored with the message, and they are also used to decide which one of the topic partitions the message will be written to. All messages with the same key will go to the same partition.

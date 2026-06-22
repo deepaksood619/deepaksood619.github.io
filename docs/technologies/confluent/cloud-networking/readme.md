@@ -9,7 +9,7 @@ updated: 2026-03-11
 2. [02-confluent-cloud-overview](technologies/confluent/confluent-cloud-networking/02-confluent-cloud-overview.md)
 3. [03-secure-public-endpoints](technologies/confluent/confluent-cloud-networking/03-secure-public-endpoints.md)
 4. [Configure a Kafka Cluster with Public Endpoints (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-public-endpoints/)
-	1. [commands](technologies/confluent/commands.md)
+	1. [commands](technologies/confluent/tools/commands.md)
 5. [05-vpc-vpnet-peering-overview](technologies/confluent/confluent-cloud-networking/05-vpc-vpnet-peering-overview.md)
 6. [Configure a VPC Peered Cluster (Hands-On Tutorial)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-vpc-peering/)
 7. [07-aws-transit-gateway](technologies/confluent/confluent-cloud-networking/07-aws-transit-gateway.md)

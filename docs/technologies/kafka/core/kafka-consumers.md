@@ -101,7 +101,7 @@ Each consumer in a consumer group processes records and only one consumer in tha
 
 The partitions of any topics subscribed to by consumers in a consumer group are guaranteed to be assigned to at most one individual consumer in that group at any time. The messages from each topic partition are delivered to the assigned consumer strictly in the order they are stored in the log.
 
-![image](../../media/Technologies-Kafka-Kafka-Consumers-image1.jpg)
+![image](media/Technologies-Kafka-Kafka-Consumers-image1.jpg)
 
 Consumers remember offset where they left off reading. Consumers groups each have their own offset per partition.
 
@@ -109,7 +109,7 @@ Suppose you have an application that needs to read messages from a Kafka topic, 
 
 Kafka consumers are typically part of aconsumer group. When multiple consumers are subscribed to a topic and belong to the same consumer group, each consumer in the group will receive messages from a different subset of the partitions in the topic.
 
-![image](../../media/Technologies-Kafka-Kafka-Consumers-image2.jpg)
+![image](media/Technologies-Kafka-Kafka-Consumers-image2.jpg)
 
 ## Kafka Consumer Load Share
 
@@ -172,7 +172,7 @@ A consumer can see a record after the record gets fully replicated to all follow
 
 Only a single consumer from the same consumer group can access a single partition. If consumer group count exceeds the partition count, then the extra consumers remain idle. Kafka can use the idle consumers for failover. If there are more partitions than consumer group, then some consumers will read from more than one partition.
 
-![image](../../media/Technologies-Kafka-Kafka-Consumers-image3.jpg)
+![image](media/Technologies-Kafka-Kafka-Consumers-image3.jpg)
 
 Notice that server 1 has topic partition P2, P3, and P4, while server 2 has partition P0, P1, and P5. Notice that Consumer C0 from Consumer Group A is processing records from P0 and P2. Notice that no single partition is shared by any consumer from any consumer group. Notice that each partition gets its fair share of partitions for the topics.
 
@@ -192,7 +192,7 @@ If you need to run multiple consumers, then run each consumer in their own threa
 
 Each thread manages a share of partitions for that consumer group.
 
-![image](../../media/Technologies-Kafka-Kafka-Consumers-image4.jpg)
+![image](media/Technologies-Kafka-Kafka-Consumers-image4.jpg)
 
 When a partition gets reassigned to another consumer in the group, the initial position is set to the last committed offset. If the consumer in the example above suddenly crashed, then the group member taking over the partition would begin consumption from offset 1. In that case, it would have to reprocess the messages up to the crashed consumer's position of 6.
 
@@ -224,12 +224,181 @@ The goal here is two-fold: create a balanced assignment, but also minimize the n
 
 https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
 
-### 4.  Cooperative Sticky Assignor (Incremental)
+### 4. Cooperative Sticky Assignor (Incremental)
 
 This is the modern standard (available since Kafka 2.4).
 
 - **The Old Way (Eager Rebalance):** Historically, when a rebalance started, everyone had to stop processing, give up *all* partitions, and wait for new assignments. This is a "stop-the-world" event.
 - **The New Way (Cooperative):** Consumers only give up partitions that *need* to be moved to a different consumer. They keep processing their current partitions while the rebalance happens in the background.
+
+**When to use Cooperative Sticky:**
+
+- High partition count workloads
+- Frequent consumer pod churn or autoscaling
+- Scenarios where rebalances are already expensive
+- Better than Round Robin for reducing partition movement during membership changes
+
+## Rebalance Protocols: Classic vs KIP-848
+
+### Classic Consumer Rebalance Protocol
+
+The traditional rebalance protocol has several characteristics:
+
+**Client-Driven Coordination:**
+
+- Rebalance logic is primarily handled on the consumer side
+- Each consumer maintains its own view of cluster metadata
+- Group-wide synchronization barrier required
+- Thick client implementation with complex state management
+
+**Limitations at Scale:**
+
+- Rebalance cost grows with group size
+- Different clients can have inconsistent metadata views
+- Even cooperative variants retain synchronization barriers
+- Operational complexity increases with heterogeneous client versions
+
+**Regex Subscription Under Classic Protocol:**
+
+When consumers subscribe using regex patterns:
+
+- Regex resolution is performed **client-side**
+- Consumer first requests full metadata from broker
+- Client locally resolves pattern against topic list
+- During rebalances, each consumer may send multiple metadata requests (potentially dozens to hundreds)
+- In stable state, metadata requests occur roughly every 5 minutes per consumer
+
+**Why this is expensive:**
+
+- Metadata responses can be very large (multi-MB for clusters with many topics)
+- Metadata request handling is CPU-intensive on brokers
+- Authorization checks add overhead
+- Large topic counts amplify the problem significantly
+
+### KIP-848: Next-Generation Consumer Rebalance Protocol
+
+KIP-848 (also called `group.protocol=consumer`) is the modern rebalance protocol introduced for Kafka 4.0+.
+
+**Architecture Changes:**
+
+- **Server-Driven Coordination:** Rebalance logic moves from clients to the broker-side group coordinator
+- **Incremental Rebalancing:** Only affected partitions are reassigned, not the entire assignment
+- **Centralized State:** Single source of truth on the broker reduces inconsistency
+- **Broker-Side Regex:** Pattern subscription is resolved on the broker, not the client
+
+**Key Benefits:**
+
+1. **Faster Rebalances:** Reduced coordination overhead and network round-trips
+2. **More Stable Large Groups:** Better handling of high consumer counts
+3. **Reduced Metadata Load:** Broker-side regex eliminates client-side topic enumeration
+4. **Simpler Operations:** Centralized troubleshooting instead of collecting logs from every consumer
+5. **Better Roll Behavior:** Can achieve zero-rebalance cluster rolls in optimal conditions
+
+**Configuration:**
+
+```properties
+group.protocol=consumer  # Enable KIP-848 (Kafka 3.7+)
+```
+
+**When to Use KIP-848:**
+
+- Large consumer groups (hundreds to thousands of consumers)
+- High topic counts combined with regex subscriptions
+- Frequent deployment rolls or pod churn
+- Heterogeneous client versions across the fleet
+- Workloads experiencing metadata storms during rebalances
+
+**Important Considerations:**
+
+- Not all client language bindings support KIP-848 yet (check your client library version)
+- Requires Kafka broker version 3.7+ for full support
+- Migration requires client upgrades across the consumer group
+- Test thoroughly before production rollout
+
+## Metadata Storms and Consumer Scaling
+
+### What is a Metadata Storm?
+
+A metadata storm occurs when many consumers simultaneously request topic metadata from brokers, causing:
+
+- CPU overload on brokers
+- Increased latency for all requests
+- Potential cluster instability or downtime
+- Skewed load distribution during broker rolls
+
+### Common Triggers
+
+1. **Consumer Rebalances:** Especially with classic protocol + regex subscriptions
+2. **Rolling Updates:** Reconnect events concentrate metadata requests on available brokers
+3. **Pod Autoscaling:** Rapid consumer group membership changes
+4. **Network Partitions:** Consumers reconnect simultaneously after recovery
+
+### Why Metadata Requests are Expensive
+
+- **Authorization Overhead:** Each request requires ACL checks
+- **Response Size:** Can reach multiple megabytes for large topic counts
+- **CPU-Intensive Assembly:** Building topic/partition information is computationally expensive
+- **Amplification Effect:** Each consumer in a large group generates multiple requests during rebalance
+
+### Metadata Load Distribution Problems
+
+Under normal operation, metadata load distributes evenly across brokers. However:
+
+- **During Broker Rolls:** Requests accumulate on remaining online brokers
+- **Skew Effect:** A subset of brokers can become overloaded
+- **Cascading Impact:** Overload can block the roll process itself
+
+### Best Practices for Avoiding Metadata Storms
+
+**1. Assignment Strategy Selection:**
+
+- **Avoid:** Round Robin (moves many partitions on each membership change)
+- **Use:** Cooperative Sticky (minimizes partition movement)
+- **Best:** KIP-848 with server-side coordination
+
+**2. Regex Subscription Management:**
+
+- Minimize use of regex patterns where possible
+- Use explicit topic lists when topics are known
+- If using regex, combine with Cooperative Sticky or KIP-848
+- Monitor metadata request rates and response sizes
+
+**3. Metadata Refresh Configuration:**
+
+```properties
+# Classic protocol settings
+metadata.max.age.ms=300000  # Default 5 minutes, increase if stable
+```
+
+**4. Consumer Churn Reduction:**
+
+- Avoid aggressive autoscaling policies during peak hours
+- Implement gradual scale-up/scale-down
+- Use pod disruption budgets to limit simultaneous restarts
+- Schedule maintenance windows for non-peak times
+
+**5. Client Version Management:**
+
+- Standardize client library versions across the fleet
+- Upgrade to clients supporting KIP-848 where possible
+- Avoid mixing very old and very new client versions
+
+### Monitoring Metadata Health
+
+**Key Metrics:**
+
+- Metadata request rate per broker
+- Metadata response size distribution
+- Metadata request latency (p99, p999)
+- Consumer rebalance frequency and duration
+- Broker CPU utilization during rebalances
+
+**Warning Signs:**
+
+- Metadata response sizes exceeding 1MB
+- Rebalances taking longer than expected
+- CPU spikes correlating with consumer membership changes
+- Uneven metadata load across brokers during rolls
 
 ## Links
 

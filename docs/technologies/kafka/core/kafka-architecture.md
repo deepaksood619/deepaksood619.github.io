@@ -21,7 +21,7 @@ Kafka relies heavily on the OS kernel to move data around quickly. It relies on 
 
 Zero-copy means that Kafka sends messages from the file (or more likely, the Linux filesystem cache) directly to the network channel without any intermediate buffers.
 
-![Why is Kafka Fast](../../media/Pasted%20image%2020240213012230.jpg)
+![Why is Kafka Fast](media/Pasted%20image%2020240213012230.jpg)
 
 [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxKPCx8UjOik2iB9rKHDWqgzv_y59aCrDW)
 
@@ -35,11 +35,11 @@ Ideally, the data written to the log segment is written in protocol format. That
 
 When you read messages from the log, the kernel will attempt to pull the data from the page cache. If it's not there, it will be read from disk. The data is copied from disk to page cache, which all happens in kernel space. Next, the data is copied into the application (i.e. user space). This all happens with the read system call. Now the application writes the data out to a socket using send, which is going to copy it back into kernel space to a socket buffer before it's copied one last time to the NIC. All in all, we have four copies (including one from page cache) and two system calls.
 
-![image](../../media/Technologies-Kafka-Kafka-Architecture-image2.jpg)
+![image](media/Technologies-Kafka-Kafka-Architecture-image2.jpg)
 
 However, if the data is already in wire format, we can bypass user space entirely using the send filesystem call, which will copy the data directly from the page cache to the NIC buffer - two copies (including one from page cache) and one system call. This turns out to be an important optimization, especially in garbage-collected languages since we're bringing less data into application memory. Zero-copy also reduces CPU cycles and memory bandwidth.
 
-![image](../../media/Technologies-Kafka-Kafka-Architecture-image3.jpg)
+![image](media/Technologies-Kafka-Kafka-Architecture-image3.jpg)
 
 ### Other Optimizations - Messages batching & Compression
 
@@ -49,7 +49,7 @@ https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-
 
 ## Concepts
 
-![image](../../media/Technologies-Kafka-Kafka-Architecture-image1.jpg)
+![image](media/Technologies-Kafka-Kafka-Architecture-image1.jpg)
 
 - Zookeeper
 - Producer

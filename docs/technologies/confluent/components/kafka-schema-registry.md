@@ -41,7 +41,7 @@ On the **consumer side**, the consumer checks the schema ID from the message ag
 - A REST service for validating, storing, and retrieving [Avro](https://docs.confluent.io/platform/current/_glossary.html#term-Avro), [JSON Schema](https://docs.confluent.io/platform/current/_glossary.html#term-JSON-Schema), and [Protobuf](https://docs.confluent.io/platform/current/_glossary.html#term-Protobuf) schemas
 - Serializers and deserializers that plug into Apache Kafka® clients to handle schema storage and retrieval for Kafka messages across the three formats
 
-![Schema Registry](../../media/Pasted%20image%2020251215171939.png)
+![Schema Registry](media/Pasted%20image%2020251215171939.png)
 
 ### Schema Registry Calls
 

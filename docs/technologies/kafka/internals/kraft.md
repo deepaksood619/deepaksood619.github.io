@@ -32,7 +32,7 @@ The quorum controllers use the new KRaft protocol to ensure that metadata is acc
 
 The event-driven nature of the KRaft protocol means that, unlike the ZooKeeper-based controller, the quorum controller does not need to load state from ZooKeeper before it becomes active. When leadership changes, the new active controller already has all of the committed metadata records in memory. What’s more, the same event-driven mechanism used in the KRaft protocol is used to track metadata across the cluster. A task that was previously handled with RPCs now benefits from being event-driven as well as using an actual log for communication.
 
-![Kafka with KRaft](../../media/Pasted%20image%2020240808170843.jpg)
+![Kafka with KRaft](media/Pasted%20image%2020240808170843.jpg)
 
 ## The controller quorum
 
