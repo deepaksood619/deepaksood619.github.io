@@ -138,6 +138,25 @@ Turn notes into study-ready material without leaving Obsidian.
 	- [me.md - Your Verified Personal Context](https://www.me.md/)
 - [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 26k
 
+### Obsidian Hybrid Search
+
+```bash
+npm install -g obsidian-hybrid-search
+obsidian-hybrid-search reindex
+obsidian-hybrid-search "zettelkasten"
+
+claude mcp add-json obsidian-hybrid-search '{"command":"npx","args":["-y","-p","obsidian-hybrid-search@latest","obsidian-hybrid-search-mcp"],"env":{"OBSIDIAN_VAULT_PATH":"/path/to/your/vault"}}'
+
+```
+
+[GitHub - flowing-abyss/obsidian-hybrid-search: Hybrid search over your Obsidian vault – CLI and MCP server · GitHub](https://github.com/flowing-abyss/obsidian-hybrid-search)
+
+[Hybrid Search — hybrid search MCP server + CLI for AI assistants (BM25 + semantic, Obsidian-native) - #2 by WhiteNoise - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/hybrid-search-hybrid-search-mcp-server-cli-for-ai-assistants-bm25-semantic-obsidian-native/112491/2)
+
+**Alternatives -**
+- [I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian \| Towards Data Science](https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/)
+- [GitHub - ben-vargas/obsidian-vectorize-mcp: Obsidian Vectorize (obvec) - Serverless Vector Search with MCP for your Obsidian notes · GitHub](https://github.com/ben-vargas/obsidian-vectorize-mcp)
+
 ## Obsidian Shortcuts
 
 | **Todo**                       | **Shortcut**                         |

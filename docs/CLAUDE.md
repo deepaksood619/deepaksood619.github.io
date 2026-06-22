@@ -1,308 +1,286 @@
 ---
 slug: /CLAUDE
 title: claude.md
-description: Discover essential guidance for managing your Obsidian vault using CLI, ensuring optimal performance and maintenance of your markdown notes in `/docs`.
+description: Content infrastructure guidance for Obsidian vault management and markdown formatting
 created: 2026-04-15
 updated: 2026-06-22
 ---
 
 **Inherits:** Project infrastructure from [root CLAUDE.md](../CLAUDE.md)
 
-Guidance for working with Obsidian vault in `/docs` using CLI.
+Content infrastructure guidance for working with 7400+ markdown notes in Obsidian vault.
 
-## Environment
+## Quick Reference
 
-- **Vault type:** Obsidian knowledge base (7400+ markdown notes)
-- **Vault location:** `/docs` directory
-- **Obsidian CLI path:** `/Applications/Obsidian.app/Contents/MacOS/Obsidian`
-- **Primary editor:** Obsidian app (macOS)
-- **Secondary publishing:** Docusaurus 3.8 → GitHub Pages
+**Vault Path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
 
-## Critical: Use CLI Over Direct File Operations
+**Obsidian CLI:** `/Applications/Obsidian.app/Contents/MacOS/Obsidian`
 
-**Prefer Obsidian CLI** over direct Read/Write/Edit tools. Direct file operations bypass:
+**Full Obsidian CLI Documentation:** [Obsidian](devops/ides/obsidian.md) - Complete command reference with 100+ examples
 
-- Internal link graph updates
-- Backlink index maintenance
-- Cache invalidation
-- Plugin hooks
+## How to Navigate This Knowledge Base
 
-**When to use direct file ops:** Bulk operations (100+ files) where CLI would be prohibitively slow.
+**Strategy: Layered search from semantic → specific**
 
-## CLI Command Format
+### Step 1: Start with Semantic Search (Primary)
+
+Use Obsidian Hybrid Search MCP for concept-based discovery:
 
 ```bash
-# Binary path
-/Applications/Obsidian.app/Contents/MacOS/Obsidian
+# Find content by concept, not exact keywords
+mcp__obsidian-hybrid-search__search(
+  query="your concept or question",
+  limit=10
+)
 
-# Vault path for this repo
+# Examples:
+"hierarchical configuration patterns"  # → CLAUDE.md, nested configs
+"performance optimization techniques"   # → across devops, databases, ai
+"version control best practices"       # → git workflows, CI/CD
+"knowledge management systems"          # → wikis, Obsidian, research
+```
+
+**When to use:** Almost always - start here for finding content
+
+**Why:** Understands concepts, finds related content across folders without exact keyword matches
+
+### Step 2: Augment with Text Search (When Needed)
+
+Use when you need exact keywords or phrases:
+
+```bash
+# Obsidian CLI keyword search
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="exact phrase" vault="$VAULT"
+
+# Or Bash grep for patterns
+grep -r "specific_function_name" docs/
+grep -r "CRITICAL:" docs/CLAUDE.md
+```
+
+**When to use:**
+- Looking for specific code/function names
+- Finding exact error messages
+- Searching for specific commands or syntax
+- Known exact phrase you're looking for
+
+### Step 3: Use File Structure Heuristics
+
+Understand the taxonomy to browse directly:
+
+```bash
+# Tool configs → devops/ides/
+ls docs/devops/ides/
+
+# AI/LLM topics → ai/llm/
+ls docs/ai/llm/
+
+# LLM-maintained KBs → economics/, education/, ideas/
+ls docs/economics/
+ls docs/education/
+ls docs/ideas/
+
+# Find by pattern
+find docs/ -name "*claude*"
+find docs/ -name "*config*"
+```
+
+**When to use:**
+- You know the general category/folder
+- Browsing related content
+- Understanding vault organization
+
+### Step 4: Read Similar Files for Context
+
+Once you find one relevant file, explore its neighborhood:
+
+```bash
+# Find backlinks (what links TO this file)
+mcp__obsidian-hybrid-search__read(paths=["file.md"], related=true)
+
+# Or use Obsidian CLI
+/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="file.md" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="file.md" vault="$VAULT"
+
+# Check siblings in same folder
+ls -la "$(dirname path/to/file.md)"
+```
+
+**When to use:**
+- Found one relevant file, need related content
+- Building context around a topic
+- Following knowledge graph connections
+
+### Decision Tree
+
+```
+Need to find content?
+├─ Conceptual/topic-based? → Use semantic search (Step 1)
+├─ Exact keyword/phrase? → Use text search (Step 2)
+├─ Know the category? → Use file structure (Step 3)
+└─ Found one file, need related? → Use graph navigation (Step 4)
+```
+
+### Example Workflow
+
+**Task:** Find best practices for organizing documentation
+
+```bash
+# Step 1: Semantic search
+mcp__obsidian-hybrid-search__search(
+  query="documentation organization best practices"
+)
+# → Finds: CLAUDE.md files, Obsidian guides, knowledge management
+
+# Step 2: (Optional) Exact phrase search if needed
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="best practices" vault="$VAULT"
+
+# Step 3: Browse category if you know it
+ls docs/devops/ides/  # → claude-md-best-practices.md, obsidian.md
+
+# Step 4: Find related content
+mcp__obsidian-hybrid-search__read(
+  paths=["devops/ides/claude-md-best-practices.md"],
+  related=true
+)
+# → Shows backlinks and outgoing links
+```
+
+## Critical Rules
+
+### 1. Prefer Obsidian CLI Over Direct File Operations
+
+Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache invalidation.
+
+**Exception:** Bulk operations (100+ files) where CLI is too slow.
+
+### 2. NEVER Auto-Commit to Git
+
+**CRITICAL:** Never run `git commit` automatically. Always require explicit user approval.
+
+- ❌ Don't commit after edits
+- ❌ Don't commit in loops/workflows
+- ✅ Only commit when user explicitly asks: "commit these changes"
+
+### 3. Markdown Formatting (Docusaurus)
+
+**Page structure:**
+- NO H1 heading (title comes from frontmatter)
+- Blank lines between all blocks (paragraphs, lists, code, tables)
+- Natural language slugs: `/topic-name` NOT `/folder/path/topic-name`
+
+**Code blocks:**
+- Always specify language: ```python, ```bash, ```javascript
+
+**MDX compatibility:**
+- Escape `<` `>` with backticks: `<50`, `>100`
+- Don't use `[]` square brackets without escaping
+
+**Links:**
+- Standard markdown only (no wikilinks `[[]]`)
+- Use relative paths for internal links
+- Full documentation: See "Markdown Writing Guidelines" section below
+
+### 4. Semantic Search Available
+
+**Use Obsidian Hybrid Search MCP for finding content:**
+
+```bash
+# Semantic search - understands concepts, not just keywords
+mcp__obsidian-hybrid-search__search(query="hierarchical configuration", limit=5)
+
+# Example queries:
+"project setup and configuration"     # → finds CLAUDE.md, settings
+"version control workflows"            # → finds git, CI/CD content
+"performance optimization"             # → finds across devops, databases, ai
+"organizing documentation"             # → finds Obsidian, wikis, knowledge bases
+```
+
+**Modes:** Hybrid (semantic + BM25 + fuzzy title), semantic-only, keyword-only, title-matching
+
+**This solves:** Finding conceptually related content across different folders without exact keyword matches.
+
+### 5. Content Taxonomy
+
+**LLM-Maintained Knowledge Bases** (have CLAUDE.md):
+- `economics/` - Financial research, company analysis, taxation
+- `economics/company-analysis/` - Fundamental/technical analysis
+- `education/` - Education startup research wiki
+- `ideas/` - Multi-domain startup research
+
+**Passive Note Collections** (inherit from this file):
+- `ai/`, `databases/`, `algorithms/`, `book-summaries/`, etc.
+- No CLAUDE.md needed - automatically inherit all rules
+
+**Tool Configuration:**
+- `devops/ides/` - IDE configs, editor settings, tool integrations
+
+## Obsidian CLI Usage
+
+**Command syntax:** `key=value` pairs (NOT `--flags`)
+
+```bash
 VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs"
-
-# Command syntax: key=value pairs, NOT --flags
 /Applications/Obsidian.app/Contents/MacOS/Obsidian <command> vault="$VAULT" key="value"
-
-# Quote values with spaces
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="machine learning" vault="$VAULT"
-
-# Use \n for newline, \t for tab in content values
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="note.md" content="Line 1\nLine 2" vault="$VAULT"
 ```
 
-**File resolution:**
-
-- `file=<name>` - resolves by name (like wikilinks)
-- `path=<path>` - exact path (folder/note.md)
-- Most commands default to active file when file/path omitted
-
-## Core Commands
-
-### Search
+**Essential commands:**
 
 ```bash
-# Full-text search
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="neural networks" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="deep learning" path="ai" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="embeddings" limit=10 vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="API" total vault="$VAULT"  # count only
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="regex.*pattern" case vault="$VAULT"  # case-sensitive
+# Search
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="text" vault="$VAULT"
 
-# Search with context (shows matching lines)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search:context query="transformer" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search:context query="attention" path="ai" format=json vault="$VAULT"
+# Read file
+/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="file.md" vault="$VAULT"
 
-# Open search UI
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search:open query="initial query" vault="$VAULT"
-```
+# Create file
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="new.md" content="text" vault="$VAULT"
 
-### Read & Navigate
-
-```bash
-# Read file content
-/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="ai/transformers.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian read file="transformers" vault="$VAULT"  # resolve by name
-
-# Open in Obsidian app
-/Applications/Obsidian.app/Contents/MacOS/Obsidian open path="ai/machine-learning.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian open path="databases/clickhouse.md" newtab vault="$VAULT"
-
-# Random note
-/Applications/Obsidian.app/Contents/MacOS/Obsidian random vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian random folder="ai" newtab vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian random:read folder="book-summaries" vault="$VAULT"
-
-# File info
-/Applications/Obsidian.app/Contents/MacOS/Obsidian file path="ai/transformers.md" vault="$VAULT"
-```
-
-### Edit Content
-
-```bash
 # Append content
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ai/notes.md" content="New section\n\nContent here" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="file.md" content="text" vault="$VAULT"
 
-# Prepend content
-/Applications/Obsidian.app/Contents/MacOS/Obsidian prepend path="ai/readme.md" content="Updated: 2026-04-15\n" vault="$VAULT"
+# Find backlinks
+/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="file.md" vault="$VAULT"
 
-# No native "edit" or "close" - use append/prepend or direct Edit tool
-# For complex edits, use Read tool + Edit tool + reload vault
-```
-
-### Graph Navigation
-
-```bash
-# Backlinks (incoming links)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ai/transformers.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="databases/vector-db.md" counts vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ai/llm.md" total vault="$VAULT"  # count only
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="book.md" format=json vault="$VAULT"
-
-# Outgoing links
-/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="ai/transformers.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="readme.md" total vault="$VAULT"
-
-# Unresolved links (broken links across vault)
+# Find broken links
 /Applications/Obsidian.app/Contents/MacOS/Obsidian unresolved vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian unresolved total vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian unresolved counts verbose vault="$VAULT"
 
-# Orphans (no incoming links)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian orphans vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian orphans total vault="$VAULT"
-
-# Dead-ends (no outgoing links)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian deadends vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian deadends total vault="$VAULT"
-```
-
-### File Management
-
-```bash
-# Create new note
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ai/new-topic.md" content="# New Topic\n\nContent" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create name="meeting-notes" template="default" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="temp.md" content="Quick note" open vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="test.md" overwrite vault="$VAULT"  # overwrite existing
-
-# Move/rename (preserves backlinks)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian move path="old/file.md" to="new/location.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian move path="temp.md" to="archive/" vault="$VAULT"  # move to folder
-/Applications/Obsidian.app/Contents/MacOS/Obsidian rename path="old-name.md" name="new-name.md" vault="$VAULT"
-
-# Delete (updates references)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian delete path="temp.md" vault="$VAULT"  # moves to trash
-/Applications/Obsidian.app/Contents/MacOS/Obsidian delete path="temp.md" permanent vault="$VAULT"  # skip trash
-
-# List files
-/Applications/Obsidian.app/Contents/MacOS/Obsidian files vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian files folder="ai" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian files ext=md total vault="$VAULT"
-
-# List folders
-/Applications/Obsidian.app/Contents/MacOS/Obsidian folders vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian folders folder="databases" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian folder path="ai" info=files vault="$VAULT"
-```
-
-### Tags & Properties
-
-```bash
-# List all tags
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tags vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tags total vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tags counts sort=count vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tags path="ai/ml.md" vault="$VAULT"  # tags in file
-
-# Tag info
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tag name="#machine-learning" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tag name="#ai" total vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian tag name="#database" verbose vault="$VAULT"  # with file list
-
-# Properties (frontmatter)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian properties vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian properties path="ai/ml.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian properties counts format=json vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian property:read name="author" path="book.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian property:set name="status" value="draft" path="note.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian property:remove name="old-field" path="note.md" vault="$VAULT"
-```
-
-### Utilities
-
-```bash
-# Outline/headings
-/Applications/Obsidian.app/Contents/MacOS/Obsidian outline path="ai/transformers.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian outline path="readme.md" format=json vault="$VAULT"
-
-# Word count
-/Applications/Obsidian.app/Contents/MacOS/Obsidian wordcount path="book-summaries/sapiens.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian wordcount path="note.md" words vault="$VAULT"  # words only
-
-# Recent files
-/Applications/Obsidian.app/Contents/MacOS/Obsidian recents vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian recents total vault="$VAULT"
-
-# Daily notes
-/Applications/Obsidian.app/Contents/MacOS/Obsidian daily vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian daily:read vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian daily:append content="Update" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian daily:path vault="$VAULT"
-
-# Vault info
-/Applications/Obsidian.app/Contents/MacOS/Obsidian vault vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian vault info=files vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian reload vault="$VAULT"  # reload vault
-```
-
-## Working with This Vault
-
-### Content Organization
-
-- **7400+ notes** across 280 folders
-- **Zettelkasten method:** Atomic notes with dense cross-linking
-- **No number prefixes:** Filenames are semantic (`machine-learning.md`)
-- **Media storage:** `/docs/media/` for images/diagrams
-- **Mermaid diagrams:** Use ```mermaid blocks (Docusaurus-compatible)
-
-### Link Format Requirements
-
-**CRITICAL:** Use standard markdown links, NOT Obsidian wikilinks.
-
-❌ Wrong: `[[machine-learning]]` (breaks Docusaurus)
-✅ Correct: `[Machine Learning](ai/machine-learning.md)`
-
-### Common Workflows
-
-**Find related notes:**
-
-```bash
-VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs"
-
-# Get bidirectional links
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ai/transformers.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="ai/transformers.md" vault="$VAULT"
-
-# Search mentions
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="attention mechanism" path="ai" vault="$VAULT"
-```
-
-**Add new note:**
-
-```bash
-# Create + open
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="databases/new-db.md" content="# New Database\n\nNotes" open vault="$VAULT"
-
-# Add cross-reference
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="databases/new-db.md" content="\n\nSee: [SQL](../databases-sql/basics.md)" vault="$VAULT"
-```
-
-**Bulk operations:**
-
-```bash
-# For 100+ files, use direct tools then reload
-# Example: Grep + Edit for replacements
+# Reload vault
 /Applications/Obsidian.app/Contents/MacOS/Obsidian reload vault="$VAULT"
 ```
 
-## Integration with Docusaurus
-
-Dual-purpose: Obsidian vault + Docusaurus site source.
-
-**Build validations:**
-
-- Broken links → build fails (`onBrokenLinks: 'throw'`)
-- Invalid MDX → pre-commit hook catches
-- Large files → pre-commit blocks
-
-**Workflow:**
-
-1. Use Obsidian CLI for structural changes (create/move/link)
-2. Preview: `npm start` (localhost:3000)
-3. Validate: `npm run build` (fails on broken links)
-4. Commit → auto-deploy to GitHub Pages
+**Full command reference:** [Obsidian](devops/ides/obsidian.md) - 200+ lines with search, navigation, graph, tags, properties, utilities
 
 ## Markdown Writing Guidelines for Docusaurus
 
-**CRITICAL:** Obsidian renders markdown differently than Docusaurus. Follow these rules to ensure proper rendering on the website.
-
-### Blank Lines & Spacing
-
-**Always use blank lines between:**
-
-- Paragraphs (two consecutive lines without blank line = single line in Docusaurus)
-- After headings (heading immediately followed by text may render incorrectly)
-- Before and after lists
-- Before and after code blocks
-- Before and after tables
-- Before and after blockquotes
-
-**Example:**
+### Frontmatter (Required)
 
 ```markdown
-# Heading
+---
+slug: /natural-language-topic-name
+title: Descriptive Title
+description: One-line summary
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+```
 
-Paragraph 1 here.
+**Slug rules:**
+- Use natural language: `/claude-md-best-practices`
+- NOT folder-based: `~/devops/ides/claude-md-best-practices~`
+- Prevents 404s when files move
 
-Paragraph 2 here.
+### Page Structure
+
+```markdown
+---
+title: My Topic
+---
+
+Content starts here... (NO H1 heading!)
+
+## First Section
+
+Paragraph with blank line before and after.
 
 - List item 1
 - List item 2
@@ -310,119 +288,41 @@ Paragraph 2 here.
 More content.
 ```
 
-❌ **Wrong (renders as single line):**
-
-```markdown
-Line 1
-Line 2
-```
-
-✅ **Correct (renders as two paragraphs):**
-
-```markdown
-Line 1
-
-Line 2
-```
-
 ### Code Blocks
 
-**Always specify language for syntax highlighting:**
-
 ```markdown
-# Good
 ​```python
 def hello():
     print("world")
 ​```
-
-​```bash
-npm start
-​```
-
-​```javascript
-const x = 1;
-​```
-
-# Bad (no syntax highlighting)
-​```
-code here
-​```
 ```
 
-**Supported languages:** python, bash, javascript, typescript, java, go, rust, sql, json, yaml, xml, markdown, jsx, tsx, shell, sh, etc.
+**Supported languages:** python, bash, javascript, typescript, java, go, rust, sql, json, yaml, xml, markdown, jsx, tsx, shell, sh
 
-### MDX compatibility
+### MDX Compatibility
 
-- don't use `[]` square brackets without escape, since these are used by obsidian/html for links/anchor tags
-
-### Additional Best Practices
-
-**Page Titles:**
-
-- **Do NOT add H1 heading** (`# Title`) at the top of markdown files
-- Docusaurus uses the `title` field from frontmatter to generate page titles
-- Adding an H1 heading creates redundant duplicate titles on the page
-
-**Example:**
-
-```markdown
 ❌ Wrong:
----
-title: CLAUDE.md Best Practices
----
-
-# CLAUDE.md Best Practices  ← Redundant, don't add this!
-
-Content starts here...
+```markdown
+Value <50 or >100
+```
 
 ✅ Correct:
----
-title: CLAUDE.md Best Practices
----
-
-Content starts here...  ← No H1 heading needed
-```
-
-**Slug Naming:**
-
-- **Use natural language slugs**, NOT folder-based paths
-- Slugs should be descriptive and independent of file location
-- This prevents 404 errors when files are moved between folders
-
-**Example:**
-
 ```markdown
-❌ Wrong (folder-based):
----
-slug: /devops/ides/claude-md-best-practices
----
-
-✅ Correct (natural language):
----
-slug: /claude-md-best-practices
----
+Value `<50` or `>100`
 ```
 
-**Rationale:**
-
-- Files can be moved to different folders without updating slug
-- No broken links when folder structure is reorganized
-- Cleaner, more memorable URLs
-- Slug becomes the canonical identifier, not the file path
+### Links & Images
 
 **Links:**
-
-- Use relative paths for internal links
-- Standard markdown syntax only (no wikilinks)
+- Standard markdown: `[Text](path/to/file.md)`
+- NO wikilinks: `~~[[wikilink]]~~`
+- Use relative paths
 
 **Images:**
-
 - Store in `/docs/media/`
-- Use relative paths: `![alt](../media/image.png)`
-- Optimize size before committing
+- Reference: `![alt](../media/image.png)`
 
-**Mermaid diagrams:**
+### Mermaid Diagrams
 
 ```markdown
 ​```mermaid
@@ -431,16 +331,84 @@ graph TD
 ​```
 ```
 
-## Preferences
+## Working with This Vault
 
-- **Link format:** Standard markdown only (never wikilinks)
-- **File naming:** Semantic, lowercase, hyphens (`deep-learning.md`)
-- **Frontmatter:** Optional (Docusaurus generates titles)
-- **Diagrams:** Mermaid syntax in code blocks
-- **Images:** Relative paths to `/docs/media/`
-- **Spacing:** Blank lines between all content blocks
-- **Code blocks:** Always specify language
+### Content Organization
+
+- **7400+ notes** across 280 folders
+- **Zettelkasten method:** Atomic notes with cross-linking
+- **Media:** All images in `/docs/media/`
+- **No number prefixes:** Semantic filenames only
+
+### Common Workflows
+
+**Add new note:**
+```bash
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="folder/topic.md" content="# Topic\n\nContent" open vault="$VAULT"
+```
+
+**Find related notes:**
+```bash
+# Backlinks (incoming)
+/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="file.md" vault="$VAULT"
+
+# Outgoing links
+/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="file.md" vault="$VAULT"
+
+# Search mentions
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="keyword" vault="$VAULT"
+```
+
+**Bulk operations:**
+```bash
+# For 100+ files, use direct tools then reload
+# Example: grep + Edit for bulk replacements
+/Applications/Obsidian.app/Contents/MacOS/Obsidian reload vault="$VAULT"
+```
+
+### Maintenance
+
+**Check vault health:**
+```bash
+# Find orphans (no incoming links)
+/Applications/Obsidian.app/Contents/MacOS/Obsidian orphans vault="$VAULT"
+
+# Find broken links
+/Applications/Obsidian.app/Contents/MacOS/Obsidian unresolved vault="$VAULT"
+
+# Find dead-ends (no outgoing links)
+/Applications/Obsidian.app/Contents/MacOS/Obsidian deadends vault="$VAULT"
+```
+
+## Integration with Docusaurus
+
+**Build validation:**
+- Broken links → build fails (`onBrokenLinks: 'throw'`)
+- Invalid MDX → pre-commit hook catches
+- Large files → pre-commit blocks
+
+**Workflow:**
+1. Use Obsidian CLI for structural changes
+2. Preview: `npm start` (localhost:3000) in local clone
+3. Validate: `npm run build` in local clone
+4. Commit → auto-deploy to GitHub Pages
 
 ## Important Guidelines
 
-- Refrain from searching or accessing files inside `office/*` folder. It contains sensitive data. Accessing any file in this folder require explicit ask and an approval to access those exact files or lines.
+- ✅ **Use semantic search** (Obsidian Hybrid Search MCP) to find content by concept, not just keywords
+- ✅ **Prefer Obsidian CLI** for file operations
+- ✅ **Use natural language slugs** independent of folder paths
+- ✅ **No H1 headings** - title comes from frontmatter
+- ✅ **Blank lines** between all content blocks
+- ✅ **Code blocks** always specify language
+- ✅ **Escape MDX** special chars: `<` `>` in backticks
+- ❌ **NEVER auto-commit** - require explicit user approval
+- ❌ **No wikilinks** - standard markdown only
+- ❌ **No folder-based slugs** - use natural language
+- ⚠️ **Office folder** - Never access `office/*` without explicit approval (sensitive data)
+
+## External References
+
+- **Full Obsidian CLI Reference:** [Obsidian](devops/ides/obsidian.md)
+- **CLAUDE.md Hierarchy Guide:** [CLAUDE.md Best Practices](devops/ides/claude-md-best-practices.md)
+- **Project Infrastructure:** [Root CLAUDE.md](../CLAUDE.md)
