@@ -210,7 +210,28 @@ ls docs/<full-path-to-target>  # Must exist
 
 **Add 2-5 cross-references** from most relevant pages found in semantic search.
 
-### Step 6: Report Summary
+### Step 6: Audit Folder After File Creation
+
+**After creating a new file, audit the containing folder:**
+
+```bash
+# List all files in the category folder
+ls -la docs/<category>/
+
+# Check for reorganization opportunities
+# - Are there files that should be grouped?
+# - Should this be a subfolder instead?
+# - Are there similar files that need consistent naming?
+```
+
+**Audit checklist:**
+- ✅ Check if files should be grouped into subfolders
+- ✅ Check if new file belongs in different category
+- ✅ Check if numbered prefixes needed for ordering
+- ✅ Check if similar files need reorganization
+- ✅ Suggest improvements but always confirm before reorganizing
+
+### Step 7: Report Summary
 
 ```markdown
 ✅ **Created:** `docs/<category>/<topic>.md`
@@ -225,9 +246,29 @@ ls docs/<full-path-to-target>  # Must exist
 📊 **Found existing references:**
   - docs/<old-mention1>.md (updated to link)
   - docs/<old-mention2>.md (updated to link)
+
+🔍 **Folder audit:** [No reorganization needed / Suggested: <reorganization-suggestion>]
 ```
 
 ## Decision Rules
+
+### Evergreen Content Only
+
+**Write to notes (✅):**
+- Permanent facts and concepts
+- Technical documentation and how-tos
+- Best practices and patterns
+- Reference material and guides
+- Learnings that will be useful later
+
+**Keep in chat only (❌):**
+- Temporary analysis or investigation results
+- Context-specific debugging output
+- One-time answers to specific questions
+- Transient project status or progress updates
+- Session-specific reasoning or thought process
+
+**Rule:** If it won't be useful in 6 months, keep it in chat.
 
 ### UPDATE vs CREATE
 

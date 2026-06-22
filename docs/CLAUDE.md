@@ -176,6 +176,33 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - Example: `01-introduction.md`, `02-core-concepts.md`, `03-advanced.md`
 - Only use when explicit ordering is important (tutorials, guides, sequential content)
 
+**Folder audit when adding files:**
+- After creating a new file, audit the containing folder
+- Check if reorganization is needed (grouping related files)
+- Check if recategorization is needed (file belongs in different folder)
+- Check if new subfolder structure would improve organization
+- Suggest changes but always confirm before reorganizing
+
+### 2.6. Write Evergreen Notes Only
+
+**CRITICAL:** Only write notes that are evergreen facts, learnings, and reference material. Temporary/contextual information stays in chat.
+
+**Write to notes (✅):**
+- Permanent facts and concepts
+- Technical documentation and how-tos
+- Best practices and patterns
+- Reference material and guides
+- Learnings that will be useful later
+
+**Keep in chat only (❌):**
+- Temporary analysis or investigation results
+- Context-specific debugging output
+- One-time answers to specific questions
+- Transient project status or progress updates
+- Session-specific reasoning or thought process
+
+**Rule of thumb:** If it won't be useful in 6 months, keep it in chat.
+
 ### 3. Markdown Formatting (Docusaurus)
 
 **Page structure:**
