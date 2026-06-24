@@ -3,9 +3,9 @@ slug: /knowledge/links
 title: Links
 description: Discover daily top headlines, insightful analyses, and essential video links curated for your knowledge and growth in news, finance, and technology.
 created: 2023-09-16
-updated: 2026-05-26
+updated: 2026-06-22
 ---
-### Daily
+## Daily
 
 - Top US and world headlines
 - Byju The Hindu news analysis
@@ -16,7 +16,7 @@ updated: 2026-05-26
 - Finshots
 - [youtube-podcasts-magazine-apps](knowledge/youtube-podcasts-magazine-apps.md)
 
-### IMP Links
+## IMP Links
 
 - [WTF is wrong with Dhurandhar? Hint: Nothing - YouTube](https://www.youtube.com/watch?v=VLQhxgObuIk)
 	- Narrative Violence
@@ -50,7 +50,7 @@ updated: 2026-05-26
 - [HOW TO CHANGE THE LIVES OF 300 CHILDREN IN AFRICA 🇿🇼](https://youtu.be/-dSJ7grd73U?si=m59tfcf0AqTfxO9c)
 - [How Japan Finally Made It Impossible to Make Babies](https://youtu.be/1QPMcWpJEgM)
 
-### Other Links
+## Other Links
 
 1. [Does More Freedom at Work Mean More Fulfillment? | TED - YouTube](https://www.youtube.com/watch?v=cCGoITBH2IU)
 2. [Birds Aren’t Real? How a Conspiracy Takes Flight | Peter McIndoe | TED - YouTube](https://www.youtube.com/watch?v=3VEkzweBJPM)

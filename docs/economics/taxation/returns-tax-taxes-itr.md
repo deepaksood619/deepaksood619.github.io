@@ -3,7 +3,7 @@ slug: /economics/taxation/returns-tax-taxes-itr
 title: Returns / Tax / Taxes / ITR
 description: Discover essential insights on tax returns, consultations, and input tax credits for FY 2022-2023 to optimize your tax strategy and compliance.
 created: 2025-02-05
-updated: 2026-06-13
+updated: 2026-06-23
 ---
 - https://taxbuddy.com
 - Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
@@ -14,25 +14,37 @@ updated: 2026-06-13
 - Financial Year: 2022 - 2023
 - Assessment Year: 2023 - 2024
 
-### Input tax credit
+## Input tax credit
 
 - [Input Tax Credit under GST - Conditions To Claim](https://cleartax.in/s/input-tax-credit-under-gst)
 - [Input Tax Credit (ITC) under GST Explained](https://cleartax.in/s/gst-input-tax-credit)
 - [What is Input Tax Credit (ITC) under GST with Example?](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
 
-### Direct and indirect taxes
+## Direct and indirect taxes
 
 - Direct taxes are paid directly to the government and are levied on one's income and profits.
 - Indirect taxes are totally opposite and are paid to the government if one makes any purchases of goods and services.
 
-## CA
+## ITR - CA
 
 1. Insurance receipt
 2. NGO receipt
 3. Add your name while filling, and not from individual portal
 4. HUF / consultant (for better tax savings)
+5. F&O - 2.5 lakh profit exemption per financial year
 
-F&O - 2.5 lakh profit exemption per financial year
+### Things to share
+
+1. ITR-2 - Foreign Holdings (Under LRS) - ETFs
+	1. Submit Form - A3 - Foreign Holdings
+2. Payslips
+3. Rent Receipts & Agreement
+4. Insurance Receipts
+5. PPF and NPS
+6. Passive Income Details
+7. FDs
+8. Zerodha - Transaction Details - LTCG
+9. TCS (if any)
 
 ## Freelancing / Freelancer / Consulting
 

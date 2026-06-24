@@ -3,7 +3,7 @@ slug: /ideas/creating-a-business-startup
 title: Creating a Business / Startup
 description: Learn how to create a successful startup by addressing key challenges like capital, product-market fit, scaling distribution, and monetization strategies.
 created: 2023-03-05
-updated: 2026-05-21
+updated: 2026-06-23
 ---
 Brand name - [How to create a great brand name | Jonathan Bell](https://youtu.be/rzbXht7MJVM)
 
@@ -16,7 +16,7 @@ You will have either of the 4 problems while building a startup
 - able to distribute your product at scale
 - ensuring you are able to monetise
 
-### Business Questions
+## Business Questions
 
 **There are two questions that every founder, product manager, or marketer needs to answer.**
 Most people fixate on the first. Others jump straight to the second.
@@ -29,7 +29,7 @@ _What_ makes your product the obvious choice?
 _How_ will you deliver on that promise?
 _How_ do you scale, adapt, and keep customers coming back?
 
-### AI
+## AI
 
 CreateMVPs.app
 
@@ -37,7 +37,7 @@ CreateMVPs.app
 - Replit
 - Lovable
 
-### 15 day tech startup launch plan
+## 15 day tech startup launch plan
 
 [Firstbase \| Incorporation, compliance, bookkeeping, and taxes – all in one place.](https://www.firstbase.io/)
 
@@ -374,3 +374,6 @@ The worst mistakes founders make
 - India 2,3 don't pay, and they use voice a lot
 - [Top 15 Business to Build in 2026 \| Business \| Sarthak Ahuja - YouTube](https://www.youtube.com/watch?v=TKl17I6BzEw)
 - [Requests for Startups \| Y Combinator](https://www.ycombinator.com/rfs)
+- [Why Your Favorite Celebrity Brands Are Struggling \| FULL BREAKDOWN - YouTube](https://www.youtube.com/watch?v=ISNfg0ohgsI)
+	- Repeat
+	- Brand Recall

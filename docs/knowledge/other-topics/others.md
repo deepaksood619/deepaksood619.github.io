@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/others
 title: Others
 description: Explore the impacts of poverty and hunger in India, global hunger statistics, and understand the intelligence cycle model in this insightful analysis.
 created: 2023-07-10
-updated: 2026-05-01
+updated: 2026-06-24
 ---
 ## Poverty
 
@@ -58,3 +58,8 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 - ["We are in a debt trap" - Nouriel Roubini on 10 ‘megathreats’ to our world and how to stop them - YouTube](https://www.youtube.com/watch?v=ADh6QTp8798)
 - [The financial crisis no one is fixing | Business Beyond - YouTube](https://www.youtube.com/watch?v=JGfdo-mlU7k&ab_channel=DWNews) - Retirement Crisis
 - [The Most Dangerous Weapon Is Not Nuclear - YouTube](https://www.youtube.com/watch?v=9FppammO1zk)
+- [How (and Why) SpaceX Will Colonize Mars — Wait But Why](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html)
+
+![Indigo vs Purple vs Violet](media/Screenshot%202026-06-24%20at%2012.12.49%20AM.png)
+
+- Violet, indigo, and purple are all closely related colors found between red and blue on the color wheel. The three primary colors are red, yellow, and blue. The three secondary colors are orange, green, and purple. By mixing together primary colors you get secondary colors. Purple, Indigo, and Violet are all made by mixing together red and blue in varying amounts.

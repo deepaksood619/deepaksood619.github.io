@@ -3,7 +3,7 @@ slug: /economics/personal-finance/wealth-building/personal-finance-framework
 title: Personal Finance Framework - The 4 Pillars
 description: Discover the 4 pillars of personal finance to achieve stability; protect your wealth, invest wisely, manage debt, and plan for retirement effectively.
 created: 2026-06-09
-updated: 2026-06-16
+updated: 2026-06-23
 ---
 ## Overview
 
@@ -407,6 +407,7 @@ From CA Rachana Ranade:
 - [What return should I use while planning for retirement 20 year away?](https://freefincal.com/what-return-should-i-use-while-planning-for-retirement-20-year-away/)
 - [Doing Nothing with Your Investments: Superpower or Slow Trap?](https://freefincal.com/doing-nothing-with-your-investments-superpower-or-slow-trap/)
 - [How Your Risk Profile Evolves as Your Corpus Grows](https://freefincal.com/how-your-risk-profile-evolves-as-your-corpus-grows/)
+- [The Role Model Trap: Why Emulating Successful Investors Can Backfire](https://freefincal.com/the-role-model-trap-why-emulating-successful-investors-can-backfire/)
 
 ## Related Topics
 

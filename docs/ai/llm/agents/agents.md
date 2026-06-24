@@ -3,7 +3,7 @@ slug: /ai/llm/agents/agents
 title: Agents
 description: Explore the world of AI agents, autonomous entities that perceive, reason, and execute tasks to revolutionize automation and enhance decision-making.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-23
 ---
 - Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
 - An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
@@ -130,3 +130,4 @@ The benefits are real — better output quality, independent improvability of ea
 - [agentic-frameworks-deep-dive-analysis](ai/llm/agents/agentic-frameworks-deep-dive-analysis.md)
 - [langgraph-vs-semantic-kernel](ai/llm/agents/langgraph-vs-semantic-kernel.md)
 - [frontend-ui-frameworks-libraries](ai/llm/agents/frontend-ui-frameworks-libraries.md)
+- [GitHub - context-labs/HALO: Hierarchal Agent Loop Optimizer · GitHub](https://github.com/context-labs/halo)

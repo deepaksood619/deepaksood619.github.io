@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-06-18
+updated: 2026-06-23
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -12,7 +12,7 @@ updated: 2026-06-18
 | Index                | US Domiciled ETFs | Ireland Domiciled |
 | -------------------- | ----------------- | ----------------- |
 | S&P 500              | VOO               | CSPX              |
-| Nasdaq-100           | QQQ               | CSNDX             |
+| Nasdaq-100           | QQQM              | CSNDX             |
 | FTSE All World Index | VT                | VWRA              |
 
 - https://fundrise.com/vcx

@@ -157,7 +157,7 @@ updated: <YYYY-MM-DD>
 
 **Code blocks (CRITICAL):**
 
-- Always fence code blocks with language: ```python, ```bash, ```json
+- Always fence code blocks with language: ```python,```bash, ```json
 - For plain text, use ```text (not unfenced)
 - NEVER use unfenced code blocks - they break Docusaurus rendering
 
@@ -325,7 +325,7 @@ ls -la docs/<category>/
 
 - **High relevance match (score >0.8):** Add link
 - **Medium relevance (0.5-0.8):** Add link if topic is central to page
-- **Low relevance (<0.5):** Skip
+- **Low relevance (`<0.5`):** Skip
 - **Target:** 2-5 cross-references minimum
 
 ## Critical Rules
@@ -524,7 +524,7 @@ Updated: <sections-updated>
 
 **Action:** Add link to most relevant page (highest semantic score)
 
-Skip pages with semantic score <0.5
+Skip pages with semantic score `<0.5`
 
 ## Success Criteria
 

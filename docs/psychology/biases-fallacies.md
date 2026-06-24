@@ -3,7 +3,7 @@ slug: /psychology/biases-fallacies
 title: Biases / Fallacies
 description: Explore logical fallacies, including formal and informal types, to enhance your arguments and detect misleading information in discussions.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-06-23
 ---
 There are two major types of **logical fallacies**
 
@@ -65,7 +65,7 @@ Thinking we know more than we do
     - Listens to people and media persons that agree with them and dismiss others that challenge their world views
 - We'll go a long way to reduce the feeling that our thoughts or actions don't line up with the way we see ourselves or the world
 
-#### Example
+### Example
 
 Fox tries to reach grapes that are out of his reach
 
@@ -89,7 +89,7 @@ Survivorship biasorsurvival biasis the [logical error](https://en.wikipedia.org/
 
 Survivorship bias can lead to overly optimistic beliefs because failures are ignored, such as when companies that no longer exist are excluded from analyses of financial performance. It can also lead to the false belief that the successes in a group have some special property, rather than just coincidence ([correlation proves causality](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)). For example, if three of the five students with the best college grades went to the same high school, that can lead one to believe that the high school must offer an excellent education. This could be true, but the question cannot be answered without looking at the grades of all the other students from that high school, not just the ones who "survived" the top-five selection process. Another example of a distinct mode of survivorship bias would be thinking that an incident was not as dangerous as it was because everyone you communicate with afterwards survived. Even if you knew that some people are dead, they wouldn't have their voice to add to the conversation, leading to bias in the conversation.
 
-#### In the military
+### In the military
 
 During World War II, the statistician [Abraham Wald](https://en.wikipedia.org/wiki/Abraham_Wald) took survivorship bias into his calculations when considering how to minimize bomber losses to enemy fire. Researchers from the Center for Naval Analyses had conducted a study of the damage done to aircraft that had returned from missions, and had recommended that armor be added to the areas that showed the most damage. Wald noted that the study only considered the aircraft that had survived their missions - the bombers that had been shot down were not present for the damage assessment. The holes in the returning aircraft, then, represented areas where a bomber could take damage and still return home safely. Wald proposed that the Navy reinforce areas where the returning aircraft were unscathed, since those were the areas that, if hit, would cause the plane to be lost. His work is considered seminal in the then-nascent discipline of [operational research](https://en.wikipedia.org/wiki/Operational_research).
 

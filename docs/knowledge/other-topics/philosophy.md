@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/philosophy
 title: Philosophy
 description: Explore the essence of philosophy, covering aesthetics, applied philosophy, and various branches like the philosophy of economics, education, and law.
 created: 2023-03-05
-updated: 2026-02-27
+updated: 2026-06-23
 ---
 ## Outline
 
@@ -119,3 +119,8 @@ The **categorical imperative** ([German](https://en.wikipedia.org/wiki/German_la
 Frank Jackson is a philosopher best known for the Knowledge Argument, especially the thought experiment called Mary’s Room, which challenges physicalism—the idea that all facts about the mind are physical facts. In this experiment, Mary is a scientist who knows every physical detail about color vision but has never seen color herself; when she sees red for the first time, she learns what red actually looks like, suggesting that subjective experience (called qualia) cannot be fully captured by physical information alone. Jackson originally concluded that consciousness includes non-physical facts, revealing an explanatory gap between objective scientific knowledge and subjective experience, but he later revised his position and accepted physicalism, arguing that Mary gains a new way of accessing or representing existing physical knowledge rather than learning new non-physical facts; his work remains central to debates on consciousness, neuroscience, and artificial intelligence because it exposes the fundamental distinction between knowing how a system works and actually having the experience it produces.
 
 [Why Jackson changed his mind about Mary : r/consciousness](https://www.reddit.com/r/consciousness/comments/1j9nd6c/why_jackson_changed_his_mind_about_mary/)
+
+## Links
+
+- [Philosophy Experiments](https://www.philosophyexperiments.com/)
+- [15 Philosophical Thought Experiments That Will Definitely Blow Your Mind – Adarsh Badri](https://adarshbadri.me/philosophy/philosophical-thought-experiments/)

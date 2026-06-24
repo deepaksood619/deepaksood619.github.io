@@ -3,7 +3,7 @@ slug: /economics/taxation/taxation-foreign
 title: Taxation - Foreign
 description: Explore foreign taxation, including income tax for freelancers, foreign source income, and reporting foreign investments in this comprehensive guide.
 created: 2025-02-05
-updated: 2026-04-21
+updated: 2026-06-23
 ---
 [Foreign Exchange Explained.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJV-DziYCl4tF4vRedUdxTx3zszD8H1en)
 
@@ -77,6 +77,11 @@ Basically the only issue will come with dividends (this is missed in 26AS and ne
 	- While transferring from the broker to the Vested account, would it be considered a sale? In my scenario, I want to transfer my vested stocks to Vested, so transfer of a stock in stock form only to Vested would not incur any capital gains tax. Is this understanding correct?
 		- That’s correct, this scenario would not trigger capital gains tax since there is no share being sold.
 - You can sell your Microsoft shares in your Morgan Stanley account and use the proceeds to buy other stocks. As an Indian resident, the Reserve Bank of India (RBI) allows you to reinvest the funds from the sale of foreign company shares (received via ESOPs/RSUs) into other listed foreign stocks, provided this reinvestment occurs within 180 days of the sale.
+	- you still have to pay the 12.5% LTCG tax
+	- **No "Rollover" Exemption:** In India, you can avoid capital gains tax if you sell a residential house and immediately reinvest the proceeds into another residential house (under Section 54). **There is no equivalent rollover exemption for foreign stocks.**
+	- Action Plan after selling shares
+		- **Pay the Tax in INR:** Calculate your 12.5% LTCG (if held over 24 months) on the MSFT profits using the SBI TT Buying Rate, and pay the tax in Indian Rupees out of your local savings during your Advance Tax windows or when filing your ITR.
+		- **Report the Reinvestment:** In **Schedule FA** of your ITR-2 or ITR-3, report the closing of your Morgan Stanley MSFT holding, report the foreign cash balance, and declare your newly purchased foreign equity holdings in IBKR.
 - **Transfer to an external broker:** You can transfer the cash proceeds (in USD, assuming the shares are U.S.-listed) to an external brokerage account that offers a wider range of investment options and potentially more favorable fees for US market access, such as Vested or Interactive Brokers. This avoids the need to bring the funds back to India first, which saves on foreign exchange fees and Tax Collection at Source (TCS) on the initial transfer from India.
 - [How to Diversify Foreign ESOP & RSU Holdings Through Vested Platform](https://vestedfinance.com/blog/us-stocks/diversify-your-foreign-esop-rsu-holdings-with-vested/)
 

@@ -3,7 +3,7 @@ slug: /technologies/confluent/cli-tools
 title: Essential CLI Tools for Kafka Management
 description: Explore essential CLI tools for managing Kafka, Confluent Cloud, and deploying resources efficiently.
 created: 2025-12-20
-updated: 2026-06-11
+updated: 2026-06-23
 ---
 - [Kafka Commands](technologies/kafka/kafka-commands/readme.md)
 
@@ -118,6 +118,7 @@ kafka-producer-perf-test \
 	- Lab2 - Vector Search & RAG
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence
 - [GitHub - confluentinc/examples: Apache Kafka, Apache Flink and Confluent Platform examples and demos · GitHub](https://github.com/confluentinc/examples) ⭐ 2.1k
+- [GitHub - GeoffWilliams/elastic\_meetup\_sydney\_demo: Some demo files for the meetup · GitHub](https://github.com/GeoffWilliams/elastic_meetup_sydney_demo)
 
 ## Confluent MCP
 

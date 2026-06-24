@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/politics/types-of-governments
 title: Types of Governments
 description: Explore the different types of governments, including monarchy and democracy, and understand power dynamics and citizen engagement in governance.
 created: 2023-03-05
-updated: 2026-05-02
+updated: 2026-06-22
 ---
 turtles move slow, the government moves slower
 
@@ -11,9 +11,9 @@ Power is a prized possession of governments. They can let go of at least some of
 
 Give them bread and circus and they will never revolt
 
-### Monarchy
+## Monarchy
 
-### Democracy
+## Democracy
 
 - [Is Democracy Doomed? The Global Fight for Our Future | Timothy Snyder | TED - YouTube](https://www.youtube.com/watch?v=YY6LCOJbve8)
 - I disapprove of what you say, but will defend to the death your right to say it.
@@ -26,7 +26,7 @@ Give them bread and circus and they will never revolt
 - [Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
 - If free speech is a threat to your government, then government is a threat to your nation
 
-#### Indian Democracy
+### Indian Democracy
 
 - [After Modi's great victory in the 2019 election, what is your message for Modi followers? - Quora](https://www.quora.com/After-Modis-great-victory-in-the-2019-election-what-is-your-message-for-Modi-followers)
 - [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)
@@ -34,7 +34,7 @@ Give them bread and circus and they will never revolt
 - [किसको चाहिए डिक्टेटर? कद्दू समझ रखा है? | Who wants Dictatorship in India?? - YouTube](https://www.youtube.com/watch?v=U68aORo533I&ab_channel=RavishKumarOfficial)
 - [Indian Democracy under Threat: Free & Fair Elections, Free Speech, Dissent & Sedition\| Sarmad Mehraj - YouTube](https://youtu.be/fh4XUKcnfZY)
 
-#### Links
+### Links
 
 - [The Age of The Strongman: How the Cult of the Leader Threatens Democracy around the World eBook : Rachman, Gideon](https://www.amazon.in/Age-Strongman-Leader-Threatens-Democracy-ebook/dp/B09HJZNQ5R)
 - [How Dictatorships Work: Power, Personalization, and Collapse, Geddes, Barbara, Wright, Joseph, Frantz, Erica](https://www.amazon.com/How-Dictatorships-Work-Personalization-Collapse/dp/1107115825#:~:text=Importantly%2C%20this%20book%20explains%20how,the%20rest%20of%20the%20world.)
@@ -45,25 +45,25 @@ Give them bread and circus and they will never revolt
 - [The Origins of Totalitarian Democracy](https://www.amazon.in/Origins-Totalitarian-Democracy-Jacob-Talmon/dp/1013896661)
 - [The Origins of Totalitarianism (Penguin Modern Classics)](https://www.amazon.in/Origins-Totalitarianism-Penguin-Modern-Classics/dp/0241316758)
 
-### Oligarchy
+## Oligarchy
 
 a small group of people having control of a country or organization.
 
-### Authoritarianism
+## Authoritarianism
 
 the enforcement or advocacy of strict obedience to authority at the expense of personal freedom.
 
-### Totalitarianism
+## Totalitarianism
 
 a system of government that is centralized and dictatorial and requires complete subservience to the state.
 
-### Meritocracy
+## Meritocracy
 
-### Populism
+## Populism
 
 a political approach that strives to appeal to ordinary people who feel that their concerns are disregarded by established elite groups.
 
-### Federalism
+## Federalism
 
 Federalism is the mixed or compound mode of [government](https://en.wikipedia.org/wiki/Government), combining a general government (the central or "federal" government) with regional governments (provincial, state, cantonal, territorial or other sub-unit governments) in a single political system.
 
@@ -71,35 +71,35 @@ Federalism can thus be defined as a form of government in which there is a divis
 
 https://en.wikipedia.org/wiki/Federalism
 
-### Egalitarian
+## Egalitarian
 
 believing in or based on the principle that all people are equal and deserve equal rights and opportunities.
 
-### Socialism
+## Socialism
 
 a political and economic theory of social organization which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.
 
-### Capitalism
+## Capitalism
 
 an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.
 
-### Feudalism
+## Feudalism
 
 The dominant social system in medieval Europe, in which the **nobility held lands from the Crown** in exchange for military service, and vassals were in turn tenants of the nobles, while the **peasants (villeins or serfs)** were obliged to live on their lord's land and give him homage, labour, and a share of the produce, notionally in exchange for military protection.
 
 [Feudalism - Wikipedia](https://en.wikipedia.org/wiki/Feudalism)
 
-### Imperialism
+## Imperialism
 
 A policy of extending a country's power and influence through colonization, use of military force, or other means.
 
 Imperialism is the highest form of capitalism
 
-### Sectarianism
+## Sectarianism
 
 Excessive attachment to a particular sect or party, especially in religion.
 
-### Secularism
+## Secularism
 
 The principle of separation of the state from religious institutions.
 
@@ -107,13 +107,13 @@ Secular is the state of being unrelated or neutral in regards to religion.
 
 [Secularity - Wikipedia](https://en.wikipedia.org/wiki/Secularity)
 
-### Communism
+## Communism
 
 Communism (from [Latin](https://en.wikipedia.org/wiki/Latin) communis, 'common, universal') is a [philosophical](https://en.wikipedia.org/wiki/Political_philosophy), [social](https://en.wikipedia.org/wiki/Social_philosophy), [political](https://en.wikipedia.org/wiki/Political_movement), [economic](https://en.wikipedia.org/wiki/Economic_ideology) ideology and [movement](https://en.wikipedia.org/wiki/Political_movement) whose ultimate goal is the establishment of a [communist society](https://en.wikipedia.org/wiki/Communist_society), namely a [socioeconomic](https://en.wikipedia.org/wiki/Socioeconomics) order structured upon the ideas of [common ownership](https://en.wikipedia.org/wiki/Common_ownership) of the [means of production](https://en.wikipedia.org/wiki/Means_of_production) and the absence of [social classes](https://en.wikipedia.org/wiki/Social_class), [money](https://en.wikipedia.org/wiki/Money) and the [state](https://en.wikipedia.org/wiki/State_(polity)). - https://en.wikipedia.org/wiki/Communism
 
 [Communism - Wikipedia](https://en.wikipedia.org/wiki/Communism)
 
-### Orwellian
+## Orwellian
 
 "Orwellian" is an [adjective](https://en.wikipedia.org/wiki/Adjective) describing a situation, idea, or societal condition that [George Orwell](https://en.wikipedia.org/wiki/George_Orwell) identified as being destructive to the welfare of a free and [open society](https://en.wikipedia.org/wiki/Open_society). It denotes an attitude and a brutal policy of draconian control by [propaganda](https://en.wikipedia.org/wiki/Propaganda), [surveillance](https://en.wikipedia.org/wiki/Surveillance), [disinformation](https://en.wikipedia.org/wiki/Disinformation), [denial of truth](https://en.wikipedia.org/wiki/Denialism) ([doublethink](https://en.wikipedia.org/wiki/Doublethink)), and manipulation of the past, including the "[unperson](https://en.wikipedia.org/wiki/Unperson)" - a person whose past existence is expunged from the public record and memory, practiced by modern repressive governments. Often, this includes the circumstances depicted in his novels, particularly [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) but political [doublespeak](https://en.wikipedia.org/wiki/Doublespeak) is criticized throughout his work, such as in [Politics and the English Language](https://en.wikipedia.org/wiki/Politics_and_the_English_Language).
 
@@ -121,27 +121,27 @@ https://en.wikipedia.org/wiki/Orwellian
 
 https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 
-### Gerontocracy
+## Gerontocracy
 
 a state, society, or group governed by old people
 
-### Plutocracy
+## Plutocracy
 
 government by the wealthy
 
 an elite or ruling class whose power derives from their wealth
 
-### Paedocracy
+## Paedocracy
 
 Rule by children
 
-### Elite Theory
+## Elite Theory
 
 In [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), [political science](https://en.wikipedia.org/wiki/Political_science "Political science") and [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), **elite theory** is a theory of the State that seeks to describe and explain power relationships in contemporary society. The theory posits that a small minority, consisting of members of the [economic](https://en.wikipedia.org/wiki/Economic "Economic") elite and [policy](https://en.wikipedia.org/wiki/Policy "Policy")-planning networks, holds the most power-and that this power is independent of democratic elections.
 
 [Elite theory - Wikipedia](https://en.wikipedia.org/wiki/Elite_theory)
 
-### Rhine Captalism
+## Rhine Captalism
 
 [Social market economy - Wikipedia](https://en.wikipedia.org/wiki/Social_market_economy)
 
