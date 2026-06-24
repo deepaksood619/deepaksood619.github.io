@@ -45,7 +45,7 @@ https://en.wikipedia.org/wiki/Cognitive_bias_mitigation
 
 Thinking we know more than we do
 
-![image](../media/Biases-Fallacies-image1.jpg)
+![image](media/Biases-Fallacies-image1.jpg)
 
 [The Knowledge Illusion](book-summaries/psychology/the-knowledge-illusion.md)
 
@@ -166,7 +166,7 @@ Perhaps the most prevalent place you hear about anchoring is with pricing. If th
 
 ### Anchoring Bias / Anchoring Effect
 
-![image](../media/Biases-Fallacies-image2.jpg)
+![image](media/Biases-Fallacies-image2.jpg)
 
 There are two dominant theories behind anchoring bias
 
@@ -366,7 +366,7 @@ This question opens the door to a larger reflection: how symbols of power shape 
 
 ## Economic Mental Errors / Fallacies
 
-- [endowment-effect](psychology/endowment-effect.md)
+- [endowment-effect](psychology/behavioral-psychology/endowment-effect.md)
 
 ### Sunk cost fallacy
 
@@ -390,7 +390,7 @@ A cost that has already been incurred and cannot be recovered. (related: "throwi
 - Cognitive Entrenchment - stuck in the way you have always done things
 - Stages of Feedback Grief
 
-![image](../media/Biases-Fallacies-image3.jpg)
+![image](media/Biases-Fallacies-image3.jpg)
 
 ### Transaction utility
 

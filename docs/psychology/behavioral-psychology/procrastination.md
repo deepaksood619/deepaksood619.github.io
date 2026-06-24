@@ -13,7 +13,7 @@ Is this task enhancing my actions or substituting for them?
 
 Getting past procrastination - Vermeer Chart
 
-![image](../media/Habits-image3.jpg)
+![image](media/Habits-image3.jpg)
 
 https://alexvermeer.com/wp-content/uploads/howtogetmotivated-1920x1080.jpg
 

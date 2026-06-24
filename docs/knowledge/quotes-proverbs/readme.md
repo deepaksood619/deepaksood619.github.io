@@ -6,7 +6,7 @@ created: 2023-03-05
 updated: 2026-01-10
 ---
 - [Life](life)
-- [Habits](habits)
+- [Habits](knowledge/quotes-proverbs/habits.md)
 - [Motivation](motivation)
 - [Coding](coding)
 - [Business / Management](business-management)

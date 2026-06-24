@@ -64,7 +64,7 @@ updated: 2026-06-24
 | How will this purchase affect my financial goals?             |          |
 | Is my decision being influenced by emotions or peer pressure? | Yes / No |
 
-![image](../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image3.jpg)
+![image](media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image3.jpg)
 
 ## AC / Air Conditioner
 
@@ -85,7 +85,7 @@ Voltas AC - ADJ 12 - Refers to the 1.2 Ton capacity models within the adjustable
 - If that's not happening, then a 3 Star AC is Best for you. Buy a 3 Star AC if you use it for 3 - 4 months a year.
 - Buy a 5 Star AC if you use it for over 6 months a year.
 
-![AC Guide](../media/Screenshot%202025-03-13%20at%209.03.27%20PM.jpg)
+![AC Guide](media/Screenshot%202025-03-13%20at%209.03.27%20PM.jpg)
 
 ## Laptop
 

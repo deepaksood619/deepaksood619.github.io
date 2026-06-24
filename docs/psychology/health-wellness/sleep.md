@@ -129,7 +129,7 @@ https://www.webmd.com/a-to-z-guides/ss/slideshow-health-benefits-of-napping
 
 ## Links
 
-[Brain](psychology/brain.md)
+[Brain](psychology/cognitive-science/brain.md)
 
 [Can you change your sleep schedule? - YouTube](https://www.youtube.com/watch?v=Amkg1cdDCpM)
 

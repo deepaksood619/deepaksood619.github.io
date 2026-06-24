@@ -45,7 +45,7 @@ updated: 2026-06-18
 8. [Coursera - Algorithms, Part - 2 by Princeton University](courses/coursera-algorithms-part-2.md) (14 Feb'18 - 02 Apr'18 - 22 Apr'18)
 9. [Mordern Algorithm Design](courses/mordern-algorithm-design.md)
 10. [SE Radio](courses/se-radio.md)
-11. [Coursera - Mindshift](psychology/course-mindshift.md)
+11. [Coursera - Mindshift](psychology/productivity-performance/course-mindshift.md)
 12. [Learning How to Learn](education/pedagogy/course-learning-how-to-learn.md) (23 Mar'18 - 14th Apr'18)
 13. [Responsive Web Design Training Course | Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 14. [Responsive Images | Learn Web Development | Udacity](https://www.udacity.com/course/responsive-images--ud882)

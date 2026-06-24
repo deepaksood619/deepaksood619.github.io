@@ -128,7 +128,7 @@ learning from failure
 
 ## Links
 
-[Personality](psychology/personality.md)
+[Personality](psychology/cognitive-science/personality.md)
 
 [Myers-Briggs Type Indicator - Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
 

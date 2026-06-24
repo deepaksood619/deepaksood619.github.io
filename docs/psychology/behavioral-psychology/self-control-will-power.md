@@ -41,7 +41,7 @@ It's your ability to resolve conflicts between your short-term desires and your 
 
 The Four Burners Theorysays that "in order to be successful you have to cut off one of your burners. And in order to bereallysuccessful you have to cut off two."
 
-![image](../media/Self-Control-Will-Power-image1.jpg)
+![image](media/Self-Control-Will-Power-image1.jpg)
 
 ## How to handle mid-life crisis
 
@@ -51,7 +51,7 @@ Surround yourself with believers. Go to leadership conferences, engage with peop
 
 ## Deck of Disruptors
 
-![image](../media/Self-Control-Will-Power-image2.jpg)
+![image](media/Self-Control-Will-Power-image2.jpg)
 
 https://www.thefivecoatconsultinggroup.com/the-coronavirus-crisis/transition
 
@@ -59,17 +59,17 @@ https://www.thefivecoatconsultinggroup.com/the-coronavirus-crisis/transition
 
 - **Mental rehearsal -** spend considerable time obsessing, rehearsing and preparing for those challenges before the actual challenge
 
-![image](../media/Self-Control-Will-Power-image3.jpg)
+![image](media/Self-Control-Will-Power-image3.jpg)
 
 - Just sit
 
-![image](../media/Self-Control-Will-Power-image4.jpg)
+![image](media/Self-Control-Will-Power-image4.jpg)
 
 ## Action - Intention Gap
 
 Our actions don't match our intentions.
 
-![image](../media/Self-Control-Will-Power-image5.jpg)
+![image](media/Self-Control-Will-Power-image5.jpg)
 
 1. Understand your intentions
 2. Understand yourself
@@ -163,7 +163,7 @@ https://en.wikipedia.org/wiki/Construal_level_theory
 
 when people persistently sacrifice their immediate desires for their long term goals. This is called 'hyperopia'
 
-![image](../media/Self-Control-Will-Power-image6.jpg)
+![image](media/Self-Control-Will-Power-image6.jpg)
 
 1. I often fail to enjoy attractive opportunities.
 2. It's hard for me to make myself indulge.
@@ -194,4 +194,4 @@ Eisenberg's theory was that when you get rewarded for effortful activity, the ex
 
 Learned industriousness claims that when you are rewarded for expending higher effort, the experience of effortful activity itself is reinforced. This leads to the experience of effort itself becoming less unpleasant, and thus changes your willingness to work harder for bigger payoffs.
 
-![image](../media/Self-Control-Will-Power-image7.jpg)
+![image](media/Self-Control-Will-Power-image7.jpg)

@@ -5,7 +5,7 @@ description: Discover your ikigai by exploring the intersection of passion, miss
 created: 2024-07-24
 updated: 2024-07-24
 ---
-![image](../media/Life-Relationship-People-image7.jpg)
+![image](media/Life-Relationship-People-image7.jpg)
 
 ## ikigai is seen as the convergence of four primary elements
 

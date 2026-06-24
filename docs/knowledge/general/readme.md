@@ -9,6 +9,6 @@ updated: 2023-03-29
 - [Outline of Knowledge](outline-of-knowledge)
 - [Knowledge of Humanity](knowledge-of-humanity)
 - [Science](science)
-- [Mental Models](mental-models)
+- [Mental Models](knowledge/general/mental-models.md)
 - [Important Dates / Timelines](important-dates-timelines)
 - [Others](knowledge/general/others.md)

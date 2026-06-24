@@ -19,7 +19,7 @@ Like should be treated alike
 
 If you trust me then you shouldn't ask for my account statement and if you don't trust me then you should trust my given account statement - Pandit Jawaharlal Nehru to his father
 
-![time spent with family over age](../media/Screenshot%202025-02-09%20at%204.20.44%20PM.jpg)
+![time spent with family over age](media/Screenshot%202025-02-09%20at%204.20.44%20PM.jpg)
 
 #### Ernest Hemingway
 
@@ -37,7 +37,7 @@ If you trust me then you shouldn't ask for my account statement and if you don't
 
 ## Friendship
 
-![image](../media/Life-Relationship-People-image2.jpg)
+![image](media/Life-Relationship-People-image2.jpg)
 
 ## Tips
 
@@ -181,7 +181,7 @@ Developmental psychology has shown that kids come into the world, already knowin
 
 ## Inateness
 
-![image](../media/Life-Relationship-People-image4.jpg)
+![image](media/Life-Relationship-People-image4.jpg)
 
 1. **Harm/care**
 2. **Fairness/reciprocity**
@@ -189,7 +189,7 @@ Developmental psychology has shown that kids come into the world, already knowin
 4. **Authority/respect**
 5. **Purity/sanctity**
 
-![image](../media/Life-Relationship-People-image5.jpg)
+![image](media/Life-Relationship-People-image5.jpg)
 
 https://www.youtube.com/watch?v=8SOQduoLgRw
 
@@ -213,7 +213,7 @@ https://www.youtube.com/watch?v=8SOQduoLgRw
 6. Constantly go after exiting things and leave things mid way, Shiny object syndrome
 7. You don't believe in yourself
 
-![image](../media/Life-Relationship-People-image8.jpg)
+![image](media/Life-Relationship-People-image8.jpg)
 
 ## Ubuntu - I am because you are
 

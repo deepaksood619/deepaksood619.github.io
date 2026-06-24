@@ -79,7 +79,7 @@ Is this a problem that needs to be solved? Or is it a problem that can be elimin
 
 "It is wonderful how much work can be got through in a day, if we go by the rule - map out our time, divide it off, and take up one thing regularly after another. To drift through our work, or to rush through it in a helter-skelter fashion, ends in comparatively little being done. "One thing at a time" will always perform a better day's work than doing two or three things at a time. By following this rule, one person will do more in a day than another does in a week."
 
-![image](../media/Productivity-Productive-Time-Management-TODO-image1.jpg)
+![image](media/Productivity-Productive-Time-Management-TODO-image1.jpg)
 
 ## MIT Technique
 

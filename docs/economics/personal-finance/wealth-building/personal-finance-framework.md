@@ -327,7 +327,7 @@ From CA Rachana Ranade:
 ### Essential Reading
 
 - [Personal Finance - Mutual Funds Playlist - YouTube](https://www.youtube.com/playlist?list=PLX2SHiKfualGsjgd7fKFC-JXRF6vO73hk)
-- [Endowment Effect](psychology/endowment-effect.md) - Why we overvalue what we own
+- [Endowment Effect](psychology/behavioral-psychology/endowment-effect.md) - Why we overvalue what we own
 - [All Financial Advice Fits on Post-it Note - Freefincal](https://freefincal.com/all-the-financial-advice-you-need-can-fit-in-a-post-it-note/)
 
 ### Important Topics

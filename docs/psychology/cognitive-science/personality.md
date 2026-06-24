@@ -13,11 +13,11 @@ Myers-Briggs Type Indicator for personality test
 
 https://www.16personalities.com/free-personality-test
 
-![image](../media/Personality-image1.jpg)
+![image](media/Personality-image1.jpg)
 
-![image](../media/Personality-image2.jpg)
+![image](media/Personality-image2.jpg)
 
-![image](../media/Personality-image3.jpg)
+![image](media/Personality-image3.jpg)
 
 [Is There An Atheist Personality Type? (Psychology of Atheism Part 2)](https://www.youtube.com/watch?v=xejfuTNov7Y)
 

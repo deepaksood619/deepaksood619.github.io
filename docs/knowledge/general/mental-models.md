@@ -7,10 +7,10 @@ updated: 2026-06-09
 ---
 ## Links
 
-- [Psychology Mental Models](../../psychology/mental-models)
+- [Psychology Mental Models](psychology/cognitive-science/mental-models.md)
 - [Economics Mental Models](economics/investment-frameworks/mental-models/investment-mental-models.md)
 - [Management Mental Models](../../management/mental-models)
-- [Thinking Mental Models](../../psychology/thinking-mental-models)
+- [Thinking Mental Models](psychology/cognitive-science/thinking-mental-models.md)
 
 ## Mental Models in Science
 

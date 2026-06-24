@@ -5,7 +5,7 @@ description: Discover essential management resources, including mental models, b
 created: 2023-03-05
 updated: 2026-05-23
 ---
-- [Mental Models](mental-models)
+- [Mental Models](management/mental-models.md)
 - [Project / Product / Business Tools / SAAS](project-product-business-tools-saas)
 - [Business](business/readme.md)
     - [Business Terms](management/business/business-terms.md)

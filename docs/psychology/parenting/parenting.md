@@ -3,7 +3,7 @@ slug: /psychology/parenting
 title: Parenting / children
 description: Explore effective parenting strategies to nurture your child's curiosity and brain development in the formative years, fostering a positive environment for growth.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-06-24
 ---
 "The children are always ours, every single one of them, all over the globe; and I am beginning to suspect that whoever is incapable of recognizing this may be incapable of morality." -- James Baldwin
 
@@ -327,8 +327,8 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 
 ### Links
 
-- [parenting-physical](psychology/parenting-physical.md)
-- [parenting-teen-brains](psychology/parenting-teen-brains.md)
+- [parenting-physical](psychology/parenting/parenting-physical.md)
+- [parenting-teen-brains](psychology/parenting/parenting-teen-brains.md)
 - [homeschooling](education/pedagogy/homeschooling.md)
 - [Games - Kids](knowledge/games/kid-games.md)
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)

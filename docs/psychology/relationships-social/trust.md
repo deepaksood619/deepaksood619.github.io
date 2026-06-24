@@ -13,7 +13,7 @@ Trust involves vulnerability, which involves risk. So **Dispositional Trust,** i
 
 Being honest may not get you a lot of friends but it'll always get you the right ones. -- John Lennon
 
-![image](../media/Life-Relationship-People-image3.jpg)
+![image](media/Life-Relationship-People-image3.jpg)
 
 Cognitive trust can be earned by Competence, Intent and Integrity.
 

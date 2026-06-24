@@ -70,5 +70,5 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 ## Links
 
 - [The Technium: 50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
-- [buying-guide](psychology/buying-guide.md)
-- [buying-guide-car](psychology/buying-guide-car.md)
+- [buying-guide](psychology/consumer-decision-making/buying-guide.md)
+- [buying-guide-car](psychology/consumer-decision-making/buying-guide-car.md)

@@ -132,7 +132,7 @@ Object Permanence is the understanding that objectscontinue to exist even when t
     - The temporal lobe is responsible for auditory processing, memory, and language.
     - The occipital lobe is responsible for vision.
 
-![image](../media/brain-regions.jpg)
+![image](media/brain-regions.jpg)
 
 [Mouse brain research is helping us better understand human minds](https://blog.google/technology/research/mouse-brain-research/)
 
@@ -146,7 +146,7 @@ https://blog.trello.com/sophrology-for-better-work-life-harmony
 
 ## Links
 
-- [Sleep](psychology/sleep.md)
+- [Sleep](psychology/health-wellness/sleep.md)
 - [What is a mind? - with Philip Ball](https://www.youtube.com/watch?v=uKZWF5amZMg)
 - [How to Keep Your Brain Young and Healthy | Louisa Nicola - YouTube](https://www.youtube.com/watch?v=tZQcd2K9HwQ)
 - [Mind–body dualism - Wikipedia](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)

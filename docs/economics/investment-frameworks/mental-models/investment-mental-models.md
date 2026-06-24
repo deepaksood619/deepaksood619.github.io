@@ -411,4 +411,4 @@ The trap occurs when a household builds its entire lifestyle—including high fi
 - [Economics for the common good](book-summaries/economics-finance/economics-for-the-common-good.md)
 - [Dollars and sense](book-summaries/economics-finance/dollars-and-sense.md)
 - [Everyday Millionaires](book-summaries/economics-finance/everyday-millionaires.md)
-- [Consumerism](psychology/consumerism.md)
+- [Consumerism](psychology/behavioral-psychology/consumerism.md)

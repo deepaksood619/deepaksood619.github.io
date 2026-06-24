@@ -41,7 +41,7 @@ I would recognize you in total darkness, were you mute and I deaf. I would recog
 - Marry a cheater or liar, everyday will become April Fool's Day.
 - And if you don't get married everyday is Independence Day!
 
-![image](../media/Life-Relationship-People-image1.jpg)
+![image](media/Life-Relationship-People-image1.jpg)
 
 1. **Body:** The condition of your body, including your diet, stamina, strength, and recovery.
 2. **Mind:** [Your ability to focus](http://email.c.kajabimail.net/c/eJwdjstuwyAURL_GbCoQl5fDgkWqJlLX_YAIw3VCYkOEcdT-fWml2cxopHOi0zrGiSQnuODcCgDFreQMmOLHk7Yn825Go_o6KB7Yw9_9lFafFpaxkZvjQhmp7AzChzjJcNDj7HXQdoSDVRLI4m6tPbdBHgdx7om-pn2bSy37Nwtl7dNcwr7RCVvDSlef_RWp7yW3VDLNpdGWVuxHgn_kS8QlvbD-XFJ0FEajFVjgilQXEZ_-sZUSDdgufP037RTS3Fdq-Pb5MQiplda_n4hMdg), rest, and acquire knowledge.

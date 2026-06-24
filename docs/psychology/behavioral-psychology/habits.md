@@ -48,14 +48,14 @@ Addiction researchers use the term "natural recoverers" to refer to people who a
 
 Each attempt represents a lesson learned and progress toward the ulti- mate goal of quitting. In fact, research shows that each failed attempt to quit any addiction is independent of the others. Because each attempt has its own probability of success, repeated attempts to quit increase the likelihood of eventual success.
 
-![image](../media/Habits-image1.jpg)
+![image](media/Habits-image1.jpg)
 
 ## Exposure Theory for overcoming fears
 
 - Graded exposure (slowly step by step exposure)
 - Flooding (facing the most fearful)
 
-![image](../media/Habits-image2.jpg)
+![image](media/Habits-image2.jpg)
 
 Exposure therapy, where you give yourself small doses of the thing you're scared of to diminish the fear it generates, works for phobias of spiders or clowns, but it can also help with getting started
 
@@ -262,7 +262,7 @@ https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 [DOPAMINE NATION by Anna Lembke | Core Message](https://www.youtube.com/watch?v=F-HDYRgZel0)
 
-![image](../media/Habits-image4.jpg)
+![image](media/Habits-image4.jpg)
 
 [5 Habits Keeping you STUCK & 5 Ways to Get UNSTUCK | Shadé Zahrai](https://www.youtube.com/watch?v=v9GDpSL9W5E)
 
@@ -277,7 +277,7 @@ https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 - [13 Things Mentally Strong People Don't Do](book-summaries/psychology/13-things-mentally-strong-people-dont-do.md)
 - [The Seven Habits of Highly Effective People](book-summaries/personal-development/the-seven-habits-of-highly-effective-people.md)
 - [Atomic Habits](book-summaries/personal-development/atomic-habits.md)
-- [Procrastination](psychology/procrastination.md)
+- [Procrastination](psychology/behavioral-psychology/procrastination.md)
 - [Habits | Quotes](knowledge/quotes-proverbs/habits.md)
 - [When are Minimal Habits Useful for Learning? - Scott H Young](https://www.scotthyoung.com/blog/2023/06/20/minimal-habits-learning/)
 - [10 Challenges, 90 Days SUCCESS BLUEPRINT for 2024! | Life Advice 2023 | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=6azp2ClkdCk)

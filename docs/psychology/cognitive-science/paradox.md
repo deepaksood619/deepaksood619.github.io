@@ -391,7 +391,7 @@ One class of paradoxes in economics are the [**paradoxes of competition**](https
 	- The observer's paradox, also known as the **Hawthorne effect**, describes a phenomenon where the act of observing a system or phenomenon changes the system itself, leading to biased results and making accurate study difficult.
 - [**Taeuber Paradox**](https://en.wikipedia.org/wiki/Taeuber_Paradox "Taeuber Paradox"): A paradox in demography in which lessening mortality for a particular cause results in a surprisingly small increase in life expectancy and no change in overall mortality.
 
-![Region Beta Paradox](../media/Pasted%20image%2020240705003713.jpg)
+![Region Beta Paradox](media/Pasted%20image%2020240705003713.jpg)
 
 [List of paradoxes - Wikipedia](https://en.wikipedia.org/wiki/List_of_paradoxes)
 

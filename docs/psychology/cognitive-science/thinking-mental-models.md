@@ -31,7 +31,7 @@ The quote is from Ernest Hemingway.
 
 Combined two important systems thinking models - the Iceberg Model and Pace Layers framework.
 
-![image](../media/Thinking-Mental-Models-image1.jpg)
+![image](media/Thinking-Mental-Models-image1.jpg)
 
 ## Systems Thinking
 
@@ -59,7 +59,7 @@ Combined two important systems thinking models - the Iceberg Model and Pace Laye
 - **Problem Solving**
     - Issue trees
 
-![image](../media/Thinking-Mental-Models-image2.jpg)
+![image](media/Thinking-Mental-Models-image2.jpg)
 
 - **First principles -** Break down complex problems into basic elements and create innovative solutions from there.
 
@@ -183,7 +183,7 @@ Upward counterfactuals are **thoughts about how the situation could have been be
 
 ## Four stages of competence
 
-![Four Stages of Competence](../media/Screenshot%202025-03-22%20at%2010.46.50%20PM.jpg)
+![Four Stages of Competence](media/Screenshot%202025-03-22%20at%2010.46.50%20PM.jpg)
 
 [Four stages of competence - Wikipedia](https://en.wikipedia.org/wiki/Four_stages_of_competence)
 

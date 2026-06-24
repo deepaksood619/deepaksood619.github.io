@@ -150,7 +150,7 @@ Biology, evolution, genetics, climate change, and social impact.
 
 ## Additional Resources
 
-- [Others](others.md) - Video summaries and additional book recommendations
+- [Others](book-summaries/others.md) - Video summaries and additional book recommendations
 - [Books to Read](books-to-read.md) - Reading list
 - [Books / Blinkist - Management](../management/books-blinkist-management.md)
 - [Product Book Summaries](../management/product-management/product-book-summaries.md)

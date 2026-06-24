@@ -101,7 +101,7 @@ https://www.collaborativefund.com/blog/think
 
 ## Mindwandering
 
-![image](../media/Human-Psychology-&-Thinking-image1.jpg)
+![image](media/Human-Psychology-&-Thinking-image1.jpg)
 
 ## Laws of Stupidity
 
@@ -128,7 +128,7 @@ The Johari Window model is a tool that helps people understand themselves and o
 | **Quadrants**    | Open, blind, hidden, and unknown                                                       |
 | **Goal**         | Move information from the hidden and unknown quadrants to the open and blind quadrants |
 
-![Johari Window model](../media/Screenshot%202025-04-15%20at%202.40.25%20PM.jpg)
+![Johari Window model](media/Screenshot%202025-04-15%20at%202.40.25%20PM.jpg)
 
 [What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314 - YouTube](https://youtu.be/WtQ64nSbdY4)
 

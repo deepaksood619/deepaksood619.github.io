@@ -29,7 +29,7 @@ Is a learning process through which the strength of a behavior is modified by re
 
 Although operant and [classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning) both involve behaviors controlled by environmental stimuli, they differ in nature. In operant conditioning, stimuli present when a behavior is rewarded or punished come to control that behavior. For example, a child may learn to open a box to get the sweets inside, or learn to avoid touching a hot stove; in operant terms, the box and the stove are "discriminative stimuli". Operant behavior is said to be "voluntary": for example, the child may face a choice between opening the box and petting a puppy.
 
-![image](../media/psy-Others-image1.jpg)
+![image](media/psy-Others-image1.jpg)
 
 [B.F. Skinner](https://en.wikipedia.org/wiki/B.F._Skinner)(1904--1990) is referred to as the father of operant conditioning, and his work is frequently cited in connection with this topic. To implement his empirical approach, Skinner invented the [operant conditioning chamber](https://en.wikipedia.org/wiki/Operant_conditioning_chamber), or "**Skinner Box**", in which subjects such as pigeons and rats were isolated and could be exposed to carefully controlled stimuli.
 
