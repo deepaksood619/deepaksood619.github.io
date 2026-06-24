@@ -139,22 +139,22 @@ const config = {
         },
         items: [
           {
-            to: '/about-deepak-sood',
+            to: '/about-deepak-sood/readme',
             position: 'left',
             label: 'About Me',
           },
           {
-            to: '/ai/llm',
+            to: '/ai/llm/readme',
             position: 'left',
             label: 'LLM Notes',
           },
           {
-            to: '/databases',
+            to: '/databases/readme',
             position: 'left',
             label: 'Databases',
           },
           {
-            to: '/economics',
+            to: '/economics/readme',
             position: 'left',
             label: 'Economics',
           },
