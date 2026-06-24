@@ -1,5 +1,10 @@
-# Flashcards
-
+---
+slug: /ai/llm/interview-prep/flashcards
+title: LLM Flashcards
+description: LLM Flashcards
+created: 2026-06-18
+updated: 2026-06-18
+---
 ^learnkit-339921152
 T | LLM 'Reversal Curse' Example |
 Q | What is the 'reversal curse' illustrated by the example involving Tom Cruise's mother? |

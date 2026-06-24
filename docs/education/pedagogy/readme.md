@@ -3,7 +3,7 @@ slug: /education/pedagogy/readme
 title: Exploring Effective Pedagogy Techniques
 description: Discover evidence-based strategies and insights for enhancing learning through various pedagogical approaches and techniques.
 created: 2026-05-05
-updated: 2026-06-11
+updated: 2026-06-25
 ---
 - [Learning Intro](education/pedagogy/learning-intro.md)
 - [Learning Styles & Archetypes](education/pedagogy/learning-styles.md) — Neuromyth debunking (VARK), 7 modern behavioral archetypes with evidence-based strategies, universal learning principles (CLT, testing effect, spaced repetition), andragogy, Brain-on-AI research
@@ -19,6 +19,4 @@ updated: 2026-06-11
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
 - [adaptive-learning-algorithms](education/pedagogy/adaptive-learning-algorithms.md)
 - [note-taking-second-brain-pkm-zettelkasten](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md)
-	- [flashcard-integration-strategy-2026](education/pedagogy/flashcard-integration-strategy-2026.md)
 	- [pkm-scaling-recommendations-2026](education/pedagogy/pkm-scaling-recommendations-2026.md)
-	- [stable-urls-sidebar-ordering-strategy-2026](education/pedagogy/stable-urls-sidebar-ordering-strategy-2026.md)

@@ -3,7 +3,7 @@ slug: /ai/llm/readme
 title: LLM
 description: Explore LLM fundamentals, app-building techniques, and agent frameworks to harness the power of large language models for innovative applications and solutions.
 created: 2023-05-08
-updated: 2026-06-18
+updated: 2026-06-24
 ---
 ## Fundamentals
 
@@ -48,6 +48,7 @@ updated: 2026-06-18
 
 - [Model Context Protocol](mcp/mcp-model-context-protocol.md)
 - [MCP vs REST API](mcp/mcp-vs-restapi.md)
+- [ucp-universal-commerce-protocol](ai/llm/mcp/ucp-universal-commerce-protocol.md)
 
 ## Code Generation
 

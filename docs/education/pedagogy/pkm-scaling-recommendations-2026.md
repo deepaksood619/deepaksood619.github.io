@@ -3,7 +3,7 @@ slug: /education/pedagogy/pkm-scaling-recommendations-2026
 title: PKM Scaling Strategies for 2026
 description: Explore key PKM scaling recommendations for transitioning to a 50,000+ note system while maintaining personal knowledge integrity.
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-06-25
 ---
 **Analysis Date:** 2026-06-19
 
@@ -351,19 +351,6 @@ graph TD
 - Propose split points (heading boundaries, concept shifts)
 - Generate new frontmatter for children
 - Update parent to MOC format
-
-### 6. Linking with Semantics
-
-**Current:** `[Machine Learning](ai/machine-learning.md)`
-
-**Proposed:**
-
-```markdown
-[Machine Learning](ai/machine-learning.md) <!-- prerequisite -->
-
-[BERT Architecture](ai/bert.md) <!-- implements::transformers -->
-
-[GPT vs BERT Comparison](ai/gpt-vs-bert.md) <!-- compares::architecture-choice -->
 ```
 
 **Relationship Types:**

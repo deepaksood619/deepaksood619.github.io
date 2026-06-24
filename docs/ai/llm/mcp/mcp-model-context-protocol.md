@@ -555,6 +555,7 @@ The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source sta
 ## Links
 
 - [mcp-vs-restapi](ai/llm/mcp/mcp-vs-restapi.md)
+- [ucp-universal-commerce-protocol](ai/llm/mcp/ucp-universal-commerce-protocol.md)
 - [The Model Context Protocol (MCP) Explained (and one cool code example.) - YouTube](https://www.youtube.com/watch?v=5ZWeCKY5WZE&ab_channel=Underfitted)
 - [Is MCP Becoming The Next BIG Thing in AI - YouTube](https://www.youtube.com/watch?v=japoGcdbZGw&ab_channel=RobShocks)
 - [What is MCP & why it's a big (huge) deal: Detailed explanation for both… \| John Rush \| 10 comments](https://www.linkedin.com/posts/johnrushx_what-is-mcp-why-its-a-big-huge-deal-activity-7303421262440112129-iJWV)

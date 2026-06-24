@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
@@ -110,6 +110,7 @@ Original command-based system.
 
 ```bash
 npx get-shit-done-cc@latest
+npm uninstall -g get-shit-done-cc
 
 claude --dangerously-skip-permissions
 /gsd-autonomous
@@ -489,6 +490,7 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 - [claude-code-skills](ai/llm/code-generation/claude-code-skills.md)
 - [note-skill](ai/llm/code-generation/note-skill.md)
 - [study-skill](ai/llm/code-generation/study-skill.md)
+- [flashcards-skill](ai/llm/code-generation/flashcards-skill.md)
 - [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 176k
 - **The Four Principles:**
 	- **Think before coding:** don't assume.

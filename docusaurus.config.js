@@ -102,7 +102,7 @@ const config = {
           numberPrefixParser: false,
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          exclude: ['**/office/**', '**/*flashcards.md'],
+          exclude: ['**/office/**', '**/flashcards.md', '**/flashcards-*.md'],
           editUrl:
             'https://github.com/deepaksood619/deepaksood619.github.io/tree/master/',
           beforeDefaultRemarkPlugins: [obsidianImagePaths],

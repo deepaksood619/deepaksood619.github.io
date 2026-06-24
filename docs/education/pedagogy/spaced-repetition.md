@@ -3,7 +3,7 @@ slug: /education/pedagogy/spaced-repetition
 title: Understanding Spaced Repetition
 description: Learn how spaced repetition enhances memory retention and combats the forgetting curve for effective learning.
 created: 2026-06-17
-updated: 2026-06-19
+updated: 2026-06-25
 ---
 Spaced repetition is a learning technique that involves reviewing information at increasing intervals over time to combat the forgetting curve and optimize long-term retention. It's one of the most evidence-based and effective methods for memorizing large amounts of information.
 
@@ -244,7 +244,9 @@ Most SRS platforms use a quality scale to adjust scheduling:
 ❌ Poor: "What were the causes of World War I?"
 ✅ Better: Multiple cards for each specific cause (assassination, alliances, militarism, etc.)
 
-**Cloze Deletions:** Fill-in-the-blank format
+### Types of Cards
+
+#### **Cloze Deletions:** Fill-in-the-blank format
 
 ```text
 The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
@@ -254,17 +256,22 @@ The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 - Reduces card creation time
 - Avoids "recognition" vs "recall" trap
 
-**Bidirectional Cards:** Create reverse cards when appropriate
+#### **Bidirectional Cards:** Create reverse cards when appropriate
 
 - Front: Spanish word → English translation
 - Back: English word → Spanish word
 - Use for: vocabulary, definitions, equations
 
-**Image Occlusion:** Hide parts of images for visual learning
+#### **Image Occlusion:** Hide parts of images for visual learning
 
 - Anatomy diagrams (hide labels)
 - Architecture/engineering drawings
 - Musical notation
+
+#### Others
+
+- Basic question answer
+- Multiple choice questions (MCQ)
 
 ### Optimal Spacing Strategies
 
@@ -630,3 +637,13 @@ The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 - [Memory](education/pedagogy/memory.md) - Overview of memory systems and techniques
 - [Adaptive Learning Algorithms](education/pedagogy/adaptive-learning-algorithms.md) - How platforms personalize learning
 - [Learning: How to Learn](education/pedagogy/course-learning-how-to-learn.md) - Broader learning strategies
+
+## Generating Flashcards
+
+- [GitHub - jalliet/flashcards: Augment Claude with this skill to help create atomic flashcards from a bank of sources (project ideally) that help you learn based precisely on the science. · GitHub](https://github.com/jalliet/flashcards)
+- [socialistic.ai](https://socialistic.ai/)
+
+## Links
+
+- https://www.reddit.com/r/Anki/comments/1ss24n5/has_anyone_built_a_claude_skill_to_makeimprove/
+- [How I Use Claude Code + Anki to Memorize Anything (My Agentic Learning System) - YouTube](https://www.youtube.com/watch?v=RocA3wA3QjU)
