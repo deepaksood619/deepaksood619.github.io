@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-networking/11-confluent-cloud-with-private-networking
+slug: /technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking
 title: Access Confluent Cloud with Private Networking
 description: Learn how to use the Confluent Cloud Console effectively with private networking configurations for secure access.
 created: 2026-01-28

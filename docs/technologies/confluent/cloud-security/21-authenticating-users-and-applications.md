@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-security/21-authenticating-users-and-applications
+slug: /technologies/confluent/cloud-security/21-authenticating-users-and-applications
 title: User and Application Authentication
 description: Learn how to securely authenticate users and applications in Confluent Cloud with SSO and best practices.
 created: 2025-12-10

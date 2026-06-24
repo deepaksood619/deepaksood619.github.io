@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-security/ip-filtering
+slug: /technologies/confluent/cloud-security/ip-filtering
 title: Enhanced Security with IP Filtering
 description: Explore how IP Filtering enhances security for Confluent Cloud by controlling access through trusted IP addresses.
 created: 2026-01-28

@@ -3,20 +3,20 @@ slug: /technologies/confluent/confluent-cloud-networking/readme
 title: "Confluent Cloud Networking & Security Guide"
 description: Explore comprehensive resources on Confluent Cloud networking, security, and VPC configurations to enhance your Kafka deployment.
 created: 2025-12-10
-updated: 2026-03-11
+updated: 2026-06-24
 ---
-1. [01-introduction](technologies/confluent/confluent-cloud-networking/01-introduction.md)
-2. [02-confluent-cloud-overview](technologies/confluent/confluent-cloud-networking/02-confluent-cloud-overview.md)
-3. [03-secure-public-endpoints](technologies/confluent/confluent-cloud-networking/03-secure-public-endpoints.md)
+1. [01-introduction](technologies/confluent/cloud-networking/01-introduction.md)
+2. [02-confluent-cloud-overview](technologies/confluent/cloud-networking/02-confluent-cloud-overview.md)
+3. [03-secure-public-endpoints](technologies/confluent/cloud-networking/03-secure-public-endpoints.md)
 4. [Configure a Kafka Cluster with Public Endpoints (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-public-endpoints/)
 	1. [commands](technologies/confluent/tools/commands.md)
-5. [05-vpc-vpnet-peering-overview](technologies/confluent/confluent-cloud-networking/05-vpc-vpnet-peering-overview.md)
+5. [05-vpc-vpnet-peering-overview](technologies/confluent/cloud-networking/05-vpc-vpnet-peering-overview.md)
 6. [Configure a VPC Peered Cluster (Hands-On Tutorial)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-vpc-peering/)
-7. [07-aws-transit-gateway](technologies/confluent/confluent-cloud-networking/07-aws-transit-gateway.md)
-8. [08-aws-azure-private-link](technologies/confluent/confluent-cloud-networking/08-aws-azure-private-link.md)
+7. [07-aws-transit-gateway](technologies/confluent/cloud-networking/07-aws-transit-gateway.md)
+8. [08-aws-azure-private-link](technologies/confluent/cloud-networking/08-aws-azure-private-link.md)
 9. [Configure a Private Link Cluster (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-private-link/)
-10. [10-best-networking-options](technologies/confluent/confluent-cloud-networking/10-best-networking-options.md)
-11. [11-confluent-cloud-with-private-networking](technologies/confluent/confluent-cloud-networking/11-confluent-cloud-with-private-networking.md)
+10. [10-best-networking-options](technologies/confluent/cloud-networking/10-best-networking-options.md)
+11. [11-confluent-cloud-with-private-networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking.md)
 
 ## Documentation Outline
 

@@ -5,12 +5,12 @@ description: Explore Confluent Cloud Security with insights on authentication, a
 created: 2026-01-28
 updated: 2026-01-29
 ---
-1. [21-authenticating-users-and-applications](technologies/confluent/confluent-cloud-security/21-authenticating-users-and-applications.md)
-2. [22-authorizing-using-rbac-and-acls](technologies/confluent/confluent-cloud-security/22-authorizing-using-rbac-and-acls.md)
-3. [23-understanding-encryption](technologies/confluent/confluent-cloud-security/23-understanding-encryption.md)
-4. [24-auditing-and-monitoring](technologies/confluent/confluent-cloud-security/24-auditing-and-monitoring.md)
-5. [25-maintaining-compliance-and-privacy](technologies/confluent/confluent-cloud-security/25-maintaining-compliance-and-privacy.md)
-6. [ip-filtering](technologies/confluent/confluent-cloud-security/ip-filtering.md)
+1. [21-authenticating-users-and-applications](technologies/confluent/cloud-security/21-authenticating-users-and-applications.md)
+2. [22-authorizing-using-rbac-and-acls](technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls.md)
+3. [23-understanding-encryption](technologies/confluent/cloud-security/23-understanding-encryption.md)
+4. [24-auditing-and-monitoring](technologies/confluent/cloud-security/24-auditing-and-monitoring.md)
+5. [25-maintaining-compliance-and-privacy](technologies/confluent/cloud-security/25-maintaining-compliance-and-privacy.md)
+6. [ip-filtering](technologies/confluent/cloud-security/ip-filtering.md)
 
 ## Documentation Outline
 

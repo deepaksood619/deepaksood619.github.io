@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-security/25-maintaining-compliance-and-privacy
+slug: /technologies/confluent/cloud-security/25-maintaining-compliance-and-privacy
 title: Compliance and Privacy Regulations
 description: Learn about essential compliance and privacy regulations in regulated industries with Confluent Cloud's solutions.
 created: 2025-12-10

@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-security/24-auditing-and-monitoring
+slug: /technologies/confluent/cloud-security/24-auditing-and-monitoring
 title: Auditing and Monitoring Confluent Cloud
 description: Learn how to effectively audit and monitor your Confluent Cloud cluster for security and operational insights.
 created: 2025-12-10

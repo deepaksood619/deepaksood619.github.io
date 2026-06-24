@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-security/23-understanding-encryption
+slug: /technologies/confluent/cloud-security/23-understanding-encryption
 title: Understanding Data Encryption Basics
 description: Learn the essentials of encryption, its significance for data privacy, and how Confluent Cloud protects your data in motion and at rest.
 created: 2025-12-10

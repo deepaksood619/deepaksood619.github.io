@@ -1,5 +1,5 @@
 ---
-slug: /technologies/confluent/confluent-cloud-security/22-authorizing-using-rbac-and-acls
+slug: /technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls
 title: RBAC and ACLs Authorization Explained
 description: Learn how to effectively manage user access in Confluent Cloud using RBAC and ACLs for enhanced security and efficiency.
 created: 2025-12-10
