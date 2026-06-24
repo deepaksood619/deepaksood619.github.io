@@ -20,3 +20,4 @@ updated: 2026-06-24
 ## Educational Resources
 
 - [Educational YouTube Curriculum](educational-youtube-curriculum-for-kids.md)
+- [Beyond Parenting](https://drive.google.com/file/d/1pIovzTFW6ulAISYkWWRgeJFx58KTYyf4/view?usp=sharing)
