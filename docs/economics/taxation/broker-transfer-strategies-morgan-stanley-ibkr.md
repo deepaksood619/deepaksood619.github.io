@@ -12,7 +12,7 @@ Strategic guide for moving tech equity (RSUs, ESPP) from Morgan Stanley to Inter
 
 When moving wealth from Morgan Stanley (corporate stock plan) to Interactive Brokers (IBKR), the optimal strategy depends on your end goal:
 
-**Transfer Shares if:** Repatriating to India (converting USD to INR)  
+**Transfer Shares if:** Repatriating to India (converting USD to INR)
 **Transfer Cash if:** Reinvesting in other assets (e.g., VWRA ETF)
 
 ## The Strategic Use of Share Transfers

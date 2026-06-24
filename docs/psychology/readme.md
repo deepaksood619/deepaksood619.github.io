@@ -55,11 +55,12 @@ Interpersonal relationships, social dynamics, trust, and power
 
 Child development, parenting strategies across ages
 
-- [Parenting Overview](psychology/parenting/parenting.md)
+- [Parenting Fundamentals](psychology/parenting/parenting-fundamentals.md)
+- [Parenting Styles](psychology/parenting/parenting-styles.md)
+- [Behavior Management](psychology/parenting/behavior-management.md)
+- [Development Milestones](psychology/parenting/development-milestones.md)
 - [Physical Development](psychology/parenting/parenting-physical.md)
 - [Teen Brains](psychology/parenting/parenting-teen-brains.md)
-- [Threenager Phase](psychology/parenting/parenting-threenager.md)
-- [Educational Resources](psychology/parenting/educational-youtube-curriculum-for-kids.md)
 - [Browse all →](psychology/parenting/readme.md)
 
 ### Health & Wellness

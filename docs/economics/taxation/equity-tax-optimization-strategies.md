@@ -58,7 +58,7 @@ Purchase window for reinvestment:
 - Yields only ~6-7% returns (vs equity compounding)
 - High compliance risk (strict withdrawal rules)
 
-**Strategic Implication:**  
+**Strategic Implication:**
 Selling equity years before purchase forces low-yield CGAS parking. **Hold equity until closer to purchase date** to keep capital compounding.
 
 ## 2. Managing Sequence of Returns Risk
@@ -67,7 +67,7 @@ Selling equity years before purchase forces low-yield CGAS parking. **Hold equit
 
 Holding single-stock equity (MSFT, QCOM, etc.) until purchase date exposes you to **extreme market timing risk**.
 
-**Scenario:**  
+**Scenario:**
 A 20-30% tech sector drop the month you find your dream home would force liquidation at bottom prices—**destroying more principal than you'd save in taxes**.
 
 ### The Solution: Phased De-Risking
@@ -103,7 +103,7 @@ Clicking "Sell" automatically liquidates your **oldest, highly appreciated share
 
 **Use Specific Share Identification (SSI):**
 
-**On Fidelity:** Choose "Specific Tax Lots"  
+**On Fidelity:** Choose "Specific Tax Lots"
 **On E*TRADE:** Select "Specific Lots"
 
 **On trade ticket:**
@@ -122,14 +122,14 @@ Clicking "Sell" automatically liquidates your **oldest, highly appreciated share
 - You capture discount as risk-free profit
 - Old shares continue compounding tax-deferred
 
-**Why This Works:**  
+**Why This Works:**
 The 15% discount was already taxed as income when shares were purchased via TDS. Your cost basis = Fair Market Value on purchase date. Selling at FMV = zero capital gain.
 
 ## 4. Specific-Lot Tax-Loss Harvesting
 
 ### The Legal Hierarchy
 
-**Section 70 of Income Tax Act:**  
+**Section 70 of Income Tax Act:**
 Short-Term Capital Losses (STCL) can be set off against Long-Term Capital Gains (LTCG).
 
 ### Why the 15% Loss is Real
@@ -167,10 +167,10 @@ $$
 
 ### The Critical Mistake
 
-**If your ultimate goal is to buy a house using Section 54F:**  
+**If your ultimate goal is to buy a house using Section 54F:**
 Your Long-Term Capital Gains will already be **100% tax-exempt**.
 
-**The Trap:**  
+**The Trap:**
 If you use underwater short-term losses to harvest and offset gains today that were **destined to be sheltered by real estate anyway**, you **permanently throw away those valuable tax losses**.
 
 ### The Correct Strategy

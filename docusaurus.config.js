@@ -149,7 +149,7 @@ const config = {
         logo: {
           alt: 'Site Logo',
           src: 'img/logo.webp',
-          href: '/about-deepak-sood/readme',
+          href: '/',
         },
         items: [
           {
