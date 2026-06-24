@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -203,6 +203,7 @@ The primary difference between **VGT** (Vanguard Information Technology ETF) a
 | **Tech Exposure**  | **~98%** (Pure Tech)     | ~51–56%           |
 | **Top Holding**    | Nvidia (~17.5%)          | Nvidia (~9.0%)    |
 | **Dividend Yield** | ~0.39%                   | **~0.49%**        |
+|                    | Doesn't have AMZN, GOOG  | Have AMZN, GOOG   |
 
 ### Nasdaq Composite vs Nasdaq 100
 
@@ -211,6 +212,7 @@ The composition of the NASDAQ Composite is heavily weighted towards companies in
 - The primary difference is that the Nasdaq Composite tracks nearly all stocks listed on the Nasdaq exchange, while the Nasdaq 100 is a concentrated subset of the largest 100 non-financial companies.
 - **Amazon (AMZN)** is not in the VGT
 - VGT also excludes other major companies often considered tech, such as **Alphabet (Google)** and **Meta (Facebook)**, which are classified under Communication Services.
+	- Buy QQQM instead of VGT
 
 ## Indian International ETFs
 

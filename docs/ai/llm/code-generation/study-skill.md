@@ -3,7 +3,7 @@ slug: /study-skill
 title: Study Skill - Interactive Learning & Note Augmentation
 description: Claude Code skill for interactive study sessions that find notes, teach topics, fetch latest info, and update knowledge base
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 Interactive study session that finds your existing notes, teaches you the topic, fetches latest information, answers follow-up questions, and updates notes with new learnings.
@@ -401,4 +401,4 @@ mkdir -p ~/.claude/skills/study
 - [Note Skill](ai/llm/code-generation/note-skill.md) - Automated knowledge base organization
 - [Claude Code](ai/llm/code-generation/claude-code.md) - Main Claude Code documentation
 - [Obsidian](devops/ides/obsidian.md) - Obsidian CLI reference
-- [docs/CLAUDE.md](../../CLAUDE.md) - Navigation and search strategies
+- [CLAUDE](CLAUDE.md) - Navigation and search strategies

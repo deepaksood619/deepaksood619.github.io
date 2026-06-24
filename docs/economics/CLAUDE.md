@@ -6,7 +6,7 @@ created: 2026-06-09
 updated: 2026-06-22
 ---
 
-**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **LLM-maintained financial research repository** - Systematic market research, economic analysis, financial concepts, and investment intelligence stored as structured markdown files.
 
@@ -162,7 +162,7 @@ Periodically verify: stale content (`>6` months for regulatory, `>12` months for
 
 **VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
 
-**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Content Standards
 
@@ -433,7 +433,7 @@ tags: [finance, valuation, concept-name]
 
 ## Markdown & Formatting
 
-**Inherits:** All markdown rules from [docs/CLAUDE.md](../CLAUDE.md) (blank lines, code blocks, standard links, MDX compatibility).
+**Inherits:** All markdown rules from [docs/CLAUDE.md](CLAUDE.md) (blank lines, code blocks, standard links, MDX compatibility).
 
 **Additional financial content rules:**
 

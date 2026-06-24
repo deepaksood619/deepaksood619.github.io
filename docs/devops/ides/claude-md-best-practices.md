@@ -3,7 +3,7 @@ slug: /claude-md-best-practices
 title: CLAUDE.md Best Practices
 description: Best practices for organizing and maintaining CLAUDE.md files in hierarchical project structures for Claude Code
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 Guide for organizing CLAUDE.md files across project hierarchies, based on implementing a 6-file hierarchy in a large-scale documentation project.
 
@@ -192,7 +192,7 @@ created: 2026-06-09
 updated: 2026-06-22
 ---
 
-**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **LLM-maintained financial research repository**...
 
@@ -200,11 +200,11 @@ updated: 2026-06-22
 
 **VAULT path:** `/full/path/to/vault`
 
-**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Markdown & Formatting
 
-**Inherits:** All markdown rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** All markdown rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **Additional financial content rules:**
 - Financial formatting (Rs., Cr, L notation)
@@ -224,17 +224,17 @@ created: 2026-04-15
 updated: 2026-06-22
 ---
 
-**Inherits:** Financial KB standards from [economics/CLAUDE.md](../CLAUDE.md) and content infrastructure from [docs/CLAUDE.md](../../CLAUDE.md)
+**Inherits:** Financial KB standards from [CLAUDE](economics/CLAUDE.md) and content infrastructure from [CLAUDE](CLAUDE.md)
 
 ## Obsidian CLI Usage
 
 **VAULT path:** `/full/path/to/vault`
 
-**Commands:** See [docs/CLAUDE.md](../../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [CLAUDE](CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Markdown & Formatting
 
-**Inherits:** All markdown rules from [docs/CLAUDE.md](../../CLAUDE.md) and [economics/CLAUDE.md](../CLAUDE.md)
+**Inherits:** All markdown rules from [CLAUDE](CLAUDE.md) and [CLAUDE](economics/CLAUDE.md)
 
 **Company analysis specific formatting:**
 - Tables for all metric comparisons
@@ -286,7 +286,7 @@ updated: 2026-06-22
 
 # ✅ GOOD - Reference
 ## docs/economics/CLAUDE.md
-**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete Obsidian CLI reference.
 ```
 
 ### 2. Progressive Specificity
@@ -303,7 +303,7 @@ updated: 2026-06-22
 **Always document what a file inherits from:**
 
 ```markdown
-**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
 ```
 
 This makes hierarchy visible when reading any single file.
@@ -322,7 +322,7 @@ Child files should ONLY contain:
 ```markdown
 ## Markdown & Formatting
 
-**Inherits:** All markdown rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** All markdown rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **Financial content specific rules:**
 - Currency: Use Rs. (Indian Rupee)
@@ -349,7 +349,7 @@ Child files should ONLY contain:
 ```markdown
 # docs/economics/CLAUDE.md
 
-**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete Obsidian CLI reference.
 ```
 
 ### ❌ Anti-Pattern 2: Vague Inheritance
@@ -363,7 +363,7 @@ See parent for Obsidian commands.
 **Good:**
 
 ```markdown
-**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
 ```
 
 ### ❌ Anti-Pattern 3: Missing Frontmatter
@@ -581,7 +581,7 @@ Move all Obsidian CLI, markdown formatting to `docs/CLAUDE.md`.
 Delete duplicated content, replace with references:
 
 ```markdown
-**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete reference.
+**Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete reference.
 ```
 
 ### Step 6: Standardize Frontmatter

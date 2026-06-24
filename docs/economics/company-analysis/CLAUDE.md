@@ -3,10 +3,10 @@ slug: /economics/company-analysis/CLAUDE
 title: Company Analysis Knowledge Base
 description: Discover an LLM-maintained financial analysis repository for systematic company research, fundamental analysis, and market intelligence in structured markdown files.
 created: 2026-04-15
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
-**Inherits:** Financial KB standards from [economics/CLAUDE.md](../CLAUDE.md) and content infrastructure from [docs/CLAUDE.md](../../CLAUDE.md)
+**Inherits:** Financial KB standards from [CLAUDE](economics/CLAUDE.md) and content infrastructure from [CLAUDE](CLAUDE.md)
 
 **LLM-maintained financial analysis repository** - Systematic company research, fundamental analysis, and market intelligence stored as structured markdown files.
 
@@ -137,7 +137,7 @@ Periodically verify: stale analyses (`>3` months old), broken cross-references, 
 
 **VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
 
-**Commands:** See [docs/CLAUDE.md](../../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [CLAUDE](CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Content Standards
 
@@ -386,7 +386,7 @@ tags: [sector-analysis, {sector}, indian-markets]
 
 ## Markdown & Formatting
 
-**Inherits:** All markdown rules from [docs/CLAUDE.md](../../CLAUDE.md) and [economics/CLAUDE.md](../CLAUDE.md)
+**Inherits:** All markdown rules from [CLAUDE](CLAUDE.md) and [CLAUDE](economics/CLAUDE.md)
 
 **Company analysis specific formatting:**
 

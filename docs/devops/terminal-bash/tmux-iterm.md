@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/tmux-iterm
 title: Using Tmux with iTerm
 description: Learn how to efficiently manage multiple terminal sessions with Tmux and iTerm for enhanced productivity.
 created: 2023-03-05
-updated: 2026-04-03
+updated: 2026-06-24
 ---
 Tmux is a terminal multiplexer.
 
@@ -11,7 +11,7 @@ It lets you switch easily between several programs in one terminal, detach them 
 
 tmux is a [software application](https://en.wikipedia.org/wiki/Software_application) that can be used to [multiplex](https://en.wikipedia.org/wiki/Terminal_multiplexer) several [virtual consoles](https://en.wikipedia.org/wiki/Virtual_console), allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. It is useful for dealing with multiple programs from a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface), and for separating programs from the [Unix shell](https://en.wikipedia.org/wiki/Unix_shell) that started the program. It provides much of the same functionality as [GNU Screen](https://en.wikipedia.org/wiki/GNU_Screen), but it is distributed under a [BSD license](https://en.wikipedia.org/wiki/BSD_license)
 
-### Iterm Commands on server
+## Iterm Commands on server
 
 ```bash
 Prefix - Ctrl + b
@@ -47,7 +47,7 @@ Ctrl-b = :set -g mouse on
     ctrl+b + z
 ```
 
-### Iterm / iterm2 commands on local
+## Iterm / iterm2 commands on local
 
 ```bash
 Command + D (split vertically)
@@ -71,12 +71,14 @@ Save window arrangement - Shift + Cmd + S
 Restore window arrangement - Shift + Cmd + R
 ```
 
-### Shell integration
+## Shell integration
 
 - [Shell Integration - Documentation - iTerm2 - macOS Terminal Replacement](https://iterm2.com/documentation-shell-integration.html)
 - [Beautify your iTerm2 and prompt 💋 \| by Steven Chim \| airfrance-klm \| Medium](https://medium.com/airfrance-klm/beautify-your-iterm2-and-prompt-40f148761a49)
 
 ## Others
+
+- [GitHub - manaflow-ai/cmux: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. · GitHub](https://github.com/manaflow-ai/cmux)
 
 ### byobu
 

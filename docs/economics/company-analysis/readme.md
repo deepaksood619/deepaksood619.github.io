@@ -3,7 +3,7 @@ slug: /economics/company-analysis/readme
 title: Company Analysis
 description: Discover comprehensive company analyses, sector reports, and investment frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
 created: 2026-06-03
-updated: 2026-06-16
+updated: 2026-06-24
 ---
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 
@@ -255,6 +255,6 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ## Quick Links
 
-- [Project Root CLAUDE.md](../../CLAUDE.md) - Docusaurus and Obsidian guidelines
-- [Company Analysis CLAUDE.md](CLAUDE.md) - Financial analysis workflow and standards
+- Project Root - [CLAUDE](CLAUDE.md) - Docusaurus and Obsidian guidelines
+- [CLAUDE](economics/company-analysis/CLAUDE.md) - Financial analysis workflow and standards
 - [Economics Section](../readme.md) - Parent economics directory

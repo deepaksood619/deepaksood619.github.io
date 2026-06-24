@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/voice-models
 title: Voice Models
 description: Discover top voice models like Whisper for accurate speech-to-text conversion, multilingual recognition, and efficient audio transcription solutions.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-24
 ---
 ## Speech to text Model - Whisper / Voice to Text / Audio to Text
 
@@ -161,3 +161,4 @@ Turn any python function into a real-time audio and video stream over WebRTC or 
 - https://www.reddit.com/r/LocalLLaMA/comments/1mbny6o/100x_faster_and_100x_cheaper_transcription_with/
 - https://www.reddit.com/r/speechtech/comments/1kd9abp/i_benchmarked_12_speechtotext_apis_under_various/
 - https://www.reddit.com/r/OpenAI/comments/1eu79ir/looking_for_a_whisper_large_model_for_30x/
+- [GreyLabs AI – Voice AI for BFSI](https://greylabs.ai/)

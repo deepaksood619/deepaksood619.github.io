@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
@@ -64,133 +64,6 @@ claude update
 11. **Compaction:** Compress long conversations to save tokens
 12. **Subagents:** Spawn parallel agents for complex tasks
 13. [Claude Managed Agents](https://claude.com/blog/claude-managed-agents)
-
-## Built-in Commands
-
-### Session Management
-
-- **/compact**: Shrink conversation history to save tokens
-- **/clear**: Wipe old context
-- **/rewind**: (Double-tap `Esc`) Undo recent changes or revert conversation
-
-### Configuration
-
-- **/init**: Create `CLAUDE.md` file
-- **/model**: Switch between models (haiku/sonnet/opus)
-- **/mcp**: Manage Model Context Protocol servers
-- **/powerup**: Interactive lessons with animated demos
-
-### Development
-
-- **/review**: Code review of current changes
-- **/loop**: Run prompt on schedule (e.g., `/loop 5m check deployment`)
-
-### Monitoring
-
-- **/cost**: Token usage breakdown with USD estimate
-- **/stats**: Token usage and rate limit status
-
-![Claude Command Cheatsheet](media/claude-commands-cheatsheet.png)
-
-## Skills System
-
-### What are Skills?
-
-**Skills** are reusable instruction files that Claude follows automatically when relevant to your task.
-
-### Skills vs Slash Commands
-
-| Feature              | **Slash Commands**                                                                   | **Skills**                                                                                                     |
-| -------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| **Invocation**       | **Manual**: You type `/command` to trigger                        | **Automatic**: Claude detects when needed based on context                          |
-| **Best For**         | One-off actions, session control (e.g., `/cost`, `/compact`) | Complex workflows, domain expertise (e.g., security audits, refactoring)                   |
-| **Data Structure**   | Single `.md` file in `.claude/commands/`                                | Folder with `SKILL.md` + supporting files                                          |
-| **Token Efficiency** | Entire prompt added to context every invocation                   | **Progressive Disclosure**: Only name/description load initially |
-
-[Understanding CLAUDE.md vs Skills vs Slash Commands](https://www.reddit.com/r/ClaudeAI/comments/1ped515/understanding_claudemd_vs_skills_vs_slash/)
-
-### Creating Custom Skills
-
-**Directory structure:**
-
-```bash
-~/.claude/skills/
-├── my-skill/
-│   └── SKILL.md
-├── another-skill/
-│   └── SKILL.md
-```
-
-**SKILL.md format:**
-
-```markdown
----
-name: my-skill
-description: Brief description of what this skill does
----
-
-# Skill Title
-
-Detailed instructions for Claude to follow when this skill is invoked.
-
-## When to Use
-
-Describe scenarios where this skill applies.
-
-## Workflow
-
-Step-by-step instructions:
-
-1. Step 1
-2. Step 2
-3. Step 3
-
-## Examples
-
-Provide concrete examples of how to use this skill.
-```
-
-**Creating a skill:**
-
-```bash
-# Create skill directory
-mkdir -p ~/.claude/skills/my-skill
-
-# Create SKILL.md file
-cat > ~/.claude/skills/my-skill/SKILL.md << 'EOF'
----
-name: my-skill
-description: Example skill for demonstration
----
-
-# My Skill
-
-Instructions for Claude...
-EOF
-
-# Reload skills in active Claude session
-/reload-skills
-
-# Invoke the skill
-/my-skill
-```
-
-**Example skill:** [Note Skill](ai/llm/code-generation/note-skill.md) - Fully automated knowledge base organization with semantic search, categorization, and intelligent linking
-
-**Best practices:**
-
-1. **Clear invocation triggers**: Describe when skill should activate
-2. **Structured workflows**: Use numbered steps for clarity
-3. **Concrete examples**: Show expected inputs/outputs
-4. **Progressive disclosure**: Start with overview, add details in sections
-5. **Test thoroughly**: Try skill on real tasks before committing
-
-**Skill resources:**
-
-- [Superpowers Skills Framework](https://github.com/obra/superpowers) ⭐ 229k
-- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 216k
-- [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 13k
-- [Agent Skills Marketplace](https://skillsmp.com/)
 
 ## Popular Skills & Frameworks
 
@@ -613,6 +486,9 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 
 ## Additional Links & Resources
 
+- [claude-code-skills](ai/llm/code-generation/claude-code-skills.md)
+- [note-skill](ai/llm/code-generation/note-skill.md)
+- [study-skill](ai/llm/code-generation/study-skill.md)
 - [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 176k
 - **The Four Principles:**
 	- **Think before coding:** don't assume.

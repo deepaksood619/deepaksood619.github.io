@@ -6,7 +6,7 @@ created: 2026-05-01
 updated: 2026-06-22
 ---
 
-**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **LLM-maintained wiki for multi-domain startup research**
 
@@ -233,6 +233,6 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 ## Important
 
 - No access to `office/*` folder (sensitive data)
-- **Formatting:** All markdown rules inherited from [docs/CLAUDE.md](../CLAUDE.md)
-- **Obsidian CLI:** Full command reference in [docs/CLAUDE.md](../CLAUDE.md)
+- **Formatting:** All markdown rules inherited from [docs/CLAUDE.md](CLAUDE.md)
+- **Obsidian CLI:** Full command reference in [docs/CLAUDE.md](CLAUDE.md)
 - Prefer Obsidian CLI for creating/updating research files

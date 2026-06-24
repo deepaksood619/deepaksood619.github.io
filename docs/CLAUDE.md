@@ -6,7 +6,7 @@ created: 2026-04-15
 updated: 2026-06-22
 ---
 
-**Inherits:** Project infrastructure from [root CLAUDE.md](../CLAUDE.md)
+**Inherits:** Project infrastructure from [root CLAUDE.md](CLAUDE.md)
 
 Content infrastructure guidance for working with 7400+ markdown notes in Obsidian vault.
 
@@ -487,4 +487,4 @@ graph TD
 
 - **Full Obsidian CLI Reference:** [Obsidian](devops/ides/obsidian.md)
 - **CLAUDE.md Hierarchy Guide:** [CLAUDE.md Best Practices](devops/ides/claude-md-best-practices.md)
-- **Project Infrastructure:** [Root CLAUDE.md](../CLAUDE.md)
+- **Project Infrastructure:** [Root CLAUDE.md](CLAUDE.md)

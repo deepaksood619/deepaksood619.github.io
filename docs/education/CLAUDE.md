@@ -6,7 +6,7 @@ created: 2026-04-15
 updated: 2026-06-22
 ---
 
-**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **LLM-maintained wiki for education startup development** - Systematic knowledge organization supporting product decisions with research evidence.
 
@@ -149,7 +149,7 @@ When creating new content, place files in the appropriate folder:
 
 **VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
 
-**Commands:** See [docs/CLAUDE.md](../CLAUDE.md) for complete Obsidian CLI reference.
+**Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete Obsidian CLI reference.
 
 ## Content Standards
 
@@ -234,7 +234,7 @@ How this research informs product decisions
 
 ## Markdown & Formatting
 
-**Inherits:** All markdown rules from [docs/CLAUDE.md](../CLAUDE.md)
+**Inherits:** All markdown rules from [docs/CLAUDE.md](CLAUDE.md)
 
 **Education content specific rules:**
 

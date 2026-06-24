@@ -3,7 +3,7 @@ slug: /note-skill
 title: Note Skill - Automated Knowledge Base Organization
 description: Claude Code skill for automatically adding topics to knowledge base with semantic search, categorization, and intelligent linking
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 Automatically add any topic (technology, concept, mental model, food, health, etc.) to the knowledge base with intelligent organization.
@@ -559,4 +559,4 @@ mkdir -p ~/.claude/skills/note
 
 - [Claude Code](ai/llm/code-generation/claude-code.md) - Main Claude Code documentation with skills creation guide
 - [Obsidian](devops/ides/obsidian.md) - Obsidian CLI reference for file operations
-- [docs/CLAUDE.md](../../CLAUDE.md) - Navigation and search strategies for this knowledge base
+- [CLAUDE](CLAUDE.md) - Navigation and search strategies for this knowledge base
