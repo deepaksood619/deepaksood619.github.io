@@ -3,7 +3,7 @@ slug: /knowledge/history/others
 title: Others
 description: Explore topics on totalitarianism, monopolies, evolution, and more with insightful summaries from Blinkist and related links about history and science.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-06-24
 ---
 ## Blinkist - The future is history
 
@@ -13,6 +13,17 @@ Totalitarian rule in Russia
 
 - Libertarianism
 - Monopoly can cause terrible damage as by East India Trading Company (Great Bengal Famine and wrote legislation that control nation's trade routes)
+
+**Facebook Culture**
+
+- Move Fast and Break Things
+- Done is Better Than Perfect
+- Fail Harder
+- What Would You Do If You Weren’t Afraid?
+- Every Day Feels Like a Week
+- The Wright Brothers Did Not Have Pilot Licenses
+- The Foolish Wait
+- Fortune Favors the Bold
 
 ## Blinkist - Other Minds
 

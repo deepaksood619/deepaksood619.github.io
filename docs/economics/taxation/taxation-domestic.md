@@ -9,6 +9,8 @@ updated: 2026-06-09
 
 ## LTCG / Tax Loss Harvesting
 
+**See also:** [Equity Tax Optimization Strategies](economics/taxation/equity-tax-optimization-strategies.md) - Strategic guide for tech equity holders combining tax-loss harvesting, ESPP liquidation, and Section 54F
+
 To prevent gains from building up, experts suggest harvesting. This means booking a portion of your profits and reinvesting the proceeds. So you sell a part of your equity holdings to book long term capital gains, and then buy back the same shares or mutual fund units.
 
 - Harvest losses too when you still can
@@ -68,6 +70,8 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 [Real Estate Taxation Example After Finance Bill 2024 Amendment](https://freefincal.com/real-estate-taxation-example-after-finance-bill-2024-amendment/)
 
 ## Taxes on house (Section 54F)
+
+**See also:** [Comprehensive Equity Tax Optimization Guide](economics/taxation/equity-tax-optimization-strategies.md) - Integrates Section 54F with ESPP strategies and tax-loss harvesting
 
 - In respect of capital gains arising on sale any asset other than a residential house, an individual or an HUF can claim exemption from long term capital gains if the net sale consideration in respect of such asset is invested for acquiring a residential house within a period of two years after sale of such asset.
 - Under Section 54F you should not own more than one residential house property on the date of sale of the asset except the one in respect of which you are claiming the exemption

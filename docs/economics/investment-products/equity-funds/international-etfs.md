@@ -72,7 +72,11 @@ updated: 2026-06-24
 ## Others
 
 - **Vanguard FTSE All-World UCITS ETF (LON:VWRA) - VWRA**
-	- VWRA VANG FTSE AW USDA - LSEETF
+	- **See also:** [Broker Transfer Strategies](economics/taxation/broker-transfer-strategies-morgan-stanley-ibkr.md) - Guide on transferring from Morgan Stanley to IBKR to buy VWRA efficiently
+	- IBKR - **VWRA VANG FTSE AW USDA - LSEETF**
+	- Market Timings (Daylight Savings) in London
+		- in summers - March to October  - 12:30 PM – 09:00 PM IST
+		- in winters - October to March - 01:30 PM to 10:00 PM IST
 	- VWRA - Stock ticker VANG - By Vanguard FTSE - Tracks the FTSE index AW - All world USDA - Trades in USD, A is an accumulation ETF
 	- Assets - $25.68B
 	- Expense Ratio - 0.19%

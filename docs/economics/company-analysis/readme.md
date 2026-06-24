@@ -253,6 +253,10 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 **See [CLAUDE.md](CLAUDE.md) for complete workflow, templates, and quality standards.**
 
+## Others
+
+- [Why is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
+
 ## Quick Links
 
 - Project Root - [CLAUDE](CLAUDE.md) - Docusaurus and Obsidian guidelines

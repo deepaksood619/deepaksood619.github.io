@@ -72,6 +72,8 @@ Taxation is the 3rd pillar of personal finance. Understanding how to minimize ta
 
 ### 2. Tax Loss Harvesting
 
+**See also:** [Equity Tax Optimization Strategies](economics/taxation/equity-tax-optimization-strategies.md) - Advanced strategies for ESPP holders, specific-lot harvesting, and Section 54F integration
+
 **What:** Sell loss-making investments to offset capital gains
 
 **How it works:**

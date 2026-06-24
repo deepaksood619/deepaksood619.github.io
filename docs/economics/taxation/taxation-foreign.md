@@ -68,10 +68,13 @@ Basically the only issue will come with dividends (this is missed in 26AS and ne
 
 #### Selling of Company Stocks (ESSPs)
 
+**See also:** [Equity Tax Optimization Strategies](economics/taxation/equity-tax-optimization-strategies.md) - Comprehensive guide for ESPP liquidation using specific-lot selection, tax-loss harvesting, and Section 54F integration
+
 - [TAX in India on sale of NYSE listed ESPP stocks. : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1c6en8c/tax_in_india_on_sale_of_nyse_listed_espp_stocks/)
 	- keep in morgan stanley at work microsoft stock awards after selling
 	- Morgan Stanley StockPlan Connect - atwork.morganstanley
 - Transfer to IBKR
+	- **See:** [Broker Transfer Strategies - Morgan Stanley to IBKR](economics/taxation/broker-transfer-strategies-morgan-stanley-ibkr.md) - Complete guide on when to transfer shares vs cash, repatriation strategies, and AML compliance
 	- [US RSU (Morgan Stanley StockPlan) transfer to IBKR SG? : r/singaporefi](https://www.reddit.com/r/singaporefi/comments/176roxz/us_rsu_morgan_stanley_stockplan_transfer_to_ibkr/)
 - [How to Diversify Foreign ESOP & RSU Holdings Through Vested Platform](https://vestedfinance.com/blog/us-stocks/diversify-your-foreign-esop-rsu-holdings-with-vested/)
 	- While transferring from the broker to the Vested account, would it be considered a sale? In my scenario, I want to transfer my vested stocks to Vested, so transfer of a stock in stock form only to Vested would not incur any capital gains tax. Is this understanding correct?

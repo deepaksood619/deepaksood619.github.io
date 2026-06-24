@@ -3,7 +3,7 @@ slug: /psychology/buying-guide
 title: Buying guides
 description: Explore essential buying guides to make informed choices on shoes, cars, and home essentials, ensuring durability and functionality with every purchase.
 created: 2026-01-10
-updated: 2026-05-26
+updated: 2026-06-24
 ---
 - **Buy less, choose it well, make it last**
 - Don't buy black or white items, it gets very dirty pretty fast
@@ -18,7 +18,7 @@ updated: 2026-05-26
 - [🚨Prime day 2024 deals on best home appliances - YouTube](https://www.youtube.com/watch?v=SZjR9w786i4&ab_channel=TheGrapevine)
 - Table - rounded corners and edges, since your wrist gets hurt, and whole hand is laying, so width should be huge with monitor too
 
-### Worst things to buy
+## Worst things to buy
 
 1. New Cars: The Depreciating Asset Trap
 2. Excessive Home Upgrades: When Bigger Isn’t Better
@@ -32,7 +32,7 @@ updated: 2026-05-26
 
 [The 5 Worst Things The Middle Class Buys According To Warren Buffett - New Trader U](https://www.newtraderu.com/2025/03/13/the-5-worst-things-the-middle-class-buys-according-to-warren-buffett/)
 
-### Phone / Mobile
+## Phone / Mobile
 
 - Never buy phone more than 15K at max 20K (Conspicuous consumption)
 - [IP Ratings Table-Difference between IP63 IP64 IP65 IP67 IP68](https://www.test-and-measurement-world.com/Terminology/IP-Ratings-Table-IP63-vs-IP64-vs-IP65-vs-IP67-vs-IP68.html)
@@ -49,7 +49,7 @@ updated: 2026-05-26
 	- Hide location details on lock screen
 	- Swipe down on lock screen to view notification drawer
 
-### Checklist
+## Checklist
 
 | Buying Checklist: Smart Spending Guide                        | Response |
 | ------------------------------------------------------------- | -------- |
@@ -163,6 +163,7 @@ Voltas AC - ADJ 12 - Refers to the 1.2 Ton capacity models within the adjustable
 
 ### Forex Card
 
+- Is asked for to pay via local currency or Rupees, always pay via **local currency** i.e. USD if in USA
 - [Best Credit Card for International Travel? : r/CreditCardsIndia](https://www.reddit.com/r/CreditCardsIndia/comments/1guxu38/best_credit_card_for_international_travel/)
 - [Credit Cards vs Forex Card vs Cash - What is Best for Foreign Travels \|\| Every Paisa Matters - YouTube](https://www.youtube.com/watch?v=Ca9S5s12jtU)
 	- Scapia LTF Zero Forex Credit Card
