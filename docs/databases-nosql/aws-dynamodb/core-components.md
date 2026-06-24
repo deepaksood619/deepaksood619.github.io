@@ -1,7 +1,7 @@
 ---
 slug: /databases-nosql/aws-dynamodb/core-components
 title: Core components
-description: Discover the core components of DynamoDB: tables, items, attributes, primary keys, and secondary indexes for efficient data management and querying flexibility.
+description: Discover the core components of DynamoDB - tables, items, attributes, primary keys, and secondary indexes for efficient data management and querying flexibility.
 created: 2023-03-05
 updated: 2025-06-10
 ---

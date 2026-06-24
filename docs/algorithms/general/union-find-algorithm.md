@@ -1,7 +1,7 @@
 ---
 slug: /algorithms/general/union-find-algorithm
 title: Union-Find Algorithm Explained
-description: Learn about the Union-Find algorithm: its operations, properties, and applications in dynamic connectivity for disjoint-set data structures.
+description: Learn about the Union-Find algorithm - its operations, properties, and applications in dynamic connectivity for disjoint-set data structures.
 created: 2023-03-05
 updated: 2023-12-06
 ---

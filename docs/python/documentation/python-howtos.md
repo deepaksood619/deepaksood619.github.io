@@ -1,7 +1,7 @@
 ---
 slug: /python/documentation/python-howtos
 title: Essential Python HowTos
-description: Explore key Python HowTos: porting code, functional programming, regex, and more to enhance your development skills.
+description: Explore key Python HowTos - porting code, functional programming, regex, and more to enhance your development skills.
 created: 2023-03-05
 updated: 2023-03-07
 ---

@@ -1,7 +1,7 @@
 ---
 slug: /knowledge/biology/genetics
 title: Genetics
-description: Explore genetics: understand phenotypes, observable traits, and how an organism's characteristics are shaped by genes and environmental interactions.
+description: Explore genetics - understand phenotypes, observable traits, and how an organism's characteristics are shaped by genes and environmental interactions.
 created: 2023-03-05
 updated: 2026-05-28
 ---

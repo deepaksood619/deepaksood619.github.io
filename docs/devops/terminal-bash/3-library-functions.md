@@ -1,7 +1,7 @@
 ---
 slug: /devops/terminal-bash/3-library-functions
 title: Understanding Library Functions and Buffering
-description: Explore library functions like setvbuf for stream buffering operations: unbuffered, block buffered, and line buffered.
+description: Explore library functions like setvbuf for stream buffering operations - unbuffered, block buffered, and line buffered.
 created: 2023-03-05
 updated: 2023-03-07
 ---

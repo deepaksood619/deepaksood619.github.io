@@ -1,7 +1,7 @@
 ---
 slug: /book-summaries/business/the-mom-test
 title: The Mom Test
-description: Learn how to effectively gauge your business idea's viability using The Mom Test principles: ask about past experiences, listen intently, and avoid bias.
+description: Learn how to effectively gauge your business idea's viability using The Mom Test principles - ask about past experiences, listen intently, and avoid bias.
 created: 2026-06-18
 updated: 2026-06-18
 ---
