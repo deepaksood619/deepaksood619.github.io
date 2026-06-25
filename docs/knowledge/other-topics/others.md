@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/others
 title: Others
 description: Explore the impacts of poverty and hunger in India, global hunger statistics, and understand the intelligence cycle model in this insightful analysis.
 created: 2023-07-10
-updated: 2026-06-24
+updated: 2026-06-26
 ---
 ## Poverty
 
@@ -51,7 +51,7 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 ## Others
 
 - [donations](ideas/donations.md)
-- [thoughts-future-ideas-vision-prediction](ideas/thoughts-future-ideas-vision-prediction.md)
+- [future-predictions-2040-2050](ideas/03-guidance/future-predictions-2040-2050.md)
 - [Parimutuel betting - Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 - [The Biggest Mysteries Science Still Hasn't Solved \| Compilation - YouTube](https://www.youtube.com/watch?v=qJvT2kIW9kk)
 - [Torino scale - Wikipedia](https://en.wikipedia.org/wiki/Torino_scale)

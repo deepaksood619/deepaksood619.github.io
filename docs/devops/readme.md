@@ -3,7 +3,7 @@ slug: /devops/readme
 title: DevOps
 description: Explore our comprehensive DevOps guide covering essential topics like Docker, Kubernetes, CI/CD, monitoring, Ansible, Terraform, and more for efficient software delivery.
 created: 2023-03-05
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 ## Fundamentals
@@ -22,7 +22,7 @@ updated: 2026-06-25
 
 ## CI/CD & GitOps
 
-- [CI/CD](cicd/) - ArgoCD, GitHub Actions, pipeline comparisons
+- [CICD comparison](devops/cicd/comparison.md) - ArgoCD, GitHub Actions, pipeline comparisons
 
 ## Monitoring & Observability
 
