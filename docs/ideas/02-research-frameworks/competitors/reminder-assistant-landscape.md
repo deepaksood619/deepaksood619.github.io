@@ -5,9 +5,6 @@ description: Competitive analysis of Memorae, Notis, Folk, Dex, and personal rel
 created: 2026-06-26
 updated: 2026-06-26
 ---
-
-**Related:** [Conversational Reminder Assistant](../../../ideas/01-startup-opportunities/vetted/conversational-reminder-assistant.md)
-
 ## Market Segmentation
 
 **WhatsApp/Messaging Reminders:**

@@ -38,7 +38,7 @@ Last updated: 2026-06-18
    - Build time: 2-3 months
    - **Status:** Ideation
 
-8. **[Conversational Reminder & Follow-up Assistant](ideas/conversational-reminder-assistant.md)** - Productivity/Personal AI
+1. **[Conversational Reminder & Follow-up Assistant](ideas/01-startup-opportunities/vetted/conversational-reminder-assistant.md)** - Productivity/Personal AI
    - WhatsApp/Telegram AI assistant — "remind me to call X tomorrow"
    - Tracks people obligations, follow-ups, waiting-on lists via voice/text
    - Market: $4.3B task management + $2.7B WhatsApp users
@@ -127,7 +127,7 @@ Last updated: 2026-06-18
 
 **Active Ideas:**
 
-- [Conversational Reminder & Follow-up Assistant](ideas/conversational-reminder-assistant.md)
+- [Conversational Reminder & Follow-up Assistant](ideas/01-startup-opportunities/vetted/conversational-reminder-assistant.md)
 
 **Market Research:**
 
