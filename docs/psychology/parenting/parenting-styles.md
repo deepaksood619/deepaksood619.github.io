@@ -3,7 +3,7 @@ slug: /parenting-styles
 title: Parenting Styles
 description: Different approaches to parenting and their impact on child development
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 ## Overview
@@ -11,6 +11,11 @@ updated: 2026-06-24
 Understanding different parenting styles helps parents make informed choices about how they raise their children. Each style has distinct characteristics and outcomes.
 
 ## Five Major Parenting Styles
+
+|                            | More Warmth (Left)                                                                                                                       | Less Warmth (Right)                                                                                                                     |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **More Demands (Top)**     | **AUTHORITATIVE** (High warmth + high demands) — There were rules, but there was explanation. Mistakes met conversation, not punishment. | **AUTHORITARIAN** (Low warmth + high demands) — “Because I said so.” No explanation, just scolding or hitting. “Boys don’t cry.”        |
+| **Fewer Demands (Bottom)** | **PERMISSIVE** (High warmth + low demands) — There was love, but no structure. No boundaries. Discipline learned later, on your own.     | **UNINVOLVED** (Low warmth + low demands) — Parents were physically there, but not really there. Childhood largely managed on your own. |
 
 ### Authoritarian Parenting
 

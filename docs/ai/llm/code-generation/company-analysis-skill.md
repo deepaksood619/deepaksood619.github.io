@@ -20,6 +20,7 @@ Perform comprehensive company analysis (fundamental, technical, or both) for any
 ```
 
 **Analysis types:**
+
 - `fundamental` — Financial health, valuation, business quality, shareholding (default for unknown companies)
 - `technical` — Chart patterns, momentum, support/resistance, entry/exit zones
 - `comprehensive` — Full fundamental + technical combined report
@@ -41,6 +42,7 @@ find docs/economics/company-analysis/companies -name "*<company-slug>*"
 ```
 
 **Decision:**
+
 - File exists → **UPDATE mode**: read existing file, fetch latest data, append update log
 - No file → **CREATE mode**: full analysis from scratch
 
@@ -632,6 +634,7 @@ Use both **Fundamental Analysis Template** + **Technical Analysis Template** com
 ### India-Specific Flags
 
 **Immediate Red Flags (reconsider investment):**
+
 - Promoter pledge `>`20%
 - Promoter holding declining sharply (`>`5% reduction in 1 quarter)
 - Debt/Equity `>`3x for non-financial companies
@@ -641,6 +644,7 @@ Use both **Fundamental Analysis Template** + **Technical Analysis Template** com
 - Related party transactions `>`20% of revenue
 
 **Green Flags (positive signal):**
+
 - Promoter increasing holding (open market purchase)
 - Pledge reduction (financial de-leveraging)
 - FII/DII increasing stake consecutively
@@ -651,6 +655,7 @@ Use both **Fundamental Analysis Template** + **Technical Analysis Template** com
 ### Technical Analysis Quick Check
 
 **Bullish Setup:**
+
 - Price `>`200-DMA and `>`50-DMA
 - RSI between 50-70 (momentum without overbought)
 - MACD above signal line and positive histogram
@@ -659,6 +664,7 @@ Use both **Fundamental Analysis Template** + **Technical Analysis Template** com
 - VCP pattern forming near pivot (low volume contraction)
 
 **Bearish Setup:**
+
 - Price `<`200-DMA
 - RSI `<`40 (weakness) or `>`80 (overbought, correction risk)
 - MACD below signal line with negative histogram
@@ -666,6 +672,7 @@ Use both **Fundamental Analysis Template** + **Technical Analysis Template** com
 - Lower highs and lower lows
 
 **Neutral/Wait:**
+
 - Price between 50-DMA and 200-DMA
 - RSI near 50 (no strong signal)
 - Consolidating in range without breakout
@@ -786,6 +793,7 @@ Before saving any analysis markdown file:
 ## Critical Rules
 
 ### DO
+
 - **Search first** — Always check for existing analysis before creating new
 - **Save everything** — Every analysis MUST be a markdown file; never analysis-only in chat
 - **Use Obsidian CLI** — For all file creation and updates
@@ -796,6 +804,7 @@ Before saving any analysis markdown file:
 - **Timestamp data** — Always note when data was fetched
 
 ### DON'T
+
 - **Skip file creation** — Never provide analysis only in chat
 - **Auto-commit** — Never run `git commit` without explicit user approval
 - **Create broken links** — Verify target file exists first

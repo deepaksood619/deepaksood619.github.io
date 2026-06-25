@@ -99,6 +99,7 @@ Bosch Limited is India's largest automotive component supplier and a subsidiary 
 | **EPS (Rs.)** | 412.70 | 482.99 | 844.42 | 682.62 | 939.29 | 22.9% |
 
 **Trend Analysis:**
+
 - Consistent revenue growth at 14% CAGR driven by market share gains and aftermarket expansion
 - Operating margins stable at 12-13%, indicating pricing power
 - Net profit growth outpaced revenue due to low tax rate and strong other income (Rs. 1,410 Cr in FY26, 7% of sales)
@@ -161,6 +162,7 @@ Bosch Limited is India's largest automotive component supplier and a subsidiary 
 **Shareholding Rating:** 9/10
 
 Key observations:
+
 - Stable promoter holding at 70.54% with zero pledge demonstrates confidence
 - Limited free float (29.46%) reduces liquidity but ensures stability
 - Strong backing by Robert Bosch GmbH (global technology leader) is a major strength
@@ -353,6 +355,7 @@ Bosch Limited is in a strong uptrend, trading near all-time highs with price com
 ### Base Case (Target: Rs. 40,000)
 
 **Assumptions:**
+
 - Revenue growth sustains at 12-14% driven by market share gains and aftermarket
 - Operating margins stable at 12-13%
 - Net profit grows 15% annually (FY26: Rs. 2,770 Cr → FY27E: Rs. 3,185 Cr)

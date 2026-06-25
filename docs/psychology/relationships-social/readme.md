@@ -9,7 +9,7 @@ updated: 2026-06-24
 ## Core Topics
 
 - [Life & Relationships](life-relationship-people.md)
-- [Understanding People](people.md)
+- [Understanding People](psychology/relationships-social/people.md)
 - [Trust](trust.md)
 - [Power Dynamics](power.md)
 - [Marriage](marriage.md)
