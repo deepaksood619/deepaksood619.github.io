@@ -237,7 +237,7 @@ Last updated: 2026-06-18
 **Research Merged into Idea Pages:**
 
 - B2B Coding Assessment research → merged into [AI Coding Test Platform](education/product-concepts/ai-coding-test-platform.md)
-- GenAI Chatbot Market Analysis → merged into [GenAI Website Chatbot](ideas/genai-website-chatbot.md)
+- GenAI Chatbot Market Analysis → merged into [GenAI Website Chatbot](ideas/01-startup-opportunities/vetted/genai-website-chatbot.md)
 
 **To Be Created:**
 
