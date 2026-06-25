@@ -3,7 +3,7 @@ slug: /courses/course-time-series-analysis/time-series-modeling
 title: Time-Series Modeling
 description: Explore time-series modeling to predict future patterns with significant coefficients, optimal model simplicity, and essential criteria for evaluation.
 created: 2023-03-05
-updated: 2026-03-27
+updated: 2026-06-26
 ---
 ## Endogenous variable - The variable we are estimating
 
@@ -13,7 +13,7 @@ Patterns in the past persist in the future
 
 1. Significant coefficients
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image1.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image1.jpg)
 
 2. Parsimonious (as simple as possible)
 
@@ -44,16 +44,16 @@ We rely on autoregressive models when there is clear autocorrelation within the 
 
 Since time series assumes that patterns found in the past translate to the future, if autocorrelation is present in the data, we need to us some form of AR model to capture this relationship if we wish to make good estimates
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image2.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image2.jpg)
 
 - A linear model, where current period values are a sum of past outcomes multiplied by a numeric factor
 - phi is between -1 and +1
 
 ## Implementation of simple mode in Python
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image3.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image3.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image4.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image4.jpg)
 
 Which do we use to select the correct ARmodel and why: the ACFor the PACF? The PACF because it shows the individual effect each past value has on the current one.
 
@@ -98,7 +98,7 @@ df['returns'] = df.market_value.pct_change(1).mul(100)
 df = df.iloc[1:]
 ```
 
-#### Why did we conduct the Augmented Dickey-Fuller test on returns?
+### Why did we conduct the Augmented Dickey-Fuller test on returns?
 
 To make sure the newly generated data set is stationary
 
@@ -106,15 +106,15 @@ The more easily yesterday's price is affected by higher lags, the more inaccurat
 
 Why do we infer from this summary table, that the AR(1)model for returns holds no predictive power? - Neither of the coefficients is significant.
 
-#### How do we interpret the result of the LLR test when comparing the AR(2)and the AR(3)?
+### How do we interpret the result of the LLR test when comparing the AR(2)and the AR(3)?
 
 The more complicated model provides significantly greater Log-likelihood to justify its greater complexity.
 
-#### What conclusion do we draw when it comes to AR models and Normalizing?
+### What conclusion do we draw when it comes to AR models and Normalizing?
 
 Normalizing has no effect on the order of the optimal AR model regardless of the data set.
 
-#### Why do we plot the ACF and/or PACFof the residuals from a fitted model?
+### Why do we plot the ACF and/or PACFof the residuals from a fitted model?
 
 If the residuals are non-random (not White Noise), then there is a pattern that needs to be accounted for.
 
@@ -126,29 +126,29 @@ This implies that there are other factors apart from the previous values of the 
 
 This is why, these models incorporate past residuals (also known as error terms) to help us improve our estimations. These make sure our model handles unexpected shocks well, which is why it's also known as a smoothing model
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image5.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image5.jpg)
 
 ## Implementation of the Simple Model in Python
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image6.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image6.jpg)
 
-#### How is the MAmodel different from the ARmodel?
+### How is the MAmodel different from the ARmodel?
 
 The MA model includes past residuals, while the ARmodel includes past values.
 
-#### What is the most important change we make when switching from an AR(1) model to an MA(1) model?
+### What is the most important change we make when switching from an AR(1) model to an MA(1) model?
 
 We change the order parameter from (1,0) to (0,1)
 
-#### What was the relationship between the ACFplot and the coefficients of the models as we gradually increased the order?
+### What was the relationship between the ACFplot and the coefficients of the models as we gradually increased the order?
 
 When fitting an MA(Q) model, if the Q-th lag isn't significant in the ACFplot, the Q-th coefficient of the summary table won't be significant as well.
 
-#### Why do we like to estimate the standard deviation of the residuals?
+### Why do we like to estimate the standard deviation of the residuals?
 
 So we can know how far off we can hypothetically be with our predictions.
 
-#### What did we learn about normalized and non-normalized returns in this lecture?
+### What did we learn about normalized and non-normalized returns in this lecture?
 
 They have the same optimal model
 
@@ -157,7 +157,7 @@ They have the same optimal model
 - MA aspect does that, Also use the previous period's values
 - Some combination of AR and MA models would be best
 
-#### When the ACF coefficients don't seem to die off, we should use what kind of model?
+### When the ACF coefficients don't seem to die off, we should use what kind of model?
 
 A model with an AR component (e.g. AR(N))
 
@@ -169,42 +169,42 @@ The ARMA incorporates both past values (like the AR) and past errors (like the M
 
 Picking the correct order for such a model could be tricky, since including or removing AR and MA orders can have widly different effects on the accuracy
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image7.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image7.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image8.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image8.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image9.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image9.jpg)
 
-#### Positive 0.7649 ar.L1.returns means that
+### Positive 0.7649 ar.L1.returns means that
 
 - A coefficient above 75% suggest that there is a positive tendency between past and present values
 - Returns move in trends of consecutive positive or negative values
 - Periods of persistent increase or decreases when translated to prices
 
-#### Negative -08141 ma.L1.returns
+### Negative -08141 ma.L1.returns
 
 - Slightly harder to interpret
 - We should be moving away from the past period (t-1) values
 - These past error terms ensure we don't get a "Fool in the shower" type of error
 - We want to prevent our targets from moving, before we've accounted for them
 
-#### Why do we compare the ARMA(1,1)with the AR(1) and MA(1) models using the LLR test?
+### Why do we compare the ARMA(1,1)with the AR(1) and MA(1) models using the LLR test?
 
 Because they are nested in the ARMA(1,1)
 
-#### Why do we choose the ARMA(3,2) to be the best fit?
+### Why do we choose the ARMA(3,2) to be the best fit?
 
 - All coefficients are significant
 - Highest log-likelihood among the models with all coefficients significant.
 - Lowest information criteria out of the models with all coefficients significant.
 
-#### Why do we change our preferred model upon seeing the ACF/PACF of the model residuals?
+### Why do we change our preferred model upon seeing the ACF/PACF of the model residuals?
 
 We saw a pattern in the residuals time series, which meant there is a factor we hadn't accounted for in our regression.
 
 - Even though we can model prices using ARMA models, they perform much worse compared to their ability to estimate stationary data
 
-#### What did we learn when we compared the log-likelihoods of the preferred ARMA model for prices and the preferred ARMA model for returns?
+### What did we learn when we compared the log-likelihoods of the preferred ARMA model for prices and the preferred ARMA model for returns?
 
 The ARMA model yields a much higher log-likelihood for returns compared to prices.
 
@@ -221,9 +221,9 @@ An ARIMA model with 0 degrees of integration is simply an ARMA model, and so any
 
 The order of integration (d) tells us exactly how many times we need to compute the non-seasonal differences between the values to reach stationarity and including more is discouraged (due to data attrition and interpretability of the results)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image10.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image10.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image11.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image11.jpg)
 
 p - AutoRegressive (AR) components
 
@@ -239,31 +239,31 @@ No Integration
 - ARIMA (0, 0, q) = MA(q)
 - ARIMA (p, 0, 0) = AR(p)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image12.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image12.jpg)
 
 - For any integration we lose a single observation
 
-#### What are an ARIMA (1,0,2) and an ARIMA (0,0,1) equivalent to?
+### What are an ARIMA (1,0,2) and an ARIMA (0,0,1) equivalent to?
 
 An ARMA(1,2) and an MA(1)
 
-#### Why does an ARIMA(p,d,q) model estimate the same number of coefficients as an ARMA(p,q) model if the former has a higher total order?
+### Why does an ARIMA(p,d,q) model estimate the same number of coefficients as an ARMA(p,q) model if the former has a higher total order?
 
 Because the order of integration does not affect the number of coefficients we are trying to find.
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image13.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image13.jpg)
 
 ARIMA (5,1,1)
 
-#### Why do we expect the best non-integrated ARMA models for returns would hold the best fits for the AR and MA orders of the ARIMA(p,d,q) for prices?
+### Why do we expect the best non-integrated ARMA models for returns would hold the best fits for the AR and MA orders of the ARIMA(p,d,q) for prices?
 
 Because price returns are a form of weighted integration
 
-#### Why do we NOT need higher levels of integration in this case?
+### Why do we NOT need higher levels of integration in this case?
 
 The purpose of integration is to reach stationarity and we reach it after 1 integration.
 
-#### Why don't we use integrated models on stationary data?
+### Why don't we use integrated models on stationary data?
 
 - The purpose of integration is to ensure stationarity.
 - This will only needlessly complicate the model.
@@ -277,9 +277,9 @@ These variables can be pretty much anything that can have an affect on the value
 
 These models are great, when a big part of the change period to period cannot be explained by past values and past errors alone, so including other relevant values might be of great help (like the prices for an index of a market of a neighbouring country)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image14.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image14.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image15.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image15.jpg)
 
 The ARIMA is just an integrated version of the ARMA model. What that means is, we simply integrate the data (however many times is needed) to get a stationary set
 
@@ -298,7 +298,7 @@ X can be any variable we're interested in
 - Any other variable(s) that can affect prices as long as we have the data available for every period
 - X is called "eXogeneous" variables
 
-#### Why are MAXmodels useful?
+### Why are MAXmodels useful?
 
 Because they allow us to incorporate outside factors into the model.
 
@@ -320,9 +320,9 @@ For instance, by not including exogenous variables and having no integration, th
 
 The equation on the left is exactly that - a SARIMAX equivalent of a SARMA
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image16.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image16.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image17.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image17.jpg)
 
 Capital letters - Seasonal components
 
@@ -333,13 +333,13 @@ s = Length of cycle
 - The number of periods needed to pass before the tendency reappears
 - s = 1 -> No seasonality
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image18.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image18.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image19.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image19.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image20.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image20.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image21.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image21.jpg)
 
 ## Volatility
 
@@ -369,17 +369,17 @@ As you can see on the left side of the equation, the endogenous variable is the 
 
 Thus, this is only the variance equation of the model. The simplest ARCH model assumes a 0 or constant mean, so this is the only equation we are interested in
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image22.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image22.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image23.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image23.jpg)
 
 Why does the ARCHmodel require 2 equations?
 
 Because we need some sort of benchmark to measure the volatility away from it.
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image24.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image24.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image25.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image25.jpg)
 
 How many coefficients does the simple ARCHmodel estimate? - 3
 
@@ -393,9 +393,9 @@ The generalization comes from the fact that including a single past variance wou
 
 It serves as a sort of ARMA equivalent to the ARCH, where we're including both past values and past errors (albeit squared)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image26.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image26.jpg)
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image27.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image27.jpg)
 
 How is the GARCH different from the ARCH?
 
@@ -421,7 +421,7 @@ Yield non-significant coefficients
 
 - auto_arima by default only compares the model based on their AIC
 
-![image](../../media/Course-Time-Series-Analysis_Time-Series-Modeling-image28.jpg)
+![image](media/Course-Time-Series-Analysis_Time-Series-Modeling-image28.jpg)
 
 http://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html#pmdarima.arima.auto_arima
 

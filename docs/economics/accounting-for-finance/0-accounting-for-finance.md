@@ -3,7 +3,7 @@ slug: /economics/accounting-for-finance/0-accounting-for-finance
 title: 0 Accounting for Finance
 description: Explore the fundamentals of accounting for finance through engaging webcasts that focus on financial statement analysis and valuation perspectives.
 created: 2023-03-05
-updated: 2025-08-20
+updated: 2026-06-26
 ---
 [Accounting 101 (taught by a non-accountant)](https://www.youtube.com/playlist?list=PLUkh9m2BorqmKaLrNBjKtFDhpdFdi8f7C)
 
@@ -52,7 +52,7 @@ This is a course of short webcasts (about 12-20 minutes apiece), designed to int
 - Boosting Income through Misleading Classifications
 - Shifting Losses to Discontinued Operations
 
-![image](../../media/Accounting-for-Finance-image1.jpg)
+![image](media/Accounting-for-Finance-image1.jpg)
 
 All Accounts
 
@@ -135,21 +135,21 @@ All Accounts
 
 ![cheatsheet-finance](../../media/Pasted%20image%2020230626095710.jpg)
 
-#### cashflow
+### cashflow
 
 - Operating Cash Flow: Cash generated or consumed by the company's regular operations.
 - Formula: Net Income + Non-cash Expenses - Changes in Working Capital.
 - Free Cash Flow: Cash available after all expenses and investments have been accounted for.
 - Formula: Operating Cash Flow - Capital Expenditures.
 
-#### revenue
+### revenue
 
 - Gross Revenue: Total revenue generated from sales before deducting any costs or expenses.
 - Formula: Total units sold x Average selling price per unit.
 - Net Revenue: Revenue remaining after deducting discounts, returns, and allowances.
 - Formula: Gross Revenue - Discounts - Returns - Allowances.
 
-#### Cost
+### Cost
 
 - Cost of Goods Sold (COGS): Direct costs associated with producing or delivering the product.
 - Formula: Cost of raw materials + Labor cost + Manufacturing overhead.
@@ -158,7 +158,7 @@ All Accounts
 - Operating Expenses: Expenses incurred in running the business, including salaries, marketing costs, and administrative expenses.
 - Formula: Employee salaries + Marketing expenses + Rent + Utilities.
 
-#### profit
+### profit
 
 - Gross Profit Margin: The percentage of gross profit relative to revenue.
 - Formula: (Gross Profit / Net Revenue) x 100.
@@ -167,33 +167,33 @@ All Accounts
 - Net Profit: Profit remaining after deducting all expenses, including taxes and interest.
 - Formula: Operating Profit - Taxes - Interest
 
-#### financial
+### financial
 
 - Return on Investment (ROI): Measures the profitability of an investment relative to its cost.
 - Formula: (Net Profit from Investment / Cost of Investment) x 100.
 - Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA): Measures a company's operating - rformance.
 - Formula: Operating Profit + Depreciation + Amortisation.
 
-#### accounting
+### accounting
 
 - Accounts Receivable (AR) Turnover: Measures how quickly the company collects payments from customers.
 - Formula: Net Revenue / Average Accounts Receivable.
 - Accounts Payable (AP) Turnover: Measures how quickly the company pays its suppliers.
 - Formula: COGS / Average Accounts Payable.
 
-#### investment
+### investment
 
 - Return on Investment (ROI): Measures the profitability of an investment relative to its cost.
 - Formula: (Net Profit from Investment / Cost of Investment) x 100.
 - Payback Period: Length of time required to recover the initial investment.
 - Formula: Cost of Investment / Annual Cash Flows.
 
-### Revenue vs Margin
+## Revenue vs Margin
 
 - Buying Price - 50000
 - Selling Price - 75000
 
-#### 1. Calculation 1
+### 1. Calculation 1
 
 (75000-5000)/50000 = 50%
 
@@ -202,7 +202,7 @@ All Accounts
 - It answers: "**How much profit is being made as a percentage of the cost?**"
 - **Name**: **Markup Percentage**
 
-#### 2. Calculation 2
+### 2. Calculation 2
 
 (75000-5000)/75000 = 33%
 
@@ -211,40 +211,40 @@ All Accounts
 - It answers: "**What portion of the revenue is profit?**"
 - **Name**: **Profit Margin Percentage**
 
-#### Key Difference
+### Key Difference
 
 - **Markup Percentage** is based on **cost** (how much you add on top of cost).
 - **Profit Margin Percentage** is based on **revenue** (how much of the revenue is profit).
 - **Markup is always higher than profit margin** for the same numbers.
 
-### Why businesses uses profit margin rather than markup for comparing companies?
+## Why businesses uses profit margin rather than markup for comparing companies?
 
 Businesses and investors use **profit margin** rather than **markup** when comparing companies because **profit margin is a standardized measure of profitability**, whereas markup varies based on cost structures. Here’s why:
 
-#### 1. Profit Margin is Relative to Revenue (Apples-to-Apples Comparison)
+### 1. Profit Margin is Relative to Revenue (Apples-to-Apples Comparison)
 
 - **Profit Margin = Profit / Revenue** → It tells how much of the revenue is actual profit.
 - Since revenue is a standard metric across industries, companies of different sizes and business models can be compared fairly.
 - Example: A company with a **20% profit margin** means it retains **₹20 profit for every ₹100 in revenue**, regardless of cost structures.
 
-#### 2. Markup is Based on Cost (Not Always Comparable)
+### 2. Markup is Based on Cost (Not Always Comparable)
 
 - **Markup = Profit / Cost** → It tells how much extra is added over cost.
 - Cost structures vary significantly across industries, making markup a poor comparison tool.
 - Example: A software company may have low costs but high markup, whereas a manufacturing company may have higher costs and a lower markup.
 
-#### 3. Investors & Analysts Use Profit Margins for Decision-Making
+### 3. Investors & Analysts Use Profit Margins for Decision-Making
 
 - **Gross Profit Margin, Operating Margin, and Net Profit Margin** are key financial indicators in earnings reports.
 - Investors compare profit margins to assess efficiency, profitability, and risk.
 - Example: If Company A has a **40% gross margin** and Company B has **25%**, Company A is likely more efficient at turning revenue into profit.
 
-#### 4. Profit Margins Reflect Business Health & Strategy
+### 4. Profit Margins Reflect Business Health & Strategy
 
 - Companies with similar markups can have different profit margins due to operational costs, overhead, and pricing strategies.
 - Profit margin accounts for **all costs and revenue**, giving a clearer picture of financial health.
 
-#### Summary
+### Summary
 
 - **Profit margin** is used for **comparing businesses across industries** because it’s based on revenue and reflects overall profitability.
 - **Markup** is useful for **internal pricing strategies** but not for comparing companies with different cost structures.

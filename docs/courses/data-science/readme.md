@@ -3,7 +3,7 @@ slug: /courses/data-science
 title: Data Science Courses
 description: Data science courses - 365 Data Science program, Excel, statistical methods, credit risk, time series
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 ## 365 Data Science Program
@@ -18,11 +18,5 @@ updated: 2026-06-25
 
 ## Specialized Topics
 
-- [Credit Risk Modeling](course-credit-risk-modeling/readme.md) - Credit scoring and fraud detection
-- [Time Series Analysis](course-time-series-analysis/readme.md) - Time series forecasting
-
-## Resources
-
-- [Back to Courses](../readme.md)
-- [Data Science Topics](../../ai/data-science/readme.md)
-- [Statistics](../../ai/data-science/statistics.md)
+- [Credit Risk Modeling](courses/data-science/course-credit-risk-modeling/intro.md) - Credit scoring and fraud detection
+- [Time Series Analysis](courses/data-science/course-time-series-analysis/syllabus.md) - Time series forecasting

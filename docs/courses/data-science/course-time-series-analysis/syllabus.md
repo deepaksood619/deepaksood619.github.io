@@ -3,7 +3,7 @@ slug: /courses/course-time-series-analysis/syllabus
 title: Course - Time Series Analysis
 description: Master Time Series Analysis in Python with our comprehensive course, covering data visualization, transformation, and forecasting techniques.
 created: 2023-03-05
-updated: 2024-02-01
+updated: 2026-06-26
 ---
 https://365datascience.teachable.com/p/time-series-analysis-in-python
 
@@ -144,6 +144,6 @@ darts is a Python library for easy manipulation and forecasting of time series. 
 
 ## Links
 
-- [Intro Time Series](courses/course-time-series-analysis/intro-time-series.md)
-- [Time Series Modeling](courses/course-time-series-analysis/time-series-modeling.md)
-- [Exponential Smoothing](courses/course-time-series-analysis/exponential-smoothing.md)
+- [Intro Time Series](courses/data-science/course-time-series-analysis/intro-time-series.md)
+- [Time Series Modeling](courses/data-science/course-time-series-analysis/time-series-modeling.md)
+- [Exponential Smoothing](courses/data-science/course-time-series-analysis/exponential-smoothing.md)

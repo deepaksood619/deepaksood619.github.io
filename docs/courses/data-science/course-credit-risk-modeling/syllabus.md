@@ -3,14 +3,14 @@ slug: /courses/course-credit-risk-modeling/syllabus
 title: Course - Credit Risk Modeling
 description: Master credit risk modeling with our comprehensive course covering credit scoring, fraud detection, and prevention techniques to enhance financial decision-making.
 created: 2023-03-05
-updated: 2024-09-24
+updated: 2026-06-26
 ---
-- [Intro](courses/course-credit-risk-modeling/intro.md)
-- [Credit and Debt](courses/course-credit-risk-modeling/credit-and-debt.md)
-- [Decision Areas and Credit Scorecards](courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)
-- [Fraud Types](courses/course-credit-risk-modeling/fraud-types.md)
-- [Fraud Features](courses/course-credit-risk-modeling/fraud-features.md)
-- [Fraud Detection and Prevention](courses/course-credit-risk-modeling/fraud-detection-and-prevention.md)
+- [Intro](courses/data-science/course-credit-risk-modeling/intro.md)
+- [Credit and Debt](courses/data-science/course-credit-risk-modeling/credit-and-debt.md)
+- [Decision Areas and Credit Scorecards](courses/data-science/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)
+- [Fraud Types](courses/data-science/course-credit-risk-modeling/fraud-types.md)
+- [Fraud Features](courses/data-science/course-credit-risk-modeling/fraud-features.md)
+- [Fraud Detection and Prevention](courses/data-science/course-credit-risk-modeling/fraud-detection-and-prevention.md)
 - https://365datascience.teachable.com/p/credit-risk-modeling-in-python
 - https://365datascience.teachable.com/courses/629877
 - https://www.dropbox.com/sh/7oslws1xhsm1zbf/AABkdWDKqpdcGmY1NbXAnkrBa?dl=0&lst=

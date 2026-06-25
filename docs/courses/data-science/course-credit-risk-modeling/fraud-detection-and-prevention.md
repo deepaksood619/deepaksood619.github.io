@@ -3,7 +3,7 @@ slug: /courses/course-credit-risk-modeling/fraud-detection-and-prevention
 title: Fraud Detection and Prevention
 description: Discover effective fraud detection and prevention strategies, including anomaly detection and real-time analytics, to safeguard your transactions.
 created: 2024-09-17
-updated: 2026-06-11
+updated: 2026-06-26
 ---
 - **Anomaly Detection:** Identify unusual patterns in transaction data that may indicate fraudulent activity.
 - **Real-time Fraud Detection:** Use real-time analytics to detect and prevent fraudulent transactions as they occur.
@@ -18,7 +18,7 @@ updated: 2026-06-11
 
 Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities such as online payment fraud and the creation of fake accounts.
 
-![Amazon Fraud Detector](../../media/Pasted%20image%2020240916160527.jpg)
+![Amazon Fraud Detector](media/Pasted%20image%2020240916160527.jpg)
 
 1. Step 1 - Explore data models for your business use case.
 2. Step 2 - Define the event you want to evaluate for fraud.
