@@ -3,7 +3,7 @@ slug: /courses/readme
 title: Courses / Certifications
 description: Explore a diverse range of AI and data courses and certifications, from data storage to machine learning with TensorFlow, tailored for career advancement.
 created: 2024-02-01
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 ## Quick Navigation
@@ -41,8 +41,8 @@ updated: 2026-06-25
 2. [Intro to Microsoft Excel / Google Sheets](courses/data-science/microsoft-excel-google-sheets.md)
 3. Advanced Microsoft Excel
 4. [Advanced Statistical Methods in Python](courses/data-science/365-ds-advanced-stastistical-methods-in-python.md)
-5. [Credit Risk Modeling in Python](courses/course-credit-risk-modeling/syllabus.md)
-6. [Time Series Analysis in Python](courses/course-time-series-analysis/syllabus.md)
+5. [Credit Risk Modeling in Python](courses/data-science/course-credit-risk-modeling/syllabus.md)
+6. [Time Series Analysis in Python](courses/data-science/course-time-series-analysis/syllabus.md)
 7. [Customer Analytics in Python](management/product-analytics/customer-analytics-in-python.md)
 8. [Mathematics](courses/data-science/365-ds-mathematics.md)
 

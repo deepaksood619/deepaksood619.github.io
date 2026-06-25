@@ -5,7 +5,6 @@ description: Discover Deepak Sood's professional journey including his experienc
 created: 2024-12-18
 updated: 2026-06-25
 ---
-
 ## Profile
 
 Personal identity, values, and aspirations.

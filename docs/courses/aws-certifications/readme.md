@@ -3,7 +3,7 @@ slug: /courses/aws-certifications
 title: AWS Certifications & Courses
 description: AWS certification guides and course notes - Cloud Practitioner, Solutions Architect, Data Engineer, Developer
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 ## Certifications
@@ -17,7 +17,7 @@ updated: 2026-06-25
 
 ## Courses
 
-- [Architecting on AWS](course-architecting-on-aws.md) - Hands-on AWS architecture training
+- [Architecting on AWS](cloud/aws/course-architecting-on-aws.md) - Hands-on AWS architecture training
 
 ## Resources
 
