@@ -3,23 +3,42 @@ slug: /databases-nosql/readme
 title: NoSQL Databases
 description: Explore the world of NoSQL databases, including MongoDB, Redis, and Cassandra, and discover their diverse use cases and unique features for modern applications.
 created: 2025-06-10
-updated: 2025-06-24
+updated: 2026-06-25
 ---
-- [Column Family](databases-nosql/column-family.md)
-- [NoSQL Databases](databases-nosql/others.md)
-- [Redis](databases-nosql/redis/readme.md)
-- [MongoDB](databases-nosql/mongodb/readme.md)
-- [Druid](databases-nosql/druid/readme.md)
-- [Cassandra](databases-nosql/cassandra/readme.md)
-- [DuckDB](databases-nosql/duckdb.md)
-- [etcd](databases-nosql/etcd.md)
-- [AWS DyanamoDB](databases-nosql/aws-dynamodb/readme.md)
-- [Time Series DB](databases-nosql/time-series-db/readme.md)
-- [YugabyteDB](databases-nosql/yugabytedb.md)
-- [tidb](databases-nosql/tidb.md)
-- [Vector Databases](databases-nosql/vector-databases/readme.md)
-	- [Milvus](databases-nosql/milvus/readme.md)
-- [Comparisons](databases-nosql/comparisons.md)
+
+## Fundamentals
+
+- [NoSQL Concepts](concepts/readme.md) - Column family databases, data models
+
+## Key-Value Stores
+
+- [Redis](redis/readme.md) - In-memory data structure store, cache, message broker
+
+## Document Databases
+
+- [MongoDB](mongodb/readme.md) - Popular document-oriented database
+
+## Wide-Column Stores
+
+- [Cassandra](cassandra/readme.md) - Distributed wide-column database
+- [AWS DynamoDB](aws-dynamodb/readme.md) - Managed NoSQL key-value and document database
+
+## Analytical Databases
+
+- [Apache Druid](druid/readme.md) - Real-time analytics database
+
+## Specialized Databases
+
+- [Time Series Databases](time-series-db/readme.md) - InfluxDB, TimescaleDB
+- [Vector Databases](vector-databases/readme.md) - Milvus, Qdrant, Weaviate for ML/AI embeddings
+
+## Other NoSQL Databases
+
+- [Additional Databases](others/readme.md) - DuckDB, etcd, TiDB, YugabyteDB
+
+## Comparisons
+
+- [NoSQL Database Comparisons](comparisons/readme.md) - Compare platforms and use cases
 
 ## Top 9 NoSQL DB Use Cases
 

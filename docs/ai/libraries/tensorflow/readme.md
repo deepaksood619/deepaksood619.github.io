@@ -8,4 +8,4 @@ updated: 2024-12-18
 - [TensorFlow](ai/libraries/tensorflow/intro.md)
 - [Core Tensorflow](ai/libraries/tensorflow/core-tensorflow.md)
 - [Estimator API](ai/libraries/tensorflow/estimator-api.md)
-- [Course - Intro to Tensorflow](courses/course-intro-to-tensorflow.md)
+- [Course - Intro to Tensorflow](courses/machine-learning/course-intro-to-tensorflow.md)

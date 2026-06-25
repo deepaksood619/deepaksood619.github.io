@@ -93,7 +93,7 @@ https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
 
 ## References
 
-- [Self Driving Nanodegree](courses/self-driving-nanodegree.md)
+- [Self Driving Nanodegree](courses/machine-learning/self-driving-nanodegree.md)
 - https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab
 - https://www.freecodecamp.org/news/advanced-computer-vision-with-python
 - [Comic book panel segmentation • Max Halford](https://maxhalford.github.io/blog/comic-book-panel-segmentation/)

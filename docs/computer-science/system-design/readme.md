@@ -5,25 +5,40 @@ description: Explore various system design concepts including architectures, tra
 created: 2023-03-05
 updated: 2026-01-30
 ---
-- [Intro](computer-science/system-design/intro.md)
-- [Trade offs](trade-offs)
-- [Cloud Native](cloud-native)
-- [Architecture Guide](computer-science/system-design/architecture-guide.md)
-- [N-tier application architecture](computer-science/system-design/n-tier-application-architecture.md)
-- [Event Driven Architecture](event-driven-architecture)
-- [Message Oriented Architecture (MOM)](computer-science/system-design/message-oriented-architecture-mom.md)
+## Core Concepts
+
+- [Introduction to System Design](intro.md)
+- [Trade-offs in System Design](trade-offs.md)
+- [Architecture Guide](architecture-guide.md)
+- [Addressing Failures](addressing-failures.md)
+
+## Architecture Patterns
+
+- [Cloud Native Architecture](cloud-native.md)
+- [N-tier Application Architecture](n-tier-application-architecture.md)
+- [Event Driven Architecture](event-driven-architecture.md)
+- [Message Oriented Architecture (MOM)](message-oriented-architecture-mom.md)
 - [Microservice Architecture](microservice-architecture/readme.md)
-- [Serverless Architecture](serverless-architecture)
-- [Reactive Microservices Manifesto](reactive-microservices-manifesto)
-- [Enterprise Integration Patterns](enterprise-integration-patterns)
-- [API Gateway](api-gateway)
-- [Rate Limiting](rate-limiting)
-- [Retries](computer-science/system-design/retries.md)
-- [Addressing Failures](addressing-failures)
-- [Twelve-Factor App](twelve-factor-app)
-- [Case Study - Big Friendly Bank](computer-science/system-design/case-study/readme.md)
+- [Serverless Architecture](serverless-architecture.md)
+- [Reactive Microservices Manifesto](reactive-microservices-manifesto.md)
+
+## Design Patterns & Best Practices
+
+- [Enterprise Integration Patterns](enterprise-integration-patterns.md)
+- [API Gateway](api-gateway.md)
+- [Rate Limiting](rate-limiting.md)
+- [Retries](retries.md)
+- [Twelve-Factor App](twelve-factor-app.md)
+
+## Case Studies & Examples
+
+- [Case Study - Big Friendly Bank](case-study/readme.md)
+- [Interview System Design Examples](interview-examples/) - Real-world system design problems (Uber, Twitter, YouTube, TinyURL, etc.)
+
+## Additional Resources
+
 - [Others](computer-science/system-design/others.md)
-- [System Design Interview Questions](computer-science/interview-question/readme.md)
+- [More Interview Questions](../interview-prep/readme.md)
 
 ## Architectural Patterns
 

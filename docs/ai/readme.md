@@ -5,30 +5,40 @@ description: Explore the world of AI with insights on ML algorithms, deep learni
 created: 2023-03-05
 updated: 2026-04-13
 ---
-- [agi](ai/agi.md)
-- [Model Evaulation](model-evaluation/readme.md)
-- [Data Science](data-science/readme.md)
-- [Big Data](ai/big-data/readme.md)
-- [Data Visualization](ai/data-visualization/readme.md)
+## Core Topics
+
+- [Artificial General Intelligence (AGI)](agi.md)
 - [ML Fundamentals](ml-fundamentals/readme.md)
 - [ML Algorithms](ml-algorithms/readme.md)
 - [Deep Learning](deep-learning/readme.md)
-- [LLM](ai/llm/readme.md)
+- [Large Language Models (LLM)](llm/readme.md)
 - [Computer Vision](computer-vision-cv/readme.md)
-- [NLP](nlp/readme.md)
-- [Move37 - Reinforcement Learning](move-37/readme.md)
+- [Natural Language Processing (NLP)](nlp/readme.md)
+- [Reinforcement Learning (Move37)](move-37/readme.md)
+- [Model Evaluation](model-evaluation/readme.md)
+
+## Data & Analytics
+
+- [Data Science](data-science/readme.md)
+- [Big Data](big-data/readme.md)
+- [Data Visualization](data-visualization/readme.md)
+
+## Libraries & Tools
+
 - [Pandas](pandas/readme.md)
 - [Numpy](numpy/readme.md)
 - [Scikit-learn / Scipy](scikit-learn/readme.md)
-- [Libraries](libraries/readme.md)
-- [Courses](courses/readme.md)
-- [Others / Resources / Interview / Learning](ai/others-resources-interview-learning-courses.md)
-- [Hackathons](ai/hackathons.md)
-	- [Hackathon Hackhound](ai/hackathon-hackhound.md)
-	- [Hackathon RabbittAI](ai/hackathon-rabbittai.md)
-- [Solutions](ai/solutions.md)
-    - [Content Moderation](ai/content-moderation.md)
-    - [Social Media Analytics Solution](ai/social-media-analytics-solution.md)
+- [ML/DL Libraries & Frameworks](libraries/readme.md)
+
+## Resources & Applications
+
+- [Learning Resources & Courses](others-resources-interview-learning-courses.md)
+- [Hackathons](hackathons.md)
+  - [Hackathon Hackhound](hackathon-hackhound.md)
+  - [Hackathon RabbittAI](hackathon-rabbittai.md)
+- [Solutions & Use Cases](solutions.md)
+  - [Content Moderation](content-moderation.md)
+  - [Social Media Analytics](social-media-analytics-solution.md)
 
 ## Data & AI Landscape
 

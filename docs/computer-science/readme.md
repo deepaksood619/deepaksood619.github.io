@@ -5,19 +5,33 @@ description: Explore computer science with resources on software development, op
 created: 2023-03-05
 updated: 2026-01-21
 ---
-- [General](general/readme.md)
-- [Software / Coding / Development / Engineering](software-engineering/readme.md)
-- [Operating System](operating-system/readme.md)
-- [Programming Concepts](programming-concepts/readme.md)
-- [Programming Paradigms](programming-paradigms/readme.md)
-- [System Design](system-design/readme.md)
-- [Distributed System](distributed-system/readme.md)
-- [Testing](testing/readme.md)
-- [Security](computer-science/security/readme.md)
-- [Interview Question](interview-question/readme.md)
-- [IoT](iot/readme.md)
-- [Others](computer-science/others/readme.md)
-- [Links](computer-science/links.md)
+## Fundamentals
+
+- [Resources](resources/readme.md) - Research papers, standards, newsletters, learning resources
+- [Programming Concepts](programming-concepts/readme.md) - Dependency injection, IoC, metaprogramming, type systems
+- [Programming Paradigms](programming-paradigms/readme.md) - Design patterns, SOLID, functional programming, OOP
+
+## Systems & Architecture
+
+- [Operating System](operating-system/readme.md) - OS concepts, memory, concurrency, caching, file systems
+- [Distributed Systems](distributed-system/readme.md) - CAP theorem, consensus, consistency, distributed logging
+- [System Design](system-design/readme.md) - Architecture patterns, microservices, event-driven, serverless
+- [Software Engineering](software-engineering/readme.md) - Best practices, clean code, refactoring, technical debt
+
+## Specialized Topics
+
+- [Security](security/readme.md) - Cryptography, authentication, OAuth, SSL/TLS, vulnerabilities
+- [Testing](testing/readme.md) - Test pyramid, load testing, mocking, QA tools
+- [IoT](iot/readme.md) - IoT platforms, edge computing, device management
+
+## Interview & Career
+
+- [Interview Preparation](interview-prep/readme.md) - Coding questions, AWS questions, technical interviews
+
+## Additional Resources
+
+- [Others](others/readme.md) - Bioinformatics, computer graphics, game development
+- [Links](links.md) - External resources and references
 
 ## Outline
 

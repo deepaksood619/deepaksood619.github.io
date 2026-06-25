@@ -20,5 +20,5 @@ updated: 2025-06-10
 
 ## Others
 
-- [Amazon RDS](databases-sql/amazon-rds.md)
+- [Amazon RDS](databases-sql/aws/amazon-rds.md)
 - [MySQL](databases-sql/mysql/readme.md)

@@ -6,7 +6,7 @@ created: 2024-04-24
 updated: 2025-11-24
 ---
 - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
-- [Amazon RDS](databases-sql/amazon-rds.md)
+- [Amazon RDS](databases-sql/aws/amazon-rds.md)
 
 ### Amazon RDS on VMWare
 

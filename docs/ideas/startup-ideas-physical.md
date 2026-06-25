@@ -241,7 +241,7 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 
 ## Autonomous Vehicles / Driverless Cars / Self-driving Car
 
-- [self-driving-nanodegree](courses/self-driving-nanodegree.md)
+- [self-driving-nanodegree](courses/machine-learning/self-driving-nanodegree.md)
 - [New data shows Waymo crashes a lot less than human drivers](https://www.understandingai.org/p/new-data-shows-waymo-crashes-a-lot)
 - [Safety Impact](https://waymo.com/safety/impact/)
 - [Elon Musk wants to dominate robotaxis—first he needs to catch up to Waymo](https://www.understandingai.org/p/elon-musk-wants-to-dominate-robotaxisfirst)

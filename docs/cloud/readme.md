@@ -5,10 +5,19 @@ description: Explore our comprehensive guide on cloud services, featuring AWS, A
 created: 2024-01-30
 updated: 2025-11-09
 ---
-- [AWS](cloud/aws/readme.md)
-- [Azure](cloud/azure/readme.md)
-- [GCP](cloud/gcp/readme.md)
-- [Firebase](cloud/firebase/readme.md)
-- [Others](cloud/others/readme.md)
-	- [n8n](technologies/others/n8n.md)
-- [Infrastructure Tools](cloud/tools.md)
+## Major Cloud Providers
+
+- [Amazon Web Services (AWS)](aws/readme.md) - Comprehensive AWS services including compute, storage, AI/ML, analytics, networking
+- [Microsoft Azure](azure/readme.md) - Azure services, databases, messaging, networking, IAM
+- [Google Cloud Platform (GCP)](gcp/readme.md) - GCP services, Anthos, ML services
+- [Firebase](firebase/readme.md) - Firebase & Google Analytics for mobile/web apps
+
+## Other Platforms & Services
+
+- [CDNs & Edge Computing](others/readme.md) - Cloudflare, Akamai, CDN comparison, cache invalidation
+- [Enterprise Platforms](others/readme.md) - Oracle, SAP, OpenStack, VMware
+- [SaaS & Low-Code Platforms](others/readme.md) - Business rules engines, LCNC platforms, ticketing systems
+
+## Infrastructure Tools
+
+- [Cloud Infrastructure Tools](tools.md) - Multi-cloud management, IaC, monitoring tools

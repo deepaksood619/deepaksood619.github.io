@@ -38,5 +38,5 @@ updated: 2025-06-10
 ### Others
 
 - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
-- [Amazon RDS](databases-sql/amazon-rds.md)
+- [Amazon RDS](databases-sql/aws/amazon-rds.md)
 - [B.3.7 Known Issues in MySQL](https://dev.mysql.com/doc/refman/8.4/en/known-issues.html)

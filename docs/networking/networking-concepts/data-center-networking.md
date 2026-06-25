@@ -41,6 +41,6 @@ https://en.wikipedia.org/wiki/InfiniBand
 
 ## Links
 
-[nutanix-hybrid-cloud 1](courses/nutanix-hybrid-cloud.md)
+[nutanix-hybrid-cloud 1](courses/cloud-certifications/nutanix-hybrid-cloud.md)
 
 [Building Meta’s GenAI Infrastructure - Engineering at Meta](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)

@@ -21,4 +21,4 @@ updated: 2026-06-24
 
 ## Learning & Conditioning
 
-- [Classical & Operant Conditioning](others.md)
+- [Classical & Operant Conditioning](psychology/behavioral-psychology/others.md)

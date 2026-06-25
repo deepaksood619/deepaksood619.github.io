@@ -151,6 +151,6 @@ Oracle GoldenGate is the premier, high-performance CDC solution, is a built-in,
 
 ## Links
 
-- [GoldenGate - oracle-database](databases-sql/oracle-database.md)
+- [GoldenGate - oracle-database](databases-sql/others/oracle-database.md)
 - [Examples for Oracle XStream CDC Source Connector for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/examples.html)
 - [Troubleshooting Oracle XStream CDC Source Connector for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/cc-oracle-xstream-cdc-source-troubleshoot.html)

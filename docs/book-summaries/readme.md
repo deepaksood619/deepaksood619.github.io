@@ -15,7 +15,7 @@ A curated collection of book summaries organized by topic.
 - [Productivity](#productivity) - Focus, time management, and learning (14 books)
 - [Psychology](#psychology) - How the mind works and mental strength (9 books)
 - [Philosophy & Relationships](#philosophy--relationships) - Living well and interpersonal skills (13 books)
-- [Science](#science) - Biology, evolution, climate, and social impact (7 books)
+- [Science](#science) - Biology, evolution, climate, and social impact (8 books)
 
 ---
 
@@ -144,7 +144,7 @@ Biology, evolution, genetics, climate change, and social impact.
 - [The Tangled Tree](science/the-tangled-tree.md)
 - [The Uninhabitable Earth](science/the-uninhabitable-earth.md)
 - [Who We Are and How We Got Here](science/who-we-are-and-how-we-got-here.md)
-- [the-infinity-machine](book-summaries/science/the-infinity-machine.md)
+- [The Infinity Machine](science/the-infinity-machine.md)
 
 ---
 

@@ -3,35 +3,48 @@ slug: /courses/readme
 title: Courses / Certifications
 description: Explore a diverse range of AI and data courses and certifications, from data storage to machine learning with TensorFlow, tailored for career advancement.
 created: 2024-02-01
-updated: 2026-06-18
+updated: 2026-06-25
 ---
+
+## Quick Navigation
+
+- [AWS Certifications](aws-certifications/) - AWS Cloud Practitioner, Solutions Architect, Data Engineer, Developer
+- [Cloud Certifications](cloud-certifications/) - GCP, Confluent, Nutanix certifications
+- [Data Engineering](data-engineering/) - Databricks, big data, data mining, MySQL DBA
+- [Machine Learning](machine-learning/) - TensorFlow, transformers, feature engineering, self-driving
+- [Data Science](data-science/) - 365 Data Science program, Excel/Sheets, credit risk, time series
+- [Algorithms & Programming](algorithms-programming/) - Coursera algorithms, Python programming, PCEP
+- [SE Radio Podcast Notes](se-radio.md)
+
+---
+
 ## AI / Data Courses
 
-1. [Data Storage and Processing](courses/course-data-storage-and-processing-edx.md)
-2. [Data Mining](courses/course-data-mining-nptel.md)
-3. [Data Integration Specialist - AWS](courses/data-integration-specialist-aws.md)
-4. [Big Data Computing](courses/course-big-data-computing-nptel.md)
+1. [Data Storage and Processing](courses/data-engineering/course-data-storage-and-processing-edx.md)
+2. [Data Mining](courses/data-engineering/course-data-mining-nptel.md)
+3. [Data Integration Specialist - AWS](courses/aws-certifications/data-integration-specialist-aws.md)
+4. [Big Data Computing](courses/data-engineering/course-big-data-computing-nptel.md)
 5. Specialization - ML with TensorFlow on GCP (15 Jun'2018 - 15 July'2018)
-    1. [Coursera - How Google does ML](courses/coursera-how-google-does-ml.md)
-    2. [Intro to Tensorflow](courses/course-intro-to-tensorflow.md)
-    3. [Launching into ML](courses/course-launching-into-ml.md)
-    4. [Feature Engineering](courses/course-feature-engineering.md)
-    5. [Art and Science of ML](courses/course-art-and-science-of-ml.md)
+    1. [Coursera - How Google does ML](courses/machine-learning/coursera-how-google-does-ml.md)
+    2. [Intro to Tensorflow](courses/machine-learning/course-intro-to-tensorflow.md)
+    3. [Launching into ML](courses/machine-learning/course-launching-into-ml.md)
+    4. [Feature Engineering](courses/machine-learning/course-feature-engineering.md)
+    5. [Art and Science of ML](courses/machine-learning/course-art-and-science-of-ml.md)
 6. The SchoolOfAI - Decentralized Applications (10 Sept'2018 - 16 Oct'2018)
 7. [TheSchoolOfAI - Move37](ai/move-37/readme.md) (10 Sept'2018 - 16 Oct'2018)
-8. [Professional Data Engineer (PDE)](courses/google-professional-data-engineer-pde.md)
+8. [Professional Data Engineer (PDE)](courses/cloud-certifications/google-professional-data-engineer-pde.md)
 9. [ChatGPT Prompt Engineering for Developers](ai/llm/prompting/prompt-engineering.md) (2 May 2023)
 
-### [365 Data Science Courses](courses/365-data-science-program.md) (19 Mar 2020 - 14 Apr 2020)
+### [365 Data Science Courses](courses/data-science/365-data-science-program.md) (19 Mar 2020 - 14 Apr 2020)
 
-1. [Intro to Data and Data Science](courses/course-intro-to-data-and-data-science.md)
-2. [Intro to Microsoft Excel / Google Sheets](courses/microsoft-excel-google-sheets.md)
+1. [Intro to Data and Data Science](courses/machine-learning/course-intro-to-data-and-data-science.md)
+2. [Intro to Microsoft Excel / Google Sheets](courses/data-science/microsoft-excel-google-sheets.md)
 3. Advanced Microsoft Excel
-4. [Advanced Statistical Methods in Python](courses/365-ds-advanced-stastistical-methods-in-python.md)
+4. [Advanced Statistical Methods in Python](courses/data-science/365-ds-advanced-stastistical-methods-in-python.md)
 5. [Credit Risk Modeling in Python](courses/course-credit-risk-modeling/syllabus.md)
 6. [Time Series Analysis in Python](courses/course-time-series-analysis/syllabus.md)
 7. [Customer Analytics in Python](management/product-analytics/customer-analytics-in-python.md)
-8. [Mathematics](courses/365-ds-mathematics.md)
+8. [Mathematics](courses/data-science/365-ds-mathematics.md)
 
 ## Others
 
@@ -41,9 +54,9 @@ updated: 2026-06-18
 4. [Git Game v1 & v2](https://www.git-game.com) (Nov'17)
 5. [FreeCodeCamp](https://www.freecodecamp.org/deepaksood619) (Dec'17 - Jan'21)
 6. [Touch Typing | TypingClub](knowledge/games/touch-typing.md) - https://www.typingclub.com (Dec'17 - Jan'20)
-7. [Coursera - Algorithms, Part - 1 by Princeton University](courses/coursera-algorithms-part-1.md) (25 Dec'17 - 26 Jan'18)
-8. [Coursera - Algorithms, Part - 2 by Princeton University](courses/coursera-algorithms-part-2.md) (14 Feb'18 - 02 Apr'18 - 22 Apr'18)
-9. [Mordern Algorithm Design](courses/mordern-algorithm-design.md)
+7. [Coursera - Algorithms, Part - 1 by Princeton University](courses/algorithms-programming/coursera-algorithms-part-1.md) (25 Dec'17 - 26 Jan'18)
+8. [Coursera - Algorithms, Part - 2 by Princeton University](courses/algorithms-programming/coursera-algorithms-part-2.md) (14 Feb'18 - 02 Apr'18 - 22 Apr'18)
+9. [Mordern Algorithm Design](courses/algorithms-programming/mordern-algorithm-design.md)
 10. [SE Radio](courses/se-radio.md)
 11. [Coursera - Mindshift](psychology/productivity-performance/course-mindshift.md)
 12. [Learning How to Learn](education/pedagogy/course-learning-how-to-learn.md) (23 Mar'18 - 14th Apr'18)
@@ -51,28 +64,28 @@ updated: 2026-06-18
 14. [Responsive Images | Learn Web Development | Udacity](https://www.udacity.com/course/responsive-images--ud882)
 15. [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 16. [Udemy - Modern React with Redux by Stephen Grider](https://www.udemy.com/react-redux) (24 Mar'18)
-17. [Udemy - Python for Data Structure, Algorithms, and Interviews](courses/udemy-python-for-data-structures-algorithms.md)  (20 Apr'18)
+17. [Udemy - Python for Data Structure, Algorithms, and Interviews](courses/algorithms-programming/udemy-python-for-data-structures-algorithms.md)  (20 Apr'18)
 18. Khan Academy - LSAT Preparation (Sept'2018)
 19. [Scaling Microservices on Kubernetes | Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) (5 Jan'2018)
 20. [Introduction to Probability - The Science of Uncertainty by MITx on edX](mathematics/probability/intro-to-probability/readme.md) (June'2018)
-21. [google-professional-cloud-architect-pca](courses/google-professional-cloud-architect-pca.md)
+21. [google-professional-cloud-architect-pca](courses/cloud-certifications/google-professional-cloud-architect-pca.md)
 22. [course-aws-certified-database-specialty](databases/others/course-aws-certified-database-specialty.md)
 23. [course-advanced-database-systems](databases/others/course-advanced-database-systems.md)
-24. [Udacity - Nutanix Hybrid Cloud Scholarship Foundation Course Nanodegree Program](courses/nutanix-hybrid-cloud.md) (23 June 2020)
-25. [Self Driving Nanodegree](courses/self-driving-nanodegree.md)
+24. [Udacity - Nutanix Hybrid Cloud Scholarship Foundation Course Nanodegree Program](courses/cloud-certifications/nutanix-hybrid-cloud.md) (23 June 2020)
+25. [Self Driving Nanodegree](courses/machine-learning/self-driving-nanodegree.md)
 26. [Architecting on AWS (Hands on training)](cloud/aws/course-architecting-on-aws.md) (12-14 Aug 2020)
-27. [AWS Certified Developer - Associate (Jan 2024)](courses/aws-certified-developer-associate.md)
-28. [AWS Certified Data Engineer - Associate (Feb 2024)](courses/aws-certified-data-engineer-associate.md)
-    1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certified-data-engineer-associate-questions.md)
-29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June'2024)
-30. [Attention in Transformers](courses/attention-in-transformers.md)
+27. [AWS Certified Developer - Associate (Jan 2024)](courses/aws-certifications/aws-certified-developer-associate.md)
+28. [AWS Certified Data Engineer - Associate (Feb 2024)](courses/aws-certifications/aws-certified-data-engineer-associate.md)
+    1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certifications/aws-certified-data-engineer-associate-questions.md)
+29. [Udemy - Becoming a Production MySQL DBA](courses/data-engineering/udemy-becoming-a-production-mysql-dba.md) (June'2024)
+30. [Attention in Transformers](courses/machine-learning/attention-in-transformers.md)
 
 ## Certifications
 
 ### Confluent
 
-- [confluent-certifications](courses/confluent-certifications.md)
-- [confluent-certified-cloud-operator-ccac](courses/confluent-certified-cloud-operator-ccac.md)
+- [confluent-certifications](courses/cloud-certifications/confluent-certifications.md)
+- [confluent-certified-cloud-operator-ccac](courses/cloud-certifications/confluent-certified-cloud-operator-ccac.md)
 - Confluent Apache Kafka Fundamentals Accreditation - [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/8bf0eb5e-0b04-4a2d-bd86-bd965745ac45)
 	- Issued on - 16 December 2025
 	- Expires on - Does not expire
@@ -87,10 +100,10 @@ updated: 2026-06-18
 
 ### AWS
 
-1. [aws-certified-cloud-practitioner-ccp](courses/aws-certified-cloud-practitioner-ccp.md) (September'2025)
-2. [aws-certified-solutions-architect-associate](courses/aws-certified-solutions-architect-associate.md) (September'2025)
-3. [pcep-certified-entry-level-python-programmer](courses/pcep-certified-entry-level-python-programmer.md) (October'2025)
-4. [databricks-certified-data-engineer-associate](courses/databricks-certified-data-engineer-associate.md) (October'2025)
+1. [aws-certified-cloud-practitioner-ccp](courses/aws-certifications/aws-certified-cloud-practitioner-ccp.md) (September'2025)
+2. [aws-certified-solutions-architect-associate](courses/aws-certifications/aws-certified-solutions-architect-associate.md) (September'2025)
+3. [pcep-certified-entry-level-python-programmer](courses/algorithms-programming/pcep-certified-entry-level-python-programmer.md) (October'2025)
+4. [databricks-certified-data-engineer-associate](courses/data-engineering/databricks-certified-data-engineer-associate.md) (October'2025)
 5. [Amazon Web Services ProServe 101 - AWS Skill Builder](https://skillbuilder.aws/learn/7X91U48V3H/amazon-web-services-proserve-101/3GM7YKPGMN)
 	1. PSA - Professional Services Automation
 6. [AWS Engagement Security Training for Partners - AWS Skill Builder](https://skillbuilder.aws/learn/UNEPBJ7N8X/aws-engagement-security-training-for-partners/HY5KKP9EV8)

@@ -5,14 +5,22 @@ description: Explore a comprehensive guide to algorithms covering algorithmic co
 created: 2023-03-05
 updated: 2023-03-07
 ---
-- [General](general/readme.md)
-- [Algorithmic Complexity](algorithmic-complexity/readme.md)
-- [Mathematics](algorithms/mathematics/readme.md)
-- [Searching Sorting](searching-sorting/readme.md)
-- [Graph Theory](graphtheory/readme.md)
-- [Dynamic Programming](dynamic-programming/readme.md)
-- [Bit Manipulation](bit-manipulation/readme.md)
-- [Data Compression](data-compression/readme.md)
-- [String Algorithms](string-algorithms/readme.md)
-- [Complex Systems](complex-systems/readme.md)
-- [Advanced Algorithms](advanced-algorithms/readme.md)
+## Fundamentals
+
+- [Algorithmic Complexity](algorithmic-complexity/readme.md) - Time/space complexity, Big-O, NP-hardness, complexity theory
+- [General Algorithms](general/readme.md) - Range search, recursion, union-find, prime factorization, and misc algorithms
+- [Mathematics](mathematics/readme.md) - Combinatorial optimization, MO algorithm, powersets
+
+## Core Algorithm Categories
+
+- [Searching & Sorting](searching-sorting/readme.md) - Binary search, quicksort, mergesort, heapsort, radix sort, timsort
+- [Graph Theory](graphtheory/readme.md) - BFS, DFS, Dijkstra, MST, maximum flow, topological sort
+- [Dynamic Programming](dynamic-programming/readme.md) - DP patterns, greedy algorithms, knapsack, edit distance
+- [String Algorithms](string-algorithms/readme.md) - Pattern matching, substring search (KMP, Boyer-Moore, Rabin-Karp)
+
+## Specialized Topics
+
+- [Bit Manipulation](bit-manipulation/readme.md) - Bitwise operations and techniques
+- [Data Compression](data-compression/readme.md) - Huffman coding, LZW, RLE, bitmap compression
+- [Complex Systems](complex-systems/readme.md) - Game theory, minimax algorithm
+- [Advanced Algorithms](advanced-algorithms/readme.md) - A* search, linear programming, TSP, multi-armed bandit
