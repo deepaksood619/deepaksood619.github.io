@@ -5,7 +5,6 @@ description: Comprehensive guide to Claude Code - installation, features, skills
 created: 2026-06-18
 updated: 2026-06-25
 ---
-
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
@@ -457,9 +456,8 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 
 ### Local LLMs
 
-[How to use ANY local vLLM with Claude Code](https://www.reddit.com/r/LocalLLaMA/comments/1ss9q8b/)
-
-[Running Claude Code with local LLMs](https://medium.com/@vito.rallo/running-claude-code-with-local-llms-3e9a0084dfe1)
+- [How to use ANY local vLLM with Claude Code](https://www.reddit.com/r/LocalLLaMA/comments/1ss9q8b/)
+- [Running Claude Code with local LLMs](https://medium.com/@vito.rallo/running-claude-code-with-local-llms-3e9a0084dfe1)
 
 ## Learning Resources
 

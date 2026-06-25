@@ -160,7 +160,7 @@ I | {Insight} | Source: {note}#{section} |
 
 **Summary to user:**
 
-```
+```text
 Generated {N} flashcards for {topic}:
 - {X} L1 (Recall) cards
 - {Y} L2 (Understanding) cards
@@ -221,7 +221,7 @@ CQ | The Transformer uses three attention components: {{c1::Query}}, {{c2::Key}}
 
 **Workflow recommendation:**
 
-```
+```text
 User request → Search notes → If found: generate cards
                            ↓
                     If not found: offer to create notes first via /note
@@ -242,7 +242,7 @@ User request → Search notes → If found: generate cards
 
 **Folder structure:**
 
-```
+```text
 docs/
 ├── ai/llm/
 │   └── flashcards.md (general LLM concepts)
@@ -256,7 +256,7 @@ docs/
 
 **Scenario 1: No existing notes**
 
-```
+```text
 "I couldn't find existing notes on {topic}. Would you like me to:
 1. Research and create notes first using /note skill, then generate flashcards
 2. Generate flashcards from your description (less comprehensive)
@@ -265,7 +265,7 @@ docs/
 
 **Scenario 2: Content unsuitable for flashcards**
 
-```
+```text
 "This content contains primarily worked examples and multi-step derivations,
 which aren't suitable for flashcards. I recommend:
 - Keeping these as reference notes
@@ -275,7 +275,7 @@ which aren't suitable for flashcards. I recommend:
 
 **Scenario 3: Duplicate cards detected**
 
-```
+```text
 "Found {N} similar existing cards:
 - {question1} (80% match)
 - {question2} (75% match)
@@ -321,25 +321,25 @@ Before completing:
 
 **Example 1: Generate from note section**
 
-```
+```text
 /flashcards ai/llm/transformers.md#self-attention
 ```
 
 **Example 2: Generate from topic**
 
-```
+```text
 /flashcards gradient descent
 ```
 
 **Example 3: Generate for book summary**
 
-```
+```text
 /flashcards book-summaries/atomic-habits.md
 ```
 
 **Example 4: With layer preference**
 
-```
+```text
 /flashcards "cognitive load theory" --focus=L2
 ```
 

@@ -3,7 +3,7 @@ slug: /economics/company-analysis/readme
 title: Company Analysis
 description: Discover comprehensive company analyses, sector reports, and investment frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
 created: 2026-06-03
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 
@@ -14,6 +14,26 @@ This directory contains comprehensive company analyses, sector reports, peer com
 **Key Principle:** Every analysis must be saved as a standalone markdown file. See [CLAUDE.md](CLAUDE.md) for complete guidelines.
 
 ## Indian Stocks (NSE/BSE)
+
+### Apollo Hospitals Enterprise Limited
+
+- [Apollo Hospitals - Comprehensive Analysis (June 25, 2026)](economics/company-analysis/companies/healthcare/apollo-hospitals-comprehensive.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical)
+  - **Ticker:** NSE:APOLLOHOSP / BSE:508869
+  - **Score:** 6.7/10 ⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Buy on Dips (Rs. 7,800-8,200 entry zone)
+  - **Target Price:** Rs. 10,000-10,500 (~16-22% upside, 12-18 month horizon)
+  - **Key Highlights:**
+    - 🟢 **#1 Hospital Network in India:** 10,200 beds, 73 facilities — unassailable scale moat
+    - 🟢 **Integrated Platform:** Apollo Pharmacy (6,000+ stores) + Apollo 24|7 digital health
+    - 🟢 **Accelerating Profits:** Net profit +33% YoY to Rs. 2,003 Cr (FY26); first positive FCF (Rs. 925 Cr)
+    - 🟢 **Best Quality-Adjusted Valuation:** PE/ROE = 2.86 — cheaper than Max Healthcare (5.01) and Fortis (6.09) on quality-adjusted basis
+    - 🟢 **Strong Institutional Backing:** FII 42.62% (world-class confidence), D/E 0.32x, interest coverage 9.6x
+    - ⚠️ **Near 52-Week High:** Stock at Rs. 8,591 vs ATH Rs. 8,690 — wait for dip to Rs. 7,800-8,200 for better entry
+    - ⚠️ **Low Promoter Holding:** 28.02% (below ideal 50%+); further dilution risk for expansion funding
+    - 🔔 **Key Catalyst:** Apollo Healthtech demerger (NCLT meeting June 24, 2026) — approval could add 10-20% to valuation
+  - **Data Date:** June 25, 2026, 12:58 PM IST (Price: Rs. 8,591, Market Cap: Rs. 1,23,520 Cr)
+  - **Next Update:** After Q1 FY27 earnings (July-August 2026) or demerger NCLT approval
 
 ### Reliance Industries Limited
 
@@ -38,25 +58,25 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ### Suzlon Energy Limited
 
-- [Suzlon Energy - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/energy/suzlon-energy-comprehensive.md)
+- [Suzlon Energy - Comprehensive Investment Analysis (Updated June 25, 2026)](economics/company-analysis/companies/energy/suzlon-energy-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** NSE:SUZLON / BSE:532667
-  - **Recommendation:** Buy (Medium to High Conviction)
-  - **Target Price:** Rs. 65-70 (17-26% upside from Rs. 55.60)
+  - **Recommendation:** Buy (Medium to High Conviction) — Maintained
+  - **Target Price:** Rs. 75-90 (29-55% upside from Rs. 57.90)
   - **Score:** 7.5/10 ⭐⭐⭐⭐
   - **Key Highlights:**
+    - 🟢 **Q1 FY27 Strong:** Revenue +55%, EBITDA +62%, Volumes +110% YoY (573 MW); Order book 5.9 GW
     - 🟢 **Successful Turnaround:** From Rs. 913 Cr loss (FY22) to Rs. 4,111 Cr profit (FY26) in 4 years
-    - 🟢 **Exceptional Growth:** Revenue CAGR 65% (5Y), Profit CAGR 114% (3Y)
-    - 🟢 **Superior Returns:** ROE 38.2%, ROCE 35.6% (industry-leading)
-    - 🟢 **Debt-Free:** Borrowings just Rs. 269 Cr vs Rs. 7,083 Cr reserves
-    - 🟢 **Attractive Valuation:** PE 24-26x vs peers at 35-146x, despite higher growth
+    - 🟢 **Exceptional Growth:** Revenue CAGR 65% (5Y); EBITDA margin sustained at 19%
+    - 🟢 **Superior Returns:** ROE 40.6%, ROCE 35.6% (industry-leading)
+    - 🟢 **Chart Breakout:** Broke out of falling channel (June 2026); RSI 65; above all 7 MAs
+    - 🟢 **Tata Power Deal:** Partnership crossed 1 GW + new 400 MW EPC order signed
     - 🟢 **Sector Tailwinds:** India's 500 GW renewable target by 2030 creates massive runway
-    - 🟢 **Technical Setup:** Above all moving averages, RSI 57 (room for upside)
-    - ⚠️ **Key Risk:** Low promoter holding (11.73%, declining from 14.50%) - governance concern
+    - ⚠️ **Key Risk:** Low promoter holding (11.73%); PAT growth moderated (+7% Q1 FY27) as other income normalised
   - **Position Sizing:** 2-3% portfolio (limit due to promoter holding concern)
-  - **Entry Strategy:** Rs. 52-56 accumulation zone, add more at Rs. 48-51
-  - **Data Date:** June 4, 2026, 4:14 PM IST (Price: Rs. 55.60, Market Cap: Rs. 75,700 Cr)
-  - **Next Update:** After Q1 FY27 earnings (July 2026) or significant promoter holding change
+  - **Entry Strategy:** Rs. 56-59 accumulation zone; dip-buy Rs. 58.5-59; momentum entry on Rs. 61.50 breakout; stop Rs. 56.50
+  - **Data Date:** June 25, 2026 (Price: Rs. 57.90, Market Cap: Rs. 78,633 Cr)
+  - **Next Update:** After Q2 FY27 earnings (October 2026) or Rs. 61.50 breakout confirmation
 
 ### Physicswallah Limited
 

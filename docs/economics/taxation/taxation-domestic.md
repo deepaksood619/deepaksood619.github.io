@@ -3,7 +3,7 @@ slug: /economics/taxation/taxation-domestic
 title: Taxation Domestic
 description: Discover essential strategies for domestic taxation, including capital gains, tax loss harvesting, and optimizing your investments for maximum returns.
 created: 2025-02-05
-updated: 2026-06-09
+updated: 2026-06-25
 ---
 [Capital Gains Taxation Rules Ready Reckoner](https://freefincal.com/capital-gains-taxation-rules-ready-reckoner/)
 
@@ -69,27 +69,138 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 
 [Real Estate Taxation Example After Finance Bill 2024 Amendment](https://freefincal.com/real-estate-taxation-example-after-finance-bill-2024-amendment/)
 
-## Taxes on house (Section 54F)
+## Capital Gains Tax Exemption Sections - Overview
 
 **See also:** [Comprehensive Equity Tax Optimization Guide](economics/taxation/equity-tax-optimization-strategies.md) - Integrates Section 54F with ESPP strategies and tax-loss harvesting
 
-- In respect of capital gains arising on sale any asset other than a residential house, an individual or an HUF can claim exemption from long term capital gains if the net sale consideration in respect of such asset is invested for acquiring a residential house within a period of two years after sale of such asset.
-- Under Section 54F you should not own more than one residential house property on the date of sale of the asset except the one in respect of which you are claiming the exemption
-- Purchase of the plot by you in your wife’s name will be treated as gift to your wife. As per the provisions of Section 64 of Income Tax Act, all the income arising on property gifted to your spouse is required to be added in your hands.
-- Any gift given to a spouse is exempt from tax. However, if the spouse has no income and the gift is an income generating asset, the income from that asset may be clubbed with the income of the spouse who gifted the asset under clubbing provisions. If both husband and wife wish to claim tax benefit for their joint investments, they may have to enter into a simple agreement bifurcating proportionate ownership for housing loan repayment to reflect in their respective tax returns.
+The Income Tax Act provides several dedicated pathways to legally exempt or defer capital gains tax. The most commonly used for investors are Section 54, Section 54F, Section 54EC, Section 54B, and Section 54EE.
+
+### Core Comparison: Section 54 vs Section 54F
+
+| Feature | Section 54 | Section 54F |
+|---------|-----------|-------------|
+| **Asset Sold** | Residential house property | Any long-term capital asset **except** a residential house (stocks, foreign equities, gold, land, etc.) |
+| **Amount to Reinvest** | Only the capital gains (profit) | The **entire** net sale consideration (principal + gains) |
+| **Existing Property Rule** | No restriction on how many houses you own | You must not own more than one residential house on the sale date (excluding the new one) |
+| **Exemption Cap** | ₹10 crore | ₹10 crore |
+| **Two-Property Exception** | If capital gains `<₹2` crore, can purchase two residential houses (once-in-a-lifetime) | Not applicable |
+
+## Section 54: Residential House to Residential House
+
+**The Trigger Asset:** Sale of a residential house property held for more than 24 months.
+
+**The Reinvestment Target:** A residential house property located within India.
+
+**Reinvestment Metric:** You only need to reinvest the **net capital gains** (profit), not the gross sale proceeds.
+
+**Two-Property Exception:** If your capital gains do not exceed ₹2 crore, you can purchase **two residential houses** instead of one (a once-in-a-lifetime option).
+
+**The Limit:** Total exemption under Section 54 is capped at ₹10 crore.
+
+## Section 54F: Any Asset (Except Residential House) to Residential House
+
+**Applicable Assets:** Long-term capital gains from **any capital asset except a residential house**, including:
+
+- Listed stocks (Indian equities)
+- **Foreign stocks** (U.S. shares, foreign RSUs, global ETFs)
+- Unlisted equity shares
+- Gold, jewelry, precious metals
+- Land (non-agricultural)
+- Any other long-term capital asset
+
+**Key Conditions:**
+
+**1. Holding Period:** The asset must be held for more than 24 months to qualify as long-term capital asset. Short-term gains do not qualify.
+
+**2. Reinvest the Entire Proceeds:** Unlike Section 54 (where you only reinvest the profit), Section 54F requires you to reinvest the **entire net sale consideration** (principal + gains) to get a 100% tax exemption. Reinvesting only a part of it gives you a **proportional exemption**.
+
+**3. Property Location:** The new residential house must be located **in India**. Buying an overseas property does not qualify.
+
+**4. Timeline for Reinvestment:**
+
+- Purchase the new house within **1 year before** or **2 years after** the stock sale, OR
+- Complete construction within **3 years** after the sale
+
+**5. Property Ownership Limit:** On the date of the asset sale, you must **not own more than one residential house** in India (excluding the new one you are buying).
+
+**6. Exemption Cap:** The maximum capital gains exemption you can claim under this section is capped at **₹10 crore**.
+
+**7. Lock-in Period:** Once you’ve purchased the house, you must **hold it for at least 3 years**. If you sell before 3 years, the exemption is reversed and you’ll owe tax, penalty, and interest on the long-term capital gains from the original sale date.
+
+### Does Section 54F Work for Foreign Stocks?
+
+**Yes, Section 54F works for selling foreign stocks** (including U.S. shares, foreign RSUs, and global ETFs).
+
+The Indian Income Tax Act allows you to use Section 54F to exempt Long-Term Capital Gains (LTCG) arising from the sale of **any asset other than a residential house**. Because foreign equities qualify as capital assets, you can legally claim this tax exemption by reinvesting the proceeds into a residential house in India.
+
+**Critical Compliance Steps:**
+
+1. **Capital Gains Account Scheme (CGAS):** If you sell your foreign stocks but cannot purchase or build the house before your Income Tax Return (ITR) filing deadline, you must deposit the unutilised sale proceeds into a CGAS account at a designated bank to keep the exemption active.
+
+2. **Mandatory ITR Disclosures:** As an Indian resident, you must strictly report the ownership and sale of foreign stocks under **Schedule FA (Foreign Assets)** and **Schedule FSI** of your tax filing, even if you claim a full tax exemption under Section 54F.
+
+### Spousal Gifts & Property Purchase
+
+- Purchase of a plot in your wife’s name will be treated as a **gift to your wife**. As per Section 64 of Income Tax Act, all the income arising on property gifted to your spouse is required to be added in your hands.
+- Any gift given to a spouse is exempt from tax. However, if the spouse has no income and the gift is an income-generating asset, the income from that asset may be clubbed with the income of the spouse who gifted the asset under clubbing provisions.
+- If both husband and wife wish to claim tax benefit for their joint investments, they may have to enter into a simple agreement bifurcating proportionate ownership for housing loan repayment to reflect in their respective tax returns.
+
+## Other Sections to Optimize Capital Gains Taxes
+
+### 1. Section 54EC (Save Taxes via Infrastructure Bonds)
+
+**Best Used For:** Selling real estate or land without buying a new house.
+
+**The Rule:** Reinvest gains into NHAI, REC, PFC, or IRFC bonds within **6 months** of the sale.
+
+**The Limits:** Maximum investment is capped at **₹50 lakh per financial year**.
+
+**Lock-in Period:** Capital is locked in for **5 years**.
+
+**Interest Rate:** Typically around 5.25% per annum (taxable as per your income tax slab).
+
+**Important:** 54EC bonds **cannot be purchased** to save tax on long-term capital gains from the sale of stocks. They only apply to immovable property (land or building).
+
+### 2. Section 54B (Exemption on Agricultural Land)
+
+**Best Used For:** Farmers or urban land investors.
+
+**The Rule:** Exempts gains from selling **agricultural land** used for farming for at least **2 years** prior to sale.
+
+**The Reinvestment Target:** Must buy **new agricultural land** (urban or rural) within **2 years**.
+
+### 3. Section 54EE (Exemption via Startup Investment)
+
+**Best Used For:** High-net-worth investors exiting long-term assets.
+
+**The Rule:** Reinvest long-term capital gains into units of a **government-notified startup fund**.
+
+**The Limits:** Capped at **₹50 lakh** investment; must hold units for **3 years**.
+
+### Capital Gains Account Scheme (CGAS)
+
+The **Capital Gains Account Scheme (CGAS)**, 1988, lets taxpayers temporarily park unutilized long-term capital gains from selling assets in designated bank accounts to claim tax exemption under Income Tax Act Sections 54, 54B, 54F, etc., when they can’t reinvest immediately.
+
+**Key Features:**
+
+- **Account A:** Savings account for immediate liquidity
+- **Account B:** Fixed deposit account for higher interest
+- Effectively gives you more time (up to 2-3 years) to invest in specified assets
+- Funds earn interest during the holding period
+- Becomes taxable if unused by the deadline
+
+**Resources:**
+
 - [How buying a new home can save you capital gains tax on shares, mutual funds | Mint](https://www.livemint.com/money/personal-finance/how-buying-a-new-home-can-save-you-capital-gains-tax-on-shares-mf/amp-11696266337863.html)
 - [Taxes on ETF / Equity Mutual Funds](economics/investment-frameworks/stock-selection/stocks-equity-basics.md)
 - [I plan to buy house by selling shares. Can some income tax exemption be claimed? | Mint](https://www.livemint.com/money/personal-finance/i-plan-to-buy-house-by-selling-shares-can-some-income-tax-exemption-be-claimed-11648266159497.html)
-- [Bought plot in wife's name who is a homemaker. On sale, how income tax is calculated | Mint](https://www.livemint.com/money/personal-finance/bought-plot-in-wife-s-name-who-is-a-homemaker-on-sale-how-income-tax-is-calculated-11666516847336.html)
+- [Bought plot in wife’s name who is a homemaker. On sale, how income tax is calculated | Mint](https://www.livemint.com/money/personal-finance/bought-plot-in-wife-s-name-who-is-a-homemaker-on-sale-how-income-tax-is-calculated-11666516847336.html)
 - [Section 54EC- Deduction on LTCG Through Capital Gain Bonds](https://cleartax.in/s/section-54ec-bonds)
-	- Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free.
 - [Section 54F of Income Tax Act: Capital Gains Can Be Invested Multiple Times To Buy A New Residential House Property](https://cleartax.in/s/invest-multiple-capital-gains-on-buying-new-house-property)
 - [Claiming Capital Gains Exemption? Watch Out for This Common Slip](https://freefincal.com/claiming-capital-gains-exemption-watch-out-for-this-common-slip/)
 - [Selling Property? Don’t Miscalculate Your Section 54 Reinvestment Amount](https://freefincal.com/selling-property-dont-miscalculate-your-section-54-reinvestment-amount/)
 - [No more 54F exemption for capital gains from Debt Funds](https://freefincal.com/no-more-54f-exemption-for-capital-gains-from-debt-funds/)
-- The **Capital Gains Account Scheme (CGAS)**, 1988, lets taxpayers temporarily park unutilized long-term capital gains from selling assets (like property) in designated bank accounts (Account A: Savings; Account B: Fixed Deposit) to claim tax exemption under Income Tax Act Sections 54, 54B, 54F, etc., when they can't reinvest immediately, effectively giving them more time (up to 2-3 years) to invest in specified assets, like a new house, while earning interest, with funds becoming taxable if unused by the deadline.
-	- [Experience with Capital Gains Account Scheme : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/p5fro1/experience_with_capital_gains_account_scheme/)
-	- 54EC Bonds. Company's bond - REC, PFC, IRFC
+- [Experience with Capital Gains Account Scheme : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/p5fro1/experience_with_capital_gains_account_scheme/)
 
 ### Points
 

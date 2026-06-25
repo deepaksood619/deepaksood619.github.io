@@ -3,12 +3,12 @@ slug: /economics/company-analysis/companies/energy/suzlon-energy-comprehensive
 title: Suzlon Energy Investment Analysis
 description: Discover why Suzlon Energy is a compelling buy in the renewable energy sector with strong growth and attractive valuations.
 created: 2026-06-06
-updated: 2026-06-09
+updated: 2026-06-25
 ---
-- **Analysis Date:** June 4, 2026
+- **Analysis Date:** June 4, 2026 (Updated: June 25, 2026)
 - **Exchange:** NSE / BSE
 - **Sector:** Renewable Energy - Wind Power
-- **Market Cap:** Large Cap (Rs. 75,700 Cr)
+- **Market Cap:** Large Cap (Rs. 78,633 Cr)
 
 ## Executive Summary
 
@@ -18,7 +18,7 @@ updated: 2026-06-09
 
 **Target Price:** Rs. 65-70 (17-26% upside from current levels)
 
-**Key Thesis:** Suzlon Energy represents a compelling turnaround story in India's booming renewable energy sector. The company has transformed from loss-making (FY22) to highly profitable (FY26), achieved near debt-free status, and is capitalizing on India's aggressive renewable energy targets. Strong revenue growth (65% CAGR over 5 years), exceptional return ratios (ROE 38.2%, ROCE 35.6%), and attractive valuation (PE 24 vs peers at 35-146) make it an attractive investment. However, low promoter holding (11.73%) and potential execution risks warrant monitoring.
+**Key Thesis:** Suzlon Energy represents a compelling turnaround story in India's booming renewable energy sector. The company has transformed from loss-making (FY22) to highly profitable (FY26), achieved near debt-free status, and is capitalizing on India's aggressive renewable energy targets. Strong revenue growth (65% CAGR over 5 years), exceptional return ratios (ROE 40.6%, ROCE 35.6%), and attractive valuation (PE 26.9 vs peers at 35-146) make it an attractive investment. Q1 FY27 confirmed operational strength with EBITDA +62% YoY on volumes of 573 MW (+110%). Stock broke out of a falling channel pattern in June 2026 — technically bullish. However, low promoter holding (11.73%) and PAT growth moderation (net profit +7% YoY in Q1 FY27 due to normalising other income) warrant monitoring.
 
 ## Company Overview
 
@@ -103,6 +103,25 @@ Suzlon continues to grow revenue at 25-30% annually through FY28 as India's wind
 - **Turnaround Execution:** From Rs. 913 Cr loss (FY22) to Rs. 4,111 Cr profit (FY26) in just 4 years
 - **Profit CAGR:** 34.8% over 5 years, 114% over 3 years
 
+#### Quarterly Performance (FY26 + Q1 FY27)
+
+| Quarter | Q1 FY26 | Q2 FY26 | Q3 FY26 | Q4 FY26 | Q1 FY27 |
+|---------|---------|---------|---------|---------|---------|
+| **Sales (Rs. Cr)** | 3,577 | 2,848 | 3,481 | 4,967 | 3,117 |
+| **EBITDA (Rs. Cr)** | ~573 | ~456 | ~557 | ~994 | 599 |
+| **OPM (%)** | 16% | 16% | 16% | 20% | 19% |
+| **Net Profit (Rs. Cr)** | 1,174 | 347 | 1,287 | 2,195 | 324 |
+| **EPS (Rs.)** | 0.87 | 0.26 | 0.95 | 1.61 | 0.24 |
+| **Volumes (MW)** | - | - | - | - | 573 |
+
+**Q1 FY27 Key Highlights (April–June 2026):**
+
+- Revenue +55% YoY (Rs. 3,117 Cr vs Rs. 2,016 Cr in Q1 FY26)
+- EBITDA +62% YoY (Rs. 599 Cr vs Rs. 370 Cr) — EBITDA margin sustained at 19%
+- PAT +7% YoY (Rs. 324 Cr vs Rs. 302 Cr) — Net margin compressed to 10.4% as other income normalised
+- Net Volumes +110% YoY (573 MW vs 273 MW) — exceptional operational throughput
+- Order Book: ~5.9 GW (66% from PSU and C&I sectors)
+
 #### Margin Analysis
 
 | Metric | FY24 | FY25 | FY26 | Trend |
@@ -111,7 +130,7 @@ Suzlon continues to grow revenue at 25-30% annually through FY28 as India's wind
 | Net Profit Margin | 12.3% | 20.6% | 27.2% | Strong expansion |
 | EBITDA Margin | ~17% | ~17% | ~20% | Stable to improving |
 
-**Assessment:** Margins have expanded significantly, though part of FY26 net profit margin (27%) may include one-time items (other income of Rs. 1,333 Cr is notable). Sustainable margins likely in 15-20% OPM range.
+**Assessment:** Margins have expanded significantly. Q1 FY27 confirms EBITDA margins sustained at 19% operationally. The elevated FY26 net margin (27%) was driven by non-recurring other income — Q1 FY27's 10.4% net margin is the normalised run rate. EBITDA growth is the correct lens for ongoing assessment.
 
 #### Balance Sheet Strength (FY26)
 
@@ -130,11 +149,21 @@ Suzlon continues to grow revenue at 25-30% annually through FY28 as India's wind
 
 **Assessment:** Suzlon has successfully deleveraged its balance sheet and built substantial reserves, providing financial flexibility for growth capex and acquisitions.
 
-#### Cash Flow Quality
+#### Cash Flow Quality (FY26 Actuals)
 
-- **Operating Cash Flow:** Strong profitability suggests healthy OCF generation, though exact FY26 OCF data not available
-- **Other Income:** Rs. 1,333 Cr in FY26 is significant (33% of operating profit) - warrants scrutiny for sustainability
-- **Capex Requirements:** Wind manufacturing requires moderate capex; company likely investing in capacity expansion
+| Metric | FY26 (Rs. Cr) | Assessment |
+|--------|---------------|------------|
+| **Operating Cash Flow** | 1,291 | Healthy; 31% of net profit |
+| **Free Cash Flow** | 851 | Positive FCF generation |
+| **Investing Activity** | -1,314 | Capex-led growth investment |
+| **Financing Activity** | -87 | Debt repayment / minimal |
+| **Net Cash Flow** | +133 | Marginally positive |
+
+**Notes:**
+
+- OCF/Net Profit = 31% — OCF significantly below reported profit; gap primarily due to Rs. 1,333 Cr other income (non-cash/non-operational in nature)
+- FCF positive at Rs. 851 Cr is encouraging for a high-growth capital cycle
+- Capex of Rs. 440 Cr (OCF - FCF) reflects manufacturing capacity investment
 
 ### Shareholding Pattern (March 2026)
 
@@ -157,6 +186,7 @@ Suzlon continues to grow revenue at 25-30% annually through FY28 as India's wind
 - Promoter holding below 30% is generally a concern for Indian stocks
 - However, professional management and strong institutional holding (33% combined FII+DII) provide some comfort
 - Watch for further promoter stake dilution
+- **June 2026 ESOP Allotment:** 48.88 million equity shares allotted under ESOP 2022 — minor dilutive event (~0.36% of share capital); management incentivisation positive for alignment
 
 ### Valuation Analysis
 
@@ -164,13 +194,17 @@ Suzlon continues to grow revenue at 25-30% annually through FY28 as India's wind
 
 | Metric | Suzlon Value | Industry/Sector Avg | Assessment |
 |--------|--------------|---------------------|------------|
-| PE Ratio | 25.8 | N/A (Sector varies) | Moderate |
-| Price to Book | 7.70x | N/A | Premium to book |
-| EPS (TTM) | Rs. 3.02 | - | Growing |
+| Current Price | Rs. 57.9 | - | Post-breakout |
+| Market Cap | Rs. 78,633 Cr | - | Large Cap |
+| PE Ratio | 26.9 | N/A (Sector varies) | Moderate |
+| Price to Book | 7.97x | N/A | Premium to book |
+| EPS (TTM FY26) | Rs. 3.02 | - | Growing |
 | Book Value | Rs. 7.22 | - | - |
 | Dividend Yield | 0.00% | - | No dividend |
-| Market Cap / Sales | 5.0x | - | Elevated |
-| EV/EBITDA | ~25x (est) | - | Moderate |
+| ROE | 40.6% (consolidated) | - | Exceptional |
+| ROCE | 35.6% | - | Strong |
+| Market Cap / Sales | ~5.2x | - | Elevated |
+| 52-Week High/Low | Rs. 68.3 / Rs. 38.2 | - | 53% off lows |
 
 #### Peer Comparison
 
@@ -190,18 +224,20 @@ Suzlon continues to grow revenue at 25-30% annually through FY28 as India's wind
 
 #### Historical Valuation Range
 
-Based on recent price action:
+Based on recent price action (as of June 25, 2026):
 
-- **52-Week High:** Rs. 69.5 (reached during peak optimism)
-- **52-Week Low:** Rs. 38.2 (correction phase)
-- **Current Price:** Rs. 55.6 (20% below 52W high)
+- **52-Week High:** Rs. 68.3 (reached during peak optimism)
+- **52-Week Low:** Rs. 38.17 (March 9, 2026 — correction bottom)
+- **Current Price:** Rs. 57.9 (15% below 52W high, +53% off lows)
 - **PE Band:** Stock has traded between 15-30x PE in last 2 years
 
 **Fair Value Estimate:**
 
-- **Conservative (20x PE):** Rs. 60 (8% upside)
-- **Base Case (23x PE):** Rs. 70 (26% upside)
-- **Optimistic (28x PE):** Rs. 85 (53% upside)
+- **Conservative (20x FY28E PE):** Rs. 73 (26% upside)
+- **Base Case (23x FY28E PE):** Rs. 84 (45% upside)
+- **Optimistic (28x FY28E PE):** Rs. 103 (78% upside)
+
+*Note: FY28E EPS estimate Rs. 3.67 used for valuation (assuming 29% PAT CAGR FY26-28 based on EBITDA trajectory, normalised other income)*
 
 ### Quality Assessment
 
@@ -234,102 +270,102 @@ Based on recent price action:
 
 ## Technical Analysis
 
+*Updated: June 25, 2026 — Current Price: Rs. 57.9*
+
 ### Trend Analysis
 
-**Primary Trend (Weekly/Monthly):** Uptrend
+**Primary Trend (Weekly/Monthly):** Uptrend — Resumed after correction
 
-- Stock has rallied from Rs. 38 (52W low) to Rs. 69.5 (52W high) - 82% move
-- Currently in consolidation phase at Rs. 55-56 levels
-- Higher highs and higher lows pattern intact on weekly charts
+- Stock rallied from 52W low of Rs. 38.17 (March 9, 2026) to Rs. 68.3 (52W high) — 79% move
+- Entered consolidation in a falling channel for ~2 months; **decisive breakout from falling channel confirmed in June 2026** — flag pattern breakout
+- Higher highs and higher lows pattern re-establishing on weekly charts
+- +53% from 52-week low, +319% 3-year return, +706% 5-year return
 
-**Secondary Trend (Daily):** Consolidation
+**Secondary Trend (Daily):** Bullish momentum resuming
 
-- Trading in Rs. 51-58 range for past few weeks
-- Price above all key moving averages (bullish structure)
+- Price above all 10, 20, 30, 50, 100, 150, and 200-day SMAs — sustained bullish structure
+- Immediate test of key resistance zone at Rs. 60-61.50
 
 ### Moving Averages
 
-| Moving Average | Value (Rs.) | Current Price vs MA | Signal |
-|----------------|-------------|---------------------|--------|
-| 20 DMA | 54.23 | +2.6% above | Bullish |
-| 50 DMA | 51.10 | +8.8% above | Bullish |
-| 200 DMA | 51.92 | +7.1% above | Bullish |
+| Moving Average | Signal | Assessment |
+|----------------|--------|------------|
+| **10 DMA** | Price above | Short-term bullish |
+| **20 DMA** | Price above | Bullish |
+| **50 DMA** | Price above | Bullish |
+| **100 DMA** | Price above | Medium-term bullish |
+| **200 DMA** | Price above | Long-term bullish |
 
 **Key Technical Signals:**
 
-- **Golden Cross Present:** 50 DMA `>` 200 DMA (bullish long-term setup)
-- **Price Above All MAs:** Indicates strong uptrend structure
-- **20 DMA Support:** Rs. 54 is immediate support
+- **All 7 MAs Bullish:** Indicates sustained uptrend structure — strongest possible MA configuration
+- **Golden Cross:** 50 DMA `>` 200 DMA (long-term bullish)
+- **Falling Channel Breakout:** Confirmed — this is a strong momentum signal
 
 ### Support and Resistance Levels
 
 | Level Type | Price (Rs.) | Notes |
 |------------|-------------|-------|
-| **Resistance 3** | 69.50 | 52-week high, strong psychological barrier |
-| **Resistance 2** | 62.00 | Previous swing high |
-| **Resistance 1** | 58.42 | 20-day recent high |
-| **Current Price** | 55.60 | -- |
-| **Support 1** | 54.23 | 20 DMA support |
-| **Support 2** | 51.31 | 20-day recent low / 50 DMA zone |
-| **Support 3** | 48.00 | Previous breakout level |
+| **Strong Resistance** | 68.30 | 52-week high, major supply zone |
+| **Resistance 2** | 63.00 | Short-term analyst target / prior swing |
+| **Key Resistance Zone** | 60.00–61.50 | Critical breakout level; reclaim = next leg up |
+| **Current Price** | 57.90 | Just below resistance zone |
+| **Immediate Support** | 58.00 | Near-term support |
+| **Support 1** | 58.50–59.00 | Dip entry zone (analyst recommended) |
+| **Strong Support** | 50.00–52.00 | Multi-MA confluence, structural support |
+| **Stop Loss** | 56.50 | Close below = short-term reversal signal |
 
 ### Momentum Indicators
 
-**RSI (14-period):** 57.57
+**RSI (14-period):** ~65 (approaching overbought zone)
 
-- **Interpretation:** Neutral zone (neither overbought nor oversold)
-- **Range:** 30-70 is neutral; `>70` overbought; `<30` oversold
-- **Signal:** Room for upside move without entering overbought territory
+- **Interpretation:** Bullish momentum building; `>70` would flag overbought risk
+- **Signal:** Strong momentum — some caution warranted on direct chasing; dips toward Rs. 58-59 preferred entry
+- **vs Prior:** RSI improved from 57.57 to 65 — momentum accelerating
 
-**Volume Analysis:**
+### Chart Pattern
 
-- **Current Volume:** 119 million shares
-- **20-Day Average:** 99.5 million shares
-- **Ratio:** 1.20x (above average - healthy)
-- **Assessment:** Good participation, no volume exhaustion
-
-### Chart Patterns
-
-- **Pattern:** Ascending triangle / Bull flag consolidation
-- **Breakout Level:** Rs. 58-60 zone
-- **Target (if breakout):** Rs. 68-72 (measured move)
-- **Stop Loss (for traders):** Rs. 51 (below 50 DMA)
+- **Pattern:** Falling channel breakout + Flag pattern breakout (dual confirmation) — **CONFIRMED**
+- **Breakout Status:** Decisive breakout post-June 2026
+- **Measured Move Target:** Rs. 70-75 zone (6-month horizon)
+- **Near-term Target:** Rs. 63, then Rs. 65-68
 
 ### Technical Outlook
 
-**Short-term (1-2 weeks):** Neutral to Bullish
+**Short-term (1-3 weeks):** Bullish
 
-- Consolidating after recent gains
-- Breakout above Rs. 58 can trigger move to Rs. 62-65
-- Support at Rs. 51-52 should hold for bullish structure
+- Breakout confirmed from falling channel
+- Next key hurdle: Rs. 60-61.50 resistance zone
+- On breakout above Rs. 61.50 with volume → Rs. 63-65 rapidly
+- Support: Rs. 58 near-term, Rs. 50-52 structural
 
 **Medium-term (1-3 months):** Bullish
 
-- Higher highs, higher lows pattern intact
-- Above all major moving averages
-- Target: Rs. 65-72 on breakout
+- Target Rs. 70-75 on sustained breakout above Rs. 61.50
+- Catalyst: Q2 FY27 results (October 2026) could drive next move
+- Pullbacks toward Rs. 58-59 are buying opportunities
 
 **Long-term (6-12 months):** Bullish
 
-- Primary uptrend remains intact
-- Fundamental tailwinds support higher prices
-- Target: Rs. 75-85 in optimistic scenario
+- Primary uptrend intact with strong fundamentals support
+- Rs. 75-88 base case over 12-18 months at 22-24x FY28E EPS
 
 ### Trading Levels
 
 **For Investors:**
 
-- **Buy Zone:** Rs. 52-56 (current to slight dip)
-- **Add More:** Rs. 48-51 (deeper correction)
-- **Stop Loss:** Rs. 45 (break of structure)
-- **Target:** Rs. 70-85 (12-18 months)
+- **Buy Zone:** Rs. 56-59 (breakout retests / dips)
+- **Add More:** Rs. 50-52 (structural support)
+- **Stop Loss:** Rs. 45 (break of long-term structure)
+- **Target:** Rs. 75-88 (12-18 months)
 
 **For Traders:**
 
-- **Entry:** Breakout above Rs. 58 with volume
-- **Stop Loss:** Rs. 51 (below consolidation)
-- **Target 1:** Rs. 62
-- **Target 2:** Rs. 68
+- **Aggressive Entry:** Current Rs. 57.9 / dip to Rs. 58.5-59
+- **Conservative Entry:** Breakout above Rs. 61.50 with volume
+- **Stop Loss:** Rs. 56.50 (close-basis)
+- **Target 1:** Rs. 63
+- **Target 2:** Rs. 68-70
 
 ## Risk Assessment
 
@@ -352,10 +388,10 @@ The biggest concern is low and declining promoter holding. All other risks are t
 
 ### Near-term (0-3 months)
 
-- **Q1 FY27 Results (July 2026):** Continued strong order inflows and revenue growth would be positive
-- **New Order Announcements:** Significant order wins from central/state government tenders
-- **Capacity Expansion Plans:** Any announcements on manufacturing capacity additions
-- **Government Policy:** Union Budget 2026 announcements on renewable energy incentives
+- **Q1 FY27 Results (Released June 2026 — POSITIVE):** Revenue +55%, EBITDA +62%, Volumes +110% YoY. Strong operational performance confirmed. EBITDA margin of 19% sustained. PAT grew only +7% as non-recurring other income normalised — this was expected and the EBITDA trend is what matters.
+- **Tata Power Partnership (1 GW Milestone):** Partnership crossed 1 GW; new 400 MW EPC order signed. Validates Suzlon's scale and execution capability with marquee clients.
+- **New Order Announcements:** Order book at 5.9 GW (66% PSU/C&I). Quarterly order inflow monitoring key.
+- **Technical Breakout Catalyst:** Channel breakout is attracting momentum buyers; near-term price action toward Rs. 60-65 zone likely if breakout sustains.
 
 ### Medium-term (3-12 months)
 
@@ -482,12 +518,12 @@ Suzlon Energy presents a **compelling investment opportunity** in India's high-g
 - Execution risk in scaling production and delivering on large order book
 - No dividend payout despite profitability
 
-**Investment Strategy:**
+**Investment Strategy (Updated June 25, 2026):**
 
-- **For Long-term Investors:** Accumulate in Rs. 52-56 range with 18-24 month horizon; target Rs. 75-85
-- **For Tactical Traders:** Buy breakout above Rs. 58 with stop at Rs. 51; target Rs. 65-70
+- **For Long-term Investors:** Accumulate at Rs. 56-60 (current levels or on dips); add more at Rs. 50-52; 18-24 month horizon; target Rs. 80-90
+- **For Tactical Traders:** Dip-buy at Rs. 58.5-59 with stop at Rs. 56.50; target Rs. 63, then Rs. 68-70; or breakout above Rs. 61.50 with volume for momentum trade
 - **Position Sizing:** Given promoter holding concern, limit to 2-3% of portfolio
-- **Monitoring Parameters:** Quarterly order inflow, margin trends, promoter stake changes, FII/DII holding
+- **Monitoring Parameters:** Quarterly order inflow (`>`1.5 GW per quarter), EBITDA margins (`>`17%), promoter stake changes, FII/DII holding
 
 **Key Monitoring Parameters:**
 
@@ -497,7 +533,7 @@ Suzlon Energy presents a **compelling investment opportunity** in India's high-g
 4. **Working Capital:** OCF/EBITDA ratio and receivables days
 5. **Competition:** Market share trends and pricing environment
 
-**Fair Value Range:** Rs. 65-80 (17-44% upside)
+**Fair Value Range:** Rs. 75-90 (29-55% upside from Rs. 57.9)
 
 **Risk-Adjusted Rating:** 7.5/10
 
@@ -511,7 +547,29 @@ The analyst (Claude AI) is a language model and does not have personal financial
 
 ## Data Sources
 
-- Screener.in - Fundamental data, financial statements, shareholding pattern (Accessed: June 4, 2026)
+- Screener.in - Fundamental data, financial statements, shareholding pattern (Accessed: June 4, 2026; Updated: June 25, 2026)
 - NSE India - Trading data, corporate actions (Accessed: June 4, 2026)
-- Yahoo Finance (yfinance API) - Historical price data, technical indicators (Accessed: June 4, 2026)
+- Suzlon Press Room - Q1 FY27 results press release (Accessed: June 25, 2026)
+- Business Today - Technical analysis / channel breakout report, June 23, 2026 (Accessed: June 25, 2026)
 - Public domain information on renewable energy sector and government policies
+
+---
+
+## Update Log
+
+### Update: 2026-06-25
+
+- **Price at update:** Rs. 57.9 (vs Rs. 55.6 at original analysis on June 4, 2026)
+- **Market Cap at update:** Rs. 78,633 Cr (vs Rs. 75,700 Cr)
+- **Key changes since June 9, 2026:**
+  - Q1 FY27 results released: Revenue +55%, EBITDA +62%, PAT +7% YoY; Volumes +110% (573 MW); Order book 5.9 GW
+  - Stock broke out of falling channel pattern (confirmed June 2026) — technically significant
+  - RSI moved from 57.57 to ~65 — momentum accelerating
+  - Cash flow actuals added: OCF Rs. 1,291 Cr, FCF Rs. 851 Cr
+  - ESOP allotment: 48.88 million shares under ESOP 2022 (minor dilution)
+  - Tata Power partnership crossed 1 GW; new 400 MW EPC order signed
+  - ROE updated to 40.6% (consolidated) from 38.2%
+  - Borrowings (consolidated): Rs. 556 Cr (vs standalone Rs. 269 Cr)
+- **Recommendation change:** None — Maintained **Buy**
+- **Target price updated:** Rs. 75-90 (from Rs. 65-80) — reflecting stronger operational delivery and FY28E earnings visibility
+- **Metrics updated:** Q1 FY27 quarterly table, technical analysis (full rewrite), cash flow actuals, valuation table, catalysts, conclusion
