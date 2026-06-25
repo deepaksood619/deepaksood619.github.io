@@ -24,7 +24,7 @@ Last updated: 2026-06-18
    - Build time: 3-4 months
    - **Status:** Ideation → Validation needed
 
-2. **[Postman Alternative - API Testing Platform](ideas/postman-alternative-api-testing.md)** - DevTools
+1. **[Postman Alternative - API Testing Platform](ideas/01-startup-opportunities/vetted/postman-alternative-api-testing.md)** - DevTools
    - Open-source API client with cloud sync
    - 70% cheaper than Postman ($10/mo vs $36/mo)
    - Market: $5.6B Postman valuation validates
@@ -79,7 +79,7 @@ Last updated: 2026-06-18
 
 **Active Ideas:**
 
-- [Postman Alternative](ideas/postman-alternative-api-testing.md)
+- [Postman Alternative](ideas/01-startup-opportunities/vetted/postman-alternative-api-testing.md)
 - One-Click GitHub Demo Platform
 - Git + Docker Simplification Tool
 - CodeRabbit competitor (AI code review)
@@ -246,15 +246,6 @@ Last updated: 2026-06-18
 - Technical architecture plans
 - Financial projections
 - GTM playbooks
-
-## Original Idea Sources
-
-All ideas sourced from:
-
-- [Startup Ideas - SAAS](startups-ideas-saas.md)
-- [Creating a Business / Startup](creating-a-business-startup.md)
-- [Thoughts / Future / Ideas / Vision / Prediction](thoughts-future-ideas-vision-prediction.md)
-- [Others](ideas/others.md)
 
 ## Key Insights
 

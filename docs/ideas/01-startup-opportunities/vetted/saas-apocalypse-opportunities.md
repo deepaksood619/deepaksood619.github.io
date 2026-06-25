@@ -3,7 +3,7 @@ slug: /ideas/saas-apocalypse-opportunities
 title: "SaaS Apocalypse: Unleashing New Opportunities"
 description: Discover how AI-driven development creates new opportunities for solo founders to disrupt traditional SaaS markets.
 created: 2026-06-01
-updated: 2026-06-02
+updated: 2026-06-26
 ---
 ## Executive Summary
 
@@ -927,18 +927,6 @@ Path to $10K MRR:
 - Open-source vs proprietary? (OS = distribution, $ = margins)
 - Freemium vs paid-only? (freemium wins for PLG)
 - Community vs ads? (community for developer tools)
-
----
-
-## Related Research
-
-- [Postman Alternative - API Testing](postman-alternative-api-testing.md)
-- [Software Startup Analysis](software-startup-analysis.md)
-- [Startups Ideas - SAAS](startups-ideas-saas.md)
-- [GenAI Website Chatbot](genai-website-chatbot.md)
-- [Research Index](research-index.md)
-
----
 
 ## Conclusion
 

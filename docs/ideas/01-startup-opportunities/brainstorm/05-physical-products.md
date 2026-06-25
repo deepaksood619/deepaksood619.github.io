@@ -249,7 +249,7 @@ References:
 
 ## Autonomous Vehicles
 
-- [Self-Driving Nanodegree](../../courses/machine-learning/self-driving-nanodegree.md)
+- [Self-Driving Nanodegree](courses/machine-learning/self-driving-nanodegree.md)
 - [Waymo crashes less than humans](https://www.understandingai.org/p/new-data-shows-waymo-crashes-a-lot)
 - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 - [Tesla vs Waymo comparison](https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems)

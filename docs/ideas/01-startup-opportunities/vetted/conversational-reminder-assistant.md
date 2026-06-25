@@ -3,7 +3,7 @@ slug: /ideas/conversational-reminder-assistant
 title: Intelligent Conversational Reminder Assistant
 description: Effortlessly manage your reminders and tasks using natural language with our powerful conversational reminder assistant.
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-06-26
 ---
 > "Remind me to call Rahul tomorrow at 6pm" — typed into WhatsApp or spoken as a voice note — and the assistant handles everything.
 
@@ -404,17 +404,6 @@ A tool that combines:
 4. **Test with 20-30 beta users** via WhatsApp/Telegram groups
 5. **Measure**: DAU/MAU, reminder completion rate, churn reason
 6. **Decide**: Build out or pivot to narrower vertical (e.g., founders only, sales reps only)
-
----
-
-## Related Research & Ideas
-
-- [Startup Ideas SaaS](startups-ideas-saas.md) — broader idea backlog
-- [Software Startup Analysis](software-startup-analysis.md) — unit economics frameworks
-- [SaaS Apocalypse Opportunities](saas-apocalypse-opportunities.md) — AI disruption angles
-- [AI Mock Interview Platform](../education/product-concepts/ai-mock-interview-platform.md) — another AI-native product
-
----
 
 ## Sources
 
