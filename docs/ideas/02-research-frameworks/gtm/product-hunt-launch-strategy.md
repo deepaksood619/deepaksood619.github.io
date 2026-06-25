@@ -105,7 +105,7 @@ updated: 2026-06-26
 
 ### First Comment Template
 
-```
+```text
 Hey Product Hunt! 👋
 
 I'm [Name], maker of [Product].

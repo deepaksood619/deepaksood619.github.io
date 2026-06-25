@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/coding-interview-questions
 title: Essential Coding Interview Questions and Examples
 description: Explore crucial coding interview questions with examples and platforms to ace your interviews at top tech companies.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-06-26
 ---
 Platforms
 
@@ -310,12 +310,12 @@ https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved
 
 Design a parking lot using object-oriented principles
 
-#### Goals
+### Goals
 
 - Your solution should be in Python
 - Boilerplate is provided. Feel free to change the code as you see fit
 
-#### Assumptions
+### Assumptions
 
 - The parking lot can hold motorcycles, cars and vans
 - The parking lot has motorcycle spots, car (regular) spots and large spots
@@ -323,7 +323,7 @@ Design a parking lot using object-oriented principles
 - A car can park in a regular spot
 - A van can park in one large spot or 3 regular spots
 
-#### Here are a few methods that you should be able to run
+### Here are a few methods that you should be able to run
 
 - Tell us how many spots are remaining
 - Tell us how many total spots are in the parking lot

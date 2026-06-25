@@ -37,4 +37,4 @@ Classic system design problems commonly asked in technical interviews.
 
 - [System Design - Others](system-design-others.md) - Additional examples and patterns
 - [Back to System Design Main](../readme.md)
-- [Interview Prep Guide](../../interview-prep/readme.md)
+- [Interview Prep Guide](computer-science/interview-question/readme.md)

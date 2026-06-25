@@ -80,7 +80,7 @@ updated: 2026-06-26
 
 **Example: AWS Lambda**
 
-```
+```text
 $0.20 per 1M requests
 $0.0000166667 per GB-second of compute
 
@@ -114,7 +114,7 @@ Bill = (5 × $0.20) + (100,000 × $0.0000166667)
 
 **Example: Twilio SMS**
 
-```
+```text
 First 1,000 messages: $0.0075/message
 Next 9,000 messages: $0.0070/message
 Next 90,000 messages: $0.0060/message
@@ -149,7 +149,7 @@ Total = $100.50/month
 
 **Example: OpenAI API**
 
-```
+```text
 $10 = 10M tokens (GPT-3.5)
 $10 = 500K tokens (GPT-4)
 
@@ -180,7 +180,7 @@ Remaining credits: $10
 
 **Example: Vercel**
 
-```
+```text
 Pro Plan: $20/month base includes:
 - 100 GB bandwidth
 - 1,000 build minutes
@@ -234,7 +234,7 @@ Bill = $20 (base)
 
 **Cost-plus method:**
 
-```
+```text
 Your cost to serve: $0.001 per API call
 Target margin: 80%
 Price = $0.001 / (1 - 0.80) = $0.005 per call
@@ -242,7 +242,7 @@ Price = $0.001 / (1 - 0.80) = $0.005 per call
 
 **Value-based method:**
 
-```
+```text
 Customer saves $1,000/month using your API
 Customer makes 100,000 API calls/month
 Acceptable price (10% of savings): $100/month
@@ -251,7 +251,7 @@ Price per call = $100 / 100,000 = $0.001 per call
 
 **Competitor benchmarking:**
 
-```
+```text
 Competitor A: $0.01 per call
 Competitor B: $0.005 per call
 Your price: $0.007 per call (middle ground)
@@ -365,7 +365,7 @@ Your price: $0.007 per call (middle ground)
 
 ### Example 1: API Service (OpenAI-style)
 
-```
+```text
 GPT-4 API: $0.03 per 1K tokens input, $0.06 per 1K tokens output
 
 Customer usage:
@@ -383,7 +383,7 @@ Bill = (1,000 × $0.03) + (500 × $0.06)
 
 ### Example 2: Hybrid (Vercel-style)
 
-```
+```text
 Starter: $20/month
 - 100 GB bandwidth included
 - Overages: $0.15/GB
@@ -401,7 +401,7 @@ Customer (Starter):
 
 ### Example 3: Tiered Pricing (Twilio-style)
 
-```
+```text
 Email API:
 - 0-10K emails: $1.00 per 1K emails
 - 10K-100K emails: $0.75 per 1K emails

@@ -1,11 +1,11 @@
 ---
-slug: /computer-science/interview-prep/readme
+slug: /computer-science/interview-question/readme
 title: Comprehensive Interview Questions Guide
 description: Explore our extensive collection of programming and database interview questions across various languages and technologies.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-06-26
 ---
-- [Coding Interview Questions](coding-interview-questions)
+- [Coding Interview Questions](computer-science/interview-question/coding-interview-questions.md)
 - Languages
 	- [Python - questions](python/python-intro/questions.md)
 	- [Golang - interview-questions](languages/golang/interview-questions.md)
@@ -48,8 +48,8 @@ updated: 2026-06-18
 	- [Trie - questions](data-structures/trie/questions.md)
 	- [Hashtable - questions](data-structures/hashtable/questions.md)
 	- [Graph - questions](data-structures/graph/questions.md)
-	- [Toptal](toptal)
-	- [Blogs / Conferences / Blogging / Presentation / Tech Thursdays](blogs-conferences-blogging-presentation-tech-thursdays)
-	- [Unanswerd - AWS/Tech/Other Questions](aws-tech-other-questions)
+	- [Toptal](computer-science/interview-question/toptal.md)
+	- [Blogs / Conferences / Blogging / Presentation / Tech Thursdays](computer-science/interview-question/blogs-conferences-blogging-presentation-tech-thursdays.md)
+	- [Unanswerd - AWS/Tech/Other Questions](computer-science/interview-question/aws-tech-other-questions.md)
 	- [questions-to-company](management/jobs/questions-to-company.md)
-	- [Others](computer-science/interview-prep/others.md)
+	- [Others](computer-science/interview-question/others.md)

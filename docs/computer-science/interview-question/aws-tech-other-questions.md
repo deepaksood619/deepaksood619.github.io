@@ -3,9 +3,9 @@ slug: /computer-science/interview-question/aws-tech-other-questions
 title: AWS Tech Questions and Solutions
 description: Explore key AWS questions on migration, performance, and data strategies to optimize your cloud operations.
 created: 2023-03-05
-updated: 2024-12-01
+updated: 2026-06-26
 ---
-### AWS
+## AWS
 
 - DMS - How to not migrate delete commands to redshift from mysql aurora (so only insert/updates are propagated)
 - Savings plan or RI for busty cyclical workload where in day we run 100 nodes and at night we run 10 nodes
@@ -42,7 +42,7 @@ How much to normalize the database?
 
 how to decide that should I keep value in each row or normalize further database
 
-### Tech Questions
+## Tech Questions
 
 - How to share only specific sheet/single tab in google spreadsheet? (AirTable)
 - Why same code runs in local laptop having less memory and cpu, but in kubernetes with larger cpu and ram gets evicted. How to add backpressure in pods
@@ -65,7 +65,7 @@ how to decide that should I keep value in each row or normalize further database
 - Cloud native web server (apache and nginx is not) When to increase threads and when to increase pods / When to add new instance vs optimizing application
 - Python - Time complexity of getting an item using index in set, x = (1,2,3), Time Complexity => x[1]
 
-### Designs
+## Designs
 
 You can't pull data from AWS RDS to S3 using Athena. Athena is a query engine over S3 data. To be able to extract data from RDS to S3, you can run a Glue job to read from a particular RDS table and create S3 dump in parquet format which will create another external table pointing to S3 data. Then you can query that S3 data using Athena.
 
@@ -81,7 +81,7 @@ We have our data source in Amazon Aurora, We run an ETL that sends this data to 
 
 https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift
 
-### Personal Questions
+## Personal Questions
 
 1. How can I run an innovative, **operationally efficient** company without increasing stress and sacrificing creativity?
 2. How can I build a ship fast, ship early culture while retaining a **culture of excellence?**
@@ -92,19 +92,19 @@ https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift
 7. How can I use the Internet tolift hundreds of people out of financial insecurity?
 8. What's your produest momemt in your life
 
-### Science
+## Science
 
 - Why mirrors to reflect sunlight from space is not a thing instead of air conditioner and cooling (economically and technologically)
 - Sun gives protons this protons are pure energy what happens to the mass which is converted does it follow conservation of energy that is it can neither be created nor be destroyed.
 - How can we know that we are going forward or backward in a closed compartment when no external force is applied and we are in a state of motion.
 
-### Health
+## Health
 
 - Drinking sip sip water or glass of water
 - Eating 3 big meals vs 6 small meals
 - Drinking just after eating or not
 
-### Jobs
+## Jobs
 
 - How to learn so much
 - Management vs individual contributor
@@ -113,6 +113,6 @@ https://aws.amazon.com/blogs/aws/fast-easy-free-sync-rds-to-redshift
 - Love going into deep tech, but don't love competitive programming that much
 - Want a great set of people to work with
 
-### Others
+## Others
 
 - Which are the loudest / softest cultures in the world

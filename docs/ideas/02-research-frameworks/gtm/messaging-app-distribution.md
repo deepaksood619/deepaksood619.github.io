@@ -37,7 +37,7 @@ updated: 2026-06-26
 
 **Example:**
 
-```
+```text
 User: /start
 Bot: 👋 I'm your AI reminder assistant!
 
@@ -50,7 +50,7 @@ Try me: "Remind me to call John tomorrow at 2pm"
 
 **Invite friends mechanism:**
 
-```
+```text
 Bot: "Want 50 extra reminders? Share this link:
 t.me/YourBot?start=ref_user123
 
@@ -65,7 +65,7 @@ For every friend who joins, you both get +50!"
 
 **Lock premium features behind shares:**
 
-```
+```text
 Bot: "⭐ Unlock AI insights by sharing with 3 friends!"
 [Share Button]
 ```

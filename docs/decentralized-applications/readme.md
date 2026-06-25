@@ -39,4 +39,4 @@ updated: 2026-06-25
 - [The Future of Crypto](crypto-future.md) - Trends and predictions
 - [Tools](tools.md) - Blockchain tools and utilities
 - [References & Learning](references-learning.md) - Educational resources
-- [Others](others.md) - Additional topics
+- [Others](decentralized-applications/others.md) - Additional topics

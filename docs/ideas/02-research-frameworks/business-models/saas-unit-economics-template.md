@@ -14,7 +14,7 @@ updated: 2026-06-26
 
 **Example calculation:**
 
-```
+```text
 Monthly marketing: $5,000
 New customers: 50
 CAC = $5,000 / 50 = $100
@@ -37,7 +37,7 @@ CAC = $5,000 / 50 = $100
 
 **Example calculation:**
 
-```
+```text
 ARPU (Average Revenue Per User): $20/month
 Gross Margin: 80%
 Monthly Churn: 5%
@@ -47,7 +47,7 @@ LTV = ($20 × 0.80) / 0.05 = $320
 
 **Alternative (simple):** ARPU × Average Customer Lifespan
 
-```
+```text
 ARPU: $20/month
 Average lifespan: 16 months (1 / 0.05 monthly churn)
 LTV = $20 × 16 = $320
@@ -67,7 +67,7 @@ LTV = $20 × 16 = $320
 
 **Example:**
 
-```
+```text
 Start of month: 100 customers
 Lost: 5 customers
 Monthly churn = 5 / 100 = 5%
@@ -75,7 +75,7 @@ Monthly churn = 5 / 100 = 5%
 
 **Annual churn:** 1 - (1 - Monthly Churn)^12
 
-```
+```text
 Monthly churn: 5%
 Annual churn = 1 - (0.95)^12 = 46%
 ```
@@ -103,7 +103,7 @@ Annual churn = 1 - (0.95)^12 = 46%
 
 **Example:**
 
-```
+```text
 CAC: $100
 ARPU: $20/month
 Gross Margin: 80%
@@ -128,7 +128,7 @@ Payback = $100 / ($20 × 0.80) = 6.25 months
 
 **Example:**
 
-```
+```text
 Customers: 500
 ARPU: $20
 MRR = 500 × $20 = $10,000
@@ -136,7 +136,7 @@ MRR = 500 × $20 = $10,000
 
 **MRR Growth Rate:** (This Month MRR - Last Month MRR) / Last Month MRR
 
-```
+```text
 Last month: $10,000
 This month: $11,000
 Growth = ($11,000 - $10,000) / $10,000 = 10%
@@ -157,7 +157,7 @@ Growth = ($11,000 - $10,000) / $10,000 = 10%
 
 **Example:**
 
-```
+```text
 MRR: $10,000
 ARR = $10,000 × 12 = $120,000
 ```
@@ -176,7 +176,7 @@ ARR = $10,000 × 12 = $120,000
 
 **For SaaS:**
 
-```
+```text
 Revenue: $20,000/month
 COGS (hosting, support, payment fees): $4,000/month
 Gross Margin = ($20,000 - $4,000) / $20,000 = 80%
@@ -216,37 +216,37 @@ Gross Margin = ($20,000 - $4,000) / $20,000 = 80%
 
 1. **LTV:**
 
-```
+```text
 LTV = ($15 × 0.85) / 0.04 = $318.75
 ```
 
 2. **LTV:CAC Ratio:**
 
-```
+```text
 $318.75 / $75 = 4.25:1 (Excellent! >3:1)
 ```
 
 3. **Payback Period:**
 
-```
+```text
 $75 / ($15 × 0.85) = 5.9 months (Excellent! <6 months)
 ```
 
 4. **Average Customer Lifespan:**
 
-```
+```text
 1 / 0.04 = 25 months
 ```
 
 5. **Monthly MRR (with 500 customers):**
 
-```
+```text
 500 × $15 = $7,500
 ```
 
 6. **Annual ARR:**
 
-```
+```text
 $7,500 × 12 = $90,000
 ```
 

@@ -26,7 +26,7 @@ updated: 2026-01-21
 
 ## Interview & Career
 
-- [Interview Preparation](interview-prep/readme.md) - Coding questions, AWS questions, technical interviews
+- [Interview Preparation](computer-science/interview-question/readme.md) - Coding questions, AWS questions, technical interviews
 
 ## Additional Resources
 

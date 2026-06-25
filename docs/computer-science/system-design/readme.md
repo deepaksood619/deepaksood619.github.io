@@ -38,7 +38,7 @@ updated: 2026-01-30
 ## Additional Resources
 
 - [Others](computer-science/system-design/others.md)
-- [More Interview Questions](../interview-prep/readme.md)
+- [More Interview Questions](computer-science/interview-question/readme.md)
 
 ## Architectural Patterns
 
