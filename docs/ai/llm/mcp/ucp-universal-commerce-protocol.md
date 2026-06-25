@@ -142,6 +142,7 @@ curl https://yourdomain.com/.well-known/ucp
 ```
 
 Check:
+
 - Returns valid JSON with `Content-Type: application/json`
 - Contains `services`, `capabilities`, `payment_handlers`
 - No auth required (must be publicly accessible)

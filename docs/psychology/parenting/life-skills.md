@@ -3,7 +3,7 @@ slug: /parenting-life-skills
 title: Life Skills to Teach Children
 description: Essential practical skills and responsibilities every child should learn before adulthood
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 ## Things to teach to children
@@ -55,4 +55,4 @@ Why kicking out children after 18 years is important: Let's say you are very wea
 
 - [Parenting Fundamentals](psychology/parenting/parenting-fundamentals.md)
 - [Parenting Styles](psychology/parenting/parenting-styles.md)
-- [Development Stages](psychology/parenting/development-stages.md)
+- [Development Milestones](psychology/parenting/development-milestones.md)

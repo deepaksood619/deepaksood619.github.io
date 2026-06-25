@@ -490,7 +490,7 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 - [claude-code-skills](ai/llm/code-generation/claude-code-skills.md)
 - [note-skill](ai/llm/code-generation/note-skill.md)
 - [study-skill](ai/llm/code-generation/study-skill.md)
-- [flashcards-skill](ai/llm/code-generation/flashcards-skill.md)
+- [flashcard-skill](ai/llm/code-generation/flashcard-skill.md)
 - [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 176k
 - **The Four Principles:**
 	- **Think before coding:** don't assume.

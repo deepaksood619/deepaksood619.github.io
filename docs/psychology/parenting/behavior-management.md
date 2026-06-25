@@ -3,7 +3,7 @@ slug: /parenting-behavior-management
 title: Behavior Management
 description: Strategies for managing aggression, tantrums, discipline, and challenging behaviors in children
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 ## Aggression - When a Child Hurts Other Children
@@ -99,6 +99,6 @@ While sometimes tantrums are inevitable, a few smart strategies can help head th
 ## Related Topics
 
 - [Parenting Fundamentals](psychology/parenting/parenting-fundamentals.md)
-- [Development Stages](psychology/parenting/development-stages.md)
+- [Development Milestones](psychology/parenting/development-milestones.md)
 - [Parenting Styles](psychology/parenting/parenting-styles.md)
 - [Parenting Teen Brains](psychology/parenting/parenting-teen-brains.md)

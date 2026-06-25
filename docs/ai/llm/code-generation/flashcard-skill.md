@@ -1,8 +1,8 @@
 ---
-slug: flashcards-skill
-title: FlashCards Skill
+slug: flashcard-skill
+title: FlashCard Skill
 description: Generate atomic flashcards for LearnKit plugin in Obsidian, following learning science principles
-created: Invalid date
+created: 2026-06-25
 updated: 2026-06-25
 ---
 Generates atomic, scientifically-grounded flashcards for the LearnKit Obsidian plugin. Follows the Three-Layer Framework (L1: Recall, L2: Understanding, L3: Boundaries) and atomicity principles.
@@ -12,6 +12,7 @@ Generates atomic, scientifically-grounded flashcards for the LearnKit Obsidian p
 ### 1. Discovery Phase
 
 **Search existing content:**
+
 ```bash
 # Search for related notes using Obsidian search
 mcp__obsidian-hybrid-search__search with topic query
@@ -22,6 +23,7 @@ grep -r "^T |.*{topic}" docs/*/flashcards*.md
 ```
 
 **Determine target location:**
+
 - If generating from specific note: place flashcards in same folder as source note
 - If generating from topic: map to appropriate docs subfolder (ai/, databases/, psychology/, etc.)
 - File naming: `flashcards.md` or `flashcards-{subtopic}.md` for topic-specific cards
@@ -29,11 +31,13 @@ grep -r "^T |.*{topic}" docs/*/flashcards*.md
 ### 2. Content Analysis Phase
 
 **Extract learning material:**
+
 - If args is a file path with section (e.g., `note.md#section`): read that specific section
 - If args is a topic: search and read relevant note sections (prefer 300-500 word chunks)
 - If no existing notes found: inform user and offer to research + create notes first
 
 **Analyze content type:**
+
 - Definition-heavy → High L1, Moderate L2, Low L3
 - Theorem/proof → Balanced L1/L2, Moderate L3
 - Algorithm → High across all layers
@@ -42,6 +46,7 @@ grep -r "^T |.*{topic}" docs/*/flashcards*.md
 ### 3. Generation Phase
 
 **Apply atomicity rules:**
+
 - One concept per card
 - No "and" questions (split them)
 - No layer mixing
@@ -58,6 +63,7 @@ I | {Insight} | Source: {note_path}#{section} |
 ```
 
 **Layer distribution (adjust per content):**
+
 - 40-50% L1 (Recall): Definitions, formulas, facts
 - 30-40% L2 (Understanding): Why/how, intuitions, connections
 - 20-30% L3 (Boundaries): Limitations, edge cases, failure modes
@@ -75,6 +81,7 @@ I | {Insight} | Source: {note_path}#{section} |
 ### 4. Refusal Policy
 
 **DO NOT create cards for:**
+
 - Multi-step processes (`>3 steps`) → Leave as reference
 - Worked examples → Suggest practice problems instead
 - Extended proofs/derivations → Create proof sketch notes
@@ -87,18 +94,21 @@ I | {Insight} | Source: {note_path}#{section} |
 ### 5. File Management
 
 **Check existing flashcards file:**
+
 ```bash
 # Read existing flashcards in target folder
 Read {folder}/flashcards.md or {folder}/flashcards-{topic}.md
 ```
 
 **If file exists:**
+
 - Read current content
 - Check for duplicates (compare question text)
 - Append new cards maintaining topic grouping
 - Update frontmatter (total_cards, difficulty_distribution)
 
 **If creating new file:**
+
 ```yaml
 ---
 slug: {topic-slug}
@@ -132,6 +142,7 @@ I | {Insight} | Source: {note}#{section} |
 ### 6. Quality Verification
 
 **Self-check each card:**
+
 - [ ] Question asks ONE thing (no "and")
 - [ ] Answer matches layer's cognitive purpose
 - [ ] Answer is ≤3 bullets OR ≤2 sentences
@@ -140,6 +151,7 @@ I | {Insight} | Source: {note}#{section} |
 - [ ] Source reference in Insight field
 
 **Deduplication:**
+
 - Compare generated questions against existing cards
 - If similar card exists (`>80%` semantic similarity), skip generation
 - If update needed, mark in output for user review
@@ -147,10 +159,11 @@ I | {Insight} | Source: {note}#{section} |
 ## Output Format
 
 **Summary to user:**
+
 ```
 Generated {N} flashcards for {topic}:
 - {X} L1 (Recall) cards
-- {Y} L2 (Understanding) cards  
+- {Y} L2 (Understanding) cards
 - {Z} L3 (Boundaries) cards
 
 Saved to: {file_path}
@@ -165,6 +178,7 @@ Refused {R} potential cards (worked examples, >3 step processes)
 ## Example Card Sets
 
 ### L1: Recall (Definition)
+
 ```markdown
 T | Transformer Architecture Definition |
 Q | What is the Transformer architecture? |
@@ -173,6 +187,7 @@ I | Introduced in "Attention is All You Need" (2017) | Source: ai/llm/transforme
 ```
 
 ### L2: Understanding (Intuition)
+
 ```markdown
 T | Self-Attention Intuition |
 Q | Why does self-attention allow parallel processing unlike RNNs? |
@@ -181,6 +196,7 @@ I | Key insight: attention is computed via matrix multiplication (parallelizable
 ```
 
 ### L3: Boundaries (Limitations)
+
 ```markdown
 T | Transformer Quadratic Complexity |
 Q | What is the main computational limitation of standard Transformers? |
@@ -189,6 +205,7 @@ I | Why efficient transformers exist (Linformer, Performer, etc.) | Source: ai/l
 ```
 
 ### Cloze Format (for tightly-coupled facts)
+
 ```markdown
 CQ | The Transformer uses three attention components: {{c1::Query}}, {{c2::Key}}, and {{c3::Value}} matrices. |
 <!-- Source: ai/llm/transformers.md#attention-mechanism -->
@@ -197,11 +214,13 @@ CQ | The Transformer uses three attention components: {{c1::Query}}, {{c2::Key}}
 ## Integration with Other Skills
 
 **Before generating flashcards:**
+
 1. Use Obsidian search MCP to find existing notes
 2. If no notes found: suggest using `/note` skill first to create source material
 3. Check `/study` skill's learning notes for existing flashcard files
 
 **Workflow recommendation:**
+
 ```
 User request → Search notes → If found: generate cards
                            ↓
@@ -222,6 +241,7 @@ User request → Search notes → If found: generate cards
 | "P/E ratio", "finance" | docs/economics/ | flashcards-valuation.md |
 
 **Folder structure:**
+
 ```
 docs/
 ├── ai/llm/
@@ -235,6 +255,7 @@ docs/
 ## Error Handling
 
 **Scenario 1: No existing notes**
+
 ```
 "I couldn't find existing notes on {topic}. Would you like me to:
 1. Research and create notes first using /note skill, then generate flashcards
@@ -243,8 +264,9 @@ docs/
 ```
 
 **Scenario 2: Content unsuitable for flashcards**
+
 ```
-"This content contains primarily worked examples and multi-step derivations, 
+"This content contains primarily worked examples and multi-step derivations,
 which aren't suitable for flashcards. I recommend:
 - Keeping these as reference notes
 - Creating practice problem sets instead
@@ -252,6 +274,7 @@ which aren't suitable for flashcards. I recommend:
 ```
 
 **Scenario 3: Duplicate cards detected**
+
 ```
 "Found {N} similar existing cards:
 - {question1} (80% match)
@@ -264,16 +287,19 @@ Generated {M} new cards covering gaps:
 ## Quality Patterns by Domain
 
 ### Technical (AI/ML, Databases, Algorithms)
+
 - High L1: Formulas, definitions, complexity
 - High L2: Why algorithms work, tradeoffs
 - High L3: When algorithms fail, edge cases
 
-### Books/Psychology/Management  
+### Books/Psychology/Management
+
 - Moderate L1: Key terms, frameworks
 - High L2: Applications, connections
 - Moderate L3: Context limitations
 
 ### Economics/Finance
+
 - High L1: Metrics, formulas
 - Moderate L2: Interpretation, comparisons
 - Moderate L3: When metrics mislead
@@ -281,6 +307,7 @@ Generated {M} new cards covering gaps:
 ## Final Checklist
 
 Before completing:
+
 - [ ] Searched existing notes and flashcards
 - [ ] Generated atomic cards (one concept each)
 - [ ] Applied layer framework correctly
@@ -293,21 +320,25 @@ Before completing:
 ## Usage Examples
 
 **Example 1: Generate from note section**
+
 ```
 /flashcards ai/llm/transformers.md#self-attention
 ```
 
 **Example 2: Generate from topic**
+
 ```
 /flashcards gradient descent
 ```
 
 **Example 3: Generate for book summary**
+
 ```
 /flashcards book-summaries/atomic-habits.md
 ```
 
 **Example 4: With layer preference**
+
 ```
 /flashcards "cognitive load theory" --focus=L2
 ```

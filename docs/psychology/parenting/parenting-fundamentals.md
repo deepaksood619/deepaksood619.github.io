@@ -3,7 +3,7 @@ slug: /parenting-fundamentals
 title: Parenting Fundamentals
 description: Core parenting principles, foundational questions, and essential concepts for raising children
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 
 "The children are always ours, every single one of them, all over the globe; and I am beginning to suspect that whoever is incapable of recognizing this may be incapable of morality." -- James Baldwin
@@ -85,5 +85,5 @@ Tell kids that they can have all the toys they want until they can be stored in 
 - [Parenting Styles](psychology/parenting/parenting-styles.md)
 - [Behavior Management](psychology/parenting/behavior-management.md)
 - [Life Skills to Teach Children](psychology/parenting/life-skills.md)
-- [Development Stages](psychology/parenting/development-stages.md)
+- [Development Milestones](psychology/parenting/development-milestones.md)
 - [Parenting Resources](psychology/parenting/parenting-resources.md)
