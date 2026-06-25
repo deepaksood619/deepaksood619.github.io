@@ -5,7 +5,7 @@ description: Explore the technical architecture behind a multi-agent AI system f
 created: 2026-04-15
 updated: 2026-04-16
 ---
-![WooCommerce AI Assistant Architecture](../../media/Pasted%20image%2020260415011007.png)
+![WooCommerce AI Assistant Architecture](media/Pasted%20image%2020260415011007.png)
 
 ## Overview
 

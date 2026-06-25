@@ -3,25 +3,41 @@ slug: /about-deepak-sood/readme
 title: About Deepak Sood
 description: Discover Deepak Sood's professional journey including his experience, projects, publications, and achievements, along with insights into his values and personality.
 created: 2024-12-18
-updated: 2026-05-01
+updated: 2026-06-25
 ---
-- [Experience](about-deepak-sood/experience.md)
-- [Projects](about-deepak-sood/projects/readme.md)
-- [Paper / Publications / References](about-deepak-sood/paper-publications-references.md)
+
+## Profile
+
+Personal identity, values, and aspirations.
+
+- [Intros](profile/intros.md)
+- [Personality](profile/personality.md)
+- [Values](profile/values.md)
+- [Ideals / Dreams](profile/ideals-dreams.md)
+- [Social Links](profile/social-links.md)
+- [Neha Rani Deswal](profile/neha-rani-deswal.md)
+- [Financial Journey](profile/financial-journey-till-2026.md)
+
+## Professional
+
+Career experience, achievements, and contributions.
+
+- [Experience](professional/experience.md)
+- [Projects](projects/readme.md)
+- [Achievements / Activities / Awards](professional/achievements-activities-awards-certifications.md)
+- [Meetups / Talks / Sessions](professional/meetups-talks-sessions.md)
+- [Paper / Publications / References](professional/paper-publications-references.md)
+- [FAQs](professional/faqs.md)
+
+## Learning & Growth
+
 - [Courses / Certifications](courses/readme.md)
-- [Meetups / Talks / Sessions](about-deepak-sood/meetups-talks-sessions.md)
-- [Achievements / Activities / Awards](about-deepak-sood/achievements-activities-awards-certifications.md)
-- [Financial Journey](about-deepak-sood/financial-journey-till-2026.md)
-- [Social Links](about-deepak-sood/social-links.md)
-- [FAQs](about-deepak-sood/faqs.md)
-- [Personality](about-deepak-sood/personality.md)
-- [Ideas](ideas/readme.md)
-- [Ideals / Dreams](about-deepak-sood/ideals-dreams.md)
-- [Values](about-deepak-sood/values.md)
 - [Soft Skills](../psychology/soft-skills/readme.md)
 - [Books](../book-summaries/readme.md)
-- [Intros](about-deepak-sood/intros.md)
-- [Neha Rani Deswal](about-deepak-sood/neha-rani-deswal.md)
+- [Ideas](ideas/readme.md)
+
+## Resources
+
 - [Resume](https://bit.ly/deepak_sood_resume)
 - [Portfolio Photos](https://drive.google.com/drive/folders/1dIKxnnaoqPTuCsv21NiiiI-2Kdo14y0Q?usp=sharing)
 

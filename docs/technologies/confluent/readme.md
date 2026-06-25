@@ -87,5 +87,5 @@ Confluent is the enterprise platform built on Apache Kafka, offering managed clo
 
 ## Projects & Resources
 
-- [Podcast: Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+- [Podcast: Stream Processing using Kafka and Flink](about-deepak-sood/projects/opstree/sales-presales/43-podcast-stream-processing-using-kafka-and-flink.md)
 - [Apache Kafka Documentation](technologies/kafka/readme.md)

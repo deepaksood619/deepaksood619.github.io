@@ -52,7 +52,7 @@ updated: 2024-12-19
 
 ### Creating and maintaining product roadmaps
 
-![product-roadmap-example](../../media/Pasted%20image%2020231201183958.jpg)
+![product-roadmap-example](media/Pasted%20image%2020231201183958.jpg)
 
 ## Links
 

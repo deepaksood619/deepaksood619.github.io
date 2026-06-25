@@ -26,7 +26,7 @@ http://cisocybersecurity.com
 
 https://demo.digiproctor.com
 
-[CISO Cybersecurity](about-deepak-sood/projects/99-ciso-cybersecurity.md)
+[CISO Cybersecurity](about-deepak-sood/projects/ciso-cybersecurity/99-ciso-cybersecurity.md)
 
 ### FFMPEG live streaming of videos from candidates to proctor
 

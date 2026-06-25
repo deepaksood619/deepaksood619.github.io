@@ -58,7 +58,7 @@ We partnered with a high-growth e-commerce player to modernize their data infras
 - Adopted **Medallion architecture** (Bronze, Silver, Gold layers) for clean data separation and better model traceability.
 - Leveraged **GCS buckets** for ingesting raw and semi-structured files, with scheduled pipelines converting these to structured BigQuery datasets.
 
-![Ecommerce Scalable Modern Data Stack Architecture](../../media/Screenshot%202025-06-08%20at%203.10.07%20PM.jpg)
+![Ecommerce Scalable Modern Data Stack Architecture](media/Screenshot%202025-06-08%20at%203.10.07%20PM.jpg)
 
 ### 8. Product Intelligence Enablement
 

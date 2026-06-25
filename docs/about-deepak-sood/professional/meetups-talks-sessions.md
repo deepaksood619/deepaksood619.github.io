@@ -99,7 +99,7 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 
 - [lovable-prompt-portfolio-website](ai/llm/prompting/lovable-prompt-portfolio-website.md)
 
-![session details](../media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
+![session details](media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
 
 [#gratitude #mentorship #build4hire #unsaidtalks #learningmindset \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:activity:7402288996598669312/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
@@ -107,7 +107,7 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 
 [⏳ GenAI Powered Solution Hackathon: Hack the Matrix by Deepak Sood (AI Architect) - YouTube](https://www.youtube.com/live/_pwwfb1E2V8)
 
-![Hackathon](../media/Pasted%20image%2020250918112303.png)
+![Hackathon](media/Pasted%20image%2020250918112303.png)
 
 [#hackathon #students #guidance #unsaidtalks #mentorship #funandlearn #resume #placement #internship #games #competition \| UnsaidTalks Education](https://www.linkedin.com/feed/update/urn:li:activity:7374058225513672706/)
 
@@ -122,7 +122,7 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 - [Mini lab: Query real-time analytical database, Firebolt from your AI assistant using Firebolt MCP Server](https://www.devrelsquad.com/firebolt-lab#)
 - [Fill out the event form \| GoAvo AI](https://www.goavo.ai/events/forms/fillup?id=68c317df69f0f9f8dd480d1f)
 
-![Agentic AI Meets Data](../media/agentic-ai-firebolt.jpeg)
+![Agentic AI Meets Data](media/agentic-ai-firebolt.jpeg)
 
 [#agenticai #genai #dataengineering #aiarchitecture #opstree #aicommunity #machinelearning #futureofai #devrel #techleadership #firebolt #devrelsquad \| OpsTree Global](https://www.linkedin.com/posts/opstree-solutions_agenticai-genai-dataengineering-activity-7371869335935451136-_izf)
 
@@ -146,7 +146,7 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 
 ## Microsoft - TechSangam 2.0 - Tech4Hack (6th September 2025)
 
-![microsoft-techsangam-2.0](../media/Pasted%20image%2020251004125105.png)
+![microsoft-techsangam-2.0](media/Pasted%20image%2020251004125105.png)
 
 [TechSangam 2.0 \| Tech4hack](https://www.commudle.com/communities/tech4hack/events/techsangam-2-0)
 
@@ -166,7 +166,7 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 
 This session will be a platform where cutting-edge ideas meet youthful curiosity. With the theme: “Inspiring the Next Generation through Technology & Innovation” the event aims to spark creativity, encourage bold thinking, and equip students with the vision to shape tomorrow’s world.
 
-![NIET](../media/WhatsApp%20Image%202025-08-27%20at%2022.30.56.jpeg)
+![NIET](media/WhatsApp%20Image%202025-08-27%20at%2022.30.56.jpeg)
 
 ## Amrita School of Artificial Intelligence Delhi NCR (20 August 2025)
 
@@ -200,7 +200,7 @@ Neha Rani
 - [The Interconnected World of System Design Every Piece Matters #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/GKQO8bNbtbg)
 - [You Cannot Eat Code \| The Tech Philosophy Essential for Success #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/1TQ_hM5M6Rc)
 
-![techie talks podcast](../media/Pasted%20image%2020250926215431.png)
+![techie talks podcast](media/Pasted%20image%2020250926215431.png)
 
 [How AI is Transforming Data Engineering \| Expert Advice \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_how-ai-is-transforming-data-engineering-activity-7378050605954748416-h7GH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
@@ -208,7 +208,7 @@ Neha Rani
 
 [Embrace AI as Your Co Collaborator #shorts #technology #tech #ai \| Techie Talks with Kuldeep](https://www.linkedin.com/posts/techietalkswithkuldeep_embrace-ai-as-your-co-collaborator-shorts-activity-7377950141342867456-2rdE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
-[Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
+[Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/opstree/sales-presales/31-techie-talks-podcast-architecting-data-at-scale.md)
 
 [#tech #podcast #devops #ai #leadership #innovation #saas #founderstories #techtalk #devsecops #dataanalytics #cloudcomputing #interview #technology #opstree #techietalkswithkuldeep #buildpiper \| Techie Talks with Kuldeep](https://www.linkedin.com/feed/update/urn:li:activity:7365982673636372480/)
 
@@ -218,7 +218,7 @@ Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2u
 
 - [Building GenAI WORKFLOW - Presentation](https://www.canva.com/design/DAGtUAyGOF4/GYnkCHEAfXeXaeKp3qqdlA/edit?utm_content=DAGtUAyGOF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![Apache Kafka Meetup](../media/Screenshot%202025-07-18%20at%2012.49.36%20PM.jpg)
+![Apache Kafka Meetup](media/Screenshot%202025-07-18%20at%2012.49.36%20PM.jpg)
 
 - [Flink SQL on Confluent Cloud Invokes ML Model & AI Inference](https://www.confluent.io/blog/flinkai-realtime-ml-and-genai-confluent-cloud/)
 - [See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351873077397372928/)
@@ -228,7 +228,7 @@ Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2u
 
 ## The AI Hiring Show: Vibe Coding, Power Hiring (5 July 2025)
 
-![AI Hiring Show](../media/Pasted%20image%2020250704202407.png)
+![AI Hiring Show](media/Pasted%20image%2020250704202407.png)
 
 [🚀 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝗯𝗲 𝗠𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 𝗮𝘁 𝗧𝗵𝗲 𝗔𝗜 𝗛𝗶𝗿𝗶𝗻𝗴 𝗦𝗵𝗼𝘄! \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:share:7346914506830204928/)
 
@@ -238,11 +238,11 @@ Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2u
 
 ## Mentor at UnsaidTalks - Hands-on AI Summer Program (24-25 June 2025)
 
-![Hands-on AI Summer Program](../media/1748019679958.jpeg)
+![Hands-on AI Summer Program](media/1748019679958.jpeg)
 
-![Hands-on AI Summer Program - Mentor](../media/1748019681096.jpeg)
+![Hands-on AI Summer Program - Mentor](media/1748019681096.jpeg)
 
-![image](../media/WhatsApp%20Image%202025-07-02%20at%2023.14.51.jpeg)
+![image](media/WhatsApp%20Image%202025-07-02%20at%2023.14.51.jpeg)
 
 - [cookbook/examples - GitHub](https://github.com/google-gemini/cookbook/tree/main/examples) ⭐ 17k
 - [Talk to documents with embeddings](https://github.com/google-gemini/cookbook/blob/main/examples/Talk_to_documents_with_embeddings.ipynb) ⭐ 17k
@@ -259,7 +259,7 @@ Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2u
 
 The SRE Gameday is an interactive, hands-on event designed to simulate real-world production incidents, challenging teams to diagnose and resolve issues using observability tools and Kubernetes access. Participants will respond to system alerts and user complaints delivered via dedicated Slack channels, identifying root causes for issues such as high error rates and slow response times. With around 8–10 genuine problems hidden among numerous alerts, teams must work strategically, analyze symptoms, distinguish duplicates, and submit comprehensive root cause analyses. This gameday fosters collaboration, real-time problem-solving, and strengthens site reliability engineering practices in a high-pressure, realistic environment.
 
-![Application Architecture](../media/Screenshot%202025-05-11%20at%2010.39.27%20PM.jpg)
+![Application Architecture](media/Screenshot%202025-05-11%20at%2010.39.27%20PM.jpg)
 
 [OpenTelemetry Demo Docs \| OpenTelemetry](https://opentelemetry.io/docs/demo/)
 
@@ -277,7 +277,7 @@ Slides - [Automating the Future:  Build Powerful AI Agents](https://bit.ly/3EzPj
 - How DevOps, AI, and Data converge to create truly adaptive systems
 - Strategies to not just build — but scale and evolve — intelligent agents in real-world environments
 
-![Build with AI - TFUG - Opstree](../media/1745660961529.jpeg)
+![Build with AI - TFUG - Opstree](media/1745660961529.jpeg)
 
 [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/build-with-ai-noida-editon)
 
@@ -296,7 +296,7 @@ Presentations
 - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)
 - [Automating the Future: Build Powerful AI Agents v2.0 - Google Slides](https://docs.google.com/presentation/d/16lprZX7OZhsgEzLQ96Dalx4NhdlxY0Yp30G2oyY9-1Y/edit?usp=drive_link)
 
-![Kotlin User Group Gurugram](../media/Screenshot%202025-03-21%20at%208.45.55%20PM.jpg)
+![Kotlin User Group Gurugram](media/Screenshot%202025-03-21%20at%208.45.55%20PM.jpg)
 
 [Kotlin User Group Gurugram](https://www.commudle.com/communities/gurugram-kotlin-user-group)
 
@@ -381,7 +381,7 @@ Google Chat apps with Gemini do the following:
 - Bring your services and resources into Google Chat, which lets users get information and take action without leaving the conversation.
 - Integrate with the generative AI model Gemini, so they can create or search data like text or images at specific times to streamline your workflows.
 
-![Build Apps for Google Chat with Gemini](../media/WhatsApp%20Image%202025-03-01%20at%2023.22.59.jpeg)
+![Build Apps for Google Chat with Gemini](media/WhatsApp%20Image%202025-03-01%20at%2023.22.59.jpeg)
 
 ### Why integrate Google Chat apps with Gemini?
 
@@ -419,7 +419,7 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 
 ## Head Mentor & Judge for HackHound 3.0 (28 Feb 2024)
 
-![Head Mentor for HackHound 3.0](../media/Screenshot%202025-02-27%20at%2012.22.55%20AM.jpg)
+![Head Mentor for HackHound 3.0](media/Screenshot%202025-02-27%20at%2012.22.55%20AM.jpg)
 
 [Hackathon Hackhound](ai/hackathon-hackhound.md)
 
@@ -433,7 +433,7 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 
 Presentation - [Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
 
-![Kafka Fundamentals](../media/Screenshot%202025-02-20%20at%206.04.18%20PM.jpg)
+![Kafka Fundamentals](media/Screenshot%202025-02-20%20at%206.04.18%20PM.jpg)
 
 [OpsTree Solutions on LinkedIn: #opstree #devops #kafka #datastreaming #techworkshop #knowledgesharing…](https://www.linkedin.com/posts/opstree-solutions_opstree-devops-kafka-ugcPost-7298275219016753152-f3ku/)
 
@@ -499,7 +499,7 @@ Automating the Future: Building Powerful AI Agents
 
 [Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #techcommunity #tfugghaziabad…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-vertexai-activity-7297187347920474113-SOr4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
-![ML Saturday](../media/Pasted%20image%2020250213234404.png)
+![ML Saturday](media/Pasted%20image%2020250213234404.png)
 
 ## AI use cases for Dummies (Internal Session - 2 Feb 2025)
 
@@ -520,7 +520,7 @@ Automating the Future: Building Powerful AI Agents
 
 Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK926GisNSoHL6c2t52cOYUWyLjRyqtpC7-ecw/edit?usp=sharing)
 
-![Expert Talk - Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI](../media/Pasted%20image%2020250123230257.jpg)
+![Expert Talk - Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI](media/Pasted%20image%2020250123230257.jpg)
 
 [MRAC on LinkedIn: #ai #machinelearning #ethicsinai #generativeai #manavrachna #aimlclub…](https://www.linkedin.com/posts/mrac-mri_ai-machinelearning-ethicsinai-activity-7288152581913165826-Ax8j?utm_source=share&utm_medium=member_desktop)
 
@@ -545,7 +545,7 @@ Whether you’re a developer, architect, or tech enthusiast, this session offers
 
 Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwAhyjERJafOMY-Tl6diNCMDeH6q3TpNdHak3I/edit?usp=sharing)
 
-![API Kong-Versations gateway to 2025](../media/deepak_sood_kong_in_action.jpg)
+![API Kong-Versations gateway to 2025](media/deepak_sood_kong_in_action.jpg)
 
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
 
@@ -563,7 +563,7 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 
 Spotify Code & Deploy - [How to Build a Data Streaming Platform - Introduction to Stream Processing, Stream Governance with Kafka and Flink. - Code and Deploy by BuildPiper \| Podcast on Spotify](https://open.spotify.com/episode/4aA64Ghofsv3RDa9f5ITw5)
 
-![Stream Processing using Kafka and Flink](../media/Pasted%20image%2020250215234050.png)
+![Stream Processing using Kafka and Flink](media/Pasted%20image%2020250215234050.png)
 
 Learn how to build a robust data streaming platform using Apache Kafka and Apache Flink!
 
@@ -574,7 +574,7 @@ In this session, we’ll explore:
 
 Perfect for developers, architects, and data engineers looking to master real-time data workflows!
 
-- Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+- Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/opstree/sales-presales/43-podcast-stream-processing-using-kafka-and-flink.md)
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
 - [Buildpiper - By Opstree on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/feed/update/urn:li:activity:7295336849651224576/)
 - [Deepak Sood on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/posts/deepaksood619_codeanddeploy-buildwithbuildpiper-kafka-activity-7296591681624121344-m_Zc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
@@ -591,7 +591,7 @@ Introduction to Kong as an API gateway, key features, and benefits.
 
 Presentation - [Kong in Action: Simplifying API Management for modern Application](https://docs.google.com/presentation/d/1jOlgLiX3Bgu2daL7j8qPuuK4F8I8IOjplomguL0DQwU/edit?usp=sharing)
 
-![Simplifying API Management for modern Application - Kong](../media/Pasted%20image%2020241206150616.jpg)
+![Simplifying API Management for modern Application - Kong](media/Pasted%20image%2020241206150616.jpg)
 
 Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of experience in designing, deploying, and optimizing scalable tech infrastructures. Specializing in DevOps, he has deep expertise in CI/CD pipelines, Kubernetes orchestration, and cloud platforms like AWS and Azure. His work includes automating deployments, implementing microservices, and ensuring infrastructure reliability through tools like Prometheus, Grafana, and Elasticsearch.
 
@@ -609,7 +609,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 	- Schema
 - GDS, GenAI, 7 Graphs in an enterprise
 
-![Neo4j enablement session](../media/IMG20241212142546.jpg)
+![Neo4j enablement session](media/IMG20241212142546.jpg)
 
 [Deepak Sood on LinkedIn: #neo4j #graphdatabases #partnerenablement #opstree #datainnovation…](https://www.linkedin.com/feed/update/urn:li:ugcPost:7273262742159990784/)
 
@@ -621,7 +621,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 [Deepak Sood on LinkedIn: #techinterviews #careerguidance #placements #mriirs #unsaidtalks](https://www.linkedin.com/posts/deepaksood619_techinterviews-careerguidance-placements-activity-7271245841871306753-QC8H)
 
-![about the mentor](../media/Screenshot%202024-12-06%20at%203.04.44%20PM.jpg)
+![about the mentor](media/Screenshot%202024-12-06%20at%203.04.44%20PM.jpg)
 
 ## Data Structures for Interview - UnsaidTalks (30 November 2024)
 
@@ -630,7 +630,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - bit.ly/unsaid-session-14
 - [Session 2- Resource & Tasks - Cracking SDE - Big Tech](https://docs.google.com/document/d/1zL0WGVSkMjSDETfca43GTMCzJVmP40AlewAroIkpx7U/edit?usp=sharing)
 
-![Data Structures for Interview - UnsaidTalks](../media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpg)
+![Data Structures for Interview - UnsaidTalks](media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpg)
 
 ## Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
 
@@ -721,7 +721,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - Flink table is append only mode
 - Kafka producer and consumer has so many configuration
 
-![Apache Kafka x Opstree Meetup](../media/Pasted%20image%2020241115024224.jpg)
+![Apache Kafka x Opstree Meetup](media/Pasted%20image%2020241115024224.jpg)
 
 [Deepak Sood on LinkedIn: #dataengineering #apachekafka #eventstreaming #aws #confluentcloud…](https://www.linkedin.com/posts/deepaksood619_dataengineering-apachekafka-eventstreaming-activity-7266173593120567296-9RHY?utm_source=share&utm_medium=member_desktop)
 
@@ -735,7 +735,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 ## Podcast - Streamlining Cloud Migration Through Data Engineering
 
-[Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+[Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/opstree/sales-presales/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
 
 ## NIT Delhi - GenAI for Freshers (18 September 2024)
 
@@ -743,9 +743,9 @@ Slides - [Unleash your inner innovator: GenAI for freshers](https://docs.google.
 
 Proportion of students - 1st year + 2nd year (70%), 3rd + 4th year (30%)
 
-![NIT Delhi - GenAI for Freshers](../media/Screenshot%202024-09-15%20at%2010.08.49%20PM.jpg)
+![NIT Delhi - GenAI for Freshers](media/Screenshot%202024-09-15%20at%2010.08.49%20PM.jpg)
 
-![NIT Delhi - GenAI for Freshers](../media/1726397196299.jpg)
+![NIT Delhi - GenAI for Freshers](media/1726397196299.jpg)
 
 [Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/deepaksood619_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
 
@@ -765,7 +765,7 @@ Presented by **Deepak Sood**, Senior AI, Data & DevOps Architect, this session w
 Get ready to go from **zero to GenAI hero**!
 🕓 **4:30-5:30 PM**
 
-![mastering-genai-in-a-flash](../media/mastering-genai-in-a-flash.jpg)
+![mastering-genai-in-a-flash](media/mastering-genai-in-a-flash.jpg)
 
 ## Mentorship - Unsaid Talks (22 August 2024)
 
@@ -785,7 +785,7 @@ Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com
 
 "From Zero to Hero: Mastering GenAI in a Flash" is your one-stop session to dive deep into the world of Generative AI. We'll start by exploring **what GenAI is**, the **problems it solves**, and **where it all began**—taking you through its evolution. Then, we’ll glimpse into the **future of GenAI** and what’s on the horizon. In the technical deep dive, we’ll cover **prompt engineering**, the power of **LLMs (Large Language Models)**, the magic of **embeddings**, and how to supercharge your AI with **RAGs (Retrieval-Augmented Generation)**. It’s everything you need to go from zero to hero in GenAI!
 
-![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.jpg)
+![From Zero to Hero: Mastering GenAI in a Flash](media/Pasted%20image%2020240831144403.jpg)
 
 [Deepak Sood on LinkedIn: #genai #aiworkshop #futuretalent #innovation #hackathon #srmist…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-futuretalent-activity-7237536731544051712-QH0m)
 
@@ -823,7 +823,7 @@ Post - [Coding Ninjas CUIET on LinkedIn: Step into the future now—ignite your 
 
 Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7234379881134862336-xMfH?utm_source=share&utm_medium=member_desktop)
 
-![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010531.jpg)
+![Unleash your inner innovator: GenAI for Freshers](media/Pasted%20image%2020240817010531.jpg)
 
 ## Unsaid Talks - CodeLocked, BMSCE University (27 August 2024)
 
@@ -839,7 +839,7 @@ Date - Tue, 27 Aug, 2024
 
 [Unleash your inner innovator: GenAI for freshers | UnsaidTalks X CODE LOCKED](https://nas.io/unsaidtalks/events/genai-code-locked)
 
-![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010450.jpg)
+![Unleash your inner innovator: GenAI for Freshers](media/Pasted%20image%2020240817010450.jpg)
 
 ## Expert Talk and Hands-on at Manav Rachna - Department of Computer Science and Engineering (14 August 2024)
 
@@ -849,7 +849,7 @@ Presentation - [Introduction to GenAI](https://docs.google.com/presentation/d/10
 
 Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7230291496627789825-T9hR)
 
-![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpg)
+![Expert Speak - Empowering Gen AI with RAG](media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpg)
 
 ## Talk at Meetup Zero - GenAI Edition (3 August 2024)
 
@@ -864,9 +864,9 @@ Topic: Empowering GenAI with RAG (Retrieval-Augmented Generation)
 - How RAG is transforming industries by enhancing the capabilities of AI models.
 - Insights into implementing RAG to empower your AI solutions.
 
-![Meet Up Zero - Empowering GenAI with RAG](../media/Pasted%20image%2020240810153313.jpg)
+![Meet Up Zero - Empowering GenAI with RAG](media/Pasted%20image%2020240810153313.jpg)
 
-![Empowering GenAI with RAG](../media/Pasted%20image%2020240810155153.jpg)
+![Empowering GenAI with RAG](media/Pasted%20image%2020240810155153.jpg)
 
 [TensorFlow User Group Ghaziabad (TFUG Ghaziabad) on LinkedIn: #tfug #tfugghaziabad #tensorflow #genai #newevent #event #developers #gde…](https://www.linkedin.com/posts/tensorflow-user-group-ghaziabad_tfug-tfugghaziabad-tensorflow-activity-7223731628953460737-v3xA?utm_source=share&utm_medium=member_desktop)
 

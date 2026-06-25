@@ -30,7 +30,7 @@ The architecture consists of the following layers:
 3. **Data Management Layer**
 4. **Model Deployment and Serving Layer**
 
-![MLOps Platform](../../media/mlops_platform.drawio.png)
+![MLOps Platform](media/mlops_platform.drawio.png)
 
 https://drive.google.com/file/d/1k1ZNZ_1UO-cFdyQ9IVlCPhFpYzJDL3gF/view?usp=drive_link
 

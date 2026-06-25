@@ -156,7 +156,7 @@ Turn any python function into a real-time audio and video stream over WebRTC or 
 
 ## Links
 
-- [39-ai-powered-call-quality-monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
+- [39-ai-powered-call-quality-monitoring](about-deepak-sood/projects/opstree/sales-presales/39-ai-powered-call-quality-monitoring.md)
 - [Open ASR Leaderboard - a Hugging Face Space by hf-audio](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 - https://www.reddit.com/r/LocalLLaMA/comments/1mbny6o/100x_faster_and_100x_cheaper_transcription_with/
 - https://www.reddit.com/r/speechtech/comments/1kd9abp/i_benchmarked_12_speechtotext_apis_under_various/

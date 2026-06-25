@@ -31,7 +31,7 @@ Advocates are quiet visionaries, often serving as inspiring and tireless idealis
 
 An Advocate (INFJ) is someone with the [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted), [Intuitive](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Feeling](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting)personality traits. They tend to approach life with deep thoughtfulness and imagination. Their inner vision, personal values, and a quiet, principled version of humanism guide them in all things.
 
-![image](../media/Personality-Deepak-image1.jpg)
+![image](media/Personality-Deepak-image1.jpg)
 
 #### Mind - Introvert
 

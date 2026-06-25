@@ -26,9 +26,9 @@ Opstree implemented a **GenAI chatbot** using **AWS Bedrock**, **Anthropic Claud
 
 ## Architecture Overview
 
-![Development of AI-Powered Knowledge Retrieval System](../../media/Screenshot%202025-03-27%20at%206.58.23%20PM.jpg)
+![Development of AI-Powered Knowledge Retrieval System](media/Screenshot%202025-03-27%20at%206.58.23%20PM.jpg)
 
-![Architecture Overview](../../media/Screenshot%202025-03-27%20at%206.59.13%20PM.jpg)
+![Architecture Overview](media/Screenshot%202025-03-27%20at%206.59.13%20PM.jpg)
 
 ### Key Components
 
@@ -77,7 +77,7 @@ Opstree implemented a **GenAI chatbot** using **AWS Bedrock**, **Anthropic Claud
     1. Ensured **data privacy** with **access-controlled S3 storage**.
     2. **Encrypted knowledge base** to prevent unauthorized access.
 
-![ChatBot Interface](../../media/Screenshot%202025-03-27%20at%207.01.16%20PM.jpg)
+![ChatBot Interface](media/Screenshot%202025-03-27%20at%207.01.16%20PM.jpg)
 
 ## Challenges & Solutions
 
@@ -96,7 +96,7 @@ Opstree implemented a **GenAI chatbot** using **AWS Bedrock**, **Anthropic Claud
 - **Reduced API cost by 40%** using caching & LiteLLM optimizations.
 - **Enhanced user engagement** with **context-aware, real-time responses**.
 
-![Enhancing Search and User Engagement](../../media/Screenshot%202025-03-27%20at%207.02.00%20PM.jpg)
+![Enhancing Search and User Engagement](media/Screenshot%202025-03-27%20at%207.02.00%20PM.jpg)
 
 ## Conclusion & Future Roadmap
 

@@ -130,7 +130,7 @@ Leverage the power of open-source IAM in your enterprise to innovate fast and bu
 
 ## Links
 
-- [27-wso2-case-studies](about-deepak-sood/projects/27-wso2-case-studies.md)
-- [26-wso2-real-time-fraud-detection](about-deepak-sood/projects/26-wso2-real-time-fraud-detection.md)
-- [25-wso2-automated-claims-processing](about-deepak-sood/projects/25-wso2-automated-claims-processing.md)
+- [27-wso2-case-studies](about-deepak-sood/projects/opstree/case-studies/27-wso2-case-studies.md)
+- [26-wso2-real-time-fraud-detection](about-deepak-sood/projects/opstree/case-studies/26-wso2-real-time-fraud-detection.md)
+- [25-wso2-automated-claims-processing](about-deepak-sood/projects/opstree/case-studies/25-wso2-automated-claims-processing.md)
 - [WSO2 \| Open by Design. Intelligent by Nature.](https://wso2.com)

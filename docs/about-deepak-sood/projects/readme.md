@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/readme
 title: Overview of Current Projects
 description: Explore diverse projects in fintech, edtech, and more, showcasing expertise in cost optimization, database management, and analytics.
 created: 2023-12-01
-updated: 2026-05-29
+updated: 2026-06-25
 ---
 ## Domain Knowledge
 
@@ -28,72 +28,72 @@ updated: 2026-05-29
 
 #### Projects
 
-- [Freecharge - Cost Optimization and Database Administration](about-deepak-sood/projects/56-freecharge-cost-optimization-dba.md)
-- [Careers360 Cost Optimization](about-deepak-sood/projects/57-careers360-cost-optimization.md)
-- [Azure Social Media Analytics](about-deepak-sood/projects/55-azure-social-media-analytics.md)
-- [Airflow and Kafka Migration](about-deepak-sood/projects/54-airflow-kafka-migration.md)
-- [AWS Gen AI Hackathon](about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag.md)
-- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/53-mozark-cloud-cost-optimization.md)
-- [GenAI ChatBot using Bedrock](about-deepak-sood/projects/37-genai-chatbot-using-bedrock.md)
-- [AWS Hands-on Amazon Q Workshop](about-deepak-sood/projects/35-aws-hands-on-amazon-q-workshop.md)
-- [Ecommerce Scalable Modern Data Stack](about-deepak-sood/projects/32-ecommerce-scalable-modern-data-stack.md)
-- [AIOps](about-deepak-sood/projects/30-aiops.md)
+- [Freecharge - Cost Optimization and Database Administration](about-deepak-sood/projects/opstree/client-projects/56-freecharge-cost-optimization-dba.md)
+- [Careers360 Cost Optimization](about-deepak-sood/projects/opstree/client-projects/57-careers360-cost-optimization.md)
+- [Azure Social Media Analytics](about-deepak-sood/projects/opstree/client-projects/55-azure-social-media-analytics.md)
+- [Airflow and Kafka Migration](about-deepak-sood/projects/opstree/client-projects/54-airflow-kafka-migration.md)
+- [AWS Gen AI Hackathon](about-deepak-sood/projects/opstree/client-projects/58-aws-gen-ai-hackathon-rag.md)
+- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/opstree/client-projects/53-mozark-cloud-cost-optimization.md)
+- [GenAI ChatBot using Bedrock](about-deepak-sood/projects/opstree/client-projects/37-genai-chatbot-using-bedrock.md)
+- [AWS Hands-on Amazon Q Workshop](about-deepak-sood/projects/opstree/client-projects/35-aws-hands-on-amazon-q-workshop.md)
+- [Ecommerce Scalable Modern Data Stack](about-deepak-sood/projects/opstree/client-projects/32-ecommerce-scalable-modern-data-stack.md)
+- [AIOps](about-deepak-sood/projects/opstree/client-projects/30-aiops.md)
 
 #### Account Management / Sales
 
-- [Data Engineering Product Pitch IoT Industry](about-deepak-sood/projects/59-data-engineering-product-pitch-iot-industry.md)
-- [MLOps Master Document](about-deepak-sood/projects/63-mlops-master-document.md)
-- [Problems in IoT Industry](about-deepak-sood/projects/65-problems-in-iot-industry.md)
-- [IoT Case Studies](about-deepak-sood/projects/66-iot-case-studies.md)
-- [Data Engineering - Battle Cards](about-deepak-sood/projects/67-data-engineering-battle-cards.md)
-- [Pull Request Risk Tagging Heuristics](about-deepak-sood/projects/52-pull-request-risk-tagging-heuristics.md)
-- [Use Cases: AIML in Logistics and Warehousing](about-deepak-sood/projects/50-use-cases-aiml-logistics-warehousing.md)
-- [Data Practical Use Cases](about-deepak-sood/projects/49-data-practical-use-cases.md)
-- [RAG Presentation](about-deepak-sood/projects/48-rag-genai-presentation.md)
-- [Opstree Standard Proposal Format](about-deepak-sood/projects/71-opstree-standard-proposal-format.md)
-- [Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
-- [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
-- [Document Data Extraction](about-deepak-sood/projects/42-document-data-extraction.md)
-- [On-Premise MLOps Platform](about-deepak-sood/projects/40-on-premise-mlops-platform.md)
-- [Cloud Based SAAS Data Platform](about-deepak-sood/projects/41-cloud-based-saas-data-platform.md)
-- [AI Powered Call Quality Monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
-- [Data Stack Evaluation & Optimization](about-deepak-sood/projects/38-data-stack-evaluation-optimization.md)
-- [AI ChatBot SAAS](about-deepak-sood/projects/36-ai-chatbot-saas.md)
-- [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
+- [Data Engineering Product Pitch IoT Industry](about-deepak-sood/projects/opstree/sales-presales/59-data-engineering-product-pitch-iot-industry.md)
+- [MLOps Master Document](about-deepak-sood/projects/opstree/sales-presales/63-mlops-master-document.md)
+- [Problems in IoT Industry](about-deepak-sood/projects/opstree/sales-presales/65-problems-in-iot-industry.md)
+- [IoT Case Studies](about-deepak-sood/projects/opstree/sales-presales/66-iot-case-studies.md)
+- [Data Engineering - Battle Cards](about-deepak-sood/projects/opstree/sales-presales/67-data-engineering-battle-cards.md)
+- [Pull Request Risk Tagging Heuristics](about-deepak-sood/projects/opstree/sales-presales/52-pull-request-risk-tagging-heuristics.md)
+- [Use Cases: AIML in Logistics and Warehousing](about-deepak-sood/projects/opstree/sales-presales/50-use-cases-aiml-logistics-warehousing.md)
+- [Data Practical Use Cases](about-deepak-sood/projects/opstree/sales-presales/49-data-practical-use-cases.md)
+- [RAG Presentation](about-deepak-sood/projects/opstree/sales-presales/48-rag-genai-presentation.md)
+- [Opstree Standard Proposal Format](about-deepak-sood/projects/opstree/sales-presales/71-opstree-standard-proposal-format.md)
+- [Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/opstree/sales-presales/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+- [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/opstree/sales-presales/43-podcast-stream-processing-using-kafka-and-flink.md)
+- [Document Data Extraction](about-deepak-sood/projects/opstree/sales-presales/42-document-data-extraction.md)
+- [On-Premise MLOps Platform](about-deepak-sood/projects/opstree/sales-presales/40-on-premise-mlops-platform.md)
+- [Cloud Based SAAS Data Platform](about-deepak-sood/projects/opstree/sales-presales/41-cloud-based-saas-data-platform.md)
+- [AI Powered Call Quality Monitoring](about-deepak-sood/projects/opstree/sales-presales/39-ai-powered-call-quality-monitoring.md)
+- [Data Stack Evaluation & Optimization](about-deepak-sood/projects/opstree/sales-presales/38-data-stack-evaluation-optimization.md)
+- [AI ChatBot SAAS](about-deepak-sood/projects/opstree/sales-presales/36-ai-chatbot-saas.md)
+- [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/opstree/sales-presales/31-techie-talks-podcast-architecting-data-at-scale.md)
 
 #### Case Studies
 
-- [Data Engineering Case Studies](about-deepak-sood/projects/60-data-engineering-case-studies.md)
-- [General Application Management Case Study](about-deepak-sood/projects/61-general-application-management-case-study.md)
-- [Application Management Case Study - Telecom](about-deepak-sood/projects/62-application-management-case-study-telecom.md)
-- [MLOps Case Studies](about-deepak-sood/projects/64-mlops-case-studies.md)
-- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-deepak-sood/projects/51-case-study-anomaly-detection.md)
-- [GenAI Case Study - Careers360](about-deepak-sood/projects/47-genai-case-study-careers360.md)
-- [Traditional AI Case Studies](about-deepak-sood/projects/45-traditional-ai-case-studies.md)
-- [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
-- [Optimizing Real-time User Analytics Using ClickHouse](about-deepak-sood/projects/34-optimizing-real-time-user-analytics-using-clickhouse.md)
-- [Powering Granular Cloud Cost Analytics with ClickHouse](about-deepak-sood/projects/33-powering-granular-cloud-cost-analytics-with-clickhouse.md)
-- [27-wso2-case-studies](about-deepak-sood/projects/27-wso2-case-studies.md)
-- [26-wso2-real-time-fraud-detection](about-deepak-sood/projects/26-wso2-real-time-fraud-detection.md)
-- [25-wso2-automated-claims-processing](about-deepak-sood/projects/25-wso2-automated-claims-processing.md)
+- [Data Engineering Case Studies](about-deepak-sood/projects/opstree/case-studies/60-data-engineering-case-studies.md)
+- [General Application Management Case Study](about-deepak-sood/projects/opstree/case-studies/61-general-application-management-case-study.md)
+- [Application Management Case Study - Telecom](about-deepak-sood/projects/opstree/case-studies/62-application-management-case-study-telecom.md)
+- [MLOps Case Studies](about-deepak-sood/projects/opstree/case-studies/64-mlops-case-studies.md)
+- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-deepak-sood/projects/opstree/case-studies/51-case-study-anomaly-detection.md)
+- [GenAI Case Study - Careers360](about-deepak-sood/projects/opstree/case-studies/47-genai-case-study-careers360.md)
+- [Traditional AI Case Studies](about-deepak-sood/projects/opstree/case-studies/45-traditional-ai-case-studies.md)
+- [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/opstree/case-studies/44-agri-tech-digital-transformation-case-study.md)
+- [Optimizing Real-time User Analytics Using ClickHouse](about-deepak-sood/projects/opstree/case-studies/34-optimizing-real-time-user-analytics-using-clickhouse.md)
+- [Powering Granular Cloud Cost Analytics with ClickHouse](about-deepak-sood/projects/opstree/case-studies/33-powering-granular-cloud-cost-analytics-with-clickhouse.md)
+- [27-wso2-case-studies](about-deepak-sood/projects/opstree/case-studies/27-wso2-case-studies.md)
+- [26-wso2-real-time-fraud-detection](about-deepak-sood/projects/opstree/case-studies/26-wso2-real-time-fraud-detection.md)
+- [25-wso2-automated-claims-processing](about-deepak-sood/projects/opstree/case-studies/25-wso2-automated-claims-processing.md)
 
 ### Bake.io
 
-- [Bake.io Data Engineering](about-deepak-sood/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
+- [Bake.io Data Engineering](about-deepak-sood/projects/bake-io/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
 
 ### Stashfin
 
-- [Stashfin](about-deepak-sood/projects/80-stashfin.md) (Feb'20 - Feb'23)
-- [Stashfin Terms](about-deepak-sood/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
-- [Stashfin Metrics](about-deepak-sood/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
-- [Stashfin Customer Support](about-deepak-sood/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
-- [Stashfin Twitter Bot](about-deepak-sood/projects/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
-- [Stashfin Team Management / Culture](about-deepak-sood/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
-- [Stashfin Security IAM APIs](about-deepak-sood/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
-- [Stashfin Devops Overhaul](about-deepak-sood/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
-- [Stashfin Tech Stack / Infra](about-deepak-sood/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
-- [Stashfin AIML Use Cases & Implementation](about-deepak-sood/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
-- [Stashfin: Redshift to Snowflake Migration](about-deepak-sood/projects/92-stashfin-redshift-to-snowflake-migration.md)
+- [Stashfin](about-deepak-sood/projects/stashfin/80-stashfin.md) (Feb'20 - Feb'23)
+- [Stashfin Terms](about-deepak-sood/projects/stashfin/81-stashfin-terms.md) (Feb'20 - Feb'23)
+- [Stashfin Metrics](about-deepak-sood/projects/stashfin/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
+- [Stashfin Customer Support](about-deepak-sood/projects/stashfin/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
+- [Stashfin Twitter Bot](about-deepak-sood/projects/stashfin/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
+- [Stashfin Team Management / Culture](about-deepak-sood/projects/stashfin/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
+- [Stashfin Security IAM APIs](about-deepak-sood/projects/stashfin/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
+- [Stashfin Devops Overhaul](about-deepak-sood/projects/stashfin/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
+- [Stashfin Tech Stack / Infra](about-deepak-sood/projects/stashfin/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
+- [Stashfin AIML Use Cases & Implementation](about-deepak-sood/projects/stashfin/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
+- [Stashfin: Redshift to Snowflake Migration](about-deepak-sood/projects/stashfin/92-stashfin-redshift-to-snowflake-migration.md)
 
 ### Zenatix (Aug'17 - Jan'20)
 
@@ -102,13 +102,13 @@ updated: 2026-05-29
 
 ### CISO Cybersecurity
 
-- [CISO Cybersecurity](about-deepak-sood/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
+- [CISO Cybersecurity](about-deepak-sood/projects/ciso-cybersecurity/99-ciso-cybersecurity.md) (Dec'16 - July'17)
 
 ## Personal Projects
 
-- [28-woocommerce-ai-assistant-technical-deep-dive](about-deepak-sood/projects/28-woocommerce-ai-assistant-technical-deep-dive.md)
-- [29-woocommerce-ai-assistant-product-journey](about-deepak-sood/projects/29-woocommerce-ai-assistant-product-journey.md)
-- [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
+- [28-woocommerce-ai-assistant-technical-deep-dive](about-deepak-sood/projects/personal/28-woocommerce-ai-assistant-technical-deep-dive.md)
+- [29-woocommerce-ai-assistant-product-journey](about-deepak-sood/projects/personal/29-woocommerce-ai-assistant-product-journey.md)
+- [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/personal/70-interview-datainsight-alerting-engine.md) (Nov'2023)
 - [GitHub - deepaksood619/react-shopping-cart](https://github.com/deepaksood619/react-shopping-cart) ⭐ 0 (May'21)
 - [GitHub - deepaksood619/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/deepaksood619/FCC-Weather-App) ⭐ 0  [FCC-Weather-App](https://codepen.io/deepaksood619/full/rpyRbZ) (Jan'18)
 - [GitHub - deepaksood619/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/deepaksood619/FCC-Algorithm-Scripting) ⭐ 0 (Dec'17 - Dec'21)
@@ -126,7 +126,7 @@ updated: 2026-05-29
 - [GitHub - deepaksood619/MyWebsite: My Website from scratch.](https://github.com/deepaksood619/MyWebsite) ⭐ 1 (Apr'17)
 - [GitHub - deepaksood619/Competitive-Programming: https://www.hackerrank.com/deepaksood619, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/deepaksood619/Competitive-Programming) ⭐ 11 (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
-- [Others](about-deepak-sood/projects/98-others.md)
+- [Others](about-deepak-sood/projects/personal/98-others.md)
 
 ### Kaggle Notebooks
 

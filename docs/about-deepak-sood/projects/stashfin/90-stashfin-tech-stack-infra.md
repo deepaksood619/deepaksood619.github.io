@@ -7,7 +7,7 @@ updated: 2024-12-18
 ---
 ## Stashfin Infra Diagram
 
-![image](../../media/stashfin-infra.drawio.jpg)
+![image](media/stashfin-infra.drawio.jpg)
 
 ## Tech Stack
 

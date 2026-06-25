@@ -56,7 +56,7 @@ Visualized the results using Matplotlib and created interactive plots with Plotl
 - Anomalies were detected in the general dataset, with specific points highlighted as potential outliers.
 - Visualization helped in identifying the timestamp and value of anomalous points.
 
-![image](../../media/Screenshot%202024-07-17%20at%205.39.37%20PM.jpg)
+![image](media/Screenshot%202024-07-17%20at%205.39.37%20PM.jpg)
 
 ### Dataset 2
 
@@ -64,7 +64,7 @@ Visualized the results using Matplotlib and created interactive plots with Plotl
 - Differentiated between general anomalies and those specifically associated with a "FAILED" status.
 - Provided clear visual distinction between normal and anomalous data points.
 
-![image](../../media/Screenshot%202024-07-17%20at%205.40.06%20PM.jpg)
+![image](media/Screenshot%202024-07-17%20at%205.40.06%20PM.jpg)
 
 ## Conclusion
 

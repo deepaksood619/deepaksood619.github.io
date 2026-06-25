@@ -16,9 +16,9 @@ If this is your first time visiting this wiki, start from the outline below and 
 ## Outline
 
 - [About me](about-deepak-sood/readme.md)
-    - [Experience](about-deepak-sood/experience.md)
+    - [Experience](about-deepak-sood/professional/experience.md)
     - [Projects](about-deepak-sood/projects/readme.md)
-    - [Meetups / Talks / Sessions](about-deepak-sood/meetups-talks-sessions.md)
+    - [Meetups / Talks / Sessions](about-deepak-sood/professional/meetups-talks-sessions.md)
 - [Computer Science](computer-science/readme.md)
     - [AI](ai/readme.md)
 	    - [ML Algorithms](ai/ml-algorithms/readme.md)
@@ -109,7 +109,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Fallacies of Distributed Computing](computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](psychology/cognitive-science/biases-fallacies.md) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - List of [YouTube / Podcasts](knowledge/youtube-podcasts-magazine-apps.md) that I follow and [YouTube Videos](knowledge/links.md) that I have watched. Also [Computer Science YouTube Videos](computer-science/links.md) that I have watched since keeping yourself updated with the field is a must.
-- [My Experiences](about-deepak-sood/experience.md) over the years, [Meetups / Talks](about-deepak-sood/meetups-talks-sessions.md) I presented, and [Social links](about-deepak-sood/social-links.md) to connect with me
+- [My Experiences](about-deepak-sood/professional/experience.md) over the years, [Meetups / Talks](about-deepak-sood/professional/meetups-talks-sessions.md) I presented, and [Social links](about-deepak-sood/profile/social-links.md) to connect with me
 
 ## Donate
 

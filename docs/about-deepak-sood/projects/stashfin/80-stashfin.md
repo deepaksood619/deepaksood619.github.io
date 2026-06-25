@@ -9,7 +9,7 @@ updated: 2026-06-09
 
 [NBFC / Banking Terms](economics/glossary/fintech-banking-terms.md)
 
-![stashfin-product-architecture](../../media/Pasted%20image%2020231201172554.jpg)
+![stashfin-product-architecture](media/Pasted%20image%2020231201172554.jpg)
 
 ## Processes
 

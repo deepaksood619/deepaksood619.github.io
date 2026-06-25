@@ -149,7 +149,7 @@ Instruction
 
 ## Architecture
 
-![mqtt-alerting-engine](../../media/MQTT%20Alerting%20Engine.drawio.jpg)
+![mqtt-alerting-engine](media/MQTT%20Alerting%20Engine.drawio.jpg)
 
 - Alert mapping table - Main copy in RDBMS
     - Pushed copy in redis
@@ -183,4 +183,4 @@ Instruction
 
 ### Alerting Exceptions Handling
 
-![alerting-exceptions-handling-flow](../../media/Communication%20exception%20flow.jpg)
+![alerting-exceptions-handling-flow](media/Communication%20exception%20flow.jpg)

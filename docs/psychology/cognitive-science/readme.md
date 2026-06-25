@@ -21,7 +21,7 @@ updated: 2026-06-24
 
 - [Brain](brain.md)
 - [Intelligence](intelligence.md)
-- [Personality](personality.md)
+- [Personality](psychology/cognitive-science/personality.md)
 - [Emotions](emotions.md)
 - [Defence Mechanisms](defence-mechanisms.md)
 - [Human Psychology and Thinking](human-psychology-and-thinking.md)

@@ -11,13 +11,13 @@ This solution document details the architecture and technical implementation of 
 
 ## High-Level Architecture Diagram
 
-![post-call-analytics-high-level-architecture-diagram](../../media/Screenshot%202025-01-25%20at%202.48.28%20PM.jpg)
+![post-call-analytics-high-level-architecture-diagram](media/Screenshot%202025-01-25%20at%202.48.28%20PM.jpg)
 
 [GitHub - aws-samples/amazon-transcribe-post-call-analytics](https://github.com/aws-samples/amazon-transcribe-post-call-analytics) ⭐ 107
 
 ## Components
 
-![post-call-analytics-components-diagram](../../media/post_call_analytics.drawio.png)
+![post-call-analytics-components-diagram](media/post_call_analytics.drawio.png)
 
 https://drive.google.com/file/d/1m1S1eTfrySq2AauD4gNb5eByDW9pyfxU/view?usp=drive_link
 

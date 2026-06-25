@@ -58,7 +58,7 @@ Design and develop an architecture for a cloud-based SaaS data platform that off
 
 ### 1. High-Level Block Diagram
 
-![cloud-based-saas-platform](../../media/cloud-based-saas-platform.drawio.png)
+![cloud-based-saas-platform](media/cloud-based-saas-platform.drawio.png)
 
 https://drive.google.com/file/d/1Kk1_INbeBsGtxDgAVCBjlUDcSLd-B2_D/view?usp=drive_link
 

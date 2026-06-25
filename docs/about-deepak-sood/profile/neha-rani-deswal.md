@@ -9,7 +9,7 @@ LinkedIn - [linkedin.com/in/neha-rani-deswal/](https://www.linkedin.com/in/neha-
 
 - bit.ly/neharani
 
-![Neha Rani Deswal](../media/neha-rani-deswal.png)
+![Neha Rani Deswal](media/neha-rani-deswal.png)
 
 ## Intro 1 - Short
 
