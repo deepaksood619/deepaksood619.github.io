@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/readme
 title: Quotes Proverbs
 description: Discover a diverse collection of inspiring quotes and proverbs on life, motivation, business, finance, and more to enrich your thoughts and ideas.
 created: 2023-03-05
-updated: 2026-01-10
+updated: 2026-06-26
 ---
 - [Life](life)
 - [Habits](knowledge/quotes-proverbs/habits.md)
@@ -19,5 +19,6 @@ updated: 2026-01-10
 - [Funny](funny)
 - [Tatoos Quotes](tatoos-quotes)
 - [Tips](knowledge/quotes-proverbs/tips.md)
+- [affirmations](knowledge/quotes-proverbs/affirmations.md)
 - [Startup Quotes](knowledge/quotes-proverbs/startup-quotes.md)
 - [Hindi](knowledge/quotes-proverbs/hindi.md)

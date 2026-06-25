@@ -3,7 +3,7 @@ slug: /ideas/research-index
 title: Startup Ideas Research Index
 description: Explore innovative startup ideas with our comprehensive index, featuring high-priority concepts for validation across various domains like EdTech and DevTools.
 created: 2026-05-02
-updated: 2026-06-19
+updated: 2026-06-26
 ---
 **Startup Ideas Research Index**
 
@@ -247,51 +247,6 @@ Last updated: 2026-06-18
 - Financial projections
 - GTM playbooks
 
----
-
-## Next Actions
-
-### Immediate (This Week)
-
-1. [ ] Choose top idea (Postman Alternative or AI Mock Interviews)
-2. [ ] User interviews (10-20 target users)
-3. [ ] Competitor analysis deep dive
-4. [ ] MVP feature prioritization
-5. [ ] Technical spike (test core technology)
-
-### Short-term (Month 1)
-
-1. [ ] Build MVP
-2. [ ] Beta testing with 10 users
-3. [ ] Landing page + waitlist
-4. [ ] Pricing research
-
-### Medium-term (Months 2-3)
-
-1. [ ] Public launch (Product Hunt, HN, Reddit)
-2. [ ] Gather feedback, iterate
-3. [ ] Add monetization
-4. [ ] Content marketing
-
----
-
-## Research Methodology
-
-**How this wiki works:**
-
-- **Human responsibility:** Curate sources, direct analysis, prioritize ideas
-- **LLM responsibility:** Cross-referencing, synthesis, maintaining consistency
-- **Process:** Ingest research → Update 10-15 pages → Link across domains → Track in log
-
-**When adding new research:**
-
-1. Create raw research file in
-2. Extract into relevant startup idea pages
-3. Create competitor/market analysis pages as needed
-4. Update this index
-
----
-
 ## Original Idea Sources
 
 All ideas sourced from:
@@ -300,8 +255,6 @@ All ideas sourced from:
 - [Creating a Business / Startup](creating-a-business-startup.md)
 - [Thoughts / Future / Ideas / Vision / Prediction](thoughts-future-ideas-vision-prediction.md)
 - [Others](ideas/others.md)
-
----
 
 ## Key Insights
 

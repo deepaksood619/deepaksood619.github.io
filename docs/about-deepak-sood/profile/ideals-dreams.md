@@ -3,7 +3,7 @@ slug: /about-deepak-sood/ideals-dreams
 title: Ideals / Dreams
 description: Explore the balance of dreams and financial wisdom with insights on smart investments, personal growth, and affirmations for a fulfilling life.
 created: 2025-02-26
-updated: 2026-06-16
+updated: 2026-06-26
 ---
 Aim for the moon; even if you miss, you’ll land among the stars.
 
@@ -21,30 +21,7 @@ A dream is just a dream. A goal is a dream with a plan and a deadline -- Harvey 
 1. I don't borrow for something that does not increase my productivity
 2. Income - Savings = Expense
 3. Invest in yourself
-
-## Physical Mantra / Affirmations / Mantras
-
-- All pain ends at last
-- When you're thinking of quitting: accept the pain and refuse to quit as a possibility
-- Failure is a sign of weakness
-- I must never give up
-- Only weak people can't solve their own problems
-- A man never quits what he starts
-- **You've done it in the past, so you can do it now**
-- **Do it today, not tomorrow**
-- **Learn to love it**
-- **Get it done and move on**
-- **Almost there! Almost there!**
-- **So what?!**
-- **Let's go**
-- **Back to work, Back to work, Back to work**
-- [Facebook](https://www.facebook.com/reel/951196616619647)
-	- I am strong, I am kind, I am powerful
-	- I am brave, I am free, I am helpful
-	- With love in my heart and smile on my face
-	- I can handle anything, anytime, anyplace
-
-https://dariusforoux.com/positive-affirmations
+4. [affirmations](knowledge/quotes-proverbs/affirmations.md)
 
 ## Views
 
