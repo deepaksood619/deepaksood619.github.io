@@ -3,7 +3,7 @@ slug: /psychology/life-relationship-people
 title: Life / Relationship / People
 description: Discover the significance of kindness, trust, and thoughtful communication in nurturing better relationships and understanding among people.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-06-25
 ---
 When working with people, assume good intentions.
 
@@ -21,7 +21,7 @@ If you trust me then you shouldn't ask for my account statement and if you don't
 
 ![time spent with family over age](media/Screenshot%202025-02-09%20at%204.20.44%20PM.jpg)
 
-#### Ernest Hemingway
+## Ernest Hemingway
 
 - Before you talk, listen.
 - Before you react, think.
@@ -325,3 +325,7 @@ The "birth lottery" (or "lottery of birth") refers to the idea that the circumst
 - [The Seven Principles for Making Marriage Work (Animated) – Book Summary](https://youtu.be/FfpK3NaC6lI)
 - [The 7 Principles For Making Marriage Work by John Gottman - Relationship...](https://youtu.be/knBJGNisJS0)
 - [Relationship Advice from 50+ Years of Marriage (w/ The Gottmans) | How t...](https://youtu.be/nJ4RtT0T_BA)
+- [A man only has 3 needs! - YouTube](https://www.youtube.com/watch?v=QpaEE8fT1SA)
+	- Respect
+	- Peace
+	- Loyalty

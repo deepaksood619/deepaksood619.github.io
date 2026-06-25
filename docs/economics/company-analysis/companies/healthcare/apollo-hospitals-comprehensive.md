@@ -97,17 +97,20 @@ Apollo Hospitals Enterprise Limited was founded in 1983 by Dr. Prathap C. Reddy 
 | **EPS (Rs.)** | 73.42 | 56.97 | 62.50 | 100.56 | 135.04 | **+34%** |
 
 **Revenue CAGR Analysis:**
+
 - **4-Year CAGR (FY22-FY26):** 14.5%
 - **5-Year CAGR:** ~15-19% (varies by standalone vs consolidated)
 - **3-Year CAGR:** 13%
 
 **Profit Trajectory:**
+
 - FY23 dip (Rs. 844 Cr) was due to COVID normalization and pharmacy investment ramp-up
 - Strong recovery and acceleration: FY24 (935 Cr) → FY25 (1,505 Cr) → FY26 (2,003 Cr)
 - **Net Profit CAGR FY22-FY26:** ~15.9%
 - **Net Profit CAGR FY24-FY26:** ~46% (accelerating)
 
 **Operating Margin Analysis:**
+
 - OPM improved from 12% trough (FY23) back to 15% (FY26)
 - Hospital segment EBITDA margin estimated 20-22% (standalone)
 - Pharmacy segment OPM ~3-5% (dilutes consolidated OPM)
@@ -122,6 +125,7 @@ Apollo Hospitals Enterprise Limited was founded in 1983 by Dr. Prathap C. Reddy 
 | **Net Profit (Rs. Cr)** | 414 | 441 | 494 | 516 | ⬆️ Consistent |
 
 **Quarterly Trend:**
+
 - Q4 FY26 (Rs. 6,477 Cr, Rs. 516 Cr profit) is the best quarter ever
 - Sequential improvement every quarter — demonstrates operational leverage
 - Q4 annualized run rate: Rs. 25,908 Cr revenue, Rs. 2,064 Cr profit
@@ -157,15 +161,15 @@ Apollo Hospitals Enterprise Limited was founded in 1983 by Dr. Prathap C. Reddy 
 
 ### Balance Sheet Strength
 
-| Metric | Mar 2026 (Rs. Cr) | Analysis |
-|--------|-------------------|----------|
-| **Total Equity** | 9,480-9,963 | Strong equity base |
-| **Borrowings (Debt)** | 3,190-8,493 | Note: Higher figure includes lease liabilities and HealthCo debt |
-| **Debt-to-Equity** | **0.32x** | ✅ Manageable leverage |
-| **Total Assets** | 22,197 | Predominantly fixed assets (hospitals) |
-| **Fixed Assets** | 12,312 | Hospital infrastructure (tangible assets) |
-| **Interest Coverage** | **9.6x** | ✅ Very comfortable — minimal financial risk |
-| **Book Value per Share** | Rs. 659-693 | |
+| Metric                   | Mar 2026 (Rs. Cr) | Analysis                                                         |
+| ------------------------ | ----------------- | ---------------------------------------------------------------- |
+| **Total Equity**         | 9,480-9,963       | Strong equity base                                               |
+| **Borrowings (Debt)**    | 3,190-8,493       | Note: Higher figure includes lease liabilities and HealthCo debt |
+| **Debt-to-Equity**       | **0.32x**         | ✅ Manageable leverage                                            |
+| **Total Assets**         | 22,197            | Predominantly fixed assets (hospitals)                           |
+| **Fixed Assets**         | 12,312            | Hospital infrastructure (tangible assets)                        |
+| **Interest Coverage**    | **9.6x**          | ✅ Very comfortable — minimal financial risk                      |
+| **Book Value per Share** | Rs. 659-693       |                                                                  |
 
 **Note on Debt:** The Rs. 8,493 Cr figure includes Ind AS 116 lease liabilities for hospital properties and Apollo HealthCo debt. The Rs. 3,190 Cr (standalone) reflects actual bank borrowings. D/E of 0.32x is on bank debt basis.
 
@@ -215,20 +219,20 @@ Apollo Hospitals Enterprise Limited was founded in 1983 by Dr. Prathap C. Reddy 
 
 ### Peer Comparison Matrix
 
-| Metric | **Apollo Hospitals** | Max Healthcare | Fortis | Narayana H | Assessment |
-|--------|---------------------|----------------|--------|------------|------------|
-| **Current Price (Rs.)** | **8,591** | 1,132 | 966 | 1,949 | — |
-| **Market Cap (Rs. Cr)** | **1,23,520** | 1,10,171 | 72,929 | 39,825 | Largest by far |
-| **Revenue FY26 (Rs. Cr)** | **25,228** | 8,373 | 9,128 | 7,896 | 3x peers |
-| **Net Profit FY26 (Rs. Cr)** | **2,003** | 1,442 | 1,064 | 806 | Highest |
-| **OPM (%)** | 15%* | 27% | 23% | 20% | *Pharmacy-diluted |
-| **PE Ratio** | **63.2x** | 74.2x | 68.9x | 46.8x | Cheapest ex-NH |
-| **Price/Book** | **13.1x** | 10.3x | 7.5x | 8.9x | Premium |
-| **EV/EBITDA** | **46.8x** | ~55x est. | ~45x est. | ~35x est. | Premium sector |
-| **ROE** | **22.1%** | 14.8% | 11.3% | 20.9% | Highest |
-| **ROCE** | **17.9%** | 14.7% | 13.5% | 15.4% | Highest |
-| **Debt/Equity** | **0.32x** | 0.36x | 0.35x | 1.29x | Conservative |
-| **Dividend Yield** | 0.22% | Low | Low | Low | All low |
+| Metric                       | **Apollo Hospitals** | Max Healthcare | Fortis    | Narayana H | Assessment        |
+| ---------------------------- | -------------------- | -------------- | --------- | ---------- | ----------------- |
+| **Current Price (Rs.)**      | **8,591**            | 1,132          | 966       | 1,949      | —                 |
+| **Market Cap (Rs. Cr)**      | **1,23,520**         | 1,10,171       | 72,929    | 39,825     | Largest by far    |
+| **Revenue FY26 (Rs. Cr)**    | **25,228**           | 8,373          | 9,128     | 7,896      | 3x peers          |
+| **Net Profit FY26 (Rs. Cr)** | **2,003**            | 1,442          | 1,064     | 806        | Highest           |
+| **OPM (%)**                  | 15%*                 | 27%            | 23%       | 20%        | *Pharmacy-diluted |
+| **PE Ratio**                 | **63.2x**            | 74.2x          | 68.9x     | 46.8x      | Cheapest ex-NH    |
+| **Price/Book**               | **13.1x**            | 10.3x          | 7.5x      | 8.9x       | Premium           |
+| **EV/EBITDA**                | **46.8x**            | ~55x est.      | ~45x est. | ~35x est.  | Premium sector    |
+| **ROE**                      | **22.1%**            | 14.8%          | 11.3%     | 20.9%      | Highest           |
+| **ROCE**                     | **17.9%**            | 14.7%          | 13.5%     | 15.4%      | Highest           |
+| **Debt/Equity**              | **0.32x**            | 0.36x          | 0.35x     | 1.29x      | Conservative      |
+| **Dividend Yield**           | 0.22%                | Low            | Low       | Low        | All low           |
 
 *Apollo OPM includes pharmacy retail (3-5% OPM); hospital segment OPM estimated 20-22%
 
@@ -258,6 +262,7 @@ Apollo Hospitals Enterprise Limited was founded in 1983 by Dr. Prathap C. Reddy 
 **4. Sector Context:**
 
 The Indian private hospital sector consistently commands 50-80x PE because:
+
 - Healthcare is a secular growth sector (India's healthcare spend rising from `<`3.5% to 5%+ of GDP)
 - Bed shortage: India has ~1.4 beds per 1,000 population vs 3-4 for developed economies
 - Pricing power: Hospital procedures have 8-12% annual price increases (inflation-proof)
@@ -266,6 +271,7 @@ The Indian private hospital sector consistently commands 50-80x PE because:
 **Valuation Verdict: EXPENSIVE (Absolute), FAIR (Sector-Relative)**
 
 At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dynamics:
+
 - Cheapest large-cap quality hospital stock (PE-adjusted for ROE)
 - Apollo Healthtech demerger could unlock 10-15% additional value
 - Stock near 52-week high — wait for 8-10% correction for better entry
@@ -314,6 +320,7 @@ At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dyn
 ### Base Case: Target Rs. 9,500-10,500 (+10-22% upside) — 50% probability
 
 **Assumptions:**
+
 - Revenue growth sustains 15-18% CAGR (FY26-FY28)
 - Net profit grows 22-28% annually (operating leverage)
 - FY27E EPS: Rs. 165-175; FY28E EPS: Rs. 205-220
@@ -322,10 +329,12 @@ At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dyn
 - Bed expansion adds 800-1,000 new beds in FY27 (partial execution)
 
 **Outcome:**
+
 - **FY27 Target:** Rs. 9,575-10,850 (60x × Rs. 160-180 EPS)
 - **FY28 Target:** Rs. 11,275-13,640 (55x × Rs. 205-248 EPS)
 
 **Expected Return Distribution:**
+
 - **Bull Case (30% probability):** +28-40% — Rs. 11,000-12,000
 - **Base Case (50% probability):** +10-22% — Rs. 9,500-10,500
 - **Bear Case (20% probability):** -20-25% — Rs. 6,500-7,000
@@ -365,6 +374,7 @@ At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dyn
 **Position in 52-Week Range:** ~95% — Near 52-week high
 
 **Trend Assessment:**
+
 - Strong 1-year uptrend: from Rs. 7,041 (est. one year ago) to Rs. 8,591 today (+22%)
 - Stock has consistently made higher highs and higher lows over 3-5 year period
 - Near 52-week high (Rs. 8,690) is a minor resistance; breakout above would signal strength
@@ -412,6 +422,7 @@ At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dyn
 **Pattern:** Extended Uptrend near ATH — potential for Breakout or Consolidation
 
 **Pattern Assessment:**
+
 - Stock is 95% up its 52-week range — near prior highs
 - Two scenarios from here:
   - **Scenario A (Breakout):** Sustained move above Rs. 8,690 on strong volume → target Rs. 9,500-10,000. Probability: 40%
@@ -422,6 +433,7 @@ At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dyn
 ### Entry & Exit Strategy
 
 **Entry Strategy:**
+
 - **Preferred Entry:** Rs. 7,800-8,200 (on pullback — 5-8% from current)
 - **Aggressive Entry:** Rs. 8,400-8,600 (immediate, accept limited near-term upside)
 - **Breakout Entry:** Rs. 8,700+ with volume confirmation (momentum play)
@@ -430,6 +442,7 @@ At current PE (63.2x), Apollo is not cheap. But relative to peers and sector dyn
 **Risk per trade:** Keep stop loss to `<`2% of portfolio (stop at Rs. 7,400)
 
 **Exit Strategy:**
+
 - **Target 1 (partial — 50%):** Rs. 9,500 — sell half position
 - **Target 2 (full):** Rs. 10,500 — sell remaining
 - **Stop Loss:** Rs. 7,400 (below 200-DMA support) — exit fully on weekly close below
@@ -469,7 +482,7 @@ Fundamental and technical signals are aligned — quality company in uptrend wit
 | **Apollo HealthCo Losses** | Medium | Medium | Digital health pre-profit segment burning cash. If HealthCo losses exceed Rs. 500-800 Cr annually, consolidated profits dampened. Demerger reduces this risk. |
 | **Promoter Dilution** | Medium | Medium | Company will need Rs. 3,000-5,000 Cr equity over 3 years for expansion. Each large QIP dilutes promoter stake further (currently 28.02%). |
 | **Regulatory / NHA Pricing** | Low-Medium | High | Government health schemes (PM-JAY) cap procedure rates. If hospitals are mandated to treat a minimum % at capped rates, margins compress. |
-| **Competition from Digital** | Low | Medium | Reliance (Netmeds + JioHealth), Tata (1mg), Practo — competing for pharmacy and digital health share. Apollo 24|7 must scale fast to win. |
+| **Competition from Digital** | Low | Medium | Reliance (Netmeds + JioHealth), Tata (1mg), Practo — competing for pharmacy and digital health share. Apollo 24x7 must scale fast to win. |
 | **Demerger Execution Risk** | Low | Medium | Apollo Healthtech demerger requires NCLT approval + shareholder vote. Complexity could delay timeline, creating uncertainty overhang. |
 | **Key Person Risk** | Low | Medium | Dr. Prathap C. Reddy is 82 years old. Succession is to Suneeta Reddy (MD) and Sangita Reddy (JMD) — family succession plan in place, reducing risk. |
 | **Medical Tourism Disruption** | Low | Low | Any major geopolitical event or pandemic could reduce international patient volumes (10-15% of hospital revenue). Short-term risk only. |
@@ -531,12 +544,14 @@ Fundamental and technical signals are aligned — quality company in uptrend wit
 **Trigger Events:**
 
 ✅ **Buy More:**
+
 - Healthtech demerger approved + hospital segment PE re-rates to 65-70x
 - Two consecutive quarters of 17%+ consolidated OPM
 - Stock pulls back to Rs. 7,800-8,200 without fundamental change
 - Major new hospital announcement (100+ beds capacity, tier 1 city)
 
 🔻 **Reduce / Exit:**
+
 - Net profit growth falls below 10% YoY for two consecutive quarters
 - Promoter holding falls below 25% via large equity placement
 - NHPS/regulatory caps significantly reduce procedure pricing
@@ -563,12 +578,14 @@ Apollo Hospitals is India's premier integrated healthcare franchise — the gold
 ## Investment Suitability
 
 **Ideal Investor Profile:**
+
 - Long-term investor (3+ years) comfortable with quality-growth premium valuations
 - Healthcare sector allocation in diversified portfolio
 - Investors wanting exposure to India's structural healthcare growth story
 - Comfortable holding through 10-15% market volatility
 
 **Not Suitable For:**
+
 - Deep value investors seeking PE below 30x
 - Dividend income investors (yield only 0.22%)
 - Investors with `<`1 year horizon (near-ATH limits near-term upside)
@@ -620,6 +637,7 @@ Apollo Hospitals is India's premier integrated healthcare franchise — the gold
 This analysis is for educational and informational purposes only and does not constitute investment advice. Stock markets are subject to risks, and past performance is not indicative of future results. The information presented is based on publicly available data as of June 25, 2026, and may become outdated as new information emerges.
 
 **Specific Notes for Apollo Hospitals:**
+
 - Technical indicators (moving averages, RSI, MACD) are estimated based on price position and CAGR; exact values require live charting tools
 - Apollo Healthtech demerger approval is pending NCLT + shareholder approval; outcome uncertain
 - Consolidated OPM includes pharmacy operations (3-5% OPM); hospital segment OPM estimated at ~20-22% — adjust peer comparisons accordingly

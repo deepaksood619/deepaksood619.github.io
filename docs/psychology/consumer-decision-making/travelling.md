@@ -3,7 +3,7 @@ slug: /psychology/travelling
 title: Travelling
 description: Explore thoughtful travel experiences that prioritize meaningful connections and mindful living over constant partying and superficial adventures.
 created: 2024-08-08
-updated: 2026-05-29
+updated: 2026-06-25
 ---
 Every weekend shouldn't be a party. Once a year trip plan
 
@@ -66,6 +66,16 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 8. Offer letter (current company) (since don't have payslips yet)
 9. Last 3 Payslips (old company)
 10. Relieving letter from old company
+
+## Travelling - Noida - Delhi NCR
+
+- [12 Best Road Trips from Noida for a Short Getaway](https://www.godigit.com/explore/road-trips/road-trips-from-noida)
+- climbcity Noida
+	- [Climb city noida ticket price, timings \| Rock climbing in delhi ncr \| Places to visit in delhi ncr - YouTube](https://www.youtube.com/watch?v=erTzKIM4jS4)
+- snowpark Noida
+- [What are some must-visit places and hidden gems in Noida?](https://www.reddit.com/r/noida/comments/191dhvu/what_are_some_mustvisit_places_and_hidden_gems_in/)
+- [Share one-day family trips possible near noida](https://www.reddit.com/r/noida/comments/1gsdecz/share_oneday_family_trips_possible_near_noida/)
+- [Places to Visit in Noida](https://www.tripadvisor.in/Attractions-g644043-Activities-Noida_Gautam_Buddha_Nagar_District_Uttar_Pradesh.html)
 
 ## Links
 

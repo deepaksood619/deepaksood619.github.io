@@ -104,6 +104,31 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 4, 2026 (Price: Rs. 106.46, Market Cap: Rs. 30,424 Cr, Volume: 7.54x avg)
   - **Next Update:** After Q1 FY27 earnings (July 2026) or profitability achievement
 
+### Bosch Limited
+
+- [Bosch Limited - Comprehensive Analysis (June 25, 2026)](economics/company-analysis/companies/auto/bosch-limited-comprehensive.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical)
+  - **Ticker:** NSE:BOSCHLTD / BSE:500530
+  - **Score:** 7.5/10 ⭐⭐⭐⭐ (Quality Business, Premium Valuation)
+  - **Recommendation:** Hold (existing investors) / Wait for Dip (fresh buyers)
+  - **Target Price:** Rs. 43,500 (7% upside, 12-month horizon)
+  - **Key Highlights:**
+    - 🟢 **#1 Auto Component Supplier:** Market leader with strong German parentage (70.5% Robert Bosch GmbH)
+    - 🟢 **Fortress Balance Sheet:** Virtually debt-free (D/E 0.008x), Rs. 8,019 Cr investments, excellent FCF (Rs. 1,864 Cr FY26)
+    - 🟢 **Excellent Profitability:** OPM stable at 13% (industry-leading), ROE 16.4%, ROCE 21.5%
+    - 🟢 **Strong Cash Generation:** CFO Rs. 2,175 Cr (111% of operating profit), Rs. 632 per share FCF
+    - 🟢 **Diversified Revenue:** Automotive (75%) + Power Tools (15%) + Building Tech (10%)
+    - ⚠️ **Expensive Valuation:** PE 51.1x (2x peer average), PB 8.13x — limited margin of safety
+    - ⚠️ **Moderate Growth:** 14% revenue CAGR — respectable but not exciting for premium valuation
+    - ⚠️ **Auto Sector Cyclicality:** Exposed to auto downturns; EV transition risk to traditional fuel systems
+    - ⚠️ **Low Liquidity:** Limited free float (29.46%), average volume 43K shares
+    - 🔔 **Technical:** Near 52-week high (Rs. 40,580 vs Rs. 41,945), consolidating in Rs. 39,000-41,500 range
+  - **Entry Strategy:** Wait for 15-20% correction to Rs. 34,000-36,000 for better risk-reward (40-42x PE more palatable)
+  - **Position Sizing:** 3-5% of portfolio (quality stock but expensive; moderate allocation)
+  - **Expected Return:** 2.5% expected return at current levels — below index, confirms "Hold" thesis
+  - **Data Date:** June 25, 2026, 2:18 PM IST (Price: Rs. 40,580, Market Cap: Rs. 1,19,902 Cr)
+  - **Next Update:** After Q1 FY27 earnings (July 2026) or if stock corrects to Rs. 36,000 or breaks out above Rs. 43,000
+
 ### Others
 
 - [zaggle-comprehensive](economics/company-analysis/companies/technology/zaggle-comprehensive.md)

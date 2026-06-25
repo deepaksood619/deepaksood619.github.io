@@ -3,7 +3,7 @@ slug: /economics/investment-frameworks/stock-selection/stocks-equity-basics
 title: Stocks / Equity
 description: Explore key insights on stocks and equity, including strategies for buying, selling, and tax exemptions on long-term capital gains to maximize your investments.
 created: 2023-03-05
-updated: 2026-06-09
+updated: 2026-06-25
 ---
 The stock market is a device for transferring money from the impatient to the patient - Warren Buffet
 
@@ -17,7 +17,7 @@ Equity risk premium
 
 Stocks are forward looking
 
-### Taxes on ETF / Equity Mutual Funds
+## Taxes on ETF / Equity Mutual Funds
 
 Long-term capital gains from the transfer of equity shares (listed and non-listed) or from stake sales in a startup can be avoided under section 54F of the Income Tax Act, 1961, if the gains are invested in residential property.
 

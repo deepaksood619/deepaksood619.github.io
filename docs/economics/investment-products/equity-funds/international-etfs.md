@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-06-24
+updated: 2026-06-25
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -72,7 +72,6 @@ updated: 2026-06-24
 ## Others
 
 - **Vanguard FTSE All-World UCITS ETF (LON:VWRA) - VWRA**
-	- **See also:** [Broker Transfer Strategies](economics/taxation/broker-transfer-strategies-morgan-stanley-ibkr.md) - Guide on transferring from Morgan Stanley to IBKR to buy VWRA efficiently
 	- IBKR - **VWRA VANG FTSE AW USDA - LSEETF**
 	- Market Timings (Daylight Savings) in London
 		- in summers - March to October  - 12:30 PM – 09:00 PM IST
@@ -97,10 +96,10 @@ updated: 2026-06-24
 - **Vanguard FTSE Developed Markets ETF (VEA)**
 	- Assets - $139.70B
 	- Expense Ratio - 0.06%
-	- The Vanguard FTSE Developed Markets ETF (VEA) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the developed markets ex-US equity space. It holds stocks of any market capitalization. VEA was launched on Jul 20, 2007 and is issued by Vanguard.
+	- The Vanguard FTSE Developed Markets ETF (VEA) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the **developed markets ex-US equity space**. It holds stocks of any market capitalization. VEA was launched on Jul 20, 2007 and is issued by Vanguard.
 	- [VEA ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vea/)
 - **Vanguard FTSE Emerging Markets ETF (VWO)**
-	- The Vanguard FTSE Emerging Markets ETF (VWO) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the emerging markets equity space. It holds stocks of any market capitalization. VWO was launched on Mar 4, 2005 and is issued by Vanguard.
+	- The Vanguard FTSE Emerging Markets ETF (VWO) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the **emerging markets equity space**. It holds stocks of any market capitalization. VWO was launched on Mar 4, 2005 and is issued by Vanguard.
 	- [VWO ETF Stock Price & Overview](https://stockanalysis.com/etf/vwo/)
 - **Vanguard Global Stock Index Fund (VT Index)**
 - [Vanguard Total International Stock ETF (VXUS) ETF Stock Price & Overview](https://stockanalysis.com/etf/vxus/)
