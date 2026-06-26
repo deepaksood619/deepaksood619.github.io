@@ -149,12 +149,22 @@ function resolveLinkPath(sourceFile, linkUrl) {
   if (linkUrl.startsWith('/')) {
     // Absolute path from docs root
     resolved = path.join(DOCS_DIR, urlWithoutAnchor.substring(1));
-  } else if (linkUrl.startsWith('education/') || linkUrl.startsWith('economics/') || linkUrl.startsWith('knowledge/')) {
-    // Full path starting with top-level directory (common pattern in this repo)
-    resolved = path.join(DOCS_DIR, urlWithoutAnchor);
   } else {
-    // Relative path
-    resolved = path.resolve(sourceDir, urlWithoutAnchor);
+    // Try as absolute from docs root first
+    const absolutePath = path.join(DOCS_DIR, urlWithoutAnchor);
+
+    // Check if it exists as an absolute path
+    const absoluteExists = fs.existsSync(absolutePath) ||
+                          fs.existsSync(absolutePath + '.md') ||
+                          fs.existsSync(absolutePath + '.mdx');
+
+    if (absoluteExists) {
+      // Use absolute path from docs root
+      resolved = absolutePath;
+    } else {
+      // Fall back to relative path
+      resolved = path.resolve(sourceDir, urlWithoutAnchor);
+    }
   }
 
   // Ensure .md extension
