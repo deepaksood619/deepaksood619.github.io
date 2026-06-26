@@ -3,7 +3,7 @@ slug: /devops/docker/containers
 title: Understanding Container Runtimes
 description: Explore container runtimes like Docker and CRI-O, their integration with Kubernetes, and the role of the Open Container Initiative.
 created: 2023-03-05
-updated: 2026-03-27
+updated: 2026-06-26
 ---
 A container runtime is the component which runs the containerized application upon request. Docker Engine remains the default for Kubernetes, though CRI-O and others are gaining community support.
 
@@ -43,7 +43,7 @@ With a focus on supporting the low-level, or backend plumbing of containers, thi
 
 ## podman
 
-a "pod manager" tool, allows for the life cycle management of a container, including creating, starting, stopping and updating. You could consider this a replacement for**docker run**.
+a "pod manager" tool, allows for the life cycle management of a container, including creating, starting, stopping and updating. You could consider this a replacement for **docker run**.
 
 ## buildah
 
@@ -141,4 +141,8 @@ https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
 
 https://mobyproject.org
 
-https://github.com/moby/moby
+[GitHub - moby/moby: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems · GitHub](https://github.com/moby/moby) ⭐ 72k
+
+## Others
+
+- [GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. · GitHub](https://github.com/apple/container) ⭐ 43k

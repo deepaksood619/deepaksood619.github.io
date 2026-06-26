@@ -50,7 +50,7 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 
 ## Others
 
-- [donations](ideas/donations.md)
+- [donations](ideas/03-guidance/donations.md)
 - [future-predictions-2040-2050](ideas/03-guidance/future-predictions-2040-2050.md)
 - [Parimutuel betting - Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 - [The Biggest Mysteries Science Still Hasn't Solved \| Compilation - YouTube](https://www.youtube.com/watch?v=qJvT2kIW9kk)
