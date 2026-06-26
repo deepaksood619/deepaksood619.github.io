@@ -1,0 +1,694 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-education/pedagogy/adaptive-learning-algorithms" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.10.1">
+<title data-rh="true">Understanding Adaptive Learning Algorithms | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/education/pedagogy/adaptive-learning-algorithms"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Understanding Adaptive Learning Algorithms | Deep Notes"><meta data-rh="true" name="description" content="Explore the principles of true adaptive learning algorithms, focusing on IRT and BKT for effective student knowledge modeling."><meta data-rh="true" property="og:description" content="Explore the principles of true adaptive learning algorithms, focusing on IRT and BKT for effective student knowledge modeling."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/education/pedagogy/adaptive-learning-algorithms"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/education/pedagogy/adaptive-learning-algorithms" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/education/pedagogy/adaptive-learning-algorithms" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Education","item":"https://deepaksood619.github.io/education/readme"},{"@type":"ListItem","position":2,"name":"Exploring Effective Pedagogy Techniques","item":"https://deepaksood619.github.io/education/pedagogy/readme"},{"@type":"ListItem","position":3,"name":"Understanding Adaptive Learning Algorithms","item":"https://deepaksood619.github.io/education/pedagogy/adaptive-learning-algorithms"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css" integrity="sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM" crossorigin="anonymous">
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.13d60745.css">
+<script src="/assets/js/runtime~main.8ee365c9.js" defer="defer"></script>
+<script src="/assets/js/main.aa91af6c.js" defer="defer"></script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top navbarHideable_m1mJ"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a><a class="navbar__item navbar__link" href="/about-deepak-sood/readme">About Me</a><a class="navbar__item navbar__link" href="/ai/llm/readme">LLM Notes</a><a class="navbar__item navbar__link" href="/databases/readme">Databases</a><a class="navbar__item navbar__link" href="/economics/readme">Economics</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Meta+k)" aria-keyshortcuts="Meta+k"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8" stroke="currentColor" fill="none" stroke-width="1.4"></circle><path d="m21 21-4.3-4.3" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd sidebarWithHideableNavbar_wUlq"><a tabindex="-1" class="sidebarLogo_isFc" href="/"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"><b>Deep Notes</b></a><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/CLAUDE"><span title="claude.md" class="linkLabel_WmDU">claude.md</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/about-deepak-sood/readme"><span title="About Deepak Sood" class="categoryLinkLabel_W154">About Deepak Sood</span></a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ai/readme"><span title="AI" class="categoryLinkLabel_W154">AI</span></a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/algorithms/readme"><span title="Algorithms" class="categoryLinkLabel_W154">Algorithms</span></a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/book-summaries/readme"><span title="Book Summaries" class="categoryLinkLabel_W154">Book Summaries</span></a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cloud/readme"><span title="Cloud" class="categoryLinkLabel_W154">Cloud</span></a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/computer-science/readme"><span title="Computer Science" class="categoryLinkLabel_W154">Computer Science</span></a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/courses/readme"><span title="Courses / Certifications" class="categoryLinkLabel_W154">Courses / Certifications</span></a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/data-structures/readme"><span title="Data Structures" class="categoryLinkLabel_W154">Data Structures</span></a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/data-warehouses/readme"><span title="Data Warehouses" class="categoryLinkLabel_W154">Data Warehouses</span></a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases/readme"><span title="Databases" class="categoryLinkLabel_W154">Databases</span></a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases-nosql/readme"><span title="NoSQL Databases" class="categoryLinkLabel_W154">NoSQL Databases</span></a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases-sql/readme"><span title="SQL Databases" class="categoryLinkLabel_W154">SQL Databases</span></a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/decentralized-applications/readme"><span title="Decentralized Applications" class="categoryLinkLabel_W154">Decentralized Applications</span></a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/devops/readme"><span title="DevOps" class="categoryLinkLabel_W154">DevOps</span></a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/economics/readme"><span title="Economics &amp; Finance" class="categoryLinkLabel_W154">Economics &amp; Finance</span></a><button aria-label="Expand sidebar category &#x27;Economics &amp; Finance&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href="/education/readme"><span title="Education" class="categoryLinkLabel_W154">Education</span></a><button aria-label="Collapse sidebar category &#x27;Education&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/education/CLAUDE"><span title="Education Research Wiki" class="linkLabel_WmDU">Education Research Wiki</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" tabindex="0" href="/education/competitors/readme"><span title="Competitor Analysis of Online Learning Platforms" class="categoryLinkLabel_W154">Competitor Analysis of Online Learning Platforms</span></a><button aria-label="Expand sidebar category &#x27;Competitor Analysis of Online Learning Platforms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/education/market-analysis/college-management-platform-analysis"><span title="market-analysis" class="categoryLinkLabel_W154">market-analysis</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" tabindex="0" href="/education/pedagogy/readme"><span title="Exploring Effective Pedagogy Techniques" class="categoryLinkLabel_W154">Exploring Effective Pedagogy Techniques</span></a><button aria-label="Collapse sidebar category &#x27;Exploring Effective Pedagogy Techniques&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/education/pedagogy/adaptive-learning-algorithms"><span title="Understanding Adaptive Learning Algorithms" class="linkLabel_WmDU">Understanding Adaptive Learning Algorithms</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/adaptive-learning-platform"><span title="Adaptive Learning for Professionals" class="linkLabel_WmDU">Adaptive Learning for Professionals</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/chunking-the-essentials"><span title="Understanding Chunking in Learning" class="linkLabel_WmDU">Understanding Chunking in Learning</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/concentration-mindfulness-attention-focus-hard-work"><span title="Mastering Concentration and Mindfulness" class="linkLabel_WmDU">Mastering Concentration and Mindfulness</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/conversational-interfaces"><span title="The Case Against Conversational Interfaces" class="linkLabel_WmDU">The Case Against Conversational Interfaces</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/course-learning-how-to-learn"><span title="Master Learning Techniques Course" class="linkLabel_WmDU">Master Learning Techniques Course</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/exams"><span title="Strategies to Ace Exams" class="linkLabel_WmDU">Strategies to Ace Exams</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/homeschooling"><span title="Comprehensive Guide to Homeschooling" class="linkLabel_WmDU">Comprehensive Guide to Homeschooling</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/learning-intro"><span title="Introduction to Autodidactic Learning" class="linkLabel_WmDU">Introduction to Autodidactic Learning</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/learning-styles"><span title="Debunking Learning Styles in EdTech" class="linkLabel_WmDU">Debunking Learning Styles in EdTech</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/memory"><span title="Understanding Memory Processes" class="linkLabel_WmDU">Understanding Memory Processes</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/mistakes-apology"><span title="Learning from Mistakes: The AAR Method" class="linkLabel_WmDU">Learning from Mistakes: The AAR Method</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/note-taking-second-brain-pkm-zettelkasten"><span title="Mastering Note Taking Techniques" class="linkLabel_WmDU">Mastering Note Taking Techniques</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/pkm-scaling-recommendations-2026"><span title="PKM Scaling Strategies for 2026" class="linkLabel_WmDU">PKM Scaling Strategies for 2026</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/schooling-vs-homeschooling"><span title="Schooling vs Homeschooling Explained" class="linkLabel_WmDU">Schooling vs Homeschooling Explained</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/schooling"><span title="Customized School Comparison Guide" class="linkLabel_WmDU">Customized School Comparison Guide</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/spaced-repetition"><span title="Understanding Spaced Repetition" class="linkLabel_WmDU">Understanding Spaced Repetition</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/speed-reading"><span title="Mastering Speed Reading Techniques" class="linkLabel_WmDU">Mastering Speed Reading Techniques</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/education/pedagogy/tips"><span title="Effective Study Tips for Better Learning" class="linkLabel_WmDU">Effective Study Tips for Better Learning</span></a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/education/product-concepts/ai-as-mentor"><span title="product-concepts" class="categoryLinkLabel_W154">product-concepts</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/education/strategy/competitive-advantages"><span title="strategy" class="categoryLinkLabel_W154">strategy</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/education/technical/tech-stack"><span title="technical" class="categoryLinkLabel_W154">technical</span></a></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/frontend/readme"><span title="Frontend" class="categoryLinkLabel_W154">Frontend</span></a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ideas/readme"><span title="Ideas" class="categoryLinkLabel_W154">Ideas</span></a><button aria-label="Expand sidebar category &#x27;Ideas&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/knowledge/readme"><span title="Knowledge" class="categoryLinkLabel_W154">Knowledge</span></a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/languages/readme"><span title="Languages" class="categoryLinkLabel_W154">Languages</span></a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/management/readme"><span title="Management" class="categoryLinkLabel_W154">Management</span></a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/mathematics/readme"><span title="Mathematics" class="categoryLinkLabel_W154">Mathematics</span></a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/networking/readme"><span title="Networking" class="categoryLinkLabel_W154">Networking</span></a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/psychology/readme"><span title="Psychology" class="categoryLinkLabel_W154">Psychology</span></a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/python/readme"><span title="Python" class="categoryLinkLabel_W154">Python</span></a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/"><span title="Deepak&#x27;s Personal Knowledge Wiki" class="linkLabel_WmDU">Deepak&#x27;s Personal Knowledge Wiki</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/technologies/readme"><span title="Technologies" class="categoryLinkLabel_W154">Technologies</span></a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/education/readme"><span>Education</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/education/pedagogy/readme"><span>Exploring Effective Pedagogy Techniques</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Understanding Adaptive Learning Algorithms</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Understanding Adaptive Learning Algorithms</h1></header><p><strong>Core Insight:</strong> True adaptive learning requires probabilistic modeling of student knowledge states and item difficulty. Simple rule-based systems (&quot;get 3 wrong → go to easier content&quot;) are NOT adaptive learning.</p>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="what-is-true-adaptive-learning">What is True Adaptive Learning?<a href="#what-is-true-adaptive-learning" class="hash-link" aria-label="Direct link to What is True Adaptive Learning?" title="Direct link to What is True Adaptive Learning?" translate="no">​</a></h2>
+<p><strong>Definition:</strong> A learning system that continuously models each student&#x27;s knowledge state and dynamically adjusts content difficulty, sequencing, and pacing based on probabilistic inference from observed performance.</p>
+<p><strong>Key Characteristics:</strong></p>
+<ol>
+<li class=""><strong>Probabilistic Modeling:</strong> Student knowledge represented as probability distributions, not binary (knows/doesn&#x27;t know)</li>
+<li class=""><strong>Continuous Calibration:</strong> Every interaction updates the model&#x27;s beliefs about student ability</li>
+<li class=""><strong>Information Maximization:</strong> Next item selected to maximize information gain about true ability</li>
+<li class=""><strong>Individualized Trajectories:</strong> Each student follows a unique learning path based on their evolving mastery</li>
+</ol>
+<p><strong>NOT Adaptive Learning:</strong></p>
+<ul>
+<li class="">❌ &quot;Get 3 questions wrong → show hint&quot; (simple rules)</li>
+<li class="">❌ &quot;Complete module 1 → unlock module 2&quot; (linear progression)</li>
+<li class="">❌ &quot;Choose your difficulty: Easy/Medium/Hard&quot; (self-assessment)</li>
+<li class="">❌ &quot;AI generates personalized questions&quot; (without difficulty calibration)</li>
+<li class="">❌ &quot;Recommends content based on interests&quot; (collaborative filtering, not ability-based)</li>
+</ul>
+<p><strong>True Adaptive Learning Examples:</strong></p>
+<ul>
+<li class="">✅ Duolingo (uses IRT for exercise selection)</li>
+<li class="">✅ ALEKS (uses Knowledge Space Theory + Bayesian updating)</li>
+<li class="">✅ GRE/GMAT computer-adaptive tests (IRT-based)</li>
+<li class="">✅ Khan Academy&#x27;s Khanmigo (claims BKT, implementation unclear)</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="1-bayesian-knowledge-tracing-bkt">1. Bayesian Knowledge Tracing (BKT)<a href="#1-bayesian-knowledge-tracing-bkt" class="hash-link" aria-label="Direct link to 1. Bayesian Knowledge Tracing (BKT)" title="Direct link to 1. Bayesian Knowledge Tracing (BKT)" translate="no">​</a></h2>
+<p><strong>Invented:</strong> 1995 by Corbett &amp; Anderson at Carnegie Mellon University</p>
+<p><strong>Purpose:</strong> Model the evolution of a student&#x27;s knowledge state for a specific skill over time</p>
+<p><strong>Core Idea:</strong> Treat student knowledge as a hidden (latent) binary state that probabilistically transitions from &quot;not learned&quot; to &quot;learned&quot; as they practice.</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="11-the-bkt-model">1.1 The BKT Model<a href="#11-the-bkt-model" class="hash-link" aria-label="Direct link to 1.1 The BKT Model" title="Direct link to 1.1 The BKT Model" translate="no">​</a></h3>
+<p><strong>Four Parameters Define Each Skill:</strong></p>
+<ol>
+<li class="">
+<p><strong>P(L₀)</strong> - Prior Probability of knowing skill before any instruction</p>
+<ul>
+<li class="">Typically 0.05-0.20 (most students don&#x27;t know skill initially)</li>
+<li class="">Example: P(L₀) = 0.10 means 10% chance student already knows React before starting</li>
+</ul>
+</li>
+<li class="">
+<p><strong>P(T)</strong> - Probability of Learning (transition rate)</p>
+<ul>
+<li class="">How quickly students learn from each practice opportunity</li>
+<li class="">Typically 0.10-0.40 depending on skill difficulty</li>
+<li class="">Example: P(T) = 0.30 means each practice has 30% chance of causing transition to &quot;learned&quot;</li>
+</ul>
+</li>
+<li class="">
+<p><strong>P(G)</strong> - Probability of Guess (lucky correct answer)</p>
+<ul>
+<li class="">Chance of getting question right without actually knowing the skill</li>
+<li class="">Typically 0.10-0.25 (lower for open-ended, higher for multiple choice)</li>
+<li class="">Example: P(G) = 0.20 for 4-option multiple choice (better than random 25%)</li>
+</ul>
+</li>
+<li class="">
+<p><strong>P(S)</strong> - Probability of Slip (careless mistake)</p>
+<ul>
+<li class="">Chance of getting question wrong despite knowing the skill</li>
+<li class="">Typically 0.05-0.15 (accounts for typos, misreading, etc.)</li>
+<li class="">Example: P(S) = 0.10 means even mastered students make mistakes 10% of time</li>
+</ul>
+</li>
+</ol>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="12-how-bkt-updates-beliefs">1.2 How BKT Updates Beliefs<a href="#12-how-bkt-updates-beliefs" class="hash-link" aria-label="Direct link to 1.2 How BKT Updates Beliefs" title="Direct link to 1.2 How BKT Updates Beliefs" translate="no">​</a></h3>
+<p><strong>Initial State:</strong></p>
+<ul>
+<li class="">Student has P(L₀) = 0.10 probability of knowing &quot;React Hooks&quot;</li>
+<li class="">Student encounters first question about useState</li>
+</ul>
+<p><strong>Observation: Student answers CORRECTLY</strong></p>
+<p><strong>Bayesian Update (Posterior Probability):</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">P(Learned | Correct) = P(Correct | Learned) × P(Learned) / P(Correct)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Where:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- P(Correct | Learned) = 1 - P(S) = 0.90 (if know, 90% chance correct)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- P(Correct | Not Learned) = P(G) = 0.20 (if don&#x27;t know, 20% chance lucky guess)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- P(Learned) = 0.10 (prior belief)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">P(Correct) = P(Correct | Learned) × P(Learned) + P(Correct | Not Learned) × P(Not Learned)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">           = 0.90 × 0.10 + 0.20 × 0.90</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">           = 0.09 + 0.18 = 0.27</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">P(Learned | Correct) = (0.90 × 0.10) / 0.27 = 0.09 / 0.27 = 0.33</span><br></div></code></pre></div></div>
+<p><strong>Result:</strong> After one correct answer, belief jumps from 10% → 33%</p>
+<p><strong>Apply Learning Rate:</strong></p>
+<p>Even if student was in &quot;not learned&quot; state, they may have learned from this practice:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">P(Learned after practice) = P(Learned | Correct) + (1 - P(Learned | Correct)) × P(T)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">                          = 0.33 + (0.67 × 0.30)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">                          = 0.33 + 0.20 = 0.53</span><br></div></code></pre></div></div>
+<p><strong>Final:</strong> After one correct answer, mastery probability = 53%</p>
+<p><strong>Observation: Student answers INCORRECTLY</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">P(Learned | Incorrect) = P(Incorrect | Learned) × P(Learned) / P(Incorrect)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Where:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- P(Incorrect | Learned) = P(S) = 0.10 (slip rate)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- P(Incorrect | Not Learned) = 1 - P(G) = 0.80</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">P(Incorrect) = 0.10 × 0.10 + 0.80 × 0.90 = 0.73</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">P(Learned | Incorrect) = (0.10 × 0.10) / 0.73 = 0.01 / 0.73 = 0.014</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Apply learning: 0.014 + (0.986 × 0.30) = 0.014 + 0.296 = 0.31</span><br></div></code></pre></div></div>
+<p><strong>Result:</strong> After one incorrect answer, mastery probability = 31%</p>
+<p><strong>Key Insight:</strong> Even getting a question wrong increases mastery (from 10% → 31%) because the student learned from the attempt!</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="13-mastery-threshold">1.3 Mastery Threshold<a href="#13-mastery-threshold" class="hash-link" aria-label="Direct link to 1.3 Mastery Threshold" title="Direct link to 1.3 Mastery Threshold" translate="no">​</a></h3>
+<p><strong>Decision Rule:</strong> Student has &quot;mastered&quot; skill when P(Learned) ≥ threshold</p>
+<p><strong>Common Thresholds:</strong></p>
+<ul>
+<li class=""><strong>0.95</strong> - Very high confidence (used in medical education, safety-critical domains)</li>
+<li class=""><strong>0.85</strong> - High confidence (used in K-12 math platforms like ALEKS)</li>
+<li class=""><strong>0.75</strong> - Moderate confidence (used in language learning like Duolingo)</li>
+<li class=""><strong>0.60</strong> - Low bar (quick progression for engagement)</li>
+</ul>
+<p><strong>Trade-off:</strong></p>
+<ul>
+<li class="">Higher threshold = More practice required = Better retention = Slower progression</li>
+<li class="">Lower threshold = Faster progression = Higher engagement = More forgetting</li>
+</ul>
+<p><strong>Adaptive Decision:</strong> Once mastered, system moves student to next skill in dependency graph</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="14-forgetting--decay">1.4 Forgetting &amp; Decay<a href="#14-forgetting--decay" class="hash-link" aria-label="Direct link to 1.4 Forgetting &amp; Decay" title="Direct link to 1.4 Forgetting &amp; Decay" translate="no">​</a></h3>
+<p><strong>Problem:</strong> BKT assumes knowledge is permanent once acquired (no forgetting)</p>
+<p><strong>Reality:</strong> Students forget over time, especially without practice</p>
+<p><strong>Solution: BKT with Decay</strong></p>
+<p>Add time-based decay parameter:</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">P(Learned at time t) = P(Learned at last practice) × e^(-λ × Δt)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Where:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- λ = decay rate (skill-specific)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Δt = time since last practice (in days)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Example:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Student mastered React Hooks 30 days ago: P(L) = 0.90</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Decay rate λ = 0.02 per day</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Current probability: 0.90 × e^(-0.02 × 30) = 0.90 × e^(-0.6) = 0.90  × 0.55 = 0.49</span><br></div></code></pre></div></div>
+<p><strong>Adaptive Response:</strong> If student hasn&#x27;t practiced in 30 days, mastery drops to 49% → system prompts review</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="15-extensions--improvements">1.5 Extensions &amp; Improvements<a href="#15-extensions--improvements" class="hash-link" aria-label="Direct link to 1.5 Extensions &amp; Improvements" title="Direct link to 1.5 Extensions &amp; Improvements" translate="no">​</a></h3>
+<p><strong>Standard BKT Limitations:</strong></p>
+<ol>
+<li class=""><strong>Binary State:</strong> Assumes knowledge is on/off, not gradual</li>
+<li class=""><strong>Single Skill:</strong> Doesn&#x27;t model relationships between skills</li>
+<li class=""><strong>No Individual Differences:</strong> Same parameters for all students</li>
+</ol>
+<p><strong>Advanced Variants:</strong></p>
+<p><strong>Contextualized BKT:</strong></p>
+<ul>
+<li class="">Different parameters per student (personalized learn rate, slip rate)</li>
+<li class="">Estimated from student&#x27;s historical data across all skills</li>
+</ul>
+<p><strong>Multi-Skill BKT:</strong></p>
+<ul>
+<li class="">Models skill dependencies (knowing loops → easier to learn arrays)</li>
+<li class="">Conditional probabilities: P(Learn Arrays | Know Loops) <code>&gt;</code> P(Learn Arrays | Don&#x27;t Know Loops)</li>
+</ul>
+<p><strong>Deep Knowledge Tracing (DKT):</strong></p>
+<ul>
+<li class="">Replace fixed parameters with deep neural network</li>
+<li class="">LSTM/Transformer learns optimal parameters from millions of student interactions</li>
+<li class="">Used by Duolingo (2019+), outperforms BKT by 5-10% AUC</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="2-item-response-theory-irt">2. Item Response Theory (IRT)<a href="#2-item-response-theory-irt" class="hash-link" aria-label="Direct link to 2. Item Response Theory (IRT)" title="Direct link to 2. Item Response Theory (IRT)" translate="no">​</a></h2>
+<p><strong>Invented:</strong> 1950s-1960s (Rasch, Lord, Birnbaum) for psychometric testing</p>
+<p><strong>Purpose:</strong> Model relationship between student ability and probability of correctly answering an item (question/problem)</p>
+<p><strong>Core Idea:</strong> Every student has a latent ability θ (theta), and every item has difficulty b. The probability of correct response depends on the gap between ability and difficulty.</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="21-the-3-parameter-logistic-3pl-model">2.1 The 3-Parameter Logistic (3PL) Model<a href="#21-the-3-parameter-logistic-3pl-model" class="hash-link" aria-label="Direct link to 2.1 The 3-Parameter Logistic (3PL) Model" title="Direct link to 2.1 The 3-Parameter Logistic (3PL) Model" translate="no">​</a></h3>
+<p><strong>Most Common IRT Model:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">P(correct) = c + (1 - c) / (1 + e^(-a(θ - b)))</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Where:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- θ (theta) = Student ability (continuous scale, typically -3 to +3)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- b = Item difficulty (same scale as θ)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- a = Item discrimination (how well item separates high/low ability students)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- c = Guessing parameter (probability of lucky correct answer)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- e = Euler&#x27;s number (2.71828...)</span><br></div></code></pre></div></div>
+<p><strong>Parameter Meanings:</strong></p>
+<p><strong>1. Ability (θ):</strong></p>
+<ul>
+<li class="">Continuous scale from -3 (very low ability) to +3 (very high ability)</li>
+<li class="">θ = 0 is average ability</li>
+<li class="">Standard deviation = 1</li>
+<li class="">Analogous to IQ scale (mean 100, SD 15)</li>
+</ul>
+<p><strong>Example Scale:</strong></p>
+<ul>
+<li class="">θ = -2: Struggling beginner (bottom 2%)</li>
+<li class="">θ = -1: Below average (bottom 16%)</li>
+<li class="">θ = 0: Average (50th percentile)</li>
+<li class="">θ = +1: Above average (84th percentile)</li>
+<li class="">θ = +2: Advanced (top 2%)</li>
+</ul>
+<p><strong>2. Difficulty (b):</strong></p>
+<ul>
+<li class="">Same scale as ability (-3 to +3)</li>
+<li class="">b = difficulty level where P(correct) = 50% for student with no guessing</li>
+<li class="">Higher b = harder question</li>
+</ul>
+<p><strong>Example:</strong></p>
+<ul>
+<li class="">b = -1: Easy question (50% chance for below-average student)</li>
+<li class="">b = 0: Medium question (50% chance for average student)</li>
+<li class="">b = +2: Hard question (50% chance for advanced student)</li>
+</ul>
+<p><strong>3. Discrimination (a):</strong></p>
+<ul>
+<li class="">How steeply probability changes as ability increases</li>
+<li class="">Typically 0.5 to 2.5</li>
+<li class="">Higher a = better at separating students of different abilities</li>
+</ul>
+<p><strong>Low Discrimination (a = 0.5):</strong></p>
+<ul>
+<li class="">Probability rises slowly from 0 to 1 across wide ability range</li>
+<li class="">Question doesn&#x27;t distinguish well between skill levels</li>
+<li class="">Example: Ambiguous wording, multiple interpretations</li>
+</ul>
+<p><strong>High Discrimination (a = 2.0):</strong></p>
+<ul>
+<li class="">Probability rises sharply around difficulty threshold</li>
+<li class="">Excellent at identifying students just above/below mastery</li>
+<li class="">Example: Clear, focused question testing specific concept</li>
+</ul>
+<p><strong>4. Guessing (c):</strong></p>
+<ul>
+<li class="">Lower bound probability (floor)</li>
+<li class="">Multiple choice with 4 options: c ≈ 0.25 (random chance)</li>
+<li class="">Multiple choice with 5 options: c ≈ 0.20</li>
+<li class="">Open-ended coding: c ≈ 0.05 (very low lucky guess chance)</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="22-probability-curves-item-characteristic-curves">2.2 Probability Curves (Item Characteristic Curves)<a href="#22-probability-curves-item-characteristic-curves" class="hash-link" aria-label="Direct link to 2.2 Probability Curves (Item Characteristic Curves)" title="Direct link to 2.2 Probability Curves (Item Characteristic Curves)" translate="no">​</a></h3>
+<p><strong>Easy Question (b = -1, a = 1.5, c = 0.20):</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Ability (θ)  | P(correct) | Interpretation</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">------------ | ---------- | --------------</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">-3.0         | 0.23       | Even very weak students have 23% chance (mostly guessing)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">-2.0         | 0.38       | Low ability students have 38% chance</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">-1.0         | 0.60       | 50% threshold (this is difficulty b = -1)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"> 0.0         | 0.81       | Average students have 81% chance (easy for them)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">+1.0         | 0.92       | Above-average students have 92% chance</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">+2.0         | 0.97       | Advanced students almost always get it right</span><br></div></code></pre></div></div>
+<p><strong>Hard Question (b = +1.5, a = 2.0, c = 0.15):</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Ability (θ)  | P(correct) | Interpretation</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">------------ | ---------- | --------------</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">-2.0         | 0.15       | Weak students mostly guessing</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">-1.0         | 0.17       | Below-average students struggle</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"> 0.0         | 0.25       | Average students only 25% chance</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">+1.0         | 0.54       | Above-average students have 54% chance</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">+1.5         | 0.73       | 50% threshold (difficulty b = +1.5)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">+2.0         | 0.85       | Advanced students have 85% chance</span><br></div></code></pre></div></div>
+<p><strong>Key Insight:</strong> Same student (θ = 0) has 81% chance on easy question but only 25% on hard question. IRT quantifies this precisely.</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="23-estimating-student-ability-θ">2.3 Estimating Student Ability (θ)<a href="#23-estimating-student-ability-θ" class="hash-link" aria-label="Direct link to 2.3 Estimating Student Ability (θ)" title="Direct link to 2.3 Estimating Student Ability (θ)" translate="no">​</a></h3>
+<p><strong>Challenge:</strong> We can&#x27;t directly observe ability θ. We only see which questions the student answered correctly.</p>
+<p><strong>Solution: Maximum Likelihood Estimation (MLE)</strong></p>
+<p><strong>Likelihood Function:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">L(θ | responses) = Product of P(response_i | θ)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">For each response:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- If correct: multiply by P(correct | θ) = IRT formula</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- If incorrect: multiply by P(incorrect | θ) = 1 - IRT formula</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Example:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Student attempts 3 questions:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Q1 (b=-1, a=1.5, c=0.2): CORRECT</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Q2 (b=0, a=1.8, c=0.15): CORRECT</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- Q3 (b=+1, a=2.0, c=0.1): INCORRECT</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">For θ = 0 (average ability):</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">L(0) = P(Q1 correct | θ=0) × P(Q2 correct | θ=0) × P(Q3 incorrect | θ=0)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">     = 0.81 × 0.71 × (1 - 0.37)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">     = 0.81 × 0.71 × 0.63</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">     = 0.362</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">For θ = +0.5:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">L(+0.5) = P(Q1 correct | θ=+0.5) × P(Q2 correct | θ=+0.5) × P(Q3 incorrect | θ=+0.5)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        = 0.89 × 0.81 × (1 - 0.53)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        = 0.89 × 0.81 × 0.47</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        = 0.339</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">For θ = -0.5:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">L(-0.5) = 0.71 × 0.59 × (1 - 0.23)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        = 0.71 × 0.59 × 0.77</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        = 0.322</span><br></div></code></pre></div></div>
+<p><strong>Best Estimate:</strong> θ that maximizes L(θ)</p>
+<p>In this example, θ = 0 has highest likelihood (0.362), so estimated ability = 0 (average)</p>
+<p><strong>Iterative Refinement:</strong></p>
+<p>After each new question, recalculate θ using all responses. The estimate becomes more accurate with more data.</p>
+<ul>
+<li class="">After 1 question: θ estimate has ±1.5 uncertainty</li>
+<li class="">After 5 questions: θ estimate has ±0.8 uncertainty</li>
+<li class="">After 20 questions: θ estimate has ±0.3 uncertainty</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="24-adaptive-question-selection">2.4 Adaptive Question Selection<a href="#24-adaptive-question-selection" class="hash-link" aria-label="Direct link to 2.4 Adaptive Question Selection" title="Direct link to 2.4 Adaptive Question Selection" translate="no">​</a></h3>
+<p><strong>Goal:</strong> Select next question to maximize information gain about student&#x27;s true ability</p>
+<p><strong>Information Function:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">I(θ) = a² × [P(θ) - c]² / [P(θ) × (1 - P(θ))]</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Where:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- a = item discrimination</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- P(θ) = probability of correct response at ability θ</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">- c = guessing parameter</span><br></div></code></pre></div></div>
+<p><strong>Key Property:</strong> Information is maximized when P(θ) ≈ 0.5 (50% chance of correct)</p>
+<p><strong>Why?</strong></p>
+<ul>
+<li class="">If P(θ) = 0.90: We already know student can answer this → low information</li>
+<li class="">If P(θ) = 0.10: We already know student can&#x27;t answer this → low information</li>
+<li class="">If P(θ) = 0.50: Maximum uncertainty → answer reveals most about true ability</li>
+</ul>
+<p><strong>Adaptive Algorithm:</strong></p>
+<ol>
+<li class="">Estimate current ability: θ̂ = 0.5 (based on previous responses)</li>
+<li class="">For each available question, calculate I(0.5)</li>
+<li class="">Select question with highest information</li>
+<li class="">Observe response (correct/incorrect)</li>
+<li class="">Update ability estimate using MLE</li>
+<li class="">Repeat</li>
+</ol>
+<p><strong>Example Scenario:</strong></p>
+<p>Current estimate: θ̂ = +0.8</p>
+<p>Available questions:</p>
+<ul>
+<li class="">Q1: b = -0.5 (easy) → P(correct | θ=0.8) = 0.92 → I(θ) = 0.3 (low info, too easy)</li>
+<li class="">Q2: b = +0.8 (matched) → P(correct | θ=0.8) = 0.68 → I(θ) = 1.8 (good info)</li>
+<li class="">Q3: b = +1.2 (hard) → P(correct | θ=0.8) = 0.42 → I(θ) = 2.1 (best info)</li>
+<li class="">Q4: b = +2.0 (very hard) → P(correct | θ=0.8) = 0.15 → I(θ) = 0.4 (low info, too hard)</li>
+</ul>
+<p><strong>Select Q3</strong> (highest information, P ≈ 0.5)</p>
+<p>If student answers correctly → estimate increases to θ̂ = +1.1
+If student answers incorrectly → estimate stays at θ̂ = +0.8 or decreases slightly</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="25-computerized-adaptive-testing-cat">2.5 Computerized Adaptive Testing (CAT)<a href="#25-computerized-adaptive-testing-cat" class="hash-link" aria-label="Direct link to 2.5 Computerized Adaptive Testing (CAT)" title="Direct link to 2.5 Computerized Adaptive Testing (CAT)" translate="no">​</a></h3>
+<p><strong>Used by:</strong> GRE, GMAT, NCLEX (nursing exam), Duolingo English Test</p>
+<p><strong>Algorithm:</strong></p>
+<ol>
+<li class=""><strong>Start:</strong> Give medium difficulty question (b = 0)</li>
+<li class=""><strong>Correct:</strong> Increase difficulty, update θ upward</li>
+<li class=""><strong>Incorrect:</strong> Decrease difficulty, update θ downward</li>
+<li class=""><strong>Repeat:</strong> 30-40 questions (vs 100+ fixed-form tests)</li>
+<li class=""><strong>Stop:</strong> When standard error of θ̂ falls below threshold (e.g., <code>SE &lt; 0.3</code>)</li>
+</ol>
+<p><strong>Benefits vs Fixed Tests:</strong></p>
+<ul>
+<li class=""><strong>50-60% fewer questions</strong> for same measurement precision</li>
+<li class=""><strong>More engaging:</strong> Never too easy or too hard (always in zone of proximal development)</li>
+<li class=""><strong>Harder to cheat:</strong> Each student gets different questions</li>
+<li class=""><strong>Real-time scoring:</strong> Know ability immediately after last question</li>
+</ul>
+<p><strong>GRE Quantitative Example:</strong></p>
+<ul>
+<li class="">
+<p>Student 1 (θ = -1, low ability):</p>
+<ul>
+<li class="">Question 1 (b=0): Incorrect → next b=-0.8</li>
+<li class="">Question 2 (b=-0.8): Incorrect → next b=-1.5</li>
+<li class="">Question 3 (b=-1.5): Correct → next b=-1.2</li>
+<li class="">... 30 questions later: Final θ̂ = -1.1, Score = 146/170</li>
+</ul>
+</li>
+<li class="">
+<p>Student 2 (θ = +1.5, high ability):</p>
+<ul>
+<li class="">Question 1 (b=0): Correct → next b=+0.8</li>
+<li class="">Question 2 (b=+0.8): Correct → next b=+1.5</li>
+<li class="">Question 3 (b=+1.5): Correct → next b=+2.0</li>
+<li class="">... 30 questions later: Final θ̂ = +1.6, Score = 165/170</li>
+</ul>
+</li>
+</ul>
+<p>Both students answered ~15 questions correctly (50% accuracy), but Student 2 faced much harder questions → higher score.</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="26-item-calibration">2.6 Item Calibration<a href="#26-item-calibration" class="hash-link" aria-label="Direct link to 2.6 Item Calibration" title="Direct link to 2.6 Item Calibration" translate="no">​</a></h3>
+<p><strong>Challenge:</strong> How do we know the parameters (a, b, c) for each question?</p>
+<p><strong>Solution: Pilot Testing</strong></p>
+<ol>
+<li class=""><strong>Create new questions</strong> (write 100 questions for &quot;React Hooks&quot; skill)</li>
+<li class=""><strong>Administer to representative sample</strong> (500-1000 students with known abilities)</li>
+<li class=""><strong>Collect response data:</strong> user_id, question_id, correct/incorrect</li>
+<li class=""><strong>Run IRT calibration algorithm</strong> (maximum likelihood or Bayesian methods)</li>
+<li class=""><strong>Extract parameters</strong> for each question</li>
+</ol>
+<p><strong>Example Calibration Results:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Question ID | Topic            | a (disc) | b (diff) | c (guess) | Interpretation</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">----------- | ---------------- | -------- | -------- | --------- | --------------</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">RH_Q1       | useState basics  | 1.2      | -0.8     | 0.20      | Easy, moderate discrimination</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">RH_Q2       | useEffect deps   | 2.1      | +0.3     | 0.15      | Medium, high discrimination (excellent)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">RH_Q3       | Custom hooks     | 1.8      | +1.5     | 0.10      | Hard, good discrimination</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">RH_Q4       | useCallback      | 0.6      | +0.2     | 0.25      | Medium, poor discrimination (revise question)</span><br></div></code></pre></div></div>
+<p><strong>Quality Criteria:</strong></p>
+<ul>
+<li class=""><strong>Good discrimination:</strong> <code>a &gt; 1.5</code> (steep slope, clearly separates abilities)</li>
+<li class=""><strong>Appropriate difficulty spread:</strong> Need questions at b = -2, -1, 0, +1, +2 to cover all ability levels</li>
+<li class=""><strong>Reasonable guessing:</strong> <code>c &lt; 0.30</code> (if higher, question has too many obvious wrong answers)</li>
+</ul>
+<p><strong>Poor Items → Revise or Remove:</strong></p>
+<ul>
+<li class="">RH_Q4 has a = 0.6 (too flat, doesn&#x27;t discriminate) → Rewrite to be more focused</li>
+<li class="">If <code>c &gt; 0.40</code> → Question is too easy to guess → Add more plausible distractors</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="3-how-bkt-and-irt-work-together">3. How BKT and IRT Work Together<a href="#3-how-bkt-and-irt-work-together" class="hash-link" aria-label="Direct link to 3. How BKT and IRT Work Together" title="Direct link to 3. How BKT and IRT Work Together" translate="no">​</a></h2>
+<p><strong>Complementary Strengths:</strong></p>
+<p><strong>BKT:</strong></p>
+<ul>
+<li class="">✅ Models knowledge evolution over time (learning trajectory)</li>
+<li class="">✅ Captures forgetting and decay</li>
+<li class="">✅ Skill-specific mastery tracking</li>
+<li class="">❌ Binary state (learned/not learned), less granular</li>
+<li class="">❌ Doesn&#x27;t quantify item difficulty precisely</li>
+</ul>
+<p><strong>IRT:</strong></p>
+<ul>
+<li class="">✅ Continuous ability scale (very granular)</li>
+<li class="">✅ Precisely calibrated item difficulty</li>
+<li class="">✅ Optimal question selection (maximize information)</li>
+<li class="">❌ Doesn&#x27;t model learning (treats ability as static in short term)</li>
+<li class="">❌ Requires large calibration datasets</li>
+</ul>
+<p><strong>Integrated Adaptive System:</strong></p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="31-dual-model-architecture">3.1 Dual-Model Architecture<a href="#31-dual-model-architecture" class="hash-link" aria-label="Direct link to 3.1 Dual-Model Architecture" title="Direct link to 3.1 Dual-Model Architecture" translate="no">​</a></h3>
+<p><strong>Use BKT for:</strong></p>
+<ol>
+<li class=""><strong>Mastery Decisions:</strong> Has student mastered skill? (P(L) ≥ 0.85 → move to next skill)</li>
+<li class=""><strong>Skill Sequencing:</strong> Which skill to teach next based on dependency graph</li>
+<li class=""><strong>Forgetting Detection:</strong> Prompt review when P(L) decays below threshold</li>
+<li class=""><strong>Long-term Progress:</strong> Track learning rate across all skills (is this student fast/slow learner?)</li>
+</ol>
+<p><strong>Use IRT for:</strong></p>
+<ol>
+<li class=""><strong>Question Selection:</strong> Given student is learning &quot;React Hooks,&quot; which specific question to ask next?</li>
+<li class=""><strong>Ability Estimation:</strong> How proficient is student within this skill? (θ = -1 to +3 range)</li>
+<li class=""><strong>Difficulty Matching:</strong> Ensure questions are in zone of proximal development (P ≈ 0.5-0.7)</li>
+<li class=""><strong>Assessment Precision:</strong> Generate quiz with maximum discrimination</li>
+</ol>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="32-concrete-example-learning-react-hooks">3.2 Concrete Example: Learning React Hooks<a href="#32-concrete-example-learning-react-hooks" class="hash-link" aria-label="Direct link to 3.2 Concrete Example: Learning React Hooks" title="Direct link to 3.2 Concrete Example: Learning React Hooks" translate="no">​</a></h3>
+<p><strong>Student Profile:</strong></p>
+<ul>
+<li class="">Overall programming ability: θ_global = +0.5 (slightly above average)</li>
+<li class="">React Hooks mastery: P(L) = 0.20 (early stage, 20% probability of knowing skill)</li>
+</ul>
+<p><strong>Session Flow:</strong></p>
+<p><strong>1. Skill Selection (BKT-driven):</strong></p>
+<p>Check prerequisite skills:</p>
+<ul>
+<li class="">React Components: P(L) = 0.90 ✓ (mastered)</li>
+<li class="">JavaScript ES6: P(L) = 0.85 ✓ (mastered)</li>
+<li class="">React Hooks: P(L) = 0.20 (ready to learn)</li>
+</ul>
+<p><strong>Decision:</strong> Start learning React Hooks (dependencies satisfied)</p>
+<p><strong>2. Question Selection (IRT-driven):</strong></p>
+<p>Available questions for React Hooks:</p>
+<ul>
+<li class="">Q1 (useState basics): b = -0.5, a = 1.8, c = 0.15</li>
+<li class="">Q2 (useEffect): b = +0.3, a = 2.0, c = 0.10</li>
+<li class="">Q3 (custom hooks): b = +1.5, a = 1.6, c = 0.08</li>
+</ul>
+<p>Current ability estimate for React Hooks: θ_hooks = 0.0 (assume average within skill)</p>
+<p>Information scores:</p>
+<ul>
+<li class="">Q1: I(θ=0) = 0.8 (P = 0.74, too easy)</li>
+<li class="">Q2: I(θ=0) = 1.9 (P = 0.58, good match)</li>
+<li class="">Q3: I(θ=0) = 0.4 (P = 0.15, too hard)</li>
+</ul>
+<p><strong>Decision:</strong> Present Q2 (useEffect) - maximum information</p>
+<p><strong>3. Response Observation:</strong></p>
+<p>Student answers Q2: <strong>INCORRECT</strong></p>
+<p>Time spent: 180 seconds (3 minutes)</p>
+<p>Hints used: 1</p>
+<p><strong>4. Update Models:</strong></p>
+<p><strong>IRT Update:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Before: θ_hooks = 0.0</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">After MLE with incorrect response: θ_hooks = -0.4</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">(Shifted downward, student is below average in this skill)</span><br></div></code></pre></div></div>
+<p><strong>BKT Update:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Before: P(L_hooks) = 0.20</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Observe: Incorrect answer on medium difficulty question</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Bayesian update: P(L | incorrect) = 0.12 (decreased slightly)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Apply learning rate P(T) = 0.30: P(L) = 0.12 + 0.88 × 0.30 = 0.38</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">After: P(L_hooks) = 0.38</span><br></div></code></pre></div></div>
+<p><strong>Interpretation:</strong> Student doesn&#x27;t know useEffect yet (got it wrong), but learned from the attempt. Mastery increased from 20% → 38%.</p>
+<p><strong>5. Next Question Selection (IRT-driven with updated θ):</strong></p>
+<p>Now θ_hooks = -0.4 (below average)</p>
+<p>Recalculate information:</p>
+<ul>
+<li class="">Q1 (b=-0.5): I(θ=-0.4) = 1.5 (P = 0.53, excellent match!)</li>
+<li class="">Q2 (b=+0.3): I(θ=-0.4) = 0.9 (P = 0.39, too hard now)</li>
+<li class="">Q3 (b=+1.5): I(θ=-0.4) = 0.1 (P = 0.05, way too hard)</li>
+</ul>
+<p><strong>Decision:</strong> Present Q1 (useState basics) - easier question matched to updated ability</p>
+<p><strong>6. Second Response:</strong></p>
+<p>Student answers Q1: <strong>CORRECT</strong></p>
+<p>Time spent: 60 seconds</p>
+<p><strong>7. Update Models Again:</strong></p>
+<p><strong>IRT:</strong> θ_hooks = -0.4 → 0.0 (correct answer on matched difficulty → big jump)</p>
+<p><strong>BKT:</strong> P(L_hooks) = 0.38 → 0.65 (correct answer + learning rate)</p>
+<p><strong>8. Continue Loop:</strong></p>
+<p>Repeat question selection → response → update until P(L_hooks) ≥ 0.85 (mastery threshold)</p>
+<p>Typical journey: 8-15 questions to reach mastery</p>
+<p><strong>9. Skill Mastered (BKT decision):</strong></p>
+<p>After 12 questions: P(L_hooks) = 0.87 ✓</p>
+<p><strong>Decision:</strong> Move to next skill in curriculum (e.g., &quot;React Context API&quot;)</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="33-advantages-of-dual-model-system">3.3 Advantages of Dual-Model System<a href="#33-advantages-of-dual-model-system" class="hash-link" aria-label="Direct link to 3.3 Advantages of Dual-Model System" title="Direct link to 3.3 Advantages of Dual-Model System" translate="no">​</a></h3>
+<p><strong>Personalization:</strong></p>
+<ul>
+<li class="">Student A (fast learner, P(T) = 0.40): Reaches mastery in 8 questions</li>
+<li class="">Student B (slow learner, P(T) = 0.20): Reaches mastery in 16 questions</li>
+<li class="">Both reach same final mastery (P(L) = 0.85), but via different paths</li>
+</ul>
+<p><strong>Efficiency:</strong></p>
+<ul>
+<li class="">IRT ensures every question is optimally informative (no wasted easy/hard questions)</li>
+<li class="">BKT ensures no over-practice (stop once mastered, move to next skill)</li>
+</ul>
+<p><strong>Engagement:</strong></p>
+<ul>
+<li class="">Questions always challenging but achievable (P ≈ 0.5-0.7)</li>
+<li class="">Matches Vygotsky&#x27;s Zone of Proximal Development</li>
+<li class="">Reduces frustration (too hard) and boredom (too easy)</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="4-why-most-adaptive-systems-fail">4. Why Most &quot;Adaptive&quot; Systems Fail<a href="#4-why-most-adaptive-systems-fail" class="hash-link" aria-label="Direct link to 4. Why Most &quot;Adaptive&quot; Systems Fail" title="Direct link to 4. Why Most &quot;Adaptive&quot; Systems Fail" translate="no">​</a></h2>
+<p><strong>Common Mistakes:</strong></p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="41-rule-based-pseudo-adaptivity">4.1 Rule-Based Pseudo-Adaptivity<a href="#41-rule-based-pseudo-adaptivity" class="hash-link" aria-label="Direct link to 4.1 Rule-Based Pseudo-Adaptivity" title="Direct link to 4.1 Rule-Based Pseudo-Adaptivity" translate="no">​</a></h3>
+<p><strong>Bad Example:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">IF student gets 3 questions wrong in a row:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    Show easier content</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">ELSE IF student gets 5 questions right in a row:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    Show harder content</span><br></div></code></pre></div></div>
+<p><strong>Why This Fails:</strong></p>
+<ul>
+<li class="">❌ No probabilistic reasoning (3 wrong could be bad luck on hard questions)</li>
+<li class="">❌ Doesn&#x27;t consider question difficulty (3 wrong on b=+2 questions is good performance!)</li>
+<li class="">❌ Arbitrary thresholds (why 3? why not 2 or 4?)</li>
+<li class="">❌ Ignores learning curve (student improves during practice, not captured)</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="42-ai-generated-content-without-calibration">4.2 AI-Generated Content Without Calibration<a href="#42-ai-generated-content-without-calibration" class="hash-link" aria-label="Direct link to 4.2 AI-Generated Content Without Calibration" title="Direct link to 4.2 AI-Generated Content Without Calibration" translate="no">​</a></h3>
+<p><strong>Bad Example:</strong></p>
+<p>&quot;Our AI tutor generates personalized questions using GPT-4!&quot;</p>
+<p><strong>Why This Fails:</strong></p>
+<ul>
+<li class="">❌ No difficulty calibration (don&#x27;t know b, a, c parameters)</li>
+<li class="">❌ Can&#x27;t select optimal next question (no information function)</li>
+<li class="">❌ Difficulty assessment is subjective (&quot;this looks hard&quot; ≠ IRT difficulty)</li>
+<li class="">❌ No feedback loop (can&#x27;t improve question quality over time)</li>
+</ul>
+<p><strong>Fix:</strong> Generate with AI + pilot test with real students + calibrate IRT parameters</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="43-self-assessment-based-systems">4.3 Self-Assessment Based Systems<a href="#43-self-assessment-based-systems" class="hash-link" aria-label="Direct link to 4.3 Self-Assessment Based Systems" title="Direct link to 4.3 Self-Assessment Based Systems" translate="no">​</a></h3>
+<p><strong>Bad Example:</strong></p>
+<p>&quot;Choose your level: Beginner / Intermediate / Advanced&quot;</p>
+<p><strong>Why This Fails:</strong></p>
+<ul>
+<li class="">❌ Students are poor judges of their own ability (Dunning-Kruger effect)</li>
+<li class="">❌ Binary/categorical instead of continuous ability scale</li>
+<li class="">❌ No refinement based on actual performance</li>
+<li class="">❌ Level means different things to different students</li>
+</ul>
+<p><strong>Fix:</strong> Use initial diagnostic test (5-10 questions) to estimate θ, then adapt</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="44-collaborative-filtering-misapplied">4.4 Collaborative Filtering Misapplied<a href="#44-collaborative-filtering-misapplied" class="hash-link" aria-label="Direct link to 4.4 Collaborative Filtering Misapplied" title="Direct link to 4.4 Collaborative Filtering Misapplied" translate="no">​</a></h3>
+<p><strong>Bad Example:</strong></p>
+<p>&quot;Students like you also enjoyed this video on React Hooks!&quot;</p>
+<p><strong>Why This Is NOT Adaptive:</strong></p>
+<ul>
+<li class="">❌ Similarity based on demographics/interests, not ability</li>
+<li class="">❌ Doesn&#x27;t match difficulty to student level</li>
+<li class="">❌ No mastery tracking or learning progression</li>
+<li class="">✅ Useful for content discovery, but call it &quot;recommendation&quot; not &quot;adaptive learning&quot;</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="5-advanced-topics">5. Advanced Topics<a href="#5-advanced-topics" class="hash-link" aria-label="Direct link to 5. Advanced Topics" title="Direct link to 5. Advanced Topics" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="51-multidimensional-irt-mirt">5.1 Multidimensional IRT (MIRT)<a href="#51-multidimensional-irt-mirt" class="hash-link" aria-label="Direct link to 5.1 Multidimensional IRT (MIRT)" title="Direct link to 5.1 Multidimensional IRT (MIRT)" translate="no">​</a></h3>
+<p><strong>Problem:</strong> Skills are not independent. Knowing &quot;loops&quot; helps with &quot;arrays.&quot;</p>
+<p><strong>Solution:</strong> Model ability as vector instead of scalar</p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">θ = [θ_programming, θ_algorithms, θ_web_dev]</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Each question loads on multiple dimensions:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Q1 (fizzbuzz): a_programming = 1.5, a_algorithms = 0.8, a_web_dev = 0.2</span><br></div></code></pre></div></div>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li class="">Captures skill transfer and cross-domain knowledge</li>
+<li class="">More accurate ability estimates</li>
+<li class="">Better question selection (consider all relevant abilities)</li>
+</ul>
+<p><strong>Complexity:</strong> Requires larger calibration datasets (10,000+ students)</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="52-deep-knowledge-tracing-dkt">5.2 Deep Knowledge Tracing (DKT)<a href="#52-deep-knowledge-tracing-dkt" class="hash-link" aria-label="Direct link to 5.2 Deep Knowledge Tracing (DKT)" title="Direct link to 5.2 Deep Knowledge Tracing (DKT)" translate="no">​</a></h3>
+<p><strong>Innovation:</strong> Replace BKT&#x27;s fixed parameters with LSTM neural network</p>
+<p><strong>Architecture:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Input: Sequence of (question_id, correct/incorrect)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">LSTM: Hidden state = learned representation of knowledge state</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">Output: P(correct on next question)</span><br></div></code></pre></div></div>
+<p><strong>Training:</strong> Millions of student interaction sequences</p>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li class="">Automatically discovers optimal &quot;learn rate&quot; and &quot;slip rate&quot; per student</li>
+<li class="">Captures complex patterns (e.g., students learn better after making specific mistakes)</li>
+<li class="">5-10% higher prediction accuracy than BKT</li>
+</ul>
+<p><strong>Drawbacks:</strong></p>
+<ul>
+<li class="">Black box (can&#x27;t interpret like BKT parameters)</li>
+<li class="">Requires huge datasets (100K+ students)</li>
+<li class="">Computationally expensive</li>
+</ul>
+<p><strong>Used by:</strong> Duolingo (2019+), ASSISTments (educational research)</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="53-prerequisite-graphs--skill-dependencies">5.3 Prerequisite Graphs &amp; Skill Dependencies<a href="#53-prerequisite-graphs--skill-dependencies" class="hash-link" aria-label="Direct link to 5.3 Prerequisite Graphs &amp; Skill Dependencies" title="Direct link to 5.3 Prerequisite Graphs &amp; Skill Dependencies" translate="no">​</a></h3>
+<p><strong>Problem:</strong> Skills have dependencies (can&#x27;t learn recursion without loops)</p>
+<p><strong>Solution: Bayesian Networks</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">Graph:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    Variables → Conditionals → Loops → Recursion → Dynamic Programming</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">                                ↓</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">                            Functions → Higher-Order Functions</span><br></div></code></pre></div></div>
+<p><strong>BKT Extension:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">P(Learn_Recursion | Know_Loops=True, Know_Functions=True) = 0.40</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">P(Learn_Recursion | Know_Loops=True, Know_Functions=False) = 0.25</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">P(Learn_Recursion | Know_Loops=False) = 0.10</span><br></div></code></pre></div></div>
+<p><strong>Adaptive Decision:</strong></p>
+<p>Before teaching Recursion, ensure:</p>
+<ul>
+<li class="">P(L_Loops) ≥ 0.85 AND</li>
+<li class="">P(L_Functions) ≥ 0.85</li>
+</ul>
+<p>Otherwise, remediate prerequisite skills first.</p>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="6-implementing-adaptive-learning-key-decisions">6. Implementing Adaptive Learning: Key Decisions<a href="#6-implementing-adaptive-learning-key-decisions" class="hash-link" aria-label="Direct link to 6. Implementing Adaptive Learning: Key Decisions" title="Direct link to 6. Implementing Adaptive Learning: Key Decisions" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="61-model-selection-matrix">6.1 Model Selection Matrix<a href="#61-model-selection-matrix" class="hash-link" aria-label="Direct link to 6.1 Model Selection Matrix" title="Direct link to 6.1 Model Selection Matrix" translate="no">​</a></h3>
+<table><thead><tr><th>Use Case</th><th>Best Approach</th><th>Why</th></tr></thead><tbody><tr><td>K-12 Math (procedural skills)</td><td>BKT + IRT</td><td>Clear skill decomposition, large item banks</td></tr><tr><td>Language Learning (vocabulary)</td><td>IRT + Spaced Repetition</td><td>Forgetting is critical, difficulty calibration important</td></tr><tr><td>Programming (problem-solving)</td><td>IRT + MIRT</td><td>Multi-dimensional (syntax, algorithms, debugging)</td></tr><tr><td>Professional Certification</td><td>IRT (CAT)</td><td>High-stakes, need precise ability measurement</td></tr><tr><td>Conceptual Learning (history, philosophy)</td><td>Concept Mapping + Bayesian</td><td>Skills less discrete, focus on relationships</td></tr></tbody></table>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="62-calibration-requirements">6.2 Calibration Requirements<a href="#62-calibration-requirements" class="hash-link" aria-label="Direct link to 6.2 Calibration Requirements" title="Direct link to 6.2 Calibration Requirements" translate="no">​</a></h3>
+<p><strong>Minimum Viable Adaptive System:</strong></p>
+<ul>
+<li class=""><strong>Item Bank:</strong> 200+ questions per skill (covering b = -2 to +2)</li>
+<li class=""><strong>Calibration Data:</strong> 500+ students per skill (for accurate IRT parameters)</li>
+<li class=""><strong>Parameter Update Frequency:</strong> Monthly (as new data accumulates)</li>
+</ul>
+<p><strong>Cold Start Problem:</strong></p>
+<ul>
+<li class=""><strong>New Question:</strong> No calibration data yet</li>
+<li class=""><strong>Temporary Solution:</strong> Use expert estimate (teacher rates difficulty 1-10 → convert to b)</li>
+<li class=""><strong>Adaptive Calibration:</strong> Show to random sample of students, update parameters after 50 responses</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="63-mastery-threshold-selection">6.3 Mastery Threshold Selection<a href="#63-mastery-threshold-selection" class="hash-link" aria-label="Direct link to 6.3 Mastery Threshold Selection" title="Direct link to 6.3 Mastery Threshold Selection" translate="no">​</a></h3>
+<p><strong>Research-Based Thresholds:</strong></p>
+<table><thead><tr><th>Domain</th><th>Threshold</th><th>Rationale</th></tr></thead><tbody><tr><td>Medical Training</td><td><code>P(L) ≥ 0.95</code></td><td>Safety-critical, high stakes</td></tr><tr><td>K-12 Core Math</td><td><code>P(L) ≥ 0.85</code></td><td>Foundation for future learning</td></tr><tr><td>Test Prep (SAT, GRE)</td><td><code>P(L) ≥ 0.80</code></td><td>Need high accuracy under time pressure</td></tr><tr><td>Vocational Skills</td><td><code>P(L) ≥ 0.75</code></td><td>Performance matters more than recall</td></tr><tr><td>Casual Learning (Duolingo)</td><td><code>P(L) ≥ 0.70</code></td><td><code>Engagement &gt; mastery</code>, lower barrier</td></tr></tbody></table>
+<p><strong>Dynamic Thresholds:</strong></p>
+<p>Adjust based on skill importance:</p>
+<ul>
+<li class="">Core prerequisite skills: 0.90</li>
+<li class="">Supporting skills: 0.75</li>
+<li class="">Enrichment topics: 0.60</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="64-balancing-exploration-vs-exploitation">6.4 Balancing Exploration vs Exploitation<a href="#64-balancing-exploration-vs-exploitation" class="hash-link" aria-label="Direct link to 6.4 Balancing Exploration vs Exploitation" title="Direct link to 6.4 Balancing Exploration vs Exploitation" translate="no">​</a></h3>
+<p><strong>Exploration:</strong> Give questions to maximize information about ability</p>
+<p><strong>Exploitation:</strong> Give questions at optimal difficulty for learning</p>
+<p><strong>Pure IRT (CAT):</strong> 100% exploration (find θ as fast as possible)</p>
+<p><strong>Adaptive Learning:</strong> 70% exploitation (learn) + 30% exploration (assess)</p>
+<p><strong>Implementation:</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token plain">For each question selection:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    With 70% probability:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        Select question where P(correct) ≈ 0.65-0.75 (slightly challenging, promotes learning)</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    With 30% probability:</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">        Select question where P(correct) ≈ 0.50 (maximum information, assessment)</span><br></div></code></pre></div></div>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="7-measuring-adaptive-system-quality">7. Measuring Adaptive System Quality<a href="#7-measuring-adaptive-system-quality" class="hash-link" aria-label="Direct link to 7. Measuring Adaptive System Quality" title="Direct link to 7. Measuring Adaptive System Quality" translate="no">​</a></h2>
+<p><strong>Key Metrics:</strong></p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="71-prediction-accuracy">7.1 Prediction Accuracy<a href="#71-prediction-accuracy" class="hash-link" aria-label="Direct link to 7.1 Prediction Accuracy" title="Direct link to 7.1 Prediction Accuracy" translate="no">​</a></h3>
+<p><strong>Question:</strong> How well does model predict student responses?</p>
+<p><strong>Metric: AUC (Area Under ROC Curve)</strong></p>
+<ul>
+<li class="">Perfect prediction: AUC = 1.0</li>
+<li class="">Random guessing: AUC = 0.5</li>
+<li class="">Good adaptive system: <code>AUC &gt; 0.75</code></li>
+<li class="">Excellent adaptive system: <code>AUC &gt; 0.85</code></li>
+</ul>
+<p><strong>Calculation:</strong></p>
+<p>For each student-question pair in test set:</p>
+<ol>
+<li class="">Predict P(correct) using current model</li>
+<li class="">Observe actual response (correct/incorrect)</li>
+<li class="">Calculate true positive rate vs false positive rate across all predictions</li>
+<li class="">AUC = area under this curve</li>
+</ol>
+<p><strong>Comparison:</strong></p>
+<ul>
+<li class="">Simple rule-based: AUC ≈ 0.60-0.65</li>
+<li class="">BKT only: AUC ≈ 0.70-0.75</li>
+<li class="">IRT only: AUC ≈ 0.72-0.78</li>
+<li class="">BKT + IRT: AUC ≈ 0.78-0.82</li>
+<li class="">Deep Knowledge Tracing: AUC ≈ 0.82-0.86</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="72-learning-efficiency">7.2 Learning Efficiency<a href="#72-learning-efficiency" class="hash-link" aria-label="Direct link to 7.2 Learning Efficiency" title="Direct link to 7.2 Learning Efficiency" translate="no">​</a></h3>
+<p><strong>Question:</strong> Do students reach mastery faster with adaptive vs fixed curriculum?</p>
+<p><strong>Metric: Time to Mastery</strong></p>
+<ul>
+<li class="">Fixed curriculum (everyone does 50 questions): 90 minutes average</li>
+<li class="">Adaptive (personalized): 60 minutes average → <strong>33% efficiency gain</strong></li>
+</ul>
+<p><strong>A/B Test:</strong></p>
+<ul>
+<li class="">Group A: Fixed curriculum, linear progression</li>
+<li class="">Group B: Adaptive (BKT + IRT)</li>
+<li class="">Measure: Time to reach P(L) ≥ 0.85</li>
+<li class="">Typical result: 25-40% reduction in time for adaptive group</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="73-retention--transfer">7.3 Retention &amp; Transfer<a href="#73-retention--transfer" class="hash-link" aria-label="Direct link to 7.3 Retention &amp; Transfer" title="Direct link to 7.3 Retention &amp; Transfer" translate="no">​</a></h3>
+<p><strong>Question:</strong> Do students retain knowledge better with adaptive approach?</p>
+<p><strong>Metric: Delayed Post-Test (1 week later)</strong></p>
+<ul>
+<li class="">Fixed curriculum: 65% accuracy on delayed test</li>
+<li class="">Adaptive: 78% accuracy → <strong>20% improvement in retention</strong></li>
+</ul>
+<p><strong>Why Adaptive Helps Retention:</strong></p>
+<ul>
+<li class="">Optimal difficulty (desirable difficulty, Bjork)</li>
+<li class="">Spaced repetition (revisit skills when P(L) decays)</li>
+<li class="">Reduced cognitive overload (never too hard)</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="8-conclusion-the-math-matters">8. Conclusion: The Math Matters<a href="#8-conclusion-the-math-matters" class="hash-link" aria-label="Direct link to 8. Conclusion: The Math Matters" title="Direct link to 8. Conclusion: The Math Matters" translate="no">​</a></h2>
+<p><strong>Key Takeaway:</strong> Adaptive learning is not a buzzword or marketing term. It&#x27;s a precise mathematical framework based on 70 years of psychometric research.</p>
+<p><strong>Requirements for True Adaptivity:</strong></p>
+<ol>
+<li class="">✅ <strong>Probabilistic student model</strong> (BKT, IRT, or equivalent)</li>
+<li class="">✅ <strong>Calibrated item difficulty</strong> (from pilot data, not subjective judgment)</li>
+<li class="">✅ <strong>Continuous model updates</strong> (every interaction refines beliefs)</li>
+<li class="">✅ <strong>Optimal question selection</strong> (maximize information or learning gain)</li>
+<li class="">✅ <strong>Mastery-based progression</strong> (move forward only when P(L) ≥ threshold)</li>
+</ol>
+<p><strong>Without These:</strong> You have &quot;personalized content&quot; or &quot;AI-generated practice,&quot; but NOT adaptive learning.</p>
+<p><strong>The Competitive Advantage:</strong></p>
+<p>Platforms with real adaptive algorithms (Duolingo, ALEKS, GRE/GMAT) achieve:</p>
+<ul>
+<li class="">30-50% reduction in time to mastery</li>
+<li class="">15-25% improvement in retention</li>
+<li class="">2-3x higher engagement (students don&#x27;t quit from frustration/boredom)</li>
+<li class="">Measurable outcomes (can prove skill acquisition with confidence intervals)</li>
+</ul>
+<p><strong>The Market Opportunity:</strong></p>
+<p>Most edtech platforms claim &quot;adaptive&quot; but use simple rules. Building true IRT/BKT systems is hard (requires data science + learning science expertise), which creates a moat for those who do it right.</p>
+<hr>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="references--further-reading">References &amp; Further Reading<a href="#references--further-reading" class="hash-link" aria-label="Direct link to References &amp; Further Reading" title="Direct link to References &amp; Further Reading" translate="no">​</a></h2>
+<p><strong>Foundational Papers:</strong></p>
+<ul>
+<li class="">Corbett, A. T., &amp; Anderson, J. R. (1994). <em>Knowledge tracing: Modeling the acquisition of procedural knowledge</em>. User Modeling and User-Adapted Interaction, 4(4), 253-278.</li>
+<li class="">Lord, F. M. (1980). <em>Applications of item response theory to practical testing problems</em>. Routledge.</li>
+<li class="">Embretson, S. E., &amp; Reise, S. P. (2000). <em>Item response theory for psychologists</em>. Psychology Press.</li>
+</ul>
+<p><strong>Modern Extensions:</strong></p>
+<ul>
+<li class="">Piech, C., et al. (2015). <em>Deep knowledge tracing</em>. Advances in neural information processing systems.</li>
+<li class="">Khajah, M., et al. (2016). <em>How deep is knowledge tracing?</em> Proceedings of Educational Data Mining.</li>
+<li class="">van der Linden, W. J., &amp; Glas, C. A. (Eds.). (2010). <em>Elements of adaptive testing</em>. Springer.</li>
+</ul>
+<p><strong>Practical Implementations:</strong></p>
+<ul>
+<li class="">Duolingo&#x27;s Half-Life Regression model (2016): <a href="https://research.duolingo.com/papers/settles.acl16.pdf" target="_blank" rel="noopener noreferrer" class="">https://research.duolingo.com/papers/settles.acl16.pdf</a></li>
+<li class="">ALEKS (Assessment and Learning in Knowledge Spaces): <a href="https://www.aleks.com/about_aleks/Science_Behind_ALEKS.pdf" target="_blank" rel="noopener noreferrer" class="">https://www.aleks.com/about_aleks/Science_Behind_ALEKS.pdf</a></li>
+<li class="">Khan Academy&#x27;s research on adaptive practice: <a href="https://www.khanacademy.org/research" target="_blank" rel="noopener noreferrer" class="">https://www.khanacademy.org/research</a></li>
+</ul>
+<p><strong>Open-Source Libraries:</strong></p>
+<ul>
+<li class="">pyBKT (Python): <a href="https://github.com/CAHLR/pyBKT" target="_blank" rel="noopener noreferrer" class="">https://github.com/CAHLR/pyBKT</a></li>
+<li class="">py-irt (Python): <a href="https://github.com/nd-ball/py-irt" target="_blank" rel="noopener noreferrer" class="">https://github.com/nd-ball/py-irt</a></li>
+<li class="">mirt (R): <a href="https://github.com/philchalmers/mirt" target="_blank" rel="noopener noreferrer" class="">https://github.com/philchalmers/mirt</a></li>
+</ul>
+<hr>
+<p><strong>Document Metadata:</strong></p>
+<ul>
+<li class="">Created: 2026-05-05</li>
+<li class="">Focus: Conceptual understanding of adaptive learning algorithms</li>
+<li class="">Target Audience: Founders, product managers, learning scientists</li>
+<li class="">See Also:<!-- -->
+<ul>
+<li class=""><a class="" href="/education/technical/technical-feasibility-adaptive-platform">Technical Feasibility - Adaptive Platform</a> for implementation code</li>
+<li class=""><a class="" href="/education/pedagogy/spaced-repetition">Spaced Repetition</a> for SRS algorithms (SM-2, FSRS) and review scheduling optimization</li>
+</ul>
+</li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/education/pedagogy/adaptive-learning-algorithms.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2026-06-20T19:06:29.000Z" itemprop="dateModified">Jun 20, 2026</time></b> by <b>Deepak Sood</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/education/pedagogy/readme"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Exploring Effective Pedagogy Techniques</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/education/pedagogy/adaptive-learning-platform"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Adaptive Learning for Professionals</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#what-is-true-adaptive-learning" class="table-of-contents__link toc-highlight">What is True Adaptive Learning?</a></li><li><a href="#1-bayesian-knowledge-tracing-bkt" class="table-of-contents__link toc-highlight">1. Bayesian Knowledge Tracing (BKT)</a><ul><li><a href="#11-the-bkt-model" class="table-of-contents__link toc-highlight">1.1 The BKT Model</a></li><li><a href="#12-how-bkt-updates-beliefs" class="table-of-contents__link toc-highlight">1.2 How BKT Updates Beliefs</a></li><li><a href="#13-mastery-threshold" class="table-of-contents__link toc-highlight">1.3 Mastery Threshold</a></li><li><a href="#14-forgetting--decay" class="table-of-contents__link toc-highlight">1.4 Forgetting &amp; Decay</a></li><li><a href="#15-extensions--improvements" class="table-of-contents__link toc-highlight">1.5 Extensions &amp; Improvements</a></li></ul></li><li><a href="#2-item-response-theory-irt" class="table-of-contents__link toc-highlight">2. Item Response Theory (IRT)</a><ul><li><a href="#21-the-3-parameter-logistic-3pl-model" class="table-of-contents__link toc-highlight">2.1 The 3-Parameter Logistic (3PL) Model</a></li><li><a href="#22-probability-curves-item-characteristic-curves" class="table-of-contents__link toc-highlight">2.2 Probability Curves (Item Characteristic Curves)</a></li><li><a href="#23-estimating-student-ability-θ" class="table-of-contents__link toc-highlight">2.3 Estimating Student Ability (θ)</a></li><li><a href="#24-adaptive-question-selection" class="table-of-contents__link toc-highlight">2.4 Adaptive Question Selection</a></li><li><a href="#25-computerized-adaptive-testing-cat" class="table-of-contents__link toc-highlight">2.5 Computerized Adaptive Testing (CAT)</a></li><li><a href="#26-item-calibration" class="table-of-contents__link toc-highlight">2.6 Item Calibration</a></li></ul></li><li><a href="#3-how-bkt-and-irt-work-together" class="table-of-contents__link toc-highlight">3. How BKT and IRT Work Together</a><ul><li><a href="#31-dual-model-architecture" class="table-of-contents__link toc-highlight">3.1 Dual-Model Architecture</a></li><li><a href="#32-concrete-example-learning-react-hooks" class="table-of-contents__link toc-highlight">3.2 Concrete Example: Learning React Hooks</a></li><li><a href="#33-advantages-of-dual-model-system" class="table-of-contents__link toc-highlight">3.3 Advantages of Dual-Model System</a></li></ul></li><li><a href="#4-why-most-adaptive-systems-fail" class="table-of-contents__link toc-highlight">4. Why Most &quot;Adaptive&quot; Systems Fail</a><ul><li><a href="#41-rule-based-pseudo-adaptivity" class="table-of-contents__link toc-highlight">4.1 Rule-Based Pseudo-Adaptivity</a></li><li><a href="#42-ai-generated-content-without-calibration" class="table-of-contents__link toc-highlight">4.2 AI-Generated Content Without Calibration</a></li><li><a href="#43-self-assessment-based-systems" class="table-of-contents__link toc-highlight">4.3 Self-Assessment Based Systems</a></li><li><a href="#44-collaborative-filtering-misapplied" class="table-of-contents__link toc-highlight">4.4 Collaborative Filtering Misapplied</a></li></ul></li><li><a href="#5-advanced-topics" class="table-of-contents__link toc-highlight">5. Advanced Topics</a><ul><li><a href="#51-multidimensional-irt-mirt" class="table-of-contents__link toc-highlight">5.1 Multidimensional IRT (MIRT)</a></li><li><a href="#52-deep-knowledge-tracing-dkt" class="table-of-contents__link toc-highlight">5.2 Deep Knowledge Tracing (DKT)</a></li><li><a href="#53-prerequisite-graphs--skill-dependencies" class="table-of-contents__link toc-highlight">5.3 Prerequisite Graphs &amp; Skill Dependencies</a></li></ul></li><li><a href="#6-implementing-adaptive-learning-key-decisions" class="table-of-contents__link toc-highlight">6. Implementing Adaptive Learning: Key Decisions</a><ul><li><a href="#61-model-selection-matrix" class="table-of-contents__link toc-highlight">6.1 Model Selection Matrix</a></li><li><a href="#62-calibration-requirements" class="table-of-contents__link toc-highlight">6.2 Calibration Requirements</a></li><li><a href="#63-mastery-threshold-selection" class="table-of-contents__link toc-highlight">6.3 Mastery Threshold Selection</a></li><li><a href="#64-balancing-exploration-vs-exploitation" class="table-of-contents__link toc-highlight">6.4 Balancing Exploration vs Exploitation</a></li></ul></li><li><a href="#7-measuring-adaptive-system-quality" class="table-of-contents__link toc-highlight">7. Measuring Adaptive System Quality</a><ul><li><a href="#71-prediction-accuracy" class="table-of-contents__link toc-highlight">7.1 Prediction Accuracy</a></li><li><a href="#72-learning-efficiency" class="table-of-contents__link toc-highlight">7.2 Learning Efficiency</a></li><li><a href="#73-retention--transfer" class="table-of-contents__link toc-highlight">7.3 Retention &amp; Transfer</a></li></ul></li><li><a href="#8-conclusion-the-math-matters" class="table-of-contents__link toc-highlight">8. Conclusion: The Math Matters</a></li><li><a href="#references--further-reading" class="table-of-contents__link toc-highlight">References &amp; Further Reading</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>
