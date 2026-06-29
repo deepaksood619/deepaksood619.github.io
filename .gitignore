@@ -161,7 +161,10 @@ desktop.ini
 # git update-index --assume-unchanged docs/.obsidian/workspace.json
 workspace.json
 # git update-index --assume-unchanged docs/.obsidian/plugins/recent-files-obsidian/data.json
-data.json
+docs/.obsidian/plugins/meld-encrypt/data.json
+docs/.obsidian/plugins/github-stars/data.json
+docs/.obsidian/plugins/editor-width-slider/data.json
+docs/.obsidian/plugins/copilot/data.json
 graph.json
 .claude
 docs/.obsidian/plugins/learnkit/configuration/api-keys.json

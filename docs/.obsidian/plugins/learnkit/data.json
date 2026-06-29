@@ -1,0 +1,440 @@
+{
+  "settings": {
+    "general": {
+      "interfaceLanguage": "obsidian",
+      "userName": "Deepak",
+      "showGreeting": true,
+      "hasOpenedHome": false,
+      "pinnedDecks": [],
+      "workspaceContentZoom": 1.104,
+      "githubStars": {
+        "count": 132,
+        "fetchedAt": 1782488943437
+      },
+      "enableAnimations": true,
+      "themePreset": "glass",
+      "themeAccentOverride": "#37abb3",
+      "showLaunchNoticeModal": true,
+      "enableReadingStyles": true,
+      "prettifyCards": "accent",
+      "syncPrivileges": "simple-safe",
+      "syncPrivilegesChoiceVersion": 1
+    },
+    "study": {
+      "showInfoByDefault": false,
+      "dailyNewLimit": 10,
+      "dailyReviewLimit": 200,
+      "autoAdvanceEnabled": false,
+      "autoAdvanceSeconds": 60,
+      "fourButtonMode": true,
+      "showGradeIntervals": true,
+      "enableSkipButton": true,
+      "randomizeMcqOptions": true,
+      "randomizeOqOrder": true,
+      "siblingMode": "standard",
+      "treatFolderNotesAsDecks": true,
+      "analyticsIncludePracticeNoteReview": true,
+      "analyticsTopicHierarchy": "folder-group-topic",
+      "analyticsMasteryThresholds": {
+        "redMax": 59,
+        "yellowMax": 79
+      },
+      "analyticsFocusTopicCount": 7,
+      "hideSessionTopbar": false
+    },
+    "studyAssistant": {
+      "enabled": true,
+      "location": "modal",
+      "modalButtonVisibility": "hover",
+      "voiceChat": false,
+      "provider": "openai",
+      "openRouterTier": "free",
+      "model": "gpt-4.1-mini",
+      "endpointOverride": "",
+      "apiKeys": {
+        "openai": "",
+        "anthropic": "",
+        "deepseek": "",
+        "xai": "",
+        "google": "",
+        "perplexity": "",
+        "openrouter": "",
+        "custom": ""
+      },
+      "prompts": {
+        "assistant": "",
+        "noteReview": "Review this note for correctness, clarity, and exam readiness. Suggest concrete improvements. Focus on inaccuracies, missing content, and study-quality feedback. Do NOT generate flashcards in this mode — use the Generate tab for flashcard creation.",
+        "generator": "Generate high-quality flashcards from this note. Avoid duplicates and prioritize testable facts.",
+        "tests": ""
+      },
+      "generatorTypes": {
+        "basic": true,
+        "reversed": true,
+        "cloze": true,
+        "mcq": true,
+        "oq": true,
+        "io": true,
+        "combo": true
+      },
+      "generatorTargetCount": 5,
+      "generatorOutput": {
+        "includeTitle": true,
+        "includeInfo": true,
+        "includeGroups": false
+      },
+      "privacy": {
+        "autoSendOnOpen": false,
+        "includeImagesInAsk": true,
+        "includeImagesInReview": true,
+        "includeImagesInFlashcard": true,
+        "includeAttachmentsInCompanion": false,
+        "includeLinkedNotesInCompanion": false,
+        "includeLinkedAttachmentsInCompanion": false,
+        "includeAttachmentsInExam": false,
+        "includeLinkedNotesInExam": false,
+        "includeLinkedAttachmentsInExam": false,
+        "linkedContextLimit": "standard",
+        "textAttachmentContextLimit": "standard",
+        "previewPayload": true,
+        "saveChatHistory": true,
+        "syncDeletesToProvider": false
+      }
+    },
+    "reminders": {
+      "showOnStartup": true,
+      "startupDelayMs": 5000,
+      "repeatEnabled": true,
+      "repeatIntervalMinutes": 240,
+      "gatekeeperEnabled": true,
+      "gatekeeperOnStartup": true,
+      "gatekeeperIntervalMinutes": 240,
+      "gatekeeperDueQuestionCount": 3,
+      "gatekeeperScope": "workspace",
+      "gatekeeperPauseWhenStudying": true,
+      "gatekeeperAllowSkip": true,
+      "gatekeeperBypassWarning": true,
+      "showWhenNoDue": false,
+      "message": "",
+      "clickAction": "open-home"
+    },
+    "scheduling": {
+      "learningStepsMinutes": [
+        10,
+        1440
+      ],
+      "relearningStepsMinutes": [
+        10
+      ],
+      "requestRetention": 0.9,
+      "enableFuzz": true
+    },
+    "noteReview": {
+      "algorithm": "fsrs",
+      "enableSessionAnimations": true,
+      "avoidFolderNotes": false,
+      "filterQuery": "-path:office",
+      "reviewsPerDay": 10,
+      "reviewStepsDays": [
+        1,
+        7,
+        30,
+        365
+      ],
+      "fillFromFutureWhenUnderLimit": true,
+      "fsrsRetention": 0.9,
+      "fsrsLearningStepsMinutes": [
+        10,
+        1440
+      ],
+      "fsrsRelearningStepsMinutes": [
+        10
+      ],
+      "fsrsEnableFuzz": true
+    },
+    "cards": {
+      "clozeMode": "standard",
+      "clozeBgColor": "",
+      "clozeTextColor": "",
+      "multipleChoiceAutoGrade": true,
+      "orderedQuestionsAutoGrade": true,
+      "selectionPrefillTarget": "question",
+      "hotspotSingleInteractionMode": "smart",
+      "hotspotShowDropLocationHint": true
+    },
+    "indexing": {
+      "ignoreInCodeFences": true,
+      "idPlacement": "above",
+      "delimiter": "|",
+      "syncFilterQuery": "-path:office"
+    },
+    "imageOcclusion": {
+      "defaultMaskMode": "solo",
+      "revealMode": "group"
+    },
+    "readingView": {
+      "preset": "markdown",
+      "advancedEnabled": false,
+      "layout": "vertical",
+      "cardMode": "full",
+      "visibleFields": {
+        "title": true,
+        "question": true,
+        "options": true,
+        "answer": true,
+        "info": true,
+        "groups": true,
+        "edit": false
+      },
+      "displayLabels": true,
+      "cardBgLight": "",
+      "cardBgDark": "",
+      "cardBorderLight": "",
+      "cardBorderDark": "",
+      "cardAccentLight": "",
+      "cardAccentDark": "",
+      "fontSize": 0.9,
+      "activeMacro": "markdown",
+      "macroConfigs": {
+        "flashcards": {
+          "fields": {
+            "title": false,
+            "question": true,
+            "options": false,
+            "answer": true,
+            "info": false,
+            "groups": false,
+            "edit": false,
+            "labels": false,
+            "displayAudioButton": true,
+            "displayEditButton": true
+          },
+          "colours": {
+            "autoDarkAdjust": true,
+            "cardBgLight": "",
+            "cardBgDark": "",
+            "cardBorderLight": "",
+            "cardBorderDark": "",
+            "cardAccentLight": "",
+            "cardAccentDark": "",
+            "cardTextLight": "",
+            "cardTextDark": "",
+            "cardMutedLight": "",
+            "cardMutedDark": "",
+            "clozeBgLight": "",
+            "clozeTextLight": "",
+            "clozeBgDark": "",
+            "clozeTextDark": ""
+          }
+        },
+        "classic": {
+          "fields": {
+            "title": true,
+            "question": true,
+            "options": true,
+            "answer": true,
+            "info": true,
+            "groups": true,
+            "edit": true,
+            "labels": true,
+            "displayAudioButton": true,
+            "displayEditButton": true
+          },
+          "colours": {
+            "autoDarkAdjust": true,
+            "cardBgLight": "",
+            "cardBgDark": "",
+            "cardBorderLight": "",
+            "cardBorderDark": "",
+            "cardAccentLight": "",
+            "cardAccentDark": "",
+            "cardTextLight": "",
+            "cardTextDark": "",
+            "cardMutedLight": "",
+            "cardMutedDark": "",
+            "clozeBgLight": "",
+            "clozeTextLight": "",
+            "clozeBgDark": "",
+            "clozeTextDark": ""
+          }
+        },
+        "guidebook": {
+          "fields": {
+            "title": true,
+            "question": true,
+            "options": true,
+            "answer": true,
+            "info": true,
+            "groups": true,
+            "edit": true,
+            "labels": true,
+            "displayAudioButton": true,
+            "displayEditButton": true
+          },
+          "colours": {
+            "autoDarkAdjust": true,
+            "cardBgLight": "",
+            "cardBgDark": "",
+            "cardBorderLight": "",
+            "cardBorderDark": "",
+            "cardAccentLight": "",
+            "cardAccentDark": "",
+            "cardTextLight": "",
+            "cardTextDark": "",
+            "cardMutedLight": "",
+            "cardMutedDark": "",
+            "clozeBgLight": "",
+            "clozeTextLight": "",
+            "clozeBgDark": "",
+            "clozeTextDark": ""
+          }
+        },
+        "markdown": {
+          "fields": {
+            "title": true,
+            "question": true,
+            "options": true,
+            "answer": true,
+            "info": true,
+            "groups": true,
+            "edit": false,
+            "labels": true,
+            "displayAudioButton": true,
+            "displayEditButton": false
+          },
+          "colours": {
+            "autoDarkAdjust": true,
+            "cardBgLight": "",
+            "cardBgDark": "",
+            "cardBorderLight": "",
+            "cardBorderDark": "",
+            "cardAccentLight": "",
+            "cardAccentDark": "",
+            "cardTextLight": "",
+            "cardTextDark": "",
+            "cardMutedLight": "",
+            "cardMutedDark": "",
+            "clozeBgLight": "",
+            "clozeTextLight": "",
+            "clozeBgDark": "",
+            "clozeTextDark": ""
+          }
+        },
+        "custom": {
+          "fields": {
+            "title": true,
+            "question": true,
+            "options": true,
+            "answer": true,
+            "info": true,
+            "groups": true,
+            "edit": true,
+            "labels": true,
+            "displayAudioButton": true,
+            "displayEditButton": true
+          },
+          "colours": {
+            "autoDarkAdjust": true,
+            "cardBgLight": "",
+            "cardBgDark": "",
+            "cardBorderLight": "",
+            "cardBorderDark": "",
+            "cardAccentLight": "",
+            "cardAccentDark": "",
+            "cardTextLight": "",
+            "cardTextDark": "",
+            "cardMutedLight": "",
+            "cardMutedDark": "",
+            "clozeBgLight": "",
+            "clozeTextLight": "",
+            "clozeBgDark": "",
+            "clozeTextDark": ""
+          },
+          "customCss": ""
+        }
+      }
+    },
+    "storage": {
+      "imageOcclusionFolderPath": "Attachments/Image Occlusion/",
+      "hotspotFolderPath": "Attachments/Image Occlusion/",
+      "deleteOrphanedImages": true,
+      "cardAttachmentFolderPath": "Attachments/Cards/",
+      "vaultSync": {
+        "enabled": false,
+        "folderPath": "LearnKit/"
+      },
+      "backups": {
+        "rollingDailyEnabled": true,
+        "recentCount": 8,
+        "dailyCount": 7,
+        "weeklyCount": 4,
+        "monthlyCount": 1,
+        "recentIntervalHours": 6,
+        "dailyIntervalDays": 1,
+        "weeklyIntervalDays": 7,
+        "monthlyIntervalDays": 30,
+        "maxTotalSizeMb": 250
+      }
+    },
+    "audio": {
+      "enabled": false,
+      "autoplay": true,
+      "limitToGroup": "",
+      "basicFront": false,
+      "basicBack": false,
+      "widgetReplay": true,
+      "gatekeeperReplay": false,
+      "clozeFront": false,
+      "clozeRevealed": false,
+      "clozeAnswerMode": "cloze-only",
+      "defaultLanguage": "en-US",
+      "autoDetectLanguage": true,
+      "scriptLanguages": {
+        "cyrillic": "ru-RU",
+        "arabic": "ar-SA",
+        "cjk": "zh-CN",
+        "devanagari": "mr-IN"
+      },
+      "useFlagsForVoiceSelection": true,
+      "speakFlagLanguageLabel": false,
+      "rate": 1,
+      "pitch": 1,
+      "preferredVoiceURI": "",
+      "ttsProvider": "browser",
+      "ttsVoiceId": "",
+      "ttsModel": "",
+      "ttsEndpointOverride": "",
+      "ttsCacheEnabled": true,
+      "ttsApiKeys": {
+        "elevenlabs": "",
+        "openai": "",
+        "google-cloud": "",
+        "custom": ""
+      }
+    }
+  },
+  "browserPrefs": {
+    "density": "compact",
+    "cols": {
+      "comfortable": [
+        "id",
+        "type",
+        "stage",
+        "due",
+        "title",
+        "question",
+        "answer",
+        "info",
+        "location",
+        "groups"
+      ],
+      "compact": [
+        "type",
+        "title",
+        "question",
+        "answer",
+        "info",
+        "groups"
+      ]
+    }
+  }
+}
