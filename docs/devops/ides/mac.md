@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-06-29
+updated: 2026-06-30
 ---
 ## Shortcuts
 
@@ -544,9 +544,31 @@ alias pip=/usr/local/bin/pip3
 
 alias publicIp="curl wgetip.com"
 
-alias file_encrypt='openssl enc -aes-256-cbc -salt -pbkdf2 -in enc_file.md -out enc_file.md.enc && rm -rf enc_file.md'
+# Encrypt Function (with auto-delete)
+file_encrypt() {
+    if [ -z "$1" ]; then
+        echo "Error: Please provide a filename base."
+        echo "Usage: file_encrypt deepak-wal1"
+        return 1
+    fi
 
-alias file_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -in enc_file.md.enc -out enc_file.md && rm -rf enc_file.md.enc'
+    openssl enc -aes-256-cbc -salt -pbkdf2 -iter 100000 -in "${1}.mdenc" -out "${1}.mdenc.enc" && rm -rf "${1}.mdenc"
+
+    echo "Success: Encrypted ${1}.mdenc and removed the original."
+}
+
+# Decrypt Function (with auto-delete)
+file_decrypt() {
+    if [ -z "$1" ]; then
+        echo "Error: Please provide a filename base."
+        echo "Usage: file_decrypt deepak-wal1"
+        return 1
+    fi
+
+    openssl enc -d -aes-256-cbc -salt -pbkdf2 -iter 100000 -in "${1}.mdenc.enc" -out "${1}.mdenc" && rm -rf "${1}.mdenc.enc"
+
+    echo "Success: Decrypted to ${1}.mdenc and removed the encrypted vault."
+}
 ```
 
 #### Alias

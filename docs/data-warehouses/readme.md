@@ -3,7 +3,7 @@ slug: /data-warehouses/readme
 title: Data Warehouses
 description: Explore key concepts of data warehouses, including Databricks, Snowflake, Amazon Redshift, and others, to enhance your data analytics strategy.
 created: 2025-06-10
-updated: 2026-06-25
+updated: 2026-06-30
 ---
 
 ## Fundamentals
@@ -38,6 +38,7 @@ updated: 2026-06-25
 ### Other Platforms
 
 - [MemSQL (SingleStore)](../databases-sql/memsql/readme.md) - Real-time distributed SQL
+	- [MemSQK Intro](databases-sql/memsql/intro.md)
 - [Others](others/readme.md) - Firebolt, Doris, and additional platforms
 
 ## Comparisons & Migration

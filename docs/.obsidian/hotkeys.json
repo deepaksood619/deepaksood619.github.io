@@ -205,5 +205,14 @@
     }
   ],
   "obsidian-auto-link-title:auto-link-title-paste": [],
-  "workspace:close-window": []
+  "workspace:close-window": [],
+  "markdown:toggle-preview": [],
+  "meld-encrypt:meld-encrypt-convert-to-or-from-encrypted-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ]
 }

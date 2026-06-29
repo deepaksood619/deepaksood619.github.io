@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/1-linux-general-unix-linux-commands
 title: Essential Linux/Unix Commands Guide
 description: Master essential Linux and Unix commands for file management, SSH connections, and more with our comprehensive guide.
 created: 2023-03-05
-updated: 2026-06-17
+updated: 2026-06-30
 ---
 ## Display
 
@@ -682,20 +682,20 @@ openssl req -x509 -new -nodes -key ca.key -sha256 -subj "/CN=sampleissuer.local"
 ```bash
 # encrypt a folder
 tar czvf folder.tar.gz /path/to/folder
-openssl enc -aes-256-cbc -salt -pbkdf2 -in folder.tar.gz -out folder.tar.gz.enc
+openssl enc -aes-256-cbc -salt -pbkdf2 -iter 100000 -in folder.tar.gz -out folder.tar.gz.enc
 rm -rf folder.tar.gz
 rm -rf /path/to/folder
 
 # decrypt a folder
-openssl enc -d -aes-256-cbc -salt -pbkdf2 -in folder.tar.gz.enc -out folder.tar.gz
+openssl enc -d -aes-256-cbc -salt -pbkdf2 -iter 100000 -in folder.tar.gz.enc -out folder.tar.gz
 tar xzvf folder.tar.gz
 rm -rf folder.tar.gz.enc
 rm -rf folder.tar.gz
 
 
-alias folder_encrypt='tar czvf test_folder.tar.gz test_folder && openssl enc -aes-256-cbc -salt -pbkdf2 -in test_folder.tar.gz -out test_folder.tar.gz.enc && rm -rf test_folder.tar.gz && rm -rf test_folder'
+alias folder_encrypt='tar czvf test_folder.tar.gz test_folder && openssl enc -aes-256-cbc -salt -pbkdf2 -iter 100000 -in test_folder.tar.gz -out test_folder.tar.gz.enc && rm -rf test_folder.tar.gz && rm -rf test_folder'
 
-alias folder_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -in test_folder.tar.gz.enc -out test_folder.tar.gz && tar xzvf test_folder.tar.gz && rm -rf test_folder.tar.gz.enc && rm -rf test_folder.tar.gz'
+alias folder_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -iter 100000 -in test_folder.tar.gz.enc -out test_folder.tar.gz && tar xzvf test_folder.tar.gz && rm -rf test_folder.tar.gz.enc && rm -rf test_folder.tar.gz'
 ```
 
 ### public private key pair
