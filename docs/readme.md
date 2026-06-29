@@ -92,7 +92,7 @@ The content being [markdown](languages/others/markdown) files, which after every
 
 The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep.
 
-I use [Zettlekasten Method](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md) for note taking and [obsidian](devops/ides/obsidian) tool to manage and structure my notes. I have previously used [Onenote](devops/ides/onenote) but grown out of it in about 4 years, since it doesn't scale in terms of number of notes and doesn't have [linking of notes](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md#links).
+I use [Zettlekasten Method](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md) for note taking and [obsidian](devops/ides/obsidian.md) tool to manage and structure my notes. I have previously used [Onenote](devops/ides/onenote) but grown out of it in about 4 years, since it doesn't scale in terms of number of notes and doesn't have [linking of notes](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md#links).
 
 **My Obsidian View**
 

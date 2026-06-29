@@ -3,26 +3,26 @@ slug: /knowledge/games/swimming
 title: Swimming
 description: Discover essential swimming techniques, from warm-up exercises to building water comfort with breathing and floating skills for all levels.
 created: 2023-05-28
-updated: 2024-02-05
+updated: 2026-06-29
 ---
-### 0. Warm Up Exercises
+## 0. Warm Up Exercises
 
-#### Out of water
+### Out of water
 
 - 5 forward arm rotation
 - 5 backward arm rotation
 - 3 Toe touch
 - Quad stretch
 
-#### In the water
+### In the water
 
 - Jog in water (Bring knee up and think of moving over an obstacle) with leg and hand movements
 - Lateral movements
 - Small Jumps
 
-### 1. Building Water Comfort
+## 1. Building Water Comfort
 
-#### Bubbling / Breathing
+### Bubbling / Breathing
 
 - Don't stress and be calm
 - Bubbling with mouth, nose or both to see which one is most comfortable
@@ -30,7 +30,7 @@ updated: 2024-02-05
     - Controlled exhalation - Breath out, stop, breath out, stop
 - Bubbles under water, paddle up breathe and then bubbles under water and repeat
 
-#### Float
+### Float
 
 - Sculling - move forward, backward or turn
 - Standing up from front float - Practice standing using wall
@@ -46,14 +46,14 @@ updated: 2024-02-05
 - Mushroom float
 - Duck dive (hand stand)
 
-#### Kicking
+### Kicking
 
 - Ankles should be relaxed and floppy
 - Hear your kick while kicking
 - Use kickboard for stability and exercising
 - Use pullbuoy when you want to relax lower body and work on upper body
 
-#### Freestyle arm action
+### Freestyle arm action
 
 - Slight gap between fingers
 - Slightly cupped palms
@@ -62,12 +62,12 @@ updated: 2024-02-05
 - Ensure arms are opposite to one another throughout the kick
 - Puling should be long and continuous
 
-#### Breathing to the side
+### Breathing to the side
 
 - Don't lift entire head out of the water
 - Turn your head gently
 
-### 2. Front Floating and Gliding
+## 2. Front Floating and Gliding
 
 - Superhero
     - Look at the floor
@@ -78,7 +78,7 @@ updated: 2024-02-05
 - Add Lean (Warrior Lean)
     - Rotate body, but face should be down
 
-### 3. Back Floating and Gliding
+## 3. Back Floating and Gliding
 
 - Safety position
 - Arms in T position / Starfish position / Y position
@@ -89,13 +89,13 @@ updated: 2024-02-05
 - No splashing
 - Don't do arms up and down
 
-### 4. Rotating
+## 4. Rotating
 
 - Backfloat to superhero
 - Superhero to backfloat
 - Superhero to backfloat to superhero
 
-### 5. Submerging in Deep Water
+## 5. Submerging in Deep Water
 
 - Sink downs
 - Monkey slide and hands
@@ -108,15 +108,15 @@ updated: 2024-02-05
 - Step-in to backfloat
 - Life saving skill, low energy and long time - Doggy paddle try first with noddle then without noddle
 
-### 6. Beginner Freestyle Progression
+## 6. Beginner Freestyle Progression
 
 - Dryland swimming
 
-### 7. Beginner Backstroke Progression
+## 7. Beginner Backstroke Progression
 
 - Rotating
 
-### Myths
+## Myths
 
 - You don't get tan from chlorine it's from direct sunlight and reflection off the water
 

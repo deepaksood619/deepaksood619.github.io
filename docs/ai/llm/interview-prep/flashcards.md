@@ -16,11 +16,13 @@ source_notes:
   - ai/llm/interview-prep/interview-questions-hr.md
 ---
   Distribution:
+
   - 30 L1 (Recall) cards - definitions, formulas, facts
   - 25 L2 (Understanding) cards - why/how, intuitions, trade-offs
   - 12 L3 (Boundaries) cards - limitations, when techniques fail
 
   Coverage by topic:
+
   - Core LLM Concepts (5 cards) - tokenization, context windows
   - Training & Fine-tuning (8 cards) - pretraining, MLM, NSP, LoRA
   - Transformer Architecture (9 cards) - attention, encodings, complexity

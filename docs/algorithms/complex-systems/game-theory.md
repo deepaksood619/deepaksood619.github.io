@@ -3,7 +3,7 @@ slug: /algorithms/complex-systems/game-theory
 title: Understanding Game Theory Concepts
 description: Explore the key aspects of game theory, including cooperative and non-cooperative games, and discover strategies like Nash Equilibrium and Shapley Value.
 created: 2023-03-05
-updated: 2024-09-08
+updated: 2026-06-29
 ---
 A Game is any interaction between multiple people in which each person's payoff is affected by the decisions made by others.
 
@@ -75,19 +75,19 @@ A method of dividing up gains or costs among players according to the value of t
 
 **Axioms**
 
-#### 1. Marginal Contribution
+### 1. Marginal Contribution
 
 The contribution of each player is determined by what is gained or lost by removing them from the game
 
-#### 2. Interchangeable players have equal values
+### 2. Interchangeable players have equal values
 
 If 2 parties bring the same things to the coalition, they should have to contribute the same amount, and should be rewarded for their contributions equally
 
-#### 3. Dummy players have zero value
+### 3. Dummy players have zero value
 
 If a member of a coalition contributes nothing then they should receive nothing
 
-#### 4. If a game has multiple parts, cost or payment should be decomposed across those parts
+### 4. If a game has multiple parts, cost or payment should be decomposed across those parts
 
 ## Fair Division
 

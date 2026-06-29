@@ -3,7 +3,7 @@ slug: /psychology/productivity-productive-time-management-todo
 title: Productivity / Productive / Time Management / TODO
 description: Boost your productivity and time management skills with effective strategies and insights to prioritize tasks and enhance focus for better results.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-06-27
 ---
 Productivity isn't everything, but, in the long run, it is almost everything -- Economist Paul Krugman, in The Age of Diminished Expectations
 
@@ -149,6 +149,8 @@ https://www.tonyrobbins.com/productivity-performance/power-of-chunking
 Cognitive neuro ergonomics
 
 [Humans and multitasking - How much can we do simultaneously? | DW Documentary](https://www.youtube.com/watch?v=aK3lhinHd_8)
+
+Do - Monotasking
 
 ## Tools
 

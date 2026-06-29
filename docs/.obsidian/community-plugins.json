@@ -15,5 +15,6 @@
   "templater-obsidian",
   "omnisearch",
   "obsidian-linter",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "meld-encrypt"
 ]

@@ -3,7 +3,7 @@ slug: /ai/libraries/tools
 title: Tools
 description: Discover essential tools like AutoML for automated machine learning and MLflow for streamlined development, experimentation, and model deployment.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-06-27
 ---
 ## AutoML (Automated Machine Learning)
 
@@ -214,17 +214,17 @@ https://www.cortex.dev
 
 ## Tools
 
-#### Paperspace
+### Paperspace
 
 Hybrid-cloud, end-to-end, ML pipelines from training to inference.
 
 Build real-time predictive intelligence in to your business
 
-#### Google Colab
+### Google Colab
 
-#### Saturncloud
+### Saturncloud
 
-#### matrixds
+### matrixds
 
 https://cloud.google.com/notebooks
 
@@ -234,7 +234,7 @@ https://aws.amazon.com/sagemaker
 
 https://deepbluegpu.com
 
-#### Free notebooks
+### Free notebooks
 
 - https://freenotebooks.io
 - Google Colab - https://colab.research.google.com

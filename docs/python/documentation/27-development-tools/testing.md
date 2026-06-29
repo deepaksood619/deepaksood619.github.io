@@ -3,7 +3,7 @@ slug: /python/documentation/27-development-tools/testing
 title: Python Function Testing Guide
 description: Learn how to create and run tests for Python functions with step-by-step instructions and practical examples.
 created: 2023-03-05
-updated: 2025-08-28
+updated: 2026-06-29
 ---
 1. Create your inputs
 2. Execute the code, capturing the output
@@ -231,8 +231,7 @@ assert(n%k==0)
 
 assert sum([1, 2, 3]) == 6, "Should be 6"
 
-assert sum([6087,5523,4910,3465,5646,8351]) == 33982
-assert sum([3241,9408,7209,9806,6517,2033]) == 38214
+assert sum([0174,6823]) == 6997
 ```
 
 |                                  |                              |

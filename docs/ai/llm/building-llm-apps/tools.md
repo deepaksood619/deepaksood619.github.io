@@ -3,7 +3,7 @@ slug: /ai/llm/building-llm-apps/tools
 title: Tools
 description: Discover essential tools and apps for Gen AI, including top consumer apps, LLM collections, and chatbot utilities to enhance your AI experience.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-06-27
 ---
 [The Top 100 Gen AI Consumer Apps — 6th Edition \| Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-6/)
 
@@ -175,6 +175,19 @@ updated: 2026-06-18
 	- [The Best 6 HeyGen Alternatives to Consider in 2026 \| D-ID](https://www.d-id.com/blog/best-7-heygen-alternatives/)
 	- [HeyGen alternatives](https://www.reddit.com/r/generativeAI/comments/1ohcxyg/heygen_alternatives/)
 	- [Free HeyGen Alternative: Long-Form Storytelling without Avatars \| Crreo AI](https://www.crreo.ai/text-to-video/heygen-alternative)
+- Top 10
+	1. **Beautiful AI** - Professional slide decks in clicks. People are selling slideshow redesign as a paid service.
+	2. **Suno AI** - Studio-quality music in seconds. People make jingles for businesses and earn Spotify royalties through DistroKid.
+	3. **Vubo AI** - Viral vertical videos in under a minute. People run faceless channels on AdSense and promote affiliate offers.
+	4. **Browse AI** - Web scraping without code. Marketers build lead lists. Researchers sell data reports. Ecom owners track competitor pricing.
+	5. **Chatbase** - Custom chatbots trained on your data. Freelancers sell "done-for-you" bots to businesses for 24/7 customer support.
+	6. **Instantly AI** - Cold email that lands in the inbox. People sell outreach as a service or use it to generate and sell leads.
+	7. **OpusClip** - Cuts long video into shorts with subtitles. Video editors sell clipping as a service to creators and businesses.
+	8. **Indexly AI** - Gets new pages indexed on Google in hours, not weeks. SEO freelancers resell "rapid indexing" as a service.
+	9. **Fireflies AI** - Auto-records, transcribes, and summarizes meetings. One of the most mentioned tools for pure time-saving.
+	10. **TryAtria** - Ad research from 25M+ winning ads. People use it to study competitors and build campaigns that convert.
+	11. **Higgsfield AI** - Photos to videos, realistic avatars, speaking characters. A full creative suite for marketers and creators.
+	12. **StealthGPT AI** - Copy that reads human, not AI. Fastest-growing mentions in recent months for business writing and content.
 
 ## Purpose-built accelerators for generative AI
 
