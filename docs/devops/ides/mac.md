@@ -3,11 +3,11 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-06-29
 ---
 ## Shortcuts
 
-#### Screenshots
+### Screenshots
 
 ```bash
 Shift + Ctrl + Cmd + 3 - Copy window -> cmd+v (paste)
@@ -38,7 +38,7 @@ open .
 open -a iTerm .
 ```
 
-#### Create a new text file
+### Create a new text file
 
 If you have the Finder window open, use Spotlight to open TextEdit. When you're ready to save the file, option+drag the text file icon from the title bar of TextEdit into the Finder window where you want to save it.
 
@@ -50,11 +50,11 @@ You can select the file and pressOption+Command+Cto copy the pathname to the cli
 
 Right Click on folder > option (gives more options)
 
-#### Terminal Commands
+### Terminal Commands
 
 Open two instance of same application - **open -n MQTT.fx.app**
 
-#### Screenshots
+### Screenshots
 
 ```bash
 ⌘ + Shift + 4, #selection

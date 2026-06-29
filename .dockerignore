@@ -285,6 +285,26 @@ public
 .obsidian/cache
 .obsidian/workspace
 
+# windows
+desktop.ini
+.trash
+
+# obsidian
+# git update-index --assume-unchanged docs/.obsidian/workspace.json
+workspace.json
+# git update-index --assume-unchanged docs/.obsidian/plugins/recent-files-obsidian/data.json
+data.json
+graph.json
+.claude
+docs/.obsidian/plugins/learnkit/configuration/api-keys.json
+docs/.obsidian/plugins/learnkit/backups/*.db
+docs/.obsidian/plugins/learnkit/scheduling/*.db
+scripts/*
+.obsidian-hybrid-search.*
+.root-obsidian.txt
+
 # personal wikis
-Office
-Journal
+office
+officevault
+confluentvault
+Clippings

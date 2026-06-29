@@ -148,6 +148,7 @@ public
 build
 
 # ide
+.history/*
 .DS_Store
 .obsidian/cache
 .obsidian/workspace
@@ -168,6 +169,7 @@ docs/.obsidian/plugins/learnkit/backups/*.db
 docs/.obsidian/plugins/learnkit/scheduling/*.db
 scripts/*
 .obsidian-hybrid-search.*
+.root-obsidian.txt
 
 # personal wikis
 office
