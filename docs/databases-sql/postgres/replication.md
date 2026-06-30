@@ -124,3 +124,7 @@ select pg_drop_replication_slot(‘ocean’);
 - [EDB failover manager (EFM) for managing streaming replication - DBACLASS DBACLASS](https://dbaclass.com/article/edb-failover-managerefm-for-managing-streaming-replication/)
 - [Difference between PostgreSQL and MySQL: (1) Replication · Hironobu SUZUKI @ InterDB](https://www.interdb.jp/blog/pgsql/pg_vs_my_01/)
 - [Replicate data between partitioned and non-partitioned tables using trigger functions in Amazon RDS for PostgreSQL or Amazon Aurora PostgreSQL | AWS Database Blog](https://aws.amazon.com/blogs/database/replicate-data-between-partitioned-and-non-partitioned-tables-using-trigger-functions-in-amazon-rds-for-postgresql-or-amazon-aurora-postgresql/)
+
+## Storage-Level Replication
+
+For storage-level block replication (below the database layer), see [DRBD - Distributed Replicated Block Device](databases/concepts/drbd-distributed-replicated-block-device.md).

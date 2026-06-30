@@ -184,3 +184,7 @@ When you set up a Confluent Cloud network for VPC peering or Transit Gateway, th
 - The CIDR of the AWS VPC you want to peer with Confluent Cloud network should not be identical and not completely within the Confluent Cloud network CIDRs.
 
 [Create a Confluent Cloud network on AWS \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/ccloud-network/aws.html)
+
+## Related
+
+- [Kafka Fetch from Follower - EC2 Configuration](technologies/confluent/cloud-networking/kafka-fetch-from-follower-ec2-configuration.md) - Configure EC2 instances for optimal FFF performance

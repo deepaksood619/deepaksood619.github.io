@@ -68,6 +68,7 @@ updated: 2026-06-24
 	- [Public Egress IP Address for Connectors and Cluster Linking](https://docs.confluent.io/cloud/current/networking/static-egress-ip-addresses.html)
 	- [Cluster Linking using AWS PrivateLink](https://docs.confluent.io/cloud/current/networking/network-linking.html)
 	- [Follower Fetching using AWS VPC Peering](https://docs.confluent.io/cloud/current/networking/fetch-from-follower.html)
+	- [Kafka Fetch from Follower - EC2 Configuration](technologies/confluent/cloud-networking/kafka-fetch-from-follower-ec2-configuration.md)
 - [Use the Confluent Cloud Console with Private Networking](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html)
 - [Test Connectivity](https://docs.confluent.io/cloud/current/networking/testing.html)
 - [Networking FAQ](https://docs.confluent.io/cloud/current/networking/networking-faq.html)

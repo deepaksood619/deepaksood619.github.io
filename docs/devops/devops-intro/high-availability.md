@@ -84,3 +84,7 @@ For example, if user IDs are assigned from a sequence, user Bob may end up with 
 ![image](https://ci3.googleusercontent.com/meips/ADKq_NYh-4wSTCsqeWqfvUMargFUXCVIDhvbOiytAUMldswvwduwGQwNbQZ0BA5Fx1rVad5iEn-ewSLDJ49W_ropDxi10Ov9UcikfOuVSJ6VD-O1hdOa1zzkctSDyhCRv8txPzoVxrZPAfFU4Fo_iBZV3AcFkgLEKnYa7G4wZS-bl8d_53YOX3lFvxS3a-BH6zJG-NGbX4q4hKfkThTz0zNVknuSCp-v23-mLn8-HUnedTTQ6WaA7CY6D7xmFO3VRo7G58l2uf3LEpjSs9eN0H9TIxwSzXkrF_NwkDHa16z4rAMnOOrRk9N8v95HEQ=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_1432,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb712fd8a-96ae-4dc3-88aa-598fafb49f7c_1529x945.png)
 
 [How do We Design for High Availability?](https://blog.bytebytego.com/p/how-do-we-design-for-high-availability)
+
+## Storage Replication Technologies
+
+- [DRBD - Distributed Replicated Block Device](databases/concepts/drbd-distributed-replicated-block-device.md) - Block-level storage replication for HA clusters

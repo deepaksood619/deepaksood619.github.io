@@ -3,7 +3,7 @@ slug: /networking/others/file-formats
 title: Understanding File Formats in Data Management
 description: Explore row-based and columnar file formats like CSV, Parquet, and Sequence files used in data processing and storage.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-06-30
 ---
 CSV, TSV, JSON, and Avro, are traditional row-based file formats. Parquet, and ORC file are columnar file formats.
 
@@ -272,27 +272,27 @@ Hierarchical Data Format (**HDF**) is a set of file formats (HDF4, HDF5) designe
 
 Filename extensions - .hdf,.h4,.hdf4,.he2,.h5,.hdf5,.he5
 
-#### HETEROGENEOUS DATA
+### HETEROGENEOUS DATA
 
 HDF supports n-dimensional datasets and each element in the dataset may itself be a complex object.
 
-#### EASY SHARING
+### EASY SHARING
 
 HDF is portable, with no vendor lock-in, and is a self-describing file format, meaning everything all data and metadata can be passed along in one file.
 
-#### CROSS PLATFORM
+### CROSS PLATFORM
 
 HDF is a software library that runs on a range of computational platforms, from laptops to massively parallel systems, and implements a high-level API with C, C++, Fortran 90, and Java interfaces. HDF has a large ecosystem with 700+ Github projects.
 
-#### FAST I/O
+### FAST I/O
 
 HDF is high-performance I/O with a rich set of integrated performance features that allow for access time and storage space optimizations.
 
-#### BIG DATA
+### BIG DATA
 
 There is no limit on the number or size of data objects in the collection, giving great flexibility for big data.
 
-#### KEEP METADATA WITH DATA
+### KEEP METADATA WITH DATA
 
 HDF5 allows you to keep the metadata with the data, streamlining data lifecycles and pipelines.
 

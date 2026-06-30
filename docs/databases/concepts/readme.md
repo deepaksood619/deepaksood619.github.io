@@ -19,3 +19,5 @@ updated: 2025-02-27
 - [MVCC Multiversion Concurrency Control](mvcc-multiversion-concurrency-control)
 - [Rum Conjecture](rum-conjecture)
 - [Others](databases/concepts/others.md)
+
+- [DRBD - Distributed Replicated Block Device](databases/concepts/drbd-distributed-replicated-block-device.md)

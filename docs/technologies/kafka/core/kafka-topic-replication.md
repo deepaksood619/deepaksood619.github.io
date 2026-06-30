@@ -141,3 +141,5 @@ One of the following networking configurations is required:
 - [Kafka Topics Choosing the Replication Factor and Partitions Count](https://www.conduktor.io/kafka/kafka-topics-choosing-the-replication-factor-and-partitions-count/)
 - [Kafka replication factor vs min.insync.replicas - Stack Overflow](https://stackoverflow.com/questions/71666294/kafka-replication-factor-vs-min-insync-replicas)
 - [How Kafka Replication Enables Fault Tolerance](https://developer.confluent.io/courses/apache-kafka/replication/)
+
+- [Kafka Fetch from Follower - EC2 Configuration](technologies/confluent/cloud-networking/kafka-fetch-from-follower-ec2-configuration.md) - EC2-specific setup for `client.rack` configuration

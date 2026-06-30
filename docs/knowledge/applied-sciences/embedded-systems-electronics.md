@@ -3,7 +3,7 @@ slug: /knowledge/applied-sciences/embedded-systems-electronics
 title: Embedded Systems / Electronics
 description: Explore the workings of Linear-Feedback Shift Registers (LFSR) in embedded systems and electronics, essential for data encryption and error correction applications.
 created: 2023-03-05
-updated: 2025-09-15
+updated: 2026-06-30
 ---
 ## Linear-feedback shift register (LSFR)
 
@@ -182,3 +182,4 @@ MOSFETs are well-suited for applications such as microprocessors, memory devices
 - [How does a Mouse know when you move it? || How Does a Computer Mouse Work? - YouTube](https://www.youtube.com/watch?v=SAaESb4wTCM)
 - [How do Video Game Controllers Work? || Exploring a PS4 Game Controller - YouTube](https://www.youtube.com/watch?v=vQesgAtr2e4)
 - [What are OSS and BSS? OSS BSS Architecture explained.](https://wisdomplexus.com/blogs/oss-bss-architecture-explained/)
+- [IBM Debuts World’s First Sub-1 Nanometer Chip Technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
