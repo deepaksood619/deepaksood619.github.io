@@ -3,7 +3,7 @@ slug: /ai/agi
 title: AGI (Artificial General Intelligence)
 description: Explore AGI, the future of artificial intelligence, and its implications for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
 created: 2023-03-05
-updated: 2026-06-23
+updated: 2026-07-01
 ---
 **Future of Jobs - You can outsource the thinking but not the understanding**
 
@@ -81,3 +81,4 @@ One day, frontier AI research used to be done by meat computers in between eatin
 - [Why AI hasn’t replaced software engineers, and won’t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 - [Dear AI Companies: Stop the “Doom Trolling” - Cal Newport](https://calnewport.com/dear-ai-companies-stop-the-doom-trolling/)
 - [Report: How Developers React to AI-Scented Blog Posts](https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts)
+- [Beware of Productivity Paradoxes - Cal Newport](https://calnewport.com/beware-of-productivity-paradoxes/)

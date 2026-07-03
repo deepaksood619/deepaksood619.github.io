@@ -3,7 +3,7 @@ slug: /knowledge/games/family-games-gifts
 title: Family Games / Gifts
 description: Discover fun family games and gifts, perfect for game nights with kids and couples, including classic card games, charades, and engaging activities.
 created: 2023-03-05
-updated: 2026-06-27
+updated: 2026-07-02
 ---
 - [couple-activities](knowledge/games/couple-activities.md)
 - [kid-games](knowledge/games/kid-games.md)
@@ -177,3 +177,4 @@ As each guest got $1 back, each guest only paid $9, bringing the total paid to $
 - Photography
 	- **Gimbal Shots**
 	- [10 SMARTPHONE GIMBAL SHOTS in 5 Minutes - Zhiyun Smooth XS](https://www.youtube.com/watch?v=Cu-Mhhx9kSw&ab_channel=MikoTiotangco)
+- [SPYRAFOUR BLAST MODES 🔥💦 - YouTube](https://www.youtube.com/watch?v=fxHUvzjvoW8)

@@ -3,7 +3,7 @@ slug: /knowledge/geography/countries
 title: Countries
 description: Explore global countries, their unique cultural norms, and resources like StudyGe and essential UN group insights for comprehensive learning.
 created: 2023-03-05
-updated: 2026-05-27
+updated: 2026-07-01
 ---
 ## Apps
 
@@ -43,6 +43,7 @@ In East Asia, beards are generally not considered "bad" but are culturally prefe
 - [China Creates Its Own Bios to Break Free From Western Tech](https://indiandefencereview.com/the-u-s-and-its-allies-wont-be-happy-china-creates-its-own-bios-to-break-free-from-western-tech/)
 - [How Chinese view the world: over 90 percent of Chinese expect China to help shape a fairer global order - Global Times](https://www.globaltimes.cn/page/202512/1351147.shtml)
 - [Dance: Auspicious Rain #孟庆旸 #喜雨 #springfestival2026 #coolchina - YouTube](https://www.youtube.com/watch?v=2-OPy6VnVzw)
+- **[The Tribute System: The New World Order](https://www.linkedin.com/pulse/tribute-system-new-world-order-ray-dalio-kraac/)**
 
 ### Taiwan
 

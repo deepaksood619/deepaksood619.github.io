@@ -3,7 +3,7 @@ slug: /economics/fundamentals/macroeconomics
 title: Macroeconomics
 description: Explore macroeconomics, the study of aggregate economic indicators like GDP, unemployment, and national income that shape economies on regional and global scales.
 created: 2023-03-05
-updated: 2026-06-16
+updated: 2026-07-01
 ---
 Macroeconomics (from the Greek prefix makro-meaning "large" +economics) is a branch of [economics](https://en.wikipedia.org/wiki/Economics) dealing with the performance, structure, behavior, and decision-making of an [economy](https://en.wikipedia.org/wiki/Economy) as a whole. This includes regional, national, and global economies. Macroeconomists study aggregated indicators such as [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product), [unemployment rates](https://en.wikipedia.org/wiki/Unemployment#Measurement), [national income](https://en.wikipedia.org/wiki/National_income), [price indices](https://en.wikipedia.org/wiki/Price_index), and the interrelations among the different sectors of the economy to better understand how the whole economy functions. They also develop models that explain the relationship between such factors as [national income](https://en.wikipedia.org/wiki/National_income), [output](https://en.wikipedia.org/wiki/Output_(economics)), [consumption](https://en.wikipedia.org/wiki/Consumption_(economics)), [unemployment](https://en.wikipedia.org/wiki/Unemployment), [inflation](https://en.wikipedia.org/wiki/Inflation), [saving](https://en.wikipedia.org/wiki/Saving), [investment](https://en.wikipedia.org/wiki/Investment_(macroeconomics)), [international trade](https://en.wikipedia.org/wiki/International_trade), and [international finance](https://en.wikipedia.org/wiki/International_finance).
 
@@ -217,5 +217,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 - [It All Comes Down to Who Controls the Strait of Hormuz: The “Final Battle"](https://www.linkedin.com/pulse/all-comes-down-who-controls-strait-hormuz-final-battle-ray-dalio-ienne/)
 - https://www.linkedin.com/pulse/big-thing-we-world-war-isnt-going-end-anytime-soon-ray-dalio-sbrqe
 - [Investment Principles: What Should You Do Under Existing Conditions?](https://www.linkedin.com/pulse/investment-principles-what-should-you-do-under-existing-ray-dalio-kokac/)
+- **[The Tribute System: The New World Order](https://www.linkedin.com/pulse/tribute-system-new-world-order-ray-dalio-kraac/)**
 
 ## End

@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/food
 title: Food
 description: Discover how mindful eating, zero oil cooking, and meal timing can transform your health and enhance your overall well-being for a better quality of life.
 created: 2023-03-05
-updated: 2026-06-16
+updated: 2026-07-02
 ---
 The way you eat not only decides your physical health, but the very way you think, feel, and experience life. -- Sadhguru
 
@@ -233,15 +233,15 @@ Vitamins are...
 
     They’re not produced directly by our bodies but supplied from our food (with a few exceptions.)
 
-#### Vitamin supplements: Good or Bad?
+### Vitamin supplements: Good or Bad?
 
 When it comes to vitamins, there is such a thing as too much. Every vitamin has a recommended daily intake and you can get this from a healthy, diverse diet. But if you’re eating fortified foods and taking supplements (often ordered online without checking dosage or composition), you may consume more than you need.
 
 So, unless you have a diagnosed deficiency, get your vitamins from food. There is evidence that this has better health outcomes overall!
 
-### Your guide to a vitamin-rich diet
+## Your guide to a vitamin-rich diet
 
-#### Vitamin A
+### Vitamin A
 
 Important for
 
@@ -257,7 +257,7 @@ Get it from
 - Green leafy veggies
 - Eggs
 
-#### Vitamin B Complex
+### Vitamin B Complex
 
 Important for
 
@@ -274,7 +274,7 @@ Get it from
 - Green leafy veggies
 - Beetroot
 
-#### Vitamin C
+### Vitamin C
 
 Important for
 
@@ -290,7 +290,7 @@ Get it from
 - Green leafies
 - Cruciferous veggies (cabbage, gobi, broccoli)
 
-#### Vitamin E
+### Vitamin E
 
 Important for
 
@@ -305,7 +305,7 @@ Get it from
 - Whole grains
 - Green leafy veggies
 
-#### Vitamin K
+### Vitamin K
 
 Important for
 
@@ -320,7 +320,7 @@ Get it from
 
 Wondering what happened to vitamins B4, B8, B10, and B11? They got the boot! As scientists’ understanding of vitamins evolved, these were no longer regarded as vitamins. Reminds you of Pluto, huh?
 
-#### Vitamin D
+### Vitamin D
 
 We saved it for the last because it’s kinda special! Vitamin D has many roles to play-blood pressure regulation, bone growth, calcium balance, hormone production, immune health, nervous system function etc.
 
@@ -330,7 +330,7 @@ Unlike the others, vitamin D can be produced by our bodies, provided our skin is
 
 Try to get 10-20 minutes of sunlight ideally before noon, 3-4 times a week. Darker skin needs more sun than lighter skin; so adjust your sun exposure based on your need.
 
-##### Food
+#### Food
 
 - fatty fish
 - Egg Yolk
@@ -426,7 +426,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 
 [4 Types of Toxic Cookware to Avoid and 4 Safe Alternatives - YouTube](https://www.youtube.com/watch?v=0uATfA_WoTA)
 
-#### Bad
+### Bad
 
 - non stick - Teflon
 - Aluminium cookware
@@ -434,7 +434,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 - Copper cookware
 - non stick - ceremic coated pans (not long lasting)
 
-#### Good
+### Good
 
 - 100% ceremic cookware
 - **Stainless steel** (Food grade which doesn't contain nickel or chromium)

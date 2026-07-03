@@ -3,7 +3,7 @@ slug: /computer-science/testing/postman
 title: "Postman: Mock API Resources"
 description: Explore top mock API servers and resources for testing REST APIs with Postman. Enhance your development workflow effortlessly.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-07-01
 ---
 ## Fake API REST Mocks Server Tests (Mock API)
 
@@ -26,6 +26,7 @@ updated: 2026-06-11
     - [World News API](https://worldnewsapi.com/)
     - [NewsData - News API to Search & Collect Worldwide News](https://newsdata.io/)
     - [GNews: News API to Search for the Latest & Historical News](https://gnews.io/)
+- [FakeData - Club Matto](https://matto.club/vetrina/fakedata/)
 
 ### Public APIs
 

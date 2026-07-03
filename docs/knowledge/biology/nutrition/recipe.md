@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/recipe
 title: Recipe
 description: "Discover tips and a delicious grilled chicken and paneer recipe that enhances flavor while minimizing heat—perfect for every home cook!"
 created: 2023-03-05
-updated: 2026-02-19
+updated: 2026-07-02
 ---
 ## Tips
 
@@ -133,6 +133,9 @@ updated: 2026-02-19
 	- Roast Pork Bun
 	- Spring Roll
 	- Potsticker
+- [Quinoa breakfast Recipe l Quinoa upma \| High protein Breakfast \| Weight Loss recipe - YouTube](https://www.youtube.com/watch?v=-3yiwgdROMc)
+	- [Quinoa Upma Recipe \| High Protein Breakfast Lunch And Dinner \| Lose 10 Kgs Fast \| Quinoa Upma - YouTube](https://www.youtube.com/watch?v=Xyz7_Ms7UxE)
+- [ओट्स का पोहा \| Oats Poha Recipe \| Weight Loss Recipe \| Oats recipe for breakfast \| kabitaskitchen - YouTube](https://www.youtube.com/watch?v=2IZGwlq-k98)
 
 ### Oats
 

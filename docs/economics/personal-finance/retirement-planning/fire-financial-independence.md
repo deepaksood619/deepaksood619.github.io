@@ -3,7 +3,7 @@ slug: /economics/personal-finance/retirement-planning/fire-financial-independenc
 title: Financial Independence, Retire Early (FIRE) / Retirement
 description: Discover the FIRE movement, where saving and investing 50-70% of your income empowers you to achieve financial independence and retire early.
 created: 2023-03-05
-updated: 2026-06-10
+updated: 2026-07-01
 ---
 FIRE means to save and invest aggressively in your 20s and 30s so that you can live the latter years of your life freely
 
@@ -249,3 +249,4 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [What withdrawal rate do you recommend for retirement planning?](https://freefincal.com/what-withdrawal-rate-do-you-recommend-for-retirement-planning/)
 - [How to review a retirement portfolio](https://freefincal.com/how-to-review-a-retirement-portfolio/)
 - [The Retirement Number Nobody Talks About](https://freefincal.com/the-retirement-number-nobody-talks-about/)
+- [Why living longer should matter to you – Dezerv](https://www.dezerv.in/blog/why-living-longer-should-matter-to-you/)

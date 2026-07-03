@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/grains
 title: Grains
 description: Discover the versatile uses of semolina in dishes like upma, pasta, and couscous, and learn about its varieties including rawa and its nutritional benefits.
 created: 2025-02-26
-updated: 2026-06-06
+updated: 2026-07-02
 ---
 ## Semolina / Sooji
 
@@ -222,6 +222,51 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 ![Protein, fiber and GI of grains](../../../media/Screenshot%202024-10-20%20at%2010.22.17%20PM.jpg)
 
 [Eight Swaps To Eat Better Everyday - Truth Be Told](https://tbthealth.substack.com/p/eight-swaps-to-eat-better-everyday)
+
+## Seeds
+
+1. watermelon seeds
+2. flax seeds
+3. sunflower seeds
+4. pumpkin seeds
+5. chia seeds
+6. Sesame seeds
+
+### 1. Pumpkin Seeds (Highly Recommended)
+
+- **The Benefit:** These are iron champions. They will directly help combat your anemia (hemoglobin 9.9 g/dl).
+- **How to Eat:** Dry-roast them in a pan without oil or salt. Eat 1 tablespoon as a mid-morning snack. To boost iron absorption, eat them alongside a Vitamin C source, like your morning guava or orange.
+
+### 2. Flax Seeds (Highly Recommended)
+
+- **The Benefit:** Rich in Omega-3 fatty acids, which keep your blood vessels flexible and support your heart stent, helping maintain that excellent LDL of 23 mg/dL.
+- **How to Eat:** **You must grind them into a powder.** If you eat flax seeds whole, they will pass through your digestive system completely undigested. Store the ground powder in an airtight container in the fridge to prevent it from going rancid. Sprinkle 1 teaspoon over your morning oats or mix it into your pasteurized dahi.
+
+### 3. Chia Seeds (Highly Recommended)
+
+- **The Benefit:** Chia seeds are mostly soluble fiber. This creates a gel in your stomach that slows down digestion, preventing your blood sugar from spiking (crucial for targeting your 9.2% HbA1c).
+- **How to Eat:** **Never eat them dry.** Always soak 1 teaspoon of chia seeds in half a glass of water or pasteurized milk/dahi for at least 15-20 minutes before consuming.
+
+### 4. Watermelon Seeds (Great Option)
+
+- **The Benefit:** A great source of plant-based protein and magnesium, which helps regulate blood pressure.
+- **How to Eat:** Dry-roast them until crunchy. Ensure they are completely unsalted. You can mix half a teaspoon of these with your roasted makhana for an evening snack.
+
+### 5. Sunflower Seeds (Good Option)
+
+- **The Benefit:** Loaded with Vitamin E, a powerful antioxidant that protects your heart and reduces inflammation.
+- **How to Eat:** Dry-roast them. **Strictly unsalted.** Because they are slightly higher in calories, limit them to just half a tablespoon mixed into your cooked Dalia Upma or Quinoa Poha.
+
+### 6. Sesame Seeds (White or Black Til)
+
+- **The Benefit:** Extremely high in calcium and iron, making them another great tool against your anemia.
+- **How to Eat:** Lightly dry-roast them and sprinkle a tiny pinch (about 1/4 teaspoon) over your cooked sabzis, dal, or roasted eggplant (baingan bharta) just before eating.
+
+### Strict Golden Rules for Seeds
+
+- **Zero Salt:** Commercially packaged roasted seeds are often loaded with sodium. You must buy raw, plain seeds and roast them at home yourself to protect your blood pressure.
+- **Portion Control:** Seeds are very calorie-dense and high in fat. Even though it is "good" fat, too much will strain your digestion. Keep your total daily seed intake to **1 to 1.5 tablespoons combined**.
+- **The Transplant Safety Rule:** Always dry-roast your solid seeds (pumpkin, sunflower, watermelon, sesame) in a hot pan before storing them. This heat acts as a sterilization step, killing off any potential surface bacteria from the packaging or harvesting process, which keeps your suppressed immune system safe.
 
 ## Links
 

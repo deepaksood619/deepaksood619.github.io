@@ -3,7 +3,7 @@ slug: /ai/llm/readme
 title: LLM
 description: Explore LLM fundamentals, app-building techniques, and agent frameworks to harness the power of large language models for innovative applications and solutions.
 created: 2023-05-08
-updated: 2026-06-24
+updated: 2026-07-02
 ---
 ## Fundamentals
 
@@ -43,6 +43,7 @@ updated: 2026-06-24
 - [Prompt Examples](prompting/prompt-examples.md)
 - [Coding Prompts](prompting/coding-software-engineering-prompts.md)
 - [Context Engineering](prompting/context-engineering.md)
+- [learning-prompt-examples](ai/llm/prompting/learning-prompt-examples.md)
 
 ## MCP
 

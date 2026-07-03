@@ -3,7 +3,7 @@ slug: /mathematics/readme
 title: Mathematics
 description: Explore the world of Mathematics, covering topics like Geometry, Algebra, Calculus, and more, to enhance your understanding and skills in the subject.
 created: 2023-03-05
-updated: 2024-03-18
+updated: 2026-07-01
 ---
 - [Mahematics General](mathematics/general/readme.md)
 - [Geometry](geometry/readme.md)
@@ -163,10 +163,8 @@ Processing signals (filtering, storage and reconstruction, separation of informa
 
 ## References
 
-[A few of the best math explainers from this summer](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
-
-[How a Computer Broke a 50-Year Math Record - YouTube](https://www.youtube.com/watch?v=fDAPJ7rvcUw&ab_channel=QuantaMagazine)
-
-[The hidden networks of everything | Albert-László Barabási - YouTube](https://www.youtube.com/watch?v=RfgjHoVCZwU)
-
-[How can maths help us make better predictions? - with Kit Yates - YouTube](https://www.youtube.com/watch?v=ehXZHY_jgI0)
+- [A few of the best math explainers from this summer](https://www.youtube.com/watch?v=F3Qixy-r_rQ)
+- [How a Computer Broke a 50-Year Math Record - YouTube](https://www.youtube.com/watch?v=fDAPJ7rvcUw&ab_channel=QuantaMagazine)
+- [The hidden networks of everything | Albert-László Barabási - YouTube](https://www.youtube.com/watch?v=RfgjHoVCZwU)
+- [How can maths help us make better predictions? - with Kit Yates - YouTube](https://www.youtube.com/watch?v=ehXZHY_jgI0)
+- [The fall of the theorem economy - David Bessis](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)

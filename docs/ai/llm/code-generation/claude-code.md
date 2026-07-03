@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-06-25
+updated: 2026-07-01
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -83,6 +83,8 @@ Structured dev workflow framework with TDD, debugging, planning, and code review
 - verification-before-completion - Ensure fixes work
 
 [GitHub - obra/superpowers](https://github.com/obra/superpowers) ⭐ 229k
+
+[Superpowers 6 — Massively Parallel Procrastination](https://blog.fsck.com/2026/06/15/Superpowers-6/)
 
 ### GSD (Get Shit Done)
 

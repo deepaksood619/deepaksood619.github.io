@@ -3,13 +3,13 @@ slug: /algorithms/readme
 title: Algorithms
 description: Explore a comprehensive guide to algorithms covering algorithmic complexity, searching, sorting, graph theory, dynamic programming, and more.
 created: 2023-03-05
-updated: 2023-03-07
+updated: 2026-07-02
 ---
 ## Fundamentals
 
 - [Algorithmic Complexity](algorithmic-complexity/readme.md) - Time/space complexity, Big-O, NP-hardness, complexity theory
 - [General Algorithms](general/readme.md) - Range search, recursion, union-find, prime factorization, and misc algorithms
-- [Mathematics](mathematics/readme.md) - Combinatorial optimization, MO algorithm, powersets
+- [Mathematics](algorithms/mathematics/readme.md) - Combinatorial optimization, MO algorithm, powersets
 
 ## Core Algorithm Categories
 
