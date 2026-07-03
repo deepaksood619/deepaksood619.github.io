@@ -3,7 +3,7 @@ slug: /technologies/kafka/readme
 title: Comprehensive Guide to Apache Kafka
 description: Explore Kafka architecture, installation, configurations, and more in this detailed guide for developers and data engineers.
 created: 2023-03-05
-updated: 2026-06-30
+updated: 2026-07-03
 ---
 Apache Kafka is an open-source distributed event streaming platform used for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
@@ -38,9 +38,10 @@ Apache Kafka is an open-source distributed event streaming platform used for hig
 - [Installing Kafka](technologies/kafka/operations/installing-kafka.md)
 - [Monitoring](technologies/kafka/operations/monitoring.md)
 - [Migration / Mirroring / Replication](technologies/kafka/operations/migration-mirroring-replication.md)
-  - [MirrorMaker](technologies/kafka/operations/mirrormaker.md)
-  - [Cluster Linking](technologies/confluent/data-integration/cluster-linking.md) (Confluent)
-  - [Replicator](technologies/confluent/data-integration/replicator.md) (Confluent)
+	- [MirrorMaker](technologies/kafka/operations/mirrormaker.md)
+	- [Cluster Linking](technologies/confluent/data-integration/cluster-linking.md) (Confluent)
+	- [Replicator](technologies/confluent/data-integration/replicator.md) (Confluent)
+	- [kcp-kafka-copy-paste](technologies/kafka/operations/kcp-kafka-copy-paste.md)
 - [Releases / Upgrades / Changelogs](technologies/kafka/operations/releases-upgrades-changelogs.md)
 
 ## Kafka Ecosystem

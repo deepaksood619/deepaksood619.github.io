@@ -3,7 +3,7 @@ slug: learning-prompt-examples
 title: Learning Prompt Examples
 description: Learning Prompt Examples
 created: 2026-06-24
-updated: 2026-07-01
+updated: 2026-07-03
 ---
 [You Can Learn Everything With This Prompt. BEST LEARNING PROMPT! : r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1lp521t/you_can_learn_everything_with_this_prompt_best/)
 
@@ -139,7 +139,7 @@ No theory without practical use, and no generic lists.
   
 Tell me three things: what to learn first, what to ignore completely, and the one exercise that, done a single time, would already put me ahead of 70% of people who have studied this for months.  
   
-Teach me the first step, then wait for my reply.  
+Teach me the first step, then wait for my reply.
   
 ## The real error simulator  
   

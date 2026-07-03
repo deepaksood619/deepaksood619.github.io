@@ -3,9 +3,46 @@ slug: /technologies/kafka/migration-mirroring-replication
 title: Data Migration and Replication Strategies
 description: Explore effective cross-cluster data mirroring techniques, comparing Confluent Replicator and MirrorMaker 2.0 for optimal architecture.
 created: 2024-02-23
-updated: 2026-06-11
+updated: 2026-07-03
 ---
 [**20240425-EB-Migrating\_From\_Kafka\_To\_Confluent.pdf**](https://assets.confluent.io/m/2745775bbd1fa224/original/20240425-EB-Migrating_From_Kafka_To_Confluent.pdf)
+
+## Migration Tools
+
+### kcp (Kafka Copy Paste)
+
+Automated migration toolkit for MSK → Confluent Cloud migrations. See [kcp-kafka-copy-paste](kcp-kafka-copy-paste.md) for complete guide.
+
+**Key capabilities:**
+- Automated cluster discovery and inventory
+- Cost analysis and sizing recommendations
+- Terraform generation for CC provisioning
+- Uses Cluster Linking for data replication
+- Zero-cut migrations via CC Gateway
+- ACL/connector/schema migration automation
+
+**When to use:**
+- Migrating from AWS MSK to Confluent Cloud
+- Need automated discovery and cost analysis
+- Want zero-downtime cutover
+- Prefer infrastructure-as-code approach
+
+**Limitations:**
+- IAM authentication not supported (use SASL/SCRAM instead)
+- Private MSK clusters require EC2 bastion or VPN access
+- Requires cluster admin access for full scan
+
+### Cluster Linking
+
+Modern Kafka-native replication technology. See [Cluster Linking](../../confluent/data-integration/cluster-linking.md) for details.
+
+**When to use:**
+- Multi-cloud replication
+- Disaster recovery / active-passive
+- Hybrid cloud (on-prem ↔ cloud)
+- Cloud migration with continuous sync
+
+**vs kcp:** Cluster Linking is the underlying tech; kcp automates setup and orchestration.
 
 ## Cross-Cluster Data Mirroring
 
@@ -15,12 +52,12 @@ updated: 2026-06-11
     - Active-standby architecture
     - Stretch clusters
 - MirrorMaker1 and MirrorMaker2
-	- [mirrormaker](technologies/kafka/operations/mirrormaker.md)
+	- [mirrormaker](mirrormaker.md)
 - Other cross-cluster mirroring solutions
     - Uber uReplicator
-    - [replicator](technologies/confluent/data-integration/replicator.md)
+    - [replicator](../../confluent/data-integration/replicator.md)
     - Multi-Region Clusters
-    - [Cluster Linking](technologies/confluent/data-integration/cluster-linking.md)
+    - [Cluster Linking](../../confluent/data-integration/cluster-linking.md)
 
 ## Comparisons
 
@@ -129,36 +166,6 @@ The most important difference: **Cluster Linking is a broker-level, real-time, b
 ### [GitHub - confluentinc/kafka-metrics-extractor](https://github.com/confluentinc/kafka-metrics-extractor) ⭐ 6
 
 `kafka-metrics-extractor` is a tool designed to pull raw usage from Kafka providers such as MSK, OSK and others (currently supports MSK clusters only). The script for extracting MSK usage, it uses MSK permissions to list and describe the clusters only and then collects the usage data from CloudWatch and CostExplorer in order to avoid any cluster disruption.
-
-### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 27 (Kafka Copy Paste)
-
-- Simplify and streamline your Kafka migration journey to Confluent Cloud!
-- kcp helps you migrate your Kafka setups to Confluent Cloud by providing tools to:
-	- **Scan** and identify resources in existing Kafka deployments.
-	- **Create** reports for migration planning and cost analysis.
-	- **Generate** migration assets and infrastructure configurations.
-
-```bash
-kcp discover --region ap-south-1
-
-kcp scan clusters --state-file state.json --credentials-file credentials.yaml
-
-kcp create-asset migration-infrastructure
-```
-
-- [Demo: Migrate to Confluent Cloud with Kafka Copy Paste (KCP) - YouTube](https://www.youtube.com/watch?v=9EflgaCNzhE)
-
-#### Zero-cut Migrations
-
-With **Zero-cut Migrations**, clients make one change: update the bootstrap URL to point at the gateway. That's done in advance, no urgency. When the operator is ready to cut over, could be days later, could be weeks, they run one command. KCP fences traffic, waits for lag to hit zero, promotes the topics, flips routing to Confluent Cloud, and resumes traffic. Clients resume on CC. Operator is in full control the whole time: pick a single topic, a group of topics, or the whole cluster.
-
-- Fully orchestrated cutover: gateway fencing, mirror topic promotion, traffic routing flip, all automated
-- Real-time lag and offset monitoring so you pick the right window before and during the migration
-- Auth swap built in: unauthenticated clusters can migrate to Confluent cloud with minimal client changes
-- Works for any Kafka cluster migration that is Kafka compatible
-- Single bootstrap URL change for clients. That's the entire ask for clients.
-
-One gap: IAM is not supported by CC gateway at the moment.
 
 ## Scaling
 

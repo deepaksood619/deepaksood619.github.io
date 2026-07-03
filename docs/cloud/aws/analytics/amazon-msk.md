@@ -34,6 +34,90 @@ Amazon MSK detects and automatically recovers from the most common failure scena
 
 [Welcome to the Amazon MSK Developer Guide - Amazon Managed Streaming for Apache Kafka](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html)
 
+## Authentication Methods
+
+MSK supports four authentication mechanisms for securing client connections:
+
+### 1. Unauthenticated (PLAINTEXT)
+
+- No authentication required
+- Port: 9092
+- Use case: Development/testing environments, internal networks with network-level security
+- Bootstrap server property: `BootstrapBrokerString`
+
+```bash
+# Example bootstrap servers
+b-1.cluster.kafka.us-east-2.amazonaws.com:9092,b-2.cluster.kafka.us-east-2.amazonaws.com:9092
+```
+
+### 2. TLS Mutual Authentication (mTLS)
+
+- Client certificate-based authentication
+- Port: 9094
+- Use case: Strong cryptographic authentication, certificate-based access control
+- Bootstrap server property: `BootstrapBrokerStringTls`
+- Requires: Client certificates, private keys, CA certificates
+
+```bash
+# Example bootstrap servers with TLS
+b-1.cluster.kafka.us-east-2.amazonaws.com:9094,b-2.cluster.kafka.us-east-2.amazonaws.com:9094
+```
+
+### 3. SASL/SCRAM Authentication
+
+- Username/password authentication using SCRAM-SHA-512
+- Port: 9096
+- Use case: User-based access control, integrates with AWS Secrets Manager
+- Bootstrap server property: `BootstrapBrokerStringSaslScram`
+- Credentials stored in AWS Secrets Manager
+
+```bash
+# Example bootstrap servers with SASL/SCRAM
+b-1.cluster.kafka.us-east-2.amazonaws.com:9096,b-2.cluster.kafka.us-east-2.amazonaws.com:9096
+
+# Retrieve credentials from Secrets Manager
+aws secretsmanager get-secret-value --secret-id AmazonMSK_cluster-name --region us-east-2
+```
+
+**Secret format in AWS Secrets Manager:**
+
+```json
+{
+  "username": "admin",
+  "password": "password-here"
+}
+```
+
+### 4. IAM Authentication
+
+- AWS IAM role/policy-based authentication
+- Port: 9098
+- Use case: AWS-native authentication, fine-grained access control via IAM policies
+- Bootstrap server property: `BootstrapBrokerStringSaslIam`
+- **Limitation**: Not supported by some migration tools (e.g., kcp for Confluent Cloud migrations)
+
+```bash
+# Example bootstrap servers with IAM
+b-1.cluster.kafka.us-east-2.amazonaws.com:9098,b-2.cluster.kafka.us-east-2.amazonaws.com:9098
+```
+
+### Getting Bootstrap Servers
+
+Use AWS CLI to retrieve all available authentication endpoints for a cluster:
+
+```bash
+aws kafka get-bootstrap-brokers --cluster-arn arn:aws:kafka:region:account-id:cluster/cluster-name/uuid --region us-east-2
+```
+
+**Output includes:**
+
+- `BootstrapBrokerString` - Unauthenticated (port 9092)
+- `BootstrapBrokerStringTls` - mTLS (port 9094)
+- `BootstrapBrokerStringSaslScram` - SASL/SCRAM (port 9096)
+- `BootstrapBrokerStringSaslIam` - IAM (port 9098)
+
+**Note:** A single MSK cluster can support multiple authentication methods simultaneously on different ports.
+
 ## Pricing
 
 MSK Provisioned offers two types of brokers:

@@ -3,7 +3,7 @@ slug: /cloud/aws/cli-commands
 title: CLI Commands
 description: Discover essential CLI commands for AWS installation and configuration, including profile setup and EC2 instance management for efficient cloud operations.
 created: 2023-03-05
-updated: 2026-06-03
+updated: 2026-07-03
 ---
 ## AWS cli (brew install awscli)
 
@@ -60,6 +60,13 @@ aws s3 mb s3://bigbet90 --region us-west-2
 aws s3 presign s3://bigbet90/index.html --expires-in 90 # in seconds max 36 hours
 
 aws s3 cp aws.jpg s3://bigbet90 --region us-west-2 --endpoint-url https://bigbet90.s3-accelerate.amazonaws.com
+
+# setting aws output to console instead of pager
+# One-time (per command)
+aws kafka describe-cluster --cluster-arn "..." --no-cli-pager
+# Permanent
+echo 'export AWS_PAGER=""' >> ~/.zshrc
+source ~/.zshrc
 ```
 
 ## Download / Upload folder / bucket from s3
