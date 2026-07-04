@@ -6,7 +6,7 @@ created: 2023-03-05
 updated: 2026-07-02
 ---
 - [couple-activities](knowledge/games/couple-activities.md)
-- [kid-games](knowledge/games/kid-games.md)
+- [kids-games](knowledge/games/kids-games.md)
 
 ## Games
 

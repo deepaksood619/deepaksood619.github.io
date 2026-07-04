@@ -3,7 +3,7 @@ slug: /CLAUDE
 title: claude.md
 description: Content infrastructure guidance for Obsidian vault management and markdown formatting
 created: 2026-04-15
-updated: 2026-06-22
+updated: 2026-07-04
 ---
 
 **Inherits:** Project infrastructure from [root CLAUDE.md](CLAUDE.md)
@@ -333,6 +333,11 @@ updated: YYYY-MM-DD
 
 - Use natural language: `/claude-md-best-practices`
 - NOT folder-based: `~/devops/ides/claude-md-best-practices~`
+- **SEO-friendly:** Include descriptive keywords for better search visibility
+  - ✅ Good: `/json-web-key-sets-jwks` (includes full name + acronym)
+  - ✅ Good: `/hyperloglog-cardinality-estimation` (includes algorithm + purpose)
+  - ❌ Avoid: `/jwks` (acronym only, poor SEO)
+  - ❌ Avoid: `/hyperloglog` (missing context)
 - Prevents 404s when files move
 
 ### Page Structure

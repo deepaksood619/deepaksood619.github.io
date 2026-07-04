@@ -90,7 +90,7 @@ updated: 2026-06-24
 - [Family Planning](psychology/parenting/family-planning.md)
 - [Educational YouTube Curriculum for Kids](psychology/parenting/educational-youtube-curriculum-for-kids.md)
 - [Homeschooling](education/pedagogy/homeschooling.md)
-- [Games - Kids](knowledge/games/kid-games.md)
+- [Games - Kids](knowledge/games/kids-games.md)
 
 ## Related Topics
 

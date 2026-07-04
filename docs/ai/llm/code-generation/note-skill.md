@@ -3,7 +3,7 @@ slug: /note-skill
 title: Note Skill - Automated Knowledge Base Organization
 description: Claude Code skill for automatically adding topics to knowledge base with semantic search, categorization, and intelligent linking
 created: 2026-06-22
-updated: 2026-06-25
+updated: 2026-07-04
 ---
 Automatically add any topic (technology, concept, mental model, food, health, etc.) to the knowledge base with intelligent organization.
 
@@ -119,13 +119,23 @@ ls docs/<category>/ || mkdir -p docs/<category>/
 
 ```yaml
 ---
-slug: /<natural-language-slug>
+slug: /<seo-friendly-natural-language-slug>
 title: <Topic Name>
 description: <One-line description from source or user>
 created: <YYYY-MM-DD>
 updated: <YYYY-MM-DD>
 ---
 ```
+
+**Slug guidelines (SEO-friendly):**
+
+- Include descriptive keywords for better search visibility
+- ✅ Good: `/json-web-key-sets-jwks` (full name + acronym)
+- ✅ Good: `/hyperloglog-cardinality-estimation` (algorithm + purpose)
+- ✅ Good: `/apache-kafka-streams` (vendor + product + feature)
+- ❌ Avoid: `/jwks` (acronym only)
+- ❌ Avoid: `/hll` (abbreviation only)
+- Format: lowercase-with-hyphens, 2-5 words optimal
 
 **Content structure:**
 
@@ -338,8 +348,9 @@ ls -la docs/<category>/
 5. **Verify links exist** - Check target file before linking
 6. **Auto-categorize** - Based on semantic search + keywords
 7. **5-field frontmatter** - slug, title, description, created, updated
-8. **Natural language slugs** - `/topic-name` not `/folder/path/topic-name`
-9. **Be concise** - Only add core/relevant content; put additional resources in "Links" or "Further Reading" section
+8. **SEO-friendly slugs** - Include descriptive keywords: `/json-web-key-sets-jwks` not just `/jwks`
+9. **Natural language slugs** - `/topic-name` not `/folder/path/topic-name`
+10. **Be concise** - Only add core/relevant content; put additional resources in "Links" or "Further Reading" section
 
 ### ❌ DON'T
 

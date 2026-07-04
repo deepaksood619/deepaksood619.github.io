@@ -14,5 +14,5 @@ updated: 2026-02-28
 - [Couple Activities](couple-activities)
 - [Skiing / Sking](skiing-sking)
 - [Swimming](knowledge/games/swimming.md)
-- [kid-games](knowledge/games/kid-games.md)
+- [kids-games](knowledge/games/kids-games.md)
 - [Others](knowledge/games/others.md)

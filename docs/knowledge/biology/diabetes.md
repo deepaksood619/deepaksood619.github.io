@@ -11,6 +11,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ## Types of Diabetes
 
 ### Type 1 Diabetes
+
 - **Cause:** Autoimmune destruction of insulin-producing beta cells in the pancreas
 - **Onset:** Usually childhood or adolescence, but can occur at any age
 - **Prevalence:** 5-10% of all diabetes cases
@@ -18,6 +19,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - **Associated conditions:** Often occurs with other autoimmune diseases (celiac disease, thyroiditis, vitiligo)
 
 ### Type 2 Diabetes
+
 - **Cause:** Insulin resistance combined with relative insulin deficiency
 - **Onset:** Typically adults over 45, but increasingly seen in younger populations
 - **Prevalence:** 90-95% of all diabetes cases
@@ -26,6 +28,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - **Reversibility:** Can be reversed or put into remission with significant weight loss and lifestyle changes
 
 ### Gestational Diabetes
+
 - **Cause:** Hormonal changes during pregnancy causing insulin resistance
 - **Onset:** During pregnancy (usually 24-28 weeks)
 - **Resolution:** Usually resolves after delivery
@@ -33,6 +36,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - **Management:** Diet, exercise, sometimes insulin during pregnancy
 
 ### Prediabetes
+
 - **Definition:** Blood glucose levels higher than normal but not yet diabetic
 - **Fasting glucose:** 100-125 mg/dL (normal: `<100` mg/dL, diabetic: `≥126` mg/dL)
 - **Significance:** Early warning signal of insulin resistance
@@ -42,6 +46,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ## Symptoms
 
 ### Early Warning Signs
+
 - Increased thirst (polydipsia)
 - Frequent urination (polyuria)
 - Increased hunger (polyphagia)
@@ -52,6 +57,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - Frequent infections
 
 ### Advanced Symptoms
+
 - Numbness or tingling in hands/feet (neuropathy)
 - Darkened skin patches (acanthosis nigricans)
 - Recurrent yeast infections
@@ -62,35 +68,41 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ### Blood Tests
 
 **Fasting Plasma Glucose (FPG):**
+
 - Normal: `<100` mg/dL
 - Prediabetes: 100-125 mg/dL
 - Diabetes: `≥126` mg/dL (on two separate occasions)
 
 **HbA1c (Glycated Hemoglobin):**
+
 - Normal: `<5.7%`
 - Prediabetes: 5.7-6.4%
 - Diabetes: `≥6.5%`
 - Reflects average blood glucose over past 2-3 months
 
 **Oral Glucose Tolerance Test (OGTT):**
+
 - 2-hour value after 75g glucose load
 - Normal: `<140` mg/dL
 - Prediabetes: 140-199 mg/dL
 - Diabetes: `≥200` mg/dL
 
 **Random Plasma Glucose:**
+
 - Diabetes: `≥200` mg/dL with classic symptoms
 
 ## Monitoring
 
 ### Self-Monitoring
-- **Blood Glucose Meters:** Traditional finger-prick testing - See [Blood Glucose Meters & Test Strips](knowledge/biology/blood-glucose-meters.md)
+
+- **Blood Glucose Meters:** Traditional finger-prick testing - See [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md)
 - **Continuous Glucose Monitors (CGM):** Sensor-based 24/7 monitoring
   - FreeStyle Libre, Dexcom, Guardian
   - Real-time glucose trends and alerts
   - Valuable for Type 1 diabetes and insulin-dependent Type 2
 
 ### Target Ranges
+
 - **Fasting/before meals:** 80-130 mg/dL
 - **2 hours after meals:** `<180` mg/dL
 - **HbA1c:** `<7%` for most adults (individualized based on age, complications)
@@ -98,7 +110,9 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ## Treatment
 
 ### Type 1 Diabetes
+
 **Insulin Therapy (required):**
+
 - Basal insulin: Long-acting (once or twice daily)
 - Bolus insulin: Rapid-acting (with meals)
 - Insulin pump therapy
@@ -107,12 +121,14 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ### Type 2 Diabetes
 
 **Lifestyle Interventions:**
+
 - Weight loss (7-10% body weight)
 - Regular physical activity (150 min/week moderate exercise)
 - Mediterranean or low-carbohydrate diet
 - Structured meal timing (see [Eating Routine](knowledge/biology/nutrition/eating-routine.md))
 
 **Oral Medications:**
+
 - **Metformin:** First-line therapy, reduces hepatic glucose production
 - **SGLT2 inhibitors:** Promote glucose excretion via kidneys
 - **GLP-1 agonists:** Enhance insulin secretion, slow gastric emptying
@@ -120,6 +136,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - **Sulfonylureas:** Stimulate insulin release
 
 **Injectable Medications:**
+
 - GLP-1 receptor agonists (semaglutide, liraglutide)
 - Insulin (when oral agents insufficient)
 
@@ -128,27 +145,32 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ### Acute Complications
 
 **Hypoglycemia (Low Blood Sugar):**
+
 - Blood glucose `<70` mg/dL
 - Symptoms: Shakiness, sweating, confusion, rapid heartbeat
 - Treatment: Fast-acting carbohydrates (glucose tablets, juice)
 
 **Hyperglycemia (High Blood Sugar):**
+
 - Symptoms: Increased thirst, frequent urination, fatigue
 - Severe: Diabetic ketoacidosis (DKA) or hyperosmolar hyperglycemic state (HHS)
 
 ### Chronic Complications
 
 **Microvascular (small blood vessels):**
+
 - **Retinopathy:** Leading cause of blindness in adults
 - **Nephropathy:** Progressive kidney damage, may require dialysis
 - **Neuropathy:** Nerve damage causing pain, numbness, digestive issues
 
 **Macrovascular (large blood vessels):**
+
 - **Cardiovascular disease:** 2-4x increased risk of heart attack and stroke
 - **Peripheral artery disease:** Poor circulation, especially in legs
 - **Foot complications:** Ulcers, infections, potential amputation
 
 **Other Complications:**
+
 - Increased infection risk
 - Cognitive decline and dementia
 - Depression and anxiety
@@ -158,6 +180,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 ## Prevention
 
 ### Preventing Type 2 Diabetes
+
 - Maintain healthy weight (BMI 18.5-24.9)
 - Regular physical activity
 - Healthy diet rich in whole grains, vegetables, lean protein
@@ -166,6 +189,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - Limit alcohol consumption
 
 ### Preventing Complications
+
 - Maintain target blood glucose levels
 - Control blood pressure (`<140/90` mmHg)
 - Manage cholesterol (LDL `<100` mg/dL)
@@ -180,6 +204,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 Insulin resistance is a key driver of Type 2 diabetes and metabolic syndrome.
 
 **Risk Factors:**
+
 - Visceral (abdominal) obesity
 - Sedentary lifestyle
 - High-carbohydrate diet
@@ -188,6 +213,7 @@ Insulin resistance is a key driver of Type 2 diabetes and metabolic syndrome.
 - Stress
 
 **Metabolic Syndrome Criteria (3 of 5):**
+
 1. Waist circumference: Men `>40` inches, Women `>35` inches
 2. Triglycerides `≥150` mg/dL (excess fat trapped in bloodstream)
 3. Fasting glucose `≥100` mg/dL (early warning signal)
@@ -199,12 +225,14 @@ See [Metabolic Syndrome](knowledge/biology/others.md) for detailed criteria.
 ## Nutrition and Diabetes
 
 ### Glycemic Control Through Diet
+
 - **Fiber-rich foods:** Slow glucose absorption
 - **Protein at breakfast:** Prevents insulin spikes, see [Eating Routine](knowledge/biology/nutrition/eating-routine.md)
 - **Meal timing:** Early first meal (`<8:30` AM) associated with lower fasting glucose
 - **Structured meals:** 3 evenly spaced meals improve glycemic control vs. single daily meal
 
 ### Foods to Emphasize
+
 - **Whole grains:** Steel-cut oats, brown rice, quinoa (see [Grains](knowledge/biology/nutrition/grains.md))
 - **Vegetables:** Especially bitter gourd (karela) - contains charantin and polypeptide-p that mimic insulin
 - **Legumes:** Lentils, chickpeas, beans - low glycemic index
@@ -212,6 +240,7 @@ See [Metabolic Syndrome](knowledge/biology/others.md) for detailed criteria.
 - **Healthy fats:** Olive oil, avocados, fatty fish
 
 ### Foods to Limit
+
 - **Refined carbohydrates:** White bread, white rice, maida (refined wheat flour)
 - **Sabudana (tapioca):** 88% carbohydrates, causes severe glucose spikes (39+ mg/dL increases)
 - **Sugary beverages:** Soda, sweetened juices
@@ -242,12 +271,14 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 ## Special Populations
 
 ### PCOS and Diabetes
+
 - Polycystic Ovary Syndrome (PCOS) characterized by severe insulin resistance
 - Reduced satiety hormone (CCK) secretion
 - Increased carbohydrate cravings and binge-eating behaviors
 - Requires structured meal planning, not intuitive eating alone
 
 ### Celiac Disease and Type 1 Diabetes
+
 - Both autoimmune conditions
 - 1-2% prevalence of celiac disease
 - Type 1 diabetes patients have higher celiac disease risk
@@ -256,6 +287,7 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 ## Living with Diabetes
 
 ### Self-Care
+
 - Regular blood glucose monitoring
 - Medication adherence
 - Foot care and daily inspection
@@ -264,6 +296,7 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 - Support groups and education
 
 ### Emergency Preparedness
+
 - Carry diabetes ID card/bracelet
 - Have glucose tablets or fast-acting carbs available
 - Teach family/friends about hypoglycemia treatment
@@ -272,7 +305,7 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 
 ## Resources and Monitoring
 
-- [Blood Glucose Meters & Test Strips](knowledge/biology/blood-glucose-meters.md) - Equipment selection and comparison
+- [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md) - Equipment selection and comparison
 - [Tests](knowledge/biology/tests.md) - Routine health monitoring
 - [Eating Routine](knowledge/biology/nutrition/eating-routine.md) - Structured vs. intuitive eating
 - [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md) - Meal planning strategies

@@ -3,19 +3,19 @@ slug: /data-structures/hashtable/probabilistic-data-structure
 title: Understanding Probabilistic Data Structures
 description: Explore how probabilistic data structures optimize memory usage and performance for big data and streaming applications.
 created: 2023-03-05
-updated: 2023-12-05
+updated: 2026-07-04
 ---
 Probabilistic data structures are a group of data structures that are extremely useful for big data and streaming applications. Generally speaking, these data structures use hash functions to randomize and compactly represent a set of items. Collisions are ignored but errors can be well-controlled under certain threshold. Comparing with error-free approaches, these algorithms use much less memory and have constant query time. They usually support union and intersection operations and therefore can be easily parallelized.
 
-1. **Membership Query - Bloom filter**
+1. **Membership Query** - [Bloom Filter](data-structures/hashtable/bloom-filters.md)
 
-2. **Cardinality - HyperLogLog**
+2. **Cardinality Estimation** - [HyperLogLog](data-structures/hashtable/hyperloglog.md)
 
-3. **Frequency - Count-Min Sketch**
+3. **Frequency Estimation** - [Count-Min Sketch](data-structures/hashtable/count-min-sketch.md)
 
 4. **Frequency Estimation: Count-Mean-Min Sketch**
 
-5. **Locality-sensitive hashing**(**LSH**)
+5. **Locality-sensitive hashing (LSH)**
 
 ![image](../../media/Probabilistic-Data-Structure-image1.jpg)
 

@@ -3,11 +3,11 @@ slug: /technologies/confluent/cloud-networking/01-introduction
 title: Confluent Cloud Networking Overview
 description: Explore connectivity options between your network and Confluent Cloud, along with their benefits and trade-offs.
 created: 2025-12-10
-updated: 2026-01-28
+updated: 2026-07-04
 ---
 ![confluent-cloud-networking-intro](https://images.ctfassets.net/gt6dp23g0g38/1ntqDwcP1q5VgraE0XUdug/445158bc26777f83d1ac9911219a8ef0/confluent-cloud-networking-intro.jpg)
 
-Confluent Cloud runs in its own virtual network in one of three cloud providers: AWS, Google Cloud, or Azure. Your apps run in another network—in the cloud or on premises. During this course, you will learn about the available network connectivity options for connecting your network with the Confluent Cloud network. You will also learn about the benefits of each option as well as any trade-offs that need to be considered.
+Confluent Cloud runs in its own virtual network in one of three cloud providers: AWS, Google Cloud, or Azure. Your apps run in another network—in the cloud or on premises.
 
 ## Networking Fundamentals – IPv4 Addresses
 
@@ -143,9 +143,7 @@ Confluent Cloud supports the following networking solutions on the specified clo
 Using a private or public connectivity with Confluent Cloud is a trade-off:
 
 - With private networking, your cluster cannot be accessed from the public endpoints, eliminating potential security threats.
-
 - Private networking requires you to manage the peered or linked networks to ensure all your client applications and developers have the needed access to Confluent Cloud.
-
 - If you use private networking (VPC peering, VNet peering, Private Link, or Private Network Interface), you cannot directly connect from an on-premises data center to Confluent Cloud.
 	- To do this, you must first route to a shared services VPC or VNet that you own and connect that to Confluent Cloud using VPC/VNet peering (along with a proxy), Private Link, or Private Network Interface.
 

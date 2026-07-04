@@ -35,4 +35,4 @@ updated: 2026-06-24
 ## Related Topics
 
 - [Homeschooling](education/pedagogy/homeschooling.md)
-- [Games - Kids](knowledge/games/kid-games.md)
+- [Games - Kids](knowledge/games/kids-games.md)

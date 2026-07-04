@@ -16,7 +16,7 @@ updated: 2026-07-04
 ![image](../../media/Diseases-Tests-image2.jpg)
 
 - Blood Pressure (every year)
-- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/blood-glucose-meters.md)
+- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md)
 
 ![image](../../media/Diseases-Tests-image3.jpg)
 

@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-security/readme
 title: Confluent Cloud Security Overview
 description: Explore Confluent Cloud Security with insights on authentication, authorization, encryption, auditing, compliance, and IP filtering.
 created: 2026-01-28
-updated: 2026-01-29
+updated: 2026-07-04
 ---
 1. [21-authenticating-users-and-applications](technologies/confluent/cloud-security/21-authenticating-users-and-applications.md)
 2. [22-authorizing-using-rbac-and-acls](technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls.md)
@@ -59,7 +59,7 @@ updated: 2026-01-29
 			- [Add an OIDC Identity Provider](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/identity-providers.html)
 			- [Use OAuth Identity Pools and Filters](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/identity-pools.html)
 			- [Manage Identity Provider Configurations](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/manage-oauth-configs.html)
-			- [Manage the JWKS URI](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/jwks-manual-refresh.html)
+			- [Manage the JWKS URI](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/jwks-manual-refresh.html) - See [JWKS](computer-science/security/authentication/jwks.md)
 			- [Configure OAuth Clients](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/index.html)
 				- [Overview](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/overview.html)
 				- [Go Clients](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/go-clients.html)

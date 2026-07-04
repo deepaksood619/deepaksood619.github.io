@@ -1,5 +1,5 @@
 ---
-slug: /blood-glucose-meters
+slug: /diabetics-blood-glucose-meters-glucometers
 title: Blood Glucose Meters & Test Strips
 description: Guide to blood glucose monitoring devices, test strip compatibility, and meter selection for diabetes management
 created: 2026-07-04

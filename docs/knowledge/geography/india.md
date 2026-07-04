@@ -3,9 +3,9 @@ slug: /knowledge/geography/india
 title: India
 description: Explore India's demographics with a population of 1.428 billion, highlighting sex ratios and literacy rates across states and union territories.
 created: 2023-03-05
-updated: 2026-06-07
+updated: 2026-07-04
 ---
-### Population Distribution
+## Population Distribution
 
 - Total Population - 1.428 billion
 - Male population of 51.6% and a current female population of 48.4%
@@ -17,7 +17,7 @@ updated: 2026-06-07
 
 [List of states and union territories of India by sex ratio - Wikipedia](https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_sex_ratio)
 
-### Education
+## Education
 
 - India’s total literacy rate is 77.70%
 - Kerala - 96.2%
@@ -28,7 +28,7 @@ updated: 2026-06-07
 
 [State Wise Literacy Rate in India 2023 - Dare to Miss The Top 10](https://onlineschoolsindia.in/school-guide/state-wise-literacy-rate-in-india/)
 
-### Religion Distribution
+## Religion Distribution
 
 - Hinduism: 79.8%
 - Islam: 14.2%
@@ -39,7 +39,7 @@ updated: 2026-06-07
 - Jainism: 0.4%
 - No religion: 0.25%
 
-### Food Distribution
+## Food Distribution
 
 ![image](../../media/India-image1.jpg)
 
@@ -115,3 +115,4 @@ For India to become a booming economy only three things need to be at top priori
 - [Can You Be Arrested for Hugging or Kissing in Public? ft. Sonal | Jist](https://youtu.be/XYqeYlSHuCU)
 - [Reality of Civic Sense in India | The Problem is NOT What You Think | Dh...](https://youtu.be/ZZMgt5SMPEQ)
 - [Modi Govt. To Silence News Creators? | India Slips Below Pakistan In Pre...](https://youtu.be/SzfHgHoSaj0)
+- [Bastar - Live-in Relationship - Instagram](https://www.instagram.com/p/DY4k2MMiYXe/)

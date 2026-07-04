@@ -3,7 +3,7 @@ slug: /knowledge/games/kid-games
 title: Kid Games / Kids
 description: Discover the best kid games and toys that enhance creativity and problem-solving, focusing on open-ended, non-realistic options for quality playtime.
 created: 2025-09-12
-updated: 2026-03-16
+updated: 2026-07-04
 ---
 ## Toys
 
@@ -59,3 +59,4 @@ Warren Buffett’s daughter wanted to redo her kitchen and asked for a loan from
 	- Speech Blubs
 	- LogicLike
 	- IntellectoKids Learn
+- [Fun Home Activities - Instagram](https://www.instagram.com/reels/DaTl9QTxGeB/)
