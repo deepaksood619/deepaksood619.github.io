@@ -3,7 +3,7 @@ slug: /knowledge/biology/tests
 title: Tests
 description: "Discover essential health tests like fasting lipid profiles and blood pressure checks to monitor your well-being—stay informed and healthy today!"
 created: 2025-06-22
-updated: 2025-06-22
+updated: 2026-07-04
 ---
 ![image](../../media/Diseases-Tests-image1.jpg)
 
@@ -16,6 +16,7 @@ updated: 2025-06-22
 ![image](../../media/Diseases-Tests-image2.jpg)
 
 - Blood Pressure (every year)
+- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/blood-glucose-meters.md)
 
 ![image](../../media/Diseases-Tests-image3.jpg)
 

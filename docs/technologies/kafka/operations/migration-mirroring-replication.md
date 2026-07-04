@@ -14,6 +14,7 @@ updated: 2026-07-03
 Automated migration toolkit for MSK → Confluent Cloud migrations. See [kcp-kafka-copy-paste](kcp-kafka-copy-paste.md) for complete guide.
 
 **Key capabilities:**
+
 - Automated cluster discovery and inventory
 - Cost analysis and sizing recommendations
 - Terraform generation for CC provisioning
@@ -22,12 +23,14 @@ Automated migration toolkit for MSK → Confluent Cloud migrations. See [kcp-kaf
 - ACL/connector/schema migration automation
 
 **When to use:**
+
 - Migrating from AWS MSK to Confluent Cloud
 - Need automated discovery and cost analysis
 - Want zero-downtime cutover
 - Prefer infrastructure-as-code approach
 
 **Limitations:**
+
 - IAM authentication not supported (use SASL/SCRAM instead)
 - Private MSK clusters require EC2 bastion or VPN access
 - Requires cluster admin access for full scan
@@ -37,6 +40,7 @@ Automated migration toolkit for MSK → Confluent Cloud migrations. See [kcp-kaf
 Modern Kafka-native replication technology. See [Cluster Linking](../../confluent/data-integration/cluster-linking.md) for details.
 
 **When to use:**
+
 - Multi-cloud replication
 - Disaster recovery / active-passive
 - Hybrid cloud (on-prem ↔ cloud)

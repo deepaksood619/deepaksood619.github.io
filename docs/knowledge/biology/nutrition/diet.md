@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/diet
 title: Diet
 description: Explore the complex relationship between diet, insulin resistance, and exercise, and learn how our brains adapt in a feast-famine environment.
 created: 2023-07-10
-updated: 2026-06-26
+updated: 2026-07-04
 ---
 Humans evolved for Feast - famine
 
@@ -153,6 +153,7 @@ Here is my current weekly meal schedule:
 - semolina is still a refined wheat product. It digests very quickly, provides minimal fiber, and causes rapid spikes in blood sugar.
 - no tea, no coffee anytime - only water
 - Pizza (Cook on leave)
+- Add Nimbu/Lemon to cold/warm food (not hot) before eating specially in iron reach food
 
 ### Daily Accompaniments
 

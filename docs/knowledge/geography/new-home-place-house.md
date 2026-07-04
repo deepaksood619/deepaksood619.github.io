@@ -3,7 +3,7 @@ slug: /knowledge/geography/new-home-place-house
 title: New Home / Place Buying / House
 description: Explore essential insights on buying a new home, understanding housing investments, and choosing the best places to live for long-term benefits.
 created: 2024-02-23
-updated: 2026-05-18
+updated: 2026-07-04
 ---
 - [Living](knowledge/geography/living.md)
 - [home-house-building](knowledge/geography/home-house-building.md)
@@ -29,6 +29,7 @@ It's about people and not place where you live, you enjoy places with people and
 
 ## New Home
 
+- Delivery Status (are delivery boys allowed to come up to flat to deliver? or have to go down to accept delivery)
 - Buy home where new metro stations are coming up
 - Study Room / Office Room / GYM (2 desks for WFH - no bed or people or clutter in study room)
 - Buy home in parents name, so can pay house rent and deduct HRA) / Housing / Condominiums

@@ -60,14 +60,14 @@ regions:
       # For unauthenticated clusters (port 9092)
       unauthenticated_plaintext:
         use: true
-      
+
       # OR for SASL/SCRAM (port 9096)
       # sasl_scram:
       #   use: true
       #   username: "admin"
       #   password: "password-from-secrets-manager"
       #   mechanism: SHA512
-      
+
       # OR for IAM (port 9098) - NOT supported for zero-cut migrations
       # iam:
       #   use: true
@@ -100,6 +100,7 @@ kcp scan clusters \
 ```
 
 **What it scans:**
+
 - All topics, partitions, configs
 - Consumer groups and lag
 - ACLs and permissions
@@ -138,7 +139,26 @@ kcp report metrics --state-file kcp-state.json
 
 ```bash
 # Generate Terraform for Confluent Cloud resources
-kcp create-asset target-infra --state-file kcp-state.json
+kcp create-asset target-infra \
+    --state-file kcp-state.json \
+    --source-cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3" \
+    --needs-environment \
+    --env-name "kcp-migration-demo" \
+    --needs-cluster \
+    --cluster-name "migrated-from-msk" \
+    --cluster-type "dedicated" \
+    --cluster-availability "SINGLE_ZONE" \
+    --cluster-cku 1 \
+    --output-dir "target_infra"
+
+#  Key parameters:
+#   - --state-file kcp-state.json - Uses scan data
+#   - --source-cluster-id - Which MSK cluster to migrate from
+#   - --needs-environment + --env-name - Create new CC environment
+#   - --needs-cluster + --cluster-name - Create new CC cluster
+#   - --cluster-type dedicated - Dedicated cluster (vs enterprise)
+#   - --cluster-cku 1 - 1 Confluent Kafka Unit sizing
+#   - --output-dir target_infra - Where to write Terraform files
 
 # Generate Cluster Linking config (data replication)
 kcp create-asset migration-infra --state-file kcp-state.json
@@ -157,6 +177,7 @@ kcp create-asset migrate-schemas --state-file kcp-state.json
 ```
 
 **What you get:**
+
 - Terraform files to provision CC cluster
 - Ansible playbooks for Cluster Linking
 - Topic configs matching MSK settings
@@ -185,6 +206,7 @@ aws kafka get-bootstrap-brokers \
 ```
 
 **Output shows:**
+
 - `BootstrapBrokerString` (PLAINTEXT, port 9092)
 - `BootstrapBrokerStringTls` (TLS, port 9094)
 - `BootstrapBrokerStringSaslScram` (SASL/SCRAM, port 9096)
@@ -207,6 +229,7 @@ aws kafka describe-cluster-v2 \
 ### MSK Authentication Methods
 
 See [Amazon MSK Authentication](../../../cloud/aws/analytics/amazon-msk.md#authentication-methods) for detailed comparison of:
+
 - Unauthenticated (PLAINTEXT)
 - TLS mutual authentication (mTLS)
 - SASL/SCRAM
@@ -242,6 +265,352 @@ Flags:
 
 Use "kcp [command] --help" for more information about a command.
 ```
+
+## Troubleshooting Common Issues
+
+### Issue 1: Authentication Failed (SASL/SCRAM)
+
+**Error:** `SASL Authentication failed: Authentication failed during authentication due to invalid credentials`
+
+**Root causes:**
+
+1. Wrong username/password in credentials file
+2. Secret not associated with the cluster
+3. Wrong secret being used
+
+**Solution:**
+
+```bash
+# Step 1: Find which secrets are actually associated with the cluster
+aws kafka list-scram-secrets \
+  --cluster-arn "arn:aws:kafka:region:account:cluster/name/uuid" \
+  --region us-east-2
+
+# Step 2: Get credentials from the CORRECT secret
+aws secretsmanager get-secret-value \
+  --secret-id "SECRET_NAME_FROM_STEP_1" \
+  --region us-east-2 \
+  --query SecretString --output text | jq
+
+# Step 3: Update msk-credentials.yaml with correct username/password
+```
+
+**Real example:** Cluster had secret `AmazonMSK_kcp-ec2-user-secrets-manager` associated, but we were using `AmazonMSK_kcp-msk-tao-cluster_scram` which was NOT associated.
+
+### Issue 2: Network Timeout (Private Endpoints)
+
+**Error:** `dial tcp 172.32.44.231:9092: i/o timeout`
+
+**Root cause:** MSK cluster has private VPC endpoints, not accessible from local machine
+
+**Solution:**
+
+```bash
+# Check if cluster has public access
+aws kafka describe-cluster-v2 \
+  --cluster-arn "$CLUSTER_ARN" \
+  --region us-east-2 \
+  --query 'ClusterInfo.Provisioned.BrokerNodeGroupInfo.ConnectivityInfo.PublicAccess.Type'
+
+# If PUBLIC access enabled, check security groups
+aws kafka describe-cluster \
+  --cluster-arn "$CLUSTER_ARN" \
+  --region us-east-2 \
+  --query 'ClusterInfo.BrokerNodeGroupInfo.SecurityGroups' \
+  --output text
+
+# Add your IP to security group
+MY_IP=$(curl -s ifconfig.me)
+aws ec2 authorize-security-group-ingress \
+  --group-id sg-xxxxx \
+  --protocol tcp \
+  --port 9196 \
+  --cidr $MY_IP/32 \
+  --region us-east-2
+```
+
+**If private only:** Run kcp from EC2 instance in same VPC
+
+```bash
+# Generate bastion host Terraform
+kcp create-asset bastion-host --state-file kcp-state.json
+
+# SSH to bastion and run kcp from there
+ssh ec2-user@bastion-ip
+```
+
+### Issue 3: Scanned 0 Clusters
+
+**Error:** `Scan completed successfully. Scanned 0 cluster(s)`
+
+**Root causes:**
+
+1. Wrong credentials file format
+2. Missing `regions:` top-level key
+3. Network/auth issue (check verbose logs)
+
+**Solution:**
+
+Correct format:
+
+```yaml
+regions:  # REQUIRED top-level key
+- name: us-east-2
+  clusters:
+  - name: cluster-name
+    arn: arn:aws:kafka:region:account:cluster/name/uuid
+    auth_method:
+      sasl_scram:
+        use: true
+        username: "user"
+        password: "pass"
+        mechanism: SHA512
+```
+
+**Wrong format** (missing `regions:`):
+
+```yaml
+clusters:  # ❌ WRONG - will scan 0 clusters
+  - name: cluster-name
+```
+
+### Issue 4: Terraform Variable Missing
+
+**Error:** `No value for required variable subnet_cidr_ranges`
+
+**Root cause:** kcp generates Terraform expecting private link setup even when not needed
+
+**Solution:**
+
+Add to `inputs.auto.tfvars`:
+
+```bash
+subnet_cidr_ranges = []
+```
+
+Or regenerate without `--needs-private-link` flag.
+
+### Issue 5: AWS Session Expired
+
+**Error:** `Your session has expired. Please reauthenticate using 'aws login'`
+
+**Solution:**
+
+```bash
+# Re-authenticate
+aws login
+
+# Or export temporary credentials
+export AWS_ACCESS_KEY_ID="..."
+export AWS_SECRET_ACCESS_KEY="..."
+export AWS_SESSION_TOKEN="..."
+```
+
+## Migration Validation Checklist
+
+### Pre-Migration Baseline
+
+Capture MSK state before migration:
+
+```bash
+# 1. Topic inventory
+kafka-topics --bootstrap-server $MSK_BOOTSTRAP --list > msk-topics-baseline.txt
+kafka-topics --bootstrap-server $MSK_BOOTSTRAP --describe > msk-topics-details.txt
+
+# 2. Consumer groups
+kafka-consumer-groups --bootstrap-server $MSK_BOOTSTRAP --list > msk-groups-baseline.txt
+
+# 3. Consumer lag
+for group in $(kafka-consumer-groups --bootstrap-server $MSK_BOOTSTRAP --list); do
+  echo "=== $group ===" >> msk-lag-baseline.txt
+  kafka-consumer-groups --bootstrap-server $MSK_BOOTSTRAP --group $group --describe >> msk-lag-baseline.txt
+done
+
+# 4. ACLs
+kafka-acls --bootstrap-server $MSK_BOOTSTRAP --list > msk-acls-baseline.txt
+
+# 5. kcp baseline report
+kcp report metrics --state-file kcp-state.json > msk-metrics-baseline.txt
+```
+
+### Post-Migration Validation
+
+After migration, verify:
+
+#### 1. Topic Count & Names
+
+```bash
+# Create CC kafka.properties
+cat > kafka.properties <<EOF
+bootstrap.servers=pkc-xxxxx.us-east-2.aws.confluent.cloud:9092
+security.protocol=SASL_SSL
+sasl.mechanism=PLAIN
+sasl.jaas.config=org.apache.kafka.common.security.plain.PlainLoginModule required username="API_KEY" password="API_SECRET";
+EOF
+
+# Compare topic counts
+MSK_COUNT=$(kafka-topics --bootstrap-server $MSK_BOOTSTRAP --list | wc -l)
+CC_COUNT=$(kafka-topics --command-config kafka.properties --bootstrap-server $CC_BOOTSTRAP --list | wc -l)
+
+echo "MSK Topics: $MSK_COUNT"
+echo "CC Topics: $CC_COUNT"
+
+# Find missing topics
+comm -23 \
+  <(kafka-topics --bootstrap-server $MSK_BOOTSTRAP --list | sort) \
+  <(kafka-topics --command-config kafka.properties --bootstrap-server $CC_BOOTSTRAP --list | sort) \
+  > missing-topics.txt
+
+if [ -s missing-topics.txt ]; then
+  echo "⚠️ MISSING TOPICS:"
+  cat missing-topics.txt
+else
+  echo "✅ All topics migrated"
+fi
+```
+
+#### 2. Partition Counts
+
+```bash
+for topic in $(kafka-topics --bootstrap-server $MSK_BOOTSTRAP --list); do
+  MSK_PARTS=$(kafka-topics --bootstrap-server $MSK_BOOTSTRAP --describe --topic $topic | grep PartitionCount | awk '{print $2}')
+  CC_PARTS=$(kafka-topics --command-config kafka.properties --bootstrap-server $CC_BOOTSTRAP --describe --topic $topic 2>/dev/null | grep PartitionCount | awk '{print $2}')
+
+  if [ "$MSK_PARTS" != "$CC_PARTS" ]; then
+    echo "⚠️ MISMATCH: $topic - MSK:$MSK_PARTS CC:$CC_PARTS"
+  fi
+done
+```
+
+#### 3. Consumer Group Lag
+
+```bash
+# Check lag on CC cluster
+for group in $(kafka-consumer-groups --command-config kafka.properties --bootstrap-server $CC_BOOTSTRAP --list | head -10); do
+  echo "=== $group ==="
+  kafka-consumer-groups --command-config kafka.properties --bootstrap-server $CC_BOOTSTRAP --group $group --describe
+done
+```
+
+#### 4. RBAC Validation
+
+```bash
+# Check service account has correct permissions
+confluent iam rbac role-binding list \
+  --principal User:sa-xxxxx \
+  --cloud-cluster lkc-xxxxx \
+  --current-environment
+
+# Expected roles:
+# - CloudClusterAdmin
+# - DataSteward (environment level)
+# - ResourceOwner (Schema Registry)
+```
+
+#### 5. Connectivity Test
+
+```bash
+# Produce test message
+echo "test-message" | kafka-console-producer \
+  --bootstrap-server $CC_BOOTSTRAP \
+  --producer.config kafka.properties \
+  --topic test-migration
+
+# Consume test message
+kafka-console-consumer \
+  --bootstrap-server $CC_BOOTSTRAP \
+  --consumer.config kafka.properties \
+  --topic test-migration \
+  --from-beginning \
+  --max-messages 1
+```
+
+### Critical Validation Checklist
+
+**Before declaring migration complete:**
+
+- [ ] Topic count matches (MSK == CC)
+- [ ] Partition count matches per topic
+- [ ] Consumer groups migrated
+- [ ] Consumer lag `<1000` messages
+- [ ] Service accounts have correct RBAC
+- [ ] API keys created and working
+- [ ] Schemas migrated (if using Schema Registry)
+- [ ] Connectors migrated and running
+- [ ] Client applications can connect to CC
+- [ ] No authentication errors
+- [ ] Monitoring configured in CC UI
+- [ ] Terraform state saved
+
+### Rollback Decision Criteria
+
+**Rollback to MSK if:**
+
+- Data loss detected (message count mismatch)
+- Consumer lag `>10,000` and growing
+- Application errors `>5%` of requests
+- Critical consumer group missing
+- Authentication failures after cutover
+
+## Hands-On Learnings
+
+### Real Migration Exercise (MSK → CC)
+
+**What we accomplished:**
+
+1. ✅ Scanned live MSK cluster (`kcp-msk-tao-cluster`)
+2. ✅ Debugged authentication (found correct SCRAM secret)
+3. ✅ Fixed network access (security group whitelisting)
+4. ✅ Generated Terraform for CC cluster
+5. ✅ Deployed to Confluent Cloud `deep-test` environment
+6. ✅ Created 1 CKU dedicated cluster in us-east-2
+
+**Key blockers encountered:**
+
+1. **Wrong SCRAM secret** - Cluster used `AmazonMSK_kcp-ec2-user-secrets-manager` but we initially tried `AmazonMSK_kcp-msk-tao-cluster_scram`
+   - **Fix:** Always run `aws kafka list-scram-secrets` first
+
+2. **Security group blocking port 9196** - Public cluster but security group didn't allow our IP
+   - **Fix:** Add IP to security group rules
+
+3. **Credentials file format** - Missing top-level `regions:` key
+   - **Fix:** Use exact format from `original_creds.yaml` example
+
+4. **Private VPC endpoints** - Most production MSK clusters are private-only
+   - **Fix:** Run kcp from EC2 bastion or enable public access
+
+### Terraform Deployment Results
+
+**Deployed resources:**
+
+```bash
+# Cluster details
+cluster_id                 = "lkc-o33n2j9"
+cluster_name              = "kcp-migrated-msk-demo"
+cluster_bootstrap_endpoint = "pkc-8ypzxr.us-east-2.aws.confluent.cloud:9092"
+
+# Service account
+service_account_id = "sa-nw0qywk"
+
+# API keys
+kafka_api_key_id     = "D2JR6DK3C6BREOQE"
+kafka_api_key_secret = "cfltVAYeQ+/jUhJK6B9g4lFRGylIgWLFBb08pntAA6pcOkMvLNepHZwGB3gyLOfQ"
+```
+
+**Time to deploy:** ~6 minutes (cluster provisioning)
+
+**Cost:** ~$1.50/hour = ~$1,095/month (1 CKU dedicated cluster)
+
+### Best Practices Learned
+
+1. **Always check which secret is associated** with the cluster before scanning
+2. **Test network connectivity** (telnet/nc) before running full scan
+3. **Use `--verbose`** flag to debug authentication issues
+4. **Save kcp-state.json** - it contains complete cluster inventory
+5. **Use existing CC environment** instead of creating new one (`--env-id` vs `--needs-environment`)
+6. **Validate Terraform plan** before applying (check CKU sizing, region)
+7. **Keep API keys secure** - they're in Terraform output and state file
+8. **Document baseline metrics** before migration (topic count, lag, throughput)
 
 ## Zero-cut Migrations
 

@@ -191,6 +191,8 @@ Dr. Casey Means has identified five key health metrics that indicate whether you
 4. Blood pressure higher than 130/85 mmHg (high blood pressure indicates your body is chronically inflamed).
 5. HDL cholesterol lower than 50 mg/dL (low HDL cholesterol means your body struggles to clear fat and cholesterol from your bloodstream).
 
+**Note:** These five metrics constitute the criteria for Metabolic Syndrome. Having 3 or more indicates metabolic syndrome and increased diabetes risk. See [Diabetes - Insulin Resistance](knowledge/biology/diabetes.md) for comprehensive information.
+
 ## Links
 
 [The more fertile you are, the sooner you may die](https://www.msn.com/en-in/lifestyle/whats-hot/the-more-fertile-you-are-the-sooner-you-may-die-study/ar-AA1lA8ML)

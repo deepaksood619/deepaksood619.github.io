@@ -131,72 +131,72 @@ Create 15 mcq questions (with 4 options each and 1 correct answer) around below 
 
 Hi ChatGPT, I'm speaking this prompt aloud, and I know it might not sound perfect—but please don’t judge me based on how I say it. I'm here to improve my impromptu speaking and extempore skills. I'd like you to ask me a series of thoughtful questions or give me topics that can help you analyze how I think and respond on the spot. After that, I'd really appreciate feedback on where I can improve—whether it's my structure, clarity, confidence, or vocabulary—so I can gradually get better at speaking off the cuff. Let's begin whenever you're ready!
 
-## The learning curve destroyer  
-  
-You are a teacher who has only 4 hours with me and will never see me again. Your only objective is to make me functional in [SKILL] before the time runs out.  
-  
-No theory without practical use, and no generic lists.  
-  
-Tell me three things: what to learn first, what to ignore completely, and the one exercise that, done a single time, would already put me ahead of 70% of people who have studied this for months.  
-  
+## The learning curve destroyer
+
+You are a teacher who has only 4 hours with me and will never see me again. Your only objective is to make me functional in [SKILL] before the time runs out.
+
+No theory without practical use, and no generic lists.
+
+Tell me three things: what to learn first, what to ignore completely, and the one exercise that, done a single time, would already put me ahead of 70% of people who have studied this for months.
+
 Teach me the first step, then wait for my reply.
-  
-## The real error simulator  
-  
-Do not explain [CONCEPT] to me.  
-  
-Put me directly into a realistic situation where I would have to use it and would probably make a mistake. Then wait for my response.  
-  
-When I make a mistake, do not give me the answer. Ask me one question that forces me to find where my reasoning breaks.  
-  
+
+## The real error simulator
+
+Do not explain [CONCEPT] to me.
+
+Put me directly into a realistic situation where I would have to use it and would probably make a mistake. Then wait for my response.
+
+When I make a mistake, do not give me the answer. Ask me one question that forces me to find where my reasoning breaks.
+
 Give me the answer only after I have tried at least twice. Then repeat the cycle with a new situation until I can get it right without hesitation.
-  
-## The impossible language translator  
-  
-The content below is confusing to me.  
-  
-Before explaining anything, tell me the one core idea that, once I understand it, makes the rest fall into place.  
-  
-Explain only that idea first, using an everyday analogy and no technical terms.  
-  
-Then ask me 3 questions that only someone who truly understood it could answer. Ask them one at a time and wait for my answers.  
-  
-Do not move on to the rest until I pass all three.  
-  
+
+## The impossible language translator
+
+The content below is confusing to me.
+
+Before explaining anything, tell me the one core idea that, once I understand it, makes the rest fall into place.
+
+Explain only that idea first, using an everyday analogy and no technical terms.
+
+Then ask me 3 questions that only someone who truly understood it could answer. Ask them one at a time and wait for my answers.
+
+Do not move on to the rest until I pass all three.
+
 [PASTE THE CONTENT HERE]
-  
-## The personal learning path architect  
-  
-My real goal is [GOAL].  
-  
-It is not to learn [SKILL] in general. It is to achieve [SPECIFIC RESULT] within [DEADLINE].  
-  
-I already know [WHAT YOU ALREADY MASTER].  
-  
-Based on that, build me a 7-day learning path.  
-  
-Each day must include: one single task that fits within 45 minutes, a clear criterion so I know whether I did it correctly, and what not to do that day so I do not waste time.  
-  
+
+## The personal learning path architect
+
+My real goal is [GOAL].
+
+It is not to learn [SKILL] in general. It is to achieve [SPECIFIC RESULT] within [DEADLINE].
+
+I already know [WHAT YOU ALREADY MASTER].
+
+Based on that, build me a 7-day learning path.
+
+Each day must include: one single task that fits within 45 minutes, a clear criterion so I know whether I did it correctly, and what not to do that day so I do not waste time.
+
 If the path won’t get me there, rebuild it.
-  
-## The hidden gap detector  
-  
-I think I already master [SKILL]. I want you to prove me wrong.  
-  
-Ask me 5 questions that seem simple but expose the gaps of someone who has never truly gone deep.  
-  
-Ask them one at a time and wait for each answer.  
-  
-After every answer, tell me what it reveals about what is still missing in my foundation.  
-  
+
+## The hidden gap detector
+
+I think I already master [SKILL]. I want you to prove me wrong.
+
+Ask me 5 questions that seem simple but expose the gaps of someone who has never truly gone deep.
+
+Ask them one at a time and wait for each answer.
+
+After every answer, tell me what it reveals about what is still missing in my foundation.
+
 Do not go easy on me. If I am being shallow, tell me directly.
-  
-## The forced Feynman method  
-  
-I just studied [TOPIC].  
-  
-I am going to explain what I understood as if you were a 10-year-old child.  
-  
-Wait for my explanation. While I explain, stop me every time I use jargon I cannot define, skip a step in the reasoning, or simplify so much that it becomes wrong.  
-  
+
+## The forced Feynman method
+
+I just studied [TOPIC].
+
+I am going to explain what I understood as if you were a 10-year-old child.
+
+Wait for my explanation. While I explain, stop me every time I use jargon I cannot define, skip a step in the reasoning, or simplify so much that it becomes wrong.
+
 At the end, tell me exactly what those mistakes reveal about what is still not solid in my understanding.

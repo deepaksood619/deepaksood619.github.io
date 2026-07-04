@@ -3,7 +3,7 @@ slug: /knowledge/biology/diseases
 title: Diseases
 description: Explore essential insights on diseases, lifestyle-related conditions, hyperthyroidism, and injury care for better health awareness and management.
 created: 2023-03-05
-updated: 2026-05-27
+updated: 2026-07-04
 ---
 Listening to your own body over a lifetime can tell you far more than any doctor in a small room for a rushed 10 minutes appointment.
 
@@ -228,9 +228,7 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 ## Diabetes
 
-- [The Rise Of Glucose Monitoring Among Non-Diabetics - YouTube](https://www.youtube.com/watch?v=nYy1zEHvXZ4)
-- [The Dumbest Health Trend Of 2024: CGM \| Dr Karan - YouTube](https://www.youtube.com/watch?v=PFAwkIUluYY)
-- CGM - Continuous Glucose Monitor
+See [Diabetes](knowledge/biology/diabetes.md) - Comprehensive guide to types, symptoms, diagnosis, treatment, complications, and prevention
 
 ## Mumps
 

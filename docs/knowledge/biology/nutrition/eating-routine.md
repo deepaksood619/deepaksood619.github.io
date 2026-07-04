@@ -195,3 +195,7 @@ Ultimately, the optimal, evidence-based approach to human eating is fundamentall
 For most people, a combination of both works best.
 
 Having a **loose routine** (e.g., aiming for three meals a day roughly around the same times) provides structure and prevents you from getting overly hungry. However, using **hunger and satiety cues** within that routine allows you to decide _how much_ to eat at those meals. If you sit down for lunch and aren't very hungry, you eat less. If you are ravenous, you eat more.
+
+## Related Topics
+
+- [Diabetes](knowledge/biology/diabetes.md) - Comprehensive guide including insulin resistance, prediabetes, and glycemic control through diet and meal timing
