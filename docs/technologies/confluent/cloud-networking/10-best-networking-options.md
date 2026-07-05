@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-networking/10-best-networking-options
 title: Choosing the Right Networking Option
 description: Explore essential factors for selecting the best networking architecture for Confluent Cloud tailored to your requirements.
 created: 2025-12-10
-updated: 2026-01-28
+updated: 2026-07-05
 ---
 ## What, Where, How?
 
@@ -28,6 +28,8 @@ With VPC or VNet direct peering, your cluster is only accessed over the peering 
 AWS Transit Gateway builds on a peering network. It only works in AWS, but it removes the requirement for 1:1 peering connections. It also makes connectivity to cloud environments, or even your datacenter, much easier.
 
 Finally, Private Link is a one-way connection that allows your clients to access Confluent Cloud, but not the other way around. It doesn’t require a /16 CIDR range, but it does require a custom zone in your DNS infrastructure. Also, because it uses just a set of endpoints, any client that can access the VPC or VNet where the private endpoints reside can access Confluent Cloud.
+
+**Private Network Interface (PNI)** on AWS offers the best of both worlds - combining the security of Private Link with cost-efficient private connectivity. [PNI](technologies/confluent/cloud-networking/09-aws-pni.md) uses AWS ENIs directly in your VPC, eliminating cross-AZ networking costs and reducing throughput costs by 20-40% compared to PrivateLink. Available for Enterprise and Freight clusters on AWS.
 
 ## What Connects with Confluent Cloud?
 

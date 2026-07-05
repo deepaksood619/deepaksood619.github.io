@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/code-generators-coding-generators
 title: Code Generators / Coding Generators
 description: Discover advanced code generators like Gemini Code Assist and GitHub Copilot for efficient coding, modernization, and seamless integration in your projects.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-07-05
 ---
 - [claude-code](ai/llm/code-generation/claude-code.md)
 
@@ -89,6 +89,7 @@ You can also ask me questions about your editor selection by starting an inline 
 
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Google Antigravity](https://antigravity.google/)
+	- [Google Antigravity Documentation](https://antigravity.google/docs/skills)
 - [Windsurf Editor](https://windsurf.com/)
 - [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) ⭐ 85k
 - [GitHub - cline/cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. · GitHub](https://github.com/cline/cline) ⭐ 63k

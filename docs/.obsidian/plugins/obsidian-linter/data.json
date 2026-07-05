@@ -299,6 +299,11 @@
       "label": "deepak-wal",
       "match": "deepak-wal.*",
       "flags": "i"
+    },
+    {
+      "label": "interviews",
+      "match": "interviews.*.md",
+      "flags": "i"
     }
   ],
   "linterLocale": "system-default",

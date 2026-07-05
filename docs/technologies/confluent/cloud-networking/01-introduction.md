@@ -143,7 +143,9 @@ Confluent Cloud supports the following networking solutions on the specified clo
 Using a private or public connectivity with Confluent Cloud is a trade-off:
 
 - With private networking, your cluster cannot be accessed from the public endpoints, eliminating potential security threats.
+
 - Private networking requires you to manage the peered or linked networks to ensure all your client applications and developers have the needed access to Confluent Cloud.
+
 - If you use private networking (VPC peering, VNet peering, Private Link, or Private Network Interface), you cannot directly connect from an on-premises data center to Confluent Cloud.
 	- To do this, you must first route to a shared services VPC or VNet that you own and connect that to Confluent Cloud using VPC/VNet peering (along with a proxy), Private Link, or Private Network Interface.
 

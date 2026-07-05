@@ -3,11 +3,13 @@ slug: /devops/terraform/documentation
 title: AWS Provider Configuration Guide
 description: Learn how to configure the AWS provider in Terraform for effective resource management and API interactions.
 created: 2023-03-05
-updated: 2026-02-19
+updated: 2026-07-05
 ---
 ## Providers
 
 The provider block is used to configure the named provider, in our case "aws". A provider is responsible for creating and managing resources. A provider is a plugin that Terraform uses to translate the API interactions with the service. A provider is responsible for understanding API interactions and exposing resources. Because Terraform can interact with any API, almost any infrastructure type can be represented as a resource in Terraform.
+
+**Security Note:** When configuring AWS providers, never hardcode credentials in your Terraform files. See [AWS Credentials Security](devops/terraform/aws-credentials-security.md) for best practices on managing credentials securely.
 
 Multiple provider blocks can exist if a Terraform configuration manages resources from different providers. To add multiple providers in your configuration, declare the providers and create resources associated with those providers. If your configuration creates a new AWS instance in your environment and you need to add that instance to your Datadog monitoring, you would declare the providers sequentially and then declare your resources for each. In the example below, using multiple providers enables us to pass the instance information directly into the monitoring query.
 

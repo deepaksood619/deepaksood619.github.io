@@ -3,7 +3,7 @@ slug: /psychology/behavioral-psychology
 title: Behavioral Psychology
 description: Habits, willpower, self-awareness, and behavioral patterns
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-05
 ---
 
 ## Core Behaviors
@@ -22,3 +22,7 @@ updated: 2026-06-24
 ## Learning & Conditioning
 
 - [Classical & Operant Conditioning](psychology/behavioral-psychology/others.md)
+
+## Links
+
+- [Psychology (OpenStax)](https://notebooklm.google.com/notebook/90a2ee5f-cccb-4c28-a356-bb1682cc8aeb)

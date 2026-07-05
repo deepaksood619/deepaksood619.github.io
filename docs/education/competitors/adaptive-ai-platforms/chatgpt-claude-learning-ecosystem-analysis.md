@@ -3,7 +3,7 @@ slug: /education/competitors/adaptive-ai-platforms/chatgpt-claude-learning-ecosy
 title: ChatGPT vs. Claude Learning Ecosystem Analysis
 description: Explore a detailed EdTech comparison of ChatGPT and Claude's features designed to enhance human learning and engagement.
 created: 2026-06-11
-updated: 2026-06-17
+updated: 2026-07-05
 ---
 > **Purpose:** Comprehensive EdTech analysis of native features, specialized modes, and top-tier plugins/skills on ChatGPT (OpenAI) and Claude (Anthropic) engineered to optimize and accelerate human learning.
 
@@ -496,3 +496,5 @@ For an Indian edtech startup building AI-powered learning tools:
 - Khanmigo pedagogical evaluation — Khan Academy internal study (2024)
 - Anthropic Extended Thinking documentation (2025)
 - OpenAI GPT Store analytics (3M+ GPTs, 2025)
+- [Google NotebookLM \| AI Study Tool for Students](https://notebooklm.google/students)
+	- **Learning Guide -** Engage with a personal AI tutor that uses probing questions and adapts explanations to your learning style.

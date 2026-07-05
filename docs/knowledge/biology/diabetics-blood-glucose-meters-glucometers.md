@@ -13,19 +13,23 @@ Blood glucose meters (glucometers) are medical devices used to measure blood sug
 OneTouch Ultra is a reliable legacy brand with different characteristics compared to newer technology:
 
 **Blood Sample Size:**
+
 - OneTouch Ultra: **1.0 µL** (larger sample, deeper prick)
 - OneTouch Verio: **0.4 µL** (smaller, less painful)
 - FreeStyle Lite: **0.3 µL** (smallest)
 
 **Coding Requirements:**
+
 - OneTouch Ultra: Manual coding required (match vial code to meter)
 - Modern strips (Verio, Contour Next): **No-code** technology
 
 **Second-Chance Sampling:**
+
 - Contour Next: Can apply more blood within 60 seconds if initial sample insufficient
 - OneTouch Ultra: Shows error if blood volume insufficient, cannot reapply
 
 **Enzyme Technology:**
+
 - Modern strips use FAD-GDH enzymes that block interference from vitamin C or acetaminophen
 - Higher accuracy meeting current FDA/ISO standards
 
@@ -34,6 +38,7 @@ OneTouch Ultra is a reliable legacy brand with different characteristics compare
 **Compatible Strips:** OneTouch Ultra test strips only (not compatible with Verio, Select Plus, or other brands)
 
 **Calibration/Coding:**
+
 1. Insert test strip into meter
 2. Screen displays code (e.g., **C 25**)
 3. Verify code matches vial label (e.g., **Code 25**)
@@ -53,11 +58,13 @@ Both are modern, accurate, no-code systems by LifeScan with different user exper
 | **Technology** | Scans sample 500x for interferences | Auto-adjusts for hematocrit variations |
 
 **Choose Verio for:**
+
 - Advanced connectivity and app integration
 - Smallest blood sample requirement (gentler testing)
 - Detailed data logging and trend analysis
 
 **Choose Select Plus for:**
+
 - Simple, visual interface without complex menus
 - Audio alerts and color-coded results
 - Straightforward testing without smartphone integration

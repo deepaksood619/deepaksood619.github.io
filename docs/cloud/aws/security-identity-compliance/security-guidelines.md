@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/security-guidelines
 title: Security Guidelines
 description: Discover essential security guidelines for effective access management, prioritizing safety and compliance in your organization.
 created: 2024-03-13
-updated: 2024-03-13
+updated: 2026-07-05
 ---
 ## Access Management
 
@@ -46,6 +46,6 @@ updated: 2024-03-13
 | 4     | OpsTree recommended IAM designing should be implemented |                                                       | Good to have |                                                |
 | 5     | Logging should be enabled for every resource            |                                                       | Good to have |                                                |
 | 6     | AWS security tooling should be implemented              |                                                       | Good to have |                                                |
-| 7     | Infra should be managed via IAAC                        |                                                       | Good to have |                                                |
+| 7     | Infra should be managed via IAAC                        |                                                       | Good to have | See [Terraform AWS Credentials Security](devops/terraform/aws-credentials-security.md) for best practices |
 | 8     | Backup of every data storage resource should be enabled | Frequency should be discussed with OpsTree architects | Must have    | Not a security concern but rather a HA concern |
 | 9     | Wherever privalte link can be used, we should use       | Cost implication                                      | Good to have | cost could be a factor here                    |

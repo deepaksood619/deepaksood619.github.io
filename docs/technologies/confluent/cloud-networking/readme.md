@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-networking/readme
 title: "Confluent Cloud Networking & Security Guide"
 description: Explore comprehensive resources on Confluent Cloud networking, security, and VPC configurations to enhance your Kafka deployment.
 created: 2025-12-10
-updated: 2026-06-24
+updated: 2026-07-05
 ---
 1. [01-introduction](technologies/confluent/cloud-networking/01-introduction.md)
 2. [02-confluent-cloud-overview](technologies/confluent/cloud-networking/02-confluent-cloud-overview.md)
@@ -15,6 +15,7 @@ updated: 2026-06-24
 7. [07-aws-transit-gateway](technologies/confluent/cloud-networking/07-aws-transit-gateway.md)
 8. [08-aws-azure-private-link](technologies/confluent/cloud-networking/08-aws-azure-private-link.md)
 9. [Configure a Private Link Cluster (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-private-link/)
+9.5. [09-aws-pni](technologies/confluent/cloud-networking/09-aws-pni.md)
 10. [10-best-networking-options](technologies/confluent/cloud-networking/10-best-networking-options.md)
 11. [11-confluent-cloud-with-private-networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking.md)
 

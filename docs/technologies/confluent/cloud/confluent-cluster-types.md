@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cluster-types
 title: Overview of Confluent Cluster Types
 description: Explore the different Kafka cluster types offered by Confluent Cloud for various use cases and scaling needs.
 created: 2026-01-19
-updated: 2026-01-28
+updated: 2026-07-05
 ---
 Confluent Cloud offers these Kafka cluster types:
 
@@ -35,7 +35,7 @@ All Enterprise clusters support fast scaling up to 10 eCKUs, which is similar to
 
 #### Considerations
 
-- To provision Enterprise clusters with a maximum of 32 eCKU on AWS, your cluster networking must use Private Network Interface (PNI).
+- To provision Enterprise clusters with a maximum of 32 eCKU on AWS, your cluster networking must use [Private Network Interface (PNI)](technologies/confluent/cloud-networking/09-aws-pni.md).
 - Enterprise clusters that use PrivateLink networking on AWS are limited to a maximum of 10 eCKU.
 - If you have workloads that require fast scaling beyond 10 eCKU or workloads larger than 32 eCKU, reach out to Confluent to request to have your cluster enabled.
 
@@ -123,7 +123,7 @@ All clusters have the following features:
 
 ### Considerations
 
-- To provision Enterprise clusters with a maximum of 32 eCKU on AWS, your cluster networking must use Private Network Interface (PNI).
+- To provision Enterprise clusters with a maximum of 32 eCKU on AWS, your cluster networking must use [Private Network Interface (PNI)](technologies/confluent/cloud-networking/09-aws-pni.md).
 - Enterprise clusters that use PrivateLink networking on AWS are limited to a maximum of 10 eCKU.
 - Basic, Standard, Enterprise, and Freight cluster limits are based on maximum eCKU for the cluster type. For more information, see [Elastic Confluent Unit for Kafka](https://docs.confluent.io/cloud/current/billing/overview.html#e-cku-definition).
 - Dedicated Kafka cluster limits are based on 152 CKU. For more information, see [CKU purchase limits](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#cku-limits-per-cluster) and [Confluent Unit for Kafka](https://docs.confluent.io/cloud/current/billing/overview.html#cku-definition).

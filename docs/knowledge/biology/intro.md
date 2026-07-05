@@ -3,7 +3,7 @@ slug: /knowledge/biology/intro
 title: Biology
 description: Explore biology's role in longevity through DNA protection, dietary choices, and physical fitness while understanding organism classification and taxonomy.
 created: 2023-03-05
-updated: 2026-04-07
+updated: 2026-07-05
 ---
 ## Live longer
 
@@ -99,12 +99,9 @@ https://en.wikipedia.org/wiki/Carrying_capacity
 
 ## Resources
 
-https://user-images.githubusercontent.com/21294/94627410-73b6c680-028b-11eb-9501-d7453af56106.jpg?ck_subscriber_id=389278734
-
-https://www.scotthyoung.com/blog/2021/01/18/biology
-
-https://github.com/CompCogNeuro/ed4
-
-https://www.weizmann.ac.il/mcb/UriAlon/download/systems-biology-course-2018
-
-[Reverse Ageing in Parents: Social Life, Brain Health & Loneliness | Adar...](https://youtu.be/D3Fekckw9S0)
+- https://user-images.githubusercontent.com/21294/94627410-73b6c680-028b-11eb-9501-d7453af56106.jpg?ck_subscriber_id=389278734
+- https://www.scotthyoung.com/blog/2021/01/18/biology
+- [GitHub - compcogneuro/book: Computational Cognitive Neuroscience textbook · GitHub](https://github.com/CompCogNeuro/ed4) ⭐ 380
+- https://www.weizmann.ac.il/mcb/UriAlon/download/systems-biology-course-2018
+- [Reverse Ageing in Parents: Social Life, Brain Health & Loneliness | Adar...](https://youtu.be/D3Fekckw9S0)
+- [Sign in - Google Accounts](https://notebooklm.google.com/notebook/4a66a984-66ba-45ff-830e-a1e74b8ad0b0)

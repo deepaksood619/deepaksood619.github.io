@@ -171,6 +171,32 @@ While this is a great dietary practice, there are a couple of potential side eff
 - **Tooth Enamel Erosion:** Lemon juice is highly acidic, possessing a pH between 2.0 and 3.0, which is below the critical threshold where tooth enamel begins to demineralize. Over time, frequent exposure to this acid can wear down your enamel, leading to tooth sensitivity and yellowing. To protect your teeth, rinse your mouth with plain water immediately after finishing your meal to neutralize the acid. Furthermore, wait at least 30 minutes before brushing your teeth; brushing immediately while the enamel is softened by the acid can cause physical damage.
 - **Acid Reflux (GERD) Triggers:** For some individuals, citrus can irritate the esophageal lining and trigger or worsen heartburn and acid reflux. If you experience a burning sensation in your chest, particularly when lying down to sleep after dinner, you may need to moderate how much lemon you add to your evening meals.
 
+#### Salads (Transplants safe)
+
+##### The "Steamed Crunch" Salad
+
+Ingredients: Carrots, green beans, and beetroot.
+
+Method: Cut them into thick sticks or cubes. Steam them in a steamer basket or boil them for just 4-5 minutes so they are cooked through but still have a firm crunch.
+
+The Dressing: Toss them in a bowl while still warm and squeeze half a fresh lemon over them. (Remember: this Lemon + Beetroot combination is fantastic for your 9.9 g/dL anemia!). Sprinkle with roasted cumin powder and black pepper.
+
+##### Sautéed Capsicum & Tomato Medley
+
+Ingredients: Green/red capsicum, tomatoes, and onions.
+
+Method: Heat half a teaspoon of healthy oil in a pan. Toss the chopped veggies in and sauté them on high heat for 3-4 minutes. They will soften slightly and release their flavors but won't turn into a mushy sabzi.
+
+The Crunch: Toss in a few of your home-roasted, unsalted pumpkin seeds or sunflower seeds right before eating for that salad-like crunch.
+
+##### Boiled Protein Chaat
+
+Ingredients: Sprouted moong or kala chana (MUST be fully boiled), cooked onions, and cooked tomatoes.
+
+Method: Boil the sprouts/chana until completely soft. Sauté the onions and tomatoes in a pan until cooked. Mix them together.
+
+The Flavor: Add lemon juice, a pinch of amchur (mango powder), and black pepper.
+
 ## Links
 
 - [diet-nutritional-analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md)

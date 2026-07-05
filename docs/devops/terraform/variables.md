@@ -3,7 +3,7 @@ slug: /devops/terraform/variables
 title: Understanding Terraform Variables
 description: Learn how to define and assign variables in Terraform for better management of your infrastructure as code.
 created: 2023-03-05
-updated: 2024-01-12
+updated: 2026-07-05
 ---
 ## Defining Variables
 
@@ -29,7 +29,7 @@ To persist variable values, create a file and assign variables within this file.
 
 For all files which match terraform.tfvars or `*.auto.tfvars` present in the current directory, Terraform automatically loads them to populate variables. If the file is named something else, you can use the var-file flag directly to specify a file. These files are the same syntax as Terraform configuration files. And like Terraform configuration files, these files can also be JSON.
 
-We don't recommend saving usernames and password to version control, but you can create a local secret variables file and use-var-file to load it.
+We don't recommend saving usernames and password to version control, but you can create a local secret variables file and use-var-file to load it. For comprehensive security practices, see [AWS Credentials Security](devops/terraform/aws-credentials-security.md).
 
 You can use multiple-var-file arguments in a single command, with some checked in to version control and others not checked in. For example:
 
