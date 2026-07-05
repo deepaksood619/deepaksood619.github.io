@@ -1,9 +1,9 @@
 ---
 slug: kcp-kafka-copy-paste
 title: kcp-kafka-copy-paste
-description: A comprehensive command-line tool for planning and executing Kafka migrations to Confluent Cloud.
+description: Automated Kafka migration toolkit for zero-cut migrations to Confluent Cloud using CC Gateway, Cluster Linking, and KCP CLI orchestration
 created: 2026-06-24
-updated: 2026-07-03
+updated: 2026-07-05
 ---
 ## Intro
 
@@ -616,16 +616,109 @@ kafka_api_key_secret = "cfltVAYeQ+/jUhJK6B9g4lFRGylIgWLFBb08pntAA6pcOkMvLNepHZwG
 
 With **Zero-cut Migrations**, clients make one change: update the bootstrap URL to point at the gateway. That's done in advance, no urgency. When the operator is ready to cut over, could be days later, could be weeks, they run one command. KCP fences traffic, waits for lag to hit zero, promotes the topics, flips routing to Confluent Cloud, and resumes traffic. Clients resume on CC. Operator is in full control the whole time: pick a single topic, a group of topics, or the whole cluster.
 
+### Core Architecture
+
+Zero-cut migrations route all Kafka client traffic through a Kafka-aware proxy gateway deployed in (or adjacent to) the source cluster's network. The gateway forwards to source while Cluster Linking replicates, then atomically flips to Confluent Cloud once replication lag is zero.
+
+**Three Main Components:**
+
+1. **KCP CLI**
+   - Orchestrates cutover via three commands: `kcp migration init`, `kcp migration lag-check`, `kcp migration execute`
+   - Can be installed as a Confluent CLI plugin
+   - Apache 2.0 licensed, free to use
+
+2. **CC Gateway (Confluent Cloud Gateway)**
+   - Kafka protocol proxy deployed in (or adjacent to) the source cluster's network
+   - Handles auth translation between source credentials and Confluent Cloud credentials
+   - Switches routing to Confluent Cloud at cutover, all without a restart
+   - Deployed on Kubernetes via Confluent for Kubernetes
+   - **Requires Confluent Platform license** (Confluent Cloud Gateway Add-On)
+   - Org-scoped: one license covers all Confluent Cloud clusters in a customer's org
+   - Trial mode supports up to 4 routes
+
+3. **Cluster Linking**
+   - Replicates topics from the source cluster to the destination in real time, including consumer offset synchronization
+   - Available on Dedicated and Enterprise cluster types only
+   - Consumer offset sync (`consumer.offset.sync.enable=true`) must be enabled before migration
+
+### Client Experience During Cutover
+
+During cutover, clients see `BROKER_NOT_AVAILABLE` with message "Migration to Confluent Cloud in progress. Your client will automatically retry"
+
+- Triggers automatic retries in all standard Kafka clients (Java, Python, Go, librdkafka) - no code changes required
+- Brief partial downtime window of approximately 60 seconds
+- Single bootstrap URL change for clients - that's the entire ask
+
+### Authentication Support
+
+**Supported source → destination combinations:**
+
+- mTLS → CC SASL/PLAIN, CC mTLS, CC OAuth
+- SASL/SCRAM → CC SASL/PLAIN, CC OAuth
+- Unauthenticated → all CC auth types
+
+**Not supported:**
+
+- **IAM** (requires pre-migration to SCRAM or mTLS)
+- SCRAM → CC mTLS
+
+**Two auth modes via `--auth-mode`:**
+
+- `dest_swap`: clients present source credentials, gateway swaps for CC
+- `source_swap`: clients present CC credentials, gateway swaps for source
+
+**CRITICAL:** IAM clients must migrate to SCRAM or mTLS before gateway onboarding
+
+### Migration Execution Process
+
+**Prerequisites:**
+
+- Gateway deployed in Kubernetes
+- Cluster Linking configured and replicating
+- Client already pointing at gateway bootstrap URL
+- Three gateway CR files prepared
+
+**Execution steps:**
+
+```bash
+# 1. Initialize migration (validates setup, creates migration plan)
+kcp migration init
+
+# 2. Monitor replication lag in real-time
+kcp migration lag-check
+
+# 3. Perform cutover in four phases: Pre-flight, Block, Promote, Switch+unblock
+kcp migration execute
+```
+
+**Cutover phases:**
+
+1. **Pre-flight**: Validates setup
+2. **Block**: Fences traffic to source cluster
+3. **Promote**: Promotes mirror topics via Cluster Linking
+4. **Switch+unblock**: Flips routing to CC and resumes traffic
+
+### Key Constraints & Limitations
+
+- **IAM not supported**: IAM authentication requires migration to SCRAM or mTLS first
+- **Consumer offset sync required**: Must be enabled on cluster link before migration
+- **One-way promotion**: Topic promotion via Cluster Linking is one-way
+  - Rollback after promotion: possible (no data loss) but the cluster link is broken
+- **Cluster type requirement**: Cluster Linking only available on Dedicated and Enterprise clusters
+- **Licensing**: CC Gateway requires Confluent Cloud Gateway Add-On license (org-scoped)
+
+### Benefits
+
 - Fully orchestrated cutover: gateway fencing, mirror topic promotion, traffic routing flip, all automated
 - Real-time lag and offset monitoring so you pick the right window before and during the migration
 - Auth swap built in: unauthenticated clusters can migrate to Confluent cloud with minimal client changes
-- Works for any Kafka cluster migration that is Kafka compatible
-- Single bootstrap URL change for clients. That's the entire ask for clients.
-
-One gap: IAM is not supported by CC gateway at the moment.
+- Works for any Kafka-compatible cluster migration
+- Operator in full control: pick a single topic, a group of topics, or the whole cluster
 
 ## Links
 
 - [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 27 (Kafka Copy Paste)
-- [KCP](https://confluentinc.github.io/kcp/0.8.7/)
+- [KCP Documentation](https://confluentinc.github.io/kcp/0.8.7/)
+- [Getting Started with Zero-Cut Migrations](https://confluentinc.github.io/kcp/0.8.7/getting-started-with-zero-cut-migrations/)
 - [Demo: Migrate to Confluent Cloud with Kafka Copy Paste (KCP) - YouTube](https://www.youtube.com/watch?v=9EflgaCNzhE)
+- [Migrate with kcp - Confluent Cloud Docs](https://docs.confluent.io/cloud/current/clusters/migrate-kcp.html)

@@ -3,8 +3,15 @@ slug: /technologies/confluent/confluent-cloud-security/readme
 title: Confluent Cloud Security Overview
 description: Explore Confluent Cloud Security with insights on authentication, authorization, encryption, auditing, compliance, and IP filtering.
 created: 2026-01-28
-updated: 2026-07-04
+updated: 2026-07-05
 ---
+
+## Study Materials
+
+- [Flashcards](technologies/confluent/cloud-security/flashcards.md) - 71 active recall cards covering authentication, authorization, encryption, auditing, and compliance
+
+## Content
+
 1. [21-authenticating-users-and-applications](technologies/confluent/cloud-security/21-authenticating-users-and-applications.md)
 2. [22-authorizing-using-rbac-and-acls](technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls.md)
 3. [23-understanding-encryption](technologies/confluent/cloud-security/23-understanding-encryption.md)

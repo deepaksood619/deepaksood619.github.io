@@ -3,8 +3,13 @@ slug: /cloud/aws/compute/amazon-ec2-instance-types
 title: Amazon EC2 Instance types
 description: Discover and compare Amazon EC2 instance types effortlessly with tools and resources for pricing, performance, and specifications to optimize your cloud computing needs.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-07-05
 ---
+
+## Recent Announcements
+
+**See**: [AWS re:Invent 2025 - Compute Updates](cloud/aws/aws-reinvent-2025-announcements.md#5-custom-next-gen-ai-silicon) - AWS Graviton5 (5th gen, 25% performance boost, 192 cores on M9g instances) and Trainium3 UltraServers (3nm AI chip, 4x performance for multi-billion parameter models, 30-40% better price-performance vs GPUs).
+
 [It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 
 [GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector) ⭐ 932

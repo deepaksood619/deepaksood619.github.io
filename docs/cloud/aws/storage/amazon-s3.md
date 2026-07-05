@@ -3,8 +3,13 @@ slug: /cloud/aws/storage/amazon-s3
 title: Amazon S3
 description: Discover Amazon S3 for scalable cloud storage with unmatched durability, robust performance, and cost-effective solutions for large files and videos.
 created: 2023-03-05
-updated: 2026-04-11
+updated: 2026-07-05
 ---
+
+## Recent Announcements
+
+**See**: [AWS re:Invent 2025 - S3 Updates](cloud/aws/aws-reinvent-2025-announcements.md#6-amazon-s3-enhancements) - Major S3 enhancements including 50TB object size limit (10x increase from 5TB), S3 Vectors for native vector storage (2B vectors, 100ms latency, 90% cost reduction vs specialized databases), and S3 Tables with replication support.
+
 S3: More than 235 distributed microservices
 
 - Scalable Storage in the Cloud
@@ -12,7 +17,7 @@ S3: More than 235 distributed microservices
 - Eleven 9's of durability (99.999999999%) and four 9's of availability (99.99%)
     - Markov-chain model for reliability evaluation
 - $23/TB/month
-- 5 TB single object limit
+- ~~5 TB single object limit~~ **50 TB single object limit (as of re:Invent 2025)**
 - 6 Copies of 1 object are maintained in >=3 Az's
 - You can send [3,500 PUT/COPY/POST/DELETE and 5,500 GET/HEAD requests per second per partitioned prefix](https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html) in an S3 bucket. When you have an increased request rate to your bucket, Amazon S3 might return **503 Slow Down errors** while it scales to support the request rate. This scaling process is called **partitioning**.
 - Pass through uploads

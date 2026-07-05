@@ -369,9 +369,12 @@ Consider an organization that has built a hub-and-spoke network with AWS Transit
 - Transit Gateway (TGW) is generally more expensive than VPC Peering due to hourly attachment fees $0.05/hour per attachment, (approx $36/month) and data processing charges $0.02/GB).
 - While VPC Peering is free for data transfer within the same AZ and lower-cost cross-AZ/region, TGW is better for complex, large-scale architectures requiring centralized management.
 
+## Related Topics
+
+- [AWS Elastic Network Interface (ENI)](cloud/aws/networking-content-delivery/aws-elastic-network-interface-eni.md) - Virtual network card used by VPC endpoints and instances
+
 ## Others
 
 - [What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 - [Overview of Data Transfer Costs for Common Architectures | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
-- [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - YouTube](https://www.youtube.com/watch?v=g2JOHLHh4rI&ab_channel=freeCodeCamp.org)
 - [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - YouTube](https://www.youtube.com/watch?v=g2JOHLHh4rI&ab_channel=freeCodeCamp.org)

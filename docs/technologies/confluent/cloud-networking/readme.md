@@ -19,6 +19,10 @@ updated: 2026-07-05
 10. [10-best-networking-options](technologies/confluent/cloud-networking/10-best-networking-options.md)
 11. [11-confluent-cloud-with-private-networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking.md)
 
+## Background Technology
+
+- [AWS Elastic Network Interface (ENI)](cloud/aws/networking-content-delivery/aws-elastic-network-interface-eni.md) - The underlying AWS networking primitive used by PNI
+
 ## Documentation Outline
 
 [Manage Networking](https://docs.confluent.io/cloud/current/networking/index.html)

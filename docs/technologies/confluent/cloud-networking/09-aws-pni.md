@@ -10,6 +10,30 @@ Confluent PNI is a secure, low-cost private networking option built directly on 
 
 By attaching a network interface from your AWS account to a Confluent-managed service, PNI gives you access to Confluent Cloud through an interface directly inside your own VPC.
 
+## Why PNI Launched in August 2025
+
+Confluent officially launched Private Network Interface (PNI) on August 1, 2025. While AWS ENI technology has been around since 2011, Confluent clusters did not support it until recently because cross-account ENI architectures required advanced, native multi-VPC capabilities that AWS only developed later. Additionally, PNI addresses modern cloud financial challenges (FinOps) that have recently escalated.
+
+### 1. It relies on the modern "AWS Multi-VPC ENI Attachment" feature
+
+**AWS Release Date**: October 26, 2023 - Multi-VPC ENI Attachment was generally released
+
+Standard ENIs can only be attached to EC2 instances or containers within the same AWS account and VPC. Confluent Cloud runs fully managed Kafka clusters inside Confluent's AWS accounts, while your data producers/consumers run inside your AWS account.
+
+**The Breakthrough**: Confluent's PNI utilizes a modern AWS primitive called Multi-VPC ENI attachment, released in October 2023. This allows an ENI residing in your subnet to be physically attached to a Confluent-managed virtual machine running in their VPC across different AWS accounts. Prior to October 2023, EC2 instances were strictly locked into a single VPC, and any ENI attached had to belong to that exact same VPC. This deep cross-tenant infrastructure took AWS years to mature and expose safely to SaaS partners.
+
+### 2. To eliminate massive AWS PrivateLink data-processing fees
+
+Before PNI, the gold standard for secure, private connectivity to Confluent Cloud was AWS PrivateLink. However, PrivateLink charges a strict per-GB data processing fee.
+
+For high-throughput Kafka streaming workloads, PrivateLink data charges frequently dwarf the actual cost of running Kafka. PNI was built explicitly to stop these high costs. By routing traffic directly through a cross-account attached ENI, it bypasses AWS PrivateLink's hourly endpoint and per-GB fees entirely, cutting overall cloud networking costs by up to 50% to 60%.
+
+### 3. Demand for simpler architectures and bi-directional flow
+
+AWS PrivateLink is strictly unidirectional—traffic can only originate from your VPC toward Confluent Cloud. If you wanted to use fully managed Confluent Connectors to push data back into databases inside your private network, setting up reverse PrivateLink endpoints was immensely complex.
+
+Because an ENI acts like a local network card inside your subnet, PNI allows for bi-directional traffic controlled simply via standard AWS Security Groups.
+
 ## Key Features
 
 - **AWS-Native Technology**: Built on AWS Elastic Network Interfaces (ENI)
@@ -59,14 +83,17 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 ### Core Components
 
 **Gateway**
+
 - Represents a connectivity type to and from Confluent Cloud services
 - Created within environment for specific region/zone(s)
 
 **Access Point**
+
 - Represents a connection instance to a gateway
 - Consists of a set of AWS ENIs in the same cloud region as the gateway
 
 **ENIs (Elastic Network Interfaces)**
+
 - Reside in customer's AWS account/VPC
 - Customer owns and controls ENIs (create, update, delete, attach security groups)
 - Confluent has limited permission to attach ENIs to Confluent Cloud VMs
@@ -107,12 +134,14 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 ### vs. PrivateLink
 
 **PrivateLink challenges:**
+
 - Enhanced security—but at higher cost and complexity
 - Data processing and hourly endpoint fees
 - Customer responsible for provisioning PrivateLink service and paying for Network Load Balancer
 - Intermediary data transfer charges
 
 **PNI advantages:**
+
 - Eliminates per-GB PrivateLink costs
 - Removes endpoint overhead
 - Direct ENI attachment (no intermediary)
@@ -121,12 +150,14 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 ### vs. VPC Peering
 
 **VPC Peering challenges:**
+
 - Cheapest option but seen as less secure
 - Lacks centralized security policy enforcement
 - IP address overlap challenges
 - Cannot route traffic through intermediary VPCs
 
 **PNI advantages:**
+
 - Centralized security policies
 - No IP management constraints
 - Smaller attack surface
@@ -135,9 +166,11 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 ### vs. Transit Gateway
 
 **Transit Gateway challenges:**
+
 - More complex firewall integration
 
 **PNI advantages:**
+
 - Centralized policy enforcement
 - Simpler configuration
 
@@ -163,6 +196,7 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 ## Indeed Case Study
 
 **Results:**
+
 - 60% reduction in network transfer spend
 - Slashed replication and cross-AZ write costs by leveraging Amazon S3 for storage
 - Reduction in overall operational expenses

@@ -3,7 +3,7 @@ slug: /cloud/aws/intro
 title: Intro
 description: Discover five AWS services to avoid and learn about regions, availability zones, and local zones for optimized resource placement in your cloud strategy.
 created: 2023-03-05
-updated: 2025-10-24
+updated: 2026-07-05
 ---
 ## AWS services to avoid
 
@@ -48,7 +48,21 @@ https://www.youtube.com/watch?v=3hLmDS179YE
 - https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf
 - https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf
 
-## AWS ReInvent 2024 Highlights
+## AWS re:Invent Highlights
+
+### re:Invent 2025
+
+**See**: [AWS re:Invent 2025 - Major Announcements](cloud/aws/aws-reinvent-2025-announcements.md) - Comprehensive coverage of transformative updates including autonomous AI agents (Transform, Frontier Agents), Lambda Durable Functions, AWS-GCP interconnects, Graviton5/Trainium3 silicon, S3 Vectors, and Bedrock-OpenAI partnership.
+
+**Key Themes:**
+
+- Autonomous tech debt remediation (AWS Transform)
+- Stateful serverless (Lambda Durable Functions)
+- Native multi-cloud interconnects
+- Custom AI silicon (Graviton5, Trainium3)
+- Foundation model partnerships (OpenAI on Bedrock)
+
+### re:Invent 2024
 
 - [Top announcements of AWS re:Invent 2024 | AWS News Blog](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2024/)
 - [AWS cuts database prices almost 50% and adds distributed scaling capabilities | VentureBeat](https://venturebeat.com/data-infrastructure/aws-cuts-database-prices-almost-50-and-adds-distributed-scaling-capabilities/)

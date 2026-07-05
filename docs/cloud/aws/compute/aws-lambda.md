@@ -3,7 +3,7 @@ slug: /cloud/aws/compute/aws-lambda
 title: AWS Lambda
 description: Explore AWS Lambda, a serverless computing service that runs your code in response to events, enabling scalable applications and efficient resource management.
 created: 2023-03-05
-updated: 2025-11-09
+updated: 2026-07-05
 ---
 https://docs.aws.amazon.com/lambda/latest/dg/lambda-edge.html
 
@@ -101,6 +101,10 @@ def lambda_handler(event, context):
 [AWS Serverless Lambda Supports Response Streaming - YouTube](https://www.youtube.com/watch?v=iwX9dYrcL1k&ab_channel=HusseinNasser)
 
 [Unlocking Faster & Efficient Data Processing w/ Serverless • Uma Ramadoss & Adam Wagner • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Mbt78pAfuOs&ab_channel=GOTOConferences)
+
+## Recent Announcements
+
+**See**: [AWS re:Invent 2025 - Lambda Updates](cloud/aws/aws-reinvent-2025-announcements.md#2-aws-lambda-managed-instances) - Major Lambda enhancements including Managed Instances (run Lambda on specialized EC2 hardware) and Durable Functions (native stateful workflows up to 1 year duration).
 
 ## Features
 
