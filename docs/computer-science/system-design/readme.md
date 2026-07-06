@@ -7,7 +7,7 @@ updated: 2026-01-30
 ---
 ## Core Concepts
 
-- [Introduction to System Design](intro.md)
+- [Introduction to System Design](computer-science/system-design/intro.md)
 - [Trade-offs in System Design](trade-offs.md)
 - [Architecture Guide](architecture-guide.md)
 - [Addressing Failures](addressing-failures.md)

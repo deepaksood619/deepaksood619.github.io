@@ -8,7 +8,7 @@ updated: 2026-06-25
 
 ## Fundamentals
 
-- [Introduction to Decentralized Applications](intro.md)
+- [Introduction to Decentralized Applications](decentralized-applications/intro.md)
 - [Blockchain Technology](blockchain.md) - Distributed ledger fundamentals
 - [Key Concepts](key-concepts.md) - Core blockchain and crypto concepts
 - [Consensus Protocols](consensus-protocols.md) - PoW, PoS, and other consensus mechanisms
