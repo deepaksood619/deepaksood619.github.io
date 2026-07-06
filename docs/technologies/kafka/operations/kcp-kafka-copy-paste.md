@@ -3,7 +3,7 @@ slug: kcp-kafka-copy-paste
 title: kcp-kafka-copy-paste
 description: Automated Kafka migration toolkit for zero-cut migrations to Confluent Cloud using CC Gateway, Cluster Linking, and KCP CLI orchestration
 created: 2026-06-24
-updated: 2026-07-05
+updated: 2026-07-06
 ---
 ## Intro
 
@@ -164,6 +164,7 @@ kcp create-asset target-infra \
 kcp create-asset migration-infra --state-file kcp-state.json
 
 # Generate topic migration scripts
+kcp create-asset migrate-topics --state-file kcp-state.json
 kcp create-asset migrate-topics --state-file kcp-state.json
 
 # Migrate ACLs to CC RBAC

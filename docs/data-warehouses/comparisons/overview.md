@@ -1,9 +1,9 @@
 ---
-slug: /data-warehouses/comparisons
+slug: /data-warehouse-comparison-overview
 title: Comparisons
 description: Discover how ClickHouse outperforms Snowflake and other major cloud data warehouses in cost-performance for scalable analytical workloads.
 created: 2023-11-24
-updated: 2026-05-29
+updated: 2026-07-06
 ---
 [Druid FAQs / Comparisons](databases-nosql/druid/faqs.md)
 

@@ -13,6 +13,7 @@ AWS re:Invent 2025 marked a paradigm shift from incremental cloud improvements t
 For decades, cloud modernization required hiring massive systems-integrator teams spending years rewriting legacy systems. AWS Transform breaks this paradigm with agentic AI-driven autonomous modernization.
 
 **Architecture Game-Changer:**
+
 - Acts as 24/7 autonomous engineer
 - Full-stack modernization of entire legacy portfolios
 - Auto-converts COBOL mainframes to cloud-native Java
@@ -21,12 +22,14 @@ For decades, cloud modernization required hiring massive systems-integrator team
 - Up to 5x faster than traditional approaches
 
 **Continuous Remediation:**
+
 - Autonomously detects architectural tech debt
 - Prioritizes fixes at scale
 - Patches as developers push code
 - Cuts execution time by up to 80%
 
 **Capabilities:**
+
 - Windows application modernization (5x faster)
 - Mainframe reimagination with automated testing
 - Reduces modernization timelines from years to months
@@ -36,6 +39,7 @@ For decades, cloud modernization required hiring massive systems-integrator team
 Historically, architects faced a binary choice: Lambda's simplicity with hardware limitations, or EC2/ECS with massive management overhead.
 
 **Architecture Game-Changer:**
+
 - Run serverless Lambda workloads on specialized EC2 compute clusters
 - Retain serverless simplicity (AWS manages scaling, patching, availability)
 - Gain access to specialized GPU/AI chips
@@ -47,6 +51,7 @@ Historically, architects faced a binary choice: Lambda's simplicity with hardwar
 Native stateful orchestration and automatic checkpointing directly in Lambda eliminates complex Step Function management.
 
 **Capabilities:**
+
 - Build applications coordinating multiple steps reliably
 - Duration: seconds to up to one year
 - Pause, resume, track state natively within serverless containers
@@ -54,6 +59,7 @@ Native stateful orchestration and automatic checkpointing directly in Lambda eli
 - Long-running AI agent workflows
 
 **Impact:**
+
 - Complex business logic with built-in retries
 - State management directly in Lambda
 - Reduced reliance on external orchestrators
@@ -63,11 +69,13 @@ Native stateful orchestration and automatic checkpointing directly in Lambda eli
 AWS and Google Cloud launched native, open-standard, private high-speed interconnect breaking multi-cloud barriers.
 
 **Architecture Game-Changer:**
+
 - Eliminated complex third-party network providers (Megaport)
 - Removed massive ingress/egress financial penalties
 - Native multi-cloud architecture support
 
 **Benefits:**
+
 - Seamlessly split workloads between clouds
 - Store datasets in AWS S3 data lake
 - Run real-time analytics on Google Cloud infrastructure
@@ -81,6 +89,7 @@ AWS and Google Cloud launched native, open-standard, private high-speed intercon
 Fifth-generation CPU providing best price-performance for broad workload range in EC2.
 
 **Performance:**
+
 - 25% better raw compute performance vs previous generation
 - Radical energy efficiency enhancements
 - 192 cores (M9g instances)
@@ -90,12 +99,14 @@ Fifth-generation CPU providing best price-performance for broad workload range i
 Deployed via Trn3 UltraServers using 3nm architecture.
 
 **AI Compute Capabilities:**
+
 - 4x performance boost for multi-billion parameter AI models
 - 30-40% better price-to-performance ratio vs standard GPUs
 - Makes massive AI workloads financially viable for corporate budgets
 - First 3nm AI chip from AWS
 
 **Complementary Hardware:**
+
 - NVIDIA GB300 UltraServers on EC2
 - Massive on-demand scale for high-throughput inference
 
@@ -106,6 +117,7 @@ Deployed via Trn3 UltraServers using 3nm architecture.
 Increased from 5TB to 50TB per individual object.
 
 **Impact:**
+
 - Fundamentally changes AI training pipeline data ingestion
 - Massive raw media dataset handling
 - Eliminates complexity of splitting/tracking/reconstructing multi-part files
@@ -115,16 +127,19 @@ Increased from 5TB to 50TB per individual object.
 Vector storage and querying built directly into S3.
 
 **Capabilities:**
+
 - Support up to 2 billion vectors per index
 - 100ms query latencies
 - Reduces RAG costs by up to 90% vs specialized databases
 - Pulls AI data gravity to fundamental storage layer
 
 **S3 Tables:**
+
 - Replication support
 - Intelligent-Tiering
 
 **S3 Storage Lens:**
+
 - Performance metrics
 - Support for billions of prefixes
 - Export to S3 Tables
@@ -136,23 +151,27 @@ AI shifting from request-response APIs to persistent autonomous actors.
 ### AWS Frontier Agents
 
 **Kiro Autonomous Agent:**
+
 - Virtual developer working autonomously for days
 - Manages state
 - Reviews architectural designs
 - Fixes bugs without human intervention
 
 **AWS Security Agent (Preview):**
+
 - AI-powered design reviews
 - Code analysis
 - Contextual penetration testing
 
 **AWS DevOps Agent (Preview):**
+
 - Acts as autonomous on-call engineer
 - Analyzes CloudWatch, GitHub, ServiceNow data
 
 ### Agentic Amazon Connect
 
 Specialized agent-driven workflows:
+
 - **Connect Decisions:** Supply chain automation
 - **Connect Talent:** Hiring workflows
 - **Connect Health:** Healthcare operations
@@ -161,6 +180,7 @@ Specialized agent-driven workflows:
 ### Amazon Quick
 
 Desktop AI assistant:
+
 - Generates visual assets
 - Builds custom dashboards via natural language
 - Integrates with external workspaces
@@ -184,29 +204,34 @@ Early 2026 partnership expansion reshaping enterprise AI consumption.
 ### Amazon Nova Family
 
 **Nova 2 Sonic (Speech-to-Speech):**
+
 - Multilingual conversations
 - Dynamic speech control
 - Crossmodal inputs
 - Improved telephony integration
 
 **Nova 2 Lite:**
+
 - Fast, cost-effective everyday tasks
 - Extended thinking capabilities
 - Built-in tools
 - Million-token context window
 
 **Nova Forge:**
+
 - Build custom frontier models
 - Deep domain expertise embedding
 - Without traditional cost/compute/time barriers
 - "Open training" - blend proprietary data with Nova 2 checkpoints
 
 **Nova 2 Omni (Preview):**
+
 - All-in-one multimodal reasoning and image generation
 - Text, images, video, speech inputs
 - Text and image outputs
 
 **Nova Act (Generally Available):**
+
 - Automate browser-based tasks
 - Form filling, search & extract, shopping & booking, QA testing
 - Over 90% reliability
@@ -235,6 +260,7 @@ Early 2026 partnership expansion reshaping enterprise AI consumption.
 ### Amazon EC2 Enhancements
 
 **X8aedz Instances:**
+
 - 5th Gen AMD EPYC processors
 - Up to 5 GHz processor speeds
 - 3 TiB memory
@@ -306,6 +332,7 @@ New pricing model across AWS Databases.
 ## 14. AWS AI Factories
 
 Deploy fully managed AWS AI infrastructure in your data centers:
+
 - Pre-integrated foundation models
 - Specialized hardware
 - AWS services on-premises
@@ -327,6 +354,7 @@ Deploy fully managed AWS AI infrastructure in your data centers:
 ## 16. AWS Clean Rooms
 
 Privacy-enhancing synthetic dataset generation:
+
 - ML model training datasets
 - Preserve statistical patterns
 - Protect individual privacy
