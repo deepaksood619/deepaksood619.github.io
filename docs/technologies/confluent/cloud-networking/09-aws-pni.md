@@ -3,9 +3,8 @@ slug: /confluent-cloud-aws-private-network-interface-pni
 title: AWS Private Network Interface (PNI) for Confluent Cloud
 description: Secure, cost-effective private networking for Confluent Cloud using AWS Elastic Network Interfaces - reduces costs by 50% vs PrivateLink
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-07
 ---
-
 Confluent PNI is a secure, low-cost private networking option built directly on fundamental AWS networking primitives such as AWS Elastic Network Interfaces (ENI). It leverages the same underlying AWS networking primitives used to power Amazon's own services, such as Amazon Elastic Kubernetes Service (EKS) or AWS Lambda.
 
 By attaching a network interface from your AWS account to a Confluent-managed service, PNI gives you access to Confluent Cloud through an interface directly inside your own VPC.
@@ -84,10 +83,14 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 
 **Gateway**
 
+A gateway is a resource that represents a connectivity type to and from Confluent Cloud services. It is created within an environment for the region and zone(s) you choose. The PNI gateway allows you to connect to Confluent Cloud services, such as Freight and Enterprise clusters, hosted in a given environment and region, from your network.
+
 - Represents a connectivity type to and from Confluent Cloud services
 - Created within environment for specific region/zone(s)
 
 **Access Point**
+
+An access point is a resource that represents a connection instance to a gateway and must match the type of the gateway it connects to. An access point of type PNI consists of a set of AWS ENIs in the same cloud region as the gateway, carrying traffic to and from Confluent Cloud services. The PNI access point provides you with a connection to services like Freight and Enterprise clusters, hosted in a specific environment and region, from your network.
 
 - Represents a connection instance to a gateway
 - Consists of a set of AWS ENIs in the same cloud region as the gateway

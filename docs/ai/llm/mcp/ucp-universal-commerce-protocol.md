@@ -3,9 +3,8 @@ slug: /ucp-universal-commerce-protocol
 title: UCP - Universal Commerce Protocol
 description: Google's open standard enabling direct AI-powered checkout across Google Search AI Mode and Gemini, with REST API and MCP binding support.
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-07
 ---
-
 UCP is an open standard that unifies digital commerce. It enables direct, instant purchases across AI surfaces like AI Mode in Google Search and the Gemini app, reducing friction and cart abandonment.
 
 ## Does UCP Require an MCP Server?
@@ -188,3 +187,5 @@ Post-integration, merchants access via Merchant Center Analytics:
 - [UCP Open Spec](http://ucp.dev/2026-04-08/specification/overview/)
 - [Merchant Center Help](https://support.google.com/merchants/answer/16837055)
 - [MCP Model Context Protocol](ai/llm/mcp/mcp-model-context-protocol.md)
+- [Overview  \|  Google Universal Commerce Protocol (UCP) Guide  \|  Google for Developers](https://developers.google.com/merchant/ucp/guides)
+- [Google UCP \| Universal Commerce Protocol \| Pixus](https://www.pixus.uk/google-ucp-management/)

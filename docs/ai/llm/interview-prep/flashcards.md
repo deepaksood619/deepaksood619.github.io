@@ -3,7 +3,7 @@ slug: /ai/llm/interview-prep/flashcards
 title: LLM Interview Prep Flashcards
 description: Comprehensive flashcards for LLM/GenAI engineer interviews covering architecture, training, RAG, agents, and production deployment
 created: 2026-06-18
-updated: 2026-06-26
+updated: 2026-07-08
 total_cards: 67
 difficulty_distribution:
   beginner: 30   # L1 cards
@@ -170,7 +170,7 @@ I | Unlike RNNs which suffer from exponential decay over long sequences
 T | Transformer Quadratic Complexity |
 Q | What is the main computational limitation of standard transformers? |
 A | O(n²) complexity in sequence length due to full attention matrix computation, making long sequences expensive. |
-I | Why efficient transformers (Linformer, Performer) exist
+I | Why efficient transformers (Linformer, Performer) exist |
 
 ## Decoding & Generation
 

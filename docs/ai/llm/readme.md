@@ -3,12 +3,13 @@ slug: /ai/llm/readme
 title: LLM
 description: Explore LLM fundamentals, app-building techniques, and agent frameworks to harness the power of large language models for innovative applications and solutions.
 created: 2023-05-08
-updated: 2026-07-02
+updated: 2026-07-07
 ---
 ## Fundamentals
 
 - [Intro](fundamentals/intro.md)
 - [Models](fundamentals/models.md)
+- [Byte Pair Encoding (BPE) Tokenization](fundamentals/byte-pair-encoding-tokenization.md)
 - [Voice Models](fundamentals/voice-models.md)
 - [Limitations & Problems](fundamentals/limitations-problems.md)
 - [Ethics](fundamentals/ethics.md)

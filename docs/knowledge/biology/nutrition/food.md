@@ -493,3 +493,5 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 - [How Big Brands Fool Indian Consumers!!](https://youtu.be/gytz_ZVdnkg)
 - [Tata 1mg 7X Omega 3 😱🔥 LAB TESTED – 7X Serious or SCAM?](https://youtu.be/05LF5qtJygc)
 - [10 World’s Best Protein Sources Ranked Low to High (No Meat or Dairy)](https://youtu.be/FDEgZzJlY7s)
+
+- [Homemade Paneer - Low-Fat High-Protein Guide](knowledge/biology/nutrition/paneer-homemade-low-fat.md)

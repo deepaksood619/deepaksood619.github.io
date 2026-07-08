@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-networking/11-confluent-cloud-with-private-n
 title: Access Confluent Cloud with Private Networking
 description: Learn how to use the Confluent Cloud Console effectively with private networking configurations for secure access.
 created: 2026-01-28
-updated: 2026-02-12
+updated: 2026-07-08
 ---
 [Access Confluent Cloud with private networking \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html)
 
@@ -61,15 +61,19 @@ sudo apt update
 sudo apt install nginx
 
 # Test the NGINX configuration. NGINX checks the configuration for correct syntax and tries to open files referred to in the configuration
-nginx -t
+sudo nginx -t
 
 # for loading load_module /usr/lib/nginx/modules/ngx_stream_module.so;
 sudo apt install nginx-extras
 
-nginx -t
+sudo nginx -t
 ```
 
 3. Update the NGINX configuration file (`/etc/nginx/nginx.conf`) to use SNI from incoming TLS sessions for routing traffic to the appropriate servers on ports `443` and `9092`.
+
+```bash
+sudo vim /etc/nginx/nginx.conf
+```
 
 ```json title=/etc/nginx/nginx.conf
 events {}
@@ -111,9 +115,16 @@ stream {
 }
 ```
 
+P.S. - Keep events if existing and remove blank `events {}` config
+
 4. Verify the resolver
 
-`nslookup <ConfluentCloud_BootstrapHostname> 127.0.0.53`
+```bash
+nslookup <ConfluentCloud_BootstrapHostname> 127.0.0.53
+
+# Example -
+nslookup lkc-pggvwv5-apdkggvg.ap-south-1.aws.accesspoint.glb.confluent.cloud 127.0.0.53
+```
 
 5. Restart NGINX to pick up the latest configuration (`/etc/nginx/nginx.conf`).
 
@@ -123,7 +134,12 @@ sudo systemctl restart nginx
 sudo systemctl status nginx
 ```
 
-6. Configure your DNS provider to resolve requests to Confluent Cloud to the proxy server.
+6. Configure your DNS provider to resolve requests to Confluent Cloud to the proxy server. (in your laptop/system)
+
+```bash
+# macbook
+sudo vim /etc/hosts
+```
 
 ```ini title=/etc/hosts
 ##
@@ -139,11 +155,14 @@ sudo systemctl status nginx
 <Public IP Address of VM instance> <Flink-private-endpoint>
 <Public IP Address of VM instance> <Flinkpls-private-endpoint>
 <Public IP Address of VM instance> <Schema-registry-private-endpoint>
+# ex - 3.148.192.126 lkc-n7kngv-6myqkr.us-east-2.aws.glb.confluent.cloud
+# ex - 13.200.219.102 lkc-pggvwv5-apdkggvg.ap-south-1.aws.accesspoint.glb.confluent.cloud
 ```
 
 The example above resolves both the Kafka bootstrap server host and the Kafka REST host. The host addresses of the Kafka bootstrap server and the REST endpoint are the same, and only the port numbers differ.
 
 7. For AWS Enterprise clusters only, set the cluster endpoint as described in [Select a Kafka endpoint for AWS Enterprise clusters](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html#endpoint-selection-aws-enterprise).
+	1. Open port 443 in your EC2 security group
 8. Go to the Confluent Cloud Console and verify that topics and ksqlDB query management are now visible under the **Topics** and **ksqlDB** tabs for your cluster.
 
 ## Enable or disable the Resource metadata access option

@@ -3,7 +3,7 @@ slug: /economics/sector-analysis/industry-sectors
 title: Industry Sectors
 description: Explore diverse industry sectors, from manufacturing and healthcare to e-commerce and tech startups, to understand market trends and opportunities.
 created: 2023-03-05
-updated: 2025-04-12
+updated: 2026-07-08
 ---
 ## Five Fusty Sectors
 
@@ -54,3 +54,9 @@ Sectors where FIIs are Investing
 - Real Estate - $244 million
 - Pharma - $57 million
 - Chemicals - $2 million
+
+## Automotive Manufacturing
+
+**Luxury Car Manufacturing in India:**
+
+- [Luxury Automotive Manufacturing in India](economics/sector-analysis/luxury-automotive-manufacturing-india.md) - Mercedes-Benz, BMW, Audi local plants with CKD vs CBU pricing analysis

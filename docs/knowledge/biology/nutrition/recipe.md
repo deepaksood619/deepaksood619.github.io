@@ -158,3 +158,7 @@ LG -
 ## Theoretical
 
 [I FINALLY understand the Maillard reaction - YouTube](https://www.youtube.com/watch?v=5lKzZc_OO7U&ab_channel=MinuteFood)
+
+## Links
+
+- [Homemade Paneer Recipe - Low-Fat High-Protein](knowledge/biology/nutrition/paneer-homemade-low-fat.md)

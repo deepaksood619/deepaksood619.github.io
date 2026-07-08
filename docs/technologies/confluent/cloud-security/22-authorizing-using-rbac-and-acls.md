@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls
 title: RBAC and ACLs Authorization Explained
 description: Learn how to effectively manage user access in Confluent Cloud using RBAC and ACLs for enhanced security and efficiency.
 created: 2025-12-10
-updated: 2026-03-09
+updated: 2026-07-07
 ---
 Your identities will need access to Confluent Cloud, whether it is to create applications or send and receive data. Allowing them to access your cluster as easily as possible is important to how well your business runs. At the same time, your access model needs to be structured in a way where you can easily add, remove, change, and verify permissions.
 
@@ -287,3 +287,7 @@ By default, if a resource has no associated ACLs, then only super users can acce
 [Access Control Lists (ACLs) overview for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/access-control/acls/overview.html)
 
 [Manage access control lists (ACLs) for authorization in Confluent Platform \| Confluent Documentation](https://docs.confluent.io/platform/current/security/authorization/acls/manage-acls.html)
+
+## Troubleshooting
+
+For troubleshooting KRaft clusters with RBAC and mTLS authentication issues, see [KRaft + RBAC + mTLS + LDAP Troubleshooting](technologies/kafka/internals/kraft-rbac-mtls-troubleshooting.md).

@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/intro
 title: Intro
 description: Discover how large language models (LLMs) transform programming, enhance tasks like text generation, and bridge the gap from information to knowledge.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-07-07
 ---
 LLM makes good programmers great, and not make bad programmers good
 
@@ -120,3 +120,7 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [Showing Delivery Date at 10x Scale with 1/10th Latency \| by Dhruvik Shah \| Flipkart Tech Blog](https://blog.flipkart.tech/showing-delivery-sla-at-10x-scale-with-1-10th-latency-28b17b198cc8)
 - [Language Models as Fact Checkers? \| Research - AI at Meta](https://ai.meta.com/research/publications/language-models-as-fact-checkers/)
 - [How LLMs Handle Infinite Context With Finite Memory \| Towards Data Science](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/)
+
+## Key Concepts
+
+- [Byte Pair Encoding (BPE) Tokenization](ai/llm/fundamentals/byte-pair-encoding-tokenization.md) - How LLMs break text into tokens for multilingual processing

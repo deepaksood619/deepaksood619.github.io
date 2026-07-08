@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-updated: 2026-03-09
+updated: 2026-07-08
 ---
 ```bash
 ./kafka-topics --version
@@ -12,11 +12,14 @@ updated: 2026-03-09
 ## Confluent
 
 ```bash
+# https://docs.confluent.io/confluent-cli/current/install.html#install-confluent-cli
+sudo apt install confluent-cli
 brew install confluentinc/tap/cli
 
 confluent version
-confluent login
 confluent login --save
+# To avoid session timeouts, non-SSO users can save their credentials with confluent login --save.
+confluent login
 confluent logout
 
 # local commands
@@ -25,16 +28,16 @@ confluent local services ksql-server version
 confluent local services schema-registry version
 
 confluent environment list
-confluent environment use env-q2rmnp
+confluent environment use env-n093j6
 
 confluent kafka cluster list
 # cluster id = lkc-zmjxkd
-confluent kafka cluster use lkc-zmjxkd
+confluent kafka cluster use lkc-pggvwv5
 
 confluent api-key list
-confluent api-key create --resource lkc-zmjxkd
-confluent api-key store <api_key> <api_secret> --resource lkc-zmjxkd
-confluent api-key use <api_key> --resource lkc-zmjxkd
+confluent api-key create --resource lkc-pggvwv5
+confluent api-key store <api_key> <api_secret> --resource lkc-pggvwv5
+confluent api-key use <api_key> --resource lkc-pggvwv5
 
 # cloud commands
 # topic
@@ -45,10 +48,17 @@ confluent kafka topic update sample_data_orders --config "num.partitions=7"
 # produce
 confluent kafka topic produce test-topic
 
+# generate test data
+while true; do
+  echo "{\"ts\":\"$(date -u +"%Y-%m-%dT%H:%M:%SZ")\"}"
+  sleep 1
+done | confluent kafka topic produce test-topic
+
 # consume
 confluent kafka topic consume clickstream
 confluent kafka topic consume clickstream --group test-group
 confluent kafka topic consume --from-beginning test-topic
+confluent kafka topic consume test-topic --from-beginning --timestamp
 
 # broker configuration
 confluent kafka cluster configuration update --config auto.create.topics.enable=true
@@ -56,6 +66,11 @@ confluent kafka cluster configuration list --cluster lkc-abc05
 confluent kafka cluster configuration describe auto.create.topics.enable
 
 confluent-hub install confluentinc/kafka-connect-datagen:latest
+
+# ACLs create - Read, Write
+confluent kafka acl create --allow --service-account deep-test-service-account --operations read,describe,write --topic "*" --cluster lkc-pggvwv5
+
+confluent kafka acl create --allow --service-account deep-test-service-account --operations read,describe,write --consumer-group "*" --cluster lkc-pggvwv5
 ```
 
 ### Create producer or consumer config

@@ -3,10 +3,11 @@ slug: /economics/sector-analysis/readme
 title: Sector Analysis
 description: Explore our comprehensive sector analysis to enhance your investment strategies with insights on industry sectors, exchange rates, and business franchises.
 created: 2025-04-12
-updated: 2026-05-23
+updated: 2026-07-08
 ---
 - [Overview](economics/sector-analysis/overview.md)
 - [industry-sectors](economics/sector-analysis/industry-sectors.md)
+- [Luxury Automotive Manufacturing in India](economics/sector-analysis/luxury-automotive-manufacturing-india.md)
 - [usd-inr-exchange-rate-outlook-analysis](economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis.md)
 - [franchise](management/business/franchise.md)
 

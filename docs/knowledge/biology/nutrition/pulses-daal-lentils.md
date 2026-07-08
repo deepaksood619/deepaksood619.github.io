@@ -3,9 +3,30 @@ slug: /knowledge/biology/nutrition/pulses-daal-lentils
 title: Pulses / Daal / Lentils
 description: Discover the essentials of Masoor daal, from identification to cooking tips, and explore the versatility of lentils and pulses in Indian cuisine.
 created: 2023-03-05
-updated: 2026-06-06
+updated: 2026-07-08
 ---
 [How To identify Indian Dals | Basic Cooking Skills For Beginners | Easy Guide To Lentils & Pulses - YouTube](https://www.youtube.com/watch?v=RUmFIvs2RRA&ab_channel=RajshriFood)
+
+- Mix Daal
+- Masoor daal / Red lentils / Malka Masoor
+- Saabut masoor daal / Khadi masoor daal
+- Saabut moong daal
+- Hari split moong daal / green split moong daal / moong daal chilka
+	- Saabut vs Hari moong daal
+		- Sabut Moong Dal
+		- Hari Moong Dal
+- Moong daal
+	- Green vs Yellow Moong daal
+- Toor/Tuvar or Arhar daal or pigeon peas
+- Sabut urad
+- Split urad with skin
+- Urad daal with skin removed
+- Moth Dal (Matki Dal / Turkish Gram)
+- Kulthi Dal (Horse Gram)
+- Kabuli chana
+- Lobia or chawli (Black eyed pea / Cowpea)
+- Rajma
+- Chickpeas - Kala chana / Black chickpeas / Bengal gram / Desi chana
 
 ## Masoor daal / Red lentils / Malka Masoor
 

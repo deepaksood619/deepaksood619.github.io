@@ -3,7 +3,7 @@ slug: /technologies/kafka/security/05-authorization
 title: Understanding Authorization in Kafka
 description: Learn how authorization works in Kafka, including access control lists and client permissions after authentication.
 created: 2026-01-25
-updated: 2026-01-26
+updated: 2026-07-07
 ---
 Authorization determines what an entity can do on a system once it has been authenticated. Consider an ATM, once you successfully authenticate with your card and PIN, you are able to access your accounts only, not all of the accounts on the machine.
 
@@ -61,3 +61,7 @@ If you work in a large organization or have a large cluster topology, you might 
 - Keep in mind that ACLs require careful management. If you are working in a development or test environment, it may be tempting to use anonymous principles, or Kafka's notion of the superuser, or its `allow.everyone.if.no.acl.found` setting. But it’s easy to accidentally promote these settings to a production environment so it’s far better to develop good habits; from the outset, you should automatically assign proper credentials and set ACLs strictly according to need.
 
 - If a user is compromised, you will need to remove that user from the system as soon as possible, but you will also need to check for any existing connections associated with that user since a principal is assigned to a resource upon connection. (You can set how often users need to reconnect with `connections.max.reauth.ms` but you should be careful not to frustrate your users with too frequent reconnections.) Note that if a connection persists for a long time, removing a user will only take effect when the connection is closed and reconnection is attempted. Thus the best solution for blocking access to a compromised user is to implement a “Deny ACL” to prevent actions on any existing connections since ACLs get propagated quickly and are checked with every request.
+
+## Troubleshooting
+
+For troubleshooting authorization failures in KRaft clusters with RBAC and mTLS, see [KRaft + RBAC + mTLS + LDAP Troubleshooting](technologies/kafka/internals/kraft-rbac-mtls-troubleshooting.md).
