@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-06-30
+updated: 2026-07-11
 ---
 ## Shortcuts
 
@@ -225,8 +225,8 @@ https://www.google.com/inputtools
 - **SpeedUp: Netflix, Prime videos**
 - YouTube NonStop
 - **Duplicate Tab shortcut**
-    - Duplicate the current tab - ctrl + d
-    - New tab to the right - cmd + t
+    - Duplicate the current tab - ctrl+e, cmd+e
+    - New tab to the right - ctrl+t, cmd+t
 - [ChatGPT Writer: Use AI on Any Site (GPT-4o, Claude, Gemini, and More)](https://chatgptwriter.ai/)
 
 ##### Screen recorders
@@ -313,14 +313,16 @@ brew services cleanup
 - rename
 - maccy
 
-#### Clipboard Manager
+#### Clipboard Manager (maccy)
 
-- brew install maccy
+- **brew install maccy**
 - [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy) ⭐ 20k
 	- Settings
 		- Launch at login
 		- Check for updates automatically
 		- Paste automatically
+		- Search - Fuzzy
+		- Storage > Size - 999
 	- SHIFT (⇧) + COMMAND (⌘) + C to popup Maccy or click on its icon in the menu bar.
 	- To disable Maccy and ignore new copies, click on the menu icon with OPTION (⌥) pressed.
 	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
@@ -375,16 +377,24 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 	- Advanced - When performing a search - Search the current folder
 	- Directly in Finder - show status bar (cmd + /)
 - System Preferences
+	- Display settings - Display text larger (1496 x 967)
+	- Tap to click
+	- Trackpad - fast
 	- Show seconds and date in clock
 	- Show percent in battery
 	- Show bluetooth status in status bar
 	- touch id
 	- Keyboard - Delay until repeat - short
-	- Tap to click
-	- Trackpad - fast
-	- Display settings - Display text larger (1496 x 967)
+		- Turn keyboard backlight off after inactivity - After 30 seconds
 	- Dock settings - Turn Hiding On
 	- Control Centre Modules - Focus - Always show in menu bar
+	- Default web browser - Google Chrome
+	- Show Widgets
+		- Stocks
+			- ^NSEI - Never
+			- ^NSMIDCP - Never
+			- NASDAQ - Never
+			- ^SPX - Never
 
 #### Setting up Shell
 
@@ -578,13 +588,6 @@ file_decrypt() {
 
 https://thorsten-hans.com/5-types-of-zsh-aliases
 
-### Sidebar Widget Settings - Stocks
-
-- `^NSEI`
-- `^NSMIDCP`
-- NASDAQ
-- S&P 500
-
 ### References
 
 - https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd
@@ -636,3 +639,41 @@ sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
 https://networking.grok.lsu.edu/article.aspx?articleid=17573
 
 settings (google search - how to disable ipv6 in windows)
+
+## Force Mount ExFAT Drive as Read/Write on macOS
+
+If your exFAT external hard drive is stuck in "Read Only" mode on your MacBook, follow these steps to manually force a Read/Write mount via Terminal.
+
+1. Verify your drive's identifier by running `diskutil list`.  *(The instructions below assume your drive identifier is **disk4s1**. Replace it if yours is different).*
+
+### 1. Unmount the Locked Drive
+
+Disconnect the drive from the automated, buggy system mounter:
+
+```bash
+diskutil unmount /dev/disk4s1
+```
+
+### 2. Create a Clean Mount Directory
+
+Create a temporary folder inside the system Volumes directory to serve as the new landing pad:
+
+```bash
+sudo mkdir /Volumes/DeepBackup2
+```
+
+### 3. Force Mount with Read/Write Permissions
+
+Mount the volume explicitly as an ExFAT file system with read and write (`rw`) privileges enabled:
+
+```bash
+sudo mount -t exfat -o rw /dev/disk4s1 /Volumes/DeepBackup2
+```
+
+### How to Eject Safely Afterward
+
+Because this bypasses the standard desktop interface, always unmount it via Terminal before unplugging the USB cable to prevent further file errors:
+
+```bash
+diskutil unmount /Volumes/DeepBackup2
+```

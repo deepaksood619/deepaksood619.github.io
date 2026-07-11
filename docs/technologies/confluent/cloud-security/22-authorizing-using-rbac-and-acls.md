@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls
 title: RBAC and ACLs Authorization Explained
 description: Learn how to effectively manage user access in Confluent Cloud using RBAC and ACLs for enhanced security and efficiency.
 created: 2025-12-10
-updated: 2026-07-07
+updated: 2026-07-09
 ---
 Your identities will need access to Confluent Cloud, whether it is to create applications or send and receive data. Allowing them to access your cluster as easily as possible is important to how well your business runs. At the same time, your access model needs to be structured in a way where you can easily add, remove, change, and verify permissions.
 
@@ -51,7 +51,7 @@ Confluent Cloud has the following roles preconfigured. You may want to [referen
 | [KsqlAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#ksqladmin-role)                 | ksqlDB clusters that the principal has access to.                                                                                   |
 | [ResourceKeyAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#resourcekeyadmin-role)   | Clusters (Kafka, ksqlDB, and Schema Registry) and Flink regions the principal has access to, but cannot create API keys for itself. |
 
-#### Administration roles
+### Administration roles
 
 - [AccountAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#accountadmin-role)
 - [BillingAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#billingadmin-role)
@@ -66,7 +66,26 @@ Confluent Cloud has the following roles preconfigured. You may want to [referen
 - [ResourceKeyAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#resourcekeyadmin-role)
 - [ResourceOwner](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#resourceowner-role)
 
-#### Application development roles
+#### OrganizationAdmin vs AccountAdmin
+
+**OrganizationAdmin** is broader and more powerful than **AccountAdmin** in Confluent Cloud.
+
+- **OrganizationAdmin**
+    - Full org-level administration.
+    - Can manage SSO group mappings, invite/delete users, and broadly administer Confluent Cloud resources across the organization.
+- **AccountAdmin**
+    - Focused on **identity and account lifecycle**.
+    - Can create/delete/invite user accounts, create/delete/alter service accounts, and manage identity pools and group mappings.
+    - By itself, it **cannot view or alter other accounts’ roles**; that requires additional roles.
+
+**Simple way to think about it**
+
+- **OrganizationAdmin** = super admin for the whole Confluent Cloud organization.
+- **AccountAdmin** = admin for users/service accounts/identity objects, but **not** full org/resource admin.
+
+**Important nuance** - AccountAdmin is often used for delegated access management. For example, paired with another admin role like **CloudClusterAdmin**, it can support end-to-end provisioning for users and service accounts tied to that scope.
+
+### Application development roles
 
 - [DeveloperManage](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#developermanage-role)
 - [DeveloperRead](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#developerread-role)

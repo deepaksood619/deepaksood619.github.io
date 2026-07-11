@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-07-01
+updated: 2026-07-09
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -282,7 +282,28 @@ hermes gateway      # Start messaging gateway
 - [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph) ⭐ 20k
 	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
 - [OpenCode \| The open source AI coding agent](https://opencode.ai/)
-- [TradeUsage — Buy Claude credits without Max pricing](https://tradeusage.com/)
+
+## Pricing
+
+Claude models pricing table, retrieved today:
+
+| **Model**                        | **Input (/MTok)** | **Output (/MTok)** | **Factor**       |
+| -------------------------------- | ----------------- | ------------------ | ---------------- |
+| Fable 5 / Mythos 5               | $10               | $50                | 5.0x             |
+| Opus 4.5-4.8 (current)           | $5                | $25                | 2.5x             |
+| Opus 4.1 / Opus 4 (legacy)       | $15               | $75                | 7.5x             |
+| Sonnet 5 (intro, thru 8/31/26)   | $2                | $10                | 1.0x `<-` baseline |
+| Sonnet 5 (from 9/1/26) / 4.5/4.6 | $3                | $15                | 1.5x             |
+| Haiku 4.5                        | $1                | $5                 | 0.5x             |
+| Haiku 3.5 (legacy)               | $0.80             | $4                 | 0.4x             |
+
+Each turn resends the whole conversation as input, so an uncompacted session's cumulative input cost grows with the **square** of its length — double the turns, ~4x the cost. Compacting (or starting fresh) keeps that bounded and flattens it back to linear. Three habits to stay off the quadratic curve:
+
+- **Claude Code:** Auto-compact fires near the limit on its own, but a manual `/compact` at a clean breakpoint gives a sharper summary — steer it with `/compact focus on X`. Keep anything you can't lose in a durable file: `CLAUDE.md` (Claude instructions/conventions) plus a plain project-insights markdown file — findings, decisions, gotchas that have nothing to do with Claude — that you have Claude write to as you go. Reference the insights file from `CLAUDE.md` from the start: `CLAUDE.md` is re-read after every compact, so the pointer pulls the insights back in automatically.
+- **Regular chats:** Don't let one thread grow forever. Start a new chat per topic, use a **Project** to carry shared context across chats, or turn on **memory** so key facts follow you without a giant thread.
+- **Claude Code on the web/app:** Same engine as desktop — auto-compact runs automatically, and `/compact` works right in the input, so you get the same manual control on the go.
+
+[TradeUsage — Buy Claude credits without Max pricing](https://tradeusage.com/)
 
 ## Advanced Features
 

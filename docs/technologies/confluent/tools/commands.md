@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 ```bash
 ./kafka-topics --version
@@ -21,6 +21,11 @@ confluent login --save
 # To avoid session timeouts, non-SSO users can save their credentials with confluent login --save.
 confluent login
 confluent logout
+
+# If your account is SSO-enabled, entering your email redirects you through the browser-based SSO flow automatically. For headless/remote environments:
+confluent login --no-browser
+# If you belong to multiple orgs, you may need:
+confluent login --organization <ORG_ID>
 
 # local commands
 confluent local services kafka version
