@@ -145,7 +145,7 @@ Your body has two types of sweat glands:
 
 - How you age
 
-![image](../../media/bio-Others-image1.jpg)
+![image](media/bio-Others-image1.jpg)
 
 [Getting older without getting old - with Andrew Steele](https://www.youtube.com/watch?v=fX9P1xuIJGg)
 
@@ -168,9 +168,9 @@ Hydra don't age
 9. Cellular exhaustion
 10. Immune malfunction
 
-![image](../../media/bio-Others-image2.jpg)
+![image](media/bio-Others-image2.jpg)
 
-![image](../../media/Others-image3-biology.jpg)
+![image](media/Others-image3-biology.jpg)
 
 - [The science of super longevity | Dr. Morgan Levine - YouTube](https://www.youtube.com/watch?v=B_CqKVU19ec)
 - [Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
@@ -191,7 +191,7 @@ Dr. Casey Means has identified five key health metrics that indicate whether you
 4. Blood pressure higher than 130/85 mmHg (high blood pressure indicates your body is chronically inflamed).
 5. HDL cholesterol lower than 50 mg/dL (low HDL cholesterol means your body struggles to clear fat and cholesterol from your bloodstream).
 
-**Note:** These five metrics constitute the criteria for Metabolic Syndrome. Having 3 or more indicates metabolic syndrome and increased diabetes risk. See [Diabetes - Insulin Resistance](knowledge/biology/diabetes.md) for comprehensive information.
+**Note:** These five metrics constitute the criteria for Metabolic Syndrome. Having 3 or more indicates metabolic syndrome and increased diabetes risk. See [Diabetes - Insulin Resistance](knowledge/biology/diseases-conditions/diabetes.md) for comprehensive information.
 
 ## Links
 

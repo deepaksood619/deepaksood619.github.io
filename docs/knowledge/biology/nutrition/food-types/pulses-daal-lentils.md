@@ -30,7 +30,7 @@ updated: 2026-07-08
 
 ## Masoor daal / Red lentils / Malka Masoor
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image1.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image1.jpg)
 
 Masoor is probably the most commonly used daal ([lentil](https://www.thespruceeats.com/lentil-selection-and-storage-1807776)) in India. It is available whole and split and without skin.
 
@@ -41,7 +41,7 @@ It does not need soaking prior to cooking as it is a "soft" daal and cooks quick
 
 ## Saabut masoor daal / Khadi masoor daal
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image2.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image2.jpg)
 
 Saabutmasoor, means whole and the brownish skin is left on in this type of masoor daal.
 
@@ -51,7 +51,7 @@ It can be used in all the same dishes as masoor daal (split and skin removed). S
 
 - soak for 5 hours
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image3.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image3.jpg)
 
 Saabut moong daal, is whole moong or moong with the green skin left on. It cooks faster if soaked in advance as it is a "harder" daal. Saabut moong tastes great when sprouted and is a lovely, healthful addition to salads.
 
@@ -59,7 +59,7 @@ Mix a handful of sprouted Saabut moong daal in a bowl of yogurt, season with sal
 
 ## Hari split moong daal / green split moong daal / moong daal chilka
 
-![hari moong daal](../../../media/Pasted%20image%2020240226114404.jpg)
+![hari moong daal](media/Pasted%20image%2020240226114404.jpg)
 
 ### Saabut vs Hari moong daal
 
@@ -79,7 +79,7 @@ Mix a handful of sprouted Saabut moong daal in a bowl of yogurt, season with sal
 
 ## Moong daal
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image4.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image4.jpg)
 
 Moong daal, has had its olive green skin removed and is split. It is a golden yellow color and turns slightly lighter when cooked.
 
@@ -94,7 +94,7 @@ Moong does not need soaking prior to being cooked as it is a "soft" daal.
 
 ## Toor/Tuvar or Arhar daal or pigeon peas
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image5.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image5.jpg)
 
 Toor/tuvar or arhar daal, is most commonly sold and cooked in its split, skinless form. With its skin on, it is a greenish-brown color and without its skin, yellow.
 
@@ -102,11 +102,11 @@ Toor daal looks a lot like chana daal but has smaller, more yellow-colored grain
 
 ## Sabut urad
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image6.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image6.jpg)
 
 ## Split urad with skin
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image7.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image7.jpg)
 
 Urad daal, can be bought whole with its skin on, split with its skin on or split with its skin removed.
 
@@ -114,7 +114,7 @@ This [black lentil](https://www.thespruceeats.com/what-are-lentils-1328630) has 
 
 ## Urad daal with skin removed
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image8.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image8.jpg)
 
 Urad daal, has had its black skin removed. It is creamy white in color and has a milder flavor than whole urad daal.
 
@@ -124,15 +124,15 @@ Skinless Urad does not need soaking before it is cooked. It is often ground into
 
 - Soak for 5 hours
 
-![moth dal](../../../media/Pasted%20image%2020240227082926.jpg)
+![moth dal](media/Pasted%20image%2020240227082926.jpg)
 
 ## Kulthi Dal (Horse Gram)
 
-![kulthi dal](../../../media/Pasted%20image%2020240227083043.jpg)
+![kulthi dal](media/Pasted%20image%2020240227083043.jpg)
 
 ## Kabuli chana
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image9.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image9.jpg)
 
 Also known aschole, garbanzo beans, Egyptian peas and white chickpeas, kabulichana, has a lovely nutty flavor. In India, it is used to make curries, added to salads and even in dips.
 
@@ -140,7 +140,7 @@ Kabuli chana is especially popular in North India. It must be soaked for several
 
 ## Lobia or chawli (Black eyed pea / Cowpea)
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image10.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image10.jpg)
 
 There is no need to soaklobiaorchawli, because it is a relatively "soft" bean that cooks easily. Watch carefully when cooking as it should not get mashed.
 
@@ -148,7 +148,7 @@ Lobia can be used almost similarly to kabulichana (white chickpeas) even though 
 
 ## Rajma
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image11.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image11.jpg)
 
 Slightly larger than the Mexican red bean, rajma or red kidney beans are very popular in North India where a well-loved dish is named after them. Not only do they taste great on their own, they make a terrific combination when cooked with vegetables and meats too.
 
@@ -162,13 +162,13 @@ Red kidney beans contain relatively high amounts of [phytohemagglutinin](https:/
 
 ## Chickpeas - Kala chana / Black chickpeas / Bengal gram / Desi chana
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image12.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image12.jpg)
 
 ### Types
 
 - **Black chickpeas (Bengal gram) / garbanzo beans:** These chickpeas come from India where they are sun-dried until they turn a deep rust color. Like regular chickpeas, they have a deep, earthy aroma and a nutty flavor. Black chickpeas can be found in Indian markets and specialty food shops.
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image13.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image13.jpg)
 
 ### Chana dal
 
@@ -178,18 +178,18 @@ Chana daal, looks like a larger version of toor/tuvar or arhar daal. It is made 
 
 This [lentil](https://www.thespruceeats.com/history-of-lentils-1807624) has a nutty flavor and is used in dry curries or with vegetables or meats and also as a flour (Bengal gram flour). It cooks fairly quickly and does not need soaking prior to being cooked.
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image14.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image14.jpg)
 
 - **Chickpea shoots:** These feathery shoots of the chickpea plant are excellent in salads. Like fresh green chickpeas, they can occasionally be found in local farmers' markets.
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image15.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image15.jpg)
 
 - **Chickpea flour:** Chickpea flour has a rich culinary tradition in Indian cuisine, where it is known as **besan or chana** and is used in pancakes, stews, and curries. It is popular as well in Italian cuisine where **farina di ceci(chickpea flour)** is used to make pasta and a polenta-like dish. Chickpeas are also used in some blended flours, such as **garfava flour**, a combination of chickpeas and fava beans, and **dhokra flour**, a combination of rice, lentils, and chickpeas.
 - **Green chickpeas:** Fresh and sweet, like green peas, these are young, tender, fresh chickpeas. They are predominantly found in local farmers' markets.
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image16.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image16.jpg)
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image17.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image17.jpg)
 
 ## Health Benefits
 
@@ -213,12 +213,12 @@ Just 1 cup of cooked daal can give you as much as 62 percent of your daily dieta
 7. wheat
 8. **mung / Green gram / Sabut moong**
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image18.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image18.jpg)
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image19.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image19.jpg)
 
 https://wholefully.com/sprouting-101
 
 ## Links
 
-- [grains](knowledge/biology/nutrition/grains.md)
+- [grains](knowledge/biology/nutrition/food-types/grains.md)

@@ -3,30 +3,42 @@ slug: /knowledge/biology/nutrition/readme
 title: Nutrition
 description: Explore the fundamentals of nutrition, daily dietary requirements, essential foods, and insightful recipes for a healthier lifestyle.
 created: 2023-03-05
-updated: 2026-06-16
+updated: 2026-07-13
 ---
-- [Nutrition](knowledge/biology/nutrition/intro.md)
-- [Diet](knowledge/biology/nutrition/diet.md)
-	- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md)
-- [Essentiality](essentiality)
-- [Daily Requirements](daily-requirements)
-- [Chart](chart)
-- [Food](food)
-	- [fruits](knowledge/biology/nutrition/fruits.md)
-	- [nano-urea](knowledge/biology/nutrition/nano-urea.md)
-	- [Milk](knowledge/biology/nutrition/milk.md)
-	- [Pulses / Daal / Lentils](pulses-daal-lentils)
-	- [Grains](knowledge/biology/nutrition/grains.md)
-	- [Oils](knowledge/biology/nutrition/oils.md)
-	- [Honey](knowledge/biology/nutrition/honey.md)
-- [Ecology](ecology)
-- [Recipe](recipe)
-- [Fatigue](fatigue)
-- [drinking-water-with-meal](knowledge/biology/nutrition/drinking-water-with-meal.md)
-- [Plants / Gardening](knowledge/biology/nutrition/plants-gardening-botany.md)
-- [eating-routine](knowledge/biology/nutrition/eating-routine.md)
 
-### Biggest Factors for bad health and death
+- [Nutrition Introduction](intro.md)
+
+## Nutrition Basics
+
+- [Essentiality](basics/essentiality.md) - Essential nutrients
+- [Daily Requirements](basics/daily-requirements.md)
+- [Vitamins & Minerals Chart](basics/chart.md)
+- [Ecology](basics/ecology.md)
+- [Fatigue](basics/fatigue.md)
+
+## Diet Planning
+
+- [Diet](diet-planning/diet.md)
+- [Diet Nutritional Analysis](diet-planning/diet-nutritional-analysis.md)
+- [Menu Diet Chart](diet-planning/menu-diet-chart.md)
+- [Eating Routine](diet-planning/eating-routine.md)
+- [Food Tips & Good Foods](diet-planning/food.md)
+- [Drinking Water with Meals](diet-planning/drinking-water-with-meal.md)
+
+## Food Types
+
+- [Fruits](food-types/fruits.md)
+- [Grains](food-types/grains.md)
+- [Pulses / Daal / Lentils](food-types/pulses-daal-lentils.md)
+- [Milk](food-types/milk.md)
+- [Oils](food-types/oils.md)
+- [Honey](food-types/honey.md)
+- [Paneer (Homemade Low-Fat)](food-types/paneer-homemade-low-fat.md)
+- [Recipe](food-types/recipe.md)
+- [Plants / Gardening](food-types/plants-gardening-botany.md)
+- [Nano Urea](food-types/nano-urea.md)
+
+## Biggest Factors for bad health and death
 
 - Ultra processed food (sugar / salt)
 - Tobacco / Alcohol

@@ -3,7 +3,7 @@ slug: /knowledge/games/family-games-gifts
 title: Family Games / Gifts
 description: Discover fun family games and gifts, perfect for game nights with kids and couples, including classic card games, charades, and engaging activities.
 created: 2023-03-05
-updated: 2026-07-02
+updated: 2026-07-12
 ---
 - [couple-activities](knowledge/games/couple-activities.md)
 - [kids-games](knowledge/games/kids-games.md)
@@ -98,6 +98,8 @@ https://www.jigsawplanet.com
 ### Water color painting
 
 - [Watercolor Painting for Beginners / Autumn Lake Scenery / Step by Step Tutorial - YouTube](https://www.youtube.com/watch?v=g98BpO7prdU)
+- [Watch Me Paint This Watercolor Mountain Landscape 🎨 - YouTube](https://www.youtube.com/watch?v=PRDx-BnRaEk)
+- [Vintage letter in unique style😍 #diy #vintage #handmade #trending #viral #fyp #vintageletters - YouTube](https://www.youtube.com/watch?v=L4sj-aiDvZU)
 
 ### Others
 

@@ -56,8 +56,8 @@ While BPE allows an LLM to understand every language, it doesn't treat them all 
 
 The phrase **"Higher Education"** is 2 words.
 
-- **English:** `Higher` + ` Education` (2 tokens)
-- **Telugu:** `ఉన్నత` + ` విద్యా` + `భ్యాసం` (3 words, but breaks into 8+ tokens)
+- **English:** `Higher` + `Education` (2 tokens)
+- **Telugu:** `ఉన్నత` + `విద్యా` + `భ్యాసం` (3 words, but breaks into 8+ tokens)
 
 Because training data is predominantly English, BPE optimizes heavily for English patterns. English words usually equal 1 token. Non-Latin scripts (like Hindi, Korean, or Arabic) get broken down into much smaller byte-chunks, meaning a single word might cost 4 or 5 tokens.
 

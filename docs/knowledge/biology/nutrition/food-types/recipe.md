@@ -161,4 +161,4 @@ LG -
 
 ## Links
 
-- [Homemade Paneer Recipe - Low-Fat High-Protein](knowledge/biology/nutrition/paneer-homemade-low-fat.md)
+- [Homemade Paneer Recipe - Low-Fat High-Protein](knowledge/biology/nutrition/food-types/paneer-homemade-low-fat.md)

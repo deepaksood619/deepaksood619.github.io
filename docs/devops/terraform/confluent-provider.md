@@ -3,7 +3,7 @@ slug: /devops/terraform/confluent-provider
 title: Confluent Terraform Provider Guide
 description: Simplify your Apache Kafka deployment with the Confluent Terraform Provider to manage Kafka clusters, ACLs, and more efficiently.
 created: 2026-01-28
-updated: 2026-06-11
+updated: 2026-07-11
 ---
 Simplify Apache Kafka Terraform deployment with the Confluent Terraform Provider. Manage Environments, Kafka Clusters, Kafka Topics, Kafka ACLs, Service Accounts, and more in Confluent.
 
@@ -410,3 +410,7 @@ resource "confluent_kafka_acl" "app-consumer-read-on-group" {
     - On Azure, zones are Confluent-chosen names (for example, `1`, `2`, `3`) since Azure does not have universal zone identifiers.
 
 [Terraform Registry - confluent_kafka_cluster](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/resources/confluent_kafka_cluster)
+
+## Related Topics
+
+- [Confluent Cloud RBAC and Authentication Best Practices](technologies/confluent/confluent-cloud-rbac-best-practices.md) - RBAC vs ACLs, service accounts, API key management

@@ -73,13 +73,13 @@ It is a non-invasive test used for the surveillance of high-risk pregnancies whe
 
 ### Pregnancy Diet
 
-![image](../../media/Pregnancy-Diet-image1.jpg)
+![image](media/Pregnancy-Diet-image1.jpg)
 
-![image](../../media/Pregnancy-Diet-image2.jpg)
+![image](media/Pregnancy-Diet-image2.jpg)
 
-![image](../../media/Pregnancy-Diet-image3.jpg)
+![image](media/Pregnancy-Diet-image3.jpg)
 
-![image](../../media/Pregnancy-Diet-image4.jpg)
+![image](media/Pregnancy-Diet-image4.jpg)
 
 ## Contraception
 

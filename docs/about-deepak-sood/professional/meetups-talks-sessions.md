@@ -3,8 +3,14 @@ slug: /about-deepak-sood/meetups-talks-sessions
 title: Meetups / Talks / Sessions
 description: Join our session on April 25, 2026, to explore best practices for securing sensitive data when integrating AI tools like GPT and Claude in fintech.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-07-12
 ---
+## AI Fundamentals for Placements (Sun, 12 Jul 2026)
+
+**AI Fundamentals for Placements:** How Hiring is Changing & How to Stay Ahead - UnsaidTalks Mentorship Program
+
+![AI Fundamentals for Placements](media/WhatsApp%20Image%202026-07-10%20at%2015.08.39.jpeg)
+
 ## Risk of AI in Fintech (25 April 2026)
 
 With the growing use of Al tools like GPT and Claude, many employees - especially in smaller companies - end up uploading sensitive company data into these platforms from their desktops. From a data architecture perspective, what are some simple best practices organisations should follow when integrating LLMs into their systems so that sensitive data remains protected?
@@ -644,7 +650,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 	- Real-Time Data Warehousing Solution with AWS and Confluent Cloud
 	- Speakers: Deepak Sood (Senior AI, Data & DevOps Architect) and Ramneek Kaur (Experienced Data Engineer), OpsTree Solutions
 
-#### Questions
+### Questions
 
 - DevOps Agent
 

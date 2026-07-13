@@ -198,4 +198,4 @@ Having a **loose routine** (e.g., aiming for three meals a day roughly around th
 
 ## Related Topics
 
-- [Diabetes](knowledge/biology/diabetes.md) - Comprehensive guide including insulin resistance, prediabetes, and glycemic control through diet and meal timing
+- [Diabetes](knowledge/biology/diseases-conditions/diabetes.md) - Comprehensive guide including insulin resistance, prediabetes, and glycemic control through diet and meal timing

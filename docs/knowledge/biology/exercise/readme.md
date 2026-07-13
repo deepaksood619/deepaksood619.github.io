@@ -1,19 +1,19 @@
 ---
-slug: /knowledge/biology/exercise-stretching/readme
+slug: /knowledge/biology/exercise/readme
 title: Exercise / Stretching
 description: Discover effective exercise and stretching routines to boost energy, improve motivation, and enhance overall fitness for a healthier lifestyle.
 created: 2023-03-05
-updated: 2025-09-15
+updated: 2026-07-13
 ---
-- [Exercise / Stretching](knowledge/biology/exercise-stretching/intro.md)
-- [Home Exercise Routine](home-exercise-routine)
-- [Home + Gym](home-gym)
-- [Gym](gym)
-- [Gym Routine](gym-routine)
-- [Gym Nutrition](gym-nutrition)
-- [marathon-running](knowledge/games/marathon-running.md)
+- [Exercise Introduction](intro.md)
+- [Home Exercise Routine](home-exercise-routine.md)
+- [Home + Gym](home-gym.md)
+- [Gym](gym.md)
+- [Gym Routine](gym-routine.md)
+- [Gym Nutrition](gym-nutrition.md)
+- [Marathon Running](../../games/marathon-running.md)
 
-### 15-Minute Aerobic Workout = Natural Drug High
+## 15-Minute Aerobic Workout = Natural Drug High
 
 | Workout Effect (15 min Zone 3-4) | Feels Like This Drug       | / Brain Chemical Released   | Effect You Feel                                |
 | -------------------------------- | -------------------------- | --------------------------- | ---------------------------------------------- |

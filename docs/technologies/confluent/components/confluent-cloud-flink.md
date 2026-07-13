@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-flink
 title: Confluent Cloud Flink Guide
 description: Discover how to process data using Flink on Confluent Cloud with our comprehensive overview and quick start guides.
 created: 2026-01-28
-updated: 2026-03-20
+updated: 2026-07-13
 ---
 - [Process Data with Flink](https://docs.confluent.io/cloud/current/flink/index.html)
 - [Overview](https://docs.confluent.io/cloud/current/flink/overview.html)
@@ -38,6 +38,7 @@ updated: 2026-03-20
 	- [Convert the Serialization Format of a Topic](https://docs.confluent.io/cloud/current/flink/how-to-guides/convert-serialization-format.html)
 	- [Create a UDF](https://docs.confluent.io/cloud/current/flink/how-to-guides/create-udf.html)
 		- Confluent Cloud for Apache Flink® now supports external connectivity for user-defined functions (UDFs) as an Early Access feature. External connectivity enables UDFs to interact with external systems and services, like REST APIs, directly from your UDF code. You create Connection objects in Confluent Cloud to manage endpoints and secrets securely, bind connections to UDFs by using the `USING CONNECTIONS` clause in `CREATE FUNCTION`, and access connection details at runtime through `FunctionContext`. For the Early Access release, only Java stateless scalar and table functions with public endpoints are supported.
+		- External connectivity for user-defined functions (UDFs) in Confluent Cloud for Apache Flink® is now generally available. UDFs can call external systems and services, such as REST APIs, through Confluent Cloud Connection objects bound with the USING CONNECTIONS clause. Public endpoints are supported on AWS, Azure, and Google Cloud. Private endpoints are available on AWS only. For more information,
 	- [Deduplicate Rows in a Table](https://docs.confluent.io/cloud/current/flink/how-to-guides/deduplicate-rows.html)
 	- [Generate Custom Sample Data](https://docs.confluent.io/cloud/current/flink/how-to-guides/custom-sample-data.html)
 	- [Handle Multiple Event Types](https://docs.confluent.io/cloud/current/flink/how-to-guides/multiple-event-types.html)

@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-connect
 title: Understanding Kafka Connect Architecture
 description: Explore Kafka Connect's connectors, tasks, and worker processes for effective data integration and management.
 created: 2023-03-05
-updated: 2026-01-11
+updated: 2026-07-11
 ---
 - Connectors and tasks
     - Connectors
@@ -194,6 +194,10 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 | [TimestampConverter](https://docs.confluent.io/current/connect/transforms/timestampconverter.html#timestampconverter) | Convert timestamps between different formats such as Unix epoch, strings, and Connect Date and Timestamp types. |
 | [TimestampRouter](https://docs.confluent.io/current/connect/transforms/timestamprouter.html#timestamprouter) | Update the record's topic field as a function of the original topic value and the record timestamp. |
 | [ValueToKey](https://docs.confluent.io/current/connect/transforms/valuetokey.html#valuetokey) | Replace the record key with a new key formed from a subset of fields in the record value. |
+
+## Related Topics
+
+- [Confluent Cloud RBAC and Authentication Best Practices](technologies/confluent/confluent-cloud-rbac-best-practices.md) - Connector permissions, service accounts, API keys
 
 ## References
 

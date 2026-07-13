@@ -170,7 +170,7 @@ It has two main components -
 - Full-fat dairy and egg yolks are generally sources of the fat soluble vitamins A, D and E
 - Milk and vegetable or soya bean oil are generally good sources of vitamin K, which can also be synthesised by gut bacteria
 
-![image](../../../media/Nutrition_Daily-Requirements-image1.jpg)
+![image](media/Nutrition_Daily-Requirements-image1.jpg)
 
 ## Protein
 

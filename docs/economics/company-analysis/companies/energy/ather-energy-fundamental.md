@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/energy/ather-energy-fundamental
 title: Ather Energy Fundamental Analysis 2026
 description: Explore Ather Energy's growth potential and risks in the electric scooter market with our detailed fundamental analysis.
 created: 2026-06-03
-updated: 2026-06-09
+updated: 2026-07-13
 ---
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NSE
@@ -110,11 +110,11 @@ Ather Energy Limited is an Indian electric two-wheeler manufacturer founded in 2
 
 #### Quarterly Performance (Recent Trends)
 
-| Quarter | Q1 FY25 | Q2 FY25 | Q3 FY25 | Q4 FY25 | Q1 FY26 | Q2 FY26 | Q3 FY26 | Q4 FY26 |
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **Sales (Rs. Cr)** | 360 | 584 | 635 | 676 | 645 | 899 | 954 | **1,175** |
-| **OPM (%)** | -36% | -24% | -22% | -25% | -21% | -15% | -8% | **-6%** |
-| **Net Loss (Rs. Cr)** | -183 | -197 | -198 | -234 | -178 | -154 | -85 | **-100** |
+| Quarter               | Q1 FY25 | Q2 FY25 | Q3 FY25 | Q4 FY25 | Q1 FY26 | Q2 FY26 | Q3 FY26 | Q4 FY26   |
+| --------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | --------- |
+| **Sales (Rs. Cr)**    | 360     | 584     | 635     | 676     | 645     | 899     | 954     | **1,175** |
+| **OPM (%)**           | -36%    | -24%    | -22%    | -25%    | -21%    | -15%    | -8%     | **-6%**   |
+| **Net Loss (Rs. Cr)** | -183    | -197    | -198    | -234    | -178    | -154    | -85     | **-100**  |
 
 **Quarterly Trend Analysis:**
 

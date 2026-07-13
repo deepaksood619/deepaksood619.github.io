@@ -3,7 +3,7 @@ slug: /psychology/travelling
 title: Travelling
 description: Explore thoughtful travel experiences that prioritize meaningful connections and mindful living over constant partying and superficial adventures.
 created: 2024-08-08
-updated: 2026-06-25
+updated: 2026-07-13
 ---
 Every weekend shouldn't be a party. Once a year trip plan
 
@@ -76,6 +76,13 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 - [What are some must-visit places and hidden gems in Noida?](https://www.reddit.com/r/noida/comments/191dhvu/what_are_some_mustvisit_places_and_hidden_gems_in/)
 - [Share one-day family trips possible near noida](https://www.reddit.com/r/noida/comments/1gsdecz/share_oneday_family_trips_possible_near_noida/)
 - [Places to Visit in Noida](https://www.tripadvisor.in/Attractions-g644043-Activities-Noida_Gautam_Buddha_Nagar_District_Uttar_Pradesh.html)
+- [6 Kid-Friendly Hill Stations Perfect For A Last-Minute Family Getaway](https://www.ndtv.com/travel/6-kid-friendly-hill-stations-perfect-for-a-last-minute-family-getaway-11686789/amp/1)
+	- Shimla, Himachal Pradesh
+	- Mussoorie, Uttarakhand
+	- Nainital, Uttarakhand
+	- Manali, Himachal Pradesh
+	- Ooty, Tamil Nadu
+	- Munnar, Kerala
 
 ## Links
 

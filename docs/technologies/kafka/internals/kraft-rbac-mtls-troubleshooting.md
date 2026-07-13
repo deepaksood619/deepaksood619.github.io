@@ -45,6 +45,7 @@ ssl.principal.mapping.rules=RULE:^CN=([^,]+).*$/$1/,DEFAULT
 **Controller side initially lacked** the same mapping in inventory.
 
 **Certificate DNs:**
+
 - Controllers: `CN=DACDCAPCTDLV01.albtests.com,...`
 - Brokers: `CN=DACDCAPBRDLV01.albtests.com,...`
 
@@ -117,6 +118,7 @@ kafka_controller_custom_properties:
 ```
 
 **Includes:**
+
 - LDAP MDS super user: `User:svc_kafka_ldap`
 - All broker principals (mapped from cert CNs)
 - All controller principals (mapped from cert CNs)
@@ -134,7 +136,7 @@ The symptom was **not** a straightforward LDAP bind or lookup failure. It was a 
 
 After updating the inventory, verify the **rendered Kafka `server.properties`** on at least one broker and one controller.
 
-### Check:
+### Check
 
 1. `ssl.principal.mapping.rules` is present and identical
 2. `super.users` contains all broker and controller principals
@@ -142,7 +144,7 @@ After updating the inventory, verify the **rendered Kafka `server.properties`** 
 
 **Why:** cp-ansible composes final properties from multiple sources before writing them out.
 
-### Commands:
+### Commands
 
 ```bash
 # On broker node

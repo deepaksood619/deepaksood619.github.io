@@ -319,4 +319,4 @@ If you prefer to stick with the oat milk, you will need to proactively replace t
 
 ## Related Topics
 
-- [Homemade Paneer from Different Milk Types](knowledge/biology/nutrition/paneer-homemade-low-fat.md) - Complete guide to making low-fat paneer with yield and nutrition comparisons
+- [Homemade Paneer from Different Milk Types](knowledge/biology/nutrition/food-types/paneer-homemade-low-fat.md) - Complete guide to making low-fat paneer with yield and nutrition comparisons

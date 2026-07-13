@@ -171,11 +171,11 @@ https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 - Fewer and larger meals lower your average daily blood sugar levels. Getting most of your calories in the morning and eating fewer in the afternoon and evening also seems to reduce average blood sugar levels.
 - Skipping meals every now and then helps you lose weight and may improve your blood sugar control over time.
 
-![image](../../../media/Nutrition_Food-image1.jpg)
+![image](media/Nutrition_Food-image1.jpg)
 
 ## Food Pyramid
 
-![image](../../../media/Nutrition_Food-image2.jpg)
+![image](media/Nutrition_Food-image2.jpg)
 
 - **Grains:** Make half your grain whole. Eat at least 3 oz. of whole grain cereals, breads, crackers, rice, or pasta every day
 - **Vegetables:** Vary your vegetables. Eat more dark green veg- etables like broccoli and spinach. Eat more orange vegetables like carrots and sweet potatoes. Eat more dry beans and peas
@@ -183,7 +183,7 @@ https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 - **Milk:** Eat calcium-rich foods. Choose low-fat or fat-free dairy products. If you don't drink milk or eat dairy products, choose lactose-free products or other calcium sources such as fortified foods and drinks
 - **Meat and beans:** Eat lean proteins. Choose low-fat or lean cuts of meat and poultry. Bake, broil, or grill your meats. Eat more fish, beans, peas, nuts, and seeds
 
-![image](../../../media/Nutrition_Food-image3.jpg)
+![image](media/Nutrition_Food-image3.jpg)
 
 - Protein - 16% of your daily energy intake
 - Fibre > 30 grams per day
@@ -476,7 +476,7 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 - [Food expiration dates don’t mean what you think - Carolyn Beans - YouTube](https://www.youtube.com/watch?v=jDg8DQl7ZeQ)
 - [Why Coconut Farmers Risk Their Lives To Feed The World's Superfood Obsession | Big Business - YouTube](https://www.youtube.com/watch?v=vEA8HpR_Azw)
 
-![oat-vs-coke-vs-french-fries](../../../media/Pasted%20image%2020231001165735.jpg)
+![oat-vs-coke-vs-french-fries](media/Pasted%20image%2020231001165735.jpg)
 
 - [home - FIT SHIT](https://fitshit.in/)
 - [Precaution vs. Proof: How the US and EU Differ on Food Safety](https://tbthealth.substack.com/p/precaution-vs-proof-how-the-us-and)
@@ -494,4 +494,4 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 - [Tata 1mg 7X Omega 3 😱🔥 LAB TESTED – 7X Serious or SCAM?](https://youtu.be/05LF5qtJygc)
 - [10 World’s Best Protein Sources Ranked Low to High (No Meat or Dairy)](https://youtu.be/FDEgZzJlY7s)
 
-- [Homemade Paneer - Low-Fat High-Protein Guide](knowledge/biology/nutrition/paneer-homemade-low-fat.md)
+- [Homemade Paneer - Low-Fat High-Protein Guide](knowledge/biology/nutrition/food-types/paneer-homemade-low-fat.md)

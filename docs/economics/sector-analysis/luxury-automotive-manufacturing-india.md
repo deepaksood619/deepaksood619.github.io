@@ -13,6 +13,7 @@ India has emerged as a strategic manufacturing hub for German luxury automakers,
 **Location:** E-3, MIDC Chakan - Phase III, Chakan Industrial Area, Kuruli & Nighoje, Taluka Khed, Pune - 410501, Maharashtra
 
 **Key Details:**
+
 - **Size:** Largest luxury car manufacturing facility in India, covering over 100 acres
 - **Established:** 2009
 - **Annual Capacity:** 20,000 units
@@ -39,11 +40,13 @@ Audi assembles the Q3 and other models here, achieving the lowest entry price am
 ### Understanding the Manufacturing Models
 
 **CKD (Completely Knocked Down):**
+
 - Components imported in parts, assembled locally
 - Import duty: 15%
 - Massive cost savings compared to CBU
 
 **CBU (Completely Built Unit):**
+
 - Fully assembled vehicles imported from Europe
 - Import duty: 70% to 110%
 - Reserved for niche/performance models (AMG, G-Wagen, convertibles)
@@ -65,6 +68,7 @@ Audi assembles the Q3 and other models here, achieving the lowest entry price am
 ### Mercedes-Benz India Lineup
 
 **Luxury Sedans & Electric Vehicles:**
+
 - A-Class Limousine: ₹46.50 Lakh (entry-level luxury sedan)
 - C-Class: ₹62.00 - ₹70.00 Lakh (executive sedan)
 - E-Class LWB: ₹78.50 - ₹92.50 Lakh (highest-selling model)
@@ -72,6 +76,7 @@ Audi assembles the Q3 and other models here, achieving the lowest entry price am
 - EQS 580 4MATIC: ₹1.30 - ₹1.48 Cr (flagship electric sedan)
 
 **Luxury SUVs:**
+
 - GLA: ₹51.80 - ₹55.00 Lakh (cheapest Mercedes SUV)
 - GLC: ₹77.00 Lakh+
 - GLE: ₹1.00 - ₹1.17 Cr
@@ -79,6 +84,7 @@ Audi assembles the Q3 and other models here, achieving the lowest entry price am
 - EQS SUV: ₹1.34 - ₹1.48 Cr (flagship electric SUV)
 
 **Ultra-Luxury:**
+
 - Mercedes-Maybach S-Class S 580: ₹2.88 Cr+
 - Mercedes-Maybach GLS 600: ₹2.75 Cr+
 
@@ -103,6 +109,7 @@ Audi assembles the Q3 and other models here, achieving the lowest entry price am
 **Price Advantage:** ₹7-8 Lakh cheaper than BMW X1 and Mercedes GLA
 
 **Standard Features:**
+
 - Quattro AWD (BMW X1 and Mercedes GLA base models are FWD)
 - 2.0L turbocharged petrol engine (188 bhp)
 - Premium badge at lowest cost

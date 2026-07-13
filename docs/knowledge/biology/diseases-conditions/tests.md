@@ -5,7 +5,7 @@ description: "Discover essential health tests like fasting lipid profiles and bl
 created: 2025-06-22
 updated: 2026-07-04
 ---
-![image](../../media/Diseases-Tests-image1.jpg)
+![image](media/Diseases-Tests-image1.jpg)
 
 - fasting lipid profile test (full lipid profile or lipoprotein analysis) - every 5 years
     - total cholestral
@@ -13,12 +13,12 @@ updated: 2026-07-04
     - HDL
     - Triglyceride
 
-![image](../../media/Diseases-Tests-image2.jpg)
+![image](media/Diseases-Tests-image2.jpg)
 
 - Blood Pressure (every year)
-- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md)
+- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
 
-![image](../../media/Diseases-Tests-image3.jpg)
+![image](media/Diseases-Tests-image3.jpg)
 
 ## Links
 

@@ -3,7 +3,7 @@ slug: /about-deepak-sood/values
 title: Values
 description: Explore our core values, emphasizing accomplishment, accountability, creativity, and community to inspire growth and foster positive relationships.
 created: 2025-02-26
-updated: 2026-02-27
+updated: 2026-07-11
 ---
 ## Core Values
 
@@ -123,6 +123,7 @@ updated: 2026-02-27
 114. Welcoming
 115. Willfulness
 116. Winning
+117. [Irreligion - Wikipedia](https://en.wikipedia.org/wiki/Irreligion)
 
 https://dariusforoux.com/core-values-list
 

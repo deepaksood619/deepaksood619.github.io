@@ -7,7 +7,7 @@ updated: 2025-01-16
 ---
 ## Muscles
 
-![image](../../media/Muscles-image1.jpg)
+![image](media/Muscles-image1.jpg)
 
 - **Joints** are the junctions that link bones together. The architecture of each joint - whether it acts as a hinge, pivot, or ball-in-socket - helps dictate the directions of movement allowed.
 - **Tendons** are flexible cords of strong tissue that tether muscles to bones. The Achilles' tendon, a thick cord that fastens the two calf muscles to the heel bone, is one well-known example.

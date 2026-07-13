@@ -9,7 +9,7 @@ updated: 2026-07-02
 
 Semolina is the coarse, purified [wheat middlings](https://en.wikipedia.org/wiki/Wheat_middlings) of [durum wheat](https://en.wikipedia.org/wiki/Durum) mainly used in making [upma](https://en.wikipedia.org/wiki/Upma), [pasta](https://en.wikipedia.org/wiki/Pasta), and [couscous](https://en.wikipedia.org/wiki/Couscous). The word semolina can also refer to sweet dessert made from semolina and milk.The term semolina is also used to designate coarse middlings from other varieties of wheat, and from other grains, such as [rice](https://en.wikipedia.org/wiki/Rice) and [maize](https://en.wikipedia.org/wiki/Maize).
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image20.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image20.jpg)
 
 https://en.wikipedia.org/wiki/Semolina
 
@@ -25,7 +25,7 @@ Durum wheat ([/ˈdjʊərəm/](https://en.wikipedia.org/wiki/Help:IPA/English)), 
 
 Durumin [Latin](https://en.wikipedia.org/wiki/Latin) means "hard", and the species is the hardest of all wheats. This refers to the resistance of the grain to milling, in particular of the [starchy](https://en.wikipedia.org/wiki/Starch)[endosperm](https://en.wikipedia.org/wiki/Endosperm), implying dough made from its flour is weak or "soft". This makes durum favorable for [semolina](https://en.wikipedia.org/wiki/Semolina) and [pasta](https://en.wikipedia.org/wiki/Pasta) and less practical for flour, which requires more work than with [hexaploid](https://en.wikipedia.org/wiki/Hexaploid) wheats like [common bread wheats](https://en.wikipedia.org/wiki/Common_wheat). Despite its high [protein](https://en.wikipedia.org/wiki/Protein) content, durum is not a strong wheat in the sense of giving strength to [dough](https://en.wikipedia.org/wiki/Dough) through the formation of a [gluten](https://en.wikipedia.org/wiki/Gluten) network. Durum contains 27% extractable wet gluten, about 3% higher than in common wheat (T. aestivumL.).
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image21.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image21.jpg)
 
 https://en.wikipedia.org/wiki/Durum
 
@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/Durum
 
 Buck wheat (Fagopyrum esculentum), or common buckwheat,  is a plant cultivated for its [grain-like](https://en.wikipedia.org/wiki/Pseudocereal) seeds and as a [cover crop](https://en.wikipedia.org/wiki/Cover_crop). A related species, [Fagopyrum tataricum](https://en.wikipedia.org/wiki/Fagopyrum_tataricum), is a domesticated food plant raised in Asia. Despite the name, buckwheat is not related to [wheat](https://en.wikipedia.org/wiki/Wheat), as it is not a [grass](https://en.wikipedia.org/wiki/Grasses). Instead, buckwheat is related to [sorrel](https://en.wikipedia.org/wiki/Sorrel), [knotweed](https://en.wikipedia.org/wiki/Polygonum), and [rhubarb](https://en.wikipedia.org/wiki/Rhubarb). Buckwheat is referred to as a [pseudocereal](https://en.wikipedia.org/wiki/Pseudocereal) because its seeds' culinary use is the same as cereals', owing to their composition of [complex carbohydrates](https://en.wikipedia.org/wiki/Complex_carbohydrates).
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image22.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image22.jpg)
 
 https://en.wikipedia.org/wiki/Buckwheat
 
@@ -63,9 +63,9 @@ Millets may have been consumed by humans for about 7,000 years and potentially h
 | Proso millet (broomcorn millet) | Chena                        |
 | Sorghum                         | Jowar                        |
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image23.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image23.jpg)
 
-![image](../../../media/Nutrition_Pulses-Daal-Lentils-image24.jpg)
+![image](media/Nutrition_Pulses-Daal-Lentils-image24.jpg)
 
 https://en.wikipedia.org/wiki/Millet
 
@@ -79,7 +79,7 @@ All oats start out exactly the same: as **whole oat groats**. This is the whole 
 
 The differences between steel-cut, rolled, and instant oats come down entirely to **how much those groats are processed**. The more an oat is processed (steamed, flattened, or chopped), the faster it cooks—but it also digests faster, which raises its Glycemic Index (GI).
 
-![oats](../../../media/Screenshot%202026-06-06%20at%201.48.08%20AM.png)
+![oats](media/Screenshot%202026-06-06%20at%201.48.08%20AM.png)
 
 ### The Oat Spectrum (From Least to Most Processed)
 
@@ -219,7 +219,7 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 | Wheat                   | Gehoon                                                     |
 | Whole Wheat Flour       | Gehoon aata                                                |
 
-![Protein, fiber and GI of grains](../../../media/Screenshot%202024-10-20%20at%2010.22.17%20PM.jpg)
+![Protein, fiber and GI of grains](media/Screenshot%202024-10-20%20at%2010.22.17%20PM.jpg)
 
 [Eight Swaps To Eat Better Everyday - Truth Be Told](https://tbthealth.substack.com/p/eight-swaps-to-eat-better-everyday)
 
@@ -270,4 +270,4 @@ https://www.quora.com/Is-corn-flour-same-as-makke-maize-ka-ata
 
 ## Links
 
-- [pulses-daal-lentils](knowledge/biology/nutrition/pulses-daal-lentils.md)
+- [pulses-daal-lentils](knowledge/biology/nutrition/food-types/pulses-daal-lentils.md)

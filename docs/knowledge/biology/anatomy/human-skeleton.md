@@ -145,7 +145,7 @@ Axial skeleton = 80 Skull =22 Vertebral Coloumn = 26 Ribs = 12 Fore limb = 60 Hi
 - Lenticular [process](https://en.wikipedia.org/wiki/Process_(anatomy)) of the [incus](https://en.wikipedia.org/wiki/Incus_bone)
 - For bones that are present variably in different people, see [Accessory bone](https://en.wikipedia.org/wiki/Accessory_bone)
 
-![image](../../media/Human-Skeleton-image1.jpg)
+![image](media/Human-Skeleton-image1.jpg)
 
 ## References
 

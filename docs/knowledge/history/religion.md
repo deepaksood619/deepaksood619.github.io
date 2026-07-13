@@ -3,11 +3,24 @@ slug: /knowledge/history/religion
 title: Religion
 description: Explore the impact of religion on society, theological differences, and the complexities of Islam, including Sunni and Shia branches, in this insightful overview.
 created: 2023-03-05
-updated: 2025-11-04
+updated: 2026-07-11
 ---
 [What has religion done for this world? - Quora](https://www.quora.com/What-has-religion-done-for-this-world)
 
 Book - What has religion done for mankind?
+
+## Major religious groups
+
+| Religion                                                                     | Followers (billions) | Cultural tradition                                                                             | Founded                                                                                                                                                                        |
+| ---------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Christianity](https://en.wikipedia.org/wiki/Christianity "Christianity")    | 2.3                       | [Abrahamic religions](https://en.wikipedia.org/wiki/Abrahamic_religions "Abrahamic religions") | [Judaea](https://en.wikipedia.org/wiki/Judaea_\(Roman_province\) "Judaea (Roman province)") ([Middle East](https://en.wikipedia.org/wiki/Middle_East "Middle East")), c. 30 CE |
+| [Islam](https://en.wikipedia.org/wiki/Islam "Islam")                         | 2.0                       | [Abrahamic religions](https://en.wikipedia.org/wiki/Abrahamic_religions "Abrahamic religions") | [Hejaz](https://en.wikipedia.org/wiki/Hejaz "Hejaz") ([Middle East](https://en.wikipedia.org/wiki/Middle_East "Middle East")), c. 610 CE                                       |
+| [Irreligion](https://en.wikipedia.org/wiki/Irreligion "Irreligion")          | 1.9                       | [Secularism](https://en.wikipedia.org/wiki/Secularism "Secularism")                            | Worldwide                                                                                                                                                                      |
+| [Hinduism](https://en.wikipedia.org/wiki/Hinduism "Hinduism")                | 1.2                       | [Indian religions](https://en.wikipedia.org/wiki/Indian_religions "Indian religions")          | [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent "Indian subcontinent"), c. 20th to 17th century BCE                                                    |
+| [Buddhism](https://en.wikipedia.org/wiki/Buddhism "Buddhism")                | 0.3                       | [Indian religions](https://en.wikipedia.org/wiki/Indian_religions "Indian religions")          | [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent "Indian subcontinent"), c. 5th century BCE                                                             |
+| [Folk religion](https://en.wikipedia.org/wiki/Folk_religion "Folk religion") | 0.2                       | [Regional](https://en.wikipedia.org/wiki/Region "Region")                                      | Worldwide                                                                                                                                                                      |
+
+[Major religious groups - Wikipedia](https://en.wikipedia.org/wiki/Major_religious_groups)
 
 ## Theological Differences
 
@@ -53,3 +66,5 @@ The Torah is the compilation of the first five books of the Hebrew Bible, namely
 [Is Atheism a Religion?: Crash Course Religions #13 - YouTube](https://www.youtube.com/watch?v=CZXFZAxX3UA)
 
 - Non theism
+
+[Irreligion - Wikipedia](https://en.wikipedia.org/wiki/Irreligion)

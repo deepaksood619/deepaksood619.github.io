@@ -93,7 +93,7 @@ An eating disorder characterized by markedly reduced appetite or total aversion 
 
 - A boil is a common, painful infection of a hair follicle and the surrounding skin. It begins as a red lump, then fills with pus as white blood cells rush in to fight the infection. Good home care can often clear up a single boil, also known as a skin abscess. A doctor's care is needed when a boil resists treatment or develops in certain vulnerable areas of the body.
 
-![image](../../media/Diseases-Tests-image4.jpg)
+![image](media/Diseases-Tests-image4.jpg)
 
 - You may also have a general feeling of ill health, fatigue, or a fever, which is reason to call a doctor.
 - Most boils are caused by **staph bacteria (Staphylococcus aureus)**. When a scrape, cut, or splinter breaks the skin, the bacteria can enter a hair follicle and start an infection.
@@ -110,7 +110,7 @@ An eating disorder characterized by markedly reduced appetite or total aversion 
 
 When several boils form close together and join beneath the skin, it's called a carbuncle. They are most commonly found on the back and the neck but can develop anywhere. Men are more likely to develop carbuncles than women. A carbuncle tends to lie deeper beneath the skin than a boil and can take longer to heal.
 
-![image](../../media/Diseases-Tests-image5.jpg)
+![image](media/Diseases-Tests-image5.jpg)
 
 - Cystic Acne
 - Armpit and Groin (hidradenitis suppurativa)
@@ -216,7 +216,7 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 [The Dreadful Business of Balding & Hair Loss - YouTube](https://www.youtube.com/watch?v=Q65BI_5lul4&ab_channel=ModernMBA)
 
-![Norwood scale](../../media/Screenshot%202023-05-15%20at%2011.09.00%20PM.jpg)
+![Norwood scale](media/Screenshot%202023-05-15%20at%2011.09.00%20PM.jpg)
 
 ## Lead Poisioning
 
@@ -228,7 +228,7 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 ## Diabetes
 
-See [Diabetes](knowledge/biology/diabetes.md) - Comprehensive guide to types, symptoms, diagnosis, treatment, complications, and prevention
+See [Diabetes](knowledge/biology/diseases-conditions/diabetes.md) - Comprehensive guide to types, symptoms, diagnosis, treatment, complications, and prevention
 
 ## Mumps
 

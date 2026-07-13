@@ -3,26 +3,49 @@ slug: /knowledge/biology/readme
 title: Biology
 description: Explore the essential aspects of biology, including genetics, anatomy, nutrition, organ systems, and health to enhance your understanding of life sciences.
 created: 2023-03-05
-updated: 2025-06-22
+updated: 2026-07-13
 ---
-- [Exercise / Stretching](exercise-stretching/readme.md)
-- [Nutrition](nutrition/readme.md)
-- [Biology](knowledge/biology/intro.md)
-- [Genetics](genetics)
-- [Omics](knowledge/biology/omics.md)
-- [Organ Systems](organ-systems)
-	- [heart](knowledge/biology/heart.md)
-- [Muscles](muscles)
-- [Human Skeleton](human-skeleton)
-- [Digestive System](digestive-system)
-- [Nerves System](nerves-system)
-- [Diseases](knowledge/biology/diseases.md)
-	- [gastro-problems](knowledge/biology/gastro-problems.md)
-	- [Tests](knowledge/biology/tests.md)
-- [MBBS / Medicine / Medical / Health](mbbs-medicine-medical-health)
-- [Alternative Medicine](knowledge/biology/alternative-medicine.md)
-- [Pregnancy Diet](knowledge/biology/pregnancy-baby.md)
-- [Others](knowledge/biology/others.md)
+
+## Core Topics
+
+- [Biology Fundamentals](fundamentals.md) - Taxonomy, proteins, tree of life
+
+## Anatomy
+
+- [Organ Systems](anatomy/organ-systems.md)
+- [Heart](anatomy/heart.md)
+- [Digestive System](anatomy/digestive-system.md)
+- [Nerves System](anatomy/nerves-system.md)
+- [Muscles](anatomy/muscles.md)
+- [Human Skeleton](anatomy/human-skeleton.md)
+
+## Diseases & Conditions
+
+- [Diseases Overview](diseases-conditions/diseases.md)
+- [Diabetes](diseases-conditions/diabetes.md)
+- [Diabetic Blood Glucose Meters](diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
+- [Gastro Problems](diseases-conditions/gastro-problems.md)
+- [Medical Tests](diseases-conditions/tests.md)
+
+## Genetics & Advanced Biology
+
+- [Genetics](genetics-omics/genetics.md)
+- [Omics](genetics-omics/omics.md)
+- [Other Biology Topics](genetics-omics/others.md)
+
+## Medicine & Healthcare
+
+- [MBBS / Medicine / Medical / Health](medicine-healthcare/mbbs-medicine-medical-health.md)
+- [Alternative Medicine](medicine-healthcare/alternative-medicine.md)
+- [Pregnancy & Baby](medicine-healthcare/pregnancy-baby.md)
+
+## Exercise & Fitness
+
+- [Exercise Overview](exercise/readme.md)
+
+## Nutrition
+
+- [Nutrition Overview](nutrition/readme.md)
 
 ## Outline
 
