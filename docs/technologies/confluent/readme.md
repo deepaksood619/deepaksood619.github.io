@@ -3,7 +3,7 @@ slug: /technologies/confluent/readme
 title: Confluent Platform & Cloud
 description: Explore Confluent's enterprise Apache Kafka platform, cloud services, and data streaming solutions including governance, security, and integration tools.
 created: 2025-12-01
-updated: 2026-06-22
+updated: 2026-07-16
 ---
 Confluent is the enterprise platform built on Apache Kafka, offering managed cloud services, additional components, and enterprise-grade features for data streaming.
 
@@ -68,6 +68,7 @@ Confluent is the enterprise platform built on Apache Kafka, offering managed clo
 - [Replicator](technologies/confluent/data-integration/replicator.md)
 - [Disaster Recovery / DR Failover](technologies/confluent/data-integration/disaster-recovery-dr-failover.md)
 - [Oracle XStream CDC Source Connector](technologies/confluent/data-integration/oracle-xstream-cdc-source-connector.md)
+- [connectors](technologies/confluent/data-integration/connectors.md)
 
 ## Stream Governance
 

@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-updated: 2026-07-09
+updated: 2026-07-14
 ---
 ```bash
 ./kafka-topics --version
@@ -13,7 +13,18 @@ updated: 2026-07-09
 
 ```bash
 # https://docs.confluent.io/confluent-cli/current/install.html#install-confluent-cli
+sudo apt install curl gnupg
+
+sudo mkdir -p /etc/apt/keyrings
+curl https://packages.confluent.io/confluent-cli/deb/archive.key | sudo gpg --dearmor -o /etc/apt/keyrings/confluent-cli.gpg
+sudo chmod go+r /etc/apt/keyrings/confluent-cli.gpg
+
+echo "deb [signed-by=/etc/apt/keyrings/confluent-cli.gpg] https://packages.confluent.io/confluent-cli/deb stable main" | sudo tee /etc/apt/sources.list.d/confluent-cli.list >/dev/null
+
+sudo apt update
+
 sudo apt install confluent-cli
+
 brew install confluentinc/tap/cli
 
 confluent version
@@ -76,6 +87,14 @@ confluent-hub install confluentinc/kafka-connect-datagen:latest
 confluent kafka acl create --allow --service-account deep-test-service-account --operations read,describe,write --topic "*" --cluster lkc-pggvwv5
 
 confluent kafka acl create --allow --service-account deep-test-service-account --operations read,describe,write --consumer-group "*" --cluster lkc-pggvwv5
+```
+
+### Tags
+
+```bash
+curl --silent -u $APIKEY:$APISECRET \
+  --request GET \
+  --url "$SCHEMA_REGISTRY_ENDPOINT/catalog/v1/search/basic?types=kafka_topic&query=test-topic" | jq .
 ```
 
 ### Create producer or consumer config

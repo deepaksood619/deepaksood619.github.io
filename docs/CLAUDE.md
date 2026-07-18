@@ -242,6 +242,14 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - Target: ~50-150 lines for most topics
 - Additional resources → "Links" or "Further Reading" section
 
+**Small content handling (CRITICAL):**
+
+- **If content is small** (one paragraph, `<10` lines): DO NOT create new file
+- **Instead:** Add as condensed paragraph in most relevant existing file
+- **Format:** Bold topic name at start, then condensed summary with source link
+- **Example:** `**Topic Name:** Brief explanation... [Source](url)`
+- **Only create new file when:** Have substantial content (50+ lines) or expect to add more material later
+
 ### 4. Semantic Search Available
 
 **Use Obsidian Hybrid Search MCP for finding content:**
@@ -331,6 +339,7 @@ updated: YYYY-MM-DD
 
 **Slug rules:**
 
+- **NEVER update existing slugs** - Changing a slug breaks all existing links to that page
 - Use natural language: `/claude-md-best-practices`
 - NOT folder-based: `~/devops/ides/claude-md-best-practices~`
 - **SEO-friendly:** Include descriptive keywords for better search visibility
@@ -483,6 +492,7 @@ graph TD
 - ✅ **Blank lines** between all content blocks
 - ✅ **Code blocks** always specify language
 - ✅ **Escape MDX** special chars: `<` `>` in backticks
+- ❌ **NEVER update existing slugs** - breaks all links to that page
 - ❌ **NEVER auto-commit** - require explicit user approval
 - ❌ **No wikilinks** - standard markdown only
 - ❌ **No folder-based slugs** - use natural language

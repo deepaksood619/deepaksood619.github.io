@@ -3,7 +3,7 @@ slug: /knowledge/biology/genetics
 title: Genetics
 description: Explore genetics - understand phenotypes, observable traits, and how an organism's characteristics are shaped by genes and environmental interactions.
 created: 2023-03-05
-updated: 2026-05-28
+updated: 2026-07-13
 ---
 ## Phenotype
 
@@ -77,6 +77,6 @@ Contrary to the assumption that early humans constantly inbred, early _Homo sapi
 
 ## Links
 
-[Learn Genetic Engineering - Part 1: How does it work?](https://www.youtube.com/watch?v=E_TAHxPBqKY)
-
-[Zygosity - Wikipedia](https://en.wikipedia.org/wiki/Zygosity)
+- [Learn Genetic Engineering - Part 1: How does it work?](https://www.youtube.com/watch?v=E_TAHxPBqKY)
+- [Zygosity - Wikipedia](https://en.wikipedia.org/wiki/Zygosity)
+- [What Breaks a Cell’s Ribs Can Make It Stronger \| Quanta Magazine](https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/)

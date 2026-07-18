@@ -3,7 +3,7 @@ slug: /cloud/aws/analytics/amazon-msk
 title: Amazon MSK
 description: Streamline your data with Amazon MSK, a fully managed Apache Kafka service that simplifies deployment and scaling while ensuring enterprise-grade security.
 created: 2026-01-19
-updated: 2026-04-21
+updated: 2026-07-15
 ---
 **Amazon Managed Streaming for Apache Kafka**
 
@@ -130,3 +130,7 @@ MSK Provisioned offers two types of brokers:
 ## MSK Replicator
 
 [Migrate third-party and self-managed Apache Kafka clusters to Amazon MSK Express brokers with Amazon MSK Replicator \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/migrate-third-party-and-self-managed-apache-kafka-clusters-to-amazon-msk-express-brokers-with-amazon-msk-replicator/)
+
+## MSK Connect
+
+- [Set up resources required for MSK Connect - Amazon Managed Streaming for Apache Kafka](https://docs.aws.amazon.com/msk/latest/developerguide/mkc-tutorial-setup.html)

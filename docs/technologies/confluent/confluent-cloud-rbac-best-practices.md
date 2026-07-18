@@ -13,6 +13,7 @@ updated: 2026-07-11
 **Recommendation:** Always prefer Role-Based Access Control (RBAC) over Access Control Lists (ACLs) for permission management in Confluent Cloud.
 
 **Why ACLs are problematic:**
+
 - Too complex to manage at scale
 - Permissions are tied directly to API keys
 - Key rotation requires manually replicating all ACL permissions to new keys
@@ -20,6 +21,7 @@ updated: 2026-07-11
 - Quickly becomes cumbersome as the number of topics and applications grows
 
 **Why RBAC is better:**
+
 - Permissions are managed at the service account level
 - API keys automatically inherit permissions from their service account
 - Changing permissions doesn't require key rotation
@@ -41,6 +43,7 @@ Organization
 ```
 
 **Permission inheritance:**
+
 - Higher-level permissions propagate down
 - Environment Admin → Full access to all clusters in that environment
 - Cloud Cluster Admin → Full access to all resources in that cluster
@@ -51,12 +54,14 @@ Organization
 ### Service Accounts
 
 **What they are:**
+
 - Application identities (not for humans)
 - Container for permissions via RBAC
 - Can have multiple API keys
 - Permissions are assigned once at the service account level
 
 **Best practices:**
+
 - Create separate service accounts for different applications or purposes
 - One service account for producers/consumers
 - Separate service account for connectors (needs Resource Owner on topics)
@@ -65,11 +70,13 @@ Organization
 ### API Keys
 
 **What they are:**
+
 - Credentials used by applications to authenticate
 - Inherit permissions from their associated service account
 - Can be scoped to specific clusters or global
 
 **Key management best practices:**
+
 - Generate API keys without ACLs (let RBAC handle permissions)
 - Use the centralized API key management interface (hamburger menu → API Keys)
 - When rotating keys, permissions automatically transfer (no manual ACL migration needed)
@@ -86,6 +93,7 @@ Limitation: One key per cluster per service account
 ```
 
 **When to use:**
+
 - Separate dev/test/prod environments
 - Want to enforce environment boundaries
 - Standard use case for most applications
@@ -99,12 +107,14 @@ Benefit: One key works everywhere (with proper RBAC)
 ```
 
 **When to use:**
+
 - Multi-cluster replication
 - Cross-environment migration tools
 - Applications that need access to multiple clusters
 - Global monitoring/observability tools
 
 **How it works:**
+
 1. Create service account
 2. Grant RBAC permissions on multiple clusters
 3. Generate global-scoped API key
@@ -191,11 +201,12 @@ Benefit: One key works everywhere (with proper RBAC)
 
 **Minimum required permissions:**
 
-1. **On Topics:** 
+1. **On Topics:**
    - Scope: Specific topics or prefix rule (e.g., )
    - OR: All topics (if application creates dynamic topics)
 
 **Example setup:**
+
 ```text
 Service Account: my-producer-app
 RBAC Bindings:
@@ -206,17 +217,19 @@ RBAC Bindings:
 
 **Minimum required permissions:**
 
-1. **On Topics:** 
+1. **On Topics:**
    - Scope: Specific topics to consume from
-2. **On Consumer Groups:** 
+2. **On Consumer Groups:**
    - Scope: All consumer groups (recommended) OR specific group
 
 **Why consumer groups permission is needed:**
+
 - Kafka uses consumer groups to track offset commits
 - Even single-consumer applications use consumer groups internally
 - Recommendation: Grant DeveloperRead on ALL consumer groups (minimal overhead)
 
 **Example setup:**
+
 ```text
 Service Account: my-consumer-app
 RBAC Bindings:
@@ -228,19 +241,21 @@ RBAC Bindings:
 
 **Minimum required permissions:**
 
-1. **On Topics:** 
+1. **On Topics:**
    - Why: Connectors auto-create topics for data and metadata
    - Scope: All topics OR specific prefix
-2. **On Consumer Groups:** 
+2. **On Consumer Groups:**
    - Why: Source connectors use consumer groups for offset tracking
    - Scope: All consumer groups
 
 **Connector-specific topics created:**
+
 - Data topics (based on source tables/streams)
 - Internal metadata topics (e.g., , )
 - Schema history topics (for CDC connectors)
 
 **Example setup:**
+
 ```text
 Service Account: connector-mysql-cdc
 RBAC Bindings:
@@ -250,18 +265,21 @@ RBAC Bindings:
 
 ## Permission Troubleshooting
 
-### Common authorization errors:
+### Common authorization errors
 
 **"User is not authorized to perform this operation"**
+
 - Check if service account has appropriate RBAC role
 - Verify API key is associated with correct service account
 - Check permission scope (topic/cluster/environment level)
 
 **"Could not create topic"**
+
 - Service account needs  on topics (not just DeveloperWrite)
 - Common for connectors that auto-create topics
 
 **"Consumer group permission denied"**
+
 - Add  on consumer groups
 - Often forgotten for sink connectors and consumers
 
@@ -287,11 +305,13 @@ RBAC Bindings:
 ## Migration from Open Source Kafka
 
 **Why ACLs exist in Confluent Cloud:**
+
 - Open Source Kafka only had ACLs (no RBAC)
 - Confluent Cloud maintained ACL support for migration compatibility
 - Allows replicating existing ACL-based permissions during migration
 
 **Migration strategy:**
+
 1. Document existing ACLs from self-managed cluster
 2. Map ACL patterns to RBAC roles in Confluent Cloud
 3. Create service accounts with RBAC bindings
@@ -300,18 +320,21 @@ RBAC Bindings:
 6. Migrate applications to Confluent Cloud
 
 **Don't:**
+
 - Carry over ACL-based approach to Confluent Cloud long-term
 - Mix ACLs and RBAC (choose one, preferably RBAC)
 
 ## Principle of Least Privilege
 
 **Apply granular permissions:**
+
 - Don't grant EnvironmentAdmin when CloudClusterAdmin suffices
 - Don't grant CloudClusterAdmin when topic-level roles suffice
 - Use prefix rules for topic permissions when possible
 - Separate service accounts by application/function
 
 **Example hierarchy:**
+
 ```text
 Production environment:
   - prod-admin-sa → EnvironmentAdmin (ops team only)
@@ -325,22 +348,26 @@ Production environment:
 When creating a service account, you can optionally assign a **Resource Owner** (a human user) to that service account.
 
 **What it does:**
+
 - Tags a specific user as responsible for managing that service account
 - Useful for accountability and auditing
 - NOT required for functionality
 
 **When to use:**
+
 - Large organizations with many teams
 - Want to track ownership/responsibility
 - Compliance requirements
 
 **When to skip:**
+
 - Small teams where everyone manages via UI
 - Service accounts managed by automation
 
 ## Best Practices Summary
 
 ✅ **DO:**
+
 - Use RBAC over ACLs for all new deployments
 - Create separate service accounts per application/purpose
 - Use descriptive service account naming conventions
@@ -351,6 +378,7 @@ When creating a service account, you can optionally assign a **Resource Owner** 
 - Document service account purposes and owners
 
 ❌ **DON'T:**
+
 - Attach ACL permissions directly to API keys
 - Use a single service account for all applications
 - Grant higher permissions than necessary
@@ -362,6 +390,7 @@ When creating a service account, you can optionally assign a **Resource Owner** 
 ## Tools for Permission Management
 
 ### Confluent Cloud UI
+
 - Navigate to Service Accounts
 - Click on service account → Access tab
 - Grant Access → Select environment/cluster/resource
@@ -369,6 +398,7 @@ When creating a service account, you can optionally assign a **Resource Owner** 
 - Save
 
 ### Confluent CLI
+
 ```bash
 # Create service account
 confluent iam service-account create my-app --description "My application"
@@ -385,6 +415,7 @@ confluent api-key create --service-account <sa-id> --resource <cluster-id>
 ```
 
 ### Terraform (Infrastructure as Code)
+
 ```hcl
 resource "confluent_service_account" "my_app" {
   display_name = "my-app"
@@ -405,11 +436,13 @@ resource "confluent_role_binding" "my_app_write" {
 **Role Binding**: Associates a principal (user or service account) with a role on a specific resource scope.
 
 **Principal Types:**
+
 - User accounts (SSO or local)
 - Service accounts (for applications)
 - Identity pools (OAuth/mTLS federation)
 
 **Scope Levels** (hierarchical):
+
 1. Organization
 2. Environment
 3. Cluster
@@ -433,6 +466,7 @@ resource "confluent_role_binding" "my_app_write" {
 5. Save assignment
 
 **Example workflow:**
+
 ```text
 Service Account: my-producer-app
 → Grant Access
@@ -491,16 +525,19 @@ confluent iam rbac role-binding delete <binding-id>
 #### CRN (Confluent Resource Name) Format
 
 **Topic CRN:**
+
 ```text
 crn://<cloud>/<org>/environment=<env-id>/cloud-cluster=<cluster-id>/kafka=<cluster-id>/topic=<topic-name>
 ```
 
 **Consumer Group CRN:**
+
 ```text
 crn://<cloud>/<org>/environment=<env-id>/cloud-cluster=<cluster-id>/kafka=<cluster-id>/group=<group-name>
 ```
 
 **Connector CRN:**
+
 ```text
 crn://<cloud>/<org>/environment=<env-id>/cloud-cluster=<cluster-id>/connector=<connector-id>
 ```
@@ -508,6 +545,7 @@ crn://<cloud>/<org>/environment=<env-id>/cloud-cluster=<cluster-id>/connector=<c
 #### Prefix Rules for Topics
 
 **Wildcard patterns:**
+
 ```text
 All topics: topic=*
 Prefix match: topic=orders.*
@@ -515,6 +553,7 @@ Specific topic: topic=orders
 ```
 
 **Example: Grant write access to all topics starting with "orders-":**
+
 ```bash
 confluent iam rbac role-binding create \
   --principal User:<sa-id> \
@@ -545,11 +584,13 @@ POST /iam/v2/role-bindings
 ## RBAC and ACL Coexistence
 
 **How they interact:**
+
 - RBAC is evaluated first
 - If RBAC denies, ACLs are checked second
 - **Permission granted if EITHER RBAC OR ACL permits**
 
 **Decision matrix:**
+
 ```text
 RBAC Result + ACL Result = Final Decision
 ---------------------------------------------
@@ -560,6 +601,7 @@ DENY        + (no ACL)   = DENY
 ```
 
 **Recommendation:**
+
 - Use RBAC for human user management
 - Use RBAC for most application permissions
 - Use ACLs only for application-specific fine-grained control
@@ -568,11 +610,13 @@ DENY        + (no ACL)   = DENY
 ### Migration Strategy: ACLs → RBAC
 
 **Step 1: Audit existing ACLs**
+
 ```bash
 kafka-acls --bootstrap-server <broker> --list
 ```
 
 **Step 2: Map ACL patterns to RBAC roles**
+
 ```text
 ACL: ALLOW User:app READ Topic:orders
 → RBAC: DeveloperRead on topic "orders"
@@ -585,6 +629,7 @@ ACL: ALLOW User:app READ Group:*
 ```
 
 **Step 3: Create service accounts with RBAC**
+
 ```bash
 # Create service account
 confluent iam service-account create app-name
@@ -597,6 +642,7 @@ confluent iam rbac role-binding create \
 ```
 
 **Step 4: Generate new API keys**
+
 ```bash
 confluent api-key create \
   --service-account <sa-id> \
@@ -606,6 +652,7 @@ confluent api-key create \
 **Step 5: Test and migrate applications**
 
 **Step 6: Remove old ACLs**
+
 ```bash
 kafka-acls --bootstrap-server <broker> \
   --remove --allow-principal User:<old-user>
@@ -643,11 +690,13 @@ kafka-acls --bootstrap-server <broker> \
 ### Viewing Audit Logs
 
 **Console:**
+
 1. Navigate to **Administration > Audit logs**
 2. Filter by principal, resource, or time range
 3. Look for `authorization.failed` events
 
 **CLI:**
+
 ```bash
 confluent audit-log describe \
   --service-account <sa-id> \
@@ -661,6 +710,7 @@ confluent audit-log describe \
 **Use case:** Same application deployed across dev/staging/prod
 
 **Pattern:**
+
 ```text
 Service Account: my-app (global)
 
@@ -668,17 +718,18 @@ Role Bindings:
   - Dev Environment:
       DeveloperWrite on all topics
       DeveloperRead on all consumer groups
-  
+
   - Staging Environment:
       DeveloperWrite on topics "staging.*"
       DeveloperRead on all consumer groups
-  
+
   - Prod Environment:
       DeveloperWrite on topic "prod.orders"
       DeveloperRead on group "prod.orders.consumer"
 ```
 
 **API Key strategy:**
+
 - Option 1: Cluster-scoped keys (one per environment)
 - Option 2: Single global key (inherits all permissions)
 

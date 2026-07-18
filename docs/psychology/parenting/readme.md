@@ -3,7 +3,7 @@ slug: /psychology/parenting
 title: Parenting
 description: Comprehensive guide to parenting across developmental stages
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-13
 ---
 
 ## Core Guides

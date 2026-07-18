@@ -3,8 +3,11 @@ slug: /note-skill
 title: Note Skill - Automated Knowledge Base Organization
 description: Claude Code skill for automatically adding topics to knowledge base with semantic search, categorization, and intelligent linking
 created: 2026-06-22
-updated: 2026-07-04
+updated: 2026-07-13
 ---
+
+# Add Note (Fully Automated)
+
 Automatically add any topic (technology, concept, mental model, food, health, etc.) to the knowledge base with intelligent organization.
 
 ## Usage
@@ -164,6 +167,15 @@ updated: <YYYY-MM-DD>
 - **Total length:** Aim for ~50-150 lines for most topics
 - **Additional content:** Put supplementary info in "Links" or "Further Reading" section, not in main content
 
+**Small content handling (CRITICAL):**
+
+- **If content is small** (one paragraph, `<10` lines): DO NOT create new file
+- **Instead:** Add as condensed paragraph in most relevant existing file
+- **Format:** Bold topic name at start, then condensed summary with source link
+- **Example:** `**Night Terrors:** Different from nightmares, affect children 4-12... [Source](url)`
+- **Only create new file when:** Have substantial content (50+ lines) or expect to add more material later
+- **Rationale:** Avoid file proliferation, keep related info together, easier to find
+
 **Code blocks (CRITICAL):**
 
 - Always fence code blocks with language: ```python,```bash, ```json
@@ -302,7 +314,14 @@ ls -la docs/<category>/
 
 **Rule:** If it won't be useful in 6 months, keep it in chat.
 
-### UPDATE vs CREATE
+### UPDATE vs CREATE vs ADD-TO-EXISTING
+
+**ADD-TO-EXISTING (small content) if:**
+
+- Content is small (one paragraph, `<10` lines)
+- Related existing file already exists
+- Topic doesn't warrant standalone documentation yet
+- → Add as condensed paragraph with bold topic name
 
 **UPDATE if:**
 
@@ -310,11 +329,12 @@ ls -la docs/<category>/
 - Page is sparse/outdated
 - New information complements existing
 
-**CREATE if:**
+**CREATE NEW FILE if:**
 
-- No dedicated page exists
-- Only brief mentions in lists
+- Substantial content (50+ lines minimum)
+- No related existing file to add to
 - Topic deserves standalone documentation
+- Expect to add more material later
 
 ### Category Auto-Detection Priority
 
@@ -334,7 +354,7 @@ ls -la docs/<category>/
 
 - **High relevance match (score >0.8):** Add link
 - **Medium relevance (0.5-0.8):** Add link if topic is central to page
-- **Low relevance (`<0.5`):** Skip
+- **Low relevance (<0.5):** Skip
 - **Target:** 2-5 cross-references minimum
 
 ## Critical Rules
@@ -348,9 +368,8 @@ ls -la docs/<category>/
 5. **Verify links exist** - Check target file before linking
 6. **Auto-categorize** - Based on semantic search + keywords
 7. **5-field frontmatter** - slug, title, description, created, updated
-8. **SEO-friendly slugs** - Include descriptive keywords: `/json-web-key-sets-jwks` not just `/jwks`
-9. **Natural language slugs** - `/topic-name` not `/folder/path/topic-name`
-10. **Be concise** - Only add core/relevant content; put additional resources in "Links" or "Further Reading" section
+8. **Natural language slugs** - `/topic-name` not `/folder/path/topic-name`
+9. **Be concise** - Only add core/relevant content; put additional resources in "Links" or "Further Reading" section
 
 ### ❌ DON'T
 
@@ -440,7 +459,39 @@ Step 6: Report
   🔗 Linked from: 2 pages
 ```
 
-### Example 3: Health Topic
+### Example 3: Small Content (Add to Existing File)
+
+```text
+User: /note <night terrors paragraph> https://babycentre.co.uk/...
+
+Step 1: Search
+  mcp__obsidian-hybrid-search__search("night terrors children sleep")
+  → Found: psychology/parenting/development-milestones.md has Sleep section
+
+Step 2: Content Analysis
+  Content size: 1 paragraph (~8 lines)
+  Decision: Too small for standalone file
+  → ADD-TO-EXISTING mode
+
+Step 3: Find Best Existing File
+  Most relevant: psychology/parenting/development-milestones.md
+  Has "Sleep" section with related topics
+
+Step 4: Add as Condensed Paragraph
+  Add to Sleep section:
+  **Night Terrors:** Different from nightmares, affect children 4-12...
+  [Source](url)
+
+Step 5: No New File Created
+  (No cross-linking needed - content lives in existing file)
+
+Step 6: Report
+  ✅ Added to: psychology/parenting/development-milestones.md:99
+  📂 Section: Sleep
+  🔍 No new file created (content too small)
+```
+
+### Example 4: Health Topic (Substantial Content)
 
 ```text
 User: /note sleep hygiene https://sleepfoundation.org/sleep-hygiene
@@ -452,24 +503,28 @@ Step 1: Search
 
 Step 2: Fetch
   WebFetch("https://sleepfoundation.org/sleep-hygiene")
-  → Extract practices, benefits (raw text)
+  → Extract practices, benefits (raw text) - 80+ lines
 
-Step 3: Categorize
+Step 3: Content Analysis
+  Content size: Substantial (80+ lines)
+  Decision: CREATE NEW FILE
+
+Step 4: Categorize
   Keywords: sleep, health, wellness
   Semantic results: psychology/, management/
   Check: ls docs/health/ (doesn't exist)
   → Category: health/sleep/ (create new category)
 
-Step 4: Create
+Step 5: Create
   mkdir -p docs/health/sleep/
   File: docs/health/sleep/sleep-hygiene.md
   Content: [frontmatter + copy-pasted practices]
 
-Step 5: Link
+Step 6: Link
   - docs/psychology/cognitive-performance.md:45 (add related link)
   - docs/management/productivity.md:32 (add related link)
 
-Step 6: Report
+Step 7: Report
   ✅ Created: docs/health/sleep/sleep-hygiene.md
   📂 Category: health/sleep/ (new category created)
   🔗 Linked from: 2 pages
@@ -546,27 +601,3 @@ Skip pages with semantic score `<0.5`
 ✅ All links verified to exist
 ✅ Summary report provided
 ✅ Zero manual file browsing required
-
-## Installation
-
-To use this skill in Claude Code:
-
-```bash
-# Create skill directory
-mkdir -p ~/.claude/skills/note
-
-# Copy skill content
-# (Copy the content between the --- markers from this file to SKILL.md)
-
-# Reload skills
-/reload-skills
-
-# Use the skill
-/note <topic> [url]
-```
-
-## Related Documentation
-
-- [Claude Code](ai/llm/code-generation/claude-code.md) - Main Claude Code documentation with skills creation guide
-- [Obsidian](devops/ides/obsidian.md) - Obsidian CLI reference for file operations
-- [CLAUDE](CLAUDE.md) - Navigation and search strategies for this knowledge base

@@ -3,7 +3,7 @@ slug: kcp-kafka-copy-paste
 title: kcp-kafka-copy-paste
 description: Automated Kafka migration toolkit for zero-cut migrations to Confluent Cloud using CC Gateway, Cluster Linking, and KCP CLI orchestration
 created: 2026-06-24
-updated: 2026-07-06
+updated: 2026-07-16
 ---
 ## Intro
 
@@ -29,6 +29,86 @@ The typical migration flow:
 
 ## Quick Start
 
+### IAM Role / Policy Required
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "MSKScanPermissions",
+      "Effect": "Allow",
+      "Action": [
+        "kafka:ListClustersV2",
+        "kafka:ListReplicators",
+        "kafka:ListVpcConnections",
+        "kafka:GetCompatibleKafkaVersions",
+        "kafka:GetBootstrapBrokers",
+        "kafka:ListConfigurations",
+        "kafka:DescribeClusterV2",
+        "kafka:ListKafkaVersions",
+        "kafka:ListNodes",
+        "kafka:ListClusterOperationsV2",
+        "kafka:ListScramSecrets",
+        "kafka:ListClientVpcConnections",
+        "kafka:GetClusterPolicy",
+        "kafka:DescribeConfigurationRevision",
+        "kafka:DescribeReplicator"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "MSKClusterConnect",
+      "Effect": "Allow",
+      "Action": [
+        "kafka-cluster:Connect",
+        "kafka-cluster:DescribeCluster"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "MSKTopicActions",
+      "Effect": "Allow",
+      "Action": [
+        "kafka:ListTopics",
+        "kafka:DescribeTopic",
+        "kafka-cluster:DescribeTopic",
+        "kafka-cluster:DescribeTopicDynamicConfiguration"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "CostMetricsScanPermissions",
+      "Effect": "Allow",
+      "Action": [
+        "cloudwatch:GetMetricData",
+        "ce:GetCostAndUsage",
+        "cloudwatch:GetMetricStatistics",
+        "cloudwatch:ListMetrics"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "MSKNetworkingScanPermission",
+      "Effect": "Allow",
+      "Action": [
+        "ec2:DescribeSubnets"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "MSKConnectScanPermissions",
+      "Effect": "Allow",
+      "Action": [
+        "kafkaconnect:ListConnectors",
+        "kafkaconnect:DescribeConnector"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
+```
+
 ### Step 1: Discover MSK Clusters
 
 Find all MSK clusters in your AWS account:
@@ -42,6 +122,8 @@ kcp discover --region us-east-2
 
 # Or scan all regions
 kcp discover --all-regions
+
+kcp discover --cluster-arn arn:aws:kafka:REGION:ACCOUNT_ID:cluster/CLUSTER_NAME/CLUSTER_ID
 ```
 
 **Output:** Lists all MSK cluster names and ARNs
@@ -127,15 +209,19 @@ ssh ec2-user@bastion-host
 ```bash
 # View in UI (interactive dashboard)
 kcp ui
+kcp ui --state-file kcp-state.json
 # Upload kcp-state.json
 # Shows: Costs, Cluster details, Metrics, Topics, Connectors, ACLs, Clients
+# http://localhost:5556/
+
+kcp report plan --state-file kcp-state.json
 
 # Or generate CLI reports
 kcp report costs --state-file kcp-state.json
 kcp report metrics --state-file kcp-state.json
 ```
 
-### Step 5: Generate Migration Assets
+### Step 5: Generate Migration Assets / Commands
 
 ```bash
 # Generate Terraform for Confluent Cloud resources
@@ -160,6 +246,8 @@ kcp create-asset target-infra \
 #   - --cluster-cku 1 - 1 Confluent Kafka Unit sizing
 #   - --output-dir target_infra - Where to write Terraform files
 
+kcp create-asset target-infra --state-file kcp-state.json
+
 # Generate Cluster Linking config (data replication)
 kcp create-asset migration-infra --state-file kcp-state.json
 
@@ -170,11 +258,35 @@ kcp create-asset migrate-topics --state-file kcp-state.json
 # Migrate ACLs to CC RBAC
 kcp create-asset migrate-acls --state-file kcp-state.json
 
+# discover connectors
+kcp create-asset migrate-connectors connector-utility --state-file kcp-state.json
+
 # Migrate connectors
-kcp create-asset migrate-connectors --state-file kcp-state.json
+kcp create-asset migrate-connectors msk --state-file kcp-state.json
+
+kcp create-asset migrate-connectors self-managed
+Required Flags:
+      --state-file string
+      --cc-environment-id string
+      --cc-cluster-id string
+      --cc-api-key string
+      --cc-api-secret string
+Source Flags:
+      --source-type string
+      --cluster-id string
+
+kcp create-asset migrate-connectors msk \
+  --state-file "kcp-state.json" \
+  --cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3" \
+  --cc-environment-id "env-12345" \
+  --cc-cluster-id "lkc-12345" \
+  --cc-api-key "DUMMY_API_KEY" \
+  --cc-api-secret "DUMMY_API_SECRET" \
+  --output-dir "target_infra"
 
 # Migrate schemas
 kcp create-asset migrate-schemas --state-file kcp-state.json
+kcp create-asset migrate-schemas --state-file kcp-state.json --url http://localhost:8081
 ```
 
 **What you get:**
@@ -555,17 +667,6 @@ kafka-console-consumer \
 
 ## Hands-On Learnings
 
-### Real Migration Exercise (MSK → CC)
-
-**What we accomplished:**
-
-1. ✅ Scanned live MSK cluster (`kcp-msk-tao-cluster`)
-2. ✅ Debugged authentication (found correct SCRAM secret)
-3. ✅ Fixed network access (security group whitelisting)
-4. ✅ Generated Terraform for CC cluster
-5. ✅ Deployed to Confluent Cloud `deep-test` environment
-6. ✅ Created 1 CKU dedicated cluster in us-east-2
-
 **Key blockers encountered:**
 
 1. **Wrong SCRAM secret** - Cluster used `AmazonMSK_kcp-ec2-user-secrets-manager` but we initially tried `AmazonMSK_kcp-msk-tao-cluster_scram`
@@ -580,42 +681,14 @@ kafka-console-consumer \
 4. **Private VPC endpoints** - Most production MSK clusters are private-only
    - **Fix:** Run kcp from EC2 bastion or enable public access
 
-### Terraform Deployment Results
-
-**Deployed resources:**
-
-```bash
-# Cluster details
-cluster_id                 = "lkc-o33n2j9"
-cluster_name              = "kcp-migrated-msk-demo"
-cluster_bootstrap_endpoint = "pkc-8ypzxr.us-east-2.aws.confluent.cloud:9092"
-
-# Service account
-service_account_id = "sa-nw0qywk"
-
-# API keys
-kafka_api_key_id     = "D2JR6DK3C6BREOQE"
-kafka_api_key_secret = "cfltVAYeQ+/jUhJK6B9g4lFRGylIgWLFBb08pntAA6pcOkMvLNepHZwGB3gyLOfQ"
-```
-
-**Time to deploy:** ~6 minutes (cluster provisioning)
-
-**Cost:** ~$1.50/hour = ~$1,095/month (1 CKU dedicated cluster)
-
-### Best Practices Learned
-
-1. **Always check which secret is associated** with the cluster before scanning
-2. **Test network connectivity** (telnet/nc) before running full scan
-3. **Use `--verbose`** flag to debug authentication issues
-4. **Save kcp-state.json** - it contains complete cluster inventory
-5. **Use existing CC environment** instead of creating new one (`--env-id` vs `--needs-environment`)
-6. **Validate Terraform plan** before applying (check CKU sizing, region)
-7. **Keep API keys secure** - they're in Terraform output and state file
-8. **Document baseline metrics** before migration (topic count, lag, throughput)
-
 ## Zero-cut Migrations
 
 With **Zero-cut Migrations**, clients make one change: update the bootstrap URL to point at the gateway. That's done in advance, no urgency. When the operator is ready to cut over, could be days later, could be weeks, they run one command. KCP fences traffic, waits for lag to hit zero, promotes the topics, flips routing to Confluent Cloud, and resumes traffic. Clients resume on CC. Operator is in full control the whole time: pick a single topic, a group of topics, or the whole cluster.
+
+### Cut over carefully
+
+- For **sink connectors**: pause the MSK connector, deploy the Confluent Cloud equivalent against replicated topics, and start from the correct offset.
+- For **source connectors**: pause the source connector, capture the last source offset from internal offset storage, then start the Confluent Cloud connector from that point.
 
 ### Core Architecture
 
@@ -715,6 +788,14 @@ kcp migration execute
 - Auth swap built in: unauthenticated clusters can migrate to Confluent cloud with minimal client changes
 - Works for any Kafka-compatible cluster migration
 - Operator in full control: pick a single topic, a group of topics, or the whole cluster
+
+## Connect Migration Utility
+
+The **Connect Migration Utility** is the recommended tool to translate configs to their fully managed equivalents, including some class/version conversions and offset-preservation support.
+
+[GitHub - confluentinc/connect-migration-utility · GitHub](https://github.com/confluentinc/connect-migration-utility/)
+
+[Migrate Kafka Connectors to Fully Managed—Fast](https://www.confluent.io/blog/migrate-self-fully-managed-connectors/)
 
 ## Links
 

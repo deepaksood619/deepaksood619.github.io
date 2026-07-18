@@ -3,9 +3,23 @@ slug: menu-diet-chart-non-glycemic-indian-family-diet-chart
 title: Obsidian Simple New Note Template
 description: Obsidian Simple New Note Template for creating a new note.
 created: 2026-06-24
-updated: 2026-07-13
+updated: 2026-07-18
 ---
 ## Multigrain Atta Details - 10 kg
+
+| **Quantity** | **Item (Hindi on Receipt)** | **Item (English Equivalent)** | **Price (₹) - Sat, 18 Jul 2026** | **Kg Rate** |
+| ------------ | --------------------------- | ----------------------------- | -------------------------------- | ----------- |
+| **1.5 kg**   | चना                         | Chana (Chickpeas)             | 180                              |             |
+| **1.5 kg**   | जौ                          | Jau (Barley)                  | 90                               |             |
+| **1.5 kg**   | रागी                        | Ragi (Finger Millet)          | 180                              |             |
+| **1 kg**     | ज्वार                       | Jowar (Sorghum)               | 60                               |             |
+| **500 g**    | बाजरा                       | Bajra (Pearl Millet)          | 30                               |             |
+| **500 g**    | मक्का                       | Makka (Maize / Corn)          | 30                               |             |
+| **1 kg**     | सोया                        | Soya (Soybean)                | 140                              |             |
+| **2.5 kg**   | गेहूं                       | Gehu (Wheat)                  | 135                              |             |
+| **10 kg**    | **कुल योग**                 | **Sum of Ingredients**        | **845**                          |             |
+
+- Sat, 18 Jul 2026 - Rs. 895
 
 | **Quantity** | **Item (Hindi on Receipt)** | **Item (English Equivalent)** | **Price (₹) - 14 Dec 2025** |
 | ------------ | --------------------------- | ----------------------------- | --------------------------- |

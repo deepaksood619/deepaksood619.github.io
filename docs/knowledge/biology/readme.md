@@ -3,9 +3,8 @@ slug: /knowledge/biology/readme
 title: Biology
 description: Explore the essential aspects of biology, including genetics, anatomy, nutrition, organ systems, and health to enhance your understanding of life sciences.
 created: 2023-03-05
-updated: 2026-07-13
+updated: 2026-07-14
 ---
-
 ## Core Topics
 
 - [Biology Fundamentals](fundamentals.md) - Taxonomy, proteins, tree of life

@@ -13,9 +13,9 @@
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "1",
     "downscalePercent": 100
   },
   "showLineNumber": false,

@@ -3,13 +3,13 @@ slug: /databases-sql/postgres/others
 title: Others
 description: Explore essential PostgreSQL extensions like PostGIS for geospatial data, hstore for key-value storage, and pg_timetable for advanced scheduling.
 created: 2023-03-13
-updated: 2026-06-16
+updated: 2026-07-16
 ---
 ## Postgres Extensions
 
-PostGIS - used for geospatial data manipulation and running location queries in SQL
+**PostGIS** - PostgreSQL extension for geospatial data manipulation and running location queries in SQL. Essential for GIS applications and spatial analysis. See [Geographic Information Systems (GIS)](computer-science/others/gis-geographic-information-systems.md) for comprehensive GIS concepts.
 
- https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b
+https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b
 
 1. **Key-Value data type (hstore)**
 2. **Semi-structured data types**

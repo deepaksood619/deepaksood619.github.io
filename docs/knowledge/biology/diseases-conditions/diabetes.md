@@ -95,7 +95,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 
 ### Self-Monitoring
 
-- **Blood Glucose Meters:** Traditional finger-prick testing - See [Blood Glucose Meters & Test Strips](knowledge/biology/diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
+- **Blood Glucose Meters:** Traditional finger-prick testing - See [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md)
 - **Continuous Glucose Monitors (CGM):** Sensor-based 24/7 monitoring
   - FreeStyle Libre, Dexcom, Guardian
   - Real-time glucose trends and alerts
@@ -125,7 +125,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - Weight loss (7-10% body weight)
 - Regular physical activity (150 min/week moderate exercise)
 - Mediterranean or low-carbohydrate diet
-- Structured meal timing (see [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md))
+- Structured meal timing (see [Eating Routine](knowledge/biology/nutrition/eating-routine.md))
 
 **Oral Medications:**
 
@@ -220,20 +220,20 @@ Insulin resistance is a key driver of Type 2 diabetes and metabolic syndrome.
 4. Blood pressure `≥130/85` mmHg
 5. HDL cholesterol: Men `<40` mg/dL, Women `<50` mg/dL
 
-See [Metabolic Syndrome](knowledge/biology/genetics-omics/others.md) for detailed criteria.
+See [Metabolic Syndrome](knowledge/biology/others.md) for detailed criteria.
 
 ## Nutrition and Diabetes
 
 ### Glycemic Control Through Diet
 
 - **Fiber-rich foods:** Slow glucose absorption
-- **Protein at breakfast:** Prevents insulin spikes, see [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md)
+- **Protein at breakfast:** Prevents insulin spikes, see [Eating Routine](knowledge/biology/nutrition/eating-routine.md)
 - **Meal timing:** Early first meal (`<8:30` AM) associated with lower fasting glucose
 - **Structured meals:** 3 evenly spaced meals improve glycemic control vs. single daily meal
 
 ### Foods to Emphasize
 
-- **Whole grains:** Steel-cut oats, brown rice, quinoa (see [Grains](knowledge/biology/nutrition/food-types/grains.md))
+- **Whole grains:** Steel-cut oats, brown rice, quinoa (see [Grains](knowledge/biology/nutrition/grains.md))
 - **Vegetables:** Especially bitter gourd (karela) - contains charantin and polypeptide-p that mimic insulin
 - **Legumes:** Lentils, chickpeas, beans - low glycemic index
 - **Nuts and seeds:** Improve insulin sensitivity
@@ -247,7 +247,7 @@ See [Metabolic Syndrome](knowledge/biology/genetics-omics/others.md) for detaile
 - **Processed foods:** High in refined sugars and unhealthy fats
 - **Sugarcane juice:** High glycemic load despite nutritional content
 
-See [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md) for detailed meal planning.
+See [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md) for detailed meal planning.
 
 ## Chrononutrition and Diabetes
 
@@ -258,7 +258,7 @@ Meal timing affects metabolic health independently of caloric intake:
 - **Evening eating:** Increased insulin release, disrupted circadian rhythm, higher cardiovascular risk
 - **Circadian disruption:** Established risk factor for Type 2 diabetes, obesity, cardiovascular disease
 
-See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/diet-planning/eating-routine.md) for evidence-based meal timing strategies.
+See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/eating-routine.md) for evidence-based meal timing strategies.
 
 ## Water Intake and Glucose Control
 
@@ -266,7 +266,7 @@ See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/diet-planning
 - **Timing considerations:** Adding water to carbohydrate-heavy meals may increase initial glucose spike in diabetics (40% higher AUC in controlled diabetics)
 - **Long-term benefits:** Better late postprandial glucose control through improved insulin sensitivity
 
-See [Drinking Water with Meals](knowledge/biology/nutrition/diet-planning/drinking-water-with-meal.md) for detailed mechanisms.
+See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-meal.md) for detailed mechanisms.
 
 ## Special Populations
 
@@ -305,10 +305,10 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/diet-planning/drinki
 
 ## Resources and Monitoring
 
-- [Blood Glucose Meters & Test Strips](knowledge/biology/diseases-conditions/diabetics-blood-glucose-meters-glucometers.md) - Equipment selection and comparison
-- [Tests](knowledge/biology/diseases-conditions/tests.md) - Routine health monitoring
-- [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md) - Structured vs. intuitive eating
-- [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md) - Meal planning strategies
+- [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md) - Equipment selection and comparison
+- [Tests](knowledge/biology/tests.md) - Routine health monitoring
+- [Eating Routine](knowledge/biology/nutrition/eating-routine.md) - Structured vs. intuitive eating
+- [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md) - Meal planning strategies
 
 ## Links
 

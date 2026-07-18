@@ -3,7 +3,7 @@ slug: /toddler-guidance
 title: Toddler Guidance
 description: Specific guidance for dealing with toddler behaviors, challenges, and development
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-13
 ---
 
 ## Food Strike

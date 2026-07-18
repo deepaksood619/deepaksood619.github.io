@@ -3,7 +3,7 @@ slug: /knowledge/biology/mbbs-medicine-medical-health
 title: MBBS / Medicine / Medical / Health
 description: Explore the comprehensive MBBS curriculum covering pre-clinical, para-clinical, and clinical phases, essential for aspiring medical professionals.
 created: 2023-03-05
-updated: 2026-06-17
+updated: 2026-07-17
 ---
 Shared decision making
 
@@ -257,3 +257,21 @@ Iatrogenics refers to a disease or condition caused by medical examination, trea
 ## Links
 
 - [Fever Can Damage Heart, Brain & Bones - Treatment & Home Remedies \| Dr Navneet \| FO451 Raj Shamani - YouTube](https://www.youtube.com/watch?v=pZB9Y3OHL1w)
+
+- **Iron Isomaltoside (Monoferric / Ferric Derisomaltose):** Intravenous iron replacement therapy for iron deficiency anemia (IDA) in adults who are intolerant or unresponsive to oral iron therapy. It consists of iron and isomaltoside (a carbohydrate) forming a controlled-release matrix structure. Available as 100 mg/mL elemental iron in 1 mL, 5 mL, and 10 mL vials.
+  - **Mechanism:** Iron is vital for formation of new red blood cells and hemoglobin, enabling oxygen transport capability.
+  - **Indications:** Treatment of iron deficiency, iron deficiency anemia, anemia due to chronic kidney disease (CKD).
+  - **Administration:** Must be administered under trained healthcare professional supervision only. Dosing calculated using Ganzoni formula (based on patient weight, iron stores, target/actual hemoglobin) or simplified tables (1,000-2,000 mg doses).
+    - Bolus injection: Up to 500 mg at 250 mg/minute rate, maximum once weekly
+    - Infusion: If cumulative dose exceeds 20 mg iron/kg body weight, split into two administrations at least one week apart. Single doses above 1,500 mg not recommended.
+  - **Common Side Effects:** Vomiting, nausea, dark colored stool, constipation, diarrhea
+  - **Contraindications/Precautions:**
+    - Not recommended during pregnancy (positive evidence of fetal risk from animal studies)
+    - Safe during breastfeeding (does not pass into breast milk in clinically significant amounts)
+    - Unsafe with alcohol consumption
+    - Use with caution in liver disease (dose adjustment may be needed)
+    - Kidney disease: Limited data, consult doctor
+  - **Drug Interactions:** Compatible with vitamin C, vitamin D, multivitamin, folic acid, paracetamol. Should NOT be taken with zinc (alters zinc absorption).
+  - **Monitoring:** Continue until hemoglobin levels normalize. May cause weight gain.
+  - **Cost:** Drug acquisition cost per course of therapy is $450 to $900 (U.S. pricing).
+  - [1mg Source](https://www.1mg.com/generics/iron-isomaltoside-405500) | [NCBI Clinical Review](https://www.ncbi.nlm.nih.gov/books/NBK564173/)

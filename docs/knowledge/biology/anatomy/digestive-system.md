@@ -32,3 +32,7 @@ https://www.continence.org.au/pages/bristol-stool-chart.html
 [Helicobacter pylori - Wikipedia](https://en.wikipedia.org/wiki/Helicobacter_pylori)
 
 [Gram-negative bacteria - Wikipedia](https://en.wikipedia.org/wiki/Gram-negative_bacteria)
+
+## Related Topics
+
+- [Isabgol (Psyllium Husk)](knowledge/biology/nutrition/isabgol-psyllium-husk.md) - Natural fiber supplement for digestive health and constipation relief

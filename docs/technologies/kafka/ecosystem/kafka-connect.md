@@ -3,8 +3,88 @@ slug: /technologies/kafka/kafka-connect
 title: Understanding Kafka Connect Architecture
 description: Explore Kafka Connect's connectors, tasks, and worker processes for effective data integration and management.
 created: 2023-03-05
-updated: 2026-07-11
+updated: 2026-07-16
 ---
+## Version Differences: Kafka Connect 2.7 vs 3.7
+
+The evolution from Apache Kafka Connect 2.7 to 3.7 involves significant framework improvements, security enhancements, and operational maturity.
+
+### Key Architectural & Framework Differences
+
+**KRaft Integration (No ZooKeeper)**
+
+- **Version 2.7**: Relies heavily on Apache ZooKeeper for cluster coordination
+- **Version 3.7**: Fully matures KRaft (Kafka Raft Metadata Mode), removing dependency on ZooKeeper for managing metadata
+  - JBOD in KRaft (Early Access) via KIP-858
+  - 11 new KRaft performance metrics (KIP-938)
+  - Can independently stop KRaft processes (KIP-979)
+
+**Java Runtime Support**
+
+- **Version 2.7**: Operates on older Java runtimes (Java 8, Java 11)
+- **Version 3.7**: Deprecates Java 11 support for brokers/tools (removal in Kafka 4.0), pushes modern Java standards forward
+
+**Client and Admin APIs**
+
+- **Version 3.7**: Deprecates older client APIs released prior to version 2.1 (KIP-896) in preparation for major future cleanups, affecting how custom connectors interact with brokers (removal in Kafka 4.0)
+- Enhanced AdminClient can talk directly with KRaft Controller Quorum (KIP-919)
+
+### Kafka Connect Specific Improvements (3.7)
+
+**New Features**
+
+- **KIP-980**: Create connectors in stopped state - new `initial_state` field allows deploying connectors without immediately starting them
+- **KIP-976**: Cluster-wide dynamic log adjustment for better operational control
+- **KIP-959**: BooleanConverter added for improved type handling
+- **KIP-970**: Deprecates redundant task configurations endpoint
+
+**Performance & Reliability**
+
+- **KIP-951**: Leader discovery optimizations reduce latency during leadership changes
+- **KIP-580**: Exponential backoff for Kafka clients helps reduce metadata convergence issues
+- Automatic task restart capabilities for failed tasks (especially relevant in managed services)
+
+### Operational and Ecosystem Changes
+
+**Managed Services Support**
+
+- **Amazon MSK Connect**: Supports both Kafka Connect 2.7.1 and 3.7.x runtimes
+  - Version 3.7.x leverages major bug fixes, better stability, and enhanced worker-to-broker communication metrics
+  - Automatic horizontal and vertical scaling (1-8 vCPUs)
+  - Automatic task recovery and restart
+  - Continuous health monitoring and patching
+
+**Config and Security Enhancements (3.7)**
+
+- Incremental security patches
+- Improved TLS handling with dynamic certificate reloading (KIP-978) - supports different DN/SANs
+- Finer control over connector client configuration overrides
+- Transaction verification for consumer offset partitions (KIP-890)
+
+**Observability (3.7)**
+
+- **KIP-714**: Broker-side support for client-level metrics
+- **KIP-1000**: Create/read/update/delete metrics configurations
+- New `CurrentControllerId` metric (KIP-1001)
+- Additional tiered storage metrics (KIP-963)
+
+### Migration Considerations
+
+**Upgrade Path**
+
+- Kafka 3.7 supports upgrade from versions 0.8.x through 3.6.x
+- Custom connectors using deprecated client APIs (pre-2.1) need review before Kafka 4.0
+
+**Deprecation Timeline**
+
+- ZooKeeper deprecated since 3.5.0, removal planned for Kafka 4.0
+- Java 11 broker support deprecated in 3.7, removal in Kafka 4.0
+- Client APIs older than Kafka 2.1 deprecated, removal in Kafka 4.0
+
+---
+
+## Core Architecture
+
 - Connectors and tasks
     - Connectors
         - Determining how many tasks will run for the connector
@@ -85,17 +165,6 @@ Connect typically runs in distributed mode and can be managed through REST APIs.
 - POST /connectors/{name}/tasks/{taskId}/restart- restart an individual task (typically because it has failed)
 - DELETE /connectors/{name}- delete a connector, halting all tasks and deleting its configuration
 ```
-
-## Connectors
-
-- Landoop mqtt source connector
-- Confluent mqtt source connector
-
-The connector requires a [Confluent enterprise license](https://www.confluent.io/product/confluent-enterprise/), which is stored inside Kafka in a topic. The connector must be configured with Kafka client configuration properties so that it can connect to Kafka and validate the license.
-
-- Evokly open source mqtt connector
-
-https://github.com/evokly/kafka-connect-mqtt
 
 ## Kafka Connect Query Language (KCQL)
 
@@ -198,6 +267,7 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 ## Related Topics
 
 - [Confluent Cloud RBAC and Authentication Best Practices](technologies/confluent/confluent-cloud-rbac-best-practices.md) - Connector permissions, service accounts, API keys
+- [connectors](technologies/confluent/data-integration/connectors.md)
 
 ## References
 
@@ -208,3 +278,5 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 - https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html#step-7-start-kafka-connect
 - https://docs.confluent.io/current/connect/transforms/index.html
 - [Snowflake Just Unlocked Real-Time Kafka Streaming at Unprecedented Scale \| by Sahil Walia \| Snowflake Builders Blog: Data Engineers, App Developers, AI, & Data Science \| Jan, 2026 \| Medium](https://medium.com/snowflake/snowflake-just-unlocked-real-time-kafka-streaming-at-unprecedented-scale-e7617c2a451f)
+- [Introducing Apache Kafka 3.7](https://www.confluent.io/blog/introducing-apache-kafka-3-7/)
+- [Amazon MSK Connect Documentation](https://docs.aws.amazon.com/msk/latest/developerguide/msk-connect.html)

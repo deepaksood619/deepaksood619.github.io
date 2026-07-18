@@ -3,7 +3,7 @@ slug: /child-development-milestones
 title: Child Development Milestones
 description: Month-by-month developmental milestones, activities, and what to expect at each stage
 created: 2026-06-24
-updated: 2026-07-11
+updated: 2026-07-13
 ---
 
 ## Month-by-Month Guide
@@ -90,6 +90,20 @@ A surge in desire for independence is common, often accompanied by the phrase, "
 
 ### Feeding & Nutrition
 
+**Toddler Nutrition Fundamentals:** Toddlers are not miniature adults - their biology requires high calories, healthy fats, and easily digestible energy in small packages.
+
+1. **Maximize Calorie Density, Not Volume:** Toddler's stomach is fist-sized. Make every bite count with ghee-smeared rotis, crushed nuts in upma, grated paneer over vegetables. If weight gain struggles, use 70% wheat / 30% multigrain blend instead of 100% multigrain.
+
+2. **Fat is Non-Negotiable for Brain Growth:** Birth to age 5, brain grows to 90% of adult size requiring massive dietary fat. Use full-cream milk, full-fat dahi/paneer, never skim. Cook with ghee, butter, or cold-pressed oils.
+
+3. **Prevent Choking - Shape & Texture:** 3-year-old airway is straw-diameter. Cut grapes/cherry tomatoes in half lengthwise (quarters if large). Serve nuts only as smooth butters or ground powders. Raw vegetables as thin matchsticks or slightly steamed.
+
+4. **Iron & Calcium Balancing (Vegetarian Diet):** Pair plant-based iron (spinach, ragi, lentils) with vitamin C (lemon juice, tomatoes, citrus) to multiply absorption. Separate milk from iron-rich meals - calcium blocks iron absorption. Serve milk as standalone snack.
+
+5. **Division of Responsibility:** Your job: decide what/where/when food is served. Child's job: decide whether to eat and how much. Never force plate-clearing. If meal refused, wait for next scheduled snack - don't offer preferred alternatives immediately.
+
+6. **Important for Vision:** Till 8 years, kids vision needs these foods - Carrot, Brocolli, Green and yellow vegetables, Akhrot, Dry fruits
+
 - [Nutritional Needs of Babies: the First 12 Months](https://www.whattoexpect.com/first-year/feeding-baby/nutritional-needs-of-babies/)
 - [Why Is My Toddler Throwing Food on the Floor?](https://www.whattoexpect.com/toddler/behavior/food-throwing.aspx)
 - [12 quick and easy toddler meal ideas: photos](https://www.babycentre.co.uk/l25020410/12-quick-and-easy-toddler-meal-ideas-photos)
@@ -97,6 +111,8 @@ A surge in desire for independence is common, often accompanied by the phrase, "
 - [How to Wean Your Baby Off the Bottle](https://www.whattoexpect.com/weaning-from-the-bottle.aspx)
 
 ### Sleep
+
+**Night Terrors:** Different from nightmares, night terrors affect children ages 4-12 (can start earlier). They occur 2-3 hours after falling asleep during transition from deep to light sleep. Child may sit up screaming, sweating, breathing hard with eyes open but unresponsive - don't try to wake them, just ensure safety. They won't remember the episode. Often hereditary and typically disappear with age. [Source](https://www.babycentre.co.uk/s1023606/your-three-year-old-third-month)
 
 - [What to Do if Your Baby Is Waking Up in the Middle of the Night](https://www.whattoexpect.com/first-year/ask-heidi/month-9/sudden-night-wakings.aspx)
 - [Baby Won't Sleep? 11 Common Problems by Month Age and What to Do](https://www.whattoexpect.com/first-year/baby-sleep-problems.aspx)

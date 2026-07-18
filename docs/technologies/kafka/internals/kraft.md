@@ -87,3 +87,7 @@ In smaller setups or testing environments, the Controller resides **on the same 
 ## Troubleshooting
 
 For troubleshooting `CLUSTER_AUTHORIZATION_FAILED` errors in KRaft clusters with RBAC, mTLS, and LDAP, see [KRaft + RBAC + mTLS + LDAP Troubleshooting](technologies/kafka/internals/kraft-rbac-mtls-troubleshooting.md).
+
+## Related Topics
+
+- [Kafka Connect Architecture](technologies/kafka/ecosystem/kafka-connect.md) - Version differences between 2.7 (ZooKeeper-based) and 3.7 (KRaft-mature)

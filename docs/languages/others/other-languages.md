@@ -3,7 +3,7 @@ slug: /languages/others/other-languages
 title: Other Languages
 description: Explore the essentials of diverse programming languages like Assembly and Elixir, including their uses, advantages, and programming concepts to enhance your skills.
 created: 2023-03-05
-updated: 2026-06-19
+updated: 2026-07-14
 ---
 https://dev.to/raygun/top-43-programming-languages-when-and-how-to-use-them-515n
 
@@ -310,3 +310,5 @@ CEL is used most efficiently in applications where expressions are evaluated fre
 - [How the Open Knowledge Format can improve data sharing \| Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing)
 	- [knowledge-catalog/okf at main · GoogleCloudPlatform/knowledge-catalog · GitHub](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
 	- [Introducing the Google Cloud Knowledge Catalog \| Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/introducing-the-google-cloud-knowledge-catalog)
+- [Legacy Seam](https://martinfowler.com/bliki/LegacySeam.html)
+	- [Seam Framework - JBoss Seam](https://www.seamframework.org/)
