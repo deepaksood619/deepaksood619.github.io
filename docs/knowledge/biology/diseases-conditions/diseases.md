@@ -3,7 +3,7 @@ slug: /knowledge/biology/diseases
 title: Diseases
 description: Explore essential insights on diseases, lifestyle-related conditions, hyperthyroidism, and injury care for better health awareness and management.
 created: 2023-03-05
-updated: 2026-07-04
+updated: 2026-07-20
 ---
 Listening to your own body over a lifetime can tell you far more than any doctor in a small room for a rushed 10 minutes appointment.
 
@@ -25,24 +25,9 @@ https://www.medicalnewstoday.com/articles/9153.php
 - Don't put water on skin damage and never itch the blood clot appear after injury, it will heal faster
 - Put betadine on it and don't cover it, cover while bathing
 
-## Brushing Teeth
+## Dental & Oral Health
 
-- Change brush every 3 months
-- Brush for 2 minutes, twice a day, once flossing
-- Don't rinse with water / ~~use mouthwash floride water (listerine)~~
-- Don't put brush in bathroom
-- Flossing
-- Use tongue cleaner
-- Don't use hard toothbrush (soft or extra soft)
-- Minimal pressure
-- Brush in circles (no back and forth)
-- Brush in 45 degree angle to gums
-- Downwards (or upwards) towards your gums
-- Change routine
-- Don't brush more than 2 times a day
-- Wait 30 min after eating before brushing
-- [How long should you brush your teeth? Here are some tips from experts | CNN](https://edition.cnn.com/2021/11/19/health/teeth-brushing-health-wellness-partner/index.html)
-- [India’s top Dentist on Brushing, Whitening, Cavity, Braces & Cancer \| Dr. Sandesh Mayekar Ep. 16 - YouTube](https://www.youtube.com/watch?v=XqVwwLKHZIg)
+For comprehensive dental care information including brushing, flossing, water floss, cavities, gum disease, and teeth grinding, see [Dental & Oral Health](knowledge/biology/diseases-conditions/dental-oral-health.md)
 
 ## Cough
 
@@ -255,29 +240,9 @@ ADHD, or Attention-Deficit/Hyperactivity Disorder, is a neurodevelopmental condi
 
 **Sublingual immunotherapy (SLIT)** is a needle-free treatment for allergies that involves placing a dose of allergen extract, either as a tablet or drops, under the tongue to increase tolerance to the allergen over time. Approved for grass, ragweed, and dust mite allergies, SLIT works by gradually exposing the immune system to small amounts of allergens, which calms the allergic response and reduces symptoms like sneezing, runny nose, and itchy eyes. It's a convenient, at-home treatment for those who prefer to avoid allergy shots.
 
-## [Teeth grinding (bruxism)](https://www.nhs.uk/conditions/teeth-grinding/)
+## Teeth Grinding (Bruxism)
 
-- Sleep Bruxism
-- Dental guard
-- [Sleep bruxism: Current knowledge and contemporary management - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026093/)
-- [Best Mouth Guards for Bruxism and Teeth Grinding - YouTube](https://www.youtube.com/watch?v=pM2t9G1Wlpw)
-- **[How to Stop Grinding Teeth: Effective Prevention Strategies](https://www.sleepfoundation.org/bruxism/tips)**
-
-### Exercise for Teeth Grinding
-
-One exercise that has been shown to relax the muscles involved in teeth grinding follows these steps:
-
-1. Close your lips gently while preventing your top and bottom teeth from touching
-2. Press your tongue against the roof of your mouth without it touching your teeth
-3. Hold this position for as long as you can
-
-Another exercise is designed to help with movement of the jaw:
-
-1. Put your hands on your TMJ joints (where the lower jaw connects)
-2. Slowly open your mouth
-3. Hold your mouth open for 5-10 seconds
-4. Slowly close your mouth
-5. Perform 3 times per day, exercising for 10 minutes each time
+See comprehensive guide: [Dental & Oral Health - Teeth Grinding](knowledge/biology/diseases-conditions/dental-oral-health.md#teeth-grinding-bruxism)
 
 ## Restless legs syndrome
 

@@ -3,7 +3,7 @@ slug: /diabetes
 title: Diabetes
 description: Comprehensive guide to diabetes types, symptoms, diagnosis, treatment, complications, and management strategies
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-20
 ---
 
 Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by elevated blood glucose levels due to defects in insulin production, insulin action, or both.
@@ -160,6 +160,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 **Microvascular (small blood vessels):**
 
 - **Retinopathy:** Leading cause of blindness in adults
+  - See [Branch Retinal Vein Occlusion (BRVO)](knowledge/biology/diseases-conditions/branch-retinal-vein-occlusion-brvo.md) - common eye complication in diabetic patients
 - **Nephropathy:** Progressive kidney damage, may require dialysis
 - **Neuropathy:** Nerve damage causing pain, numbness, digestive issues
 

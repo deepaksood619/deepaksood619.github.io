@@ -3,7 +3,7 @@ slug: /psychology/buying-guide
 title: Buying guides
 description: Explore essential buying guides to make informed choices on shoes, cars, and home essentials, ensuring durability and functionality with every purchase.
 created: 2026-01-10
-updated: 2026-07-10
+updated: 2026-07-18
 ---
 - **Buy less, choose it well, make it last**
 - Don't buy black or white items, it gets very dirty pretty fast
@@ -48,6 +48,17 @@ updated: 2026-07-10
 	- Find my device
 	- Hide location details on lock screen
 	- Swipe down on lock screen to view notification drawer
+
+**Features**
+
+- NFC
+- Dual sim
+- Motorola/Oneplus/xioami/samsung
+- 5g
+- Motorola g67 power
+- Samsung Galaxy F36 5g (black, 128
+- moto edge 60 fusion
+- Samsung Galaxy F56
 
 ## Checklist
 

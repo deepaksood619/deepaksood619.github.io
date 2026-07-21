@@ -3,7 +3,7 @@ slug: /knowledge/biology/mbbs-medicine-medical-health
 title: MBBS / Medicine / Medical / Health
 description: Explore the comprehensive MBBS curriculum covering pre-clinical, para-clinical, and clinical phases, essential for aspiring medical professionals.
 created: 2023-03-05
-updated: 2026-07-17
+updated: 2026-07-20
 ---
 Shared decision making
 
@@ -12,22 +12,14 @@ Shared decision making
 The MBBS course is divided into 3 phases -
 
 1. Pre-clinical (one year August to July)
-
-    Phase-I - Anatomy, Biochemistry, Physiology
-
+    - Phase-I - Anatomy, Biochemistry, Physiology
 2. Para Clinical (1 ½ years- July to Dec, Jan to June, July to Dec)
-
-    Phase-II - Pathology, Microbiology, Forensic Medicine, Pharmacology,
-
+    - Phase-II - Pathology, Microbiology, Forensic Medicine, Pharmacology,
 3. Clinical ( 2 years+ Jan to June, July to Dec, Jan to June and July to Dec.)
-
-    Phase-III -- Medicine including Psychiatry and Dermatology,
-
-    Surgery including Orthopaedics, ENT, Ophthalmology,
-
-    Anaesthesiology, Casualty and Dental Surgery, Paediatics,
-
-    Obst. & Gynae and Community Mediine
+    - Phase-III -- Medicine including Psychiatry and Dermatology,
+    - Surgery including Orthopaedics, ENT, Ophthalmology,
+    - Anaesthesiology, Casualty and Dental Surgery, Paediatics,
+    - Obst. & Gynae and Community Mediine
 
 ## Vivisection
 
@@ -45,19 +37,15 @@ An Internist is a physician specialising in internal medicine, treating complex 
 
 ## Surgery
 
-https://www.youtube.com/playlist?list=PLM7R3YrvpbZxonFtQtRhAEP4hNcCGP7fD
-
-https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
-
-RAS - robotic assisted surgery
+- https://www.youtube.com/playlist?list=PLM7R3YrvpbZxonFtQtRhAEP4hNcCGP7fD
+- https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
+- RAS - robotic assisted surgery
 
 ## Gall Bladder
 
-[Laparoscopic Cholecystectomy Full Length Skin to Skin Video with Near Infrared Cholangiography - YouTube](https://www.youtube.com/watch?v=oWq-nAz_fwU)
-
-[Lap Cholecystectomy:Unedited Video for Surgery Residents  Gallbladder Surgery by Dr.Saurabh Dixit - YouTube](https://www.youtube.com/watch?v=ChGYg4yTOOk)
-
-[Gallbladder Surgery (Removal): WATCH THIS! - YouTube](https://www.youtube.com/watch?v=CmwDBs_CvI8)
+- [Laparoscopic Cholecystectomy Full Length Skin to Skin Video with Near Infrared Cholangiography - YouTube](https://www.youtube.com/watch?v=oWq-nAz_fwU)
+- [Lap Cholecystectomy:Unedited Video for Surgery Residents  Gallbladder Surgery by Dr.Saurabh Dixit - YouTube](https://www.youtube.com/watch?v=ChGYg4yTOOk)
+- [Gallbladder Surgery (Removal): WATCH THIS! - YouTube](https://www.youtube.com/watch?v=CmwDBs_CvI8)
 
 ## Cough
 

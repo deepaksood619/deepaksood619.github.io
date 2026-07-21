@@ -3,7 +3,7 @@ slug: /economics/investment-products/debt-funds/fixed-income-instruments
 title: Fixed income
 description: Explore fixed income investments where borrowers make scheduled payments, contrasting them with equities to understand their role in financing and growth.
 created: 2023-08-11
-updated: 2026-06-09
+updated: 2026-07-20
 ---
 Fixed income refers to any type of [investment](https://en.wikipedia.org/wiki/Investment) under which the borrower or issuer is obliged to make payments of a fixed amount on a fixed schedule. For example, the borrower may have to pay [interest](https://en.wikipedia.org/wiki/Interest) at a fixed rate once a year, and to repay the principal amount on maturity. Fixed-income [securities](https://en.wikipedia.org/wiki/Security_(finance)) can be contrasted with equity securities -- often referred to as stocks and shares -- that create no obligation to pay dividends or any other form of income.
 
@@ -225,6 +225,34 @@ The rate of interest offered on tends to be higher for longer tenures. An FD wit
 | PW in 5 months; same rate; 1% penalty on P+I  | 7%               | 5                          | ₹ 1,029     | ₹ 1,01,888             |
 | PW in 37 months; 1% interest loss             | 5.5%             | 37                         |             | ₹ 1,18,344             |
 | PW in 37 months; same rate; 1% penalty on P+I | 7%               | 37                         | ₹ 1,239     | ₹ 1,22,620             |
+
+## FCNR (Foreign Currency Non-Resident) Deposits
+
+FCNR deposits are foreign currency-denominated term deposits available to Non-Resident Indians (NRIs), allowing them to maintain savings in foreign currencies like USD, GBP, EUR, and others.
+
+### The FCNR Multiplier Strategy
+
+**FCNR Multiplier** is a leverage strategy where NRIs use borrowed funds to amplify returns on FCNR deposits:
+
+An NRI invests $1 million of their own savings. The overseas branch of an Indian bank steps in to lend that NRI an additional $9 million in dollars. The NRI places the combined $10 million into an FCNR deposit.
+
+This is incredibly lucrative for investors. At a standard 6% rate, the full $10 million deposit would generate $600,000 in returns. Of that, let's say the NRI pays 5.5% interest on the $9 million loan, or $495,000. That leaves $105,000 for the NRI.
+
+**Key Characteristics:**
+
+- **Leverage Ratio:** Typically 9:1 (borrow $9M against $1M own capital)
+- **Interest Rate Arbitrage:** Earn deposit rate (e.g., 6%) while paying loan rate (e.g., 5.5%)
+- **Net Gain:** Spread on leveraged amount ($10M × 0.5% = $50K) + full return on own capital ($1M × 6% = $60K) = ~$105K total
+- **Currency:** Foreign currency deposits (USD, EUR, GBP, etc.)
+- **Risk:** Exchange rate risk, interest rate changes, credit risk on leveraged exposure
+
+**Regulatory Context:**
+
+- Governed by RBI regulations for NRI deposits
+- Banks must comply with overseas lending norms
+- Subject to banking regulations in both India and country of overseas branch
+
+**Note:** This strategy carries significant leverage risk and is suitable only for sophisticated investors who understand currency and interest rate risks.
 
 ## Tax-Free Bonds (Tax Free Bonds)
 

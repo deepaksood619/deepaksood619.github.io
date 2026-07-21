@@ -7,31 +7,47 @@ updated: 2026-07-18
 ---
 ## Multigrain Atta Details - 10 kg
 
-| **Quantity** | **Item (Hindi on Receipt)** | **Item (English Equivalent)** | **Price (₹) - Sat, 18 Jul 2026** | **Kg Rate** |
-| ------------ | --------------------------- | ----------------------------- | -------------------------------- | ----------- |
-| **1.5 kg**   | चना                         | Chana (Chickpeas)             | 180                              |             |
-| **1.5 kg**   | जौ                          | Jau (Barley)                  | 90                               |             |
-| **1.5 kg**   | रागी                        | Ragi (Finger Millet)          | 180                              |             |
-| **1 kg**     | ज्वार                       | Jowar (Sorghum)               | 60                               |             |
-| **500 g**    | बाजरा                       | Bajra (Pearl Millet)          | 30                               |             |
-| **500 g**    | मक्का                       | Makka (Maize / Corn)          | 30                               |             |
-| **1 kg**     | सोया                        | Soya (Soybean)                | 140                              |             |
-| **2.5 kg**   | गेहूं                       | Gehu (Wheat)                  | 135                              |             |
-| **10 kg**    | **कुल योग**                 | **Sum of Ingredients**        | **845**                          |             |
+### Cheap but healthy
 
-- Sat, 18 Jul 2026 - Rs. 895
+| **Quantity** | **Item**      | **Why this change?**                                                                                          | **Kg Rate** | **New Price (₹)** |
+| ------------ | ------------- | ------------------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
+| **5 kg**     | Wheat (Gehu)  | **Increased:** Cheapest ingredient (₹54/kg). 50% wheat is the sweet spot for soft, easily digestible rotis.   | ₹54         | 270               |
+| **1 kg**     | Chana         | **Slightly reduced:** Still gives a massive protein boost and lowers the glycemic index, but saves money.     | ₹120        | 120               |
+| **1 kg**     | Jau (Barley)  | **Slightly reduced:** Fantastic cheap grain (₹60/kg) for digestion and cholesterol management.                | ₹60         | 60                |
+| **1 kg**     | Jowar         | **Maintained:** A great, affordable millet (₹60/kg) that adds fiber and keeps you full.                       | ₹60         | 60                |
+| **500 g**    | Ragi          | **Reduced:** Ragi is expensive (₹120/kg). 500g is still plenty to give you a strong calcium boost.            | ₹120        | 60                |
+| **500 g**    | Soya          | **Reduced:** Soya is the priciest (₹140/kg). 500g provides plenty of protein without making the flour bitter. | ₹140        | 70                |
+| **500 g**    | Bajra         | **Maintained:** Cheap (₹60/kg) and rich in iron.                                                              | ₹60         | 30                |
+| **500 g**    | Makka         | **Maintained:** Cheap (₹60/kg) and great for eye health and fiber.                                            | ₹60         | 30                |
+| **10 kg**    | **NEW TOTAL** |                                                                                                               |             | **₹700**          |
 
-| **Quantity** | **Item (Hindi on Receipt)** | **Item (English Equivalent)** | **Price (₹) - 14 Dec 2025** |
-| ------------ | --------------------------- | ----------------------------- | --------------------------- |
-| **1 kg**     | चना                         | Chana (Chickpeas)             | 120                         |
-| **1 kg**     | जौ                          | Jau (Barley)                  | 60                          |
-| **1 kg**     | रागी                        | Ragi (Finger Millet)          | 120                         |
-| **1 kg**     | ज्वार                       | Jowar (Sorghum)               | 60                          |
-| **500 g**    | बाजरा                       | Bajra (Pearl Millet)          | 30                          |
-| **500 g**    | मक्का                       | Makka (Maize / Corn)          | 30                          |
-| **500 g**    | सोया                        | Soya (Soybean)                | 70                          |
-| **4.5 kg**   | गेहूं                       | Gehu (Wheat)                  | 225                         |
-| **10 kg**    | **कुल योग**                 | **Sum of Ingredients**        | **715**                     |
+### Lower Wheat
+
+| **Quantity** | **Item (Hindi)** | **Item (English)**     | **Total Price (₹)** | **Kg Rate (₹/kg)** |
+| ------------ | ---------------- | ---------------------- | ------------------- | ------------------ |
+| **1.5 kg**   | चना              | Chana (Chickpeas)      | 180                 | **120**            |
+| **1.5 kg**   | जौ               | Jau (Barley)           | 90                  | **60**             |
+| **1.5 kg**   | रागी             | Ragi (Finger Millet)   | 180                 | **120**            |
+| **1 kg**     | ज्वार            | Jowar (Sorghum)        | 60                  | **60**             |
+| **500 g**    | बाजरा            | Bajra (Pearl Millet)   | 30                  | **60**             |
+| **500 g**    | मक्का            | Makka (Maize / Corn)   | 30                  | **60**             |
+| **1 kg**     | सोया             | Soya (Soybean)         | 140                 | **140**            |
+| **2.5 kg**   | गेहूं            | Gehu (Wheat)           | 135                 | **54**             |
+| **10 kg**    | **कुल योग**      | **Sum of Ingredients** | **845**             |                    |
+
+- Sat, 18 Jul 2026 - Rs. 845
+
+| **Quantity** | **Item (Hindi on Receipt)** | **Item (English)**     | **Price (₹) - 14 Dec 2025** |
+| ------------ | --------------------------- | ---------------------- | --------------------------- |
+| **1 kg**     | चना                         | Chana (Chickpeas)      | 120                         |
+| **1 kg**     | जौ                          | Jau (Barley)           | 60                          |
+| **1 kg**     | रागी                        | Ragi (Finger Millet)   | 120                         |
+| **1 kg**     | ज्वार                       | Jowar (Sorghum)        | 60                          |
+| **500 g**    | बाजरा                       | Bajra (Pearl Millet)   | 30                          |
+| **500 g**    | मक्का                       | Makka (Maize / Corn)   | 30                          |
+| **500 g**    | सोया                        | Soya (Soybean)         | 70                          |
+| **4.5 kg**   | गेहूं                       | Gehu (Wheat)           | 225                         |
+| **10 kg**    | **कुल योग**                 | **Sum of Ingredients** | **715**                     |
 
 - 14 May 2026 - Rs. 790
 - 14 Feb 2026 - Rs. 650

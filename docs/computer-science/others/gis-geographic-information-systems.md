@@ -15,6 +15,7 @@ A Geographic Information System (GIS) is a system that captures, stores, analyze
 GIS is a framework for gathering, managing, and analyzing data rooted in the science of geography. It integrates many types of data and helps users visualize, question, analyze, and interpret data to understand relationships, patterns, and trends.
 
 **Key capabilities:**
+
 - Capture and store spatial/geographic data
 - Manipulate and analyze spatial information
 - Create interactive queries and searches
@@ -26,6 +27,7 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 ### Raster vs. Vector Data
 
 **Raster Data:**
+
 - Pixel or grid-based representation
 - Best for continuous information
 - Use cases: satellite imagery, elevation models (DEM), temperature maps, aerial photography
@@ -33,6 +35,7 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 - File formats: GeoTIFF, IMG, GRID
 
 **Vector Data:**
+
 - Coordinate-based representation of discrete features
 - Three geometry types:
   - **Points:** Specific locations (wells, trees, buildings)
@@ -46,12 +49,14 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 ### Geocoding vs. Georeferencing
 
 **Geocoding:**
+
 - Converts text-based addresses or place names into X,Y coordinates
 - Example: "123 Main St, Boston, MA" → (42.3601, -71.0589)
 - Enables spatial analysis of address-based data
 - Used for customer mapping, delivery routing, demographic analysis
 
 **Georeferencing:**
+
 - Assigns spatial coordinates to non-spatial images or scanned maps
 - Aligns historical maps, drone photos, or satellite images with real-world coordinates
 - Requires control points (known locations)
@@ -111,6 +116,7 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 ### ArcGIS (Esri)
 
 **Pros:**
+
 - Industry-standard commercial platform
 - Comprehensive toolset and extensions
 - Strong support and training resources
@@ -118,6 +124,7 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 - Advanced spatial analysis capabilities
 
 **Cons:**
+
 - Expensive licensing
 - Proprietary formats
 - Steeper learning curve for advanced features
@@ -125,6 +132,7 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 ### QGIS
 
 **Pros:**
+
 - Free and open-source
 - Reads almost any data format
 - Active community development
@@ -132,6 +140,7 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 - Extensible through Python plugins
 
 **Cons:**
+
 - Less polished interface than ArcGIS
 - Fewer out-of-box advanced tools
 - Variable plugin quality
@@ -141,30 +150,35 @@ GIS is a framework for gathering, managing, and analyzing data rooted in the sci
 ### Spatial Databases
 
 **PostGIS (PostgreSQL extension):**
+
 - Industry-standard open-source spatial database
 - Full SQL support with spatial functions
 - Handles vector and raster data
 - Excellent performance for large datasets
 
 **Geodatabase (Esri):**
+
 - File geodatabase or enterprise geodatabase
 - Tight ArcGIS integration
 - Supports topology rules and relationship classes
 
 **SpatiaLite (SQLite extension):**
+
 - Lightweight, file-based spatial database
 - Good for mobile/embedded applications
 
 ### SQL in GIS
 
 **Select by Attribute (traditional SQL):**
+
 ```sql
 SELECT * FROM parcels WHERE land_use = 'Residential' AND area > 5000;
 ```
 
 **Select by Location (spatial SQL with PostGIS):**
+
 ```sql
-SELECT p.* FROM parcels p, flood_zones f 
+SELECT p.* FROM parcels p, flood_zones f
 WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 ```
 
@@ -173,16 +187,19 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 ### Python Libraries
 
 **arcpy (ArcGIS):**
+
 - Official Esri Python library
 - Access to all ArcGIS geoprocessing tools
 - Batch processing and workflow automation
 
 **geopandas:**
+
 - Extends pandas with spatial operations
 - Works with vector data (Shapefile, GeoJSON, etc.)
 - Easy integration with matplotlib for visualization
 
 **ArcGIS API for Python:**
+
 - Work with ArcGIS Online/Portal
 - Web mapping and analysis
 - Machine learning integration
@@ -208,16 +225,19 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 ### Common Issues
 
 **Topology errors:**
+
 - Overlapping polygons where boundaries should be shared
 - Gaps between adjacent parcels
 - Dangles (unconnected line endpoints)
 - Self-intersecting polygons
 
 **Projection mismatches:**
+
 - Layers in different coordinate systems don't align
 - Solution: Reproject to common coordinate system
 
 **Data quality issues:**
+
 - Missing attributes
 - Positional inaccuracy
 - Temporal mismatch (data from different time periods)
@@ -243,6 +263,7 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 ### Storytelling with Data
 
 **Key principles:**
+
 - Know your audience (technical vs. non-technical)
 - Focus on insights, not just data
 - Use visual hierarchy to guide attention
@@ -262,22 +283,26 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 ### USGEO (United States Group on Earth Observations)
 
 **What it is:**
+
 - Federal interagency subcommittee chartered under the White House's National Science and Technology Council (NSTC)
 - Coordinates Earth observation activities across major U.S. government agencies
 
 **Member agencies:**
+
 - NASA (satellite missions, remote sensing)
 - NOAA (weather, ocean, climate monitoring)
 - USGS (land imaging, elevation, geology)
 - EPA, USDA, DOD, and other federal partners
 
 **Role in GIS:**
+
 - Drives policies for federal spatial data collection, standardization, and sharing
 - Ensures Earth observation data remains accessible as open-source public good
 - Coordinates satellite imagery, weather tracking, land-use mapping, ocean monitoring
 - Represents U.S. in international Group on Earth Observations (GEO)
 
 **Why it matters for GIS professionals:**
+
 - Determines data availability and formats
 - Sets metadata and quality standards
 - Influences open data policies and public access
@@ -286,30 +311,35 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 ### U.S. GeoData (USGS Data Products)
 
 **What it is:**
+
 - Historical term for primary collection of digital geographic/cartographic data from USGS and partner agencies
 - Foundation layers for most U.S.-based GIS projects
 
 **Core datasets:**
 
 **Boundaries and Administrative:**
+
 - State, county, municipal boundaries
 - Congressional districts
 - Census tracts and block groups
 - Federal land ownership
 
 **Transportation:**
+
 - TIGER/Line shapefiles (U.S. Census Bureau)
 - Road networks with addressing
 - Railways, airports, waterways
 - Public transit routes
 
 **Hydrography:**
+
 - National Hydrography Dataset (NHD)
 - Rivers, streams, lakes, watersheds
 - Flow direction and connectivity
 - Water quality monitoring sites
 
 **Elevation:**
+
 - Digital Elevation Models (DEM)
 - National Elevation Dataset (NED)
 - 3D Elevation Program (3DEP)
@@ -317,22 +347,26 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 - Lidar point clouds
 
 **Land Cover:**
+
 - National Land Cover Database (NLCD)
 - 30m resolution, updated every 5 years
 - Categories: developed, forest, agriculture, wetlands, water
 
 **Imagery:**
+
 - Landsat (30m resolution, multispectral, since 1972)
 - NAIP (National Agriculture Imagery Program, 1m resolution aerial)
 - Sentinel-2 (10m resolution, ESA/USGS partnership)
 
 **Modern distribution portals:**
+
 - **The National Map:** Primary USGS data portal
 - **Data.gov:** Cross-agency federal open data
 - **EarthExplorer:** Satellite imagery and aerial photos
 - **USGS ScienceBase:** Research datasets and projects
 
 **Technical specifications:**
+
 - Most data in NAD83 or WGS84 coordinate systems
 - Common formats: Shapefile, GeoTIFF, File Geodatabase, GeoJSON
 - Metadata follows FGDC (Federal Geographic Data Committee) standards
@@ -354,6 +388,7 @@ WHERE ST_Intersects(p.geom, f.geom) AND f.zone = '100-year';
 **Q4: What resolution options exist for federal elevation data and how do you choose?**
 
 **Answer:** The 3DEP program provides 1m, 3m, 10m, and 30m DEMs. Choose based on project scale and detail needs:
+
 - 1m Lidar: Urban planning, detailed terrain modeling, building footprints
 - 3m: Regional watershed studies, infrastructure planning
 - 10m: County-level analysis, moderate detail
@@ -374,28 +409,33 @@ Also consider file size and processing time—1m DEMs are massive.
 **Common index types:**
 
 **R-Tree (Rectangle Tree):**
+
 - Groups nearby objects into minimum bounding rectangles (MBR)
 - Hierarchical structure
 - Standard in PostGIS, Shapefile (.shx), most spatial databases
 - Optimal for "find all features intersecting this polygon" queries
 
 **Quadtree:**
+
 - Recursively divides space into quadrants
 - Each node has exactly 4 children
 - Good for raster data and point datasets
 - Used in some tile-based mapping systems
 
 **Grid Index:**
+
 - Divides space into fixed grid cells
 - Assigns features to cells they intersect
 - Simple but less efficient than R-Tree for complex queries
 
 **When spatial indexes matter:**
+
 - Datasets `>100,000` features
 - Frequent spatial queries (intersects, within, nearest)
 - Web mapping applications with real-time queries
 
 **Example (PostGIS):**
+
 ```sql
 -- Create spatial index
 CREATE INDEX parcels_geom_idx ON parcels USING GIST (geom);
@@ -411,27 +451,32 @@ SELECT * FROM parcels WHERE ST_Intersects(geom, ST_MakeEnvelope(-71, 42, -70, 43
 **Common topology rules:**
 
 **Polygon topology:**
+
 - Must not overlap (land parcels)
 - Must not have gaps (zoning districts)
 - Must share edges (adjacent administrative boundaries)
 - Must be covered by (buildings within parcels)
 
 **Line topology:**
+
 - Must not self-overlap (road centerlines)
 - Must not dangle (network connectivity)
 - Must connect at endpoints (stream networks)
 
 **Point topology:**
+
 - Must be inside polygons (wells within aquifer boundaries)
 - Must coincide with lines (bus stops on routes)
 
 **Why topology matters:**
+
 - Data quality validation
 - Network analysis (routing requires connected lines)
 - Polygon adjacency (shared boundaries, not overlaps)
 - Spatial integrity in multi-user editing
 
 **Geodatabase topology vs. shapefile:**
+
 - Shapefiles have NO enforced topology—just coordinates
 - Geodatabases support topology rules and validation
 - PostGIS has topology extension but not enforced by default
@@ -441,16 +486,19 @@ SELECT * FROM parcels WHERE ST_Intersects(geom, ST_MakeEnvelope(-71, 42, -70, 43
 **The problem:** Same coordinates, different datums = different locations (can be off by `>100` meters).
 
 **Common datums:**
+
 - **NAD27:** North American Datum 1927 (based on Clarke 1866 ellipsoid)
 - **NAD83:** North American Datum 1983 (GRS80 ellipsoid, ~1 meter accuracy)
 - **WGS84:** World Geodetic System 1984 (GPS standard, nearly identical to NAD83 in North America)
 
 **When you need datum transformation:**
+
 - Combining datasets from different eras (NAD27 historical maps + NAD83 current data)
 - GPS data (WGS84) vs. U.S. state plane (NAD83)
 - International projects mixing regional datums
 
 **Transformation methods:**
+
 - **3-parameter** (geocentric translation)
 - **7-parameter** (Helmert/Bursa-Wolf, includes rotation + scale)
 - **Grid-based** (NADCON, HARN for U.S., most accurate)
@@ -478,9 +526,11 @@ Most satellite sensors capture multiple wavelengths beyond visible light:
 **Vegetation indices:**
 
 **NDVI (Normalized Difference Vegetation Index):**
+
 ```text
 NDVI = (NIR - Red) / (NIR + Red)
 ```
+
 - Range: -1 to +1
 - Healthy vegetation: 0.6-0.9
 - Bare soil: 0.1-0.2
@@ -491,17 +541,20 @@ NDVI = (NIR - Red) / (NIR + Red)
 **Image classification:**
 
 **Supervised classification:**
+
 1. Select training samples for each land cover class
 2. Algorithm learns spectral signature of each class
 3. Classify entire image based on learned signatures
 4. Methods: Maximum Likelihood, Random Forest, SVM
 
 **Unsupervised classification:**
+
 1. Algorithm automatically groups pixels by spectral similarity
 2. Analyst interprets and labels resulting clusters
 3. Methods: K-means, ISODATA
 
 **Accuracy assessment:**
+
 - Create error/confusion matrix
 - Calculate overall accuracy, producer's accuracy, user's accuracy
 - Kappa coefficient (measures agreement beyond chance)
@@ -581,6 +634,7 @@ NDVI = (NIR - Red) / (NIR + Red)
 10. **Real project example** - Objective, tools, challenges, results, communication
 
 **Example project narrative structure:**
+
 - **Objective:** What problem were you solving?
 - **Data:** What datasets did you use? Any quality issues?
 - **Tools:** Which software and techniques?
@@ -597,6 +651,7 @@ NDVI = (NIR - Red) / (NIR + Red)
 **Q13: How would you find all customers within 5km of a store using PostGIS?**
 
 **Answer:**
+
 ```sql
 -- Assuming store location as point, customers table with geom
 SELECT c.customer_id, c.name, ST_Distance(c.geom, s.geom) as distance_m
@@ -605,11 +660,13 @@ WHERE s.store_id = 123
   AND ST_DWithin(c.geom, s.geom, 5000)
 ORDER BY distance_m;
 ```
+
 `ST_DWithin` uses spatial index for performance. Ensure data is in a projected CRS (like UTM or State Plane) so distance is in meters. If in WGS84, either reproject or use `ST_DWithin(geography(c.geom), geography(s.geom), 5000)` for spherical calculations.
 
 **Q14: You have 1 million parcel polygons and need to find which census tract each belongs to. How do you optimize this spatial join?**
 
-**Answer:** 
+**Answer:**
+
 1. **Ensure spatial indexes exist** on both layers (`CREATE INDEX USING GIST`)
 2. **Use appropriate spatial predicate:** `ST_Within` is faster than `ST_Intersects` if parcels are fully inside tracts
 3. **Consider spatial partitioning:** If census tracts don't overlap, a simple bounding box pre-filter speeds up the join
@@ -617,6 +674,7 @@ ORDER BY distance_m;
 5. **Check data quality:** Remove invalid geometries (`ST_IsValid`), repair with `ST_MakeValid`
 
 SQL example:
+
 ```sql
 UPDATE parcels p
 SET census_tract_id = t.tract_id
@@ -631,6 +689,7 @@ WHERE ST_Within(p.geom, t.geom);
 **Q16: Explain the difference between ST_Intersects, ST_Touches, and ST_Overlaps.**
 
 **Answer:**
+
 - **ST_Intersects:** TRUE if geometries share any space (interiors touch, boundaries cross, or contained). Most inclusive.
 - **ST_Touches:** TRUE only if boundaries touch but interiors don't overlap. Adjacent parcels sharing an edge touch but don't intersect interiors.
 - **ST_Overlaps:** TRUE if interiors overlap but neither geometry completely contains the other.
@@ -640,6 +699,7 @@ Example: Two adjacent parcels `ST_Touches` but do NOT `ST_Overlaps`. A parcel an
 **Q17: How do you handle multi-temporal analysis (comparing maps from different years)?**
 
 **Answer:**
+
 1. **Standardize to common CRS and extent:** Reproject all datasets to same coordinate system, clip to common boundary
 2. **Register/align:** If satellite imagery, co-register using ground control points to ensure pixel-to-pixel alignment
 3. **Classify consistently:** Use same classification scheme for both time periods
@@ -655,7 +715,8 @@ Common pitfall: Different sensors or seasons introduce spectral differences that
 
 **Q19: How would you automate a weekly report that shows new development permits on a map?**
 
-**Answer:** 
+**Answer:**
+
 1. **Python script** using `arcpy` or `geopandas`
 2. **Query database** for permits issued in last 7 days
 3. **Geocode addresses** to create point layer
@@ -670,6 +731,7 @@ Benefit: Eliminates manual weekly task, ensures consistency, documents process i
 **Q20: Describe a time you had to troubleshoot misaligned spatial data.**
 
 **Answer:** (Structure your real example following this pattern)
+
 - **Situation:** Received road network and parcel data from county—roads appeared 200m offset from parcels
 - **Investigation:** Checked `.prj` files—roads were NAD83 State Plane, parcels had no `.prj` (assumed WGS84 by software)
 - **Root cause:** Parcels were actually NAD27, not WGS84, based on coordinate ranges and metadata date (1985)
@@ -680,6 +742,7 @@ Benefit: Eliminates manual weekly task, ensures consistency, documents process i
 ## Links
 
 ### General GIS Resources
+
 - [GIS on Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system)
 - [QGIS Documentation](https://qgis.org/documentation/)
 - [Esri ArcGIS Resources](https://www.esri.com/training/)
@@ -687,6 +750,7 @@ Benefit: Eliminates manual weekly task, ensures consistency, documents process i
 - [GeoPandas Documentation](https://geopandas.org/)
 
 ### U.S. Federal Geospatial Data
+
 - [The National Map (USGS)](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map)
 - [Data.gov - Geospatial Data](https://catalog.data.gov/dataset?metadata_type=geospatial)
 - [EarthExplorer (USGS)](https://earthexplorer.usgs.gov/)
@@ -696,6 +760,7 @@ Benefit: Eliminates manual weekly task, ensures consistency, documents process i
 - [3D Elevation Program (3DEP)](https://www.usgs.gov/3d-elevation-program)
 
 ### Technical Documentation
+
 - [PostGIS Spatial Functions Reference](https://postgis.net/docs/reference.html)
 - [GDAL/OGR Documentation](https://gdal.org/)
 - [Proj Coordinate Transformation](https://proj.org/)

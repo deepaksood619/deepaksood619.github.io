@@ -6,8 +6,6 @@ created: 2026-06-22
 updated: 2026-07-13
 ---
 
-# Add Note (Fully Automated)
-
 Automatically add any topic (technology, concept, mental model, food, health, etc.) to the knowledge base with intelligent organization.
 
 ## Usage

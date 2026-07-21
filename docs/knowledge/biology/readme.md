@@ -3,7 +3,7 @@ slug: /knowledge/biology/readme
 title: Biology
 description: Explore the essential aspects of biology, including genetics, anatomy, nutrition, organ systems, and health to enhance your understanding of life sciences.
 created: 2023-03-05
-updated: 2026-07-14
+updated: 2026-07-20
 ---
 ## Core Topics
 
@@ -22,6 +22,8 @@ updated: 2026-07-14
 
 - [Diseases Overview](diseases-conditions/diseases.md)
 - [Diabetes](diseases-conditions/diabetes.md)
+- [Branch Retinal Vein Occlusion (BRVO)](diseases-conditions/branch-retinal-vein-occlusion-brvo.md)
+- [Dental & Oral Health](diseases-conditions/dental-oral-health.md)
 - [Diabetic Blood Glucose Meters](diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
 - [Gastro Problems](diseases-conditions/gastro-problems.md)
 - [Medical Tests](diseases-conditions/tests.md)

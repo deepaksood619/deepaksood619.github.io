@@ -66,6 +66,7 @@ The **SQL Server CDC Source V2 (Debezium)** connector uses SQL Server **CDC**, c
 | Multi-database capture from one SQL Server engine | **SQL Server CDC Source V2 (Debezium)** | V2 supports `database.names` with one task per DB.                   |
 | Lowest-latency operational replication            | **SQL Server CDC Source V2 (Debezium)** | Built around CDC log/change-table consumption and heartbeat support. |
 | Source DB cannot enable CDC                       | **SQL Server Source (JDBC)**            | CDC V2 requires SQL Server CDC to be enabled.                        |
+
 #### Important details
 
 The **CDC V2** connector supports SQL Server versions **2017, 2019, and 2022**.
