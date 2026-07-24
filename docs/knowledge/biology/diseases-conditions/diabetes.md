@@ -234,7 +234,7 @@ See [Metabolic Syndrome](knowledge/biology/genetics-omics/others.md) for detaile
 
 ### Foods to Emphasize
 
-- **Whole grains:** Steel-cut oats, brown rice, quinoa (see [Grains](knowledge/biology/nutrition/grains.md))
+- **Whole grains:** Steel-cut oats, brown rice, quinoa (see [Grains](knowledge/biology/nutrition/food-types/grains.md))
 - **Vegetables:** Especially bitter gourd (karela) - contains charantin and polypeptide-p that mimic insulin
 - **Legumes:** Lentils, chickpeas, beans - low glycemic index
 - **Nuts and seeds:** Improve insulin sensitivity

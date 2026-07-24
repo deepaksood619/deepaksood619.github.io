@@ -6,8 +6,6 @@ created: 2026-07-25
 updated: 2026-07-25
 ---
 
-# Home Loan Tax Optimization Strategies - India
-
 **Applicable:** FY 2025-26 (AY 2026-27)
 **Last Updated:** July 25, 2026
 **Taxpayer Type:** Individual (Old Tax Regime)
