@@ -26,6 +26,7 @@ For high-income earners (salary `>50` Lakh) in the 30% tax bracket with Section 
 ## Tax Bracket Context
 
 For salary `>50` Lakh:
+
 - **Tax Rate:** 30%
 - **Surcharge:** 10% (for income between 50L-1Cr)
 - **Health & Education Cess:** 4%
@@ -34,10 +35,12 @@ For salary `>50` Lakh:
 ## Critical Distinction: Property Type Eligibility
 
 **✅ Eligible for tax benefits:**
+
 - Constructed property (flat, house)
 - Land + construction (benefits start after construction completes)
 
 **❌ NOT eligible:**
+
 - Vacant plot of land (no deduction until construction)
 
 Source: [Ruloans](https://www.ruloans.com)
@@ -49,6 +52,7 @@ Source: [Ruloans](https://www.ruloans.com)
 **Maximum Deduction:** Rs. 2,00,000 per year (interest only)
 
 **Key Points:**
+
 - Principal repayment does NOT give additional tax benefit (already covered under Section 80C limit of 1.5L)
 - Only interest component is deductible
 - Applies to property you live in
@@ -63,11 +67,13 @@ For salary `>50` Lakh (34.32% effective tax rate):
 #### Property Value to Maximize Benefit
 
 **Assumptions:**
+
 - Home loan interest rate: 8.5% p.a.
 - Standard down payment: 20%
 
 **Calculation:**
 To generate Rs. 2,00,000 interest annually at 8.5%:
+
 - **Minimum Loan Required:** Rs. 23.5 Lakhs
 - **Property Value:** Rs. 30 Lakhs or more (with 20% down payment)
 
@@ -85,6 +91,7 @@ Source: [Home First Finance Company](https://www.homefirstindia.com)
 **Common Misconception:** "Renting out allows unlimited interest deduction from salary" - **FALSE**
 
 **Reality:**
+
 1. Unlimited interest is deductible against rental income
 2. If interest creates a loss (interest `>` rental income), maximum Rs. 2,00,000 loss can be set off against salary
 3. Remaining loss is carried forward (can only offset future rental income, NOT salary)
@@ -94,6 +101,7 @@ Source: [TaxClue](https://taxclue.in)
 #### Dual Income Household Strategy
 
 **For joint property ownership + co-borrower loan:**
+
 - Each person can claim up to Rs. 2,00,000 deduction
 - **Combined household limit:** Rs. 4,00,000 per year
 - **Combined tax savings:** Rs. 4,00,000 × 34.32% = **Rs. 1,37,280 per year**
@@ -111,6 +119,7 @@ Source: [Canara HSBC Life Insurance](https://www.canarahsbclife.com)
 #### Example Scenario
 
 **Property Details:**
+
 - Monthly rent: Rs. 30,000
 - Annual rent: Rs. 3,60,000
 - Loan interest rate: 8.5% p.a.
@@ -152,6 +161,7 @@ Source: [Novelty Wealth](https://www.noveltywealth.com)
 **Eligible For:** Self, spouse, or children's higher education
 
 **Key Advantages:**
+
 - No cap on interest deduction
 - Available even after Section 80C is exhausted
 - Applicable for domestic and international education
@@ -173,11 +183,13 @@ Source: [SMFG Grihashakti](https://www.smfggrihashakti.in), [India Today](https:
 ### Tax Treatment Differences
 
 **Under-Construction:**
+
 - Interest paid DURING construction: NOT immediately deductible
 - Interest is accumulated and claimed in 5 equal installments starting from year of possession
 - Example: Rs. 10L interest during construction → Rs. 2L per year for 5 years (subject to Section 24(b) limits)
 
 **Ready-to-Move:**
+
 - Interest is immediately deductible from year 1
 - Full Rs. 2L limit available immediately
 - Better cash flow for tax savings
@@ -189,11 +201,13 @@ Source: [SMFG Grihashakti](https://www.smfggrihashakti.in), [India Today](https:
 ### For Dual High-Income Couples
 
 **Benefits:**
+
 1. Each co-owner claims proportionate share of interest
 2. Each can set off up to Rs. 2,00,000 against salary (total Rs. 4,00,000)
 3. Both must be co-borrowers on the loan (not just co-owners)
 
 **Example:**
+
 - Spouse A salary: Rs. 55 Lakh
 - Spouse B salary: Rs. 60 Lakh
 - Property: Let-out, Rs. 1 Crore
@@ -252,12 +266,14 @@ Source: [SMFG Grihashakti](https://www.smfggrihashakti.in), [India Today](https:
 ## Compliance Requirements
 
 **Documentation:**
+
 - Home loan interest certificate from lender (annual)
 - Rental agreement (for let-out property)
 - Co-ownership proof (if joint)
 - Form 12BB submission to employer
 
 **ITR Filing:**
+
 - Self-occupied: Report under "Income from House Property"
 - Let-out: Report rental income and interest deduction
 - Carry forward losses: File ITR on time (before due date)
@@ -286,6 +302,7 @@ This content is for educational purposes only and current as of FY 2025-26. Tax 
 ## Update History
 
 **July 25, 2026:**
+
 - Initial version created
 - Covered self-occupied and let-out property strategies
 - Added dual-income household optimization

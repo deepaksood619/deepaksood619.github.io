@@ -221,7 +221,7 @@ Insulin resistance is a key driver of Type 2 diabetes and metabolic syndrome.
 4. Blood pressure `≥130/85` mmHg
 5. HDL cholesterol: Men `<40` mg/dL, Women `<50` mg/dL
 
-See [Metabolic Syndrome](knowledge/biology/others.md) for detailed criteria.
+See [Metabolic Syndrome](knowledge/biology/genetics-omics/others.md) for detailed criteria.
 
 ## Nutrition and Diabetes
 

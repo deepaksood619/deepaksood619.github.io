@@ -206,4 +206,4 @@ The Flavor: Add lemon juice, a pinch of amchur (mango powder), and black pepper.
 - [5 Healthy Breakfast Ideas & Recipes for Busy Mornings \| Quick Breakfast Recipes \| Saurabh Bothra - YouTube](https://www.youtube.com/watch?v=dmQJ-LALrqw)
 - [Millet Recipes - 10 Best Healthy & Easy Recipes \| Best Millet Breakfast Recipes \|Protein Rich Recipe - YouTube](https://www.youtube.com/watch?v=k2txCBdoHkQ)
 
-- [Homemade Paneer - Low-Fat High-Protein Guide](knowledge/biology/nutrition/paneer-homemade-low-fat.md)
+- [Homemade Paneer - Low-Fat High-Protein Guide](knowledge/biology/nutrition/food-types/paneer-homemade-low-fat.md)
