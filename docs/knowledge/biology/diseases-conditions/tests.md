@@ -92,7 +92,7 @@ The guidelines listed in this table are for adults ages 18 and older, based on t
 ## Other Important Tests
 
 - Blood Pressure (every year)
-- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md)
+- Blood Glucose Monitoring - See [Blood Glucose Meters & Test Strips](knowledge/biology/diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
 
 ## Links
 

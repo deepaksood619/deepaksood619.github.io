@@ -125,7 +125,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 - Weight loss (7-10% body weight)
 - Regular physical activity (150 min/week moderate exercise)
 - Mediterranean or low-carbohydrate diet
-- Structured meal timing (see [Eating Routine](knowledge/biology/nutrition/eating-routine.md))
+- Structured meal timing (see [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md))
 
 **Oral Medications:**
 
@@ -228,7 +228,7 @@ See [Metabolic Syndrome](knowledge/biology/others.md) for detailed criteria.
 ### Glycemic Control Through Diet
 
 - **Fiber-rich foods:** Slow glucose absorption
-- **Protein at breakfast:** Prevents insulin spikes, see [Eating Routine](knowledge/biology/nutrition/eating-routine.md)
+- **Protein at breakfast:** Prevents insulin spikes, see [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md)
 - **Meal timing:** Early first meal (`<8:30` AM) associated with lower fasting glucose
 - **Structured meals:** 3 evenly spaced meals improve glycemic control vs. single daily meal
 
@@ -259,7 +259,7 @@ Meal timing affects metabolic health independently of caloric intake:
 - **Evening eating:** Increased insulin release, disrupted circadian rhythm, higher cardiovascular risk
 - **Circadian disruption:** Established risk factor for Type 2 diabetes, obesity, cardiovascular disease
 
-See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/eating-routine.md) for evidence-based meal timing strategies.
+See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/diet-planning/eating-routine.md) for evidence-based meal timing strategies.
 
 ## Water Intake and Glucose Control
 
@@ -308,7 +308,7 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 
 - [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md) - Equipment selection and comparison
 - [Tests](knowledge/biology/tests.md) - Routine health monitoring
-- [Eating Routine](knowledge/biology/nutrition/eating-routine.md) - Structured vs. intuitive eating
+- [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md) - Structured vs. intuitive eating
 - [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md) - Meal planning strategies
 
 ## Links

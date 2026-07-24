@@ -3,7 +3,7 @@ slug: /economics/investment-products/debt-funds/fixed-income-instruments
 title: Fixed income
 description: Explore fixed income investments where borrowers make scheduled payments, contrasting them with equities to understand their role in financing and growth.
 created: 2023-08-11
-updated: 2026-07-20
+updated: 2026-07-25
 ---
 Fixed income refers to any type of [investment](https://en.wikipedia.org/wiki/Investment) under which the borrower or issuer is obliged to make payments of a fixed amount on a fixed schedule. For example, the borrower may have to pay [interest](https://en.wikipedia.org/wiki/Interest) at a fixed rate once a year, and to repay the principal amount on maturity. Fixed-income [securities](https://en.wikipedia.org/wiki/Security_(finance)) can be contrasted with equity securities -- often referred to as stocks and shares -- that create no obligation to pay dividends or any other form of income.
 
@@ -173,12 +173,37 @@ https://sbi.bank.in/web/faq-s/faq-scss
 
 [How I Escaped a “Guaranteed Income” Trap — and What Others Can Learn](https://freefincal.com/how-i-escaped-a-guaranteed-income-trap-and-what-others-can-learn/)
 
-### Options for Withdrawal Rate < 3.5%
+### Options for Withdrawal Rate `<` 3.5%
 
-- RBI Floating Rate Bonds (Via Bank)
-	- 7Y
-	- 0.35% more than NSC rate (variable)
-	- ﻿﻿Int paid out every six months
+#### RBI Floating Rate Savings Bonds (FRSB 2020)
+
+**Key Features:**
+
+- **Tenure:** 7 years (fixed)
+- **Interest Rate:** NSC rate + 0.35% (variable, reset every 6 months)
+- **Interest Payment:** Every 6 months (semi-annual payout)
+- **Availability:** Via banks (most banks offer through online banking portal)
+- **Joint Holding:** Can be held jointly
+- **Target Audience:** Excellent choice for retirees with limited corpus and guaranteed pension
+
+**Advantages:**
+
+- Variable interest rate protects against inflation (unlike fixed-rate instruments)
+- No proof of life certification required (unlike annuity policies)
+- Principal always returned to nominees
+- Regular income stream (semi-annual)
+- Suitable for conservative investors seeking stable returns
+
+**Considerations:**
+
+- Risk of lower interest rates during tenure and upon reinvestment
+- 7-year lock-in period
+- Interest rate tied to NSC rates (currently resets every 6 months)
+
+**How to Invest:** Available through your bank - check online banking portal or visit branch
+
+**Comparison:** See [RBI Retail Direct Bonds vs RBI Floating Rate Bonds](https://freefincal.com/rbi-retail-direct-bonds-vs-rbi-floating-rate-bonds/) for detailed comparison
+
 - ﻿﻿Senior Citizen Savings Schemes (Bank)
 	- ﻿﻿30L per person, 60L as couple
 	- ﻿﻿5Y, extendable by 3Y

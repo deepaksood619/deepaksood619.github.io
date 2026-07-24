@@ -147,7 +147,7 @@ Here is my current weekly meal schedule:
 
 ### IMP Pointers
 
-- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md)
+- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md)
 - Start taking juice with lunch
 - Put lemon in lunch/dinner specially with palak, moringa, daal makhani
 - semolina is still a refined wheat product. It digests very quickly, provides minimal fiber, and causes rapid spikes in blood sugar.
@@ -199,7 +199,7 @@ The Flavor: Add lemon juice, a pinch of amchur (mango powder), and black pepper.
 
 ## Links
 
-- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md)
+- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md)
 - How Not to Die, Book by Gene Stone and Michael Greger
 	- [How Not to Die by Dr. Michael Greger: A Critical Review](https://www.healthline.com/nutrition/how-not-to-die-review)
 - [nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf)

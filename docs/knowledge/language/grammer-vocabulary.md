@@ -3,7 +3,7 @@ slug: /knowledge/language/grammer-vocabulary
 title: Grammer / Vocabulary
 description: Explore the fundamentals of grammar and vocabulary, including clauses, phrases, phonology, syntax, and more, to enhance your linguistic understanding.
 created: 2023-03-05
-updated: 2026-06-04
+updated: 2026-07-25
 ---
 Linguistics is the set of [structural](https://en.wikipedia.org/wiki/Structural) rules governing the composition of [clauses](https://en.wikipedia.org/wiki/Clause_(linguistics)), [phrases](https://en.wikipedia.org/wiki/Phrase) and [words](https://en.wikipedia.org/wiki/Words) in a [natural language](https://en.wikipedia.org/wiki/Natural_language). The term refers also to the study of such rules and this field includes [phonology](https://en.wikipedia.org/wiki/Phonology), [morphology](https://en.wikipedia.org/wiki/Morphology_(linguistics)) and [syntax](https://en.wikipedia.org/wiki/Syntax), often complemented by [phonetics](https://en.wikipedia.org/wiki/Phonetics), [semantics](https://en.wikipedia.org/wiki/Semantics) and [pragmatics](https://en.wikipedia.org/wiki/Pragmatics).
 
@@ -247,6 +247,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **sandbagging -** sandbagging literally refers to the physical act of filling and stacking sandbags to protect against floods.
 	- **Legal Strategy -** In contract law, sandbagging refers to a buyer proceeding with an acquisition or deal despite knowing that the seller made false representations, with the intent to sue the seller for breach of contract immediately after the deal closes.
 	- **Business & Investing -** In the corporate world, sandbagging means deliberately setting low performance targets or issuing pessimistic earnings guidance. Managers do this to easily beat expectations later, which boosts investor confidence and helps secure performance bonuses.
+- **Chekhov's gun -** if a gun is included in a story, there must be a reason for it, such as being fired at some later point.
+- A **Homeowners Association (HOA)** is a private, legally incorporated organization that governs a housing community, manages common areas, sets architectural guidelines, and enforces neighborhood rules.
 
 ### Shill / Shilling
 

@@ -3,7 +3,7 @@ slug: /databases-sql/postgres/intro
 title: Intro
 description: Explore PostgreSQL, an open-source relational database that combines object-oriented design with powerful SQL features for efficient web application development.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-07-25
 ---
 ## Introduction
 
@@ -50,7 +50,7 @@ Here are some differences between databases and schemas in PostgreSQL:
 - **Object names -** The same object name can be used in different schemas, but two objects of the same type cannot have the same name within a schema.
 - **Access -** Users can access objects in any schema in the database they are connected to, if they have privileges to do so.
 
-#### Some reasons to use schemas include
+### Some reasons to use schemas include
 
 - Allowing multiple users to use one database without interfering with each other
 - Organizing database objects into logical groups
@@ -150,3 +150,4 @@ https://www.postgresql.org/docs/current/storage.html
 - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 - [Postgres just got even faster - YouTube](https://www.youtube.com/watch?v=1KzcJXNSzgE&ab_channel=HusseinNasser)
 - [I replaced my entire tech stack with Postgres... - YouTube](https://youtu.be/3JW732GrMdg)
+- [We're building Postgres in Rust. Using the LLVM of databases](https://turso.tech/blog/a-new-modern-version-of-postgres-in-rust)

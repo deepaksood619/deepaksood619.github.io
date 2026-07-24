@@ -41,6 +41,7 @@ updated: 2026-06-17
 
 ### Global Platforms
 
+- [SchoolAI Analysis](education/competitors/adaptive-ai-platforms/schoolai-analysis.md) - Teacher-centric AI platform, "Spaces" for personalized learning, Mission Control dashboard, ESSA Level III certified, 28% boost in critical thinking (Jordan School District study), K-12 + higher ed, freemium model
 - [Duolingo Analysis](education/competitors/adaptive-ai-platforms/duolingo-analysis.md) - World's #1 language app, 500M users, "Birdbrain" DL model, IRT + Half-Life Regression, GPT-4 Max features, $531M revenue (FY2024)
 - [ALEKS Analysis](education/competitors/adaptive-ai-platforms/aleks-analysis.md) - McGraw-Hill's Knowledge Space Theory platform, 50M+ students, KST/Markovian engine, gold standard for US college math placement (PPL)
 - [Knewton Alta Analysis](education/competitors/adaptive-ai-platforms/knewton-alta-analysis.md) - Wiley's adaptive higher-ed courseware, 1,200+ institutions, just-in-time prerequisite remediation; cautionary tale: API-to-product pivot

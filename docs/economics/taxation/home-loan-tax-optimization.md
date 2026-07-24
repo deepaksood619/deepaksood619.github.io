@@ -266,7 +266,6 @@ Source: [SMFG Grihashakti](https://www.smfggrihashakti.in), [India Today](https:
 
 - [Income Tax Deductions Overview](economics/taxation/deductions.md)
 - [Section 80C Investments](economics/taxation/deductions.md)
-- [Old vs New Tax Regime Comparison](economics/taxation/tax-regime-comparison.md)
 
 ## References
 
