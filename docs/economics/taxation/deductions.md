@@ -3,7 +3,7 @@ slug: /economics/taxation/deductions
 title: Deductions
 description: Explore the changes in income tax deductions from the IT Act 1961 to the IT Act 2025, including key exemptions and their new sections.
 created: 2025-02-05
-updated: 2026-04-21
+updated: 2026-07-25
 ---
 ## Income Tax Act 2025 - Section Changes
 
@@ -193,6 +193,8 @@ Section 80DDB of the Income Tax Act allows residents to claim deductions for med
 
 - Interest on Housing Loan on fully constructed accomodation only (Limit - 200,000)
 - Interest if the loan is taken before 01/04/99 on fully constructed accomodation only (Limit - 30,000)
+
+**For detailed home loan tax optimization strategies (self-occupied vs let-out, dual income households, property value calculations):** [Home Loan Tax Optimization Guide](economics/taxation/home-loan-tax-optimization.md)
 
 ## 10(5) LTA
 

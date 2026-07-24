@@ -3,9 +3,9 @@ slug: /knowledge/biology/nutrition/fruits
 title: Fruits
 description: Discover the iconic Indian mango varieties like Alphonso, Banganapalli, and Kesar, celebrated for their unique flavors and rich textures.
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-25
 ---
-![image](../../../media/Nutrition_Food-image4.jpg)
+![image](media/Nutrition_Food-image4.jpg)
 
 ## Mangoes / Mango
 
@@ -18,7 +18,7 @@ updated: 2026-06-16
 - **Kesar:** Grown widely in Gujarat, this medium-oblong fruit has a red blush on the shoulders and is the top choice for pulps and juices.
 - **Totapuri:** Easily recognized by its parrot-beak shape. Widely grown in Karnataka and Andhra Pradesh, it is slightly tart and mostly used for salads and processing.
 
-![Indian Mango Varieties by State](../../../media/Screenshot%202026-06-13%20at%2011.36.53%20PM.png)
+![Indian Mango Varieties by State](media/Screenshot%202026-06-13%20at%2011.36.53%20PM.png)
 
 ### Global & Hybrid Varieties
 

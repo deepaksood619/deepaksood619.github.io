@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/diet
 title: Diet
 description: Explore the complex relationship between diet, insulin resistance, and exercise, and learn how our brains adapt in a feast-famine environment.
 created: 2023-07-10
-updated: 2026-07-04
+updated: 2026-07-25
 ---
 Humans evolved for Feast - famine
 
@@ -42,7 +42,7 @@ People are overweight because they eat too much. It is also really hard to stop.
 
 - Your brain has specific neural circuitry designed to avoid starvation and, by extension, any rapid weight-loss. When you lose a lot of body fat, your hunger levels increase to encourage you to bring it back up.
 
-![Don't Die Food Guide](../../../media/Screenshot%202025-02-25%20at%2011.17.08%20AM.jpg)
+![Don't Die Food Guide](media/Screenshot%202025-02-25%20at%2011.17.08%20AM.jpg)
 
 ## Deep Research Prompt
 

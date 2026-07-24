@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/eating-routine
 title: Eating Routine
 description: Explore the debate between structured eating routines and intuitive hunger cues for optimal nutrition, weight management, and metabolic health.
 created: 2026-04-28
-updated: 2026-04-29
+updated: 2026-07-25
 ---
 **Deep Research Prompt -** What is best eating on a routine with Limited quantity or taking the Hunger cues and eating according to your hunger and satiety
 
@@ -198,4 +198,4 @@ Having a **loose routine** (e.g., aiming for three meals a day roughly around th
 
 ## Related Topics
 
-- [Diabetes](knowledge/biology/diabetes.md) - Comprehensive guide including insulin resistance, prediabetes, and glycemic control through diet and meal timing
+- [diabetes](knowledge/biology/diseases-conditions/diabetes.md) - Comprehensive guide including insulin resistance, prediabetes, and glycemic control through diet and meal timing

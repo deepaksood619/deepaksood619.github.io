@@ -12,7 +12,7 @@ updated: 2026-06-25
 - [etcd](etcd.md) - Distributed key-value store for Kubernetes
 - [TiDB](tidb.md) - MySQL-compatible distributed SQL database
 - [YugabyteDB](yugabytedb.md) - Distributed SQL database
-- [Additional Databases](additional.md) - Other NoSQL databases and tools
+- [Additional Databases](databases-nosql/others/additional.md) - Other NoSQL databases and tools
 
 ## Resources
 

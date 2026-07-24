@@ -3,9 +3,9 @@ slug: /education/product-concepts/ai-coding-test-platform
 title: AI Coding Assessment Platform
 description: Discover an affordable and efficient AI coding test platform to streamline tech hiring and create unique assessment questions.
 created: 2026-05-02
-updated: 2026-06-08
+updated: 2026-07-25
 ---
-## Research Summary ✅
+## Research Summary
 
 **Status:** Research validated - Strong GO signal (8/10 confidence)
 
@@ -483,7 +483,7 @@ AI-powered coding assessment platform that generates unique coding problems for 
 ## Related Research
 
 - [AI Assessment Platforms Analysis](education/product-concepts/ai-assessment-platforms.md) - Comparison of 7 AI assessment ideas
-- [Software Startup Analysis](ideas/software-startup-analysis.md) - Solo founder opportunities
+- [software-startup-analysis](ideas/01-startup-opportunities/vetted/software-startup-analysis.md) - Solo founder opportunities
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Full market overview
 - [HackerRank Analysis](education/competitors/technical-skills/hackerrank-analysis.md) - Market leader deep-dive
 - [HackerEarth Analysis](education/competitors/technical-skills/hackerearth-analysis.md) - India competitor analysis

@@ -44,12 +44,14 @@ Biocon Limited was founded in 1978 by Kiran Mazumdar-Shaw in Bangalore, India. S
 **Total Generic Formulations:** 27 products with commercial/approved status
 
 **Geographic Market Presence:**
+
 - United States (primary commercial market)
 - Europe (multiple approved products)
 - United Kingdom
 - Netherlands
 
 **Market Status Categories:**
+
 - Commercial (USA): Multiple statins, immunosuppressants, oncology products
 - Commercial (USA & Europe): Everolimus, Rosuvastatin, Posaconazole
 - Commercial (UK): Liraglutide formulations
@@ -60,7 +62,7 @@ Biocon Limited was founded in 1978 by Kiran Mazumdar-Shaw in Bangalore, India. S
 
 **Total API Molecules:** 49+ molecules across multiple therapeutic categories
 
-#### Therapeutic Areas:
+#### Therapeutic Areas
 
 **Cardiovascular (15 molecules):**
 Apixaban, Atorvastatin, Dabigatran, Deferasirox, Edoxaban, Eltrombopag, Fluvastatin, Ivabradine, Pravastatin, Rivaroxaban, Rosuvastatin, Sacubitril, Simvastatin, Ticagrelor, Valsartan
@@ -85,6 +87,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 **Complex Generics Portfolio:**
 
 **Statins (Cholesterol Management):**
+
 - Atorvastatin - Commercial (USA)
 - Pravastatin - Commercial (USA)
 - Rosuvastatin - Commercial (USA & Europe)
@@ -92,6 +95,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 - Fluvastatin (API)
 
 **Anti-Diabetic Biologics:**
+
 - Liraglutide (gSaxenda) - Commercial (UK)
 - Liraglutide (gVictoza) - Commercial (UK & Netherlands)
 - Semaglutide (API)
@@ -99,6 +103,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 - Empagliflozin, Dapagliflozin, Sitagliptin, Linagliptin (APIs)
 
 **Immunosuppressants (Transplant & Autoimmune):**
+
 - Tacrolimus - Commercial (USA)
 - Everolimus (gAfinitor) - Commercial (USA & Europe)
 - Everolimus (gZortress) - Approved
@@ -106,17 +111,20 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 - Sirolimus (API)
 
 **Oncology Products:**
+
 - Lenalidomide - Commercial (USA)
 - Dasatinib - Commercial (USA)
 - Pemetrexed - Tentative approval & Approved
 - Cabozantinib, Enzalutamide, Olaparib, Palbociclib (APIs)
 
 **Cardiovascular (Beyond Statins):**
+
 - Sacubitril + Valsartan - Commercial (USA)
 - Apixaban, Dabigatran, Rivaroxaban (APIs)
 - Ticagrelor (API)
 
 **Other Key Formulations:**
+
 - Daptomycin - Commercial (USA) [Antibiotic]
 - Fingolimod - Commercial (USA) [Multiple Sclerosis]
 - Micafungin - Commercial (USA) [Antifungal]
@@ -149,6 +157,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 **Geographic Footprint:** (To be added with facility details)
 
 **Regulatory Approvals:**
+
 - US FDA approved facilities
 - European Medicines Agency (EMA) approved facilities
 - UK MHRA approved facilities
@@ -177,17 +186,20 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 ### Competitive Positioning
 
 **Strengths vs Peers:**
+
 - **Biosimilars Focus:** 60% revenue from high-growth biosimilars (vs generics-heavy competitors)
 - **Research Services:** 22% revenue from CDMO/CRO services (diversification)
 - **Promoter Pedigree:** Kiran Mazumdar-Shaw (founder, strong brand)
 
 **Weaknesses vs Peers:**
+
 - **Profitability Crisis:** Net margin 2.2% vs 12-14% for peers
 - **Valuation Disconnect:** PE 184x vs 25-30x for peers
 - **Execution Issues:** Profit down 74% YoY despite revenue growth
 - **Promoter Dilution:** Stake fell 16pp in 1 year (vs stable peers)
 
 **Global Biosimilar Players:**
+
 - Sandoz (Novartis), Teva, Mylan (Viatris), Pfizer
 - Biocon competes in biosimilars but lacks scale of global giants
 
@@ -376,6 +388,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 **Position Sizing:** Max 1-2% of portfolio (only for high-risk tolerance investors)
 
 **Entry Strategy:** **Avoid new entry** until:
+
 1. Profitability stabilizes (net margin `>8%` for 2 consecutive quarters)
 2. PE corrects to `<50x` (currently 184x)
 3. Promoter holding stops falling (currently 44.68%, down from 60.64%)
@@ -410,6 +423,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
 ## Update History
 
 **July 22, 2026:**
+
 - Initial comprehensive fundamental analysis completed
 - Financial data from FY26 annual results and Jun 2026 shareholding
 - Peer comparison with Dr. Reddy's and Cipla
@@ -449,6 +463,7 @@ Brinzolamide, Deferasirox, Ivacaftor, Lurasidon, Micafungin, Mirabegron, Orlista
    - Data: Generic formulations, API molecules, therapeutic areas
 
 **Real-time Stock Data:**
+
 - Stock price, market cap as of July 22, 2026, 3:52 PM IST
 - 52-week high/low, trading metrics
 
@@ -473,6 +488,7 @@ This analysis is for educational and informational purposes only and does not co
 - This analysis represents a point-in-time snapshot and may become outdated
 
 **Investors should:**
+
 - Conduct independent due diligence
 - Consult qualified financial advisors
 - Review latest quarterly earnings and management commentary

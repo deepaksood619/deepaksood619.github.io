@@ -3,7 +3,7 @@ slug: /diabetes
 title: Diabetes
 description: Comprehensive guide to diabetes types, symptoms, diagnosis, treatment, complications, and management strategies
 created: 2026-07-04
-updated: 2026-07-20
+updated: 2026-07-25
 ---
 
 Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by elevated blood glucose levels due to defects in insulin production, insulin action, or both.
@@ -95,7 +95,7 @@ Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by el
 
 ### Self-Monitoring
 
-- **Blood Glucose Meters:** Traditional finger-prick testing - See [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md)
+- **Blood Glucose Meters:** Traditional finger-prick testing - See [diabetics-blood-glucose-meters-glucometers](knowledge/biology/diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
 - **Continuous Glucose Monitors (CGM):** Sensor-based 24/7 monitoring
   - FreeStyle Libre, Dexcom, Guardian
   - Real-time glucose trends and alerts
