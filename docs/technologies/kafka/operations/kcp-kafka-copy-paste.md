@@ -3,7 +3,7 @@ slug: kcp-kafka-copy-paste
 title: kcp-kafka-copy-paste
 description: Automated Kafka migration toolkit for zero-cut migrations to Confluent Cloud using CC Gateway, Cluster Linking, and KCP CLI orchestration
 created: 2026-06-24
-updated: 2026-07-16
+updated: 2026-07-21
 ---
 ## Intro
 
@@ -255,6 +255,31 @@ kcp create-asset migration-infra --state-file kcp-state.json
 kcp create-asset migrate-topics --state-file kcp-state.json
 kcp create-asset migrate-topics --state-file kcp-state.json
 
+# mode mirror
+kcp create-asset migrate-topics \
+  --state-file "kcp-state.json" \
+  --cc-type "commercial" \
+  --source-type "msk" \
+  --cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3" \
+  --mode "mirror" \
+  --target-cluster-id "lkc-12345" \
+  --target-rest-endpoint "https://pkc-xxxx.us-east-2.aws.confluent.cloud:443" \
+  --cluster-link-name "my-cluster-link" \
+  --output-dir "target_infra"
+
+# mode new
+kcp create-asset migrate-topics \
+  --state-file "kcp-state.json" \
+  --cc-type "commercial" \
+  --source-type "msk" \
+  --cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3" \
+  --mode "new" \
+  --target-cluster-id "lkc-12345" \
+  --target-rest-endpoint "https://pkc-xxxx.us-east-2.aws.confluent.cloud:443" \
+  --output-dir "target_infra"
+
+kcp create-asset migrate-topics  --state-file "kcp-state.json"  --cc-type "commercial"  --source-type "msk"  --cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3"  --mode "new"  --target-cluster-id "lkc-12345"  --target-rest-endpoint "https://pkc-xxxx.us-east-2.aws.confluent.cloud:443"  --output-dir "target_infra"
+
 # Migrate ACLs to CC RBAC
 kcp create-asset migrate-acls --state-file kcp-state.json
 
@@ -275,6 +300,7 @@ Source Flags:
       --source-type string
       --cluster-id string
 
+# needs access to msk cluster
 kcp create-asset migrate-connectors msk \
   --state-file "kcp-state.json" \
   --cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3" \
@@ -283,6 +309,8 @@ kcp create-asset migrate-connectors msk \
   --cc-api-key "DUMMY_API_KEY" \
   --cc-api-secret "DUMMY_API_SECRET" \
   --output-dir "target_infra"
+
+kcp create-asset migrate-connectors msk  --state-file "kcp-state.json"  --cluster-id "arn:aws:kafka:us-east-2:492737776546:cluster/kcp-msk-cluster/abc-6841-402f-b8d1-abc-3"  --cc-environment-id "env-12345"  --cc-cluster-id "lkc-12345"  --cc-api-key "DUMMY_API_KEY"  --cc-api-secret "DUMMY_API_SECRET"  --output-dir "target_infra"
 
 # Migrate schemas
 kcp create-asset migrate-schemas --state-file kcp-state.json

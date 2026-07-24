@@ -3,7 +3,7 @@ slug: /ideas/brainstorm/miscellaneous-saas
 title: Miscellaneous SaaS & Product Ideas
 description: Collection of diverse startup ideas including weekend jobs, government tracking, project management, productivity tools, and niche SaaS concepts
 created: 2023-03-05
-updated: 2026-06-26
+updated: 2026-07-21
 ---
 
 ## Core SaaS Principles
@@ -219,6 +219,7 @@ updated: 2026-06-26
 - [Credly](https://www.credly.com) - Digital credentials
 - **Lawyer insurance** - Insurance for legal fees coverage
 - **Crypto Insurance** - Against lost keys / theft / smart contract risk
+- [LemonChilli.news - Squeeze the news, feel the heat!](https://lemonchilli.news/)
 
 ## Free AI Chatbots
 

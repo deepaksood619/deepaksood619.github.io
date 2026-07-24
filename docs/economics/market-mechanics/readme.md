@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/readme
 title: Market Terms
 description: Explore essential market terms, including order types, IPOs, technical and fundamental analysis, trading strategies, and valuation metrics for informed investing.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-07-22
 ---
 - [Order Types](economics/market-mechanics/market-structure/order-types.md)
 - [IPO](economics/market-mechanics/market-structure/ipo-process.md)
@@ -19,30 +19,43 @@ updated: 2026-06-11
 
 ## Market timings
 
-### US Market
+### Market Timings
 
-| Market Hours for NYSE & NASDAQ | ET                 | IST                |
-| ------------------------------ | ------------------ | ------------------ |
-| Pre-market trading hours       | 4:00 AM to 9:30 AM | 1:30 PM to 7:00 PM |
-| Normal trading hours           | 9:30 AM to 4:00 PM | 7:00 PM to 1:30 AM |
-| After-hours trading            | 4:00 PM to 8:00 PM | 1:30 AM to 5:30 AM |
+#### NASDAQ
 
-### Indian Equity
+| Market Hours for NYSE & NASDAQ | ET                 | IST                    |
+| ------------------------------ | ------------------ | ---------------------- |
+| Pre-market trading hours       | 4:00 AM to 9:30 AM | 1:30 PM to 7:00 PM     |
+| Normal trading hours           | 9:30 AM to 4:00 PM | **7:00 PM to 1:30 AM** |
+| After-hours trading            | 4:00 PM to 8:00 PM | 1:30 AM to 5:30 AM     |
 
-- 9 am to 9.15 am -- Pre market
-- 9.15 am to 3.30 pm -- Normal trading
-- 3.40 pm to 4.00 pm -- Post market
+#### LSE
 
-### Currency
+| Market Hours for LSE (VWRA) | BST / GMT (Local)  | IST                     |
+| --------------------------- | ------------------ | ----------------------- |
+| Pre-market trading hours    | 5:05 AM to 7:50 AM | 9:35 AM to 12:20 PM     |
+| Normal trading hours        | 8:00 AM to 4:30 PM | **12:30 PM to 9:00 PM** |
+| After-hours trading         | 4:30 PM to 5:15 PM | 9:00 PM to 9:45 PM      |
+
+#### Indian Equity
+
+| Market Hours for NSE | IST (Local)            |
+| -------------------- | ---------------------- |
+| Pre-open session     | 9:00 AM to 9:15 AM     |
+| Normal trading hours | **9:15 AM to 3:30 PM** |
+| Post-closing session | 3:40 PM to 4:00 PM     |
+
+#### Currency
 
 - 9 am to 5 pm -- Normal trading
 
-### Commodity
+#### Commodity
 
 - 9 am to 11.30 pm -- during day light savings time - March to November
 - 9 am to 11.55 pm -- November to March
 
 Commodity traders don’t wait for weekly government reports. By the time official inventory data is released, the smart money has already acted.
+
 So how do traders get ahead of the market? Alternative data, specifically, shadows from space.
 
 Most crude oil storage tanks have floating roofs that rest directly on top of the oil.
@@ -50,6 +63,7 @@ Most crude oil storage tanks have floating roofs that rest directly on top of th
 When oil is withdrawn, the roof sinks lower.
 
 As the roof drops, the tank walls cast a longer internal shadow.
+
 Instead of relying on delayed public reports, hedge funds and trading firms use high-resolution satellites and AI to monitor thousands of tanks around the world in near real time.
 
 📉 Longer shadow = the tank is being emptied

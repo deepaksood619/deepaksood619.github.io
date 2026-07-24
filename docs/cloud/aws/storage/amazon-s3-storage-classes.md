@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-s3-storage-classes
 title: Amazon S3 Storage Classes
 description: Discover Amazon S3 Storage Classes, including S3 Standard for high-performance access and Intelligent-Tiering for changing data needs, ensuring optimal storage solutions.
 created: 2024-04-13
-updated: 2026-04-28
+updated: 2026-07-22
 ---
 ## General purpose - Amazon S3 Standard (S3 Standard)
 
@@ -103,7 +103,7 @@ S3 One Zone-IA offers the same high throughput, and low latency of S3 Standard, 
 | Retrieval charge                | N/A                                                  | N/A                                                                      | N/A                                                             | per GB retrieved                                         | per GB retrieved                        | per GB retrieved                                                              | per GB retrieved                                             | per GB retrieved                                            |
 | Lifecycle transitions           | Yes                                                  | Yes                                                                      | No                                                              | Yes                                                      | Yes                                     | Yes                                                                           | Yes                                                          | Yes                                                         |
 
-#### Durability
+### Durability
 
 Amazon S3 provides the most durable storage in the cloud. Based on its unique architecture, S3 is designed to exceed **99.999999999% (11 nines)** data durability. Additionally, S3 stores data redundantly across a minimum of 3 Availability Zones by default, providing built-in resilience against widespread disaster. Customers can store data in a single AZ to minimize storage cost or latency, in multiple AZs for resilience against the permanent loss of an entire data center, or in multiple AWS Regions to meet geographic resilience requirements.
 

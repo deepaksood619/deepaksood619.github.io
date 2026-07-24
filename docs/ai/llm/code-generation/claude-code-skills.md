@@ -3,7 +3,7 @@ slug: claude-code-skills
 title: Claude Code Skills
 description: Obsidian Simple New Note Template for creating a new note.
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-21
 ---
 ## Built-in Commands
 
@@ -203,3 +203,9 @@ EOF
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 216k
 - [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 13k
 - [Agent Skills Marketplace](https://skillsmp.com/)
+
+## Others
+
+**AWS Configuration**
+
+- `Set up Agent Toolkit for AWS by following instructions: https://raw.githubusercontent.com/aws/agent-toolkit-for-aws/refs/heads/main/setup-instructions/setup.md`

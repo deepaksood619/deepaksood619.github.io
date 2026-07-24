@@ -2,6 +2,8 @@
 slug: /bosch-limited-comprehensive
 title: Bosch Limited - Comprehensive Analysis 2026
 description: Leading auto component manufacturer with strong German parentage, premium valuation reflects quality but limited growth potential
+created: 2026-06-25
+updated: 2026-07-23
 company: Bosch Limited
 ticker: NSE:BOSCHLTD
 sector: Auto Ancillaries
@@ -10,8 +12,6 @@ date: 2026-06-25
 analyst: Claude (LLM-generated)
 data_sources: [Screener.in, Google Finance, NSE]
 tags: [comprehensive-analysis, india, auto-ancillaries, bosch]
-created: 2026-06-25
-updated: 2026-06-25
 ---
 
 - **Analysis Date:** June 25, 2026

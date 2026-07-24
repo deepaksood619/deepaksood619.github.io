@@ -3,7 +3,7 @@ slug: /economics/personal-finance/protection/insurance-overview
 title: Insurance
 description: Explore essential insights on term insurance coverage, calculating needs for inflation, and maximizing benefits for your loved ones.
 created: 2023-05-31
-updated: 2026-06-09
+updated: 2026-07-22
 ---
 ## Term Insurance
 
@@ -93,6 +93,7 @@ https://joinditto.in
 
 ## Health Insurance
 
+- 72 hours pre-authorization required for saving 10% co-pay
 - United India Health Insurance
 	- United India health insurance plan is offered by the United India Insurance Company. It offers extensive health insurance plans that cover families, individuals, young adults, senior citizens and persons with disabilities against major and minor illnesses, accidents, hospitalization, and critical illnesses. Moreover, United India Insurance Company follows a speedy and hassle-free claim settlement procedure.
 	- https://www.uiic.co.in/web/product/health/Family-Medicare-Policy

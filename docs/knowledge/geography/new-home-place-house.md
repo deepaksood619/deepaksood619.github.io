@@ -3,7 +3,7 @@ slug: /knowledge/geography/new-home-place-house
 title: New Home / Place Buying / House
 description: Explore essential insights on buying a new home, understanding housing investments, and choosing the best places to live for long-term benefits.
 created: 2024-02-23
-updated: 2026-07-13
+updated: 2026-07-24
 ---
 - [Living](knowledge/geography/living.md)
 - [home-house-building](knowledge/geography/home-house-building.md)
@@ -29,6 +29,7 @@ It's about people and not place where you live, you enjoy places with people and
 
 ## New Home
 
+- Always check if the land is freehold or leasehold since it can become 79 years and doesn't reset
 - Delivery Status (are delivery boys allowed to come up to flat to deliver? or have to go down to accept delivery)
 - Buy home where new metro stations are coming up
 - Study Room / Office Room / GYM (2 desks for WFH - no bed or people or clutter in study room)
@@ -387,6 +388,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Monsoon Report Card: Noida Passes, Gurugram Fails. 5 Major Reasons Why \| Explainers News - News18](https://www.news18.com/amp/explainers/monsoon-report-card-noida-passes-gurugram-fails-5-major-reasons-why-ws-l-9544394.html)
 - ['If you own a flat in Noida, sell it and run': Finfluencer on UP govt's plans to scrap ground coverage limits - BusinessToday](https://www.businesstoday.in/amp/personal-finance/real-estate/story/if-you-own-a-flat-in-noida-sell-it-and-run-finfluencer-on-up-govts-plans-to-scrap-ground-coverage-limits-494074-2025-09-15)
 - [Be Cash Ready! Distress Deals Flooding Noida Real Estate \| Unfiltered Truth - YouTube](https://www.youtube.com/watch?v=nSyyCXZpXw4)
+- Always check if the land is freehold or leasehold since it can become 79 years and doesn't reset
 
 ### 2025-01-18 - Locations - Buy
 

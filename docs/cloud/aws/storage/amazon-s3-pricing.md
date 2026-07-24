@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-s3-pricing
 title: Amazon S3 Pricing
 description: Discover Amazon S3 pricing options, including costs for Standard, Intelligent-Tiering, Glacier, and more, tailored for your data storage needs.
 created: 2024-06-04
-updated: 2026-06-09
+updated: 2026-07-22
 ---
 - S3 Standard (Frequently accessed data) - $0.023 per GB
 - S3 Intelligent-Tiering - $0.023per GB
@@ -79,7 +79,7 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 | **S3 Glacier Deep Archive** *** - For long-term data archiving that is accessed once or twice in a year and can be restored within 12 hours | $0.002 per GB             |
 | **S3 One Zone - Infrequent Access** ** - For re-creatable infrequently accessed data that needs millisecond access                          | $0.011 per GB             |
 
-#### Summary
+### Summary
 
 | Storage Class                   | Costs          | 500 GB | 2 TB  | % Cheaper from standard |
 | ------------------------------- | -------------- | ------ | ----- | ----------------------- |
@@ -92,7 +92,7 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 
 There are no S3 data transfer charges when data is transferred in from the internet. Also with **S3TA (S3 Transfer Acceleration), you pay only for transfers that are accelerated.** Therefore you do not need to pay any transfer charges for the image upload if S3TA did not result in an accelerated transfer.
 
-### Amazon S3 Transfer Acceleration (S3TA)
+## Amazon S3 Transfer Acceleration (S3TA)
 
 Amazon S3 Transfer Acceleration (S3TA) can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects. Customers who have either web or mobile applications with widespread users or applications hosted far away from their S3 bucket can experience long and variable upload and download speeds over the Internet. S3 Transfer Acceleration (S3TA) reduces the variability in Internet routing, congestion, and speeds that can affect transfers, and logically shortens the distance to S3 for remote applications.
 
@@ -100,7 +100,7 @@ S3TA improves transfer performance by routing traffic through Amazon CloudFrontâ
 
 For applications interacting with your Amazon S3 buckets through the S3 API from outside of your bucketâ€™s region, S3TA helps avoid the variability in Internet routing and congestion. It does this by routing your uploads and downloads over the AWS global network infrastructure, so you get the benefit of AWS network optimizations.
 
-### Storage
+## Storage
 
 The volume of storage billed in a month is based on the average storage used throughout the month. This includes all object data and metadata stored in buckets that you created under your AWS account. We measure your storage usage in "TimedStorage-ByteHrs," which are added up at the end of the month to generate your monthly charges.
 
@@ -110,19 +110,19 @@ There are per-request ingest fees when using PUT, COPY, or lifecycle rules to mo
 
 If you have objects that are **smaller than 1GB** or if the data set is less than 1GB in size, you should consider using **Amazon CloudFront's PUT/POST commands** for optimal performance.
 
-### Data Transfer in / out
+## Data Transfer in / out
 
 | PUT, COPY, POST, LIST requests (per 1,000 requests) | GET, SELECT, and all other requests (per 1,000 requests) | Lifecycle Transition requests (per 1,000 requests) |
 | --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
 | S3 Standard                                         | $0.005                                                   | $0.0004                                            |
 
-### You pay for all bandwidth into and out of Amazon S3, except for the following
+## You pay for all bandwidth into and out of Amazon S3, except for the following
 
 - Data transferred in from the internet.
 - Data transferred out to an Amazon Elastic Compute Cloud (Amazon EC2) instance, when the instance is in the same AWS Region as the S3 bucket.
 - Data transferred out to Amazon CloudFront (CloudFront).
 
-### Data Transfer OUT From Amazon S3 To Internet
+## Data Transfer OUT From Amazon S3 To Internet
 
 | Up to 1 GB / Month          | $0.00 per GB   |
 |-----------------------------|-----------------|

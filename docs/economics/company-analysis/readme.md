@@ -3,7 +3,7 @@ slug: /economics/company-analysis/readme
 title: Company Analysis
 description: Discover comprehensive company analyses, sector reports, and investment frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
 created: 2026-06-03
-updated: 2026-06-25
+updated: 2026-07-22
 ---
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 
@@ -34,6 +34,28 @@ This directory contains comprehensive company analyses, sector reports, peer com
     - 🔔 **Key Catalyst:** Apollo Healthtech demerger (NCLT meeting June 24, 2026) — approval could add 10-20% to valuation
   - **Data Date:** June 25, 2026, 12:58 PM IST (Price: Rs. 8,591, Market Cap: Rs. 1,23,520 Cr)
   - **Next Update:** After Q1 FY27 earnings (July-August 2026) or demerger NCLT approval
+
+### Biocon Limited
+
+- [Biocon - Comprehensive Pharmaceutical Analysis (July 22, 2026)](economics/company-analysis/companies/healthcare/biocon-fundamental.md)
+  - **Type:** Fundamental Analysis (Complete)
+  - **Ticker:** NSE:BIOCON / BSE:532523
+  - **Score:** 4.2/10 ⭐⭐ (Medium-High Risk)
+  - **Recommendation:** Hold / Avoid New Entry (Low Conviction)
+  - **Target Price:** Rs. 420-450 (neutral to bearish; -4% to +3% from Rs. 438)
+  - **Key Highlights:**
+    - 🟢 **Biosimilars Leader:** 60% revenue from high-barrier biosimilars (Liraglutide, Semaglutide pipeline)
+    - 🟢 **Complex Generics Portfolio:** 27 FDA-approved formulations; 49+ API molecules
+    - 🟢 **DII Support:** Institutional holding increased to 23.33% (from 15.73% in Mar 2025)
+    - 🔴 **Profitability Collapse:** Net profit crashed 74% YoY (Rs. 1,429 Cr → Rs. 369 Cr); ROE 1.4% vs peers 11-12%
+    - 🔴 **Absurd Valuation:** PE 184x vs Dr. Reddy's 24.6x, Cipla 30.1x — **6-7x overvalued**; 50-85% downside risk
+    - 🔴 **Promoter Dilution:** Holding fell from 60.64% to 44.68% in 1 year — **major red flag**
+    - 🔴 **Cash Flow Crisis:** Operating cash flow down 51%, FCF down 95% — near-zero cash generation
+    - 🔴 **Erratic Performance:** Q2 FY26 posted Rs. 52 Cr loss; negative other income (-Rs. 76 Cr)
+    - ⚠️ **Worst-in-Class Metrics:** ROE 1.4%, ROCE 3.6%, Net Margin 2.2% (vs peers at 11-14%)
+  - **Risk Level:** High — Avoid new entry until profitability stabilizes and valuation corrects to PE `<50x`
+  - **Data Date:** July 22, 2026, 3:52 PM IST (Price: Rs. 438, Market Cap: Rs. 71,372 Cr)
+  - **Next Update:** After Q1 FY27 earnings (August 2026) or promoter holding stabilization
 
 ### Reliance Industries Limited
 

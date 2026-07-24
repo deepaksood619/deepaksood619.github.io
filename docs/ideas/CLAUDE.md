@@ -3,7 +3,7 @@ slug: /ideas/CLAUDE
 title: claude.md
 description: Discover Claude.md, an LLM-driven wiki for comprehensive multi-domain startup research, integrating sources, insights, and cross-referencing for informed decision-making.
 created: 2026-05-01
-updated: 2026-06-22
+updated: 2026-07-21
 ---
 
 **Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
@@ -26,21 +26,28 @@ This is an **LLM-maintained research wiki** where Claude:
 
 ```bash
 ideas/
-├── research-index.md     # Master catalog by priority/domain
-├── competitors/          # Company profiles, comparisons
-├── business-models/      # Revenue models, pricing, unit economics (to be created)
-├── tech-stacks/          # Technology architectures (to be created)
-├── gtm-strategies/       # Go-to-market approaches (to be created)
-└── validation/           # Problem/solution validation research (to be created)
+├── readme.md             # Master catalog/index by priority/domain
+├── CLAUDE.md             # This file - wiki maintenance guide
+├── 01-startup-opportunities/
+│   ├── vetted/           # MVP-ready ideas with full analysis
+│   └── brainstorm/       # Domain-specific idea collections
+├── 02-research-frameworks/
+│   ├── competitors/      # Company profiles, competitive landscapes
+│   ├── business-models/  # Revenue models, pricing, unit economics
+│   ├── gtm/              # Go-to-market strategies
+│   └── validation/       # Problem/solution validation frameworks
+└── 03-guidance/          # Startup fundamentals, philosophy
 ```
 
 ## Key Files
 
-**research-index.md** - Content catalog organized by:
+**readme.md** - Master index organized by:
 
 - Active startup ideas (by priority)
-- Research domains
-- Cross-references
+- Research categories (DevTools, EdTech, Productivity, etc.)
+- Cross-domain patterns
+- Solo founder suitability ratings
+- Links to all vetted ideas, brainstorm lists, frameworks, and guidance
 
 ## Templates
 
@@ -130,7 +137,7 @@ Which ideas does this inform? How?
 1. Create research file in `topic-analysis.md` (descriptive name, no dates)
 2. Update 5-10 related pages (startup ideas, market analysis, competitors)
 3. Create cross-links across domains
-4. Update `research-index.md`
+4. Update `readme.md` master index
 
 **When asked about startup opportunities:**
 
@@ -145,7 +152,7 @@ Which ideas does this inform? How?
 1. Use startup idea template
 2. Link to related research, competitors, market analysis
 3. Identify validation gaps
-4. Add to research-index.md
+4. Add to readme.md master index
 5. Log the creation
 
 ## File Naming

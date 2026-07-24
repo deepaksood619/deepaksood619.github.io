@@ -3,7 +3,7 @@ slug: /databases-sql/mssql-server
 title: MSSQL Server
 description: Discover MSSQL Server's features, editions, and the unique advantages of Microsoft's database solution for enterprise applications on Windows systems.
 created: 2025-05-21
-updated: 2025-11-09
+updated: 2026-07-24
 ---
 ## Intro
 
@@ -85,6 +85,77 @@ SQL Server Reporting Services (SSRS) provides a set of on-premises tools and ser
 
 - [Download SQL Server Management Studio (SSMS) \| Microsoft Learn](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)
 	- [SSMS Tutorial (SQL Server Management Studio) - Feature Demonstration - YouTube](https://www.youtube.com/watch?v=2VQMI4ZvtA4)
+
+## Commands
+
+```bash
+# mac
+brew install sqlcmd
+
+# linux/ubuntu
+# 1. Import the Microsoft public repository GPG keys
+curl -fsSL https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft-prod.gpg
+
+# 2. Register the Microsoft repository
+curl -fsSL https://packages.microsoft.com/config/ubuntu/22.04/prod.list | sudo tee /etc/apt/sources.list.d/mssql-release.list
+
+# 3. Update your package lists and install sqlcmd
+sudo apt-get update
+sudo apt-get install sqlcmd
+
+sqlcmd -S database-1.abc.ap-south-1.rds.amazonaws.com,1433 -U admin
+```
+
+```sql
+SELECT @@VERSION;
+GO
+
+CREATE DATABASE test;
+GO
+
+USE test;
+GO
+
+CREATE TABLE Employees (
+    ID INT PRIMARY KEY IDENTITY(1,1),
+    Name VARCHAR(50) NOT NULL,
+    Department VARCHAR(50) NOT NULL
+);
+
+INSERT INTO Employees (Name, Department)
+VALUES
+    ('Alice', 'Engineering'),
+    ('Bob', 'Sales'),
+    ('Charlie', 'Marketing');
+GO
+
+SELECT * FROM Employees;
+GO
+
+QUIT
+
+-- On SQL Server, verify CDC status
+SELECT name, is_cdc_enabled
+FROM sys.databases
+WHERE name = 'test';
+
+-- If it returns `0`, enable CDC
+USE test;
+EXEC sys.sp_cdc_enable_db;
+
+-- Verify the tables included in the connector are CDC-enabled
+USE test;
+EXEC sys.sp_cdc_help_change_data_capture;
+
+-- Enable CDC for any missing table
+USE test;
+EXEC sys.sp_cdc_enable_table
+  @source_schema = N'dbo',
+  @source_name = N'your_table',
+  @role_name = NULL,
+  @supports_net_changes = 0;
+
+```
 
 ## Others
 

@@ -352,7 +352,7 @@ ls -la docs/<category>/
 
 - **High relevance match (score >0.8):** Add link
 - **Medium relevance (0.5-0.8):** Add link if topic is central to page
-- **Low relevance (<0.5):** Skip
+- **Low relevance (`<0.5`):** Skip
 - **Target:** 2-5 cross-references minimum
 
 ## Critical Rules

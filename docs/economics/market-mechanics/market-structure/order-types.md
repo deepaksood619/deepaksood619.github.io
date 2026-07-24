@@ -3,25 +3,25 @@ slug: /economics/market-mechanics/market-structure/order-types
 title: Order Types
 description: Explore various order types such as market, limit, and stop loss orders to optimize your trading strategy and manage risk effectively.
 created: 2025-02-24
-updated: 2026-06-09
+updated: 2026-07-22
 ---
-### Market Order - No bargain, buy at market face value
+## Market Order - No bargain, buy at market face value
 
 when you intend to buy at market available prices instead of a very specific price that you have in mind
 
-### Limit - Add your bid for the stock
+## Limit - Add your bid for the stock
 
 when you are very particular about the price you want to pay for a stock.
 
-### SL Limit
+## SL Limit
 
 stop loss order
 
-### SL Market
+## SL Market
 
-### Advanced
+## Advanced
 
-#### What is the disclosed quantity feature and how to use it?
+### What is the disclosed quantity feature and how to use it?
 
 Disclosed quantity feature while placing equity orders allows only a part of the total order quantity to be disclosed to the market as shown in the market depth. Once a part of the order is executed, the next part is disclosed to the market. This feature can be used while placing large orders to reduce impact cost and to get a better execution by disclosing only a portion of the large order in the best bids and offers in the market depth.
 

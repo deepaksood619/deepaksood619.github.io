@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/life
 title: Life
 description: Explore the philosophy of life, success, and money, highlighting the importance of giving, learning, and overcoming fear for a fulfilling existence.
 created: 2023-03-05
-updated: 2026-06-10
+updated: 2026-07-22
 ---
 It’s almost always about money.
 
@@ -1186,6 +1186,8 @@ To be happy you must eliminate two things: the fear of a bad future and the memo
 Arguing with stupid people is like trying to kill the mosquito on your cheek. You may or may not kill it, but you will slap yourself.
 
 Never blame anyone in your Life. Good people give you Happiness. Bad people give you Experience. Worst people give you a Lesson and Best people give you Memories.
+
+Hard time create strong men, Strong men create good times, Good times create weak men, And weak men create hard times.
 
 ## Luck / Serendipity
 

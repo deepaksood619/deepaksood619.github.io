@@ -3,7 +3,7 @@ slug: /ai/others-resources-interview-learning-courses
 title: Others / Resources / Interview / Learning / Courses
 description: Explore essential resources, interviews, and courses for learning about machine learning, graph neural networks, and AI advancements effectively.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-07-24
 ---
 - [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&ab_channel=TensorFlow)
 - [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
@@ -51,6 +51,46 @@ updated: 2026-06-11
 	- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
 - [Ed Donner \| AI startup co-founder and leader; Gen AI and LLM instructor \| Udemy](https://www.udemy.com/user/ed-donner-3/)
 - [Attention in Transformers: Concepts and Code in PyTorch - DeepLearning.AI](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)
+
+1 Deep Dive into LLMs like ChatGPT (by Andrej Karpathy)
+↳ Explains full LLM training stack, the foundation agent builders need
+🔗 https://lnkd.in/eiJeGN3n
+
+2 AI Agents for Beginners (by Microsoft)
+↳ Microsoft's agent curriculum in one video
+🔗 https://lnkd.in/ep4Rgxjp
+
+3 LangGraph Complete Course for Beginners (by freeCodeCamp)
+↳ Builds agents from scratch
+🔗 https://lnkd.in/emzaYing
+
+4 GenAI Essentials Full Course (by freeCodeCamp)
+↳ Covers the entire GenAI lifecycle
+🔗 https://lnkd.in/eMqV9XRx
+
+5 Build n8n AI Agents (by Nate Herk)
+↳ Teaches you no-code agent builds & multi-agent architectures
+🔗 https://lnkd.in/etGUZcwn
+
+6 Complete Agentic AI Course (by Krish Naik)
+↳ Teaches LangChain, LangGraph, RAG, guardrails & evals
+🔗 https://lnkd.in/eRx6Kjkk
+
+7 Agentic AI Crash Course using LangChain (by CampusX)
+↳ Theory of generative & agentic AI
+🔗 https://lnkd.in/e9FptHJY
+
+8 AI Agents for Beginners (by KodeKloud)
+↳ Builds agent personalities from scratch
+🔗 https://lnkd.in/eb5Rvg-y
+
+9 Generative AI Full Course (by freeCodeCamp)
+↳ GenAI & agent courses in one playlist
+🔗 https://lnkd.in/eJuJky4h
+
+10 Master Agentic AI
+↳ Condenses current agent concepts & tooling into 2 hours
+🔗 https://lnkd.in/eq2KQ8fw
 
 ### LLM Engineering
 

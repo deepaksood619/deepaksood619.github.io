@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/market-structure/ipo-process
 title: IPO
 description: Explore the IPO process, from angel investors and seed funding to company valuation and share face value, empowering your investment strategies.
 created: 2023-07-10
-updated: 2026-06-09
+updated: 2026-07-22
 ---
 [**https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/**](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
 
@@ -29,7 +29,7 @@ updated: 2026-06-09
 
 https://zerodha.com/varsity/chapter/the-ipo-markets-part-2
 
-### IPO sequence of events
+## IPO sequence of events
 
 - **Appoint a merchant banker -** In case of a large public issue, the company can appoint more than 1 merchant banker
 - **Apply to SEBI with a registration statement--** The registration statement contains details on what the company does, why the company plans to go public and the financial health of the company
@@ -57,13 +57,13 @@ https://zerodha.com/varsity/chapter/the-ipo-markets-part-2
 - **Closure** -- After the book building window is closed (generally open for few days) then the price point at which the issue gets listed is decided. This price point is usually the price at which maximum bids have been received.
 - **Listing Day** -- This is the day when the company actually gets listed on the stock exchange. The listing price is the price decided based on market demand and supply on that day and the stock is listed at a premium, par or discount of the cut-off price
 
-### What happens after the IPO?
+## What happens after the IPO?
 
 During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band. This whole system around the date of the issue where one bids for shares, is referred to as thePrimary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called the secondary market.
 
 Once the stock transitions from primary markets to secondary markets, the stock gets traded daily on the stock exchange. People start buying and selling stocks regularly.
 
-### Few key IPO jargons
+## Few key IPO jargons
 
 **Under subscription** - Let's say the company wants to offer 100,000 shares to the public. During the book-building process, it is discovered that only 90,000 bids were received, then the issue is said to be under subscribed. This is not a great situation to be in as it indicates negative public sentiment
 

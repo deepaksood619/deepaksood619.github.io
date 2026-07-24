@@ -112,7 +112,7 @@ updated: 2026-06-26
 
 **Best Opportunities:**
 
-1. **Postman Alternative** - Already validated in research-index
+1. **Postman Alternative** - Already validated (see vetted ideas)
 2. **Linear Alternative** - Issue tracking at $8/user vs $10-20/user
 3. **Figma Plugins Marketplace** - Take 30% vs selling direct
 4. **Terraform UI** - Visual IaC at $20/mo vs Spacelift $500/mo

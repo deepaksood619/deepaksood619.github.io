@@ -13,11 +13,13 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 ### Brushing Teeth
 
 **Frequency & Duration:**
+
 - Brush for 2 minutes, twice a day
 - Wait 30 minutes after eating before brushing (especially after acidic foods/drinks)
 - Don't brush more than 2 times a day
 
 **Technique:**
+
 - Use soft or extra soft toothbrush
 - Brush in circles (no back and forth motion)
 - Brush at 45-degree angle to gums
@@ -26,6 +28,7 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 - Change routine periodically
 
 **Best Practices:**
+
 - Change brush every 3 months
 - Don't put brush in bathroom (bacteria exposure)
 - Don't rinse with water after brushing
@@ -36,17 +39,20 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 **Types of Flossing:**
 
 **1. Traditional String Floss**
+
 - Once daily (typically before bedtime)
 - Removes plaque and food particles between teeth
 - Prevents gum disease and cavities
 
 **2. Water Floss (Oral Irrigator)**
+
 - Uses pressurized water stream to clean between teeth
 - More effective at reducing gum inflammation than string floss
 - Easier for people with braces, bridges, or dexterity issues
 - Reaches areas traditional floss may miss
 
 **Benefits of Water Floss:**
+
 - Reduces gingivitis and gum bleeding
 - Removes up to 99.9% of plaque from treated areas
 - Massages and stimulates gums
@@ -54,6 +60,7 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 - Can add mouthwash to water reservoir
 
 **How to Use Water Floss:**
+
 1. Fill reservoir with lukewarm water
 2. Choose appropriate tip (standard, orthodontic, periodontal)
 3. Start with lowest pressure setting
@@ -86,12 +93,14 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 ### Cavities (Tooth Decay)
 
 **Causes:**
+
 - Bacteria + sugar → acid production
 - Acid erodes tooth enamel
 - Poor oral hygiene
 - Frequent snacking/sugary drinks
 
 **Prevention:**
+
 - Regular brushing and flossing
 - Limit sugar intake
 - Fluoride toothpaste
@@ -99,6 +108,7 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 - Dental sealants (for molars)
 
 **Treatment:**
+
 - Fillings (amalgam, composite resin)
 - Root canal (if decay reaches pulp)
 - Crown (if extensive damage)
@@ -106,17 +116,20 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 ### Gum Disease (Gingivitis & Periodontitis)
 
 **Gingivitis (Early Stage):**
+
 - Red, swollen gums
 - Bleeding when brushing/flossing
 - Reversible with proper care
 
 **Periodontitis (Advanced Stage):**
+
 - Gums pull away from teeth
 - Bone loss
 - Tooth loss if untreated
 - Linked to heart disease, diabetes complications
 
 **Prevention:**
+
 - Regular brushing and flossing
 - Water floss for deeper cleaning
 - Professional cleanings every 6 months
@@ -127,6 +140,7 @@ Dental and oral health encompasses the care and maintenance of teeth, gums, tong
 Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leading to tooth damage, jaw pain, and headaches.
 
 **Symptoms:**
+
 - Worn, flattened, or chipped teeth
 - Jaw pain or soreness
 - Headaches (especially morning)
@@ -135,6 +149,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 - Facial muscle fatigue
 
 **Causes:**
+
 - Stress and anxiety
 - Sleep disorders (sleep apnea)
 - Malocclusion (misaligned teeth)
@@ -143,6 +158,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 **Treatment:**
 
 **Dental Guard (Night Guard):**
+
 - Custom-fitted or over-the-counter
 - Protects teeth from grinding damage
 - Reduces jaw muscle strain
@@ -150,12 +166,14 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 **Exercises for Bruxism Relief:**
 
 *Exercise 1: Tongue-to-Roof Position*
+
 1. Close lips gently while preventing top and bottom teeth from touching
 2. Press tongue against roof of mouth without touching teeth
 3. Hold position as long as possible
 4. Relaxes jaw muscles
 
 *Exercise 2: Jaw Movement*
+
 1. Put hands on TMJ joints (where lower jaw connects)
 2. Slowly open mouth
 3. Hold mouth open for 5-10 seconds
@@ -163,6 +181,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 5. Perform 3 times per day, 10 minutes each session
 
 **Lifestyle Changes:**
+
 - Reduce stress (meditation, exercise)
 - Avoid caffeine and alcohol before bed
 - Establish relaxing bedtime routine
@@ -171,6 +190,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 ### Tooth Sensitivity
 
 **Causes:**
+
 - Enamel erosion from acidic foods/drinks
 - Gum recession exposing tooth roots
 - Tooth decay
@@ -178,6 +198,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 - Teeth grinding
 
 **Prevention:**
+
 - Use desensitizing toothpaste
 - Soft-bristled brush with gentle technique
 - Avoid acidic foods (citrus, soda, wine)
@@ -188,12 +209,14 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 ### Tooth Enamel Erosion
 
 **High-Risk Foods/Drinks:**
+
 - Lemon juice/citrus (pH 2.0-3.0)
 - Soda and energy drinks
 - Wine (especially white wine)
 - Sports drinks
 
 **Protection Strategies:**
+
 - Rinse mouth with plain water immediately after acidic exposure
 - Wait at least 30 minutes before brushing (enamel is softened)
 - Use straw for acidic drinks
@@ -203,6 +226,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 ### Bad Breath (Halitosis)
 
 **Causes:**
+
 - Poor oral hygiene
 - Gum disease
 - Dry mouth
@@ -211,6 +235,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 - Medical conditions (sinus infections, GERD)
 
 **Prevention:**
+
 - Brush teeth and tongue twice daily
 - Floss daily (or use water floss)
 - Stay hydrated
@@ -222,10 +247,12 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 ### Regular Checkups
 
 **Recommended Frequency:**
+
 - Every 6 months for routine cleaning and exam
 - More frequent for high-risk individuals (gum disease, diabetes)
 
 **What to Expect:**
+
 - Visual examination of teeth, gums, tongue
 - X-rays (annually or as needed)
 - Professional cleaning (scaling and polishing)
@@ -235,23 +262,27 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 ### Professional Treatments
 
 **Teeth Whitening:**
+
 - In-office bleaching (fastest, most effective)
 - Take-home trays from dentist
 - Over-the-counter strips/gels
 - **Note:** Doesn't change natural tooth color permanently
 
 **Braces & Orthodontics:**
+
 - Corrects misaligned teeth and bite
 - Traditional metal braces
 - Clear aligners (Invisalign)
 - Lingual braces (behind teeth)
 
 **Dental Implants:**
+
 - Permanent replacement for missing teeth
 - Titanium post surgically placed in jawbone
 - Crown attached to post
 
 **Root Canal:**
+
 - Removes infected or damaged pulp from tooth
 - Saves tooth from extraction
 - Followed by crown for protection
@@ -261,6 +292,7 @@ Sleep bruxism is unconscious grinding or clenching of teeth during sleep, leadin
 ### Diabetes & Dental Health
 
 Diabetics are at higher risk for:
+
 - Gum disease (periodontitis)
 - Tooth decay
 - Dry mouth
@@ -268,6 +300,7 @@ Diabetics are at higher risk for:
 - Poor wound healing
 
 **Extra Care Needed:**
+
 - Control blood sugar levels
 - Brush and floss meticulously
 - More frequent dental visits
@@ -276,6 +309,7 @@ Diabetics are at higher risk for:
 ### Pregnancy & Dental Health
 
 **Pregnancy Gingivitis:**
+
 - Hormonal changes increase gum inflammation
 - Affects 60-75% of pregnant women
 - Brush and floss regularly
@@ -284,12 +318,14 @@ Diabetics are at higher risk for:
 ### Children's Dental Care
 
 **Timeline:**
+
 - First dental visit by age 1 or when first tooth erupts
 - Brush children's teeth twice daily until age 6-7
 - Introduce flossing when teeth touch
 - Consider dental sealants for molars
 
 **Preventing Childhood Cavities:**
+
 - Avoid prolonged bottle/sippy cup use with sugary drinks
 - No bottle in bed
 - Limit juice and sugary snacks
@@ -298,6 +334,7 @@ Diabetics are at higher risk for:
 ## Nutrition for Dental Health
 
 **Foods that Strengthen Teeth:**
+
 - Dairy (calcium, phosphorus)
 - Leafy greens (vitamins, minerals)
 - Apples, carrots (stimulate saliva)
@@ -305,6 +342,7 @@ Diabetics are at higher risk for:
 - Green/black tea (polyphenols reduce bacteria)
 
 **Foods to Limit:**
+
 - Sugary foods and drinks
 - Sticky candies
 - Dried fruits (stick to teeth)
