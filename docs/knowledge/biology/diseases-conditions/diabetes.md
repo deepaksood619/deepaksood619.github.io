@@ -248,7 +248,7 @@ See [Metabolic Syndrome](knowledge/biology/genetics-omics/others.md) for detaile
 - **Processed foods:** High in refined sugars and unhealthy fats
 - **Sugarcane juice:** High glycemic load despite nutritional content
 
-See [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md) for detailed meal planning.
+See [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md) for detailed meal planning.
 
 ## Chrononutrition and Diabetes
 
@@ -309,7 +309,7 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 - [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md) - Equipment selection and comparison
 - [Tests](knowledge/biology/tests.md) - Routine health monitoring
 - [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md) - Structured vs. intuitive eating
-- [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md) - Meal planning strategies
+- [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md) - Meal planning strategies
 
 ## Links
 
