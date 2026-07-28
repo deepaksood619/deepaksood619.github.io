@@ -116,3 +116,44 @@ For India to become a booming economy only three things need to be at top priori
 - [Reality of Civic Sense in India | The Problem is NOT What You Think | Dh...](https://youtu.be/ZZMgt5SMPEQ)
 - [Modi Govt. To Silence News Creators? | India Slips Below Pakistan In Pre...](https://youtu.be/SzfHgHoSaj0)
 - [Bastar - Live-in Relationship - Instagram](https://www.instagram.com/p/DY4k2MMiYXe/)
+
+## Governance & Politics
+
+- [Truth About India's Tax System: Why Honest Taxpayers Get Punished](https://youtu.be/jr0k_fOR1b0?si=4YorTvwc4r3TXxHK)
+- [Inside India's Bureaucracy: UPSC, IAS, Corruption & Political Power](https://youtu.be/6FNRVY2vYXw)
+- [Open Loot? | How CM Mohan Yadav & Family Acquired 168 Acres Of Land](https://youtu.be/bIZaIbEbcoo)
+- [India Compromised? | Should Ministers' Children Be Allowed To Study/Settle Abroad?](https://youtu.be/jdkkUswvkG8)
+- [INDIA'S BROKEN SYSTEM: Why Millions Joined the Cockroach Janata Party](https://youtu.be/-gy78kmy0Jg)
+- [I Hate New NPS Rules!](https://youtu.be/UOgq_zx76u4)
+- [15 लाख करोड़ के घोटाले का संदेह, सेबी की रिपोर्ट से हंगामा](https://youtu.be/odlUJtds4EU)
+
+## Society & Culture
+
+- [Inside India's Hyper Sexualised Society (documentary)](https://youtu.be/AxMan_36JIE?si=lhrPJ-joADZTz3Ta)
+- [The Dark Reality of Indian Parents](https://youtu.be/loNItAs7AxQ) - **Authoritarian rather than authoritative parenting**
+- [The Great Indian Illusion (2026) a Film by Varrun Sukhraj | Full Documentary](https://youtu.be/AKv7Tz3p_Bc)
+
+## Urban Development & Infrastructure
+
+- [Why Gurgaon is the Biggest Failure of Haryana?](https://youtu.be/Pm_c1asRzvo)
+- [Why India's Cities Feel So Broken](https://youtu.be/YsbasckKbyA)
+
+## Defense
+
+- [Operation Safed Sagar: The Untold Story of the Kargil War | Official Trailer](https://youtu.be/vqV3xfeb4SQ?si=twHEvm24jB4Kj66u)
+
+## Economics & Employment
+
+- [Nobel Laureate Explains India's Economy, Poverty, GDP & AI | Abhijit Banerjee](https://youtu.be/qt2XslRMOto)
+- [The Economy Gave Up On Young People ... It's Starting To Show](https://youtu.be/J9PzjUlyzAY) - **NEET: Not in Employment, Education, or Training**
+- [How to Analyse Con-call Transcripts Using AI?](https://youtu.be/tLG4fDkOM70)
+
+## Legal & Safety
+
+- [What Really Happened in Delhi's Malviya Nagar Fire That Killed 21?](https://youtu.be/pqci7cRusdc)
+- [1yr Later - Real Story Of AI-171 Crash Being Hidden From Public?](https://youtu.be/nmvs6jFxpmI)
+
+## Education
+
+- [The Biggest Scam in The Education Industry?](https://youtu.be/JddOLEBaPII?si=afpE2KQs28v1B0yo)
+- [वेदांत ने CBSE की खोली पोल तो उसे ही बता दिया पाकिस्तानी](https://youtu.be/sp5OM3wv93M)

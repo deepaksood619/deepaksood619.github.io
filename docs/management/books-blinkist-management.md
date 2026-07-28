@@ -269,3 +269,11 @@ Around 18th Century BC lived a King named Hammurabi who instituted a social law 
 - [What Philosophy Can Teach You About Being a Better Leader](book-summaries/business/what-philosophy-can-teach-you-about-being-a-better-leader.md)
 - [The 22 Immutable Laws of Branding](book-summaries/business/the-22-immutable-laws-of-branding.md)
 - [The 3-Minute Rule](book-summaries/business/the-3-minute-rule.md)
+
+## Video Summaries
+
+- [Harvard MBA in 100 Minutes: Career Growth, Frameworks, Money & Skills](https://youtu.be/YVlWj1LCv54)
+- [Why this book sold 10 million copies | THE GOAL | Core summary](https://youtu.be/IAsb7IiaP2I)
+- [Rest to Get More Done: REST by Alex Pang | Animated Summary](https://youtu.be/HzjO8N_9Kr0)
+- [How to Make Perfect Business Plan in 15 Mins | Lean Model Canvas](https://youtu.be/k2LHOolEyRM)
+- [From 1 Branch to 150+ Branches Worldwide | Mr. Manish Mittal Podcast](https://youtu.be/uk0_IKSaTDU)

@@ -155,6 +155,12 @@ Biology, evolution, genetics, climate change, and social impact.
 - [Books / Blinkist - Management](../management/books-blinkist-management.md)
 - [Product Book Summaries](../management/product-management/product-book-summaries.md)
 
+## Video Summaries
+
+- [Lessons of History by Will Durant | Animated Book Summary](https://youtu.be/dKzw3EJQ0mg?si=3mM5q7W4WN9JenT5)
+- [The Lessons of History | Will and Ariel Durant | Book Summary](https://youtu.be/7g6m_WHMy_4?si=moRhqKWpZyico8JC)
+- [What I Learned After 100 Pages That No School Taught Me in 40 Years](https://youtu.be/hqn5my9S7RA?si=I0U_Mv_QXXKWUdWq)
+
 ## Books Read
 
 - Primed to Perform by Neel Doshi & Lindsay McGregor (Oct'2018)

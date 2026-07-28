@@ -159,6 +159,16 @@ LG -
 
 [I FINALLY understand the Maillard reaction - YouTube](https://www.youtube.com/watch?v=5lKzZc_OO7U&ab_channel=MinuteFood)
 
+## Air Fryer Recipes
+
+- [Only 3 Ingredients… This Air Fryer Recipe Went VIRAL!](https://youtu.be/w_SxMBwNtTI)
+- [I Stopped Buying Chips After Trying These Air Fryer Chickpeas 🤯](https://youtu.be/S4f7HG4N9ec)
+
+## Breakfast Guides
+
+- [Breakfasts Ranked: Worst to Best 🔥](https://youtu.be/bBARm98cUCs)
+- [Stop Eating Bread! Try This High Protein Healthy Breakfast](https://youtu.be/lCX3A-oEwYw)
+
 ## Links
 
 - [Homemade Paneer Recipe - Low-Fat High-Protein](knowledge/biology/nutrition/food-types/paneer-homemade-low-fat.md)

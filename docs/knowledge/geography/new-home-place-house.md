@@ -457,3 +457,34 @@ Ravi - amrapali -
 - [This Kerala Home is Built Around a Mango Tree (House Tour)](https://youtu.be/OdpmOmPa6xY)
 - [Experience Soothing Nature in THIS 1,400 sq. ft. Tamil Nadu House (House...](https://youtu.be/6XjfuFAq-5U)
 - [₹3 Cr में Golf Facing Luxury Apartment 🔥](https://youtu.be/Ytfg830WLz0)
+
+## Real Estate Investment & Analysis
+
+- [Plot or Flat - E² Rule Explained](https://youtu.be/S5v9edeqtIM)
+- [Be Cash Ready! Distress Deals Flooding Noida Real Estate | Unfiltered Truth](https://youtu.be/nSyyCXZpXw4)
+- [Good Resale Deals| Multiple Projects| Low Rise| High Rise|Under 2.50 Cr](https://youtu.be/0M-aAc_x7yg)
+- [Lakhs Kharch Karke Bhi Aapka Ghar Sasta Kyun Dikhta Hai](https://youtu.be/-vILyNGR2po)
+- [RBI Rules on Home Loans You Must Know!](https://youtu.be/qC1u_i1HQoo)
+- [50 Secret Loan Terms ... Shhh 🤫](https://youtu.be/cE0n-fI5t-4)
+- [How I ACTUALLY Spend My 1.05 Crore Salary in Bangalore](https://youtu.be/xtCGdheYWvk)
+
+## Property Tours & Architecture
+
+### Noida Properties
+
+- [Ultra Luxury Apartments in Noida | Dasnac Westminster Sector 146 Full 4K](https://youtu.be/m34lErozNxA)
+
+### Gurgaon/Delhi Properties
+
+- [🇯🇵 Indo Japanese Apartments in Krisumi Waterfall Residences Gurgaon](https://youtu.be/CRkBL20iP2w?si=M9cNA1TUbwPrMEzw)
+
+### Unique Homes & Architecture
+
+- [Inside Bangalore's Upside Down Hill House](https://youtu.be/fNCccL1PcqA)
+- [Inside Japan's Brand New School: 570 Kids, Amazing Lunch System](https://youtu.be/WqfNU3cAHZk)
+- [He Turned 4 Shipping Containers Into a Luxury Home | Start to Finish](https://youtu.be/pFxBa-LMH3I)
+- [Inside the 2026 Home of the Year | Eastbourne House](https://youtu.be/oNBQ8Y3lz0s)
+- [10 "Dream" Home Features That FAIL In Real Life](https://youtu.be/BK4nbWAvqqE)
+- [This Indore Residence Showcases Modern Luxury Living! (House Tour)](https://youtu.be/ODfmhoRZQQE)
+- [He Sent A Helicopter For Me To Visit His 7.5-Acre Mansion In Pune!](https://youtu.be/7tC0uRdXnPs)
+- [Arghya Bungalow Nashik #allaboutarchitecture #architectureanddesign #nashik](https://youtu.be/2EmkhErCOUU)

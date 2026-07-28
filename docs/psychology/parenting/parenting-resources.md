@@ -85,6 +85,14 @@ updated: 2026-06-24
 - [Homeschool Kindergarten Math Comparison || The Good and the Beautiful and Math With Confidence - YouTube](https://youtu.be/xvf5VOWWnng)
 - [Spelling Help | How Parents Can Help Teach Struggling Spellers | The Goo...](https://youtu.be/UL7j4UT8lGw)
 
+## Parenting Videos
+
+- [Stop Buying Random Baby Toys — The Only 6 Toys That Matter (0-1 Years Baby)](https://youtu.be/s8uYf-A_fU4)
+- [How Screens Stole Childhood — and How to Get It Back | Jonathan Haidt | TED](https://youtu.be/DH9L7vJ03DE)
+- [How Ancient Humans Actually Kept Their Children Alive](https://youtu.be/atbj_l3cWD8)
+- [The Real Reason Kids Meltdown Over Nothing (& How to Avoid It)](https://youtu.be/W0pga68LfXc)
+- [Why Is Every Second Baby in India Born by C-Section? | India's Rising C-Section Rate](https://youtu.be/E4hM0qAnKBY)
+
 ## Related Links
 
 - [Family Planning](psychology/parenting/family-planning.md)

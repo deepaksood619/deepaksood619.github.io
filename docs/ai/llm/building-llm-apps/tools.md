@@ -189,6 +189,13 @@ updated: 2026-06-27
 	11. **Higgsfield AI** - Photos to videos, realistic avatars, speaking characters. A full creative suite for marketers and creators.
 	12. **StealthGPT AI** - Copy that reads human, not AI. Fastest-growing mentions in recent months for business writing and content.
 
+### Video Tutorials
+
+- [Free AI Tools So Good They're Making Paid Versions Obsolete](https://youtu.be/QucgvbO5gsM?si=5R2KQMXQuVqE31m4)
+- [I Put Claude Fable 5 Inside a Free AI Agent and It Runs an Entire Company](https://youtu.be/l1VrD1Sx8AA)
+- [How to Run LLMs Locally (Great For Learning and Privacy)](https://youtu.be/U8lGbSaCCYI)
+- [How to Build a Self-Improving Company with AI](https://youtu.be/X_JsIHUfUjc)
+
 ## Purpose-built accelerators for generative AI
 
 - AWS Inferentia - Lowest cost per inference in the cloud for running deep learning (DL) models

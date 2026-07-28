@@ -49,6 +49,23 @@ updated: 2026-06-22
 - [Earn Crores with AI: Business Ideas, Claude, Free Tools & Prompts | Vaib...](https://youtu.be/7fsb6ZESyzE)
 - [HOW TO CHANGE THE LIVES OF 300 CHILDREN IN AFRICA 🇿🇼](https://youtu.be/-dSJ7grd73U?si=m59tfcf0AqTfxO9c)
 - [How Japan Finally Made It Impossible to Make Babies](https://youtu.be/1QPMcWpJEgM)
+- [This cell just changed biology](https://youtu.be/g9B3gBhcwqM)
+- [What Is the Future of Gene Editing? | PODCAST: The Joy of Why](https://youtu.be/T1SzNRElup0)
+- [Google Earth Flight Simulator Launches on Web](https://youtu.be/azYGYFeEn78)
+- [How Does Google Maps Actually Work?](https://youtu.be/kS-CGkiPetQ)
+- [3 Lakh Laga Kar Khet Ki Tasveer Hi Badal Di! 😳](https://youtu.be/QrlFv4TMH8o)
+- [Ethanol Is Destroying Indian Cars — And There Is No Backup Plan](https://youtu.be/4i0GLc3WkHs)
+- [India's "Dead-Battery Crisis" no one is talking about](https://youtu.be/hhbJTJM8mqw)
+- [Your Solar Panels Will Only Last 12 Years? RESEARCH PROVES IT](https://youtu.be/GitutZrJZkA)
+- [I Made The World's First Self-Cooling Clothes](https://youtu.be/FnKNOPlR2Yo)
+- [Uniqlo: The Clothes Designed to Be BORING but Brilliant](https://youtu.be/-ofQt5CWCwo)
+- [Avengers: Doomsday | Official Trailer | In Theaters December 18](https://youtu.be/irVNGjRFZGk?si=UW8JKeMAJS1H-ILN)
+- [Stronghold 4 - Official Announcement Trailer](https://youtu.be/mlBScuVKhs0)
+- [everything i've learned](https://youtube.com/shorts/_L-pjxsd2HU?si=8oil-PzdECumLw7N)
+- [Meet Vantage: AI for Future-Ready Skills](https://youtu.be/8lJzvEPKAJM)
+- [Do These Supplements Work? (Your Questions Answered)](https://youtu.be/g8hbTcARHeE)
+- [Why Modern Dating Is Broken: AI Partners, Marriage & Love](https://youtu.be/UVkmS2WTfFo)
+- [A Simple Solution to Fix Workplace Miscommunication](https://youtu.be/xx8mwytj4CY)
 
 ## Other Links
 

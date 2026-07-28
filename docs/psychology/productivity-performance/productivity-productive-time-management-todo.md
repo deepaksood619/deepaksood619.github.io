@@ -226,3 +226,7 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 - [Edsger Dijkstra's One-Day Workweek - Cal Newport](https://calnewport.com/edsger-dijkstras-one-day-workweek)
 - [How I manage MY WEEK running a 27 CRORE BUSINESS! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=rpuT3LPDAZY)
 - [Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction \| Dr Sweta \| FO403 Raj Shamani - YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)
+- [World Without Email: Reimagining Work in an Age of Communication Overload](https://youtu.be/cAk72kFklJs)
+- [A World Without Email Book summary explained | Cal Newport](https://youtu.be/HAk_E9LCFCk)
+- [People aren’t ignoring you. They just don’t get what you’re selling: OBVIOUS](https://youtu.be/E3gSGemRogw)
+- [Belief is the key to motivation: BEYOND BELIEF by Nir Eyal | Core Message](https://youtu.be/QCFPmqo9fVY)

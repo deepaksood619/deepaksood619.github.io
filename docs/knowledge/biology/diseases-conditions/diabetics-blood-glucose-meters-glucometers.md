@@ -74,3 +74,10 @@ Both are modern, accurate, no-code systems by LifeScan with different user exper
 - [OneTouch Ultra Meter User Guide](https://www.onetouch.com/products/glucose-meters)
 - [Comparison of Blood Glucose Meters](https://www.diabetes.org/tools-support/devices-technology/blood-glucose-monitoring)
 - [FDA Guidance on Glucose Meter Accuracy](https://www.fda.gov/medical-devices/in-vitro-diagnostics/blood-glucose-monitoring-devices)
+
+## CGM (Continuous Glucose Monitor) Videos
+
+- [DON'T buy a Constant Glucose Monitor (CGM) before you watch this | VegFit](https://youtu.be/VTwqNDQu7wA)
+- [How To Use a Continuous Glucose Monitor for Maximum Benefit](https://youtu.be/Fce5Tyul6ng)
+- [Abbott Freestyle Libre 3 Review — A Discrete CGM For Diabetics](https://youtu.be/LFYyimOBomU)
+- [How Does a Continuous Glucose Monitor (CGM) Work? | Mastering Diabetes](https://youtu.be/bKj3YfCb6Cs)

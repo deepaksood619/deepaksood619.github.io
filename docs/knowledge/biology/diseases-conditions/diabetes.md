@@ -315,6 +315,8 @@ See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-
 
 - [The Rise Of Glucose Monitoring Among Non-Diabetics - YouTube](https://www.youtube.com/watch?v=nYy1zEHvXZ4)
 - [The Dumbest Health Trend Of 2024: CGM | Dr Karan - YouTube](https://www.youtube.com/watch?v=PFAwkIUluYY)
+- [Why Indians Get Diabetes So Young: Sugar, Diet & Genetics | Dr. V Mohan](https://youtu.be/6jBaJkwfL1s)
+- [What Diabetes Actually Does to Your Body](https://youtu.be/JTI1c5zAFWo)
 - [American Diabetes Association](https://www.diabetes.org/)
 - [CDC Diabetes Information](https://www.cdc.gov/diabetes/)
 - [International Diabetes Federation](https://www.idf.org/)

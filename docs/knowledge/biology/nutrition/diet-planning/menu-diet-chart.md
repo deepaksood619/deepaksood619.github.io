@@ -52,6 +52,7 @@ updated: 2026-07-18
 - 14 May 2026 - Rs. 790
 - 14 Feb 2026 - Rs. 650
 - 14 Dec 2025 - Rs. 715
+- [आटे में मिला दीजिये ये चीज़ें, बुढ़ापे तक कभी बीमार नहीं पड़ेंगे](https://youtu.be/BRL_DwE6w74?si=54TCnQDJ1S4J9CnQ)
 
 ## Indian Family Diet Chart - Vegetarian
 
