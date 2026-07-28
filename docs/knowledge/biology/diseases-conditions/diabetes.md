@@ -3,7 +3,7 @@ slug: /diabetes
 title: Diabetes
 description: Comprehensive guide to diabetes types, symptoms, diagnosis, treatment, complications, and management strategies
 created: 2026-07-04
-updated: 2026-07-25
+updated: 2026-07-28
 ---
 
 Diabetes (diabetes mellitus) is a chronic metabolic disorder characterized by elevated blood glucose levels due to defects in insulin production, insulin action, or both.
@@ -267,7 +267,7 @@ See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/diet-planning
 - **Timing considerations:** Adding water to carbohydrate-heavy meals may increase initial glucose spike in diabetics (40% higher AUC in controlled diabetics)
 - **Long-term benefits:** Better late postprandial glucose control through improved insulin sensitivity
 
-See [Drinking Water with Meals](knowledge/biology/nutrition/drinking-water-with-meal.md) for detailed mechanisms.
+[drinking-water-with-meal](knowledge/biology/nutrition/diet-planning/drinking-water-with-meal.md)
 
 ## Special Populations
 
