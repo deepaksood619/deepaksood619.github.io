@@ -8,8 +8,8 @@
       "pinnedDecks": [],
       "workspaceContentZoom": 1.104,
       "githubStars": {
-        "count": 146,
-        "fetchedAt": 1784723749386
+        "count": 142,
+        "fetchedAt": 1783961495479
       },
       "enableAnimations": true,
       "themePreset": "glass",
@@ -101,12 +101,12 @@
       }
     },
     "reminders": {
-      "showOnStartup": true,
+      "showOnStartup": false,
       "startupDelayMs": 5000,
-      "repeatEnabled": true,
+      "repeatEnabled": false,
       "repeatIntervalMinutes": 240,
-      "gatekeeperEnabled": true,
-      "gatekeeperOnStartup": true,
+      "gatekeeperEnabled": false,
+      "gatekeeperOnStartup": false,
       "gatekeeperIntervalMinutes": 240,
       "gatekeeperDueQuestionCount": 3,
       "gatekeeperScope": "workspace",

@@ -3,7 +3,7 @@ slug: /economics/taxation/taxation-foreign
 title: Taxation - Foreign
 description: Explore foreign taxation, including income tax for freelancers, foreign source income, and reporting foreign investments in this comprehensive guide.
 created: 2025-02-05
-updated: 2026-06-23
+updated: 2026-07-28
 ---
 [Foreign Exchange Explained.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJV-DziYCl4tF4vRedUdxTx3zszD8H1en)
 
@@ -157,6 +157,10 @@ Interest earned on an NRE account and FCNR account is tax-free. Interest on NRO 
 Overseas Citizen of India (OCI) card - [How to Register for OCI card - Check the Fees & Status](https://www.bankbazaar.com/passport/how-to-register-oci-card.html)
 
 ## Liberalised Remittance Scheme (LRS)
+
+[If you have US stocks, do this before 31 July.](https://youtu.be/8df7Bu0vWV8?si=A59xBz1JR6jzY11W)
+
+- **Form 12BBA tds don't cut in salary, if you transfer money outside India**
 
 Under the Liberalised Remittance Scheme (LRS), all resident individuals are allowed to freely remit up to USD 2,50,000 per financial year (April – March) for any permissible current or capital account transaction or a combination of both. The Scheme is not available to corporates, partnership firms, HUF, Trusts etc.
 

@@ -3,9 +3,9 @@ slug: /about-deepak-sood/meetups-talks-sessions
 title: Meetups / Talks / Sessions
 description: Join our session on April 25, 2026, to explore best practices for securing sensitive data when integrating AI tools like GPT and Claude in fintech.
 created: 2023-03-05
-updated: 2026-07-12
+updated: 2026-07-26
 ---
-## AI Fundamentals for Placements (Sun, 12 Jul 2026)
+## AI Fundamentals for Placements (Sun, 12 Jul 2026, Sun, 26 Jul 2026)
 
 **AI Fundamentals for Placements:** How Hiring is Changing & How to Stay Ahead - UnsaidTalks Mentorship Program
 

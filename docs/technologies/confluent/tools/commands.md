@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-updated: 2026-07-14
+updated: 2026-07-27
 ---
 ```bash
 ./kafka-topics --version
@@ -87,6 +87,12 @@ confluent-hub install confluentinc/kafka-connect-datagen:latest
 confluent kafka acl create --allow --service-account deep-test-service-account --operations read,describe,write --topic "*" --cluster lkc-pggvwv5
 
 confluent kafka acl create --allow --service-account deep-test-service-account --operations read,describe,write --consumer-group "*" --cluster lkc-pggvwv5
+
+# network use
+confluent kafka cluster endpoint list --cluster <cluster-id>
+# https://docs.confluent.io/confluent-cli/current/command-reference/kafka/cluster/endpoint/confluent_kafka_cluster_endpoint_list.html
+confluent kafka cluster endpoint use [flags]
+confluent kafka cluster endpoint use "https://lkc-pggvwv5-apdkggvg.ap-south-1.aws.accesspoint.glb.confluent.cloud:443"
 ```
 
 ### Tags

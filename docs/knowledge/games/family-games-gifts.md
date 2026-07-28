@@ -3,7 +3,7 @@ slug: /knowledge/games/family-games-gifts
 title: Family Games / Gifts
 description: Discover fun family games and gifts, perfect for game nights with kids and couples, including classic card games, charades, and engaging activities.
 created: 2023-03-05
-updated: 2026-07-12
+updated: 2026-07-27
 ---
 - [couple-activities](knowledge/games/couple-activities.md)
 - [kids-games](knowledge/games/kids-games.md)
@@ -11,6 +11,8 @@ updated: 2026-07-12
 ## Games
 
 - Tambola / Housie / Bingo
+- Lemon Race
+- Origami
 - Family Weekly game night
 - Card Games
 	- Uno
@@ -37,6 +39,14 @@ updated: 2026-07-12
 	- Calculate and Jump
 	- Balls in cup
 	- Seperate Pulses
+- **Paper Plane Contest:** This combines the creative craft of making perfect planes with the sportsmanship of racing them. It requires only paper, and scissors if needed
+- **Cup Pyramid (The Stack Attack):** Using colorful cups, players compete to build the tallest stable pyramid, helping the child develop balance and coordination
+- **Hot Potato:** Everyone sits in a circle and passes a soft ball or bean bag while music plays; when the music stops, the person holding it is out. This is often full of laughter and very easy for a 3-year-old to follow.
+- Pottery
+- Lego
+- Picture frame making
+- Painting / Colouring
+- Treasure hunt / Mystery rooms
 
 ## Party / Family Games
 

@@ -3,7 +3,7 @@ slug: /ideas/donations
 title: Donations
 description: "Explore the power of donations to express gratitude, support others, and enrich your life while helping those in need. Join our community of givers today!"
 created: 2023-10-22
-updated: 2026-06-18
+updated: 2026-07-27
 ---
 In a gentle way you can shake the world meaning
 
@@ -39,6 +39,7 @@ Donor - finds a person and donate the required item or buy for him/her
 - Kid’s Education and You (KEY)
 	- [Start this rewarding monthly investment on Gandhi Jayanti](https://freefincal.com/start-this-rewarding-monthly-investment-on-gandhi-jayanti/)
 	- [Kid’s Education and You: 260 children now benefit from this initiative of Melvin Joseph (SEBI RIA) - YouTube](https://www.youtube.com/watch?v=vgBpQI0Dvrg)
+- Independent news channel
 
 ## Effective Altruism
 

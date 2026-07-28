@@ -3,7 +3,7 @@ slug: /psychology/buying-guide
 title: Buying guides
 description: Explore essential buying guides to make informed choices on shoes, cars, and home essentials, ensuring durability and functionality with every purchase.
 created: 2026-01-10
-updated: 2026-07-18
+updated: 2026-07-28
 ---
 - **Buy less, choose it well, make it last**
 - Don't buy black or white items, it gets very dirty pretty fast
@@ -78,6 +78,10 @@ updated: 2026-07-18
 ![image](media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image3.jpg)
 
 ## AC / Air Conditioner
+
+- [What’s Broken in the AC Industry? | Ashish Goel on Why Optimist Exists](https://youtu.be/2gk8LEIUFW0)
+- [Cools at 50°C. Proven | India's Real AC](https://youtu.be/UKkKPySidWQ)
+- [Optimist AC Review 2026 🔥 Should You Buy Optimist AC or Avoid It?](https://youtu.be/JU813Qofy-c)
 
 Voltas AC - ADJ 12 - Refers to the 1.2 Ton capacity models within the adjustable inverter lineup.
 
