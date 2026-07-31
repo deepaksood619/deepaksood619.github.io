@@ -3,7 +3,7 @@ slug: /python/documentation/27-development-tools/static-code-analysis
 title: Static Code Analysis Tools for Python
 description: Explore essential static code analysis tools like isort and pylint to enhance your Python code quality and maintainability.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-07-31
 ---
 ## black / autopep8 / yapf (Auto formatters)
 
@@ -185,7 +185,7 @@ files: ^API/
     additional_dependencies: [black==20.8b1]>)
 ```
 
-#### Running custom shell command
+### Running custom shell command
 
 ```yaml title=".pre-commit-config.yaml"
 - repo: local
@@ -207,7 +207,7 @@ npx docusaurus-mdx-checker
 
 [Custom Python/Shell Script for pre-commit | by shimo | Medium](https://medium.com/@shimo164/custom-python-shell-script-for-pre-commit-700f464bfd63)
 
-### Running pre-commit
+## Running pre-commit
 
 ```bash
 # pip install pre-commit

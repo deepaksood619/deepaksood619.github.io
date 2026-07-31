@@ -12,8 +12,13 @@ updated: 2026-06-25
 | Index                | US Domiciled ETFs | Ireland Domiciled |
 | -------------------- | ----------------- | ----------------- |
 | S&P 500              | VOO               | CSPX              |
-| Nasdaq-100           | QQQM              | CSNDX             |
+| S&P 500 Tech Sector  | VGT               | IUIT              |
+| Nasdaq-100           | QQQM              | CNDX              |
 | FTSE All World Index | VT                | VWRA              |
+
+**For detailed analysis of tech-focused Irish ETFs:** See [Irish-Domiciled Tech ETFs - IUIT & CNDX](economics/investment-products/equity-funds/irish-tech-etfs-iuit-cndx.md)
+
+**For US estate tax avoidance strategies:** See [US Estate Tax Avoidance for Non-Resident Aliens](economics/taxation/us-estate-tax-avoidance-nra.md)
 
 - https://fundrise.com/vcx
 	- Private Fund - Top holdings include Anthropic, Databricks, OpenAI, SpaceX, Epic Games, and so on.

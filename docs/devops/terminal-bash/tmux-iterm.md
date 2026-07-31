@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/tmux-iterm
 title: Using Tmux with iTerm
 description: Learn how to efficiently manage multiple terminal sessions with Tmux and iTerm for enhanced productivity.
 created: 2023-03-05
-updated: 2026-06-30
+updated: 2026-07-30
 ---
 Tmux is a terminal multiplexer.
 
@@ -81,6 +81,7 @@ Restore window arrangement - Shift + Cmd + R
 - [GitHub - manaflow-ai/cmux: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. · GitHub](https://github.com/manaflow-ai/cmux)
 - [Herdr: one terminal for the whole herd](https://herdr.dev/)
 	- [GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal. · GitHub](https://github.com/ogulcancelik/herdr)
+- [Superlogical](https://www.superlogical.com/)
 
 ### byobu
 

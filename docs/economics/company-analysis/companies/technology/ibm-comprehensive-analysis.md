@@ -655,7 +655,7 @@ Stock currently **recovering from severe oversold condition** after July crash. 
 
 ## Investment Suitability
 
-### Best For:
+### Best For
 
 - **Dividend income investors** seeking 3%+ yield with strong FCF coverage
 - **Value investors** seeking quality turnaround at reasonable 20x P/E with 34% ROE
@@ -663,7 +663,7 @@ Stock currently **recovering from severe oversold condition** after July crash. 
 - **Long-term holders** (5+ years) willing to endure volatility for transformation payoff
 - **Enterprise IT bulls** believing in AI and quantum computing long-term potential
 
-### Not Suitable For:
+### Not Suitable For
 
 - **Growth investors** seeking 15%+ revenue growth (IBM only 7-8%)
 - **Dividend growth seekers** needing consistent dividend increases (IBM flat for years)
@@ -671,7 +671,7 @@ Stock currently **recovering from severe oversold condition** after July crash. 
 - **Short-term traders** given low volatility outside of earnings events (beta 0.68)
 - **Cloud pure-plays** - better options in AWS, Azure, Google Cloud for public cloud exposure
 
-### Position Sizing Recommendation:
+### Position Sizing Recommendation
 
 - **Conservative portfolio:** 3-5% allocation (core dividend holding)
 - **Balanced portfolio:** 5-8% allocation (value + income exposure)

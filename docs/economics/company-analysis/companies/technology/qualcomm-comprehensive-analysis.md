@@ -511,7 +511,7 @@ RSI likely oversold, MACD showing bearish momentum but potential for bullish div
 
 ## Investment Suitability
 
-### Best For:
+### Best For
 
 - **Value investors** seeking quality companies at reasonable prices (18x P/E, 36% ROE)
 - **Income investors** wanting growth + yield (2.16% dividend + 6.8% growth)
@@ -519,7 +519,7 @@ RSI likely oversold, MACD showing bearish momentum but potential for bullish div
 - **Diversification seekers** wanting semiconductor exposure beyond Nvidia
 - **Long-term investors** (3-5 year horizon) willing to ride volatility
 
-### Not Suitable For:
+### Not Suitable For
 
 - **Growth-at-any-price investors** seeking hypergrowth (only 4% EPS growth projected)
 - **Short-term traders** given high volatility (beta 1.64)

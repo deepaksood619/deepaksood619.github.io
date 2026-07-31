@@ -3,7 +3,7 @@ slug: kcp-kafka-copy-paste
 title: kcp-kafka-copy-paste
 description: Automated Kafka migration toolkit for zero-cut migrations to Confluent Cloud using CC Gateway, Cluster Linking, and KCP CLI orchestration
 created: 2026-06-24
-updated: 2026-07-21
+updated: 2026-07-30
 ---
 ## Intro
 
@@ -124,6 +124,8 @@ kcp discover --region us-east-2
 kcp discover --all-regions
 
 kcp discover --cluster-arn arn:aws:kafka:REGION:ACCOUNT_ID:cluster/CLUSTER_NAME/CLUSTER_ID
+
+kcp discover --region ap-south-1,us-east-1 --metrics-granularity 1h --skip-topics
 ```
 
 **Output:** Lists all MSK cluster names and ARNs

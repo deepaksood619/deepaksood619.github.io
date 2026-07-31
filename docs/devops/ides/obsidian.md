@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-06-22
+updated: 2026-07-31
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -405,6 +405,9 @@ While **tags** and **keywords** both classify content, they serve entirely diffe
 - [Heptabase](https://heptabase.com/)
 - https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use
 - Use DriveSync to sync using Google Drive
+	- [My current Obsidian sync method: Google Drive vault folder + Simple Markdown on Android](https://www.reddit.com/r/ObsidianMD/comments/1phu989/my_current_obsidian_sync_method_google_drive/)
+	- [How to use Syncthing to sync devices (and Obsidian!) for free - YouTube](https://www.youtube.com/watch?v=XOYwSCtJH5U)
+	- [Sync your notes across devices - Obsidian Help](https://obsidian.md/help/sync-notes)
 - https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
 - https://foambubble.github.io/foam/user/recipes/recipes
 - [TwinMind: Real-Time AI Notetaker to Summarize & Analyze Meetings](https://twinmind.com/)

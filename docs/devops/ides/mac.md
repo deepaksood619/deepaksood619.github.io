@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-07-11
+updated: 2026-07-31
 ---
 ## Shortcuts
 
@@ -136,8 +136,9 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
    **Settings**
 
+- sign in with github
     - Auto Save - afterDelay
-    - enablePreview - off
+    - Workbench › Editor - enablePreview - off
     - terminal.integrated.scrollback - 100000
     - Window: Open Folders In New Window - On
 
@@ -160,8 +161,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
     - `brew install grishka/grishka/neardrop`
     - [**ShareDrop**](https://www.sharedrop.io/)
     - **Localsend**
-- Office
-- Screensaver - https://zzz.zoomquilt2.com/
+- ~~Office~~
+- ~~Screensaver~~ - https://zzz.zoomquilt2.com/
 
 ### Spotlight Alternative
 
@@ -210,18 +211,18 @@ https://www.google.com/inputtools
 
 - [Remove YouTube Shorts - Chrome Web Store](https://chromewebstore.google.com/detail/remove-youtube-shorts/mgngbgbhliflggkamjnpdmegbkidiapm?hl=en)
 - darkreader
-- Session Buddy (not required, use group tabs in chrome)
+- ~~Session Buddy~~ (not required, use group tabs in chrome)
 - **adblock plus**
-- Google meet attendance list
+- ~~Google meet attendance list~~
 - JSON formatter
 - Keepa - Amazon Price Tracker
-- LINER: ChatGPT Google Assistant
+- ~~LINER: ChatGPT Google Assistant~~
 - [Obsidian Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf)
 	- MarkDownload - Markdown Web Clipper
 	- [WebInk: Intelligent Web to Markdown Converter - Chrome Web Store](https://chromewebstore.google.com/detail/webink-intelligent-web-to/lhifbnmampdmdadbhpeeoikkljhiaohn)
 	- [MarkdownIt - Markdown Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/markdownit-markdown-web-c/iofmjgmjclmdokphppphfhnnjbcddaom)
 	- [Web2Markdown - Markdown Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/web2markdown-markdown-web/olnlijgcdflbdkcmhomlnldhcobopeeh)
-- Moesif Origin & CORS Changer
+- ~~Moesif Origin & CORS Changer~~
 - **SpeedUp: Netflix, Prime videos**
 - YouTube NonStop
 - **Duplicate Tab shortcut**
@@ -309,7 +310,7 @@ brew services cleanup
 - moreutils
 - thefuck - https://github.com/nvbn/thefuck
 - **tldr -** https://tldr.sh https://github.com/tldr-pages/tldr
-- brew install pre-commit
+- **brew install pre-commit**
 - rename
 - maccy
 
@@ -366,8 +367,9 @@ fig --help       a summary of Fig commands with examples
 
 #### for stopping bell sound
 
-Search for - Silence bell in preferences
+Search for - Silence bell in iterm preferences
 
+in mac preferences > Sound
 Unchecking the "**Play user interface sound effects**" doesn't disable all sound. But sliding the "**Alert Volume**" option all the way to the left (minimum), together with unchecking the other options does the trick.
 
 ##### Others
@@ -383,17 +385,17 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 	- Show seconds and date in clock
 	- Show percent in battery
 	- Show bluetooth status in status bar
+	- Control Centre Modules - Focus - Always show in menu bar
 	- touch id
 	- Keyboard - Delay until repeat - short
 		- Turn keyboard backlight off after inactivity - After 30 seconds
 	- Dock settings - Turn Hiding On
-	- Control Centre Modules - Focus - Always show in menu bar
 	- Default web browser - Google Chrome
 	- Show Widgets
 		- Stocks
 			- ^NSEI - Never
 			- ^NSMIDCP - Never
-			- NASDAQ - Never
+			- NASDAQ Composite - Never
 			- ^SPX - Never
 
 #### Setting up Shell
@@ -445,17 +447,17 @@ model = gemini-2.5-flash
 
 #### iterm settings
 
-- scroll buffer - `Preferences > Profiles > Terminal > scrollback lines > 100000`
+- scroll buffer - `Preferences > Profiles > Terminal > scrollback lines > 1000000`
 - Dark color - `Preferences > Profiles > Colors > color preset`
 - No prompt Quit - `settings > general > closing > confirm quit iterm2`
-- Magic - Instant replay, Clipboard history
+- settings > general > Magic - Instant replay, Clipboard history
 - reopen last closed window iterm2
 	- cmd+z
 	- Method 3: Use system-level restore
 		- Go to System Preferences > General and turn off "Close windows when quitting an app.".
 		- Already - In iTerm2 preferences, go to General and set Startup to "Use system window restoration settings".
 		- When you quit iTerm2, the OS should save your windows. You can then reopen them from the Dock or by using the System Preferences > Recent Items menu.
-	- **Preferences - Profile - Session (can search for unod)** - Undo can revive a session that has closed up to (default is 5 sec) increase to 60 seconds
+	- **Preferences - Profile - Session (can search for undo)** - Undo can revive a session that has closed up to (default is 5 sec) increase to 120 seconds
 
 #### Natural Text Editing
 
@@ -516,10 +518,10 @@ filetype on
 ```bash
 alias ll='ls -alhtF'
 alias cl='clear'
-alias v='nvim'
-alias vim='nvim'
-alias f='v `fzf -i`'
-alias f='fuck'
+# alias v='nvim'
+# alias vim='nvim'
+# alias f='v `fzf -i`'
+# alias f='fuck'
 
 alias k='kubectl'
 alias d='docker'
