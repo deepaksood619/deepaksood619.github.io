@@ -305,7 +305,6 @@ See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/diet-planning
 
 ## Resources and Monitoring
 
-- [Blood Glucose Meters & Test Strips](knowledge/biology/diabetics-blood-glucose-meters-glucometers.md) - Equipment selection and comparison
 - [Tests](knowledge/biology/tests.md) - Routine health monitoring
 - [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md) - Structured vs. intuitive eating
 - [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md) - Meal planning strategies
