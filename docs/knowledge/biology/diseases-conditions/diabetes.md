@@ -303,12 +303,6 @@ See [Eating Routine - Chrononutrition](knowledge/biology/nutrition/diet-planning
 - Sick day management plan
 - Emergency contact information
 
-## Resources and Monitoring
-
-- [Tests](knowledge/biology/tests.md) - Routine health monitoring
-- [Eating Routine](knowledge/biology/nutrition/diet-planning/eating-routine.md) - Structured vs. intuitive eating
-- [Diet & Nutritional Analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md) - Meal planning strategies
-
 ## Links
 
 - [The Rise Of Glucose Monitoring Among Non-Diabetics - YouTube](https://www.youtube.com/watch?v=nYy1zEHvXZ4)
