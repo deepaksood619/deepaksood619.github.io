@@ -3,7 +3,7 @@ slug: /courses/microsoft-excel-google-sheets
 title: Microsoft Excel / Google Sheets
 description: Master Microsoft Excel and Google Sheets with essential features like formulas, pivot tables, charts, and data import/export for efficient data management.
 created: 2023-03-05
-updated: 2026-03-11
+updated: 2026-07-31
 ---
 [Do Something .new \| A Domain Exclusively for Shortcuts](https://whats.new/)
 
@@ -43,6 +43,7 @@ Rows - 1,048,576- Text to column
 - `cmd + opt + =` - Insert 1 row above / Insert 1 column left based on selection (either row or column or cell)
 - `cmd + opt + -` - Delete the selected row
 - `cmd + shift + fn + up/down` - switch between sheets
+- `ctrl + tilde` - show all formulas instead of computed values - to copy formula
 
 ### excel
 

@@ -49,6 +49,7 @@ SEBI is the regulatory body that oversees and governs the securities market in I
 Before 1996 the share certificate was in paper format. Post 1996, share certificates were converted to digital format. The process of converting paper format share certificates into digital format is called **"Dematerialization"** often abbreviated as **DEMAT**.
 
 Currently, there are only two depositaries offering DEMAT account services:
+
 - **NSDL** - National Securities Depository Limited
 - **CDSL** - Central Depository Services (India) Limited
 
@@ -86,6 +87,7 @@ Futures and Options, generally referred to as the **equity derivative segment**,
 ### 3. Wholesale Debt Market
 
 The wholesale debt market deals with fixed income securities. Debt instruments include:
+
 - Government securities
 - Treasury bills
 - Bonds issued by public sector undertakings

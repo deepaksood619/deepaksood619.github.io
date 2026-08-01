@@ -82,10 +82,12 @@ An investor is a person who buys a stock expecting significant appreciation. The
 "Going short" or "shorting" describes a transaction carried out in a particular order.
 
 **Concept:** In shorting, you:
+
 1. **First sell** at a price you perceive as high
 2. **Then buy back** at a lower price later
 
 **Example:**
+
 - Day 1: Buy Wipro at Rs.405
 - Day 3: Sell Wipro at Rs.425 → **Profit Rs.20**
 - Day 4: Stock still at Rs.425, you expect it to fall
@@ -93,12 +95,14 @@ An investor is a person who buys a stock expecting significant appreciation. The
 - 2 days later: Buy back at Rs.405 (second leg) → **Profit Rs.20**
 
 **Mechanism:**
+
 - When you short, you are essentially **borrowing shares** from someone else in the market
 - When you buy back, you **return the shares**
 - Exchange facilitates the borrowing and returning process in the backend
 - From your perspective, just select the stock and click "sell"
 
 **Important Notes:**
+
 - You cannot sell shares you don't own unless you short
 - Shorting works seamlessly - you won't realize you're borrowing
 - When you short, you have a **bearish view** on the stock
@@ -123,6 +127,7 @@ An investor is a person who buys a stock expecting significant appreciation. The
 | Short | Buy the stock |
 
 **Important:**
+
 - When selling to square off a long position, you are **NOT shorting**
 - When buying to square off a short position, you are **NOT going long**
 
@@ -145,11 +150,13 @@ Short covering refers to **buying back borrowed securities** to close out an ope
 A short squeeze is an unusual condition triggering rapidly rising prices in a stock or tradable security.
 
 **Occurs when:**
+
 - Security has unusual degree of short sellers holding positions
 - Price jumps higher unexpectedly
 - Short sellers coincidentally decide to cut losses and exit positions
 
 **Characteristics:**
+
 - Accelerates stock price rise as short sellers bail out to cut losses
 - Contrarian investors try to anticipate short squeezes
 - Both short sellers and contrarians make risky moves
@@ -211,12 +218,14 @@ Face Value (FV) or par value indicates the **fixed denomination** of a share. Im
 Gives sense of range within which stock has traded during the year.
 
 **Beliefs:**
+
 - Stock reaching 52-week high may indicate **bullish trend** for foreseeable future
 - Stock hitting 52-week low may indicate **bearish trend** for foreseeable future
 
 ### All-Time High/Low
 
 Similar to 52-week high/low, but:
+
 - **All-Time High:** Highest price stock has ever traded since listing
 - **All-Time Low:** Lowest price stock has ever traded since listing
 
@@ -295,6 +304,7 @@ Book value reflects the **total value of company's assets** that shareholders wo
 ### Market Sessions
 
 **Pre-Opening Session (9:00 - 9:15 AM):**
+
 - 9:00-9:07 AM: Placing orders
 - 9:07-9:11 AM: Matching
 - 9:11-9:15 AM: Stabilization
@@ -310,6 +320,7 @@ Book value reflects the **total value of company's assets** that shareholders wo
 A **Global Depository Receipt (GDR)** is a certificate issued by a depository bank which purchases shares of foreign companies and creates a security on local exchange backed by those shares.
 
 **Characteristics:**
+
 - Global equivalent of American Depositary Receipts (ADR)
 - Represents ownership of underlying number of shares of foreign company
 - Commonly used to invest in companies from developing/emerging markets
@@ -329,6 +340,7 @@ A **Global Depository Receipt (GDR)** is a certificate issued by a depository ba
 The Contract for Difference (CFD) offers European traders and investors opportunity to profit from price movement **without owning the underlying asset**.
 
 **Characteristics:**
+
 - Calculated by asset's movement between trade entry and exit
 - Computes only price change without consideration of asset's underlying value
 - Accomplished through contract between client and broker
@@ -341,6 +353,7 @@ The Contract for Difference (CFD) offers European traders and investors opportun
 A binary option is a financial product where buyer receives payout or loses investment based on if option expires in the money.
 
 **Characteristics:**
+
 - Depends on outcome of "yes or no" proposition (hence "binary")
 - Has expiry date and/or time
 - At expiry, price of underlying asset must be on correct side of strike price (based on trade taken) for trader to make profit
@@ -350,16 +363,19 @@ A binary option is a financial product where buyer receives payout or loses inve
 A currency carry trade is a strategy where **high-yielding currency funds the trade with low-yielding currency**.
 
 **Characteristics:**
+
 - Trader attempts to capture difference between rates
 - Can be substantial depending on leverage used
 - One of most popular trading strategies in forex market
 
 **Popular carry trades:**
+
 - Australian dollar/Japanese yen
 - New Zealand dollar/Japanese yen
 - (High interest rate spreads)
 
 **Process:**
+
 1. Find currency offering high yield
 2. Find currency offering low yield
 3. Borrow low-yield currency
@@ -395,11 +411,13 @@ A currency carry trade is a strategy where **high-yielding currency funds the tr
 A New Fund Offer (NFO) refers to introductory offer of a scheme by an asset management company.
 
 **Characteristics:**
+
 - NFO raised when fund is launched to raise capital for purchasing securities
 - Can subscribe only within **limited time period**
 - Functions on **first-come-first-serve basis**
 
 **Types:**
+
 1. **Open-ended funds:** Officially launched after NFO ends. Investors can enter/exit anytime after launch.
 2. **Close-ended funds:** Does not allow entry/exit after NFO period until maturity (typically 3-4 years). May trade on stock market but liquidity tends to be low.
 
@@ -410,6 +428,7 @@ A New Fund Offer (NFO) refers to introductory offer of a scheme by an asset mana
 SAFE notes are simpler alternative to convertible notes, created in 2013 by Y Combinator.
 
 **Characteristics:**
+
 - Allow startups to structure seed investments **without interest rates or maturity dates**
 - Short five-page documents
 - **Valuation caps** are only negotiable detail
@@ -427,6 +446,7 @@ SAFE notes are simpler alternative to convertible notes, created in 2013 by Y Co
 - Crucial for entrepreneurs to attract investors (VCs with capital to fund enterprises)
 
 **Should include:**
+
 - Company valuation
 - Investment amount
 - Percentage stake
@@ -447,7 +467,7 @@ How should an investor deal with possibility of stock market crash? Three availa
 
 ## Other Important Terms
 
-**Absolute Return:** 
+**Absolute Return:**
 
 **The National Association of Software & Services Company (NASSCOM):** Industry association for Indian IT and BPM industry
 

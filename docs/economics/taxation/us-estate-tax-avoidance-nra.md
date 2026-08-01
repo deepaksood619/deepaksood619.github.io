@@ -39,14 +39,17 @@ Ireland has a favorable tax treaty with the US:
 To get heavy exposure to Google and Amazon, buy:
 
 **S&P 500 Trackers (Irish):**
+
 - **CSPX** - iShares Core S&P 500 UCITS ETF (Acc)
 - **VUAA** - Vanguard S&P 500 UCITS ETF (Acc)
 
 **NASDAQ-100 Trackers (Irish):**
+
 - **CNDX** - iShares NASDAQ 100 UCITS ETF (Acc)
 - **EQQQ** - Invesco EQQQ NASDAQ-100 UCITS ETF
 
 **Global All-World (Irish):**
+
 - **VWRA** - Vanguard FTSE All-World UCITS ETF (Acc)
 
 #### What to Look For
@@ -90,6 +93,7 @@ Because the foreign company is a **non-US-situs asset**, it falls outside the sc
 - **Worthwhile Only If:** Portfolio exceeds several million dollars where tax savings justify administrative costs
 
 **Typical Setup Costs:**
+
 - Initial formation: $5,000 - $20,000
 - Annual maintenance: $3,000 - $10,000
 - Accounting/compliance: $5,000 - $15,000/year
@@ -133,6 +137,7 @@ If the bank backing the swap goes bankrupt, the fund could suffer losses.
 **Risk Mitigation:** Regulations strictly limit this risk by requiring the bank to post collateral (typically 90-110% of swap value).
 
 **When to Consider:**
+
 - You want maximum dividend efficiency
 - You understand and accept counterparty risk
 - You're comfortable with synthetic replication mechanics
@@ -155,15 +160,18 @@ When you search for Google (Alphabet) in Interactive Brokers (IBKR), you'll see 
 **IBKR Search Results:**
 
 ❌ **US-Domiciled Direct Stocks (AVOID):**
+
 - **GOOG ALPHABET INC-CL C (NASDAQ)** - Direct US shares (Class C, no voting). Exposes you to US estate tax.
 - **GOOGL ALPHABET INC-CL A (NASDAQ)** - Direct US shares (Class A, with voting). Exposes you to US estate tax.
 - **U GOOGM ALPHABET INC DEP SHS (NASDAQ)** - Fractional depository shares. Exposes you to US estate tax.
 
 ❌ **International Direct Listings (AVOID):**
+
 - **GOOG ALPHABET INC-CL C (MEXI)** - Trading on Mexican stock exchange. Still fundamentally a US company; may trigger US estate tax.
 - **GOOG ALPHABET INC - CDR (TSE)** - Canadian Depositary Receipt. Underlying asset is US-situs; does not shield from US estate tax.
 
 ✅ **Irish-Domiciled Option (SAFE FROM ESTATE TAX):**
+
 - **GOOG LS 1X GOOG (LSEETF)** - Leverage Shares 1x Alphabet Tracker ETP
   - **Domicile:** Ireland
   - **Exchange:** London Stock Exchange (LSE)
@@ -215,12 +223,14 @@ Larry Page and Sergey Brin hold super-voting Class B shares (10 votes each), eff
 ### Interactive Brokers (IBKR) - Recommended
 
 **Why:**
+
 - Direct access to LSE (London Stock Exchange)
 - Low fees ($1 per trade for stocks, tiered for larger volumes)
 - USD currency accounts (no FX conversion for USD-denominated ETFs)
 - Full access to Irish-domiciled UCITS ETFs
 
 **How to Access:**
+
 1. Open IBKR account (available for Indian residents via IBKR India)
 2. Fund via LRS (Liberalised Remittance Scheme - up to $250,000/year)
 3. Search for ETF ticker (VWRA, CNDX, CSPX, etc.)
@@ -230,11 +240,13 @@ Larry Page and Sergey Brin hold super-voting Class B shares (10 votes each), eff
 ### Alternative Platforms
 
 **Vested Finance:**
+
 - Offers some Irish-domiciled ETFs
 - Higher fees than IBKR
 - Simpler interface for beginners
 
 **INDmoney:**
+
 - Expanding Irish ETF offerings
 - Commission-free for certain ETFs
 - Limited selection compared to IBKR
@@ -251,6 +263,7 @@ Even though Irish-domiciled ETFs avoid US estate tax, you must **still report** 
 **Schedule:** Foreign Assets (FA)
 
 **What to Report:**
+
 - Name of ETF (e.g., VWRA, CNDX)
 - ISIN code
 - Holding value (in INR, using SBI TT Buying Rate)
@@ -260,15 +273,18 @@ Even though Irish-domiciled ETFs avoid US estate tax, you must **still report** 
 ### Capital Gains Tax (India)
 
 **Long-Term Capital Gains (LTCG):**
+
 - **Holding Period:** `>24` months
 - **Tax Rate:** 12.5% (as of FY 2025-26)
 - No indexation benefit for foreign stocks/ETFs
 
 **Short-Term Capital Gains (STCG):**
-- **Holding Period:** `<24` months  
+
+- **Holding Period:** `<24` months
 - **Tax Rate:** Per your income tax slab
 
 **Dividend Taxation:**
+
 - Accumulating ETFs (like VWRA) reinvest dividends internally
 - No annual dividend income to report in India
 - Tax only on capital gains when you sell
@@ -278,6 +294,7 @@ Even though Irish-domiciled ETFs avoid US estate tax, you must **still report** 
 ### Mistake 1: Buying GBP-Denominated Versions
 
 Many Irish ETFs have **multiple currency versions**:
+
 - **VWRA** (USD) ✅
 - **VWRP** (GBP) ❌ (unless you hold Pounds)
 
@@ -286,11 +303,13 @@ Many Irish ETFs have **multiple currency versions**:
 ### Mistake 2: Buying Distributing Instead of Accumulating
 
 **Distributing ETFs** pay out dividends as cash:
+
 - Creates taxable event in India every year
 - Triggers foreign dividend reporting complexity
 - Loses compounding efficiency
 
 **Accumulating ETFs** reinvest dividends internally:
+
 - No annual tax event in India
 - Better compounding over time
 - Simpler tax reporting
@@ -300,6 +319,7 @@ Many Irish ETFs have **multiple currency versions**:
 ### Mistake 3: Not Verifying Domicile
 
 Some ETFs **trade** on LSE but are **domiciled** in USA:
+
 - Check domicile in fund factsheet
 - Must say "Ireland" or "Luxembourg"
 - Anything domiciled in "USA" exposes you to estate tax
@@ -307,6 +327,7 @@ Some ETFs **trade** on LSE but are **domiciled** in USA:
 ### Mistake 4: Assuming All Single-Stock Products Are Safe
 
 Single-stock Irish ETPs (like LS 1X GOOG) **do** avoid estate tax, but:
+
 - Very low liquidity (wide spreads)
 - Higher expense ratios for single stock exposure
 - Counterparty risk (debt structure)
@@ -342,11 +363,13 @@ Single-stock Irish ETPs (like LS 1X GOOG) **do** avoid estate tax, but:
 ### Combination Approach
 
 **For `>M` Portfolios:**
+
 1. **70% Irish ETFs** (VWRA, CNDX) - Core global/tech exposure
 2. **20% Foreign Holding Company** - Individual stock picks (Google, Amazon, Tesla direct)
 3. **10% Cash** - Opportunistic deployment
 
 **Rationale:**
+
 - Irish ETFs for passive core
 - Holding company for active stock selection
 - Maintains estate tax protection on both
@@ -354,6 +377,7 @@ Single-stock Irish ETPs (like LS 1X GOOG) **do** avoid estate tax, but:
 ### Layered Estate Planning
 
 **Beyond ETF Domicile:**
+
 1. **Beneficiary Designation:** Name beneficiaries on brokerage accounts
 2. **International Will:** Specify asset distribution across countries
 3. **Life Insurance:** Domiciled outside US (covers estate tax if triggered)
@@ -382,6 +406,7 @@ Single-stock Irish ETPs (like LS 1X GOOG) **do** avoid estate tax, but:
 This content is for educational purposes only. US estate tax law is complex and subject to change. Tax treaties, domicile rules, and estate planning strategies vary by individual circumstances.
 
 **Consult qualified professionals:**
+
 - U.S. estate planning attorney (for estate tax matters)
 - International tax advisor (for cross-border taxation)
 - Chartered Accountant (for Indian tax compliance)

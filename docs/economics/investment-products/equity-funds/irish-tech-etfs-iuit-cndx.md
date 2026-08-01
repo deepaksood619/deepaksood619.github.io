@@ -31,7 +31,7 @@ While VGT tracks a broader total-market US tech index and IUIT strictly holds te
 
 **iShares NASDAQ 100 UCITS ETF (CNDX)**
 
-- **LSE Ticker:** CNDX  
+- **LSE Ticker:** CNDX
 - **Index Tracked:** NASDAQ-100 (exact same as QQQM)
 - **Expense Ratio (TER):** 0.30%
 - **Dividend Policy:** Accumulating
@@ -60,7 +60,7 @@ These targeted LSE ETFs maintain perfect consistency with the VWRA (global core)
 
 By utilizing Irish-domiciled UCITS ETFs, you benefit from:
 
-1. **Reduced Dividend Withholding Tax:** 
+1. **Reduced Dividend Withholding Tax:**
    - US-domiciled ETFs: 30% dividend withholding for non-resident aliens
    - Irish-domiciled ETFs: 15% dividend withholding (via US-Ireland tax treaty)
    - **Savings:** 50% reduction in dividend drag
@@ -84,7 +84,7 @@ The decision comes down to **concentration risk** vs. **sector conviction**.
 - **S&P 500 Information Technology (IUIT proxy):** P/E ratio ~33.58
   - Down slightly from 1-year average (37.45)
   - Still historically high: ~1.9 standard deviations above modern-era average
-  
+
 - **NASDAQ 100 (CNDX proxy):** Trailing P/E ratio 35.24
   - Heavily driven by "Magnificent Seven" stocks
   - Backed by real earnings and cash flows (unlike dot-com bubble of 1999)
@@ -136,11 +136,13 @@ If you are investing only 1% of your total portfolio:
 ### Decision Framework
 
 **Choose CNDX/IUIT (1% allocation) if:**
+
 - You have high conviction in US tech outperformance
 - You want tactical tilt without major portfolio risk
 - You're comfortable with active monitoring
 
 **Choose VWRA (add 1% to existing) if:**
+
 - You prefer hands-off, set-and-forget approach
 - You value simplicity over tactical positioning
 - You trust market-cap weighting over sector bets

@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/readme
 title: Market Mechanics
 description: Comprehensive guide to market mechanics including market structure, technical analysis, fundamental valuation, and trading derivatives.
 created: 2023-03-05
-updated: 2026-07-29
+updated: 2026-08-01
 ---
 
 ## Market Structure
@@ -39,4 +39,3 @@ updated: 2026-07-29
 ## Related Topics
 
 - [Company Analysis](economics/company-analysis/readme.md) - Individual company fundamental and technical analysis
-- [Taxation](economics/taxation/capital-gains-equity.md) - Tax implications of equity trading and investing

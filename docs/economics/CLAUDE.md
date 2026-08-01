@@ -3,7 +3,7 @@ slug: /economics/CLAUDE
 title: Economics & Finance Knowledge Base
 description: Explore our LLM-maintained Economics & Finance Knowledge Base for in-depth market research, financial concepts, and investment intelligence.
 created: 2026-06-09
-updated: 2026-06-22
+updated: 2026-08-01
 ---
 
 **Inherits:** Obsidian CLI reference and markdown formatting rules from [docs/CLAUDE.md](CLAUDE.md)
@@ -170,8 +170,8 @@ Periodically verify: stale content (`>6` months for regulatory, `>12` months for
 
 **CRITICAL:** Use standard markdown links, NOT Obsidian wikilinks.
 
-❌ Wrong: `[[capital-gains-tax]]` (breaks Docusaurus)
-✅ Correct: `[Capital Gains Tax](economics/taxation/capital-gains-equity.md)`
+❌ Wrong: `[[charting-systems]]` (breaks Docusaurus)
+✅ Correct: `[Trading Systems](economics/learning-resources/charting-systems.md)`
 
 **Link Path Requirements:**
 
