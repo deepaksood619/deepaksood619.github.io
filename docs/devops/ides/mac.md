@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-07-31
+updated: 2026-08-02
 ---
 ## Shortcuts
 
@@ -125,12 +125,12 @@ Open two instance of same application - **open -n MQTT.fx.app**
 			- echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.profile
 			- eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 - Add zsh - details below
-- **Add docker**
+- **Add docker desktop for mac**
 - ~~Add Anaconda~~
 - ~~Irvue~~
 - ~~Onenote~~
 - Obsidian
-- **VSCode**
+- **VSCode / Visual Studio Code**
 
    Open the Command Palette(⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
@@ -292,12 +292,15 @@ brew services cleanup
 
 ### brew install
 
+- **brew install pygments**
+- **brew install pre-commit**
+- **brew install awscki**
 - ~~tmux~~
 - tldr
 - watch
-- **kubectl**
-- **helm**
-- **kubectx**
+- kubectl
+- helm
+- kubectx
 - tree (directory tree structure)
 - mysql-client / mysql@5.7
 - bat
@@ -305,12 +308,10 @@ brew services cleanup
 - ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
 - [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 16
 - ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
-- **awscli**
-- **python3**
+- python3
 - moreutils
 - thefuck - https://github.com/nvbn/thefuck
-- **tldr -** https://tldr.sh https://github.com/tldr-pages/tldr
-- **brew install pre-commit**
+- tldr - https://tldr.sh https://github.com/tldr-pages/tldr
 - rename
 - maccy
 
@@ -341,6 +342,7 @@ brew services cleanup
 brew install hstr
 
 hstr --show-configuration >> ~/.zshrc
+
 vim ~/.zshrc
 export HSTR_CONFIG=hicolor,raw-history-view
 
@@ -389,6 +391,9 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 	- touch id
 	- Keyboard - Delay until repeat - short
 		- Turn keyboard backlight off after inactivity - After 30 seconds
+		- Text Input - to bring tilde instead of rupee symbo
+			- Change to ABC
+			- Remove ABC - India
 	- Dock settings - Turn Hiding On
 	- Default web browser - Google Chrome
 	- Show Widgets
@@ -582,6 +587,8 @@ file_decrypt() {
     echo "Success: Decrypted to ${1}.mdenc and removed the encrypted vault."
 }
 ```
+
+`brew install pygments`
 
 #### Alias
 

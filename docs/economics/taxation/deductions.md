@@ -3,7 +3,7 @@ slug: /economics/taxation/deductions
 title: Deductions
 description: Explore the changes in income tax deductions from the IT Act 1961 to the IT Act 2025, including key exemptions and their new sections.
 created: 2025-02-05
-updated: 2026-07-25
+updated: 2026-08-01
 ---
 ## Income Tax Act 2025 - Section Changes
 
@@ -82,7 +82,11 @@ Mapping of old sections (IT Act 1961) to new sections (IT Act 2025)
 ## Deduction U/S 10 - HRA
 
 - House Rent - 8300 * 12 = 99600 (PAN not required)
-- Parents can claim property taxes paid by them and also claim a 30% standard deduction from this rental income.
+- Owner can claim property taxes paid by them and also claim a 30% standard deduction from this rental income.
+	- **The New Rate:** You only need to deduct **2% TDS** (down from the older 5% rate).
+	- Senior citizens don't have to pay quarterly advance tax on rental income if they don't have any other business or professional income
+	- **No Interest/Penalties:** Senior citizens doesn't have to pay Advance Tax, he will not face any of the heavy 1% monthly interest penalties (under Sections 234B or 234C) for missing quarterly payments.
+	- **When he pays:** Senior citizens needs to calculate his total tax liability when he files his Income Tax Return (ITR) after the financial year ends (typically before July 31st) and pay the balance as "Self-Assessment Tax" at that time.
 - If they are more than 60 years old, they will also enjoy a higher minimum income exemption limit (Rs.3 lakh for those who have aged above 60 years old and Rs.5 lakh for those who are aged above 80 years old).
 - Individuals paying rent but not receiving house rent allowance can claim a deduction under Section 80GG. Also, the individual, spouse or children should not own a house property in the place of employment, business or location where the individual ordinarily resides for claiming this deduction.
 
