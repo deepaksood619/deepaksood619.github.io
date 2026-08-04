@@ -3,7 +3,7 @@ slug: /economics/company-analysis/readme
 title: Company Analysis
 description: Discover comprehensive company analyses, sector reports, and investment frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
 created: 2026-06-03
-updated: 2026-07-28
+updated: 2026-08-04
 ---
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 
@@ -69,14 +69,16 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ### Ather Energy Limited
 
-- [Ather Energy - Fundamental Analysis (June 3, 2026)](economics/company-analysis/companies/energy/ather-energy-fundamental.md)
+- [Ather Energy - Fundamental Analysis (Updated August 4, 2026)](economics/company-analysis/companies/energy/ather-energy-fundamental.md)
   - **Type:** Fundamental Analysis
-  - **Score:** 4.5/10 ⭐⭐ (High Risk)
-  - **Recommendation:** Speculative Buy (Only for Risk-Tolerant Investors)
-  - **Key Highlights:** High-growth EV manufacturer (63% YoY revenue growth), OPM improving rapidly (-26% to -11% in 1 year), operational breakeven in sight (Q4 FY26: -6% OPM). **Major Concerns:** Still loss-making (Rs. 517 Cr loss FY26), expensive valuation (10.7x P/S, stock up 205% in 1 year), intense competition (Ola, TVS, Bajaj), continuous dilution risk, promoter holding 40.76% (below ideal).
-  - **Risk Level:** Very High - Suitable only for `<5%` portfolio allocation
-  - **Data Date:** June 3, 2026, 2:30 PM IST (Price: Rs. 1,028, Market Cap: Rs. 39,366 Cr)
-  - **Next Update:** After Q1 FY27 earnings (July-August 2026) or operational breakeven announcement
+  - **Score:** 5.5/10 ⭐⭐⭐ (High Risk, upgraded from 4.5/10)
+  - **Recommendation:** Hold / Accumulate on Dips (upgraded from Speculative Buy; do not chase the rally)
+  - **Target Price:** Rs. 1,714 (Nomura) — only ~14% upside from current Rs. 1,500 (most of the 12-month brokerage upside was captured in the Aug 4 rally)
+  - **Key Highlights:** Q1 FY27 (reported Aug 3, 2026) delivered first-ever positive EBITDA, revenue +89% YoY, net loss -71% YoY to Rs. 51 Cr — stock rallied 18% to an all-time high of Rs. 1,500 (market cap Rs. 57,254 Cr) on Aug 4, 2026. Promoter pledge confirmed at 0% (resolves prior red flag); Hero MotoCorp raising stake to 30.68% and founders co-investing Rs. 20 Cr each (Jul 2026) signal strong conviction. **Caution:** Price/Sales expanded to ~13.5-15.6x (from 10.7x) — valuation has run ahead of fundamentals; stock ~60% above 50-DMA, likely overbought post-gap.
+  - **Risk Level:** High - Suitable for `<5-7%` portfolio allocation
+  - **Data Date:** August 4, 2026 (Price: Rs. 1,500, Market Cap: Rs. 57,254 Cr)
+  - **Next Update:** After EL platform launch (Aug 29, 2026) or Q2 FY27 earnings
+- [ather-energy-deep-research-stock-analysis](economics/company-analysis/companies/energy/ather-energy-deep-research-stock-analysis.md)
 
 ### Suzlon Energy Limited
 
@@ -151,6 +153,80 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 25, 2026, 2:18 PM IST (Price: Rs. 40,580, Market Cap: Rs. 1,19,902 Cr)
   - **Next Update:** After Q1 FY27 earnings (July 2026) or if stock corrects to Rs. 36,000 or breaks out above Rs. 43,000
 
+### InterGlobe Aviation Limited (IndiGo)
+
+- [IndiGo (InterGlobe Aviation) - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/aviation/indigo-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:INDIGO / BSE:539448
+  - **Score:** 6.1/10 ⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Hold (Accumulate on sharp dips)
+  - **Key Highlights:** India's dominant airline (record ~66% domestic market share, 441 aircraft, 141 destinations), ~1,000 aircraft on order incl. 30 firm A350-900 wide-bodies targeting 40% international capacity. **Concerns:** FY26 swung to a net loss (Rs. 2,394 Cr) and Q1 FY27 posted a further Rs. 238 Cr loss, both driven by fuel/forex, not demand; promoter holding declining (43.54% → 41.57%) amid Gangwal's ongoing planned exit and a possible InterGlobe Enterprises block sale. Very strong net cash position (~Rs. 41,940 Cr) offsets earnings volatility.
+  - **Data Date:** August 2-3, 2026 (Price: Rs. 5,171, Market Cap: ~Rs. 1,92,753 Cr)
+  - **Next Update:** After Q2 FY27 earnings (expected late October 2026) or confirmation of an InterGlobe Enterprises stake sale
+
+### Polycab India Limited
+
+- [Polycab India - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/infra/polycab-india-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:POLYCAB / BSE:542652
+  - **Score:** 7.0/10 ⭐⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Hold / Accumulate on Dips
+  - **Target Price:** Rs. 9,300-9,700 (~5-9% upside; brokerage consensus avg. ~Rs. 9,315)
+  - **Key Highlights:**
+    - 🟢 **Undisputed #1 in Wires & Cables:** ~26-27% organized market share, ~2x scale of nearest competitor
+    - 🟢 **Best-in-Class Returns:** ROE ~21-23%, ROCE ~30-41%, revenue growth 29-39% YoY in the most recent quarter
+    - 🟢 **Clean Balance Sheet:** Net cash position (~Rs. 4,190 Cr), 61.5% promoter holding with 0% pledge
+    - 🟢 **Project Spring Roadmap:** Targets Rs. 40,000-50,000 Cr consolidated revenue by FY2030, self-funded via internal accruals
+    - ⚠️ **Rich Valuation:** ~47-52x PE, ~11x P/B — priced for years of flawless execution, little margin of safety
+    - ⚠️ **Data Note:** Screener.in direct fetch was unavailable this session; figures triangulated from multiple public sources — verify exact numbers before acting
+  - **Data Date:** August 3, 2026 (Price: ~Rs. 8,885, Market Cap: ~Rs. 1,33,000-1,38,000 Cr)
+  - **Next Update:** After Q2 FY27 earnings (expected October-November 2026)
+
+### Bharti Airtel Limited
+
+- [Bharti Airtel - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/telecom/bharti-airtel-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:BHARTIARTL / BSE:532454
+  - **Score:** 6.8/10 ⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Hold (not a fresh buy at current valuation)
+  - **Target Price:** Rs. 1,900-2,100 (analyst consensus, Buy rating from most brokerages)
+  - **Key Highlights:** Highest-quality listed pure-play in India's consolidating telecom duopoly (Jio, Airtel, recovering Vodafone Idea); ARPU rising (Rs. 257 Q4 FY26), ROE 23.12%, multi-year deleveraging (D/E 153%→87%), promoter buying (Bharti Telecom bought 1.63% from Singtel's Pastel Ltd). **Concerns:** Rich valuation (PE ~44.6x, P/B ~6.7x, `>`60% premium to thin peer set), Q1 FY27 results due August 4, 2026 (day after this analysis).
+  - **Data Date:** August 3, 2026 (Price: Rs. 1,963.90, Market Cap: ~Rs. 12,30,536 Cr)
+  - **Next Update:** After Q1 FY27 results (August 4, 2026)
+
+### Bajaj Finance Limited
+
+- [Bajaj Finance - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/financials/bajaj-finance-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:BAJFINANCE
+  - **Score:** 7.3/10 ⭐⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Hold / Accumulate on Dips (Medium Conviction)
+  - **Target Price:** Rs. 1,200-1,300 (~4-13% upside; PE-based scenario estimate, not a scraped analyst consensus)
+  - **Key Highlights:**
+    - 🟢 **India's Largest Private NBFC:** ~29-34% net profit CAGR over 5 years, diversified consumer/SME/commercial book
+    - 🟢 **Clean Governance:** Promoter holding stable ~54.7%, zero pledge, DII buying offsetting recent FII selling
+    - ⚠️ **Richest Valuation in Peer Set:** 34.9x PE / 6.28x P/B — highest among Cholamandalam (27.8x/5.24x), Shriram Finance (22.4x/3.09x), HDB Financial (26.1x); most expensive on quality-adjusted PE/ROE basis
+    - ⚠️ **Asset Quality Ticking Up:** Gross NPA rose from 0.85% (Mar 2024) to a 1.24% peak (Sep 2025), easing to 1.01% (Mar 2026)
+  - **Data Date:** August 3, 2026 (Price: Rs. 1,150, Market Cap: Rs. 7,16,109 Cr)
+  - **Next Update:** After Q2 FY27 earnings (October-November 2026) or a material shift in Gross NPA trend
+
+### Bajaj Finserv Limited
+
+- [Bajaj Finserv - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/financials/bajaj-finserv-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:BAJAJFINSV / BSE:532978
+  - **Score:** 6.9/10 ⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Buy (Moderate Conviction)
+  - **Target Price:** Rs. 2,300-2,500 (~10-20% upside; brokerage SoTP range Rs. 1,900-2,500)
+  - **Key Highlights:**
+    - 🟢 **Owns Two Category Leaders:** Bajaj Finance (lending, AUM Rs. 5,46,944 Cr +24% YoY, Gross NPA 0.96%) + Bajaj Allianz Insurance
+    - 🟢 **Landmark Structural Catalyst:** Completed ~Rs. 24,180 Cr Allianz buyout (Jan-Mar 2026), ending 24-year JV — now ~100% insurance ownership vs. ~74-77% before
+    - 🟢 **Insurance Growth Surge:** General insurance GDPI +193% YoY (FY26 YTD), market share up 18 bps to 7.9%
+    - ⚠️ **Holdco EPS Drag:** Owner-PAT growth (~12%) lags consolidated income growth (~19%) and Bajaj Finance's own PAT growth (~27%) due to minority-interest treatment — should narrow as insurance consolidation flows through
+    - ⚠️ **Data Quality Caveat:** PE ratio, ROE, and FII/DII holding figures varied significantly across public sources this session — verify on Screener.in
+  - **Data Date:** August 3, 2026 (Price: ~Rs. 2,090, Market Cap: ~Rs. 3,32,000 Cr)
+  - **Next Update:** After Q2 FY27 results (expected late October-early November 2026)
+
 ### Others
 
 - [zaggle-comprehensive](economics/company-analysis/companies/technology/zaggle-comprehensive.md)
@@ -213,6 +289,25 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Next Review:** August 30, 2026 (post Q2 earnings)
   - **Comparison:** **Best semiconductor investment** - NVDA `>` MU `>` MRVL. Higher quality moat than Micron, vastly superior to Marvell.
 
+### Taiwan Semiconductor Manufacturing Company (TSMC)
+
+- [TSMC - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/semiconductors/tsmc-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NYSE:TSM / TWSE:2330
+  - **Score:** 7.8/10 ⭐⭐⭐⭐ (Medium-High Risk)
+  - **Recommendation:** Buy (High Conviction)
+  - **Target Price:** $540 (~34% upside, analyst consensus)
+  - **Key Highlights:**
+    - 🟢 **Dominant Foundry Monopoly:** 72.3% pure-play foundry share vs. Samsung's 6.5% - 11x scale gap over #2 player
+    - 🟢 **AI Supercycle:** Q2 2026 revenue +36.0% YoY, net income +77.4% YoY, net margin expanded to 55.6%
+    - 🟢 **Sold-Out Capacity:** 2nm and CoWoS advanced packaging fully booked through 2027; 5-10% price hikes pushed through to Apple/Nvidia/Qualcomm
+    - 🟢 **Fortress Balance Sheet:** ROE 39.97%, ROIC 54.61%, Debt/Equity just 0.15x
+    - ⚠️ **Valuation:** Trailing P/E 27.3x is 59% above historical average; near 52-week high
+    - 🔴 **Key Risk:** Taiwan-China geopolitical tail risk - `>90%` of leading-edge capacity still concentrated in Taiwan
+  - **Position Sizing:** 3-6% of portfolio (capped by geopolitical concentration risk, not business quality)
+  - **Data Date:** August 3, 2026 (Price: $402.12, Market Cap: $1.90 Trillion)
+  - **Next Update:** After Q3 2026 earnings (expected mid-October 2026)
+
 ### Micron Technology Inc
 
 - [Micron Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/micron-technology-comprehensive.md)
@@ -270,12 +365,148 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 9, 2026 (Price: $299.30, Market Cap: $262.05B)
   - **Next Update:** August 27, 2026 (Q2 FY2027 earnings) - critical to assess profitability recovery
 
+### Netflix Inc
+
+- [Netflix - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/technology/netflix-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NASDAQ:NFLX
+  - **Score:** 7.3/10 ⭐⭐⭐⭐ (Medium-High Conviction)
+  - **Recommendation:** Buy (Medium-High Conviction)
+  - **Target Price:** $94-100 (analyst consensus $94.33, +31.5% upside)
+  - **Key Highlights:**
+    - 🟢 **#1 Global Streaming Leader:** ~325M subscribers, ahead of Amazon Prime Video (~200M) and Disney+ (~131.6M)
+    - 🟢 **Margin Expansion:** Operating margin 17.82% (FY22) → 29.49% (FY25); FCF margin 17.75% → 23.06% (TTM)
+    - 🟢 **Strong Cash Generation:** FCF $11.15B TTM, growing 31% YoY; deleveraging balance sheet (D/E 0.71 → 0.47)
+    - 🟢 **Valuation Reset:** Stock down ~43% from 52-week high; PE compressed to 22.6x (TTM), PEG 1.04
+    - ⚠️ **Decelerating Growth:** Revenue growth slowed 17.6% → 16.2% → 13.4% over last three quarters
+    - ⚠️ **Rising Competition:** Combined Paramount-Warner Bros. Discovery entity (HBO Max + Paramount+ + Pluto) is a materially stronger single rival
+    - ⚠️ **Leadership Transition:** Reed Hastings stepped back as chairman; reduced engagement-data disclosure cadence dented confidence
+  - **Position Sizing:** 3-5% of portfolio (mega-cap growth, moderate allocation given maturing market)
+  - **Data Date:** August 3, 2026 (Price: $71.71, Market Cap: $298.60B)
+  - **Next Update:** After Q3 2026 earnings (expected October 2026)
+
 ### Others
 
 - [amazon-comprehensive-analysis](economics/company-analysis/companies/technology/amazon-comprehensive-analysis.md)
 - [microsoft-comprehensive-analysis](economics/company-analysis/companies/technology/microsoft-comprehensive-analysis.md)
 - [qualcomm-comprehensive-analysis](economics/company-analysis/companies/technology/qualcomm-comprehensive-analysis.md)
 - [ibm-comprehensive-analysis](economics/company-analysis/companies/technology/ibm-comprehensive-analysis.md)
+
+## Other Global Stocks
+
+### ASML Holding N.V
+
+- [ASML Holding - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/semiconductors/asml-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NASDAQ:ASML / AMS:ASML
+  - **Score:** 7.8/10 ⭐⭐⭐⭐ (High Business-Quality Conviction, Valuation Caution)
+  - **Recommendation:** Hold (existing) / Accumulate on Dips (new capital)
+  - **Target Price:** ~$2,050 (analyst range $1,883-$2,117, ~25-29% upside)
+  - **Key Highlights:**
+    - 🟢 **EUV Monopoly:** Sole global supplier of EUV lithography — the single chokepoint of leading-edge chipmaking; no viable competitor
+    - 🟢 **AI/Memory Supercycle:** FY2026 guidance raised twice to €43-45B (+32-38% YoY); memory revenue guided +75%
+    - 🟢 **Fortress Financials:** ROE 53.94%, FCF €12.25B (FY25, nearly tripled off 2023 trough), net-cash balance sheet
+    - 🔴 **Stretched Valuation:** 52x trailing PE, 71% above historical average, stock up 131%+ in 12 months
+    - ⚠️ **Customer Concentration:** TSMC ~24% of revenue alone, top-10 customers `>`80%
+    - ⚠️ **Geopolitical Risk:** China share of system sales fell 36%→19% (Q4 2025→Q1 2026); proposed US MATCH Act could widen export curbs
+  - **Position Sizing:** 3-6% of portfolio (mega-cap quality compounder, cyclical and richly valued)
+  - **Data Date:** August 3, 2026 (Price: $1,637.68, Market Cap: $633.62B)
+  - **Next Update:** After Q3 2026 earnings (expected mid-October 2026)
+
+### iShares Semiconductor ETF (SOXX)
+
+- [iShares Semiconductor ETF - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/semiconductors/ishares-semiconductor-etf-soxx-fundamental.md)
+  - **Type:** Fundamental Analysis (Sector ETF, not a single company)
+  - **Ticker:** NASDAQ:SOXX
+  - **Score:** 7.2/10 ⭐⭐⭐⭐ (Diversified Sector Quality, Rich Valuation)
+  - **Recommendation:** Hold (existing) / Accumulate on Dips (new capital, DCA)
+  - **Target Price:** N/A (index ETF — no analyst consensus target; see fund's own 52-week range for valuation framing)
+  - **Key Highlights:**
+    - 🟢 **Modified Equal-Weight Design:** Caps NVIDIA at ~8.4% vs. ~18%+ in market-cap-weighted SMH; broader exposure across design, foundry, memory, and equipment
+    - 🟢 **Full Value-Chain Exposure:** Top 10 holdings (60.71%) span AMD, NVIDIA, Micron, Broadcom, Intel, Applied Materials, TSMC, KLA, Lam Research, Texas Instruments
+    - 🟢 **2026 Outperformance:** +86.78% YTD (through June 9, 2026) vs. SMH's +64.11% as the AI rally broadened into equipment names
+    - 🔴 **Rich Valuation:** 47.61x weighted P/E, +112.75% trailing 1-year return — limited margin of safety
+    - ⚠️ **AI-Thesis Concentration:** Top 4 holdings (~33% of fund) all directly tied to the same AI/memory demand narrative; beta 1.81
+    - ⚠️ **Non-Diversifiable Sector Risk:** Semiconductor capex cycles and geopolitical/export-control risk (TSMC, ASML) hit multiple constituents simultaneously
+  - **Position Sizing:** 3-8% of portfolio (sector tilt, not a core holding)
+  - **Data Date:** August 3, 2026 (Price: $503.62, AUM: $44.69B)
+  - **Next Update:** After Q3 2026 earnings from major constituents (mid-October 2026) or next quarterly index rebalance
+
+### BYD Company Limited
+
+- [BYD Company - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/auto/byd-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** HKEX:1211 / SZSE:002594
+  - **Score:** 5.5/10 ⭐⭐⭐ (Medium Conviction)
+  - **Recommendation:** Hold (Medium Conviction)
+  - **Target Price:** HK$90-105 (base case, -4% to +12% from HK$94.15)
+  - **Key Highlights:**
+    - 🟢 **Global BEV Volume Leader:** 2.25M BEV units vs. Tesla's 1.64M in 2025; revenue ($116B) overtook Tesla ($94.8B) for the first time
+    - 🟢 **Overseas Growth Engine:** Overseas units +145% YoY to 1.05M in 2025, reaching ~46% of Q1 2026 mix
+    - 🔴 **Margin Collapse:** Net profit down 19% (FY2025) and a further 55% (Q1 2026) amid an intensifying domestic price war
+    - 🔴 **Free Cash Flow Turned Negative:** FCF swung from +¥36.1B (FY2024) to -¥97.7B (FY2025) as capex outpaced a 55.7% drop in operating cash flow
+    - 🔴 **Leverage Tripled:** Debt-to-equity jumped from 0.20x to 0.55x in a single year
+    - ⚠️ **Berkshire Hathaway Fully Exited:** Sept 2025, after a 17-year, ~3,890% return — timing coincides with the start of the fundamentals' deterioration
+  - **Position Sizing:** 2-4% of portfolio (scale leader, but elevated near-term earnings/cash-flow risk)
+  - **Data Date:** August 3, 2026 (Price: HK$94.15, Market Cap: ~HK$947.34B)
+  - **Next Update:** After H1/Q2 2026 results (expected August 2026)
+
+### Samsung Electronics Co Ltd
+
+- [Samsung Electronics - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/semiconductors/samsung-electronics-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** KRX:005930 / OTC:SSNLF
+  - **Score:** 6.8/10 ⭐⭐⭐ (Medium Conviction, Medium-High Risk)
+  - **Recommendation:** Buy (Accumulate on Weakness)
+  - **Target Price:** KRW 470,000-475,000 (~79-81% upside from KRW 262,500)
+  - **Key Highlights:**
+    - 🟢 **Record AI-Memory Earnings:** Q2 2026 operating profit KRW 89.5T, up ~1,814% YoY, on record DRAM/NAND/HBM demand; ~99.7% of profit from the DS (memory) segment
+    - 🟢 **HBM4 Sold Out:** Nvidia Vera Rubin platform qualification secured alongside SK Hynix and Micron; management guides for memory shortages persisting through 2027-2028
+    - 🟢 **Fortress Balance Sheet:** Debt-to-equity ~2.4% (Dec 2025), near debt-free with active buyback/treasury cancellation program
+    - 🔴 **DX Division's First-Ever Loss:** Mobile/consumer electronics segment posted an operating loss (-KRW 0.8T) in Q2 2026 for the first time since 2011
+    - 🔴 **Foundry Sub-Scale:** Samsung Foundry holds just 6.5-7.2% share vs TSMC's 69.9-72.3%; Taylor, TX fab delayed from 2026 to 2027
+    - ⚠️ **Foreign Ownership at 17-Year Low:** Down to 46.7% despite record earnings — persistent foreign selling is a notable caution signal
+    - ⚠️ **Cyclical Risk:** P/B ~4x its own 3-year average; every prior 25-year memory up-cycle has ended in a 40-60% correction
+  - **Position Sizing:** 3-5% of portfolio (size as a cyclical semiconductor position, not a core long-term holding)
+  - **Data Date:** August 3, 2026 (Price: KRW 262,500, Market Cap: ~KRW 1,669T / ~$1.2 trillion)
+  - **Next Update:** After Q3 2026 earnings (expected late October 2026)
+
+### SK Hynix Inc
+
+- [SK Hynix - Comprehensive Investment Analysis (August 3, 2026)](economics/company-analysis/companies/semiconductors/sk-hynix-comprehensive.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
+  - **Ticker:** KRX:000660 / NASDAQ:SKHY (ADR)
+  - **Score:** 8.0/10 ⭐⭐⭐⭐ (Medium-High Conviction)
+  - **Recommendation:** Buy (Accumulate on Weakness)
+  - **Target Price:** KRW 1,800,000-2,200,000 / ADR $170-200 (15-40% upside)
+  - **Key Highlights:**
+    - 🟢 **HBM Dominance:** ~63.2% HBM market share (2025); UBS forecasts ~70% share of HBM4 for Nvidia's Rubin platform in 2026
+    - 🟢 **Record but Missed:** Q2 2026 revenue +257% YoY, 76% operating margin — record results that still missed elevated analyst estimates, triggering a ~10% selloff
+    - 🟢 **Fortress Balance Sheet:** Net cash position of KRW 69.4T, debt-to-equity down to 7%
+    - ⚠️ **Post-ATH Correction:** Stock down ~47% from its June 2026 all-time high (KRW ~2,987,000) after the earnings-day selloff
+    - ⚠️ **Samsung Recapture:** Slipped to #2 in DRAM (29.1% share) in Q1 2026 after leading in FY2025 (34.8%)
+    - ⚠️ **Data Quality Flag:** Trailing PE conflicts across sources (6.87x vs 16.5x) — treat headline multiples as directional pending independent verification
+  - **Position Sizing:** 3-6% of portfolio
+  - **Data Date:** August 3, 2026 (KRX Price: KRW 1,567,000, ADR: $143.73, Market Cap: ~KRW 1,142T / ~$792B)
+  - **Next Update:** After Q3 2026 earnings (expected late October 2026)
+
+## Market Indices
+
+### KOSPI (Korea Composite Stock Price Index)
+
+- [KOSPI Index - Comprehensive Analysis (August 3, 2026)](economics/company-analysis/companies/indices/kospi-index-comprehensive.md)
+  - **Type:** Comprehensive Analysis (Index-level Fundamental + Technical)
+  - **Ticker:** KRX:KOSPI / KS11
+  - **Score:** 5.0/10 ⭐⭐⭐ (Neutral, High Risk)
+  - **Recommendation:** Hold / Wait for Confirmation (Low-Medium Conviction)
+  - **Key Highlights:**
+    - 🔴 **Extreme Concentration:** Samsung Electronics (~26.04%) + SK Hynix (~20.90%) = ~46.94% combined weight — highest in 16 months; index is effectively a leveraged AI/HBM-memory bet, not a diversified benchmark
+    - 🔴 **Violent Volatility:** All-time high 9,385.59 (Jun 2026) → intraday low 5,500 (Jul 30) → record +17.91% single-day surge (Jul 31) → -5.12% reversal (Aug 3)
+    - ⚠️ **Technical Split Signal:** Below all major moving averages (Strong Sell trend) but RSI ~26 (oversold, bounce risk) — trend and momentum disagree
+    - ⚠️ **Forecast Divergence:** Trading Economics 12-month model ~4,725 (-24%) vs Morgan Stanley overweight call (+36% upside) — unusually wide split
+    - ⚠️ **Data Quality Caveat:** Scraped PE figures conflicted materially across sources (12.3x to 33.52x cited) — verify via KRX/Bloomberg before acting
+  - **Data Date:** August 3, 2026 (Index Level: 6,257.45, -5.12% on the day)
+  - **Next Update:** After the current volatility resolves or after Samsung Electronics/SK Hynix next quarterly results
 
 ## Market Analysis
 

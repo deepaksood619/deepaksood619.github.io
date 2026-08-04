@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-06-25
+updated: 2026-08-04
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -254,6 +254,19 @@ The **KOSPI** and **KOSDAQ** are the two primary stock market indices in Sou
 - **Growth Focus:** It is tech-heavy and dominated by [small-to-medium-sized enterprises (SMEs)](https://myhubs.org/2023/01/04/a-quick-introduction-to-korean-stock-market/), particularly in IT, biotech, and entertainment.
 - **Higher Volatility:** The KOSDAQ generally experiences higher volatility and higher valuation multiples (PER) compared to the more stable KOSPI.
 - **Investor Base:** Historically tilted toward [retail traders](https://www.theinvestor.co.kr/article/10612080) rather than institutional or foreign investors.
+
+### EWY - iShares MSCI South Korea ETF
+
+- Assets - $22.72B
+- Expense Ratio - 0.59%
+- Dividend Yield - 1.27%
+- PE Ratio - 17.12
+- Total Holdings - 91
+- Tracks - MSCI Korea 25-50 Index (market cap-weighted index of large- and mid-cap Korean firms)
+- Launched May 9, 2000; issued by BlackRock
+- The primary US-listed vehicle for direct exposure to the KOSPI (above) — heavily concentrated in the same chaebol names: [Samsung Electronics](economics/company-analysis/companies/semiconductors/samsung-electronics-fundamental.md) (21.33%) and [SK hynix](economics/company-analysis/companies/semiconductors/sk-hynix-comprehensive.md) (20.12%) alone make up over 41% of the fund, with the top 10 holdings (SK Square, KB Financial, Samsung Electro-Mechanics, Shinhan Financial, Hyundai Motor, Hana Financial, Celltrion) at 60.69%
+- See also: [KOSPI Index - Comprehensive Analysis](economics/company-analysis/companies/indices/kospi-index-comprehensive.md)
+- [EWY ETF Stock Price & Overview - Stock Analysis](https://stockanalysis.com/etf/ewy/)
 
 ## Links
 

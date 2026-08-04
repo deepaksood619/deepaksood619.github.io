@@ -3,7 +3,7 @@ slug: /economics/learning-resources/tools-platforms
 title: Tools
 description: Discover essential tools for stock market analysis, including FII/DII data, stock screeners, and AI chat assistance for informed investment decisions.
 created: 2025-01-16
-updated: 2026-06-18
+updated: 2026-08-03
 ---
 - [FII DII Data based on activity on NSE, BSE](https://web.stockedge.com/fii-activity)
 - [Market Monitor \| Tijori Finance](https://www.tijorifinance.com/in/markets?sort_column=1D&sort_type=asc)
@@ -18,6 +18,7 @@ updated: 2026-06-18
 	- MS Excel
 - [Investment Frequency Calculator](https://investcalc.github.io/)
 - [Free ETF Screener - Search and Analyze ETFs](https://stockanalysis.com/etf/screener/)
+- https://valueinvesting.io/
 
 ## Monitoring
 

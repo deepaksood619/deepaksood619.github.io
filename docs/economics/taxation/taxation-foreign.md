@@ -3,7 +3,7 @@ slug: /economics/taxation/taxation-foreign
 title: Taxation - Foreign
 description: Explore foreign taxation, including income tax for freelancers, foreign source income, and reporting foreign investments in this comprehensive guide.
 created: 2025-02-05
-updated: 2026-07-28
+updated: 2026-08-04
 ---
 [Foreign Exchange Explained.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJV-DziYCl4tF4vRedUdxTx3zszD8H1en)
 
@@ -87,6 +87,9 @@ Basically the only issue will come with dividends (this is missed in 26AS and ne
 		- **Report the Reinvestment:** In **Schedule FA** of your ITR-2 or ITR-3, report the closing of your Morgan Stanley MSFT holding, report the foreign cash balance, and declare your newly purchased foreign equity holdings in IBKR.
 - **Transfer to an external broker:** You can transfer the cash proceeds (in USD, assuming the shares are U.S.-listed) to an external brokerage account that offers a wider range of investment options and potentially more favorable fees for US market access, such as Vested or Interactive Brokers. This avoids the need to bring the funds back to India first, which saves on foreign exchange fees and Tax Collection at Source (TCS) on the initial transfer from India.
 - [How to Diversify Foreign ESOP & RSU Holdings Through Vested Platform](https://vestedfinance.com/blog/us-stocks/diversify-your-foreign-esop-rsu-holdings-with-vested/)
+- [FIFO Applicability for Foreign Stocks](https://www.reddit.com/r/IndiaTax/comments/1f5jiud/fifo_applicability_for_foreign_stocks/)
+	- [Foreign RSU/ESPP taxation, is it FIFO or by lot?](https://www.reddit.com/r/IndiaTax/comments/1tshv4p/foreign_rsuespp_taxation_is_it_fifo_or_by_lot/)
+	- [Taxing Foreign Equity in India: RSUs, ESPPs & Overseas Stocks](https://www.reymanwealth.com/post/taxing-foreign-equity-in-india-rsus-espps-overseas-stocks)
 
 ### US Estate Tax
 

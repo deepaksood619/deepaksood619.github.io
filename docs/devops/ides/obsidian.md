@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-07-31
+updated: 2026-08-04
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -38,6 +38,8 @@ Extensions that helps make obsidian better
 - Linter
 - Reading Time
 - [GitHub - SilentVoid13/Templater: A template plugin for obsidian · GitHub](https://github.com/SilentVoid13/Templater) ⭐ 5.1k
+	- Trigger Templater on new file creation
+		- This setting is stored on this device only and must be enabled on each device separately
 	- [Some of My Best Templates · SilentVoid13/Templater · Discussion #1754 · GitHub](https://github.com/SilentVoid13/Templater/discussions/1754) ⭐ 5.1k
 - [GitHub - platers/obsidian-linter: An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility. · GitHub](https://github.com/platers/obsidian-linter) ⭐ 2.0k
 - [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace) ⭐ 94
