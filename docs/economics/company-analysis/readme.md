@@ -385,6 +385,26 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** August 3, 2026 (Price: $71.71, Market Cap: $298.60B)
   - **Next Update:** After Q3 2026 earnings (expected October 2026)
 
+### Interactive Brokers Group, Inc
+
+- [Interactive Brokers - Fundamental Analysis (August 5, 2026)](economics/company-analysis/companies/financials/interactive-brokers-fundamental-ibkr.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NASDAQ:IBKR
+  - **Score:** 6.9/10 ⭐⭐⭐⭐ (Medium-High Conviction)
+  - **Recommendation:** Buy (Medium-High Conviction) — accumulate on pullbacks, not at highs
+  - **Target Price:** No reliable single consensus; base case $78-98 cluster (Morningstar $91, Argus $88), bull case $106-122 range
+  - **Key Highlights:**
+    - 🟢 **Best-in-Class Margins:** 77% pre-tax margin, 7th consecutive quarter `>`70% — industry-leading cost structure
+    - 🟢 **Exceptional Growth at Scale:** DARTs +53% YoY, client equity +40% YoY to $930B, accounts +34% YoY (Q2 2026)
+    - 🟢 **Extraordinary Founder Alignment:** Thomas Peterffy holds ~75% economic/~76% voting control; ~$98B of his ~$101B net worth is tied to IBKR — no meaningful IBKR share sales identified
+    - 🟢 **Global Moat:** 200+ markets, 26 currencies — structural edge vs. domestic-only peers (Robinhood, Schwab)
+    - ⚠️ **Rich Valuation:** 36.7x trailing P/E, 53% above its own 10-year median (24.02x); priced closer to Robinhood (39.58x) than to Schwab (17.67x) despite comparable/better risk quality
+    - 🔴 **Key-Man/Succession Risk:** Founder is 82 with no publicly disclosed succession plan for his controlling stake
+    - 🔴 **Rate Sensitivity:** Net interest income (+23% YoY to `>`$1B/quarter) is exposed to a Fed easing cycle
+  - **Position Sizing:** 3-6% of portfolio (core growth holding; toward the lower end for governance-risk-sensitive investors)
+  - **Data Date:** August 5, 2026 (Price: ~$88, Market Cap: ~$162B)
+  - **Next Update:** After Q3 2026 earnings (expected mid-to-late October 2026)
+
 ### Others
 
 - [amazon-comprehensive-analysis](economics/company-analysis/companies/technology/amazon-comprehensive-analysis.md)

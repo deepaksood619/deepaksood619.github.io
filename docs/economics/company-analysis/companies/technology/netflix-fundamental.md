@@ -3,7 +3,7 @@ slug: /netflix-fundamental
 title: Netflix Inc. - Fundamental Analysis 2026
 description: Netflix fundamental analysis after a 40%+ drawdown - decelerating growth, expanding margins, and a valuation reset worth examining.
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 company: Netflix Inc.
 ticker: NASDAQ:NFLX
 sector: Technology - Streaming & Entertainment
@@ -267,10 +267,6 @@ This combination of improving fundamentals and a compressed valuation multiple s
 ## Related Analyses
 
 No existing streaming/media sector overview or peer comparison file was found in this knowledge base at the time of writing. A future `technology/streaming-media-peer-comparison.md` file (comparing Netflix, Disney, and the combined Paramount-WBD entity) would be a natural addition once those companies are analyzed individually.
-
-## Disclaimer
-
-This analysis is for educational and informational purposes only and does not constitute investment advice. Conduct your own due diligence and consult a qualified financial advisor before making investment decisions.
 
 ## Data Sources
 

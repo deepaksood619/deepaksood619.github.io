@@ -120,6 +120,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 - Calculate intrinsic value using future cash flows
 - Margin of safety: Buy at 30-50% discount to intrinsic value
 - Conservative growth assumptions
+- See [Stock Valuation Methods](economics/market-mechanics/fundamental-valuation/valuation-methods.md) for DCF mechanics plus Trading Multiples, Peter Lynch Fair Value, Earnings Power Value, Dividend Discount Model, and WACC
 
 ### Market Psychology
 

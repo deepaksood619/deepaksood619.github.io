@@ -41,27 +41,32 @@ Direct fetch access to Screener.in / MoneyControl was unavailable during this re
 Polycab India Limited, headquartered in Mumbai, is India's largest integrated manufacturer of wires and cables and a fast-growing player in Fast-Moving Electrical Goods (FMEG — fans, switches, switchgear, LED lighting, solar inverters, pumps). Listed on NSE/BSE since 2019. Operates 28 manufacturing plants across India with an export presence in 55+ countries.
 
 **Business Model:**
+
 - **Revenue Streams:** Wires & Cables (~88% of FY24 revenue) — household and industrial cables/wires; FMEG (~7%) — consumer electrical products; EPC (~5%) — engineering, procurement & construction projects.
 - **Key Products:** 9,600-10,600+ SKUs spanning power cables, control cables, house wires, fans, switchgear, LED lighting, solar solutions.
 - **Distribution:** Extensive dealer/distributor network (India's largest in the category) plus growing retail/e-commerce presence for FMEG.
 
 **Market Position:**
+
 - **Market Rank:** #1 in Wires & Cables — ~26-27% share of the organized domestic market, ~19-20% of the overall ~Rs. 90,000 Cr market. Scale is nearly 2x the second-largest player.
 - **Key Competitors:** KEI Industries, Havells India, RR Kabel, Finolex Cables.
 - **Since IPO (2019):** Gained 8-9 percentage points of organized-segment market share, reflecting consistent share-gain execution.
 
 **Competitive Moat:**
+
 - **Scale & Distribution:** Largest dealer network and manufacturing footprint in the category — a genuine cost and reach advantage over smaller peers.
 - **Brand Trust:** "Polycab" is a household name in cables, aiding pricing power and channel loyalty.
 - **Vertical Integration:** In-house copper rod and PVC compound manufacturing supports margin stability versus non-integrated peers.
 - ⚠️ Wires & Cables is fundamentally a commodity-linked, copper-price-sensitive business — the moat is scale/distribution, not product differentiation.
 
 **Management Quality:**
+
 - **Leadership:** Promoter-led (Jaisinghani family), founded 1996, IPO'd 2019.
 - **Track Record:** Consistent market-share gains since listing; disciplined capital allocation (funding "Project Spring" primarily via internal accruals rather than heavy new debt/equity dilution).
 - **Concerns:** A promoter entity looked to offload up to ~0.81% stake via block deal in September 2025 (with a 90-day lock-in on further sales) — minor, but worth monitoring for repeat occurrences.
 
 **Corporate Governance:**
+
 - **Promoter Holding:** ~61.5% (as of latest available quarter) — comfortably above the "adequate" threshold.
 - **Promoter Pledge:** No pledged shares reported as of March 2026 (0%) — clean.
 - **Institutional Support:** FII ~18.2% (increasing — FII count rose from 753 to 824 holders), DII ~8.0%, Mutual Funds ~5.2%, Retail/Public ~12.3%.
@@ -135,6 +140,7 @@ Polycab India Limited, headquartered in Mumbai, is India's largest integrated ma
 **Shareholding Rating:** 9/10
 
 Key observations:
+
 - Zero promoter pledge with 61.5% holding is a strong governance signal — among the better-positioned large caps on this dimension.
 - Rising FII participation (both % and headcount) suggests improving foreign institutional conviction in the growth story.
 - One flagged item: a promoter entity explored offloading ~0.81% via block deal in September 2025 (90-day lock-in applied) — small in size but worth tracking for repetition, since promoter partial exits (even minor) can be an early signal.
@@ -188,6 +194,7 @@ Key observations:
 Assumes ~20-25% revenue growth sustains through FY27-28 (moderating from the 29-39% recent pace), stable EBITDA margins in the 13-14% band, and the market maintains a premium (though not expanding) multiple given Polycab's category leadership. This aligns with the brokerage consensus average target of ~Rs. 9,315.
 
 **Expected Return Distribution:**
+
 - **Bull Case (~25% probability):** ~18% upside — Rs. 10,500
 - **Base Case (~50% probability):** ~5-9% return — Rs. 9,300-9,700
 - **Bear Case (~25% probability):** ~20-27% downside — Rs. 6,500-7,000
@@ -207,24 +214,29 @@ Assumes ~20-25% revenue growth sustains through FY27-28 (moderating from the 29-
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results (likely reported around October-November 2026) — watch for continuation of the ~30-39% revenue growth trend and FMEG segment momentum.
 
 **Medium-term (3-12 months):**
+
 - Further clarity/updates on Project Spring capacity commissioning and margin trajectory toward the 11-13% W&C EBITDA margin target band.
 - Any brokerage upgrades/downgrades tied to copper price trends, given the stock's sensitivity to margin narrative.
 
 **Long-term (1-3 years):**
+
 - Progress toward the FY2030 Rs. 40,000-50,000 Cr consolidated revenue target under Project Spring.
 - FMEG segment scaling toward its 8-10% EBIT margin target by FY2030, which would meaningfully improve consolidated blended margins and could support valuation re-rating (or at least sustain the current premium).
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. Revenue growth (watch for deceleration below ~20% YoY — the level at which the current premium multiple becomes harder to justify)
 2. EBITDA margin trend in Wires & Cables (target band: 11-13%) and FMEG (target: 8-10% EBIT margin by FY2030)
 3. Promoter holding and pledge status (watch for any renewed stake-sale activity beyond the Sept 2025 block deal)
 
 **Trigger Events:**
+
 - ✅ **Buy more:** Stock corrects to Rs. 7,500-8,000 zone on broad market weakness (not company-specific) while growth trend remains intact; FMEG margins showing clear accretive trend.
 - 🔻 **Reduce/Exit:** Revenue growth decelerates below ~15% YoY for two consecutive quarters; copper cost spike compresses W&C EBITDA margin below ~10%; renewed/larger promoter stake sales.
 

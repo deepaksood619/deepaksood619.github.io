@@ -25,6 +25,7 @@ updated: 2026-08-01
 
 - [Fundamental Analysis Framework](economics/market-mechanics/fundamental-valuation/fundamental-analysis-framework.md) - Financial statement analysis, business model evaluation, and competitive analysis
 - [Valuation Metrics](economics/market-mechanics/fundamental-valuation/valuation-metrics.md) - P/E ratio, EV/EBITDA, DCF, and other valuation multiples
+- [Stock Valuation Methods](economics/market-mechanics/fundamental-valuation/valuation-methods.md) - Discounted Cash Flow, Trading Multiples, Peter Lynch Fair Value, Earnings Power Value, Dividend Discount Model, and WACC
 
 ## Trading & Derivatives
 

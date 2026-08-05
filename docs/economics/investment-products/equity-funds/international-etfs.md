@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-08-04
+updated: 2026-08-05
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -11,10 +11,22 @@ updated: 2026-08-04
 
 | Index                | US Domiciled ETFs | Ireland Domiciled |
 | -------------------- | ----------------- | ----------------- |
-| S&P 500              | VOO               | CSPX              |
+| S&P 500              | VOO               | CSPX / VUAA       |
 | S&P 500 Tech Sector  | VGT               | IUIT              |
 | Nasdaq-100           | QQQM              | CNDX              |
 | FTSE All World Index | VT                | VWRA              |
+
+### CSPX vs. VUAA: The Breakdown
+
+| **Metric**                  | **CSPX (iShares Core S&P 500)** | **VUAA (Vanguard S&P 500)** |
+| --------------------------- | ------------------------------- | --------------------------- |
+| **Provider**                | BlackRock (iShares)             | Vanguard                    |
+| **Total Expense Ratio**     | 0.07%                           | 0.07%                       |
+| **Dividend Policy**         | Accumulating                    | Accumulating                |
+| **Fund Size (AUM)**         | **~$156 Billion** (Massive)     | ~$33 Billion (Very Large)   |
+| **Launch Date**             | 2010                            | 2019                        |
+| **Replication Method**      | Physical (Buys the stocks)      | Physical (Buys the stocks)  |
+| **Current Price per Share** | **~$818**                       | **~$144**                   |
 
 **For detailed analysis of tech-focused Irish ETFs:** See [Irish-Domiciled Tech ETFs - IUIT & CNDX](economics/investment-products/equity-funds/irish-tech-etfs-iuit-cndx.md)
 
@@ -142,6 +154,96 @@ updated: 2026-08-04
 	- [GLD ETF Stock Price & Overview](https://stockanalysis.com/etf/gld/)
 
 [How to Invest in International Mutual Funds the right way? - YouTube](https://www.youtube.com/watch?v=qRT917PvEns)
+
+## Defensive Stocks (Non-Tech)
+
+| **ETF Name & Ticker**                     | **Sector Focus**    | **Why It Hedges Against an AI Bust**                                                                                                                                                                                                 |
+| ----------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **iShares Global Consumer Staples (KXI)** | Consumer Staples    | Focuses on global companies producing food, beverages, and household items. Consumer demand for these basics remains highly stable during tech downturns.                                                                            |
+| **iShares Global Healthcare (IXJ)**       | Healthcare          | Provides broad geographic exposure to pharmaceuticals, biotechnology, and medical devices, all of which operate largely independently of tech hardware/software cycles.                                                              |
+| **iShares Global Utilities (JXI)**        | Utilities           | Invests in global power, water, and gas providers. Utilities feature heavily regulated, fixed revenue streams and offer low volatility when growth stocks crash.                                                                     |
+| **Vanguard Total Intl Stock (VXUS)**      | Broad International | While not strictly a defensive sector fund, it excludes US stocks entirely. Its technology sector weight sits at just **~19.7%**, giving you broad, highly diversified global exposure if you want to bet against US tech dominance. |
+
+| **Metric**                       | **KXI (Global Staples)**   | **IXJ (Global Healthcare)**   | **JXI (Global Utilities)** | **VXUS (Vanguard Total Intl)**    |
+| -------------------------------- | -------------------------- | ----------------------------- | -------------------------- | --------------------------------- |
+| **AUM (Fund Size)**              | ~$1 Billion                | $4.13 Billion                 | $318 Million               | $157.1 Billion                    |
+| **Expense Ratio**                | 0.38%                      | 0.42%                         | 0.39%                      | 0.05%                             |
+| **Number of Holdings**           | ~92                        | ~110                          | 88                         | ~8,755                            |
+| **1-Year Return**                | ~10%                       | 17.86%                        | 12.40%                     | ~12%                              |
+| **Beta (Volatility vs. Market)** | Defensive (< 0.70)         | 0.52 (Highly Defensive)       | Defensive (< 0.70)         | 0.92 (Tracks Ex-US Global Market) |
+| **Top Country Exposure**         | US (~50%), UK, Switzerland | US (~70%), Switzerland, Japan | US (~65%), Europe (~30%)   | Japan, UK, Canada, China (0% US)  |
+| **Liquidity / Trading Volume**   | High (Easy to trade)       | Very High                     | Moderate to High           | Extremely High                    |
+
+### Deep Dive into the Defensive Options
+
+**1. iShares Global Consumer Staples (KXI)**
+
+- **The Profile:** Holds the companies that make the things people buy regardless of economic conditions (toothpaste, food, beverages). Top holdings usually include Procter & Gamble, Nestlé, and Coca-Cola.
+- **Performance Context:** It typically underperforms during massive tech bull markets but acts as a shock absorber during crashes. Its beta is significantly lower than the broader market, meaning less violent price swings.
+
+**2. iShares Global Healthcare (IXJ)**
+
+- **The Profile:** An exceptionally defensive sector fund driven by demographics (an aging global population) rather than economic cycles. Top holdings include Eli Lilly, Johnson & Johnson, and Novo Nordisk.
+- **Performance Context:** With a beta of just 0.52, IXJ historically moves only half as violently as the broader market. Healthcare is one of the few sectors that offers both defensive stability and strong growth (due to pharma and biotech innovations).
+
+**3. iShares Global Utilities (JXI)**
+
+- **The Profile:** The ultimate "boring" investment. It holds power, gas, and water companies globally. Because these companies operate as local monopolies with highly regulated pricing, their revenues are incredibly stable.
+- **Performance Context:** JXI acts almost like a bond equivalent. Capital appreciation is usually slow, but it pays out higher, consistent dividends. _Note: It is the smallest fund of the four ($318M AUM), though still perfectly liquid for a retail investor._
+
+**4. Vanguard Total International Stock (VXUS)**
+
+- **The Profile:** A massive, ultra-cheap (0.05% expense ratio) fund that owns almost every investable publicly traded company outside the United States (nearly 9,000 stocks).
+- **Performance Context:** It is not purely "defensive" in the way utilities are; rather, it is a geographic hedge. It protects you from _US-specific_ overvaluations and the dominance of the US tech giants.
+
+### UCITS ETF Comparison vs. VWRA
+
+| **Metric**                      | **VWRA (Your Current Core)** | **WCSD (Global Staples)** | **CBUR (Global Healthcare)** | **WUTI (Global Utilities)** | **XUSE (World ex-USA)**        |
+| ------------------------------- | ---------------------------- | ------------------------- | ---------------------------- | --------------------------- | ------------------------------ |
+| **Strategy**                    | Broad Global Equities        | Essential Goods / Food    | Big Pharma / Biotech         | Regulated Power/Water       | Broad Global (Excluding US)    |
+| **Tech Exposure**               | **~25%**                     | **0%**                    | **0%**                       | **0%**                      | **~9.7%**                      |
+| **Expense Ratio**               | 0.22%                        | 0.18%                     | 0.18%                        | 0.30%                       | 0.15%                          |
+| **AUM (Fund Size)**             | ~$25 Billion                 | ~$104 Million             | €309 Million                 | €45 Million                 | $3.5 Billion                   |
+| **Number of Holdings**          | ~3,700                       | 80                        | ~80                          | ~65                         | 751                            |
+| **1-Year Return (Appx)**        | ~20%                         | ~6%                       | 18%                          | ~10-12%                     | ~12-15%                        |
+| **Beta (Volatility vs Market)** | 1.00 (The Benchmark)         | ~0.70 (Defensive)         | ~0.75 (Defensive)            | ~0.55 (Highly Defensive)    | ~0.90 (Slightly less volatile) |
+| **Top 3 Countries**             | US (62%), Japan, UK          | US (50%), UK, Switzerland | US (66%), Swiss, UK          | US (60%), UK, Spain         | Japan, UK, Canada (0% US)      |
+| **Liquidity on LSE**            | Exceptionally High           | Good / Moderate           | High                         | Moderate                    | Very High                      |
+
+### Detailed Breakdown of the Alternatives
+
+#### 1. iShares MSCI World Consumer Staples Sector (LSE Ticker: WCSD)
+
+- **The Profile:** This fund holds companies like Costco, Procter & Gamble, Coca-Cola, and Nestlé. It is an accumulating fund that tracks the defensive consumer staples sector.
+- **Why it hedges AI:** People do not stop buying toothpaste, groceries, or baby formula during a recession or a tech crash. While its 1-year return is lower than tech, it generates steady cash flows and acts as a shock absorber.
+- **Important Note:** The beta is low, meaning it rarely suffers the violent 20-30% drawdowns that the tech sector experiences.
+
+#### 2. iShares MSCI World Health Care Sector (LSE Ticker: CBUR)
+
+- **The Profile:** This fund holds global giants like Eli Lilly, Johnson & Johnson, Novartis, and AstraZeneca.
+- **Why it hedges AI:** Healthcare is unique because it is both defensive (people always need medicine) and capable of high growth (via breakthrough drugs, like GLP-1 weight-loss medications). It has delivered an impressive ~18% return over the last year without relying on semiconductors or software.
+- **Important Note:** It has a relatively high concentration in its top holdings (e.g., Eli Lilly makes up ~11% of the fund) due to the massive market cap of modern pharma companies.
+
+#### 3. SPDR MSCI World Utilities UCITS ETF (LSE Ticker: WUTI)
+
+- **The Profile:** Invests in heavily regulated power, water, and gas networks globally.
+- **Why it hedges AI:** Utilities are essentially "bond proxies." They have heavily regulated, guaranteed revenues. When hyper-growth sectors crash, scared capital usually flees into utilities for safety.
+- **Important Note:** This is the smallest fund on the list (€45M AUM). While perfectly safe to trade, you may see slightly wider bid-ask spreads on IBKR compared to massive funds like VWRA. Use limit orders when buying.
+
+#### 4. iShares MSCI World ex-USA UCITS ETF (LSE Ticker: XUSE)
+
+- **The Profile:** This is a massive $3.5 Billion fund that completely strips the United States out of the equation. Its top holdings include ASML (Europe), HSBC (UK), Toyota (Japan), and Royal Bank of Canada.
+- **Why it hedges AI:** The AI boom is overwhelmingly a US-centric phenomenon. By removing the US, XUSE's technology sector weight drops to roughly 9.7%. Instead, it leans heavily into Financials (28%) and Industrials (17%), giving you true geographic diversification away from Silicon Valley.
+
+### VWRA vs. VUAA (S&P 500 - VOO UCITS Alternative)
+
+| **Metric**                        | **VUAA (S&P 500 UCITS)**    | **VWRA (FTSE All-World UCITS)**       |
+| --------------------------------- | --------------------------- | ------------------------------------- |
+| **Geographic Exposure**           | 100% United States          | ~62% US / 38% International           |
+| **Number of Holdings**            | ~500                        | ~3,700                                |
+| **International Diversification** | **0%**                      | Japan, UK, India, Taiwan, China, etc. |
+| **Total Expense Ratio**           | 0.07%                       | 0.14%                                 |
+| **"Hidden" Tech/AI Exposure**     | Extreme (~45-50% effective) | High, but diluted globally            |
 
 ## Irish Domiciled (UCITS) ETFs
 

@@ -169,6 +169,8 @@ https://en.wikipedia.org/wiki/Graham_number
 
 [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9)
 
+See [Stock Valuation Methods](economics/market-mechanics/fundamental-valuation/valuation-methods.md) for detailed mechanics of DCF, Trading Multiples, Peter Lynch Fair Value, Earnings Power Value, Dividend Discount Model, and WACC.
+
 **Value Driver**
 
 1. Revenue Growth

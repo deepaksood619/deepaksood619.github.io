@@ -3,7 +3,7 @@ slug: /economics/irish-tech-etfs-iuit-cndx
 title: Irish-Domiciled Tech ETFs - IUIT & CNDX
 description: Complete guide to Irish-domiciled UCITS ETF alternatives to VGT and QQQM, including IUIT and CNDX for non-resident alien investors seeking to avoid US estate tax while maintaining tech sector exposure.
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-04
 ---
 
 ## Overview
@@ -172,73 +172,6 @@ When searching for these ETFs on Interactive Brokers:
    - Trading Currency: USD
 
 **Critical Note:** Do NOT buy GBP-denominated versions (if available) unless you hold British Pounds. You want USD versions to match your dollar holdings.
-
-## Portfolio Construction Example
-
-### Conservative Approach (95/5 Split)
-
-- **95% VWRA** - Global diversified core
-- **5% CNDX or IUIT** - Modest tech tilt
-
-**Rationale:** Maintains diversification while adding tactical tech exposure.
-
-### Aggressive Tech Tilt (70/20/10 Split)
-
-- **70% VWRA** - Diversified base
-- **20% CNDX** - NASDAQ 100 exposure
-- **10% IUIT** - Pure tech sector bet
-
-**Rationale:** Strong conviction in US tech while maintaining global exposure cushion.
-
-### Ultra-Simple (100% VWRA)
-
-- **100% VWRA** - Pure global market-cap weighted
-
-**Rationale:** Maximum simplicity. Tech exposure through market weights (~25%). Self-adjusting to sector leadership changes.
-
-## Risk Considerations
-
-### Concentration Risk
-
-- **IUIT:** 100% tech sector = single sector bet
-- **CNDX:** ~50% tech, heavily concentrated in top 10 holdings
-- **VWRA:** Natural diversification across sectors and geographies
-
-### Valuation Risk
-
-- Current tech P/E ratios (33-35) are near historical highs
-- Corrections possible if growth expectations not met
-- Irish domicile doesn't protect from market volatility, only from estate tax
-
-### Rebalancing Discipline
-
-- Tech tilts require monitoring and rebalancing
-- If tech significantly outperforms, may need to trim and rebalance
-- VWRA automatically rebalances through market-cap weighting
-
-## When to Avoid IUIT/CNDX
-
-**Do NOT buy IUIT or CNDX if:**
-
-1. You cannot tolerate high volatility
-2. You need income now (accumulating ETFs don't pay dividends)
-3. You believe US tech is overvalued and due for correction
-4. You prefer hands-off, set-and-forget investing
-5. You already have significant tech exposure through employer stock (RSUs/ESOP)
-
-## Comparison to Single-Stock Irish ETPs
-
-You might encounter single-stock tracker ETPs on LSE (like "LS 1X GOOG" for Google). **Avoid these** in favor of IUIT/CNDX for the following reasons:
-
-| Feature | Single-Stock ETP (LS 1X GOOG) | Sector/Index ETF (IUIT/CNDX) |
-|---------|-------------------------------|------------------------------|
-| **Diversification** | Single company risk | 72-100 companies |
-| **Liquidity** | Very low (AUM `<M`) | High (AUM in billions) |
-| **Bid-Ask Spread** | Wide | Tight |
-| **Expense Ratio** | 0.15% for single stock tracking | 0.15-0.30% for diversified exposure |
-| **Structure** | Debt security (counterparty risk) | Physical equity replication |
-
-**Bottom Line:** If you want Google exposure, buy CNDX (which holds Google) instead of single-stock synthetic products.
 
 ## Related Topics
 

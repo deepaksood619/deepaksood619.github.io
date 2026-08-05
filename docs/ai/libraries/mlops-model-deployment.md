@@ -3,9 +3,11 @@ slug: /ai/libraries/mlops-model-deployment
 title: MLOps / Model Deployment
 description: Discover MLOps and model deployment strategies for both offline and online environments, optimizing predictions and enhancing data-driven decision-making.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-08-04
 ---
-![image](../../media/ML-Model-Deployment-image1.jpg)
+## LLM Deployment
+
+- [Morph - Inference Built for Coding Agents](https://www.morphllm.com/)
 
 ## Offline Deployment
 
@@ -14,6 +16,8 @@ The model is deployed to an offline container and run in a Spark job to generate
 ## Online Deployment
 
 The model is deployed to an online prediction service cluster (generally containing hundreds of machines behind a load balancer) where clients can send individual or batched prediction requests as network RPC calls.
+
+![image](../../media/ML-Model-Deployment-image1.jpg)
 
 ## Monitor predictions
 

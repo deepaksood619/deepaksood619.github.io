@@ -21,7 +21,7 @@ Many PMS structures charge a lower base fee (like your 0.5%) but add a performan
 
 - **The Hurdle Rate:** This is the minimum return the manager must generate before taking a cut of your profits (e.g., a 10% hurdle rate).
 - **The Profit-Sharing Percentage:** Typically 10% to 20% of the returns generated above the hurdle rate.
-- **The High-Water Mark Principle:** Ensure this clause is explicitly in your contract. It dictates that the manager can only charge a performance fee on _new_ net profits. If your ₹50 Lakh drops to ₹45 Lakh in Year 1, and rises back to ₹50 Lakh in Year 2, the manager cannot charge a performance fee for Year 2 because your portfolio has not breached its historic highest value (the high-water mark). 
+- **The High-Water Mark Principle:** Ensure this clause is explicitly in your contract. It dictates that the manager can only charge a performance fee on _new_ net profits. If your ₹50 Lakh drops to ₹45 Lakh in Year 1, and rises back to ₹50 Lakh in Year 2, the manager cannot charge a performance fee for Year 2 because your portfolio has not breached its historic highest value (the high-water mark).
 
 ### Tax Compliance Overhead
 

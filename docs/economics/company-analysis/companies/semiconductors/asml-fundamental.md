@@ -2,6 +2,8 @@
 slug: /asml-holding-fundamental-analysis
 title: ASML Holding - Fundamental Analysis 2026
 description: EUV lithography monopoly riding the AI/memory capex supercycle, trading at a premium valuation with limited near-term margin of safety
+created: 2026-08-03
+updated: 2026-08-04
 company: ASML Holding N.V.
 ticker: NASDAQ:ASML / AMS:ASML
 sector: Semiconductors (Semiconductor Capital Equipment)
@@ -10,8 +12,6 @@ date: 2026-08-03
 analyst: Claude (LLM-generated)
 data_sources: [StockAnalysis.com, ASML Press Releases/SEC 6-K Filings, MacroTrends, GuruFocus, S&P Global Market Intelligence via StockAnalysis.com]
 tags: [fundamental-analysis, us-global-stocks, semiconductors, euv-lithography]
-created: 2026-08-03
-updated: 2026-08-03
 ---
 
 - **Analysis Date:** August 3, 2026
