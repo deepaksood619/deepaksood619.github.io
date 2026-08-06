@@ -83,9 +83,9 @@ While SYEP is a low-risk way to boost returns, keep these critical nuances in mi
 
 ### Is There Any Risk of Losing the Shares Itself?
 
-**No, you cannot lose your shares.**  
+**No, you cannot lose your shares.**
 
-Even if the borrower defaults or goes bankrupt, your shares are fully protected. 
+Even if the borrower defaults or goes bankrupt, your shares are fully protected.
 
 1. **102% Collateralization:** IBKR forces the borrower to put up USD cash collateral equal to **102% of your shares' market value**.
 2. **Daily Rebalancing:** This collateral is marked-to-market daily. If the stock price rises, the borrower must deposit more cash immediately.

@@ -3,7 +3,7 @@ slug: /ai/llm/readme
 title: LLM
 description: Explore LLM fundamentals, app-building techniques, and agent frameworks to harness the power of large language models for innovative applications and solutions.
 created: 2023-05-08
-updated: 2026-07-07
+updated: 2026-08-06
 ---
 ## Fundamentals
 
@@ -58,6 +58,8 @@ updated: 2026-07-07
 - [Claude Code](code-generation/claude-code.md)
 - [Gemini Code Assist](code-generation/gemini-code-assist-gca-gemini-cli.md)
 - [Harness](code-generation/harness.md)
+- [ai-website-builder](ai/llm/code-generation/ai-website-builder.md)
+- [ai-website-builder-architecture](ai/llm/code-generation/ai-website-builder-architecture.md)
 
 ## Evaluation & Monitoring
 

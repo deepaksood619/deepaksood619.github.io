@@ -3,12 +3,13 @@ slug: /economics/sector-analysis/readme
 title: Sector Analysis
 description: Explore our comprehensive sector analysis to enhance your investment strategies with insights on industry sectors, exchange rates, and business franchises.
 created: 2025-04-12
-updated: 2026-08-04
+updated: 2026-08-06
 ---
 - [Overview](economics/sector-analysis/overview.md)
 - [industry-sectors](economics/sector-analysis/industry-sectors.md)
 - [ai-capex-deep-research-analysis-2026](economics/sector-analysis/ai-capex-deep-research-analysis-2026.md)
-- [hyperscalers-cloud-capex-deep-research-analysis](economics/sector-analysis/hyperscalers-cloud-capex-deep-research-analysis.md)
+	- [hyperscalers-cloud-capex-deep-research-analysis](economics/sector-analysis/hyperscalers-cloud-capex-deep-research-analysis.md)
+	- [ai-infrastructure-arms-race](economics/sector-analysis/ai-infrastructure-arms-race.md)
 - [Luxury Automotive Manufacturing in India](economics/sector-analysis/luxury-automotive-manufacturing-india.md)
 - [usd-inr-exchange-rate-outlook-analysis](economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis.md)
 - [franchise](management/business/franchise.md)
