@@ -3,7 +3,7 @@ slug: /economics/learning-resources/readme
 title: Learning Resources
 description: Explore essential learning resources, including courses, tools, and guides, to enhance your education and skills in economics and finance.
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-06
 ---
 Courses, tools, and educational materials.
 
@@ -11,3 +11,4 @@ Courses, tools, and educational materials.
 - [Links](economics/learning-resources/links.md)
 - [Zerodha Course](economics/learning-resources/course-zerodha-varsity.md)
 - [Tools](economics/learning-resources/tools-platforms.md)
+	- [interactive-brokers-ibkr](economics/learning-resources/interactive-brokers-ibkr.md)

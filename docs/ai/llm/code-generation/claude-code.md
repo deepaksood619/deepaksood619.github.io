@@ -64,6 +64,8 @@ claude update
 12. **Subagents:** Spawn parallel agents for complex tasks
 13. [Claude Managed Agents](https://claude.com/blog/claude-managed-agents)
 
+See [Harness](ai/llm/code-generation/harness.md) for the underlying planning/context/sub-agent scaffolding that Claude Code and similar tools are built on.
+
 ## Popular Skills & Frameworks
 
 ### Superpowers

@@ -15,3 +15,4 @@ updated: 2026-07-25
 - [GST](economics/taxation/gst.md)
 - [HUF / Private Trust](economics/taxation/huf-private-trust.md)
 	- [indian-company-types](economics/corporate-finance/indian-company-types.md)
+- [Clubbing of Income](economics/taxation/clubbing-of-income.md)

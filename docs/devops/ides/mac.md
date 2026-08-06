@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-08-02
+updated: 2026-08-05
 ---
 ## Shortcuts
 
@@ -380,6 +380,18 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 	- General - New Finder windows show - Default Downloads folder
 	- Advanced - When performing a search - Search the current folder
 	- Directly in Finder - show status bar (cmd + /)
+	- file sorting and list options (cmd + J)
+		- sort by - date modified
+		- show columns
+			- **Date Created:** The exact moment the original file was first brought into existence on any computer.
+			- **Date Modified:** The last time the content inside the file was edited and saved.
+			- **Date Added:** The exact date and time the file arrived on your specific Mac.
+			- size
+			- kind
+		- use relative dates
+		- calculate all sizes
+		- show icon preview
+		- **Use as Defaults**
 - System Preferences
 	- Display settings - Display text larger (1496 x 967)
 	- Tap to click

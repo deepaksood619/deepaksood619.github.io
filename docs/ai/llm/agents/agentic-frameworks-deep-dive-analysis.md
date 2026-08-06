@@ -54,6 +54,8 @@ For enterprise-scale durability, integration with workflow engines like Temporal
 
 Memory management further extends state by categorizing it into short-term working memory and long-term knowledge. Short-term memory tracks the current reasoning loop, often utilizing high-performance databases like Redis to minimize retrieval latency, which can otherwise compound across dozens of operations in complex loops. Long-term memory allows agents to learn from past interactions and adapt to user preferences over time, transforming the agent from a stateless tool into a personalized research assistant.
 
+See [Harness](ai/llm/code-generation/harness.md) for how these state-management primitives (checkpointing, context resets, file-based handoffs) fit into the broader harness-engineering picture, including multi-step task decomposition and Planner/Generator/Evaluator architectures.
+
 ## UI, Dashboarding, and Real-Time Agent-User Interaction
 
 The complexity of modern agentic workflows necessitates sophisticated interfaces that go beyond the traditional chat box. Real-time visualization of the agent's "thinking" process, status updates, and structured dashboards are essential for maintaining user trust and control.

@@ -145,6 +145,8 @@ The Indian Income Tax Act allows you to use Section 54F to exempt Long-Term Capi
 - Any gift given to a spouse is exempt from tax. However, if the spouse has no income and the gift is an income-generating asset, the income from that asset may be clubbed with the income of the spouse who gifted the asset under clubbing provisions.
 - If both husband and wife wish to claim tax benefit for their joint investments, they may have to enter into a simple agreement bifurcating proportionate ownership for housing loan repayment to reflect in their respective tax returns.
 
+See [Clubbing of Income](economics/taxation/clubbing-of-income.md) for the full rules across spouse, minor children, and parents, and which instruments (PPF, mutual funds, ULIPs) legally avoid clubbing.
+
 ## Other Sections to Optimize Capital Gains Taxes
 
 ### 1. Section 54EC (Save Taxes via Infrastructure Bonds)

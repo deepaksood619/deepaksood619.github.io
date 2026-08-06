@@ -158,13 +158,13 @@ WACC = (E/V x Re) + (D/V x Rd x (1 - Tax Rate))
 
 ## Choosing a Method by Company Type
 
-| Company Type | Best-Fit Method(s) | Why |
-|---------------|---------------------|-----|
-| Mature, dividend-paying (utilities, staples) | Dividend Discount Model, Trading Multiples | Stable, predictable cash returns to shareholders |
-| High-growth, reinvestment-heavy | DCF, Peter Lynch (PEG) | Growth is the dominant value driver; multiples/DDM understate it |
-| Stable but low/no-growth ("cash cow") | Earnings Power Value, Trading Multiples | No growth premium to model; current earning power is the story |
-| Cyclical (commodities, autos) | Trading Multiples (normalized), EPV | Single-year DCF projections are unreliable across the cycle |
-| Loss-making / pre-profitability | Trading Multiples (P/S, EV/Sales) | No earnings or dividends to discount; relative sales multiples are the fallback |
+| Company Type                                 | Best-Fit Method(s)                         | Why                                                                             |
+| -------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------- |
+| Mature, dividend-paying (utilities, staples) | Dividend Discount Model, Trading Multiples | Stable, predictable cash returns to shareholders                                |
+| High-growth, reinvestment-heavy              | DCF, Peter Lynch (PEG)                     | Growth is the dominant value driver; multiples/DDM understate it                |
+| Stable but low/no-growth ("cash cow")        | Earnings Power Value, Trading Multiples    | No growth premium to model; current earning power is the story                  |
+| Cyclical (commodities, autos)                | Trading Multiples (normalized), EPV        | Single-year DCF projections are unreliable across the cycle                     |
+| Loss-making / pre-profitability              | Trading Multiples (P/S, EV/Sales)          | No earnings or dividends to discount; relative sales multiples are the fallback |
 
 ## Links
 

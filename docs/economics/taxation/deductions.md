@@ -186,7 +186,7 @@ Section 80DDB of the Income Tax Act allows residents to claim deductions for med
 - Repayment of Housing Loan (Only principal)
 - Contribution to Pension Fund or UTI or Notified Mutual Fund
 - Investment in ELSS made in units of Notified Mutual Fund
-- Children Tuition Fee: Restricted to a max of 2 Children
+- Children Tuition Fee: Restricted to a max of 2 Children (see [Clubbing of Income](economics/taxation/clubbing-of-income.md) for how to combine this with PPF/mutual fund/ULIP investments in a minor's name without triggering clubbing)
 - Deposit in home loan account scheme of NHB/HDFC
 - 5 yrs. Term deposit in a Sch.Bank
 - DEDUCTION U/S 80CCCAnnuity/Pension Plan

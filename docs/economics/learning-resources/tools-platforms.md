@@ -3,7 +3,7 @@ slug: /economics/learning-resources/tools-platforms
 title: Tools
 description: Discover essential tools for stock market analysis, including FII/DII data, stock screeners, and AI chat assistance for informed investment decisions.
 created: 2025-01-16
-updated: 2026-08-03
+updated: 2026-08-05
 ---
 - [FII DII Data based on activity on NSE, BSE](https://web.stockedge.com/fii-activity)
 - [Market Monitor \| Tijori Finance](https://www.tijorifinance.com/in/markets?sort_column=1D&sort_type=asc)
@@ -122,46 +122,6 @@ updated: 2026-08-03
 ![image](../../media/Screenshot%202025-01-28%20at%205.52.56%20PM.jpg)
 
 ![image](../../media/Screenshot%202025-01-28%20at%205.55.05%20PM.jpg)
-
-## Interactive Brokers (IBKR)
-
-- IBKR strongly discourages third-party deposits
-- [Why Interactive Brokers India \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/whyib/overview-why-ibkr-india.php)
-- [Commission Free ETFs \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/trading/commission-free-etfs-mkt.php)
-- [Mutual Funds Outside the US \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds-non-us.php?re=europe)
-- [Commissions Mutual Funds \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds.php)
-- [Interest Rates \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/accounts/fees/pricing-interest-rates.php?gclid=CjwKCAiAzPy8BhBoEiwAbnM9Ox8c9hBoKsjM1OcUHPlMxv8me31dVnUy73jfnS_kV7ZpssPb_9aBJxoC6_4QAvD_BwE)
-- [Can an Indian resident open an account on Interactive Brokers for trading globally? - Quora](https://www.quora.com/Can-an-Indian-resident-open-an-account-on-Interactive-Brokers-for-trading-globally)
-- [Interactive brokers pricing for Indians? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1654qk2/interactive_brokers_pricing_for_indians/)
-- [Anybody using interactive brokers for indian exchanges? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1afn0a6/anybody_using_interactive_brokers_for_indian/)
-- [IBKR Trading Platforms \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/trading-platforms.php)
-- [Wire Transfer from ETrade to IBKR, Wise, or Revolut \| by Eski's data stories \| Medium](https://alexeskinasy.medium.com/wire-transfer-from-etrade-to-ibkr-wise-or-revolut-c080f5456b8b)
-
-### Commissions
-
-- [Commissions & Fees \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-home.php?re=amer)
-- Charges - 1 Dollar per trade
-- Fees are on top, same currency as the stock you bought. Run a daily activity report next day for more details.
-
-### Platforms
-
-- Client Portal - Web
-- IBKR Desktop - DesktopNew
-- IBKR Mobile - Mobile
-- Trader Workstation (TWS) - Desktop (Mosaic)
-	- [TWS Mosaic Highlights \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/?f=%2Fen%2Fsoftware%2Ftws_mosaic_highlights.php)
-	- Get direct access to TWS trading, order, live quoting, technical research and analysis tools all in a single window.
-	- Customize Mosaic's workspace to suit your own trading needs by snapping your favorite TWS trading tools together.
-	- Use the Portfolio window for at-a-glance account summary and position detail, the Order Entry window to formulate and transmit orders instantly, and the Order Monitor to track and modify live orders and review filled and cancelled orders.
-	- Create sophisticated attached orders directly within the Mosaic Orders panel, including bracket, stop limit, profit taker, One Cancels Other, beta, fx order and pair hedging orders.
-	- Add multiple Watchlists to view groups of contracts and create customized Market Scanners.
-	- Add gradients, lines and bars to Mosaic Market Scanners for easy-to-spot trends and patterns.
-	- View interactive, customizable charts that support studies and trendlines.
-	- View real-time streaming general news that you can filter by subject, as well as real-time streaming news for a selected underlying.
-	- Subscribe to the Interactive Brokers Information System (IBIS) to enhance Mosaic with premium newswire and analyst research subscriptions from such tier-one providers as Reuters, Dow Jones, Morningstar and Zacks.
-- IBKR GlobalTrader - Mobile
-- IBKR APIs - Desktop
-- [Mutual Fund/ETF Replicator \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/mutual-fund-etf-replicator.php)
 
 ## Things to keep in mind
 

@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/market-timings
 title: Market Timings
 description: Complete guide to global market trading hours including NASDAQ, LSE, Indian equity markets, currency, and commodity trading sessions with timezone conversions.
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-05
 ---
 
 ## Overview
@@ -30,14 +30,21 @@ Understanding market timings is crucial for traders and investors operating acro
 
 Trading VWRA and other UK-listed securities.
 
-| Market Hours for LSE (VWRA) | BST / GMT (Local) | IST |
-|----------------------------|-------------------|-----|
-| Pre-market trading hours | 5:05 AM to 7:50 AM | 9:35 AM to 12:20 PM |
-| Normal trading hours | 8:00 AM to 4:30 PM | **12:30 PM to 9:00 PM** |
-| After-hours trading | 4:30 PM to 5:15 PM | 9:00 PM to 9:45 PM |
+| Market Hours for LSE (VWRA) | BST / GMT (Local)  | IST                     |
+| --------------------------- | ------------------ | ----------------------- |
+| Pre-market trading hours    | 5:05 AM to 7:50 AM | 9:35 AM to 12:20 PM     |
+| Normal trading hours        | 8:00 AM to 4:30 PM | **12:30 PM to 9:00 PM** |
+| After-hours trading         | 4:30 PM to 5:15 PM | 9:00 PM to 9:45 PM      |
+
+|Phase|Time (IST)|What Happens on [IBKR](https://www.interactivebrokers.com/en/home.php)|
+|---|---|---|
+|**Pre-Open Auction**|12:30 PM – 12:40 PM|Orders accumulate to determine the opening price. No trades execute yet, and the price display remains frozen.|
+|**Continuous Trading**|12:40 PM – 9:00 PM|Orders match instantly, and live pricing begins updating dynamically on your chart.|
 
 **Key Points:**
 
+- 10-minute Pre-Open Auction - so it opens for general public at 12:40 PM
+- **Delayed Market Data:** If you do not subscribe to real-time LSE data packages, your IBKR chart will lag behind by 15 minutes. So you will start seeing data in IBKR from **12:45 PM or 12:55 PM**
 - Convenient for Indian day traders (afternoon to evening IST)
 - BST = British Summer Time (GMT+1, typically March-October)
 - GMT = Greenwich Mean Time (standard time)
