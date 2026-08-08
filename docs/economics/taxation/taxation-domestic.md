@@ -3,7 +3,7 @@ slug: /economics/taxation/taxation-domestic
 title: Taxation Domestic
 description: Discover essential strategies for domestic taxation, including capital gains, tax loss harvesting, and optimizing your investments for maximum returns.
 created: 2025-02-05
-updated: 2026-06-25
+updated: 2026-08-08
 ---
 [Capital Gains Taxation Rules Ready Reckoner](https://freefincal.com/capital-gains-taxation-rules-ready-reckoner/)
 
@@ -276,4 +276,6 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 - [Should we report domestic mutual funds holding foreign shares in Schedule FA/FSI?](https://freefincal.com/should-we-report-domestic-mutual-funds-holding-foreign-shares-in-schedule-fa-fsi/)
 - [UAE-based taxpayer earned Rs 4 crore income in India on which TDS was deducted but he didn't file ITR, got tax notice; wins case in ITAT Delhi - The Economic Times](https://economictimes.indiatimes.com/wealth/legal/will/uae-based-taxpayer-earned-rs-4-crore-income-in-india-on-which-tds-was-deducted-but-he-didnt-file-itr-got-tax-notice-wins-case-in-itat-delhi/articleshow/125819040.cms)
 - [Fired employee gets Rs 26 lakh severance pay, but didn't pay income tax; loses tax battle in ITAT Hyderabad for this key reason - The Economic Times](https://economictimes.indiatimes.com/wealth/legal/will/fired-employee-gets-rs-26-lakh-severance-pay-but-didnt-pay-income-tax-loses-tax-battle-in-itat-hyderabad-for-this-key-reason/articleshow/125783115.cms)
-- [Decreasing the huge gap between salaried and presumptive taxation - A Tall order](https://freefincal.com/decreasing-the-huge-gap-between-salaried-and-presumptive-taxation-a-tall-order/)
+- [Decreasing the huge gap between salaried and presumptive taxation - A Tall order](
+- https://freefincal.com/decreasing-the-huge-gap-between-salaried-and-presumptive-taxation-a-tall-order/)
+- [The Ultimate Indian TAX-SAVING MASTERCLASS: Salary, Business & Investments \| Nitesh Buddhadev \| FWS - YouTube](https://youtu.be/j5utn0F_Vvs?si=-8hEwbQxhcDUzMSV)

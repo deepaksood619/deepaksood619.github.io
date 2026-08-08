@@ -3,12 +3,8 @@ slug: /economics/investment-frameworks/stock-selection/technical-checklist
 title: Technical Analysis Checklist
 description: Discover a comprehensive technical analysis checklist to systematically evaluate stock trading opportunities using key indicators like MACD, RSI, and Bollinger Bands.
 created: 2026-06-09
-updated: 2026-06-11
+updated: 2026-08-08
 ---
-**Category:** Investment Frameworks
-**Type:** Stock Selection
-**Last Updated:** 2026-06-08
-
 ## Overview
 
 Technical analysis focuses on price action, patterns, and indicators to identify trading opportunities. This checklist provides a systematic approach to evaluating technical setups.
@@ -38,7 +34,7 @@ See: [Technical Indicators](economics/market-mechanics/technical-analysis/techni
 
 Use this 6-point checklist for every trade setup:
 
-### 1. ✅ Recognizable Candlestick Pattern
+### 1. Recognizable Candlestick Pattern
 
 **The stock should form a recognizable pattern:**
 
@@ -55,7 +51,7 @@ Use this 6-point checklist for every trade setup:
 
 See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/technical-analysis-basics.md)
 
-### 2. ✅ Support & Resistance (S&R) Confirmation
+### 2. Support & Resistance (S&R) Confirmation
 
 **S&R should confirm the trade:**
 
@@ -78,7 +74,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 - Fibonacci retracement levels
 - Moving average levels (50-day, 200-day)
 
-### 3. ✅ Volume Confirmation
+### 3. Volume Confirmation
 
 **Volumes should confirm the trade:**
 
@@ -93,7 +89,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 - Declining volume in uptrend = warning
 - Rising volume in downtrend = confirmation
 
-### 4. ✅ Dow Theory Perspective
+### 4. Dow Theory Perspective
 
 **Look at trade from Dow Theory context:**
 
@@ -112,7 +108,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 
 **Key Insight:** If considering a long trade but we're in secondary downtrend (counter to primary uptrend), think twice - immediate trend is against you.
 
-### 5. ✅ Indicator Confirmation
+### 5. Indicator Confirmation
 
 **Indicators should confirm:**
 
@@ -139,7 +135,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 - **Critical:** Pattern, S&R, Volume
 - **Supporting:** Indicators (MACD, RSI, etc.)
 
-### 6. ✅ Risk-Reward Ratio (RRR)
+### 6. Risk-Reward Ratio (RRR)
 
 **RRR should be satisfactory:**
 
@@ -160,7 +156,7 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 - Entry: Rs 100
 - Target: Rs 115
 - Stop Loss: Rs 95
-- RRR = (115-100) / (100-95) = 15/5 = 3.0 ✅ Excellent
+- RRR = (115-100) / (100-95) = 15/5 = 3.0 Excellent
 
 ## Trading Principles
 
@@ -193,12 +189,12 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 
 **Checklist Review:**
 
-1. ✅ Bullish hammer (recognizable pattern)
-2. ✅ Low of hammer coincides with support
-3. ✅ Volumes above average
-4. ✅ MACD crossover (signal line `>` MACD line)
-5. ✅ Primary trend is bullish
-6. ✅ RRR is 3.0
+1. Bullish hammer (recognizable pattern)
+2. Low of hammer coincides with support
+3. Volumes above average
+4. MACD crossover (signal line `>` MACD line)
+5. Primary trend is bullish
+6. RRR is 3.0
 
 **Decision:** Buy 500 shares (full position)
 

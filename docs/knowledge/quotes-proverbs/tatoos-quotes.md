@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/tatoos-quotes
 title: Tatoos Quotes
 description: Discover meaningful tattoo quotes that inspire personal growth, reflect life's complexities, and celebrate diverse languages and philosophies.
 created: 2023-03-05
-updated: 2026-07-02
+updated: 2026-08-08
 ---
 ||||| (number of jobs you changed, getting new line when get a new job)
 
@@ -100,3 +100,5 @@ ab initio - from the beginning
 yatha drishti tatha srishti - The way you think becomes the life you live
 
 **"Et tu, Brute?"** is a Latin phrase that translates literally to _"And you, Brutus?"_ or _"You too, Brutus?"_. Popularized by William Shakespeare's play _Julius Caesar_, it is used today as a metaphorical expression to signify an unexpected and profound betrayal by a close friend or trusted ally.
+
+Memento mori - remember [that you have] to die

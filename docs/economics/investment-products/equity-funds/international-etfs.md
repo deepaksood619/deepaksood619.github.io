@@ -32,6 +32,8 @@ updated: 2026-08-05
 
 **For US estate tax avoidance strategies:** See [US Estate Tax Avoidance for Non-Resident Aliens](economics/taxation/us-estate-tax-avoidance-nra.md)
 
+**For international bond/debt ETFs (short and long duration, UCITS and US-domiciled):** See [International Debt ETFs (IBKR + UCITS)](economics/investment-products/debt-funds/international-debt-etfs-ibkr.md)
+
 - https://fundrise.com/vcx
 	- Private Fund - Top holdings include Anthropic, Databricks, OpenAI, SpaceX, Epic Games, and so on.
 	- 1.85% fee

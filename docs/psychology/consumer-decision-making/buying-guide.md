@@ -3,7 +3,7 @@ slug: /psychology/buying-guide
 title: Buying guides
 description: Explore essential buying guides to make informed choices on shoes, cars, and home essentials, ensuring durability and functionality with every purchase.
 created: 2026-01-10
-updated: 2026-07-28
+updated: 2026-08-08
 ---
 - **Buy less, choose it well, make it last**
 - Don't buy black or white items, it gets very dirty pretty fast
@@ -260,6 +260,8 @@ Ofcourse it comes with a negative side effect that you have to move in and out i
 So for a long haul international flight you can take middle aisle with aisle side seat, so the middle passenger can go out either side and only one passenger has to move out, since there are 2 aisle side seat.
 
 [Indigo: Flyers can seek damages from the airline. But most will skip that route](https://amp.scroll.in/article/1089298/flyers-can-seek-damages-from-indigo-but-most-will-skip-that-route)
+
+[Skiplagged: The smart way to find cheap flights.](https://skiplagged.com/)
 
 ### Frequent Flyer Number
 

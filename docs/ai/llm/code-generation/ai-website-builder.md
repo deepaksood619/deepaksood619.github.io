@@ -26,19 +26,19 @@ We propose developing a **WordPress-free, CMS-free AI Site Builder** that genera
 
 To enable *targeted section-level edits* (e.g., "make the hero section darker" or "change the pricing table to three tiers") without regenerating the entire site, we must avoid prompting the LLM to output raw React code strings.
 
-*   **JSON Abstract Syntax Tree (AST):** The site state is represented as a structured JSON object detailing the component tree. Components map to a pre-defined UI library (e.g., an AG-UI or Shadcn-based primitive set).
-*   **Agentic RAG for Context:** When a user prompts an edit, an Agentic RAG pipeline retrieves only the specific JSON node (e.g., `HeroSection`) and its accepted props to manage context length and prevent drift.
-*   **Structured Outputs:** We enforce the LLM to return strict JSON patches. The frontend state manager applies this patch to the specific component's props, ensuring the layout never breaks syntactically.
+* **JSON Abstract Syntax Tree (AST):** The site state is represented as a structured JSON object detailing the component tree. Components map to a pre-defined UI library (e.g., an AG-UI or Shadcn-based primitive set).
+* **Agentic RAG for Context:** When a user prompts an edit, an Agentic RAG pipeline retrieves only the specific JSON node (e.g., `HeroSection`) and its accepted props to manage context length and prevent drift.
+* **Structured Outputs:** We enforce the LLM to return strict JSON patches. The frontend state manager applies this patch to the specific component's props, ensuring the layout never breaks syntactically.
 
 ### B. Frontend & Rendering Stack
 
-*   **Framework:** **Vite + React** (for Pure SPA export) or **Astro with React islands** (for ultimate SEO performance and zero-JS static HTML by default). Astro is highly recommended for marketing sites.
-*   **Styling:** **Tailwind CSS**. Using utility classes allows the AI to inject design tokens seamlessly. We will enforce a strict design system (colors, typography) so the AI cannot hallucinate non-existent Tailwind classes.
+* **Framework:** **Vite + React** (for Pure SPA export) or **Astro with React islands** (for ultimate SEO performance and zero-JS static HTML by default). Astro is highly recommended for marketing sites.
+* **Styling:** **Tailwind CSS**. Using utility classes allows the AI to inject design tokens seamlessly. We will enforce a strict design system (colors, typography) so the AI cannot hallucinate non-existent Tailwind classes.
 
 ### C. Preview & Deployment Pipeline
 
-*   **Live In-Browser Preview:** Utilize **WebContainers** (running Node.js inside the browser) or a secure iframe sandbox. This allows the user to see Vite/Astro HMR (Hot Module Replacement) instantly as the AI updates the JSON tree—all without hitting Bluehost servers.
-*   **Deployment via MCP:** When the user clicks "Publish", the browser payload is sent to a Bluehost CI worker. We leverage the **Model Context Protocol (MCP)** to standardize how our AI engine securely accesses deployment APIs, writes the final static export to an object storage bucket, and invalidates the Edge CDN.
+* **Live In-Browser Preview:** Utilize **WebContainers** (running Node.js inside the browser) or a secure iframe sandbox. This allows the user to see Vite/Astro HMR (Hot Module Replacement) instantly as the AI updates the JSON tree—all without hitting Bluehost servers.
+* **Deployment via MCP:** When the user clicks "Publish", the browser payload is sent to a Bluehost CI worker. We leverage the **Model Context Protocol (MCP)** to standardize how our AI engine securely accesses deployment APIs, writes the final static export to an object storage bucket, and invalidates the Edge CDN.
 
 ---
 
@@ -54,25 +54,25 @@ To enable *targeted section-level edits* (e.g., "make the hero section darker" o
 
 ### Phase 1: Proof of Concept / MVP (4–6 Weeks)
 
-*   **Goal:** Core generator, JSON-driven component tree, and single-section prompt editing.
-*   **Deliverables:** A browser-based sandbox using WebContainers; a fixed library of 20 React components; LLM integration using Claude 3.5 Sonnet or GPT-4o for structured AST updates.
-*   **Team:** 1 Frontend/React Architect, 1 AI/LLM Engineer.
+* **Goal:** Core generator, JSON-driven component tree, and single-section prompt editing.
+* **Deliverables:** A browser-based sandbox using WebContainers; a fixed library of 20 React components; LLM integration using Claude 3.5 Sonnet or GPT-4o for structured AST updates.
+* **Team:** 1 Frontend/React Architect, 1 AI/LLM Engineer.
 
 ### Phase 2: Production Readiness & Bluehost Integration (8-10 Weeks)
 
-*   **Goal:** Multi-page routing, global state (e.g., site-wide color themes), and production deployment pipeline.
-*   **Deliverables:** Astrod/Vite build pipeline on Bluehost infrastructure; user dashboard integration; media upload handling; CDN invalidation logic.
-*   **Team:** 1 Frontend Architect, 1 AI Engineer, 1 Platform/DevOps Engineer.
+* **Goal:** Multi-page routing, global state (e.g., site-wide color themes), and production deployment pipeline.
+* **Deliverables:** Astrod/Vite build pipeline on Bluehost infrastructure; user dashboard integration; media upload handling; CDN invalidation logic.
+* **Team:** 1 Frontend Architect, 1 AI Engineer, 1 Platform/DevOps Engineer.
 
 ## 5. Ecosystem Analysis: Relevant Links & Open-Source Tools
 
 To accelerate development, we should draw upon existing paradigms and open-source infrastructure:
 
-*   **WebContainers (StackBlitz):** [webcontainers.io](https://webcontainers.io/)
-    *   *Analysis:* The foundational tech required to run a Node.js/Vite server directly inside the user's browser. This enables the zero-latency preview experience without provisioning expensive cloud VMs for every active user session.
-*   **Model Context Protocol (MCP):** [modelcontextprotocol.io](https://modelcontextprotocol.io/)
-    *   *Analysis:* An emerging open standard that simplifies how AI agents connect to data sources and tools. We should implement MCP servers for Bluehost's deployment environments, giving the AI builder standardized, secure read/write access to the user's hosting space.
-*   **OpenHands / Aider:** [github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
-    *   *Analysis:* Open-source agentic coding harnesses. While these are terminal-based, studying their code diffing mechanisms and Agentic RAG loops provides a blueprint for how to handle precise, multi-file code editing reliably.
-*   **Puck (Visual Editor):** [github.com/measuredco/puck](https://github.com/measuredco/puck)
-    *   *Analysis:* Open-source visual editors for React. Integrating a JSON-driven visual editor framework like Puck and attaching an LLM to its API allows us to skip building the drag-and-drop/AST state manager from scratch, focusing purely on the AI interaction layer.
+* **WebContainers (StackBlitz):** [webcontainers.io](https://webcontainers.io/)
+    * *Analysis:* The foundational tech required to run a Node.js/Vite server directly inside the user's browser. This enables the zero-latency preview experience without provisioning expensive cloud VMs for every active user session.
+* **Model Context Protocol (MCP):** [modelcontextprotocol.io](https://modelcontextprotocol.io/)
+    * *Analysis:* An emerging open standard that simplifies how AI agents connect to data sources and tools. We should implement MCP servers for Bluehost's deployment environments, giving the AI builder standardized, secure read/write access to the user's hosting space.
+* **OpenHands / Aider:** [github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+    * *Analysis:* Open-source agentic coding harnesses. While these are terminal-based, studying their code diffing mechanisms and Agentic RAG loops provides a blueprint for how to handle precise, multi-file code editing reliably.
+* **Puck (Visual Editor):** [github.com/measuredco/puck](https://github.com/measuredco/puck)
+    * *Analysis:* Open-source visual editors for React. Integrating a JSON-driven visual editor framework like Puck and attaching an LLM to its API allows us to skip building the drag-and-drop/AST state manager from scratch, focusing purely on the AI interaction layer.

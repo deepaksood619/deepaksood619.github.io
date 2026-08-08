@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-08-05
+updated: 2026-08-08
 ---
 ## Shortcuts
 
@@ -155,12 +155,15 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
 - **Bombsquad**
 - ~~OpenMTP~~
+	- Not working with oneplus - Sat, 08 Aug 2026
 - ~~Android file transfer (doesn't work)~~
-    - MacDroid - mac app for transfering mobile to macbook for free (not wise verse)
+    - ~~MacDroid~~ - mac app for transfering mobile to macbook for free (not wise verse)
         - Use USB Debugging
-    - `brew install grishka/grishka/neardrop`
-    - [**ShareDrop**](https://www.sharedrop.io/)
-    - **Localsend**
+    - ~~`brew install grishka/grishka/neardrop`~~
+    - ~~[**ShareDrop**](https://www.sharedrop.io/)~~
+    - **Localsend - https://web.localsend.org/ both in mac and android**
+	    - https://localsend.org/
+	    -
 - ~~Office~~
 - ~~Screensaver~~ - https://zzz.zoomquilt2.com/
 

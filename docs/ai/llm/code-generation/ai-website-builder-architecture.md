@@ -23,8 +23,8 @@ Three viable substrates:
 
 | Substrate | How it works | Trade-off |
 |---|---|---|
-| **A. Code as source of truth**<br>(Bolt, Lovable, Onlook) | The agent reads and writes real `.tsx` files. Edits are code diffs applied to a project tree. | Maximum expressivity. Weakest determinism — output must parse, typecheck, compile and render, and a bad edit breaks the build. Requires a per-session build sandbox, which is real per-user compute. |
-| **B. JSON tree over a curated registry**<br>(Puck model) | A page is a JSON document of typed nodes. Every node maps to a component you wrote and tested. The AI only ever emits **data**. | Maximum determinism — validation is a schema check, not a compile. Expressivity is bounded by the component library you ship. |
+| **A. Code as source of truth** (Bolt, Lovable, Onlook) | The agent reads and writes real `.tsx` files. Edits are code diffs applied to a project tree. | Maximum expressivity. Weakest determinism — output must parse, typecheck, compile and render, and a bad edit breaks the build. Requires a per-session build sandbox, which is real per-user compute. |
+| **B. JSON tree over a curated registry** (Puck model) | A page is a JSON document of typed nodes. Every node maps to a component you wrote and tested. The AI only ever emits **data**. | Maximum determinism — validation is a schema check, not a compile. Expressivity is bounded by the component library you ship. |
 | **C. Hybrid — B with a code escape hatch** | JSON tree for ~95% of operations; a gated code-generation path for genuinely novel components, admitted to the registry only after passing automated checks. | Best of both, at the cost of two code paths and a sandboxed verification pipeline. |
 
 **Build (B) first; architect for (C).** The escape hatch is the last thing you add, not the first — and deferring it is what makes the core loop tractable.
@@ -271,15 +271,15 @@ Snapshot every *n* patches so document reconstruction stays fast. Surface the lo
 
 ## 5. Edit Classes and Expected Behaviour
 
-| Edit class | Mechanism | Determinism / latency |
-|---|---|---|
-| Rewrite copy in a section | Text prop patch | Very high / <1s |
-| Change palette or typography | Theme token patch (3–6 values) | Very high / <1s |
-| Change a section's layout | Variant enum swap | High / 1–2s |
-| Reorder, duplicate, delete a section | Deterministic tree op — **no LLM call** | Exact / instant |
-| Swap an image | Asset reference patch — **no LLM call** | Exact / instant |
-| Add a new section | Registry selection + prop synthesis | High / 2–4s |
-| Genuinely novel component | Code escape hatch | Medium / 10–30s + verify build |
+| Edit class                           | Mechanism                               | Determinism / latency          |
+| ------------------------------------ | --------------------------------------- | ------------------------------ |
+| Rewrite copy in a section            | Text prop patch                         | Very high / `<1s`              |
+| Change palette or typography         | Theme token patch (3–6 values)          | Very high / `<1s`              |
+| Change a section's layout            | Variant enum swap                       | High / 1–2s                    |
+| Reorder, duplicate, delete a section | Deterministic tree op — **no LLM call** | Exact / instant                |
+| Swap an image                        | Asset reference patch — **no LLM call** | Exact / instant                |
+| Add a new section                    | Registry selection + prop synthesis     | High / 2–4s                    |
+| Genuinely novel component            | Code escape hatch                       | Medium / 10–30s + verify build |
 
 Three of the seven common operations need no model call at all. A large part of making an AI builder feel fast and trustworthy is recognising which user intents are **deterministic operations wearing a natural-language costume**, and routing them straight to code. "Move the testimonials above the pricing" is a tree operation, not a generation task.
 
@@ -303,8 +303,8 @@ Two distinct stacks are in play, and conflating them is a common early mistake. 
 
 | Option | Assessment |
 |---|---|
-| **Astro + React islands**<br>*(recommended)* | Ships zero JavaScript by default and hydrates only interactive islands. A brochure or marketing site is ~95% static markup with two or three interactive pieces — nav drawer, carousel, form. Astro matches that shape exactly, so excellent Core Web Vitals are the default rather than the result of tuning. File-based content collections handle a blog with no CMS. Costs: smaller talent pool, and hydration directives (`client:load`, `client:visible`) need deliberate handling in the registry. |
-| **Next.js static export**<br>`output: 'export'` | Ubiquitous familiarity, excellent DX, one mental model shared with the builder app. Strong fallback if Next fluency is the binding constraint. But it ships a full React runtime and hydrates pages that need no JS, and export mode disables image optimisation, middleware and ISR — precisely the features engineers reach for by reflex, which makes it a footgun in an otherwise static pipeline. |
+| **Astro + React islands** *(recommended)* | Ships zero JavaScript by default and hydrates only interactive islands. A brochure or marketing site is ~95% static markup with two or three interactive pieces — nav drawer, carousel, form. Astro matches that shape exactly, so excellent Core Web Vitals are the default rather than the result of tuning. File-based content collections handle a blog with no CMS. Costs: smaller talent pool, and hydration directives (`client:load`, `client:visible`) need deliberate handling in the registry. |
+| **Next.js static export** `output: 'export'` | Ubiquitous familiarity, excellent DX, one mental model shared with the builder app. Strong fallback if Next fluency is the binding constraint. But it ships a full React runtime and hydrates pages that need no JS, and export mode disables image optimisation, middleware and ISR — precisely the features engineers reach for by reflex, which makes it a footgun in an otherwise static pipeline. |
 | **Vite + React Router (SPA)** | Simplest build, fastest iteration. But a client-rendered shell is a poor fit for SEO-sensitive sites. Fine for a de-risking spike; not for the shipped product. |
 
 If you choose Astro, author registry components as React and mark hydration in the registry metadata rather than in the component:
@@ -344,10 +344,10 @@ Tailwind v4 with CSS-variable design tokens declared in `@theme`. The reasoning 
 
 | Approach | Fidelity / cost | Verdict |
 |---|---|---|
-| **Iframe + JSON hot-swap**<br>*(recommended to start)* | A pre-built preview app receives the document over `postMessage` and re-renders. ~50ms updates. No bundler, no `npm install`, no container. Per-session cost effectively zero. | The right first choice. It can only render registry components — which is exactly the scope of a registry-based builder. Works in every browser including iOS Safari. |
-| **Sandpack + Nodebox**<br>(CodeSandbox, Apache 2.0) | Real in-browser bundling with npm resolution. Bundler is **self-hostable**. Built without `SharedArrayBuffer`, so it runs in Safari and needs no cross-origin isolation headers. | The pragmatic upgrade path once a code escape hatch exists. Self-hosting removes the third-party runtime dependency. |
-| **WebContainer API**<br>(StackBlitz) | Full Node.js in the browser — highest fidelity, and what powers Bolt. Requires `SharedArrayBuffer` and cross-origin isolation headers; historically no Safari support. | **Production for-profit use requires a commercial licence**, and StackBlitz's terms document a 500-sessions-per-month allowance on commercial plans before separate licensing. Prototypes are exempt. Treat as a legal/procurement decision, not a technical one. |
-| **Server-side sandbox**<br>(E2B, Firecracker, Docker) | Full fidelity, no browser constraints, but real per-session compute cost. | Reserve for the publish build and for verifying escape-hatch code. Never for interactive preview. |
+| **Iframe + JSON hot-swap** *(recommended to start)* | A pre-built preview app receives the document over `postMessage` and re-renders. ~50ms updates. No bundler, no `npm install`, no container. Per-session cost effectively zero. | The right first choice. It can only render registry components — which is exactly the scope of a registry-based builder. Works in every browser including iOS Safari. |
+| **Sandpack + Nodebox** (CodeSandbox, Apache 2.0) | Real in-browser bundling with npm resolution. Bundler is **self-hostable**. Built without `SharedArrayBuffer`, so it runs in Safari and needs no cross-origin isolation headers. | The pragmatic upgrade path once a code escape hatch exists. Self-hosting removes the third-party runtime dependency. |
+| **WebContainer API** (StackBlitz) | Full Node.js in the browser — highest fidelity, and what powers Bolt. Requires `SharedArrayBuffer` and cross-origin isolation headers; historically no Safari support. | **Production for-profit use requires a commercial licence**, and StackBlitz's terms document a 500-sessions-per-month allowance on commercial plans before separate licensing. Prototypes are exempt. Treat as a legal/procurement decision, not a technical one. |
+| **Server-side sandbox** (E2B, Firecracker, Docker) | Full fidelity, no browser constraints, but real per-session compute cost. | Reserve for the publish build and for verifying escape-hatch code. Never for interactive preview. |
 
 > **Architectural principle: preview must not require a build.** If changing a headline triggers an `npm install`, you are paying container compute for every trivial edit by every user. Real builds happen once, at publish.
 
@@ -378,10 +378,12 @@ The preview contract is small enough to write down:
    - Integrity checks: broken internal links, missing `alt`, duplicate `<h1>`, missing meta description
 4. **Artifact.** Output is an immutable tarball tagged with a content hash, pushed to object storage. The same artifact is what gets served, archived and exported.
 5. **Atomic deploy.** Extract to a versioned directory, then flip a symlink:
+
    ```
    /sites/ste_8f21/releases/rel-a91c3f/
    /sites/ste_8f21/current -> releases/rel-a91c3f
    ```
+
    Deploys are instant and atomic. Rollback is flipping the symlink back. Purge the CDN by tag.
 6. **Serve.** Apache, LiteSpeed, Nginx or a CDN serves files directly. Cache policy is the one that matters:
    - hashed assets (`/_assets/app.a91c3f.css`) → `Cache-Control: public, max-age=31536000, immutable`
@@ -423,12 +425,14 @@ Be explicit about one thing: **"no CMS" does not mean "no backend."** The builde
 For the ~5% of requests the registry genuinely cannot express. This is the last thing to build, and it needs hard boundaries.
 
 **Generation constraints.** The model produces a single isolated `.tsx` file that must:
+
 - accept only serializable props, declared as a Zod schema alongside the component
 - import only from an allowlisted design-system module — no arbitrary npm, no network, no `fs`
 - reference styling through tokens only, same rule as everything else
 - export a default component and a named `schema`
 
 **Admission gates.** The file enters the registry only after passing, in a sandbox with no network and no secrets:
+
 1. `tsc --noEmit`
 2. ESLint with the registry rule set (no module state, no `className` prop, no raw color literals)
 3. A headless render smoke test at three breakpoints, with min-length and max-length props

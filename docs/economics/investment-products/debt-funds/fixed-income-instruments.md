@@ -30,6 +30,7 @@ https://en.wikipedia.org/wiki/Fixed_income
 - short to medium-term bond funds
 - Bonds
 - Debentures (good option)
+- [International Debt ETFs (IBKR + UCITS)](economics/investment-products/debt-funds/international-debt-etfs-ibkr.md) - global bond ETFs for USD exposure via Interactive Brokers
 - https://www.thefixedincome.com
 
 ## PPF (Public Provident Fund)

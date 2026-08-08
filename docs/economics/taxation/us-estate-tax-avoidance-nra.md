@@ -389,6 +389,7 @@ Single-stock Irish ETPs (like LS 1X GOOG) **do** avoid estate tax, but:
 
 - [Irish-Domiciled Tech ETFs - IUIT & CNDX](economics/investment-products/equity-funds/irish-tech-etfs-iuit-cndx.md)
 - [International ETFs - VWRA & Global Funds](economics/investment-products/equity-funds/international-etfs.md)
+- [International Debt ETFs (IBKR + UCITS)](economics/investment-products/debt-funds/international-debt-etfs-ibkr.md)
 - [Foreign Taxation Guide](economics/taxation/taxation-foreign.md)
 - [IBKR Platform Guide](economics/learning-resources/tools-platforms.md)
 - [Broker Transfer Strategies](economics/taxation/broker-transfer-strategies-morgan-stanley-ibkr.md)

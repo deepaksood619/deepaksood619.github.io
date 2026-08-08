@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/equity-mutual-funds
 title: Equity Mutual Funds
 description: Explore equity mutual funds, including bluechip and ELSS options, and learn how multi-asset funds differ from traditional hybrid funds for informed investing.
 created: 2023-08-11
-updated: 2026-06-09
+updated: 2026-08-09
 ---
 ## Equity funds or growth funds
 
@@ -122,7 +122,33 @@ Active - Quant Momentum Fund
 10. Smart beta momentum - Alternative weighting schemes to capture momentum in asset prices
 11. Global macro momentum - Invest based on macroeconomic factors like GDP, interest rates, inflation, trade balance, etc across global markets
 
+### Why Momentum Fits (Avoiding the Falling Knife)
+
+Why momentum fits
+
+- Cuts the fall short. A mechanical exit gets you off the falling knife early - you never ride a stock down to zero.
+- Shortens the calendar. By sitting out the deep declines, it trades away the years underwater - the duration, not just the depth.
+- Rides the survivors. It stays in the names still making highs and leaves the ones that don't - no crystal ball needed.
+
+The deep fall is unavoidable and you can't spot the winner at the bottom - so stop guessing and let a rule ride the strength and cut the weakness for you.
+
+There's a rule for this. Don't predict which stock recovers. Just hold what's rising, exit what's falling. That's momentum - and it's built for this exact problem.
+
+[Escape This SMALLCAP TRAP Before Its Too Late | Weekend Investing | Alok Jain - YouTube](https://youtu.be/m4jNQqIGW2Q)
+
 [Why Momentum Investing is now 15% of My Portfolio? | How to Find Momentum Stocks | Momentum Funds - YouTube](https://www.youtube.com/watch?v=xbRiKHchqFg&ab_channel=ShankarNath)
+
+### Best Momentum Funds for Indian Investors (and the Liquidity Caveat)
+
+| Index/Fund | 5Y avg rolling return | Volatility | Notes |
+| --- | --- | --- | --- |
+| **Nifty200 Momentum 30** | 17.21% | Lowest among momentum indices | Large-cap tilt, most liquid, largest AUM options (e.g. ICICI Prudential Nifty 200 Momentum 30 Index Fund - ~Rs. 555 Cr AUM, 0.27% TER direct plan) |
+| **Nifty500 Momentum 50** | 18.02% | Moderate | ~47% large cap / 32% midcap / 21% smallcap mix; +6.23% excess return over parent Nifty 500 |
+| **Nifty Midcap150 Momentum 50** | Highest of the three | Highest | Best backtested returns but highest drawdown risk |
+
+Momentum is cyclical and crashes hard when leadership rotates - ICICI Prudential's Nifty200 Momentum 30 Index Fund posted a **-10.43% 1-year return** even with a 20.64% CAGR since inception, illustrating exactly the "smallcap trap" pattern the mechanical-exit rule above is designed to avoid.
+
+**The bigger caveat:** [Is Indian Momentum Investing Just a Liquidity Illusion?](https://freefincal.com/is-indian-momentum-investing-just-a-liquidity-illusion/) (freefincal, using 19 years of NSE backtest data) found the momentum premium in India lives almost entirely in **illiquid, low-turnover stocks** that no AUM-scaled fund can actually hold without moving the price. The liquid half of the momentum universe - what every retail momentum index fund/ETF is forced to hold - returned just **8.51% CAGR with a -75% max drawdown** (worse than a plain Nifty 50 index fund), while the untouchable illiquid half returned **19.43% CAGR** with a worst 3-year CAGR of only -8.9%. In other words, the momentum premium documented in Indian backtests may really be an **illiquidity premium** - compensation for holding under-researched, thinly-traded stocks that retail-scale funds cannot replicate. Treat momentum funds as a smaller, higher-risk satellite allocation (the ~10-15% figure in the ShankarNath video above), not a core holding expected to beat the index.
 
 [Learn to build momentum portfolio in 6 easy steps | What is momentum & h...](https://youtu.be/_BonDIAu0s0)
 

@@ -3,7 +3,7 @@ slug: /ai/llm/building-llm-apps/tools
 title: Tools
 description: Discover essential tools and apps for Gen AI, including top consumer apps, LLM collections, and chatbot utilities to enhance your AI experience.
 created: 2026-06-18
-updated: 2026-06-27
+updated: 2026-08-08
 ---
 [The Top 100 Gen AI Consumer Apps — 6th Edition \| Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-6/)
 
@@ -155,7 +155,6 @@ updated: 2026-06-27
 - [Double Support Engineering Productivity \| AI Support Engineer \| RunLLM](https://www.runllm.com/)
 - [Puch AI](https://puch.ai/)
 - [SimplAI – Scalable, Secure Agentic AI Platform to Automate Enterprise Workflows](https://simplai.ai/)
-- [Work AI for all - AI platform for agents, assistant, search](https://www.glean.com/)
 - [Gong - Revenue AI Platform](https://www.gong.io/)
 - [Synthetic Society](https://syntheticsociety.ai/)
 - [#1 Intelligent Kubernetes Automation Platform – Cast AI](https://cast.ai/)
@@ -164,6 +163,7 @@ updated: 2026-06-27
 - [Genspark - The All-in-One AI Workspace](https://www.genspark.ai/)
 - [Glean – Work AI that Works \| Agents, Assistant & Search](https://www.glean.com/)
 	- [Agents - Glean Help Center](https://docs.glean.com/agents/home)
+- [Chad — AI Agents for Enterprises](https://trychad.com/)
 - https://www.momentum.io/
 - https://youraislopbores.me/
 - https://littlebird.ai/

@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-06-16
+updated: 2026-08-08
 ---
 ## Youtube
 
@@ -537,6 +537,11 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 
 ### Torrents
 
+Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudflare DNS may help bypass basic blocking.
+
+- Google DNS: **8.8.8.8** and 8.8.4.4
+- Cloudflare DNS: 1.1.1.1
+
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 118k
     - [Checking Browser Services](https://old-gods.technorozen.workers.dev/1746434002950/home/)
     - https://www.highspeedcdnserver.workers.dev/1763392793140/top-100
@@ -551,7 +556,6 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
     - 1377x.to
     - https://1337x.bz/
     - [1337x.to | Download Free Torrent and Magnet Links](https://1337x.isworking.xyz/)
-    - [1337x.bz](https://1337x.bz/)
     - https://1337xto.to/
     - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
     - https://www1.thepiratebay3.to/

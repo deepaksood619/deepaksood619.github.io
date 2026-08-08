@@ -10,6 +10,7 @@ updated: 2026-08-05
 - [Why Interactive Brokers India \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/whyib/overview-why-ibkr-india.php)
 - [Commission Free ETFs \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/trading/commission-free-etfs-mkt.php)
 - [Mutual Funds Outside the US \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds-non-us.php?re=europe)
+- See also: [International ETFs (Equity)](economics/investment-products/equity-funds/international-etfs.md) and [International Debt ETFs (IBKR + UCITS)](economics/investment-products/debt-funds/international-debt-etfs-ibkr.md)
 - [Commissions Mutual Funds \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds.php)
 - [Interest Rates \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/accounts/fees/pricing-interest-rates.php?gclid=CjwKCAiAzPy8BhBoEiwAbnM9Ox8c9hBoKsjM1OcUHPlMxv8me31dVnUy73jfnS_kV7ZpssPb_9aBJxoC6_4QAvD_BwE)
 - [Can an Indian resident open an account on Interactive Brokers for trading globally? - Quora](https://www.quora.com/Can-an-Indian-resident-open-an-account-on-Interactive-Brokers-for-trading-globally)
