@@ -3,7 +3,7 @@ slug: /technologies/apache/apache-iceberg
 title: Understanding Apache Iceberg
 description: Discover Apache Iceberg, a high-performance format for analytics tables, enabling reliable SQL operations across multiple engines seamlessly.
 created: 2025-12-04
-updated: 2026-06-11
+updated: 2026-08-09
 ---
 Iceberg is a high-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, and Hive to safely work with the same tables, at the same time.
 
@@ -128,3 +128,4 @@ WHERE event_details:account_id::int = 12345
 - [Iceberg + Tableflow: Confluent's Course on Apache Iceberg™ ft. Tim Berglund](https://youtube.com/playlist?list=PLf38f5LhQthcLN84xP6JgQ-pEbAc8SbSi&si=RcTS0x5s0MnNIbsF)
 - [Table Maintenance | Apache Iceberg + Tableflow](https://youtu.be/DrqhimHIs08?si=AfQt6Y76-XzkWhlG)
 - [Tableflow Overview: Turn Kafka Topics into Analytics-Ready Tables](https://youtu.be/fJAq7PhoodU)
+- [Deliver Apache Kafka data to streaming tables for Apache Iceberg with Amazon MSK Express brokers](https://aws.amazon.com/blogs/big-data/deliver-apache-kafka-data-to-streaming-tables-for-apache-iceberg-with-amazon-msk-express-brokers/)

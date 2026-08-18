@@ -3,7 +3,7 @@ slug: /computer-science/general/newsletter-learning-resources
 title: Newsletter and Learning Resources
 description: Explore curated newsletters and essential learning resources for databases and advanced topics in web development.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-08-09
 ---
 https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send
 
@@ -188,3 +188,4 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [GitHub - cloudcommunity/Free-Certifications: A curated list of free courses with certifications. Also available at https://free-certifications.com/](https://github.com/cloudcommunity/Free-Certifications) ⭐ 53k
 	- [Free Certifications - Find Free Professional Certifications Online](https://free-certifications.com/)
 - [GitHub - gabe565/ascii-movie: Star Wars SSH + Telnet server written in Go.](https://github.com/gabe565/ascii-movie) ⭐ 594
+- [The Daily Diff \| Papers and Threads Worth Your Time](https://tdd.cat/)

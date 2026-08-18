@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/equity-mutual-funds
 title: Equity Mutual Funds
 description: Explore equity mutual funds, including bluechip and ELSS options, and learn how multi-asset funds differ from traditional hybrid funds for informed investing.
 created: 2023-08-11
-updated: 2026-08-09
+updated: 2026-08-14
 ---
 ## Equity funds or growth funds
 
@@ -350,3 +350,4 @@ Earn passive income with the help of 3 partial withdrawal strategies which can b
 - [Parag Parikh Flexi Cap and Quant Small Cap among 12 equity mutual funds to offer over 20% CAGR in 3, 5, 7 years - The Economic Times](https://m.economictimes.com/mf/analysis/parag-parikh-flexi-cap-and-quant-small-cap-among-12-equity-mutual-funds-to-offer-over-20-cagr-in-3-5-7-years/amp_articleshow/125129020.cms)
 - [Best Large-cap Fund 2026 \| Mutual Funds For 2026 By Finology - YouTube](https://youtu.be/-AL1tAlYFu4)
 - [List of worst equity mutual funds (Jan 2013 to Dec 2025)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2025/)
+- [Mutual Fund Mistakes Over 11 Years - YouTube](https://www.youtube.com/watch?v=INviXxU36TM)

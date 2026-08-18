@@ -219,7 +219,7 @@ updated: 2026-08-08
 ## DeepFakes
 
 - [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
-	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 94k
+	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 96k
 - [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
 
 ```bash

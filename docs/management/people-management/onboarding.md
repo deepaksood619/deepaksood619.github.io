@@ -3,9 +3,9 @@ slug: /management/people-management/onboarding
 title: Comprehensive Onboarding Guide for Tech Teams
 description: Explore our detailed onboarding guide for new tech employees, including tools, processes, and team integration steps.
 created: 2023-12-10
-updated: 2024-02-05
+updated: 2026-08-18
 ---
-### IDE - VSCode
+## IDE - VSCode
 
 - GitLens
 - GitGraph
@@ -22,11 +22,11 @@ updated: 2024-02-05
 - Leave and WFH policy and how to apply
 - 1st and 2nd day shadow all tech standups
 
-#### Processes
+### Processes
 
 - How to merge and move to live
 
-#### Start
+### Start
 
 - Email
 - Add to tech.team groups
@@ -45,13 +45,13 @@ updated: 2024-02-05
     - AWS
     - VPN
 
-#### 2nd Week Start
+### 2nd Week Start
 
 - Follow up and syncup personally
 - Onboarding buddy
 - Mentor - Mentee
 
-### Python
+## Python
 
 - You don't have to comment out all the logs.. You can leave `logging.debug` uncommented, it will not be printed in production and will be printed in local. And you can use `logging.info` for printing in production for general use case. use `logging.error` for logging known exception and send alerts too. and `logging.exception` for logging unexpected exception which will send alerts along with `Traceback`.
 - And don't overlog using `logging.info` because it will be printed for each exception. But think in terms of if there is an error will logging here makes easier to debug. if yes then log otherwise not.
@@ -61,26 +61,26 @@ updated: 2024-02-05
 
 Notes - Kubernetes EKS Infra
 
-### Important Points - Management
+## Important Points - Management
 
 - Complete and deliver the task on or before deadlines (take ownership of tasks and dependencies)
 - Create all sheets/docs everything in Tech Documents Folder
 - We will not followup on tasks, that you have said you will do, and then don't do it.
 
-### Coding (Test / Monitor / Alert / Logs (debugging))
+## Coding (Test / Monitor / Alert / Logs (debugging))
 
 - How will you test it
 - How will you monitor it
 - How will you get alerted on error
 
-### Coding Standards
+## Coding Standards
 
 - snake_case vs CamelCase
 - abc-xyz vs abc_xyz
 - Object Oriented Programming Tutorial
 - [coding-guidelines-code-reviews-clean-code](computer-science/software-engineering/coding-guidelines-code-reviews-clean-code.md)
 
-### Android
+## Android
 
 - Firebase crashlytics
 - Firebase analytics

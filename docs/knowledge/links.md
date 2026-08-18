@@ -66,6 +66,7 @@ updated: 2026-06-22
 - [Do These Supplements Work? (Your Questions Answered)](https://youtu.be/g8hbTcARHeE)
 - [Why Modern Dating Is Broken: AI Partners, Marriage & Love](https://youtu.be/UVkmS2WTfFo)
 - [A Simple Solution to Fix Workplace Miscommunication](https://youtu.be/xx8mwytj4CY)
+- [A Rookies Guide to Watches - YouTube](https://www.youtube.com/watch?v=AdJkqGo_9Qk)
 
 ## Other Links
 

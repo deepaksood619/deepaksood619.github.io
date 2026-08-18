@@ -3,12 +3,20 @@ slug: /cloud/azure/commands
 title: Commands
 description: Discover essential Azure CLI commands for managing Kubernetes clusters, upgrading services, and configuring IP allocations with ease.
 created: 2023-03-05
-updated: 2025-11-09
+updated: 2026-08-05
 ---
 ```bash
+# mac
 brew update && brew install azure-cli
+# ubuntu
+curl -fsSL 'https://azurecliprod.blob.core.windows.net/$root/deb_install.sh' | sudo bash
 
+# will trigger browser authentication
 az login
+
+# show & set subscriptions
+az account list --output table
+az account set --subscription "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 
 az aks install-cli
 
@@ -16,22 +24,16 @@ az aks get-credentials --resource-group Technology --name kubernetes-cluster
 
 az --version
 
-brew update && brew upgrade azure-cli
-
 ## for tunneling to kubernetes-dashboard
-
 az aks browse --resource-group Technology --name prod-cluster
 
 ## Upgrade
-
 az aks get-upgrades --resource-group Technology --name dev-kubernetes-cluster --output table
 
 ## ACR
-
 az acr list --resource-group Technology --query "[].{acrLoginServer:loginServer}" --output table
 
 ## IP Allocations
-
 az aks show --resource-group Technology --name dev-kubernetes-cluster --query nodeResourceGroup -o tsv
 
 az network public-ip create --resource-group MC_Technology_dev-kubernetes-cluster_southindia --name kafka1PublicIP --allocation-method static

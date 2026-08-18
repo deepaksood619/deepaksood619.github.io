@@ -3,7 +3,7 @@ slug: /ai/agi
 title: AGI (Artificial General Intelligence)
 description: Explore AGI, the future of artificial intelligence, and its implications for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
 created: 2023-03-05
-updated: 2026-07-13
+updated: 2026-08-09
 ---
 **Future of Jobs - You can outsource the thinking but not the understanding**
 
@@ -85,3 +85,6 @@ One day, frontier AI research used to be done by meat computers in between eatin
 - [Beware of Productivity Paradoxes - Cal Newport](https://calnewport.com/beware-of-productivity-paradoxes/)
 - [anthropic.com/research/global-workspace](https://www.anthropic.com/research/global-workspace)
 	- [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html)
+
+- [The Actual Reason Why Google “Fell Out” of the AI Race Changes Everything](https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell)
+- [Databricks Hits $190 Billion Valuation As CEO Ali Ghodsi Claims AGI Already Arrived](https://www.forbes.com/sites/victordey/2026/08/13/databricks-hits-190-billion-valuation-as-ceo-ali-ghodsi-claims-agi-already-arrived/?)

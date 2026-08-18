@@ -37,7 +37,7 @@ Confluent is the enterprise platform built on Apache Kafka, offering managed clo
 - [AWS Transit Gateway](technologies/confluent/cloud-networking/07-aws-transit-gateway.md)
 - [AWS/Azure Private Link](technologies/confluent/cloud-networking/08-aws-azure-private-link.md)
 - [Best Networking Options](technologies/confluent/cloud-networking/10-best-networking-options.md)
-- [Confluent Cloud with Private Networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking.md)
+- [Confluent Cloud with Private Networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking-proxy-setup.md)
 
 ### Cloud Security
 

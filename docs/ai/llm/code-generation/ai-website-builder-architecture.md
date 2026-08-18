@@ -143,7 +143,7 @@ Every registry component must satisfy these rules, enforced by lint rules and a 
 
 A single user edit passes through seven stages. Stages 1, 3 and 4 are where reliability is won or lost.
 
-```
+```text
 prompt + selection
    │
    ▼
@@ -260,7 +260,7 @@ Three principles behind this:
 
 Store the patch, not the resulting document. An append-only patch log gives you undo, per-section revert, a full audit trail and cheap storage for free:
 
-```
+```text
 sec_a91c  v1  {op:replace, /props/heading}      2026-08-04T09:12Z  ai
 sec_a91c  v2  {op:replace, /props/variant}      2026-08-04T09:13Z  ai
 theme     v3  {op:replace, /tokens/color.brand} 2026-08-04T09:15Z  ai
@@ -379,7 +379,7 @@ The preview contract is small enough to write down:
 4. **Artifact.** Output is an immutable tarball tagged with a content hash, pushed to object storage. The same artifact is what gets served, archived and exported.
 5. **Atomic deploy.** Extract to a versioned directory, then flip a symlink:
 
-   ```
+   ```text
    /sites/ste_8f21/releases/rel-a91c3f/
    /sites/ste_8f21/current -> releases/rel-a91c3f
    ```

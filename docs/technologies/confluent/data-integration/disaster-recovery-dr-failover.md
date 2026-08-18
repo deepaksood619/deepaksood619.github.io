@@ -3,7 +3,7 @@ slug: /technologies/confluent/disaster-recovery-dr-failover
 title: Disaster Recovery for Kafka Clients
 description: Learn how to implement effective disaster recovery and failover strategies for Kafka clients to ensure data continuity.
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-08-18
 ---
 ## DR Failover
 
@@ -32,6 +32,8 @@ For the Disaster Recovery (DR) cluster to be ready to use when disaster strikes,
 The gateway needs to be very resilient to broker, cluster, or CSP region outages. When your active cluster fails, this setup still requires manual action: You must trigger a failover in the gateway by closing the in-flight connections and switching to passive mode. That will prompt Kafka clients that use the active cluster as an endpoint to re-bootstrap the connection and resume their jobs, but now they’ll produce messages to or consume messages from the passive cluster.
 
 [Building Kafka Client Failover: A 60-Second disaster recovery POC with Confluent Cloud Gateway](https://www.confluent.io/blog/kafka-client-failover-poc-confluent-cloud-gateway/)
+
+[Deploy and Manage Confluent Cloud Gateway \| Confluent Documentation](https://docs.confluent.io/cloud/current/cp-component/gateway/overview.html)
 
 ## Confluent Cloud Gateway
 

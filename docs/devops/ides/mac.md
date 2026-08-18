@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-08-08
+updated: 2026-08-14
 ---
 ## Shortcuts
 
@@ -98,6 +98,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	- chrome
 		- dark mode - I use both of dark reader extension and Chrome://flags. It can be interchangeable if the website has the problem with dark mode
 		- [Change every single website to 'Dark Mode' in Google Chrome. : r/chrome](https://www.reddit.com/r/chrome/comments/uhhu3v/change_every_single_website_to_dark_mode_in/)
+		- Google Calendar
+			- Setting - Don't show others your events
 	- file download manager
 	- google drive
 	- obsidian

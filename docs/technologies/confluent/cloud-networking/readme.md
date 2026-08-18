@@ -17,7 +17,7 @@ updated: 2026-07-05
 9. [Configure a Private Link Cluster (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-private-link/)
 9.5. [09-aws-pni](technologies/confluent/cloud-networking/09-aws-pni.md)
 10. [10-best-networking-options](technologies/confluent/cloud-networking/10-best-networking-options.md)
-11. [11-confluent-cloud-with-private-networking](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking.md)
+11. [11-confluent-cloud-with-private-networking-proxy-setup](technologies/confluent/cloud-networking/11-confluent-cloud-with-private-networking-proxy-setup.md)
 
 ## Background Technology
 

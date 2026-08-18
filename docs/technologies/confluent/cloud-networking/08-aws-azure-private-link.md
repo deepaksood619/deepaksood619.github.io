@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-networking/08-aws-azure-private-link
 title: AWS/Azure Private Link Overview
 description: Learn how AWS/Azure Private Link enables secure private networking access to your Confluent Cloud cluster through virtual endpoints.
 created: 2025-12-10
-updated: 2026-04-23
+updated: 2026-08-07
 ---
 ## Private Link – Overview
 
@@ -82,6 +82,29 @@ Here’s a few things to keep in mind when considering using Private Link for Co
 - In AWS regions with more than three AZs, you’ll have the ability to specify which AZs the Confluent Network resides in.
 
 In summary, Private Link is the most secure network connectivity option between your network and Confluent Cloud. It also reduces the need for proxies; it behaves as if Kafka is running in your VPC or VNet. If you can meet the DNS requirements, it’s a really solid option.
+
+## Azure Private Link
+
+To use an Azure Private Link service with Confluent Cloud, your VNet must allow outbound Internet connections for Confluent Cloud Schema Registry, ksqlDB, and Confluent CLI to work.
+
+- DNS requests to public authority traversing to private DNS zone is required.
+- Confluent Cloud Schema Registry is accessible over the Internet.
+- Provisioning new ksqlDB instances requires Internet access. After ksqlDB instances are up and running, they are fully accessible over Azure Private Link connections.
+- Confluent CLI requires Internet access to authenticate with the Confluent Cloud control plane.
+
+Confluent Cloud Console components, such as topic management, need additional configuration to function as they use cluster endpoints.
+
+You can create Azure Private Endpoints in regions that are different from where Confluent hosts the Private Link Service
+
+Existing Confluent Cloud clusters cannot be converted to use Azure Private Link.
+
+Confluent Cloud selects the availability zones for the Confluent Cloud cluster and Azure Private Link service. You cannot select availability zones.
+
+[Use Azure Private Link connections with Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/private-links/azure-privatelink.html)
+
+[What is a virtual network link subresource of Azure DNS private zones \| Microsoft Learn](https://learn.microsoft.com/en-gb/azure/dns/private-dns-virtual-network-links)
+
+[What is a private endpoint? - Azure Private Link \| Microsoft Learn](https://learn.microsoft.com/en-gb/azure/private-link/private-endpoint-overview#dns-configuration)
 
 ## Errata
 

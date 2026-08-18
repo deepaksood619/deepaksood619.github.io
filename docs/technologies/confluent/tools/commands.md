@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-updated: 2026-07-27
+updated: 2026-08-06
 ---
 ```bash
 ./kafka-topics --version
@@ -44,11 +44,13 @@ confluent local services ksql-server version
 confluent local services schema-registry version
 
 confluent environment list
+# deep-test-env
 confluent environment use env-n093j6
 
 confluent kafka cluster list
-# cluster id = lkc-zmjxkd
-confluent kafka cluster use lkc-pggvwv5
+
+# test basic cluster
+confluent kafka cluster use lkc-0ndg35
 
 confluent api-key list
 confluent api-key create --resource lkc-pggvwv5
@@ -71,7 +73,7 @@ while true; do
 done | confluent kafka topic produce test-topic
 
 # consume
-confluent kafka topic consume clickstream
+confluent kafka topic consume test-topic
 confluent kafka topic consume clickstream --group test-group
 confluent kafka topic consume --from-beginning test-topic
 confluent kafka topic consume test-topic --from-beginning --timestamp

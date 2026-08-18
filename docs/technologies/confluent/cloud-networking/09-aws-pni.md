@@ -3,7 +3,7 @@ slug: /confluent-cloud-aws-private-network-interface-pni
 title: AWS Private Network Interface (PNI) for Confluent Cloud
 description: Secure, cost-effective private networking for Confluent Cloud using AWS Elastic Network Interfaces - reduces costs by 50% vs PrivateLink
 created: 2026-07-05
-updated: 2026-07-07
+updated: 2026-08-18
 ---
 Confluent PNI is a secure, low-cost private networking option built directly on fundamental AWS networking primitives such as AWS Elastic Network Interfaces (ENI). It leverages the same underlying AWS networking primitives used to power Amazon's own services, such as Amazon Elastic Kubernetes Service (EKS) or AWS Lambda.
 
@@ -81,21 +81,45 @@ Workload: 60 MB/s ingress, 120 MB/s egress, 3x consume fanout
 
 ### Core Components
 
-**Gateway**
+#### Gateway
 
 A gateway is a resource that represents a connectivity type to and from Confluent Cloud services. It is created within an environment for the region and zone(s) you choose. The PNI gateway allows you to connect to Confluent Cloud services, such as Freight and Enterprise clusters, hosted in a given environment and region, from your network.
 
 - Represents a connectivity type to and from Confluent Cloud services
 - Created within environment for specific region/zone(s)
 
-**Access Point**
+#### Access Point
 
 An access point is a resource that represents a connection instance to a gateway and must match the type of the gateway it connects to. An access point of type PNI consists of a set of AWS ENIs in the same cloud region as the gateway, carrying traffic to and from Confluent Cloud services. The PNI access point provides you with a connection to services like Freight and Enterprise clusters, hosted in a specific environment and region, from your network.
 
 - Represents a connection instance to a gateway
 - Consists of a set of AWS ENIs in the same cloud region as the gateway
 
-**ENIs (Elastic Network Interfaces)**
+**Yes—if you delete and recreate the PNI access point, the PNI bootstrap endpoint will change.**
+
+The PNI hostname includes the access-point ID:
+
+```text
+lkc-<cluster-id>-<access-point-id>.<region>.aws.accesspoint.glb.confluent.cloud:9092
+```
+
+A recreated access point receives a new ID, so clients must update `bootstrap.servers` and the corresponding REST endpoint.
+
+The Kafka cluster ID, topics, data, credentials, and non-PNI endpoints remain unchanged. Expect a connectivity outage while the new access point reaches `READY`.
+
+**Important:** If only the AWS ENIs are deleted/recreated, the endpoint may not change—but the existing PNI will reference the old ENI IDs and fail until the access point is recreated with the new IDs.
+
+#### Access Schema Registry over PNI
+
+If you use PNI to connect to Enterprise or Freight clusters, you can reach Schema Registry over the same PNI connection. You don’t need a separate AWS PrivateLink connection for Schema Registry. After you set up a PNI gateway and access point in an environment, Confluent Cloud creates a PNI endpoint for Schema Registry in that environment automatically. No extra setup or per-cluster configuration is required. Your client applications use this endpoint to register, retrieve, evolve, and delete schemas privately over PNI.
+
+The Schema Registry PNI endpoint is scoped to the access point and uses the following format:
+
+```text
+lsrc-<schema_registry_id>-<access_point_id>.<region>.aws.accesspoint.glb.confluent.cloud
+```
+
+#### ENIs (Elastic Network Interfaces)
 
 - Reside in customer's AWS account/VPC
 - Customer owns and controls ENIs (create, update, delete, attach security groups)

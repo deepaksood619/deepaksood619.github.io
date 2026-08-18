@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/prompt-examples
 title: Prompt Examples
 description: Discover a versatile collection of prompt examples for education, AI applications, and effective learning tools to enhance your creativity and productivity.
 created: 2026-06-18
-updated: 2026-07-01
+updated: 2026-08-09
 ---
 - [personal-tutor-prompt](education/product-concepts/personal-tutor-prompt.md)
 - [quiz-app-prompt](education/product-concepts/quiz-app-prompt.md)
@@ -604,16 +604,16 @@ _When processing the user’s input, evaluate the following constraints before g
 
 ### Asset Allocation Financial Advisor Deep Research Prompt
 
-Act as an expert wealth manager and quantitative financial analyst. I want you to perform a deep-dive analysis of my current asset allocation using the attached gsheet.
+Act as an expert wealth manager and quantitative financial analyst. I want you to perform a deep-dive analysis of my current asset allocation using the attached sheet.
 
 Your objective is to evaluate my portfolio's diversification, identify concentration risks (sector, company, or asset class), assess liquidity, and determine if the current allocation aligns with my long-term financial goals and risk tolerance.
 
 Please rely on and specifically extract data from the following sheets for your analysis:
 
-1. **Macroscopic Asset Allocation**: Use `Asset Allocation | Investments | Portfolio - Total.csv` to analyze the high-level split between Debt, Equity, Crypto, Gold, and Property. Calculate the current ratios versus the target allocations.
-2. **Microscopic Equity Analysis**: Use `Asset Allocation | Investments | Portfolio - Equity.csv`, `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Sectors.csv`, and `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Companies.csv` to analyze sector concentrations, individual stock exposure (identifying any single-stock heavy biases), and the domestic vs. international equity balance.
-3. **Fixed Income & Liquidity**: Use `Asset Allocation | Investments | Portfolio - Debt.csv` to assess the liquidity profile, maturity timelines, and risk levels of the debt instruments.
-4. **Alternative Assets**: Refer to `Asset Allocation | Investments | Portfolio - Gold.csv`, `Asset Allocation | Investments | Portfolio - Crypto.csv`, and `Asset Allocation | Investments | Portfolio - Properties.csv` to evaluate the exposure, sizing, and utility of these non-traditional assets within the broader portfolio.
+1. **Macroscopic Asset Allocation**: Use `Total` to analyze the high-level split between Debt, Equity, Crypto, Gold, and Property.
+2. **Microscopic Equity Analysis**: Use `Equity`, `Equity Dump - Pivot Sectors`, and `Equity Dump - Pivot Companies` to analyze sector concentrations, individual stock exposure (identifying any single-stock heavy biases), and the domestic vs. international equity balance.
+3. **Fixed Income & Liquidity**: Use `Debt` to assess the liquidity profile, maturity timelines, and risk levels of the debt instruments.
+4. **Alternative Assets**: Refer to `Gold`, `Crypto`, and `Properties` to evaluate the exposure, sizing, and utility of these non-traditional assets within the broader portfolio.
 
 Please structure your output as follows:
 

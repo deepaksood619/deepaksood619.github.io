@@ -3,7 +3,7 @@ slug: /knowledge/geography/places-to-live
 title: Places to live
 description: Discover the best places to live with welcoming communities, good climate, excellent infrastructure, and opportunities for families and businesses.
 created: 2026-05-14
-updated: 2026-05-19
+updated: 2026-08-14
 ---
 ## Things needed for a new country
 
@@ -179,3 +179,4 @@ About me - https://deepaksood619.github.io/about-deepak-sood/ Father of 2 daught
 - [countries-metrics](knowledge/geography/countries-metrics.md)
 - [living](knowledge/geography/living.md)
 - [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)
+- **IMP -** [Move to Europe Without Quitting Your Indian Income: Step-by-Step ₹50 Lakh Plan \| Mr. Deepesh \| FWS - YouTube](https://www.youtube.com/watch?v=w4VDxKPinkI)

@@ -3,7 +3,7 @@ slug: /technologies/confluent/warpstream
 title: "WarpStream: Revolutionizing Data Streaming"
 description: Discover WarpStream, a cost-effective, Kafka-compatible data streaming platform built on S3 for seamless, efficient data management.
 created: 2025-02-24
-updated: 2026-04-21
+updated: 2026-08-13
 ---
 [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 
@@ -47,3 +47,4 @@ Confluent acquired WarpStream for **$220 million** in a deal completed on Sept
 - [Confluent acquires WarpStream \| Confluent](https://www.confluent.io/blog/confluent-acquires-warpstream/)
 - [WarpStream is Dead, Long Live WarpStream](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
 - [What is WarpStream by Confluent? (A Lightboard by Tim Berglund) - YouTube](https://www.youtube.com/watch?v=lrD0abLJhYY)
+- [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab)

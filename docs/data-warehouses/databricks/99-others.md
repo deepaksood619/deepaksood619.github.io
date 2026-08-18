@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/99-others
 title: Databricks File Download and DBIO Insights
 description: Learn how to download files from Databricks and understand the DBIO file fragment process on NetApp Data ONTAP.
 created: 2023-03-10
-updated: 2025-10-24
+updated: 2026-08-14
 ---
 ## Download file from DBFS in Databricks
 
@@ -95,3 +95,6 @@ You can use Auto Loader to process billions of files to migrate or backfill a 
 - [Partitions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-partition.html)
 - [DBeaver integration with Databricks | Databricks on AWS](https://docs.databricks.com/dev-tools/dbeaver.html)
 - [Introducing English as the New Programming Language for Apache Spark | Databricks Blog](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
+- [PostgreSQL connector FAQs \| Databricks on AWS](https://docs.databricks.com/aws/en/ingestion/lakeflow-connect/postgresql-faq)
+	- [What's the best strategy for CDC from Postgres to Databricks Delta Lake?](https://www.reddit.com/r/databricks/comments/1jv8nuu/whats_the_best_strategy_for_cdc_from_postgres_to/?rdt=54431)
+	- [Change data capture and snapshots \| Databricks on AWS](https://docs.databricks.com/aws/en/data-engineering/what-is-cdc)

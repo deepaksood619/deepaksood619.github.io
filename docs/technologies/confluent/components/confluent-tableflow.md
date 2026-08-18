@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-tableflow
 title: "Confluent Tableflow: Seamless Data Integration"
 description: Discover how Confluent Tableflow enables real-time access to Kafka data as tables, eliminating the need for traditional ETL processes.
 created: 2025-12-01
-updated: 2026-02-28
+updated: 2026-08-13
 ---
 [Tableflow: Materialize Apache Kafka® Topics as Apache Iceberg™ and Delta Lake Tables With Zero ETL - YouTube](https://www.youtube.com/watch?v=O2l5SB-camQ&ab_channel=ConfluentDeveloper)
 
@@ -12,13 +12,13 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 - **Operational estate**: The SaaS apps, ERPs, custom applications, etc. that serve the needs of applications to transact with customers in real-time
 - **Analytical estate**: The data warehouses, lakehouses, AI/ML platforms, and other custom batch workloads that support business analysis and reporting
 
-### The Evolution of Data Warehousing
+## The Evolution of Data Warehousing
 
 - **Classical Data Warehouse** (circa 1990): This model involved extracting data nightly from various operational databases and loading it into a central warehouse, creating a divide between operational and analytical data.
 - **The Hadoop Era** (late 2000s): This era saw a shift towards distributed storage and compute layers, where data was loaded into a "data lake," and the transformation step happened after extraction.
 - **Modern Data Lakes:** These use cloud storage (like S3) and Open Table formats (such as Apache Iceberg and Delta Lake) to apply schema and structure to the data, allowing for decoupled query processing.
 
-### The Problem with Traditional Data Pipelines
+## The Problem with Traditional Data Pipelines
 
 - **Copying Data:** Traditional methods involve copying data from operational systems to analytical systems, which costs money, takes time, and can result in a loss of context.
 - **Schema Management:** Without proper schema management, data in a data lake can be disorganized and difficult to use effectively. Open Table formats help solve this by introducing schema.
@@ -31,12 +31,12 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 | Performance degradation from small files  | Automatic file compaction and table optimization                                                       |
 | Complex data ops across environments      | Serves operational and analytical estates in real time via one mechanism                               |
 
-### How Table Flow Works
+## How Table Flow Works
 
 - **Native Integration:** Table flow works because the data in Kafka topics is stored in a way that is natively compatible with Open Table formats. This means the data in the topic is directly exposed as a table, eliminating the need to copy it.
 - **Leveraging Existing Features:** Table flow utilizes Confluent's Schema Registry to provide schema for the tables, making it easy to integrate with existing Kafka setups.
 
-### Data Cleaning and Transformation
+## Data Cleaning and Transformation
 
 - **Shift Left Approach:** Instead of cleaning data within the data lake, table flow encourages a **"shift left"** approach where transformations and cleaning are done within the streaming estate (e.g., using Flink) before the data is exposed as a table. This ensures the data is clean and ready for analysis from the start.
 - **Medallion Architecture:** A medallion architecture (bronze, silver, gold tiers) can be applied to Kafka topics, where raw data is refined into cleaner, more usable forms before being exposed as tables.
@@ -48,3 +48,4 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 - [Introducing Tableflow: Unifying Streaming and Analytics](https://www.confluent.io/blog/introducing-tableflow/)
 - [Starburst + Confluent Tableflow \| Starburst](https://www.starburst.io/blog/tableflow-confluent-starburst/)
 - [Updates and Deletes \| Apache Iceberg + Tableflow - YouTube](https://www.youtube.com/watch?v=64NKr3kBm-8)
+- [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab)

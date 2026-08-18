@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-security/22-authorizing-using-rbac-and-acls
 title: RBAC and ACLs Authorization Explained
 description: Learn how to effectively manage user access in Confluent Cloud using RBAC and ACLs for enhanced security and efficiency.
 created: 2025-12-10
-updated: 2026-07-09
+updated: 2026-08-18
 ---
 Your identities will need access to Confluent Cloud, whether it is to create applications or send and receive data. Allowing them to access your cluster as easily as possible is important to how well your business runs. At the same time, your access model needs to be structured in a way where you can easily add, remove, change, and verify permissions.
 
@@ -20,6 +20,16 @@ This problem is only made worse as the number of identities in your organization
 **ACLs are specific to Kafka resources and don’t extend to other Confluent Cloud concepts, such as environments and organizations.** Managing ACLs for a small number of identities likely isn’t a big deal. However, if you are working with a large organization with hundreds or thousands of identities, using **ACLs doesn’t scale.** You’re left with the second option for organizing identities, role-based access control.
 
 Note that because ACLs are stored in the Kafka controllers and propagated to the brokers, there may be a delay before the change takes effect, even after the command returns.
+
+### ACLs vs RBACs
+
+RBAC is recommended over ACLs because it’s **simpler to manage at scale**: you assign predefined roles once, and everyone in that role gets the right access consistently, instead of managing many individual ACLs. It also gives centralized authorization across Confluent components and makes compliance/auditing easier.
+
+In Confluent specifically, RBAC is preferred when you want:
+
+- centralized access management across Kafka, Connect, Schema Registry, ksqlDB, Control Center, and Flink
+- easier delegation to teams/business units without managing each user individually)
+- better scaling for large organizations with many users/resources
 
 ## RBACs
 
@@ -284,21 +294,13 @@ By default, if a resource has no associated ACLs, then only super users can acce
 ## ACL best practices
 
 - **Consider RBAC first** - RBAC is preferred over ACLs because it provides predefined roles with standardized permissions, making access management simpler and more consistent across your organization. While ACLs offer fine-grained control at the individual resource level, RBAC provides better scalability and reduces administrative overhead through role-based templates. See [Role-based Access Control (RBAC) on Confluent Cloud](https://docs.confluent.io/cloud/current/security/access-control/rbac/overview.html#cloud-rbac) for more information.
-
 - **Principle of least privilege** - Grant only the minimum permissions necessary for principals to perform their required operations. Avoid granting overly broad permissions.
-
 - **Use specific resource names** - Prefer specific topic and consumer group names over wildcards when possible. This provides better security control and auditability.
-
 - **Regular ACL audits** - Periodically review and clean up unused ACLs to maintain security hygiene.
-
 - **Document ACL purposes** - Use descriptive comments or documentation to explain why specific ACLs exist and what they enable.
-
 - **Test ACL changes** - Use the `--dry-run` option when creating ACLs to preview the impact before applying changes.
-
 - **Monitor access patterns** - Use [audit logs](https://docs.confluent.io/cloud/current/monitoring/audit-logging/cloud-audit-log-concepts.html#cloud-audit-logs) to monitor how ACLs are being used and identify potential security issues. For information about ACL events in audit logs, see [Kafka Cluster Management and Operations Auditable Event Methods on Confluent Cloud](https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/kafka-management.html#kafka-management-auditable-events) for ACL management events and [Kafka Cluster Authentication and Authorization Auditable Event Methods on Confluent Cloud](https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/authorization-authentication-events.html#authentication-authorization-auditable-events) for ACL authorization events.
-
-- **Coordinate with RBAC -** Since ACLs work alongside RBAC in Confluent Cloud, ensure your ACL strategy complements your RBAC role assignments. For detailed guidance on using ACLs with RBAC, including precedence rules and best practices, see [Use ACLs with RBAC on Confluent Cloud](https://docs.confluent.io/cloud/current/security/access-control/rbac/use-acls-with-rbac.html#using-acls-with-rbac).
-
+- **Coordinate with RBAC -** Since ACLs work alongside RBAC in Confluent Cloud, ensure your ACL strategy complements your RBAC role assignments. For detailed guidance on using ACLs with RBAC, including precedence rules and best practices, see [Use ACLs with RBAC on Confluent Cloud](https://docs.confluent.io/cloud/current/security/access-control/rbac/use-acls-with-rbac.html#using-acls-with-rbac)
 - **Consider performance impact -** Each ACL adds overhead to authorization checks. Monitor ACL count and consider consolidating similar ACLs to maintain optimal performance. For ACL limits by cluster type, see [Kafka Cluster Types in Confluent Cloud](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#cloud-cluster-types).
 
 [Use access control lists (ACLs) for authorization in Confluent Platform \| Confluent Documentation](https://docs.confluent.io/platform/current/security/authorization/acls/overview.html)

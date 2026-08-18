@@ -3,7 +3,7 @@ slug: /cloud/aws/analytics/amazon-msk
 title: Amazon MSK
 description: Streamline your data with Amazon MSK, a fully managed Apache Kafka service that simplifies deployment and scaling while ensuring enterprise-grade security.
 created: 2026-01-19
-updated: 2026-07-15
+updated: 2026-08-09
 ---
 **Amazon Managed Streaming for Apache Kafka**
 
@@ -134,3 +134,7 @@ MSK Provisioned offers two types of brokers:
 ## MSK Connect
 
 - [Set up resources required for MSK Connect - Amazon Managed Streaming for Apache Kafka](https://docs.aws.amazon.com/msk/latest/developerguide/mkc-tutorial-setup.html)
+
+## Links
+
+- [Deliver Apache Kafka data to streaming tables for Apache Iceberg with Amazon MSK Express brokers](https://aws.amazon.com/blogs/big-data/deliver-apache-kafka-data-to-streaming-tables-for-apache-iceberg-with-amazon-msk-express-brokers/)

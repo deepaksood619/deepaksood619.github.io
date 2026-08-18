@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-security/21-authenticating-users-and-applica
 title: User and Application Authentication
 description: Learn how to securely authenticate users and applications in Confluent Cloud with SSO and best practices.
 created: 2025-12-10
-updated: 2026-05-29
+updated: 2026-08-07
 ---
 [Course: Introduction to Confluent Cloud Security](https://developer.confluent.io/courses/cloud-security/intro/)
 
@@ -110,6 +110,8 @@ For production use, the best practice is to use **resource-specific API keys**�
 
 ## Global API Keys
 
+GA Released - May 13, 2026
+
 Global API keys simplify authentication across these Confluent Cloud resources:
 
 - Cloud Management API
@@ -138,3 +140,12 @@ Each user account or service account can create only two global API keys. When o
 - You are getting started with Confluent Cloud development and want to minimize the number of credentials to manage.
 
 [Use API keys on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/overview.html)
+
+### Caveats
+
+- **Global API keys don’t grant permissions by themselves**; access still comes from the owning principal’s RBAC roles and ACLs.
+- They **don’t work for all resources**: not supported for Basic/Standard Kafka clusters or public-networking Schema Registry.
+- They **count against Kafka API key quotas on every supported cluster** in the org, not just where they’re used.
+- **Per principal limit is 2** global API keys.
+- They **can’t be converted** from an existing resource-scoped key.
+- They **don’t access audit logs**; audit log consumption needs a dedicated audit-log-scoped key.

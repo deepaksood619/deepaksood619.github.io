@@ -3,8 +3,20 @@ slug: /technologies/confluent/confluent-cloud-monitoring
 title: Confluent Cloud Monitoring Guide
 description: Explore our comprehensive guide on monitoring Confluent Cloud, including metrics, notifications, and consumer lag management.
 created: 2026-02-27
-updated: 2026-02-28
+updated: 2026-08-07
 ---
+[Confluent Cloud Metrics](https://api.telemetry.confluent.cloud/docs/descriptors/datasets/cloud
+
+[Dedicated cluster performance and expansion in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/monitoring/monitor-performance.html)
+
+## Recommended customer dashboard
+
+1. **Availability:** connector/task/statement status.
+2. **Freshness:** CDC lag, consumer lag, Flink watermarks, Tableflow event freshness.
+3. **Completeness:** DLQ records, skipped rows, filtered CDC events, processing/deserialization errors.
+4. **Capacity:** cluster max load, hot partitions, quota throttling, Flink saturation/backpressure.
+5. **Correctness and topology:** schema-operation errors, Cluster Link mirror lag/errors, snapshot state.
+
 ## [Log and Monitor](https://docs.confluent.io/cloud/current/monitoring/index.html)
 
 - [Metrics](https://docs.confluent.io/cloud/current/monitoring/metrics-api.html)
