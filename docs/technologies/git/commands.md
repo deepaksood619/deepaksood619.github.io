@@ -3,7 +3,7 @@ slug: /technologies/git/commands
 title: Essential Git Commands and Shortcuts
 description: Discover key git commands, shortcuts, and techniques for cloning repositories efficiently without history.
 created: 2023-03-05
-updated: 2026-08-01
+updated: 2026-08-18
 ---
 ## Shortcuts
 
@@ -628,3 +628,16 @@ cloc: 1 minute, 50 seconds
 ```
 
 [GitHub - cgag/loc: Count lines of code quickly.](https://github.com/cgag/loc) ⭐ 2.5k
+
+## Git Diff
+
+```bash
+# Package all tracked, uncommitted changes (your working directory changes) into a single changes.patch file
+git diff > changes.patch
+
+# Include staged changes: If you already staged changes with git add, package them using
+git diff --cached >> changes.patch
+
+# apply patch
+git apply changes.patch
+```

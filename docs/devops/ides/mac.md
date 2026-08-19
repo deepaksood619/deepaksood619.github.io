@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-08-14
+updated: 2026-08-19
 ---
 ## Shortcuts
 
@@ -211,6 +211,12 @@ https://www.google.com/inputtools
 [Chrome keyboard shortcuts - Computer - Google Chrome Help](https://support.google.com/chrome/answer/157179)
 
 [Logging in Outlook Account on Chrome Profile - Google Chrome Community](https://support.google.com/chrome/thread/153714697/logging-in-outlook-account-on-chrome-profile?hl=en)
+
+- Outlook settings
+- Calendar - Events and Invitations
+	- Delete invitations that have been updated by the organizer
+	- Delete invitations from Inbox after responding
+	- Show declined events on your calendar - you will show as being free
 
 #### Chrome Extensions / Chrome Web Store
 

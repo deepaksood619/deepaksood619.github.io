@@ -3,7 +3,7 @@ slug: /data-warehouses/snowflake/intro
 title: Introduction to Snowflake Architecture
 description: Discover Snowflake's multi-cluster, shared storage architecture designed for scalable cloud-based data management.
 created: 2024-01-04
-updated: 2026-06-10
+updated: 2026-08-19
 ---
 Multi-cluster, shared storage architecture
 
@@ -11,23 +11,23 @@ Snowflake is a cloud-based database and is currently offered as a pay-as-you-go 
 
 Snowflake adopts a shared-storage architecture. It uses Amazon S3 for its underlying data storage. It performs query execution within in elastic clusters of virtual machines, called virtual warehouse. The Cloud Service layer stores the collection of services that manage computation clusters, queries, transactions, and all the metadata like database catalogs and access control information in a key-value store (FoundationDB).
 
-#### History
+## History
 
 Implementation of Snowflake began in late 2012 and has been generally available since June 2015.
 
-#### Concurrency Control
+## Concurrency Control
 
 [Multi-version Concurrency Control (MVCC)](https://dbdb.io/browse?concurrency-control=multi-version-concurrency-control-mvcc)
 
 Snowflake supports MVCC. As Snowflake's underlying data storage is done by Amazon S3, each write operation instead of performing writes in place, it creates a new entire file including the changes. The stale version of data is replaced by the newly created file, but is not deleted immediately. Snowflake allows users to define how long the stale version will be kept in S3, which is up to 90 days. Based on MVCC, Snowflake also supports time travel query.
 
-#### Data Model
+## Data Model
 
 [Relational](https://dbdb.io/browse?data-model=relational) [Document / XML](https://dbdb.io/browse?data-model=document-xml)
 
 Snowflake is relational as it supports ANSI SQL and ACID transactions. It offers built-in functions and SQL extensions for traversing, flattening, and nesting of semi-structured data, with support for popular formats such as JSON and Avro. When storing semi-structured data, Snowflake can perform automatic type inference to find the most common types and store them using the same compressed columnar format as native relational data. Thus it can accelerate query execution on them.
 
-#### Foreign Keys
+## Foreign Keys
 
 [Supported](https://dbdb.io/browse?foreign-keys=supported)
 
@@ -47,55 +47,55 @@ Snowflake provides the following constraint functionality:
 
 [Overview of Constraints | Snowflake Documentation](https://docs.snowflake.com/en/sql-reference/constraints-overview)
 
-#### Indexes
+## Indexes
 
 [Not Supported](https://dbdb.io/browse?indexes=not-supported)
 
 Snowflake does not support index, as maintaining index is expensive due to its architecture. Snowflake uses min-max based pruning, and other techniques to accelerate data access.
 
-#### Isolation Levels
+## Isolation Levels
 
 [Snapshot Isolation](https://dbdb.io/browse?isolation-levels=snapshot-isolation)
 
 According to their paper and talk, Snowflake supports Snapshot Isolation. However, according to their documentation, it is said that Read Committed is the only Isolation level that is supported.
 
-#### Joins
+## Joins
 
 [Hash Join](https://dbdb.io/browse?joins=hash-join)
 
-#### Query Compilation
+## Query Compilation
 
 [Not Supported](https://dbdb.io/browse?query-compilation=not-supported)
 
-#### Query Execution
+## Query Execution
 
 [Vectorized Model](https://dbdb.io/browse?query-execution=vectorized-model)
 
 Snowflake processes data in pipelined fashion, in batches of a few thousand rows in columnar format. It also uses a push instead of pull model as the relational operators push the intermediate results to their downstream operators.
 
-#### Query Interface
+## Query Interface
 
 [SQL](https://dbdb.io/browse?query-interface=sql)
 
 Snowflake's SQL query engine includes an automatic query optimization feature. The query optimizer assesses the query and execution plan, taking into account factors like table statistics, data distribution, and available compute resources. This dynamic optimization process ensures that queries are executed efficiently, leveraging the platform's resources effectively for optimal performance.
 
-#### Storage Architecture
+## Storage Architecture
 
 [Disk-oriented](https://dbdb.io/browse?storage-architecture=disk-oriented)
 
 Snowflake's data storage is done via Amazon S3 service. Upon query execution, the responsible work nodes uses HTTP-based interface to read/write data. The worker node also uses its local disk as a cache.
 
-#### Storage Model
+## Storage Model
 
 [Hybrid](https://dbdb.io/browse?storage-model=hybrid)
 
 Snowflake horizontally partitions data into large immutable files which are equivalent to blocks or pages in a traditional database system. Within each file, the values of each attribute or column are grouped together and heavily compressed, a well-known scheme called PAX or hybrid columnar. Each table file has a header which, among other metadata, contains the offsets of each column within the file.
 
-#### Stored Procedures
+## Stored Procedures
 
 [Not Supported](https://dbdb.io/browse?stored-procedures=not-supported)
 
-#### System Architecture
+## System Architecture
 
 [Shared-Disk](https://dbdb.io/browse?system-architecture=shared-disk)
 
@@ -103,11 +103,11 @@ It uses Amazon S3 for its underlying data storage. It performs query execution w
 
 Snowflake actually uses a multi-cluster, shared data architecture. The storage and compute layers are separate, and the data is stored in a centralized object store (like Amazon S3). Compute clusters, or virtual warehouses, can access and process this shared data concurrently.
 
-#### Views
+## Views
 
 [Virtual Views](https://dbdb.io/browse?views=virtual-views)
 
-### Features
+## Features
 
 - Multiple Cloud Provider Support
 - Unlimited Storage & Compute
@@ -125,7 +125,7 @@ Snowflake actually uses a multi-cluster, shared data architecture. The storage a
 - Data Sharing & Reader's Account
 - Data Replication & Failover
 - Snowflake Connectors & Drivers
-- Tasks / Task Scheduling / DAGs
+- [Tasks / Task Scheduling / DAGs](data-warehouses/snowflake/tasks-cron-scheduling.md)
 - Streams (CDC - any changes in the table)
 - Sequences
     - Sequences are used to generate unique numbers across sessions and statements, including concurrent statements. They can be used to generate values for a primary key or any column that requires a unique value.

@@ -384,6 +384,8 @@ You understand an idea not when you've memorized it, but when you know why its s
 
 [You Aren't Learning If You Don't Close the Loops - Commoncog](https://commoncog.com/no-learning-dont-close-loops/)
 
+See also: [Assess, Plan, Do, Review (APDR) Cycle](education/pedagogy/assess-plan-do-review-cycle.md) - a similar continuous loop used in SEN support
+
 ## Expert
 
 [The 4 things it takes to be an expert - YouTube](https://www.youtube.com/watch?v=5eW6Eagr9XA)

@@ -81,6 +81,7 @@ Learning science, cognitive psychology, and educational methodologies:
 - [Conversational Interfaces](education/pedagogy/conversational-interfaces.md)
 - [Adaptive Learning Platform](education/pedagogy/adaptive-learning-platform.md) - Product concept
 - [Adaptive Learning Algorithms: IRT & BKT](education/pedagogy/adaptive-learning-algorithms.md) - Deep dive on Bayesian Knowledge Tracing and Item Response Theory: probabilistic student modeling, ability estimation, optimal question selection, mastery thresholds, why most "adaptive" systems fail
+- [Assess, Plan, Do, Review (APDR) Cycle](education/pedagogy/assess-plan-do-review-cycle.md) - Four-part continuous framework for SEN support: assess, plan, do, review
 
 ### Competitors (47 files in 5 categories)
 

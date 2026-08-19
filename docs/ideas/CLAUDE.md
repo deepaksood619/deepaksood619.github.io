@@ -191,7 +191,7 @@ Which ideas does this inform? How?
 **Vault path:**
 
 ```bash
-VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs"
+VAULT="/Users/deepaksood/deepaksood619.github.io/docs"
 ```
 
 **Command syntax:** key=value pairs (NOT --flags)

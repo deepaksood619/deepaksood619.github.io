@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/prompt-engineering
 title: Prompt Engineering
 description: Discover the art of prompt engineering, focusing on tailored prompt design to enhance AI model performance and user interaction on platforms like Kaggle.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-19
 ---
 [Prompt Engineering \| Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
 
@@ -65,6 +65,12 @@ Tactic 2: Instruct the model to work out its own solution before rushing to a co
 ### Chain-of-thought
 
 _Chain-of-thought_ (CoT) prompting is a technique that allows [large language models](https://en.wikipedia.org/wiki/Large_language_models "Large language models") (LLMs) to solve a problem as a series of intermediate steps before giving a final answer. Chain-of-thought prompting improves reasoning ability by inducing the model to answer a multi-step problem with steps of reasoning that mimic a [train of thought](https://en.wikipedia.org/wiki/Train_of_thought "Train of thought"). It allows large language models to overcome difficulties with some reasoning tasks that require [logical thinking](https://en.wikipedia.org/wiki/Logical_reasoning "Logical reasoning") and multiple steps to solve, such as [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic") or [commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning "Commonsense reasoning") questions.
+
+### Compound / Monolithic Prompt
+
+A single block of text containing multiple instructions, dependencies, or sequential questions meant to be parsed in one go — a multi-turn question packed into a single prompt. Chain-of-thought and least-to-most prompting are the techniques used to handle the internal sequencing within that one turn.
+
+**How it relates to Harness Engineering:** Prompt Engineering handles the linguistic formulation of that single compound request. [Harness Engineering](ai/llm/code-generation/harness.md) provides the structural environment, tools, and validation loops outside the model that make handling complex multi-step or multi-turn logic reliable.
 
 ### Least to most prompting
 

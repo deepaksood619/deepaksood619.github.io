@@ -3,7 +3,7 @@ slug: /knowledge/biology/diseases
 title: Diseases
 description: Explore essential insights on diseases, lifestyle-related conditions, hyperthyroidism, and injury care for better health awareness and management.
 created: 2023-03-05
-updated: 2026-07-20
+updated: 2026-08-18
 ---
 Listening to your own body over a lifetime can tell you far more than any doctor in a small room for a rushed 10 minutes appointment.
 
@@ -184,6 +184,25 @@ Below are some ways you can feel better while your body fights off a cold:
 - Breathe in steam from a bowl of hot water or shower.
 - Suck on lozenges. Do not give lozenges to children younger than 4 years of age.
 - Use honey to relieve cough for adults and children at least 1 year of age or older.
+
+### Core care (first 24–48 hours)
+
+| What                         | How                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Rest**                     | Actual rest. Sleep is doing most of the work here.                                                |
+| **Fluids**                   | Warm water, soup, ORS. Sweating with fever dehydrates faster than expected.                       |
+| **Paracetamol 500mg**        | For fever, chills, body ache _and_ throat pain. Every 6 hours as needed, max 4 doses in 24 hours. |
+| **Cetirizine 10mg**          | At night, for sneezing and runny nose. Causes drowsiness — bedtime only.                          |
+| **Steam inhalation**         | Twice a day. Genuinely effective for congestion.                                                  |
+| **Saline nasal drops/spray** | Safe to use frequently; helps more than most people expect.                                       |
+
+### For the throat specifically
+
+- **Salt water gargles** — ½ tsp salt in warm water, 3–4× daily. Unglamorous but the single most effective measure.
+- **Warm liquids** — tea, haldi doodh, soup. Cold and very spicy foods will sting.
+- **Lozenges** (Strepsils, Vicks) or a spoon of **honey** — coats the throat for temporary relief.
+- **Rest your voice.** Talk only as much as needed.
+- **Keep the air from getting too dry** if a fan or AC runs all night.
 
 [Common Cold | Antibiotic Use | CDC](https://www.cdc.gov/antibiotic-use/colds.html)
 

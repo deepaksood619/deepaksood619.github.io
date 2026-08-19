@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/harness
 title: Harness
 description: Discover how an AI harness enhances LLMs into autonomous agents, improving accuracy, reducing review toil, and optimizing tool usage for quality systems.
 created: 2026-06-18
-updated: 2026-08-06
+updated: 2026-08-19
 ---
 A harness in AI/LLM is the infrastructure, tools, and orchestration code that surrounds a Large Language Model (LLM) to transform it from a chatbot into an autonomous agent. It acts as the "control plane" that manages the model's memory, context, tool usage (APIs, search), and safety boundaries.
 
@@ -59,6 +59,14 @@ Coding agents (Claude Code, and similarly-shaped harnesses) expose an explicit p
 ### Sub-agent delegation
 
 Splitting a large task across sub-agents with narrow, well-defined scopes (one feature, one file, one review dimension) keeps each individual context window focused and makes failures isolable — a sub-agent that goes off the rails only pollutes its own context, not the parent's. This is the same principle behind Deep Research/Manus/Claude Code style "deep agents" (see below) and behind evaluator/generator separation: a dedicated critic is far more tractable to tune toward skepticism than trying to make one agent critical of its own work.
+
+### Resource mapping
+
+Rather than loading all documentation, file structures, and tool definitions into context upfront, the harness supplies them via **progressive disclosure** — only names/descriptions load initially, with fuller detail pulled in on demand. See [Claude Code Skills](ai/llm/code-generation/claude-code-skills.md) for this pattern applied to skill definitions.
+
+### Loop detection
+
+Built-in hooks monitor file edits and tool calls to catch an agent trapped repeating the same failing action (e.g. re-editing the same lines without the error changing), so the harness can intervene rather than letting the agent burn its context budget on a stuck loop.
 
 ## Context Management Across Long Sessions
 

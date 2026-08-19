@@ -9,6 +9,7 @@ updated: 2026-06-10
 - [Architecture](data-warehouses/snowflake/architecture.md)
 - [Compute](data-warehouses/snowflake/compute.md)
 - [Data Governance](data-warehouses/snowflake/governance.md)
+- [Tasks and Cron Job Scheduling](data-warehouses/snowflake/tasks-cron-scheduling.md)
 - [Optimizations](data-warehouses/snowflake/optimizations.md)
 - [Stages](data-warehouses/snowflake/stages.md)
 - [Data Ingestion / Loading](data-warehouses/snowflake/ingestion.md)

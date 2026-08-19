@@ -71,7 +71,7 @@ a table is the lowest level object in Snowflake. It is a structured collection o
 
 ### [**tasks**](https://docs.snowflake.net/manuals/user-guide/tasks.html)
 
-a task is a SQL statement executed either on a schedule or in response to the completion of another task. Tasks are useful for job scheduling and are currently preview features.
+a task is a SQL statement executed either on a schedule or in response to the completion of another task. Tasks are useful for job scheduling and are currently preview features. See [Tasks and Cron Job Scheduling](data-warehouses/snowflake/tasks-cron-scheduling.md) for a complete cron-based DAG workflow example.
 
 ### [**temporary table**](https://docs.snowflake.net/manuals/user-guide/tables-temp-transient.html#temporary-tables)
 

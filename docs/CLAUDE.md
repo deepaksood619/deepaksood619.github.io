@@ -12,7 +12,7 @@ Content infrastructure guidance for working with 7400+ markdown notes in Obsidia
 
 ## Quick Reference
 
-**Vault Path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
+**Vault Path:** `/Users/deepaksood/deepaksood619.github.io/docs`
 
 **Obsidian CLI:** `/Applications/Obsidian.app/Contents/MacOS/Obsidian`
 
@@ -292,7 +292,7 @@ mcp__obsidian-hybrid-search__search(query="hierarchical configuration", limit=5)
 **Command syntax:** `key=value` pairs (NOT `--flags`)
 
 ```bash
-VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs"
+VAULT="/Users/deepaksood/deepaksood619.github.io/docs"
 /Applications/Obsidian.app/Contents/MacOS/Obsidian <command> vault="$VAULT" key="value"
 ```
 

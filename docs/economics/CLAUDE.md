@@ -160,7 +160,7 @@ Periodically verify: stale content (`>6` months for regulatory, `>12` months for
 
 **Prefer Obsidian CLI** over direct file operations for link graph updates and backlink maintenance.
 
-**VAULT path:** `/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs`
+**VAULT path:** `/Users/deepaksood/deepaksood619.github.io/docs`
 
 **Commands:** See [docs/CLAUDE.md](CLAUDE.md) for complete Obsidian CLI reference.
 

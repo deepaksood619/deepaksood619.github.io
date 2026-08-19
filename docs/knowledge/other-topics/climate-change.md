@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/climate-change
 title: Climate Change
 description: Explore the impact of climate change on our planet, global warming trends, and innovative solutions for a sustainable future.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-08-19
 ---
 ## Earth / Environment / Global warming
 
@@ -53,6 +53,7 @@ updated: 2026-06-18
 - [Your Family is at Risk: Harmful Gases from Kitchen, Walls & Car \| BreatheEasy \| FO426 Raj Shamani - YouTube](https://www.youtube.com/watch?v=RKxuKMhaMnI)
 - [Cleanest air quality 2025: World's top 10 cities with best air quality index](https://www.wionews.com/photos/top-10-cities-cleanest-air-quality-index-2025-1761305737698/1761305737699)
 - [Control indoor AQI without air purifier – Dyson expert’s 5 simple habits to de-smog your home - Technology News \| The Financial Express](https://www.financialexpress.com/life/technology-control-indoor-aqi-without-air-purifier-dyson-experts-5-simple-habits-to-de-smog-your-home-4025154/)
+	- Praan air purifier
 
 ## Keeling Curve
 

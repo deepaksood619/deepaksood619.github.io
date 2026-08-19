@@ -21,17 +21,7 @@ Personal knowledge base built with Docusaurus 3.8, containing 2600+ markdown not
 
 ## Development Commands
 
-**⚠️ CRITICAL: NEVER run npm commands in this directory**
-
-This folder is Google Drive synced. Running npm commands would create `node_modules/` which would attempt to sync 100k+ files to Google Drive, causing sync issues and consuming massive storage.
-
-**For local development:**
-
-1. Clone the repository to a local (non-synced) directory
-2. Run npm commands there
-3. Use this Google Drive location only for content editing
-
-**Available commands (use in local clone only):**
+**Available commands:**
 
 ```bash
 # Install dependencies
@@ -81,7 +71,7 @@ All content lives in `/docs` with topic-based folders:
 - Mermaid diagram support via `@docusaurus/theme-mermaid`
 - PWA plugin for offline access
 - Google Analytics (gtag) + Google Tag Manager
-- `/office` folder excluded from build
+- `/office` folder excluded from build (the only folder synced to Google Drive; the rest of the repo is a plain local git checkout)
 
 **Content guidelines:**
 
@@ -188,7 +178,6 @@ Create domain-specific CLAUDE.md files for **LLM-maintained knowledge bases** wh
 - Full access to git operations and build file visibility
 - CLAUDE.md hierarchy loads automatically when you cd to subfolders
 - Use `cd docs/economics` to focus context when needed
-- **Never run npm commands here** (Google Drive sync issue)
 
 ## Obsidian Integration
 
