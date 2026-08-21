@@ -3,7 +3,7 @@ slug: /knowledge/geography/living
 title: Living
 description: Explore living strategies from thanatology and Blue Zones, focusing on health, longevity, and the secrets of the world's oldest populations.
 created: 2023-03-05
-updated: 2026-05-21
+updated: 2026-08-19
 ---
 Digital Nomad
 
@@ -90,11 +90,8 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 
 ## Links
 
-- [new-home-place-house](knowledge/geography/new-home-place-house.md)
-- [home-house-building](knowledge/geography/home-house-building.md)
+- [New Home / Place / Relocation](knowledge/new-home-place/readme.md)
 - [countries-metrics](knowledge/geography/countries-metrics.md)
-- [places-to-live](knowledge/geography/places-to-live.md)
-- [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)
 - [Please India. Stop This. - YouTube](https://www.youtube.com/watch?v=Be-QX2fkb30&ab_channel=MohakMangal)
     - Lack of civic sense and education
     - [Vikas Divyakirti on India, China, Power Struggles, Global Crisis & Modi \| FO438 Raj Shamani - YouTube](https://youtu.be/2hl-uVjXZzc)

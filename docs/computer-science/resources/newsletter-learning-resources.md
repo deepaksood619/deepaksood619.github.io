@@ -3,7 +3,7 @@ slug: /computer-science/general/newsletter-learning-resources
 title: Newsletter and Learning Resources
 description: Explore curated newsletters and essential learning resources for databases and advanced topics in web development.
 created: 2023-03-05
-updated: 2026-08-09
+updated: 2026-08-21
 ---
 https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send
 
@@ -62,6 +62,18 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 - Metadata weekly
 - [TLDR Newsletter - A Byte Sized Daily Tech Newsletter](https://tldr.tech/)
 - [Paged Out!](https://pagedout.institute/)
+- [ByteByteGo \| Technical Interview Prep](https://bytebytego.com/)
+
+### AI Engineering
+
+- [AI Engineering](https://aiengineering.beehiiv.com/)
+- [The Tool Nerd \| Akhil \| Substack](https://www.thetoolnerd.com/)
+- dailydoseofds.com
+- Benedict's Newsletter
+- MLOps Newsletter
+- Data Elixir
+- Jason @ ML Mastery
+- https://magazine.sebastianraschka.com/
 
 ## Learning + Taking notes
 

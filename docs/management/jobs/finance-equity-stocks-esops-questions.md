@@ -169,6 +169,8 @@ Ideally, holding period should be infinite for vested options, even after exit
 
 This enables employees to wait for liquidity events without incurring upfront taxation to be paid out of own pocket
 
+See [ESOP Exercise Tax and the Dry Tax Trap in India](economics/taxation/esop-exercise-tax-dry-tax-trap-india.md) for how this perquisite tax and TDS mechanic actually works, and liquidity strategies to avoid it.
+
 ## Warrant
 
 A warrant in finance is a contract that gives the holder the right to buy or sell a company's stock at a specific price within a set time frame. Warrants are used in both debt and equity financing, and can be a high-return investment tool.

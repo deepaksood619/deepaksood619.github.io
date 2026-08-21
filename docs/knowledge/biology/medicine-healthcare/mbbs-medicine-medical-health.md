@@ -259,7 +259,7 @@ Iatrogenics refers to a disease or condition caused by medical examination, trea
     - Unsafe with alcohol consumption
     - Use with caution in liver disease (dose adjustment may be needed)
     - Kidney disease: Limited data, consult doctor
-  - **Drug Interactions:** Compatible with vitamin C, vitamin D, multivitamin, folic acid, paracetamol. Should NOT be taken with zinc (alters zinc absorption).
+  - **Drug Interactions:** Compatible with vitamin C, vitamin D, multivitamin, folic acid, [paracetamol](paracetamol-acetaminophen-mechanism.md). Should NOT be taken with zinc (alters zinc absorption).
   - **Monitoring:** Continue until hemoglobin levels normalize. May cause weight gain.
   - **Cost:** Drug acquisition cost per course of therapy is $450 to $900 (U.S. pricing).
   - [1mg Source](https://www.1mg.com/generics/iron-isomaltoside-405500) | [NCBI Clinical Review](https://www.ncbi.nlm.nih.gov/books/NBK564173/)

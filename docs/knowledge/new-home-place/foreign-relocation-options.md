@@ -1,79 +1,13 @@
 ---
-slug: /knowledge/geography/places-to-live
-title: Places to live
-description: Discover the best places to live with welcoming communities, good climate, excellent infrastructure, and opportunities for families and businesses.
+slug: /knowledge/new-home-place/foreign-relocation-options
+title: Foreign Relocation Options
+description: Shortlist of foreign countries to move to, climate-resilience factors, a first-hand Canada immigration account, and the deep-research prompt used for relocation analysis.
 created: 2026-05-14
-updated: 2026-08-14
+updated: 2026-08-19
 ---
-## Things needed for a new country
-
-1. Developed country
-2. Good people accepting different races, specially good for accepting indians
-3. Have a good Indian community
-4. Good climate, not too cold, not hot, if possible closer to beach
-5. Good infrastructure
-6. No corruption
-7. Good medical care
-8. Good governance, and police not hostile towards indians or other races
-9. Faster PR, so don't have to apply for Visa
-10. Can buy land and setup business
-11. Maybe naturalization so eventually get a voting right and be a citizen of that country and get all the rights
-12. No state enemies
-13. Simpler life
-14. Opportunities for ourselves and kids
-15. Good neighbour countries
-16. Not too high Genie index
-17. Best country for kids/primary education
-18. Tax should be justified for the taxes we are giving
-
-[**Where on Earth Will People Live in the Future? | Parag Khanna | TED**](https://www.youtube.com/watch?v=MSevAi_YarQ)
-
-- Places you can live after Amoc collapse or which places will be disaster proof or resilient
-
-**20-30 degrees Celsius with no humidity throughout year i.e dry climate**
-
-## Elevation / Altitude
-
-One of the factor is Elevation
-
-- 500 mtr+ is good weather like bangalore (964m), pune (565m), jagdalpur (570m), nainital (1990m)
-- 300 mtr is bad - delhi (246m), dantewada (370m), ramnagar (388m)
-
-As we increase elevation, there is less air above us thus the pressure decreases. As the pressure decreases, air molecules spread out further (i.e. air expands) and the temperature decreases.
-
-[As we go to higher altitudes, what happens to the temperature?](https://byjus.com/question-answer/as-we-go-to-higher-altitudes-what-happens-to-the-temperature-it-increasesit-remains-constantit/)
-
-When we move up a hill, we notice a fall in temperature. This fall in temperature with elevation is primarily due to two reasons.
-
-1. With the increase in elevation, the atmospheric **pressure falls**. Fall in pressure implies that the temperature also falls (Pressure is directly proportional to Temperature and vice versa)
-2. With the increase in elevation, the **concentration of greenhouse gases decreases** (Water vapor and carbon dioxide fall sharply with elevation). Hence the heat absorption capacity of the atmosphere will also decrease.
-
-[why temperature decreases with altitude?](https://byjus.com/question-answer/why-temperature-decreases-with-altitude/)
-
-[If heat rises, why does the temperature decrease at higher elevations? | Scientific American](https://www.scientificamerican.com/article/if-heat-rises-why-does-th/)
-
-[Why does temperature decrease with increase in altitude? - Quora](https://www.quora.com/Why-does-temperature-decrease-with-increase-in-altitude)
-
-## Places
-
-- **Pune**
-- Bangalore
-- **Mysore**
-- Nashik
-- Nainital (15-25)
-- Shillong (15-25)
-- Hyderabad - [Planning to Buy a Flat in Hyderabad? Here Are Top trends of 2024 You Should Know - The 1% News](https://news.onepercentclub.io/invest/planning-to-buy-a-flat-in-hyderabad-here-are-top-trends-of-2024-you-should-know/12849/)
-- Chandigarh
-
-[Which is the best city to live in North India? - Quora](https://www.quora.com/Which-is-the-best-city-to-live-in-North-India)
-
-[Best cities in India with pleasant weather all year round | EconomicTimes](https://economictimes.indiatimes.com/news/web-stories/best-cities-in-india-with-pleasant-weather-all-year-round/slideshow/103212353.cms)
-
-https://zolostays.com/blog/cities-with-best-weather-in-india
-
-[Want to Go Abroad? Immigration Advisor on Which Countries Are Preferable for Indians and Why](https://www.youtube.com/watch?v=FLBEhyzYHUQ)
-
-[iVisa Plus: Free Standard Processing of Unlimited Travel Docs](https://www.ivisa.com/plus)
+- [places-to-live-criteria](knowledge/new-home-place/places-to-live-criteria.md)
+- [australia-nz-relocation-overview](knowledge/new-home-place/australia-nz-relocation-overview.md)
+- [australia-and-nz-relocation-details](knowledge/new-home-place/australia-and-nz-relocation-details.md)
 
 ## Foreign
 
@@ -116,7 +50,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - [World Risk Report 2022](https://repository.gheli.harvard.edu/repository/10930/)
 - [WeltRisikoBericht - WeltRisikoIndex](https://weltrisikobericht.de/weltrisikobericht-2022-e/#worldriskindex)
 - Air pollution in Delhi reduces life expectancy by 10 years
-	- [They came to start a new life; now every breath they take is a struggle](https://timesofindia.indiatimes.com/city/gurgaon/they-came-to-start-a-new-life-now-every-breath-they-take-is-a-struggle/articleshow/109066285.cms)
+    - [They came to start a new life; now every breath they take is a struggle](https://timesofindia.indiatimes.com/city/gurgaon/they-came-to-start-a-new-life-now-every-breath-they-take-is-a-struggle/articleshow/109066285.cms)
 
 ### Factors
 
@@ -138,8 +72,8 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 2. Canada, which has a vast land area and diverse geography that may provide some resilience to climate change impacts. Canada has a relatively small population and abundant freshwater resources, which may be crucial as water scarcity becomes a more significant problem in other parts of the world. Additionally, Canada has taken steps to reduce greenhouse gas emissions and invest in renewable energy sources, which may help to mitigate the impacts of climate change.
 3. ~~Australia, New Zealand,~~ and certain countries in Europe such as Germany or Denmark
 4. Dubai - [Moving to Dubai for Tax Free Crypto? Read Our Guide!](https://www.coinbureau.com/analysis/dubai-crypto-tax/)
-	1. [India vs Dubai: Where to live? (Jobs, Cost of Living, Opportunities...) ...](https://youtu.be/TlNR8JRUgHk)
-	2. [Why This Investor Doesn’t Keep His Money in India \| Currency, Taxes & More \| Paritosh Mukhija, FWS89 - YouTube](https://youtu.be/j9vlMfSx-kw)
+    1. [India vs Dubai: Where to live? (Jobs, Cost of Living, Opportunities...) ...](https://youtu.be/TlNR8JRUgHk)
+    2. [Why This Investor Doesn't Keep His Money in India \| Currency, Taxes & More \| Paritosh Mukhija, FWS89 - YouTube](https://youtu.be/j9vlMfSx-kw)
 5. Newzealand Japan Pacific ring of fire earthquake prone areas
 
 [The Best Citizenship in a New World Order - YouTube](https://www.youtube.com/watch?v=CAiW7HOwiaQ)
@@ -162,7 +96,7 @@ Here's what I wish someone had told me in those first 90 days.
 
 Finally, stay positive; things will happen soon, and your future self will be proud of you.
 
-## Prompt - Mon, 18 May 2026
+## Deep-Research Prompt Used (Mon, 18 May 2026)
 
 Based on these criterias and everything about me, do a deep research on where I can live next i.e. either a city, state in India or a country that fulfills all the criteria. Also what's the right time to move, what should be the process end to end at high level with timelines?
 
@@ -172,11 +106,4 @@ Based on these criterias and everything about me, do a deep research on where I 
 
 About me - https://deepaksood619.github.io/about-deepak-sood/ Father of 2 daughters (age 3 years, another 5 months) I am aged 32 and wife 31 both in IT.
 
-## Links
-
-- [new-home-place-house](knowledge/geography/new-home-place-house.md)
-- [home-house-building](knowledge/geography/home-house-building.md)
-- [countries-metrics](knowledge/geography/countries-metrics.md)
-- [living](knowledge/geography/living.md)
-- [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)
-- **IMP -** [Move to Europe Without Quitting Your Indian Income: Step-by-Step ₹50 Lakh Plan \| Mr. Deepesh \| FWS - YouTube](https://www.youtube.com/watch?v=w4VDxKPinkI)
+This prompt produced the deep-research reports split across [australia-nz-relocation-overview](knowledge/new-home-place/australia-nz-relocation-overview.md), [indian-tier2-3-exurban-analysis](knowledge/new-home-place/indian-tier2-3-exurban-analysis.md), and [it-hub-relocation-comparison](knowledge/new-home-place/it-hub-relocation-comparison.md).

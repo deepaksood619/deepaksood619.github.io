@@ -3,11 +3,8 @@ slug: /economics/personal-finance/retirement-planning/nps-national-pension-schem
 title: NPS - National Pension Scheme
 description: Discover the National Pension Scheme (NPS) for secure retirement savings with tax benefits, flexible investment options, and government-backed income security.
 created: 2026-06-09
-updated: 2026-06-10
+updated: 2026-08-20
 ---
-**Category:** Personal Finance - Retirement Planning
-**Last Updated:** 2026-06-09
-
 ## Overview
 
 National Pension Scheme (NPS) is a government-backed retirement savings scheme that provides old-age income security through market-linked returns and annuity options.
@@ -194,7 +191,3 @@ See: [NPS Tier 2 Taxable - Freefincal](https://freefincal.com/gains-from-nps-tie
 - [Asset Allocation Models](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
 - [Rebalancing Strategies](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)
 - [Fixed Income Instruments](economics/investment-products/debt-funds/fixed-income-instruments.md)
-
-## Disclaimer
-
-NPS rules and tax benefits are subject to change. Consult a tax advisor and read the scheme documents before investing.

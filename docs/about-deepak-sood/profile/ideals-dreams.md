@@ -3,7 +3,7 @@ slug: /about-deepak-sood/ideals-dreams
 title: Ideals / Dreams
 description: Explore the balance of dreams and financial wisdom with insights on smart investments, personal growth, and affirmations for a fulfilling life.
 created: 2025-02-26
-updated: 2026-06-26
+updated: 2026-08-20
 ---
 Aim for the moon; even if you miss, you’ll land among the stars.
 
@@ -28,6 +28,7 @@ A dream is just a dream. A goal is a dream with a plan and a deadline -- Harvey 
 - Globalist (supports globalism over nationalism)
 - Evidence based methods
 - Meritocracy
+- [Rich in a Poor Country vs Poor in a Rich Country](psychology/philosophy-mindset/rich-in-poor-country-vs-poor-in-rich-country.md) — where I land on this trade-off
 
 Meritocracy is a political system in which economic goods and/or political power are vested in individual people on the basis of talent, effort, and achievement, rather than wealth or social class. Advancement in such a system is based on performance, as measured through examination or demonstrated achievement.
 

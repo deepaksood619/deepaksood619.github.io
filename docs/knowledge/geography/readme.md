@@ -3,7 +3,7 @@ slug: /knowledge/geography/readme
 title: Geography
 description: Explore the diverse aspects of geography, including continents, countries, Indian states, rivers, wildlife, and insights on relocation and living choices.
 created: 2023-03-05
-updated: 2026-06-06
+updated: 2026-08-19
 ---
 - [Continents](continents)
 - [Countries](countries)
@@ -14,10 +14,5 @@ updated: 2026-06-06
 - [Wildlife](wildlife)
 - [mountains](knowledge/geography/mountains.md)
 - [living](knowledge/geography/living.md)
-	- [new-home-place-house](knowledge/geography/new-home-place-house.md)
-	- [home-house-building](knowledge/geography/home-house-building.md)
-	- [places-to-live](knowledge/geography/places-to-live.md)
-	- [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)
-	- [indian-city-selection-criteria-analysis](knowledge/geography/indian-city-selection-criteria-analysis.md)
-	- [rent-relocation-analysis-indias-it-hubs](knowledge/geography/rent-relocation-analysis-indias-it-hubs.md)
+- [New Home / Place / Relocation](knowledge/new-home-place/readme.md)
 - [Others](knowledge/geography/others.md)

@@ -3,7 +3,7 @@ slug: /knowledge/biology/diseases
 title: Diseases
 description: Explore essential insights on diseases, lifestyle-related conditions, hyperthyroidism, and injury care for better health awareness and management.
 created: 2023-03-05
-updated: 2026-08-18
+updated: 2026-08-21
 ---
 Listening to your own body over a lifetime can tell you far more than any doctor in a small room for a rushed 10 minutes appointment.
 
@@ -49,6 +49,17 @@ sucking on throat lozenges to moisturize and soothe irritated throat tissue
 taking OTC cough suppressants, such as dextromethorphan (Robitussin), to suppress your cough reflex
 
 adding honey to a hot drink to soothe irritated throat tissue
+
+**Antiseptic throat lozenges (e.g. Cofsils):** contain mild antiseptics (2,4-Dichlorobenzyl Alcohol + Amylmetacresol) that slowly release while dissolving to reduce throat bacteria/viruses and numb irritation, easing cough triggered by post-nasal drip. Typical dosing is one lozenge every 3 hours; let it dissolve slowly, don't chew or swallow whole. As a side benefit, the frequent swallowing while sucking a lozenge also gently exercises the Eustachian tube muscles (see [Airplane Ear / Barotrauma](airplane-ear-barotrauma.md)).
+
+## Sinusitis & Rhinopharyngitis
+
+Rhinopharyngitis is inflammation/infection of both the nasal passages and throat (a step up from a plain common cold), often progressing into sinusitis (blocked, painful sinus cavities behind the nose, cheeks, and forehead).
+
+- **Yellow/green phlegm myth:** the color comes from white blood cells fighting the infection, not proof of a bacterial infection needing antibiotics — it happens with viral infections too. Antibiotics are only warranted if a doctor identifies a bacterial cause.
+- **Referred ear and throat pain:** the nose, sinuses, throat, and middle ear share connected passages. Swollen sinuses can block the Eustachian tube (trapping ear pressure — see [Airplane Ear / Barotrauma](airplane-ear-barotrauma.md)) and post-nasal drip irritates the throat, causing soreness and a wet/dry cough combination.
+- **Home care:** steam inhalation 2-3x/day, staying highly hydrated (warm water/soups) to thin mucus, warm compress over nose/eyes/forehead for pressure, warm salt-water gargles, sleeping with the head elevated so sinuses drain overnight.
+- **See a doctor** if fever/facial pain persists past 2-3 days, phlegm stays thick and yellow, ear pain develops, or breathing/chest symptoms appear — an ENT can check for a secondary bacterial infection or contributing structural issues like a [Deviated Nasal Septum](deviated-nasal-septum-dns.md).
 
 ## Thalassaemia
 
@@ -191,10 +202,12 @@ Below are some ways you can feel better while your body fights off a cold:
 | ---------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Rest**                     | Actual rest. Sleep is doing most of the work here.                                                |
 | **Fluids**                   | Warm water, soup, ORS. Sweating with fever dehydrates faster than expected.                       |
-| **Paracetamol 500mg**        | For fever, chills, body ache _and_ throat pain. Every 6 hours as needed, max 4 doses in 24 hours. |
+| [**Paracetamol 500mg**](../medicine-healthcare/paracetamol-acetaminophen-mechanism.md) | For fever, chills, body ache _and_ throat pain. Every 6 hours as needed, max 4 doses in 24 hours. |
 | **Cetirizine 10mg**          | At night, for sneezing and runny nose. Causes drowsiness — bedtime only.                          |
 | **Steam inhalation**         | Twice a day. Genuinely effective for congestion.                                                  |
 | **Saline nasal drops/spray** | Safe to use frequently; helps more than most people expect.                                       |
+
+**Electrode steam vaporizers (e.g. Optima):** unlike a kettle with a metal heating element, these pass electricity directly through the water between two electrodes hanging from the lid — the water itself is the heating element. A little sparking/glowing at the bottom is a normal side effect of this design, especially once salt is added: salt makes water conduct electricity more aggressively, boiling it faster but also increasing current and visible arcing. Start with plain tap water before adding salt; very bright/violent sparking or uncontrolled boiling means too much salt was added. Never open the lid, touch the water, or add salt while it's plugged in, since live current is passing through it.
 
 ### For the throat specifically
 

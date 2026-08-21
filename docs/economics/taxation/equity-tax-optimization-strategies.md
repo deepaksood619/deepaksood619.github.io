@@ -292,3 +292,4 @@ If you use underwater short-term losses to harvest and offset gains today that w
 - [Tax Loss Harvesting Guide](economics/taxation/tax-efficient-investing.md)
 - [Tax-Efficient Investing Strategies](economics/taxation/tax-efficient-investing.md)
 - [Rebalancing Strategies](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)
+- [ESOP Exercise Tax and the Dry Tax Trap in India](economics/taxation/esop-exercise-tax-dry-tax-trap-india.md)

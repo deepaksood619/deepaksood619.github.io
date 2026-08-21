@@ -16,3 +16,4 @@ updated: 2026-07-25
 - [HUF / Private Trust](economics/taxation/huf-private-trust.md)
 	- [indian-company-types](economics/corporate-finance/indian-company-types.md)
 - [Clubbing of Income](economics/taxation/clubbing-of-income.md)
+- [ESOP Exercise Tax and the Dry Tax Trap in India](economics/taxation/esop-exercise-tax-dry-tax-trap-india.md)

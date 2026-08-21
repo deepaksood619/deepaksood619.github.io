@@ -3,7 +3,7 @@ slug: /knowledge/biology/pregnancy-baby
 title: Pregnancy / Baby
 description: Explore essential pregnancy tips, baby movement tracking, and supportive resources for expecting parents to navigate this beautiful journey.
 created: 2023-04-03
-updated: 2026-06-03
+updated: 2026-08-21
 ---
 ## Pregnancy
 
@@ -28,6 +28,29 @@ https://www.parents.com/pregnancy/giving-birth/labor-and-delivery/checklist-how-
 It's OK to let your baby cry if the baby doesn't seem sick and you've tried everything to soothe your baby. You can try to leave your baby alone in a safe place, such as a crib, for about 10 to 15 minutes. Many babies need to cry before they can fall asleep. And they'll nod off faster if you leave them to cry.
 
 [Crying baby: What to do when your newborn cries](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20043859)
+
+### Falls & Head Bumps
+
+Vomiting after a head injury in a baby under one year old is treated as a red flag requiring prompt medical evaluation — seek care rather than wait, especially if the baby vomits more than once.
+
+**Danger signs — seek immediate emergency care if any appear:**
+
+- Repeated or forceful vomiting (not just once)
+- Extreme sleepiness/lethargy, or unusually difficult to wake/rouse
+- Behavioral changes: unusually irritable, inconsolable, not acting like themselves
+- Eye abnormalities: one pupil larger than the other, crossed eyes, unable to focus
+- Physical weakness or sudden loss of coordination (e.g., stops moving an arm/leg)
+- Seizures: twitching, sudden stiffening, convulsions
+- Clear fluid or blood draining from ears or nose
+- The bump becoming large, soft, or "squishy"
+
+**What's normal:** a bump/bruise changing color (red/blue → purple/yellow) over the following week, and mild extra clinginess/fussiness from the scare.
+
+**What a doctor's evaluation typically involves:**
+
+1. Physical/neurological exam — feeling the bump, checking the fontanelle (soft spot) isn't bulging, checking pupils and eye tracking, checking limb movement/coordination, and asking how many times the baby vomited (once is far less concerning than 3+ times).
+2. An observation period in clinic/ER if the baby looks well — if they continue acting normal and don't vomit again, they're typically sent home with guidance rather than scanned.
+3. **Imaging is usually avoided:** MRI is rarely used for acute head bumps (requires sedation in infants). A CT scan is the standard option if imaging is needed, but pediatricians follow the **PECARN rules**, which recommend against CT in infants who vomited only once and otherwise have a normal exam and are acting completely normal — the radiation risk outweighs the very low chance of finding an injury in that scenario.
 
 ## Pregnancy
 

@@ -1,13 +1,13 @@
 ---
 slug: /knowledge/geography/home-house-building
 title: Home / House Building
-description: Explore essential tips for house building, including architecture, safety features, and luxury home options to create your dream living space.
+description: Explore essential tips for house building, including architecture, safety features, interior design, and luxury home tours.
 created: 2024-06-29
-updated: 2026-06-03
+updated: 2026-08-19
 ---
-- [living](knowledge/geography/living.md)
-- [new-home-place-house](knowledge/geography/new-home-place-house.md)
-- [places-to-live](knowledge/geography/places-to-live.md)
+- [buying-checklist](knowledge/new-home-place/buying-checklist.md)
+- [real-estate-market-india](knowledge/new-home-place/real-estate-market-india.md)
+- [places-to-live-criteria](knowledge/new-home-place/places-to-live-criteria.md)
 
 ## Architectures
 
@@ -27,17 +27,17 @@ updated: 2026-06-03
 ## Good homes
 
 - [₹1.56 Cr ▷ 4 BHK 🔥 Luxury GOLD Class 😍 Sample Flat (3400 sqft) ► Sushma Belleza, Zirakpur Chandigarh - YouTube](https://www.youtube.com/watch?v=xRNoFFSL5KI&ab_channel=Zricks.comZricks.comVerified)
-- [Inside One of Frank Lloyd Wright’s Final-Ever Designs | Unique Spaces | Architectural Digest - YouTube](https://www.youtube.com/watch?v=6L7NnZWeW-s)
+- [Inside One of Frank Lloyd Wright's Final-Ever Designs | Unique Spaces | Architectural Digest - YouTube](https://www.youtube.com/watch?v=6L7NnZWeW-s)
 - [P R Sundar's Luxury Penthouse Tour!](https://www.youtube.com/watch?v=Y52kD7RIIuY)
 - [VITAAN : Luxury in the lap of nature… #allaboutarchitecture - YouTube](https://www.youtube.com/watch?v=Sw5tO6QQACI&ab_channel=ALLABOUTARCHITECTURE)
 - [Luxury Penthouse For Sale 5000Sqft Tripple Story On #Airport Road Mohali Lowest Price in #Mohali - YouTube](https://www.youtube.com/watch?v=vhCNDOULPwE&ab_channel=LiveSiteVisit)
 - $200,000 - 1.7 cr whole villa in bali
 - [DLF Camellias ₹100 Cr Luxury Masterpiece with GRANDEUR Features and Investment Potential! - YouTube](https://www.youtube.com/watch?v=910iUxbT8iI)
-- [Inside Virat Kohli’s Spacious Nature Inspired Holiday Home \| AD India - YouTube](https://www.youtube.com/watch?v=wpf5ga_nu3A)
+- [Inside Virat Kohli's Spacious Nature Inspired Holiday Home \| AD India - YouTube](https://www.youtube.com/watch?v=wpf5ga_nu3A)
 
 ## Passive House
 
-- [Wow! I Didn’t Know A Prebuilt House Could Do This](https://www.youtube.com/watch?v=y3NVDqH39CE)
+- [Wow! I Didn't Know A Prebuilt House Could Do This](https://www.youtube.com/watch?v=y3NVDqH39CE)
 - [I Made A Mistake Building My New Net Zero Home - YouTube](https://www.youtube.com/watch?v=SSN-np71d0Q)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
 
@@ -52,6 +52,28 @@ updated: 2026-06-03
 - [Civil site visit - YouTube](https://www.youtube.com/@civilsitevisit)
 - [Harry Dutt - YouTube](https://www.youtube.com/@harrydutt)
 - [baixu - YouTube](https://www.youtube.com/@baixu)
+- [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
+
+## Property Tours & Architecture
+
+### Noida Properties
+
+- [Ultra Luxury Apartments in Noida | Dasnac Westminster Sector 146 Full 4K](https://youtu.be/m34lErozNxA)
+
+### Gurgaon/Delhi Properties
+
+- [🇯🇵 Indo Japanese Apartments in Krisumi Waterfall Residences Gurgaon](https://youtu.be/CRkBL20iP2w?si=M9cNA1TUbwPrMEzw)
+
+### Unique Homes & Architecture
+
+- [Inside Bangalore's Upside Down Hill House](https://youtu.be/fNCccL1PcqA)
+- [Inside Japan's Brand New School: 570 Kids, Amazing Lunch System](https://youtu.be/WqfNU3cAHZk)
+- [He Turned 4 Shipping Containers Into a Luxury Home | Start to Finish](https://youtu.be/pFxBa-LMH3I)
+- [Inside the 2026 Home of the Year | Eastbourne House](https://youtu.be/oNBQ8Y3lz0s)
+- [10 "Dream" Home Features That FAIL In Real Life](https://youtu.be/BK4nbWAvqqE)
+- [This Indore Residence Showcases Modern Luxury Living! (House Tour)](https://youtu.be/ODfmhoRZQQE)
+- [He Sent A Helicopter For Me To Visit His 7.5-Acre Mansion In Pune!](https://youtu.be/7tC0uRdXnPs)
+- [Arghya Bungalow Nashik #allaboutarchitecture #architectureanddesign #nashik](https://youtu.be/2EmkhErCOUU)
 
 ## Links
 
@@ -61,7 +83,7 @@ updated: 2026-06-03
 - [Different Types of Partition Walls || Aluminium, wood, Gypsum Board, Tuffen Glass Partition - YouTube](https://www.youtube.com/watch?v=0YImmTW2sXU&ab_channel=InsideInterior)
 - Coohome
 - Sweet home
-- [NEVER TOO SMALL: Self Taught Interior Designer’s Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
+- [NEVER TOO SMALL: Self Taught Interior Designer's Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
 - [House construction cost 2025 | घर बनाने का पूरा खर्च | Material + Labour cost | Duplex house rate - YouTube](https://www.youtube.com/watch?v=0GDb28Cetqk&ab_channel=CivilSitevisit)
 - [M3M City of Dreams (Panipat) - Construction Update November 2024](https://youtu.be/6KiB8D4KxfY)
@@ -74,7 +96,7 @@ updated: 2026-06-03
 - [KHYAL: 5,000 sq. ft. Bungalow in Pune. #allaboutarchitecture #architect...](https://youtu.be/Hah_WISBDaU)
 - [I bought my Dream House!](https://youtu.be/BqvtFfkbQxs)
 - [1900 SQFT मैं 4 Bhk Flats with double road facing in indrapuram - YouTube](https://www.youtube.com/watch?v=ELoh31N_IcI)
-- [DLF’s New ‘Ultra-Luxury’ Project to Have the Costliest Apartments in India | Gurugram Real Estate - YouTube](https://www.youtube.com/watch?v=DUPyFm_2daY)
+- [DLF's New 'Ultra-Luxury' Project to Have the Costliest Apartments in India | Gurugram Real Estate - YouTube](https://www.youtube.com/watch?v=DUPyFm_2daY)
 - [House of Bridges - Mahad #allaboutarchitecture #architectureanddesign #Mahad - YouTube](https://www.youtube.com/watch?v=JZmROG530Ao)
 - [This Kerala Home has Stunning Backwater Views! (House Tour) - YouTube](https://youtu.be/rNfUVttBQdE)
 - [Inside DLF Camellias : An Ultra Luxury Home Tour - YouTube](https://youtu.be/a4hXR5Q0KzE)

@@ -3,7 +3,7 @@ slug: /economics/fundamentals/readme
 title: Economic Fundamentals
 description: Explore essential economic fundamentals, including micro and macroeconomics, GDP, inflation, and monetary policies to build a solid knowledge base.
 created: 2026-06-09
-updated: 2026-06-10
+updated: 2026-08-21
 ---
 Core economic theory and foundational knowledge.
 
@@ -15,3 +15,4 @@ Core economic theory and foundational knowledge.
 - [Inflation](economics/fundamentals/inflation-indexes.md)
 - [Monetary Policies](economics/fundamentals/monetary-policies.md)
 - [government-terms](economics/fundamentals/government-terms.md)
+- [Purchasing Power Parity and International Price Arbitrage](economics/fundamentals/purchasing-power-parity-price-arbitrage.md)
