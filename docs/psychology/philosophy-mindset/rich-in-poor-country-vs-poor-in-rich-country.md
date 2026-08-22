@@ -37,7 +37,7 @@ This is the exact tension behind why I keep coming back to [buying-checklist](kn
 - But that same income in Australia/NZ buys "poor(er) in a rich country" — the trade is cheap labor and status for universal Medicare, low Gini (~0.32–0.34), transparent governance, and a long-term PR-to-citizenship path — see [australia-and-nz-relocation-details](knowledge/new-home-place/australia-and-nz-relocation-details.md).
 - My own [Priorities for the Next Move](knowledge/new-home-place/buying-checklist.md) list (safety, clean air, healthcare, no discrimination, long-term PR/citizenship, community, job, good social security) is, in effect, a personal vote for the "poor in a rich country" side of this trade-off, once the current constraints (kids growing up, father's healthcare) are resolved.
 - Aligns with my [globalist views and meritocracy stance](about-deepak-sood/profile/ideals-dreams.md) — favoring systems over local hierarchy — and the mantra **Income − Savings = Expense**: optimizing for the floor (safety net, rule of law) rather than the ceiling (local purchasing power).
-- Also connects to [countries-metrics](knowledge/geography/countries-metrics.md) — Gini coefficient, HDI, corruption perception index are exactly the metrics used here to operationalize "which side of the trade-off a country falls on."
+- Also connects to [countries-metrics](knowledge/new-home-place/countries-metrics.md) — Gini coefficient, HDI, corruption perception index are exactly the metrics used here to operationalize "which side of the trade-off a country falls on."
 
 ## Links
 

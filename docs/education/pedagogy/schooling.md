@@ -3,7 +3,7 @@ slug: /education/pedagogy/schooling
 title: Customized School Comparison Guide
 description: Discover a tailored list of schools based on location, age, preferences, and budget to find the perfect educational fit for your child.
 created: 2025-04-27
-updated: 2026-06-13
+updated: 2026-08-22
 ---
 ## Finding perfect school prompt
 
@@ -214,3 +214,4 @@ If certain data points are missing for a school, mention "**Information Not Avai
 ## Links
 
 - [EXPOSED: Indian School Fees - YouTube](https://www.youtube.com/watch?v=1Llh_l6E6Bs)
+- [your kid's school doesn't matter](https://auren.substack.com/p/your-kids-school-doesnt-matter)

@@ -247,7 +247,6 @@ Trigger: once kids are big, and father's healthcare is sorted.
 - Close or tieup with other schools
 - Open a school
 
-
 ### Building Lifespan, Redevelopment & UDS (Undivided Share of Land)
 
 Every building has an "expiry date":

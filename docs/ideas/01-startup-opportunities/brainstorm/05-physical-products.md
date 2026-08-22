@@ -3,7 +3,7 @@ slug: /ideas/brainstorm/physical-products
 title: Physical Products & Hardware Startup Ideas
 description: Brainstorm list of physical product and hardware startup opportunities including marketplace platforms, IoT devices, civil engineering, and consumer products
 created: 2023-03-05
-updated: 2026-06-26
+updated: 2026-08-22
 ---
 
 ## Marketplace & Platforms
@@ -254,6 +254,7 @@ References:
 - [Waymo Safety Impact](https://waymo.com/safety/impact/)
 - [Tesla vs Waymo comparison](https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems)
 - [Robotaxis and urban mobility](https://bigthink.com/books/robotaxis-urban-mobility/)
+- [A look under our trunk: what’s in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/)
 
 ## Business Avenues for Passive Income
 

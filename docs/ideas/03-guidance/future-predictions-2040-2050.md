@@ -3,7 +3,7 @@ slug: /ideas/future-predictions-2040-2050
 title: Future Predictions 2040-2050
 description: Speculative predictions and insights on future technologies, societal changes, and disruptive innovations including AI, robotics, flying taxis, and climate impact
 created: 2023-03-05
-updated: 2026-06-26
+updated: 2026-08-22
 ---
 
 ## Core Predictions
@@ -33,7 +33,7 @@ updated: 2026-06-26
 - **Humanoid Robotics**
   - [Atlas Goes Hands On](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
 - **AI** - Artificial intelligence revolution
-- **Autonomous Cars** - Self-driving vehicles
+- **Autonomous Vehicles** - Self-driving vehicles
 - **Flying taxis / Air taxis** (VTOL - Vertical Take-Off and Landing)
 - **Blockchain** - Decentralized trust systems
 - **Lab-grown diamonds**

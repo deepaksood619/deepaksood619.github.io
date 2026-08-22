@@ -3,17 +3,17 @@ slug: /knowledge/geography/continents
 title: Continents
 description: Explore the continents' diverse areas, populations, and major cities, uncovering fascinating facts about our planet's geographical regions.
 created: 2023-03-05
-updated: 2025-02-14
+updated: 2026-08-21
 ---
 | **Continent** | **Area (km²)** | **Area (mi²)** | **Percent total landmass** | **Population** | **Percent total pop.** | **Most populous city** |
-|---|---|---|---|---|---|---|
-| Africa | 30,370,000 | 11,730,000 | 20.4% | 1,287,920,000 | 16.9% | Lagos,Nigeria |
-| Antarctica | 14,000,000 | 5,400,000 | 9.2% | 4,490 | 0.0% | McMurdo Station |
-| Asia | 44,579,000 | 17,212,000 | 29.5% | 4,545,133,000 | 59.5% | Shanghai,China |
-| Australia | 8,600,000 | 3,300,000 | 5.9% | 41,261,000 | 0.5% | Sydney,Australia |
-| Europe | 10,180,000 | 3,930,000 | 6.8% | 742,648,000 | 9.7% | Moscow,Russia |
-| North America | 24,709,000 | 9,540,000 | 16.5% | 587,615,000 | 7.7% | Mexico City,Mexico |
-| South America | 17,840,000 | 6,890,000 | 12.0% | 428,240,000 | 5.6% | São Paulo,Brazil |
+| ------------- | -------------- | -------------- | -------------------------- | -------------- | ---------------------- | ---------------------- |
+| Africa        | 30,370,000     | 11,730,000     | 20.4%                      | 1,287,920,000  | 16.9%                  | Lagos,Nigeria          |
+| Antarctica    | 14,000,000     | 5,400,000      | 9.2%                       | 4,490          | 0.0%                   | McMurdo Station        |
+| Asia          | 44,579,000     | 17,212,000     | 29.5%                      | 4,545,133,000  | 59.5%                  | Shanghai,China         |
+| Australia     | 8,600,000      | 3,300,000      | 5.9%                       | 41,261,000     | 0.5%                   | Sydney,Australia       |
+| Europe        | 10,180,000     | 3,930,000      | 6.8%                       | 742,648,000    | 9.7%                   | Moscow,Russia          |
+| North America | 24,709,000     | 9,540,000      | 16.5%                      | 587,615,000    | 7.7%                   | Mexico City,Mexico     |
+| South America | 17,840,000     | 6,890,000      | 12.0%                      | 428,240,000    | 5.6%                   | São Paulo,Brazil       |
 
 The term [Oceania](https://en.wikipedia.org/wiki/Oceania) refers to a group of [island countries](https://en.wikipedia.org/wiki/Island_country) and territories in the [Pacific Ocean](https://en.wikipedia.org/wiki/Pacific_Ocean), together with the [continent of Australia](https://en.wikipedia.org/wiki/Australia_(continent)).[Pacific islands](https://en.wikipedia.org/wiki/Pacific_islands) with ties to other continents (such as [Japan](https://en.wikipedia.org/wiki/Japan), [Hawaii](https://en.wikipedia.org/wiki/Hawaii) or [Easter Island](https://en.wikipedia.org/wiki/Easter_Island)) are usually grouped with those continents rather than Oceania. This term is used in several different continental models instead of [Australia](https://en.wikipedia.org/wiki/Australia_(continent)).
 

@@ -3,7 +3,7 @@ slug: /knowledge/new-home-place
 title: New Home / Place / Relocation
 description: Buying a home in India, home building and architecture, and relocation research — where to live domestically or abroad, and the deep-research reports behind those decisions.
 created: 2024-02-23
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 ## Buying & Building a Home (India)
 
@@ -17,6 +17,8 @@ updated: 2026-08-19
 
 - [places-to-live-criteria](knowledge/new-home-place/places-to-live-criteria.md)
 - [foreign-relocation-options](knowledge/new-home-place/foreign-relocation-options.md)
+- [countries-metrics](knowledge/new-home-place/countries-metrics.md)
+- [living](knowledge/new-home-place/living.md)
 
 ## Australia / New Zealand Relocation Research
 
@@ -36,5 +38,5 @@ updated: 2026-08-19
 
 ## Related
 
-- [living](knowledge/geography/living.md)
-- [countries-metrics](knowledge/geography/countries-metrics.md)
+- [living](knowledge/new-home-place/living.md)
+- [countries-metrics](knowledge/new-home-place/countries-metrics.md)

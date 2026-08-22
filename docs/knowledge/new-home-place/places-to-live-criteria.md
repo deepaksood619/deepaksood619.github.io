@@ -85,6 +85,6 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 
 - [buying-checklist](knowledge/new-home-place/buying-checklist.md)
 - [home-building-and-architecture](knowledge/new-home-place/home-building-and-architecture.md)
-- [countries-metrics](knowledge/geography/countries-metrics.md)
+- [countries-metrics](knowledge/new-home-place/countries-metrics.md)
 - [foreign-relocation-options](knowledge/new-home-place/foreign-relocation-options.md)
 - **IMP -** [Move to Europe Without Quitting Your Indian Income: Step-by-Step ₹50 Lakh Plan \| Mr. Deepesh \| FWS - YouTube](https://www.youtube.com/watch?v=w4VDxKPinkI)

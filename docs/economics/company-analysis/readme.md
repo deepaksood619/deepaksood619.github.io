@@ -182,6 +182,23 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** August 3, 2026 (Price: ~Rs. 8,885, Market Cap: ~Rs. 1,33,000-1,38,000 Cr)
   - **Next Update:** After Q2 FY27 earnings (expected October-November 2026)
 
+### Welspun Corp Ltd
+
+- [Welspun Corp - Fundamental Analysis (August 21, 2026)](economics/company-analysis/companies/infra/welspun-corp-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:WELCORP / BSE:532144
+  - **Score:** 6.7/10 ⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Hold / Reduce on Strength (avoid fresh buying at current price)
+  - **Target Price:** Rs. 1,926 (base case, ~17% downside); scenario range Rs. 1,576-2,451
+  - **Key Highlights:**
+    - 🟢 **Global Line Pipe Leader:** Large-diameter pipe manufacturing across India, US, and (soon) KSA; record order book of ~USD 4.4 Bn (~Rs. 42,100 Cr) after a fresh USD 1.8 Bn US order announced today
+    - 🟢 **Improving Core Margins:** OPM steadily rose from 5% (FY23) to 13% (FY26)/14% (TTM); low leverage (D/E 0.26x), strong FCF, interest coverage ~11x
+    - 🟢 **Clean Governance:** Promoter holding stable at 49.73%, no disclosed pledge, FII stake jumped from 11.23% to 14.61% in one quarter
+    - 🔴 **Valuation Has Run Far Ahead:** Stock up ~186% YTD 2026 and +15.3% today alone; PE 26.4x / P/B 6.66x vs a Rs. 1,050 brokerage target as recently as December 2025
+    - ⚠️ **Earnings Quality Note:** FY25 and Q1 FY27 net profit were both inflated by large one-off "other income" items — track core operating profit, not headline EPS
+  - **Data Date:** August 21, 2026, ~3:30 PM IST (Price: Rs. 2,312, Market Cap: Rs. 61,019 Cr)
+  - **Next Update:** After Q2 FY27 earnings or a material pullback/continuation in the stock price
+
 ### Bharti Airtel Limited
 
 - [Bharti Airtel - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/telecom/bharti-airtel-fundamental.md)
