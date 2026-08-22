@@ -3,7 +3,7 @@ slug: /ai/llm/mcp/mcp-model-context-protocol
 title: Model Context Protocol (MCP)
 description: Discover the Model Context Protocol (MCP), an open standard for seamless integration of LLM applications with external data sources and tools.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-22
 ---
 - [mcp-vs-restapi](ai/llm/mcp/mcp-vs-restapi.md)
 
@@ -549,6 +549,7 @@ The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source sta
 	- [A Hands-on Guide to Agent Communication Protocol](https://blog.dailydoseofds.com/p/a-hands-on-guide-to-agent-communication)
 	- [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
 	- The **Agent Communication Protocol (ACP)** is an open protocol for agent interoperability that solves the growing challenge of connecting AI agents, applications, and humans. Modern AI agents are often built in isolation, across different frameworks, teams, and infrastructures. This fragmentation slows innovation and makes it harder for agents to work together effectively.
+	- [Message Structure - Agent Communication Protocol](https://agentcommunicationprotocol.dev/core-concepts/message-structure)
 - Google - Agent Payments Protocol (AP2)
 - Claude Skills - [Antropic - Claude Skills](https://api.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/a4xJgHQ8Nbk8g4A8riZomz/player)
 

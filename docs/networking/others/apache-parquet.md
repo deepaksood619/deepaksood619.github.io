@@ -3,7 +3,7 @@ slug: /networking/others/apache-parquet
 title: Overview of Apache Parquet
 description: Discover Apache Parquet, a columnar data store in the Hadoop ecosystem, optimized for efficient data compression and performance.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-08-22
 ---
 Apache Parquet is a [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source)[column-oriented](https://en.wikipedia.org/wiki/Column-oriented_DBMS) data store of the [Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop) ecosystem. It is similar to the other columnar-storage file formats available in [Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop) namely [RCFile](https://en.wikipedia.org/wiki/RCFile) and Optimized RCFile (ORC). It is compatible with most of the data processing frameworks in the [Hadoop](https://en.wikipedia.org/wiki/Hadoop) environment. It provides efficient [data compression](https://en.wikipedia.org/wiki/Data_compression) and [encoding](https://en.wikipedia.org/wiki/Encoding) schemes with enhanced performance to handle complex data in bulk
 
@@ -105,3 +105,4 @@ As an aside - I still almost always recommend still using a columnar file format
 - [Apache Parquet: Parquet file internals and inspecting Parquet file structure - YouTube](https://www.youtube.com/watch?v=rVC9F1y38oU)
 - [Preliminary Notes on Open-Source Variant Performance \| Q's Engineering notes: data & lakes](https://qlong.github.io/posts/2026-03-30-variant-early-results/)
 	- [Benchmarking Parquet Variants through Iceberg \| benchmarking-variants](https://steveloughran.github.io/benchmarking-variants/)
+	- [Variant Shredding \| Parquet](https://parquet.apache.org/docs/file-format/types/variantshredding/)

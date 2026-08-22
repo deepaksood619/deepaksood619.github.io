@@ -3,7 +3,7 @@ slug: /technologies/confluent/cli-tools
 title: Essential CLI Tools for Kafka Management
 description: Explore essential CLI tools for managing Kafka, Confluent Cloud, and deploying resources efficiently.
 created: 2025-12-20
-updated: 2026-08-12
+updated: 2026-08-22
 ---
 - [Kafka Commands](technologies/kafka/kafka-commands/readme.md)
 
@@ -127,6 +127,7 @@ kafka-producer-perf-test \
 - `npx @confluentinc/mcp-confluent --init-oauth-config`
 - `npx @confluentinc/mcp-confluent@1.3.0 --init-oauth-config`
 - `claude mcp add confluent -- npx -y @confluentinc/mcp-confluent --config ./config.yaml`
+- [Kafka and AI walk into a bar...](https://softwaremill.com/managing-kafka-with-ai-and-mcp/)
 
 ## Others
 

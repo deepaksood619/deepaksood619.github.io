@@ -3,7 +3,7 @@ slug: /technologies/flink/intro
 title: Introduction to Apache Flink
 description: Discover Apache Flink's stream-first approach for processing batches and streams using the Kappa architecture. Learn how it simplifies stream processing.
 created: 2025-12-15
-updated: 2026-06-11
+updated: 2026-08-22
 ---
 Apache Flink is a stream processing framework that can also handle batch tasks. It considers batches to simply be data streams with finite boundaries, and thus treats batch processing as a subset of stream processing. This stream-first approach to all processing has a number of interesting side effects.
 
@@ -86,4 +86,6 @@ Although built as a generic data processor, Flink’s native support of unbounde
 - [Flink SQL Autopilot in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/concepts/autopilot.html)
 - [Using Apache Flink for Model Inference: A Guide for Real-Time AI Applications \| Confluent](https://www.confluent.io/blog/using-flink-for-model-inference-a-guide-for-realtime-ai-applications/)
 - [Materialized Tables in Apache Flink](https://rmoff.net/2026/04/28/materialized-tables-in-apache-flink/)
-- [How Smartsheet built Real-time Dynamic Filtering on Apache Flink reducing $40K/month in messaging costs \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/how-smartsheet-built-real-time-dynamic-filtering-on-apache-flink-reducing-40k-month-in-messaging-costs/)
+- [How Smartsheet built Real-time Dynamic Filtering on Apache Flink reducing $40K/month in messaging costs \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/how-smartsheet-built-real-time-dynamic-filtering-on-apache-flink-reducing-40k-month-in-messaging-costs/
+- [Event Processing (CEP) \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-stable/docs/libs/cep/)
+	- FlinkCEP is the Complex Event Processing (CEP) library implemented on top of Flink. It allows you to detect event patterns in an endless stream of events, giving you the opportunity to get hold of what’s important in your data.

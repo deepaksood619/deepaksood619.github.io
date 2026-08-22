@@ -3,7 +3,7 @@ slug: /ai/llm/evaluation-monitoring/evaluation
 title: Evaluation
 description: Explore powerful frameworks and tools for evaluating LLMs, enhancing performance, and benchmarking in our comprehensive guide to AI model assessment.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-22
 ---
 - [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals) ⭐ 19k
 - [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 16k - a simple-to-use, open-source evaluation framework for LLM applications.
@@ -280,3 +280,4 @@ Evaluation methods are the functions that score traces, observations, sessions, 
 - [What is AI Agent Evaluation? \| IBM](https://www.ibm.com/think/topics/ai-agent-evaluation)
 - [Everything You Need to Know About LLM Evaluation Metrics - MachineLearningMastery.com](https://machinelearningmastery.com/everything-you-need-to-know-about-llm-evaluation-metrics/)
 - [A Gentle Introduction to LLM Evaluations - Elena Samuylova - YouTube](https://www.youtube.com/live/ac6ZB5QEwGU)
+- [Notion’s Knowledge Board](https://labs.notion.com/knowledge-board)

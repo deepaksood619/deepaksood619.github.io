@@ -3,7 +3,7 @@ slug: /psychology/buying-guide-car
 title: Buying Guide Car
 description: Discover essential tips for buying a car, including tax savings, engine specs, and considerations for choosing the right vehicle for your needs.
 created: 2026-01-10
-updated: 2026-01-10
+updated: 2026-08-22
 ---
 [How Employees Save 40% on Car using Tax Laws | Detailed Explanation by CA Sahil Jain - YouTube](https://www.youtube.com/watch?v=s4WRHfLckj8&ab_channel=TaxationwithCASahilJain)
 
@@ -300,3 +300,7 @@ A whopping ₹5.96 lakh crores lost or [3% of the GDP](https://bn9wksbn.r.us-eas
 8. PERIODIC MAINTENANCE - Follow the Periodic Maintenance schedule religiously
 9. ADJUST TEMPERATURE & BLOWER SPEED - Adjust the AC temperature & the blower speed depending upon the number of passengers in the car
 10. OPEN ALL WINDOWS TO REMOVE HOT AIR - If parked in the hot sun for long, open all the windows completely to vent the hot air out before switching On the AC
+
+## Electric Cars / Electric Vehicles
+
+[Trends in electric cars](https://www.iea.org/reports/global-ev-outlook-2026/trends-in-electric-cars)

@@ -3,7 +3,7 @@ slug: /databases-sql/postgres/intro
 title: Intro
 description: Explore PostgreSQL, an open-source relational database that combines object-oriented design with powerful SQL features for efficient web application development.
 created: 2023-03-05
-updated: 2026-07-25
+updated: 2026-08-22
 ---
 ## Introduction
 
@@ -128,6 +128,10 @@ https://www.postgresql.org/docs/current/storage.html
 
 - [EDB: Open-Source, Enterprise Postgres Database Management](https://www.enterprisedb.com/)
 - [EDB Docs - Failover Manager v4 - EFM](https://www.enterprisedb.com/docs/efm/latest/)
+
+## Changelog / Updates
+
+- [What's New with Monitoring in PostgreSQL 19 \| ClickHouse](https://clickhouse.com/blog/postgres-19-monitoring-whats-new)
 
 ## References
 

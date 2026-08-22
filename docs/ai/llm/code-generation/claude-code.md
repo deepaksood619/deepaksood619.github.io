@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-07-09
+updated: 2026-08-22
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -284,6 +284,7 @@ hermes gateway      # Start messaging gateway
 - [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph) ⭐ 20k
 	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
 - [OpenCode \| The open source AI coding agent](https://opencode.ai/)
+- [**How to extract YouTube transcript in Claude Code \| Firecrawl Glossary**](https://www.firecrawl.dev/glossary/web-scraping-apis/how-to-extract-youtube-transcript-in-claude-code)
 
 ## Pricing
 

@@ -3,7 +3,7 @@ slug: /technologies/confluent/warpstream
 title: "WarpStream: Revolutionizing Data Streaming"
 description: Discover WarpStream, a cost-effective, Kafka-compatible data streaming platform built on S3 for seamless, efficient data management.
 created: 2025-02-24
-updated: 2026-08-13
+updated: 2026-08-22
 ---
 [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 
@@ -30,11 +30,17 @@ Tableflow automates **all** of the annoying parts about generating and maintai
 
 [The Case for an Iceberg-Native Database: Why Spark Jobs and Zero-Copy Kafka Won’t Cut It - WarpStream](https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it)
 
+[Monitoring Tableflow \| WarpStream](https://docs.warpstream.com/warpstream/tableflow/monitoring)
+
 ## Others
 
 - [What is Bring Your Own Cloud (BYOC)? \| Confluent](https://www.confluent.io/learn/bring-your-own-cloud/)
 - [Ask Your Cluster Anything: The WarpStream MCP Server - WarpStream](https://www.warpstream.com/blog/ask-your-cluster-anything-the-warpstream-mcp-server)
 	- [MCP Server \| WarpStream](https://docs.warpstream.com/warpstream/reference/mcp-server)
+- **Ripcord**
+	- Ripcord enables WarpStream Agents to continue ingesting data and accepting Produce requests even when the control plane is unavailable.
+	- WarpStream normally uses a split architecture: stateless agents run inside your local cloud account (writing data directly to your object storage), while a managed control plane in the cloud handles metadata orchestration. If that control plane goes down, Ripcord serves as an emergency safety net to keep your upstream data pipelines from halting.
+	- [Ripcord \| WarpStream](https://docs.warpstream.com/warpstream/kafka/advanced-agent-deployment-options/ripcord)
 
 ## Links
 
@@ -48,3 +54,4 @@ Confluent acquired WarpStream for **$220 million** in a deal completed on Sept
 - [WarpStream is Dead, Long Live WarpStream](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
 - [What is WarpStream by Confluent? (A Lightboard by Tim Berglund) - YouTube](https://www.youtube.com/watch?v=lrD0abLJhYY)
 - [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab)
+- [The Art of Being Lazy(log): Lower Latency and Higher Availability With Delayed Sequencing - WarpStream](https://www.warpstream.com/blog/the-art-of-being-lazy-log-lower-latency-and-higher-availability-with-delayed-sequencing)

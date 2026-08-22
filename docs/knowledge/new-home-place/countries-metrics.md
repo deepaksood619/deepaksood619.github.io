@@ -3,7 +3,7 @@ slug: /knowledge/geography/countries-metrics
 title: Country / Countries Metrics
 description: Explore key metrics on countries, including life expectancy, healthcare spending, crime rates, education quality, and economic factors for informed comparisons.
 created: 2026-03-11
-updated: 2026-05-28
+updated: 2026-08-22
 ---
 - Maximum life expectancy (if no accident or anything like that) vs life expectancy
 - Population Density
@@ -49,6 +49,9 @@ updated: 2026-05-28
 - [Category:Judiciaries by country - Wikipedia](https://en.wikipedia.org/wiki/Category:Judiciaries_by_country)
 - [Category:Wikipedia indexes - Wikipedia](https://en.wikipedia.org/wiki/Category:Wikipedia_indexes)
 - [Category:Indexes of topics by region - Wikipedia](https://en.wikipedia.org/wiki/Category:Indexes_of_topics_by_region)
+- [The Cost of Happiness Around the World \| Remitly](https://www.remitly.com/us/en/insights/global-cost-of-happiness)
+	- In the **U.S.,** happiness costs an estimated **$134,827 USD**, the amount beyond which further increases to annual income have no effect on a person’s “life evaluation,” based on analysis of data from Purdue University’s income satiation study.
+	- The financial cost of happiness, known as the income satiation point, is roughly **$21,500 (about ₹21–22 lakh) per year in India**.
 
 ## Prompts
 

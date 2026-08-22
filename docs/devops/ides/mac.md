@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-08-19
+updated: 2026-08-22
 ---
 ## Shortcuts
 
@@ -168,6 +168,14 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	    -
 - ~~Office~~
 - ~~Screensaver~~ - https://zzz.zoomquilt2.com/
+
+### Claude Code
+
+- Install study, note, flashcard, company-analysis skills from ai/llm/code-generation/company-analysis-skill files and folder
+- https://www.firecrawl.dev/glossary/web-scraping-apis/how-to-extract-youtube-transcript-in-claude-code
+	- **run both commands**
+		- npx -y firecrawl-cli@latest init --all --browser
+		- claude plugin install firecrawl@claude-plugins-official
 
 ### Spotlight Alternative
 

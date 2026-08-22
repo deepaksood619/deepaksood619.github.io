@@ -3,7 +3,7 @@ slug: /databases-nosql/duckdb
 title: DuckDB
 description: Discover DuckDB, the open-source SQL database optimized for analytics, offering high performance, embedded functionality, and support for diverse data formats.
 created: 2024-12-15
-updated: 2026-06-11
+updated: 2026-08-22
 ---
 DuckDB is an open-source, high-performance, in-process SQL database management system (RDBMS) for analytics:
 
@@ -65,3 +65,4 @@ Available in C, C++, Go, Java, and Rust. For batch ETL or small datasets, regula
 - [Announcing DuckDB 1.4.2 LTS – DuckDB](https://duckdb.org/2025/11/12/announcing-duckdb-142)
 - [Distributed DuckDB - dual execution and differential storage | Github - citguru/openduck](https://github.com/citguru/openduck) ⭐ 547
 - [Quack: The DuckDB Client-Server Protocol – DuckDB](https://duckdb.org/2026/05/12/quack-remote-protocol)
+- [A Preview of DuckDB v2.0 – DuckDB](https://duckdb.org/2026/08/17/duckdb-20-highlights)

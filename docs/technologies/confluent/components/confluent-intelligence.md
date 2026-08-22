@@ -73,6 +73,7 @@ Common use cases include:
 
 ## Links
 
+- [event-driven-multi-agent-systems](ai/llm/agents/event-driven-multi-agent-systems.md)
 - [Build AI with Confluent Intelligence in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/ai/overview.html)
 - [Introducing Real-Time Context Engine for AI](https://www.confluent.io/blog/introducing-real-time-context-engine-ai/)
 - [Confluent Intelligence: Real-Time AI With Apache Kafka® and Apache Flink®](https://www.confluent.io/product/confluent-intelligence/)

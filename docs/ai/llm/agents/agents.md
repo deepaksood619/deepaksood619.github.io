@@ -128,6 +128,7 @@ The benefits are real — better output quality, independent improvability of ea
 
 - [agents-framework-tools](ai/llm/agents/agents-framework-tools.md)
 - [agentic-frameworks-deep-dive-analysis](ai/llm/agents/agentic-frameworks-deep-dive-analysis.md)
+- [event-driven-multi-agent-systems](ai/llm/agents/event-driven-multi-agent-systems.md)
 - [langgraph-vs-semantic-kernel](ai/llm/agents/langgraph-vs-semantic-kernel.md)
 - [frontend-ui-frameworks-libraries](ai/llm/agents/frontend-ui-frameworks-libraries.md)
 - [GitHub - context-labs/HALO: Hierarchal Agent Loop Optimizer · GitHub](https://github.com/context-labs/halo)

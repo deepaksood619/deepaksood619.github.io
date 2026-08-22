@@ -3,7 +3,7 @@ slug: /technologies/git/others
 title: Essential Git Practices
 description: Explore essential Git practices, including .gitkeep, Git LFS, and hooks to enhance your version control workflow.
 created: 2023-03-05
-updated: 2026-04-28
+updated: 2026-08-22
 ---
 ## .gitkeep
 
@@ -145,3 +145,5 @@ If you're using GitHub Free, you can add unlimited collaborators on public and p
 - Gitlab
 - [GitHub - gitbucket/gitbucket: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility](https://github.com/gitbucket/gitbucket) ⭐ 9.4k
 - [Why Google and Meta Put Billion Lines of Code In 1 Repository? - YouTube](https://www.youtube.com/watch?v=x3cANGNPyx0)
+- [Cursor · Origin](https://cursor.com/origin)
+	- [Git at any scale](https://cursor.com/blog/git-at-any-scale)

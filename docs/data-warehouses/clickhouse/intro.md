@@ -3,7 +3,7 @@ slug: /data-warehouses/clickhouse/intro
 title: Introduction to ClickHouse
 description: Discover ClickHouse, the open source column-oriented database for real-time analytics with powerful SQL query capabilities.
 created: 2023-11-24
-updated: 2026-06-11
+updated: 2026-08-22
 ---
 ClickHouse is an open source column-oriented database management system capable of realtime generation of analytical data reports using SQL queries.
 
@@ -175,3 +175,4 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 - [Working with Time Series Data in ClickHouse](https://clickhouse.com/blog/working-with-time-series-data-and-functions-ClickHouse)
 	- [Query performance - Time-series \| ClickHouse Docs](https://clickhouse.com/docs/use-cases/time-series/query-performance)
 - [The Journey to Zero-Copy: How chDB Became the Fastest SQL Engine on Pandas DataFrame](https://clickhouse.com/blog/chdb-journey-to-zero-copy)
+- [JSON Data Type - ClickHouse Documentation](https://clickhouse.com/docs/reference/data-types/newjson)
