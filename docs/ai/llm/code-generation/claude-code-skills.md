@@ -1,7 +1,7 @@
 ---
 slug: /claude-code-skills
 title: Claude Code Skills
-description: Obsidian Simple New Note Template for creating a new note.
+description: Claude Code Skills
 created: 2026-06-24
 updated: 2026-07-21
 ---

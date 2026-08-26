@@ -1,7 +1,7 @@
 ---
 slug: /confluent-kafka-connect-connectors
-title: Obsidian Simple New Note Template
-description: Obsidian Simple New Note Template for creating a new note.
+title: Confluent Kafka Connect Connectors
+description: Confluent Kafka Connect Connectors
 created: 2026-06-24
 updated: 2026-07-16
 ---
