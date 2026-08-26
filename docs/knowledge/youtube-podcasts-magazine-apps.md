@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-08-08
+updated: 2026-08-24
 ---
 ## Youtube
 
@@ -56,6 +56,7 @@ updated: 2026-08-08
 - [Stand Together - YouTube](https://www.youtube.com/@standtogethercc)
 - [Dr Ben Miles - YouTube](https://www.youtube.com/@drbenmiles)
 - [Sabin Civil Engineering - YouTube](https://www.youtube.com/@sabincivil)
+- [youtube.com/@animagraffs](https://www.youtube.com/@animagraffs)
 
 ### Video creation, 3D Animation and Youtubing Strategy
 
@@ -110,6 +111,7 @@ updated: 2026-08-08
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)-- light-hearted tidbids of English history and other things
 - [DW History and Culture - YouTube](https://youtube.com/@dwhistoryandculture)
 - [History of Simple Things - YouTube](https://www.youtube.com/@historyofsimplethings)
+- [ ]
 
 ### Making Youtube content
 
@@ -172,6 +174,7 @@ updated: 2026-08-08
 - Cleo Abram
 - [Smarter While You Sleep - YouTube](https://youtube.com/@smarterwhileyousleep)
 - [EO - YouTube](https://www.youtube.com/@eoglobal)
+- [youtube.com/@geographyperfect](https://www.youtube.com/@geographyperfect)
 
 ### News
 
@@ -580,6 +583,8 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
 - https://zoro.to
 - [YouTube Vanced APK Download (\*UPDATED\*) v18.46.48 Latest Version - VancedYouTube](https://vancedyoutube.org/)
 - [**YouTube ReVanced** 20.13.41 \[Download Latest APK\] 2025](https://vanced.so/youtube/)
+	- [Morphe App for YouTube and Reddit - OFFICIAL SITE](https://morphe.software/)
+	- [MorpheApp · GitHub](https://github.com/morpheapp)
 - Pikashow
 - PPCine
 - pdf drive

@@ -3,7 +3,7 @@ slug: /ai/libraries/tools
 title: Tools
 description: Discover essential tools like AutoML for automated machine learning and MLflow for streamlined development, experimentation, and model deployment.
 created: 2023-03-05
-updated: 2026-07-23
+updated: 2026-08-24
 ---
 ## AutoML (Automated Machine Learning)
 
@@ -212,6 +212,7 @@ https://www.cortex.dev
 	- [Dataiku 3-Minute Demo - YouTube](https://www.youtube.com/watch?v=5_--My-B7Uw)
 	- [Dataiku - YouTube](https://www.youtube.com/playlist?list=PL4vFwlsy6ChHf5GqY-j_uP6ooTUJOlORl)
 - [Zingle AI Labs](https://getzingle.com/)
+- [bunny: build in multiplayer with humans and agents on a shared environment](https://bunnyandcloud.com/)
 
 ## Tools
 

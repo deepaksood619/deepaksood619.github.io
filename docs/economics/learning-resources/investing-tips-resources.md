@@ -157,6 +157,7 @@ See: [Tools & Platforms](economics/learning-resources/tools-platforms.md)
 - [Asset Classes Overview](economics/investment-frameworks/core-concepts/asset-classes-overview.md)
 - [Stock Selection Framework](economics/investment-frameworks/stock-selection/stocks-equity-basics.md)
 - [Personal Finance Framework](economics/personal-finance/wealth-building/personal-finance-framework.md)
+- [How to Get Rich Slowly](economics/investment-frameworks/core-concepts/how-to-get-rich-slowly.md)
 
 ## Image Reference
 

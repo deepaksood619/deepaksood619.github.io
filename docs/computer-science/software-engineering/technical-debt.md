@@ -3,7 +3,7 @@ slug: /computer-science/software-engineering/technical-debt
 title: Understanding Technical Debt in Software
 description: Explore technical debt concepts, symptoms of low code health, and strategies for maintaining software quality and adaptability.
 created: 2023-03-05
-updated: 2025-02-14
+updated: 2026-08-24
 ---
 ## Lehman's Laws of Software Evolution
 
@@ -63,3 +63,7 @@ https://zerodha.tech/blog/being-future-ready-with-common-sense
 [I've found that slowdown from tech debt killed as many companies as any other is... | Hacker News](https://news.ycombinator.com/item?id=31516517)
 
 [Death By Tech Debt. In the effort to commit code and ship… | by Alex Kreilein | Medium](https://alexkreilein.medium.com/death-by-tech-debt-f5146836d2be)
+
+## Links
+
+- [The "X is Dead" Fallacy - Joe Reis](https://joereis.substack.com/p/the-x-is-dead-fallacy)

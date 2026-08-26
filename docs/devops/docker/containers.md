@@ -3,7 +3,7 @@ slug: /devops/docker/containers
 title: Understanding Container Runtimes
 description: Explore container runtimes like Docker and CRI-O, their integration with Kubernetes, and the role of the Open Container Initiative.
 created: 2023-03-05
-updated: 2026-06-26
+updated: 2026-08-24
 ---
 A container runtime is the component which runs the containerized application upon request. Docker Engine remains the default for Kubernetes, though CRI-O and others are gaining community support.
 
@@ -44,6 +44,13 @@ With a focus on supporting the low-level, or backend plumbing of containers, thi
 ## podman
 
 a "pod manager" tool, allows for the life cycle management of a container, including creating, starting, stopping and updating. You could consider this a replacement for **docker run**.
+
+```bash
+brew install podman
+
+podman machine init
+podman machine start
+```
 
 ## buildah
 

@@ -3,7 +3,7 @@ slug: /knowledge/new-home-place
 title: New Home / Place / Relocation
 description: Buying a home in India, home building and architecture, and relocation research — where to live domestically or abroad, and the deep-research reports behind those decisions.
 created: 2024-02-23
-updated: 2026-08-21
+updated: 2026-08-24
 ---
 ## Buying & Building a Home (India)
 
@@ -30,6 +30,7 @@ updated: 2026-08-21
 
 - [indian-tier2-3-exurban-analysis](knowledge/new-home-place/indian-tier2-3-exurban-analysis.md)
 - [indian-tier2-3-additional-cities](knowledge/new-home-place/indian-tier2-3-additional-cities.md)
+- [dehradun-aqi-and-weather](knowledge/new-home-place/dehradun-aqi-and-weather.md)
 
 ## Indian IT-Hub Relocation Research
 

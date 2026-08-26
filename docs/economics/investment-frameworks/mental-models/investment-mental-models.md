@@ -405,6 +405,7 @@ The trap occurs when a household builds its entire lifestyle—including high fi
 
 ## Links
 
+- [How to Get Rich Slowly](economics/investment-frameworks/core-concepts/how-to-get-rich-slowly.md)
 - [Marginal Utility / Analysis](economics/investment-frameworks/mental-models/marginal-utility-analysis.md)
 - [Recession Shapes / Recovery](economics/investment-frameworks/mental-models/recession-shapes-recovery.md)
 - [The elephant in the brain](book-summaries/psychology/the-elephant-in-the-brain.md)
