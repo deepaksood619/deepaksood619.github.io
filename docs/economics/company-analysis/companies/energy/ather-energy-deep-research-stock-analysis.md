@@ -1,5 +1,5 @@
 ---
-slug: ather-energy-deep-research-stock-analysis
+slug: /ather-energy-deep-research-stock-analysis
 title: ather-energy-deep-research-stock-analysis
 description: "Intelligence Memorandum: Ather Energy Ltd (NSE: ATHERENERG) Valuation and Forensic Event Analysis"
 created: 2026-08-04

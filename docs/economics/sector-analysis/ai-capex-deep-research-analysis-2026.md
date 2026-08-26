@@ -1,5 +1,5 @@
 ---
-slug: ai-capex-deep-research-analysis-2026
+slug: /ai-capex-deep-research-analysis-2026
 title: AI Capex Deep Research Analysis August 2026
 description: AI Capex Deep Research Analysis August 2026
 created: 2026-08-04

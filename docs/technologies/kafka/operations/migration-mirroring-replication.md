@@ -3,7 +3,7 @@ slug: /technologies/kafka/migration-mirroring-replication
 title: Data Migration and Replication Strategies
 description: Explore effective cross-cluster data mirroring techniques, comparing Confluent Replicator and MirrorMaker 2.0 for optimal architecture.
 created: 2024-02-23
-updated: 2026-07-03
+updated: 2026-08-25
 ---
 [**20240425-EB-Migrating\_From\_Kafka\_To\_Confluent.pdf**](https://assets.confluent.io/m/2745775bbd1fa224/original/20240425-EB-Migrating_From_Kafka_To_Confluent.pdf)
 
@@ -111,7 +111,7 @@ Supports "at-least-once" delivery by default. Achieving exactly-once requires sp
 
 **Confluent Replicator**
 
-Specifically optimized to work with Kafka’s transactional API, ensuring that even if a replication task fails and restarts, the data is not duplicated on the destination cluster.
+Replicator provides **at-least-once** semantics, not exactly-once — duplicates can occur after restarts, failures, or rebalances. Enabling producer idempotence reduces duplicates from retries but does not give end-to-end EOS. If strict EOS, offset preservation, and ordering are required, prefer Cluster Linking over Replicator.
 
 #### Links
 

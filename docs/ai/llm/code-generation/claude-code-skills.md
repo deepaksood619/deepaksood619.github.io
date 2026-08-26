@@ -1,5 +1,5 @@
 ---
-slug: claude-code-skills
+slug: /claude-code-skills
 title: Claude Code Skills
 description: Obsidian Simple New Note Template for creating a new note.
 created: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-slug: ai-infrastructure-arms-race
+slug: /ai-infrastructure-arms-race
 title: The AI Infrastructure Arms Race - A Comparative Analysis of Hyperscaler Viability Amidst Geopolitical Friction and Capital Constraints
 description: The AI Infrastructure Arms Race - A Comparative Analysis of Hyperscaler Viability Amidst Geopolitical Friction and Capital Constraints
 created: 2026-08-04

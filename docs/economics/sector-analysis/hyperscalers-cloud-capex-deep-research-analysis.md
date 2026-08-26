@@ -1,5 +1,5 @@
 ---
-slug: hyperscalers-cloud-capex-deep-research-analysis
+slug: /hyperscalers-cloud-capex-deep-research-analysis
 title: hyperscalers-cloud-capex-deep-research-analysis
 description: "Intelligence Memorandum: The Hyperscaler AI CapEx Cycle and the Reality of Cloud Dominance in 2026"
 created: 2026-06-24

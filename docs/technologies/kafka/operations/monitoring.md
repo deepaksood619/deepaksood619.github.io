@@ -3,7 +3,7 @@ slug: /technologies/kafka/monitoring
 title: Essential Kafka Monitoring Tools
 description: Explore key tools for monitoring and managing Kafka, including Kafka Manager, Burrow, and Kafka-UI, to optimize your data streaming.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-08-24
 ---
 ## Monitoring / Management Tools
 
@@ -17,14 +17,15 @@ updated: 2026-06-11
 4. Burrow
 5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop) ⭐ 6.1k
     1. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
-6. Kafka-UI
+6. [GitHub - tchiotludo/akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... · GitHub](https://github.com/tchiotludo/akhq)
+7. Kafka-UI
     1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui) ⭐ 12k
     2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
-7. Kafka Tool
-8. Kafka Cruise Control
-9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
-10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
-11. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks) ⭐ 123
+8. Kafka Tool
+9. Kafka Cruise Control
+10. Kakfa-monitor https://github.com/linkedin/kafka-monitor
+11. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
+12. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks) ⭐ 123
 
 [Kafka Administration and Monitoring UI Tools](https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools)
 

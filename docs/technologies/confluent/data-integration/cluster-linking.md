@@ -3,7 +3,7 @@ slug: /technologies/confluent/cluster-linking
 title: Cluster Linking for Data Replication
 description: Discover how Cluster Linking enables seamless data replication across clusters with Confluent Cloud for enhanced availability and sharing.
 created: 2026-03-04
-updated: 2026-03-23
+updated: 2026-08-25
 ---
 Cluster Linking allows you to directly connect clusters and perfectly mirror topics, consumer offsets, and ACLs from one cluster to another.
 
@@ -28,6 +28,19 @@ confluent kafka mirror create clickstream.tokyo
    --link tokyo-sydney
 ```
 
+## Topic types
+
+| Type                       | Meaning                                                                    | Writable? |
+| -------------------------- | --------------------------------------------------------------------------- | --------- |
+| Regular topic               | Standard Kafka topic created directly on a cluster; typically the source for replication | Yes       |
+| Mirror topic                | Cluster-Link-managed, byte-for-byte copy of a source topic on the destination cluster | No (read-only) |
+| Promoted/failover topic     | A mirror topic converted into a regular topic via promote or failover        | Yes       |
+| Local / remote mirror       | In bidirectional linking, mirrors created on each side from the other cluster's topic | No        |
+
+Compacted, delete-retention, and tiered-storage settings are not separate topic types — they're regular topic configs, and Cluster Linking mirrors them as configured (e.g., a compacted source topic mirrors as compacted).
+
+**A mirror topic cannot be created on top of an already-existing regular topic** — the destination topic name must not already exist (unless a `link.prefix` is used). If the topic already exists on the source side, mirroring it under the same name on the destination works fine. After promote/failover, the topic becomes a regular writable topic; to mirror it again, follow the failover/recovery procedure rather than reusing it directly.
+
 ## Bidirectional mode
 
 Cluster Linking bidirectional mode (a bidirectional cluster link) enables better Disaster Recovery and active/active architectures, with data and metadata flowing bidirectionally between two or more clusters.
@@ -41,6 +54,14 @@ Bidirectional cluster links are useful for certain types of migrations, where co
 
 - In most migrations from an old cluster to a new cluster, a default cluster link suffices because consumers are migrated before or at the same time as producers.
 - If there are straggling consumers on the old cluster, a bidirectional cluster link can help by ensuring their consumer offsets flow to the new cluster and are available when these consumers need to migrate. A default cluster link does not do this.
+
+**Producer-first pattern (consumers stay on the old cluster temporarily):** create the topic on the new cluster, then a reverse link (new → old) with a prefix (e.g., `new.`) that mirrors `new.orders` back onto the old cluster. Move producers to the new cluster, and point old-cluster consumers at both topics with an anchored regex, e.g. `^(orders|new.orders)$` (avoid broad patterns like `.*orders`, which can match unrelated topics). Caveats:
+
+- **Ordering isn't preserved across the two topics** — the same key can land on different partitions in each, so don't rely on cross-topic ordering; use an event timestamp or sequence number if it matters.
+- **Avoid replaying history** into the reverse mirror: set `mirror.start.offset.spec=latest` on the reverse link before cutover so it only carries records produced after the switch, and confirm the mirror is active before cutting producers over (to avoid a gap).
+- **Offsets don't map across topic names** — since consumers read two differently-named topics, normal offset sync won't carry over when consumers eventually move to the new topic; that move needs a manual offset/cutover plan. Keep offset sync disabled on this temporary reverse link unless you have one.
+
+Prefer the standard old → new link (consumers moving with or before producers) when possible — it preserves offsets and syncs consumer groups, so consumers resume on the new cluster with minimal duplicate processing. Reach for the producer-first/prefixed pattern only when consumers must stay on the old cluster and can be updated to subscribe to two topic names.
 
 ## Restrictions and limitations
 

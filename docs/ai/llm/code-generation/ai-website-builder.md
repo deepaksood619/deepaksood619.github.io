@@ -1,5 +1,5 @@
 ---
-slug: ai-powered-react-static-site-builder
+slug: /ai-powered-react-static-site-builder
 title: AI-Powered React Static Site Builder
 description: AI-Powered React Static Site Builder
 created: 2026-06-24

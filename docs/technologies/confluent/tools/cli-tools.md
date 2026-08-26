@@ -3,7 +3,7 @@ slug: /technologies/confluent/cli-tools
 title: Essential CLI Tools for Kafka Management
 description: Explore essential CLI tools for managing Kafka, Confluent Cloud, and deploying resources efficiently.
 created: 2025-12-20
-updated: 2026-08-22
+updated: 2026-08-24
 ---
 - [Kafka Commands](technologies/kafka/kafka-commands/readme.md)
 

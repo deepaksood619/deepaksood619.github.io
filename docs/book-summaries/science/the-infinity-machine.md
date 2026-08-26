@@ -1,5 +1,5 @@
 ---
-slug: the-infinity-machine-book-summary-review
+slug: /the-infinity-machine-book-summary-review
 title: "The Infinity Machine Book Summary & Review: Inside DeepMind's AI Race"
 description: Get the core insights from Sebastian Mallaby's The Infinity Machine in minutes. Read our comprehensive review and 80/20 summary of DeepMind's quest for AGI.
 created: 2026-06-21

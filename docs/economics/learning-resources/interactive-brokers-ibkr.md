@@ -1,5 +1,5 @@
 ---
-slug: Interactive Brokers (IBKR)
+slug: /Interactive Brokers (IBKR)
 title: Interactive Brokers (IBKR)
 description: Interactive Brokers (IBKR)
 created: 2026-06-24

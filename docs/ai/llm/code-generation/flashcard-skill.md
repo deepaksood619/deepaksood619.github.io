@@ -1,5 +1,5 @@
 ---
-slug: flashcard-skill
+slug: /flashcard-skill
 title: FlashCard Skill
 description: Generate atomic flashcards for LearnKit plugin in Obsidian, following learning science principles
 created: 2026-06-25
@@ -118,7 +118,7 @@ Read {folder}/flashcards.md or {folder}/flashcards-{topic}.md
 
 ```yaml
 ---
-slug: {topic-slug}
+slug: /{topic-slug}
 title: {Topic Name} Flashcards
 description: Active recall cards for {topic}
 created: {current_date}

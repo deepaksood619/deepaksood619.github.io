@@ -3,9 +3,11 @@ slug: /knowledge/biology/nutrition/recipe
 title: Recipe
 description: "Discover tips and a delicious grilled chicken and paneer recipe that enhances flavor while minimizing heat—perfect for every home cook!"
 created: 2023-03-05
-updated: 2026-07-02
+updated: 2026-08-25
 ---
 ## Tips
+
+- See [Pressure Cooker](pressure-cooker.md) for why stovetop pressure cookers (used throughout the recipes below) are ubiquitous in India but rare outside it, and how they compare to electric multi-cookers.
 
 - Freeze the onion for 15 minutes right before chopping. If you can’t do that, peel the onion and wash it in cold, running water before cutting it. These methods lower the temperature and slow down the sulphur release.
 - Microwave the garlic pods for 15 seconds before peeling. This slight heating will make the peels drop right off!

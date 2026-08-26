@@ -1,5 +1,5 @@
 ---
-slug: microsoft-comprehensive-analysis
+slug: /microsoft-comprehensive-analysis
 title: Microsoft Corporation (MSFT) - Comprehensive Stock Analysis
 description: Microsoft Stock Comprehensive Analysis
 created: 2026-07-28

@@ -1,5 +1,5 @@
 ---
-slug: qualcomm-comprehensive-analysis
+slug: /qualcomm-comprehensive-analysis
 title: Qualcomm Inc (QCOM) - Comprehensive Stock Analysis
 description: Qualcomm Stock Comprehensive Analysis
 created: 2026-07-28

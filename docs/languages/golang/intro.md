@@ -3,7 +3,7 @@ slug: /languages/golang/intro
 title: Intro
 description: Discover Go, a fast, statically-typed programming language from Google, optimized for systems programming with efficient concurrency and package management.
 created: 2023-03-05
-updated: 2024-03-18
+updated: 2026-08-26
 ---
 Go language is a programming language initially developed at Google in the year 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It is a statically-typed language having syntax similar to that of C.
 
@@ -56,3 +56,4 @@ Go is fast! Go is extremely fast. The performance is similar to that of Java or 
 - https://www.freecodecamp.org/news/learn-go-by-building-11-projects
 - [Writing our own Concurrent Thread safe Queue - YouTube](https://www.youtube.com/watch?v=oYoVx8ZuvTw)
 - [Go Programming Tutorial - 3 Beginner Projects - YouTube](https://www.youtube.com/watch?v=k_V5VvYSlS4)
+- [JSON evolution in Go: from v1 to v2](https://antonz.org/go-json-v2/)

@@ -1,5 +1,5 @@
 ---
-slug: ai-website-builder-architecture
+slug: /ai-website-builder-architecture
 title: Building an AI-Powered React Static Site Builder
 description: An architecture guide for a system that generates static React websites from a prompt and edits them at the section level through natural language — without regenerating the page, and without a server-side CMS.
 created: 2026-06-24

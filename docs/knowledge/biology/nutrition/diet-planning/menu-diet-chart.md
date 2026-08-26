@@ -1,9 +1,9 @@
 ---
-slug: menu-diet-chart-non-glycemic-indian-family-diet-chart
-title: Obsidian Simple New Note Template
-description: Obsidian Simple New Note Template for creating a new note.
+slug: /menu-diet-chart-non-glycemic-indian-family-diet-chart
+title: Menu Diet Chart Non Glycemic Indian Family Diet Chart
+description: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 created: 2026-06-24
-updated: 2026-07-18
+updated: 2026-08-26
 ---
 ## Multigrain Atta Details - 10 kg
 

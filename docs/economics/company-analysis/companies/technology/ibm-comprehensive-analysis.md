@@ -1,5 +1,5 @@
 ---
-slug: ibm-comprehensive-analysis
+slug: /ibm-comprehensive-analysis
 title: IBM (International Business Machines) - Comprehensive Stock Analysis
 description: IBM Comprehensive Analysis
 created: 2026-07-28

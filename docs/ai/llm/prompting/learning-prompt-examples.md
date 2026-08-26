@@ -1,5 +1,5 @@
 ---
-slug: learning-prompt-examples
+slug: /learning-prompt-examples
 title: Learning Prompt Examples
 description: Learning Prompt Examples
 created: 2026-06-24

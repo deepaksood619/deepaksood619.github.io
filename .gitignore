@@ -173,6 +173,7 @@ docs/.obsidian/plugins/learnkit/scheduling/*.db
 scripts/*
 .obsidian-hybrid-search.*
 .root-obsidian.txt
+changes.patch
 
 # personal wikis
 office

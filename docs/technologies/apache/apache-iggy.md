@@ -3,9 +3,8 @@ slug: /apache-iggy
 title: Apache Iggy
 description: Persistent message streaming platform written in Rust with QUIC, WebSocket, TCP and HTTP support
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-08-24
 ---
-
 Iggy is a persistent message streaming platform written in Rust, supporting QUIC, WebSocket, TCP (custom binary specification) and HTTP (regular REST API) transport protocols, capable of processing millions of messages per second at ultra-low latency.
 
 This is not yet another extension running on top of existing infrastructure, such as Kafka or SQL database.
@@ -61,11 +60,8 @@ Iggy is already capable of processing millions of messages per second at the mic
 
 You might expect over 5000 MB/s (e.g. 5M of 1 KB msg/sec) throughput for writes and reads.
 
-## Roadmap
-
-- Clustering & data replication based on VSR (coming soon)
-
 ## Links
 
 - https://iggy.apache.org/
 - [GitHub - apache/iggy](https://github.com/apache/iggy)
+- [Apache Iggy™ Graduates to a Top-Level Project \| Apache Iggy](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)

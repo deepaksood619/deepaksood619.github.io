@@ -3,7 +3,7 @@ slug: /cloud/aws/security-identity-compliance/compliance
 title: Compliances
 description: Discover essential insights on PCI and SOC compliance to secure credit card information and ensure service organization trust with standardized audits.
 created: 2024-02-05
-updated: 2026-06-11
+updated: 2026-08-25
 ---
 ## PCI Compliance
 
@@ -167,6 +167,7 @@ The role of compliance officers is crucial for any company to ensure that the bu
 
 ## Others
 
+- [FedRAMP 20x](fedramp-20x.md) — next-gen FedRAMP authorization framework built on automated Key Security Indicators
 - [Data Governance](ai/data-science/data-governance.md)
 - [GitHub - rkm-ravi94/awesome-it-compliance: This repo contains some details about the IT compliances available.](https://github.com/rkm-ravi94/awesome-it-compliance) ⭐ 22
 - CISA Certification - Certified Information Systems Auditor

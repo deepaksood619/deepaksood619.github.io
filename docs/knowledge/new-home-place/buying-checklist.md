@@ -3,7 +3,7 @@ slug: /knowledge/geography/new-home-place-house
 title: New Home / Place Buying / House
 description: A complete checklist for buying a new home in India — priorities, legal checks, utilities, amenities, flat sizing, and area terminology.
 created: 2024-02-23
-updated: 2026-08-20
+updated: 2026-08-25
 ---
 - [readme](knowledge/new-home-place/readme.md)
 - [renting-and-buy-vs-rent](knowledge/new-home-place/renting-and-buy-vs-rent.md)
@@ -22,7 +22,12 @@ updated: 2026-08-20
 
 **Don't buy house/land in India, since you are not going to live here**
 
+**Think about really buying a home above 1 cr, since you can get a bunglow with land and good air/water in tier-2 cities with good amenities**
+
 **Do you want to be rich in a poor country or poor in a rich country** — see the [deeper breakdown](psychology/philosophy-mindset/rich-in-poor-country-vs-poor-in-rich-country.md)
+
+- [problems in india](knowledge/geography/india.md)
+	- Corruption
 
 Housing isn't a great investment but for most people, it's the best investment they will ever make because it's the only asset they will leave alone and let compound for 10, 20, 30 years.
 

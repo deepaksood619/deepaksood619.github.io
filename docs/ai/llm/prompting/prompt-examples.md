@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/prompt-examples
 title: Prompt Examples
 description: Discover a versatile collection of prompt examples for education, AI applications, and effective learning tools to enhance your creativity and productivity.
 created: 2026-06-18
-updated: 2026-08-09
+updated: 2026-08-24
 ---
 - [personal-tutor-prompt](education/product-concepts/personal-tutor-prompt.md)
 - [quiz-app-prompt](education/product-concepts/quiz-app-prompt.md)
@@ -361,6 +361,16 @@ Take a deep breath and work on this step-by-step.
 	- Black and white artistic portrait of a man using this image, with a fashionable model dressed in a sophisticated suit, black socks and shoes. He is sitting with a slightly hunched posture, looking down as if lost in thought. His facial features are the same as the original photo, like her hairstyle. It features minimalist accessories that highlight the elegant and editorial tone. The studio's clean lighting enhances textures and depth, creating an elegant, couture feel. Use the uploaded picture as a reference for the face. Aspect ratio: 4:5 vertical.
 	- Make my photo an overhead high-angle 3:4 full-body shot of a man lying relaxed on the hood of a red Lamborghini Urus in a dim basement garage. Wearing a crisp white open-collar shirt, brown trousers, polished black shoes, and a leather strap watch. Tattoo visible on the forearm. Soft sunbeam lighting with natural reflections on the car, cinematic warm colour grading, shallow depth of field, creamy bokeh, hyper-realistic 8K detail, billionaire vibe.
 	- Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose with the person and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature.
+
+### Professional Photo Shoot / Head Shot
+
+Generate a 1:1 ultra-realistic 4K corporate headshot with studio lighting and keep the person’s face the exact same.
+
+Edit this image. I need a professional, high-resolution, profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom and negative space above their head, ensuring the top of their head is not cropped. The person looks directly at the camera with a warm, creative expression, and the subject's body is positioned at a subtle angle with one shoulder slightly forward. They are styled for a professional photo studio shoot, wearing a well-fitted black turtleneck with a contemporary texture. The background is a solid '#141414' neutral studio. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of artistic vision and innovation. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the turtleneck, individual strands of hair, and natural, realistic skin texture. The atmosphere exudes confidence, creativity, and artistic professionalism. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel.
+
+[6 Professional Headshot AI Prompts That Actually Work](https://www.reddit.com/r/PromptEngineering/comments/1q7uwts/6_professional_headshot_ai_prompts_that_actually/)
+
+[Try these 8 Gemini Headshot Prompts](https://abhijayvuyyuru.substack.com/p/try-these-8-gemini-headshot-prompts)
 
 ## Humanizer
 

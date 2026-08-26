@@ -1,5 +1,5 @@
 ---
-slug: confluent-kafka-connect-connectors
+slug: /confluent-kafka-connect-connectors
 title: Obsidian Simple New Note Template
 description: Obsidian Simple New Note Template for creating a new note.
 created: 2026-06-24
