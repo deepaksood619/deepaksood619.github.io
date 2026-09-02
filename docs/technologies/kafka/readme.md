@@ -3,7 +3,7 @@ slug: /technologies/kafka/readme
 title: Comprehensive Guide to Apache Kafka
 description: Explore Kafka architecture, installation, configurations, and more in this detailed guide for developers and data engineers.
 created: 2023-03-05
-updated: 2026-07-03
+updated: 2026-09-02
 ---
 Apache Kafka is an open-source distributed event streaming platform used for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
@@ -66,7 +66,7 @@ Apache Kafka is an open-source distributed event streaming platform used for hig
 ## Confluent Components (moved to Confluent folder)
 
 - [Kafka Schema Registry](technologies/confluent/components/kafka-schema-registry.md)
-  - [Schema Registry Compatibility Rules](technologies/confluent/components/kafka-schema-registry-compatibility-rules.md)
+	- [Schema Registry Compatibility Rules](technologies/confluent/components/kafka-schema-registry-compatibility-rules.md)
 - [Kafka REST Proxy](technologies/confluent/components/kafka-rest-proxy.md)
 
 ## Related Technologies

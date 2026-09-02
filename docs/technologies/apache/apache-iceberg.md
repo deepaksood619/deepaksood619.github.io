@@ -3,7 +3,7 @@ slug: /technologies/apache/apache-iceberg
 title: Understanding Apache Iceberg
 description: Discover Apache Iceberg, a high-performance format for analytics tables, enabling reliable SQL operations across multiple engines seamlessly.
 created: 2025-12-04
-updated: 2026-08-09
+updated: 2026-09-02
 ---
 Iceberg is a high-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, and Hive to safely work with the same tables, at the same time.
 
@@ -123,6 +123,7 @@ WHERE event_details:account_id::int = 12345
 
 ## Links
 
+- [Delta Lake Overview (Delta Lake vs Apache Iceberg comparison)](networking/others/delta-lake.md)
 - [Iceberg in the Browser – DuckDB](https://duckdb.org/2025/12/16/iceberg-in-the-browser)
 - [Simulating Catalog and Table Conflicts - Chris Douglas](https://cdouglas.github.io/posts/2026/03/catalog)
 - [Iceberg + Tableflow: Confluent's Course on Apache Iceberg™ ft. Tim Berglund](https://youtube.com/playlist?list=PLf38f5LhQthcLN84xP6JgQ-pEbAc8SbSi&si=RcTS0x5s0MnNIbsF)

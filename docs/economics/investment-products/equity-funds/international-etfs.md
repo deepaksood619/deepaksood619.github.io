@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-08-05
+updated: 2026-09-01
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -148,12 +148,6 @@ updated: 2026-08-05
 	- Expense Ratio - 0.20%
 	- The iShares Nasdaq Top 30 Stocks ETF (QTOP) is an exchange-traded fund that is based on the Nasdaq-100 Top 30 index. The fund aims to track an index composed of the 30 largest companies by market-cap from the Nasdaq-100 Index. The components are weighted by market-cap with capping limits QTOP was launched on Oct 24, 2024 and is issued by BlackRock.
 	- [QTOP ETF Stock Price & Overview](https://stockanalysis.com/etf/qtop/)
-- SPDR Gold Trust
-	- Assets - $89.71B
-	- Expense Ratio - 0.40%
-	- PE Ratio - (-30.26)
-	- The SPDR Gold Shares (GLD) is an exchange-traded fund that is based on the LBMA Gold Price index. The fund tracks the gold spot price, less expenses and liabilities, using gold bars held in London vaults. GLD was launched on Nov 18, 2004 and is issued by State Street.
-	- [GLD ETF Stock Price & Overview](https://stockanalysis.com/etf/gld/)
 
 [How to Invest in International Mutual Funds the right way? - YouTube](https://www.youtube.com/watch?v=qRT917PvEns)
 

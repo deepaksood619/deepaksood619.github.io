@@ -8,6 +8,7 @@ updated: 2026-08-19
 - [it-hub-additional-cities](knowledge/new-home-place/it-hub-additional-cities.md)
 - [indian-tier2-3-exurban-analysis](knowledge/new-home-place/indian-tier2-3-exurban-analysis.md)
 - [relocation-process-timeline-and-tradeoffs](knowledge/new-home-place/relocation-process-timeline-and-tradeoffs.md)
+- [tier1-tier2-relocation-family-case-studies](knowledge/new-home-place/tier1-tier2-relocation-family-case-studies.md) - real family income/expense data validating (and contradicting) some of the estimates below
 
 ## Deep Research Prompt
 

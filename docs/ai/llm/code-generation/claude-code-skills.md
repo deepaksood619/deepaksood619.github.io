@@ -3,7 +3,7 @@ slug: /claude-code-skills
 title: Claude Code Skills
 description: Claude Code Skills
 created: 2026-06-24
-updated: 2026-07-21
+updated: 2026-09-02
 ---
 ## Built-in Commands
 
@@ -203,6 +203,12 @@ EOF
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 216k
 - [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 13k
 - [Agent Skills Marketplace](https://skillsmp.com/)
+
+## Prompt to install skill
+
+```text
+Install all Claude Code skills for this knowledge base globally. For every `docs/ai/llm/code-generation/*-skill.md` spec file in this repo, create a matching thin wrapper at `~/.claude/skills/<skill-name>/SKILL.md` with YAML frontmatter (`name`, `description` ending in "Use when the user runs /<skill-name> ..."), a link back to the full spec at its absolute path in this repo, and a condensed usage/workflow/critical-rules summary — follow the exact structure of the existing wrappers (e.g. `company-analysis`) if any are already present on this machine at `~/.claude/skills/`. Use absolute paths (not relative) for all cross-references since these are global skills. After creating them, tell me to restart Claude Code so it picks up the new `~/.claude/skills/` directory.
+```
 
 ## Others
 

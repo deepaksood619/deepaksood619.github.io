@@ -3,7 +3,7 @@ slug: /networking/others/delta-lake
 title: Delta Lake Overview
 description: Explore Delta Lake, an open-source storage framework for building Lakehouse architectures with robust ACID transaction support.
 created: 2023-03-10
-updated: 2025-02-14
+updated: 2026-09-02
 ---
 [Delta Lake](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf) is an open-source storage framework that enables building a [Lakehouse architecture](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf) with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 
@@ -140,6 +140,23 @@ Delta Lake uses versioned Parquet files to store your data in your cloud storage
 ### Apache Hudi vs Delta Lake vs Apache Iceberg
 
 Delta outperformed Iceberg and Hudi in loading and querying the data.
+
+Delta Lake and [Apache Iceberg](technologies/apache/apache-iceberg.md) are both open-source table formats that bring ACID transactions, time travel, and schema evolution to data lakes, but they differ fundamentally in their metadata design and ecosystem focus.
+
+**Metadata Architecture**
+
+- Delta Lake: Uses an append-only transaction log (`_delta_log/` folder) containing JSON commit files and periodic Parquet checkpoints. This running diary of changes makes tracking and rolling back simple.
+- Apache Iceberg: Uses a hierarchical, three-layer metadata tree (catalog → metadata file → manifest lists → manifest files). This design avoids slow directory scans on massive datasets by pointing directly to data files via immutable snapshots.
+
+**Ecosystem & Interoperability**
+
+- Delta Lake: Optimized heavily for Databricks and Apache Spark. Features like Delta UniForm allow data written as Delta to be read as Iceberg, helping reduce vendor lock-in.
+- Apache Iceberg: Built from day one to be engine-agnostic. It offers native, first-class support across a wide range of diverse tools like Trino, Flink, Snowflake, and AWS Athena via REST catalogs.
+
+**Performance & Features**
+
+- Query Speed: Delta Lake often holds a performance edge (10–20% faster) inside the Spark/Databricks ecosystem, particularly with Photon acceleration. Iceberg matches or exceeds performance in multi-engine setups where directory planning overhead is eliminated.
+- Partition Evolution: Iceberg allows you to change table partitioning schemes as a metadata-only operation without rewriting historical data. Delta relies on alternative paradigms like Liquid Clustering.
 
 [Delta vs Iceberg vs hudi : Reassessing Performance | by DataBeans | Medium](https://databeans-blogs.medium.com/delta-vs-iceberg-vs-hudi-reassessing-performance-cb8157005eb0)
 

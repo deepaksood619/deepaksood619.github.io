@@ -153,6 +153,27 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 25, 2026, 2:18 PM IST (Price: Rs. 40,580, Market Cap: Rs. 1,19,902 Cr)
   - **Next Update:** After Q1 FY27 earnings (July 2026) or if stock corrects to Rs. 36,000 or breaks out above Rs. 43,000
 
+### Hero MotoCorp Ltd
+
+- [Hero MotoCorp - Fundamental Analysis (September 2, 2026)](economics/company-analysis/companies/auto/hero-motocorp-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:HEROMOTOCO / BSE:500182
+  - **Score:** 7.6/10 ⭐⭐⭐⭐
+  - **Recommendation:** Buy (High Conviction)
+  - **Target Price:** Rs. 6,000 (16% upside, 12-month horizon)
+  - **Key Highlights:**
+    - 🟢 **#1 Two-Wheeler by Volume:** Near debt-free (D/E ~0.04x), ROE 28.1%, ROCE 35.2%
+    - 🟢 **Cheapest Among 2W Peers:** PE ~18.8x, PEG 0.54 vs Bajaj Auto (PE 27.95), TVS Motor (PE 57.76), Eicher Motors (PE 38.05)
+    - 🟢 **Accelerating Growth:** TTM revenue growth 26% (5-yr CAGR only 9%) on GST rate cuts, festive demand, rural recovery
+    - 🟢 **Vida EV Scaling:** 11.7% EV market share; Harley-Davidson-partnered X440 driving premium push
+    - 🟢 **Clean Governance:** Promoter pledge 0% (confirmed FY26); rising FII (31.09%)/DII (24.26%) holding
+    - ⚠️ **Margin Pressure:** Q1 FY27 EBITDA margin slipped to 13.3% on steel/aluminium cost inflation
+    - ⚠️ **Same-day (Sep 2, 2026):** Shares fell ~7% intraday after August wholesale dispatches missed estimates (+3% YoY vs ~7% expected); exports -24.6% YoY
+    - ⚠️ **Promoter Holding:** 34.73% — below the 40%+ ideal threshold, though stable and unpledged
+  - **Risk Level:** Low-Medium — suitable for 3-5% portfolio allocation
+  - **Data Date:** September 2, 2026 (Price: Rs. 5,187.50, Market Cap: Rs. 1,04,010 Cr)
+  - **Next Update:** After Q2 FY27 results (expected early November 2026)
+
 ### InterGlobe Aviation Limited (IndiGo)
 
 - [IndiGo (InterGlobe Aviation) - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/aviation/indigo-fundamental.md)
@@ -544,6 +565,17 @@ This directory contains comprehensive company analyses, sector reports, peer com
     - ⚠️ **Data Quality Caveat:** Scraped PE figures conflicted materially across sources (12.3x to 33.52x cited) — verify via KRX/Bloomberg before acting
   - **Data Date:** August 3, 2026 (Index Level: 6,257.45, -5.12% on the day)
   - **Next Update:** After the current volatility resolves or after Samsung Electronics/SK Hynix next quarterly results
+
+## Peer Comparisons
+
+### Hero MotoCorp vs Ather Energy
+
+- [Hero MotoCorp vs Ather Energy - Two-Wheeler Comparison (September 2, 2026)](economics/company-analysis/peer-comparisons/hero-motocorp-vs-ather-energy.md)
+  - **Type:** Fundamental + Technical Peer Comparison
+  - **Companies:** NSE:HEROMOTOCO vs NSE:ATHERENERG
+  - **Key Highlights:** Hero's market cap (Rs. 1,04,010 Cr) is ~1.52x Ather's (Rs. 68,354 Cr) despite Hero generating ~11x Ather's quarterly revenue and being solidly profitable vs. Ather's still-loss-making status — Ather trades at a steep growth premium (P/S ~15-18x) vs. Hero's cheap ~2.2x. Technically, Hero sits near its 50-DMA after a same-day sales-miss selloff (Sep 2, 2026) while Ather remains ~80%+ above both moving averages. Hero MotoCorp itself holds a 30.68% strategic stake in Ather.
+  - **Data Date:** September 2, 2026
+  - **Next Update:** After either company's Q2 FY27 results
 
 ## Market Analysis
 

@@ -23,5 +23,6 @@ updated: 2026-06-24
 - [Intelligence](intelligence.md)
 - [Personality](psychology/cognitive-science/personality.md)
 - [Emotions](emotions.md)
+- [Emodiversity](emodiversity.md)
 - [Defence Mechanisms](defence-mechanisms.md)
 - [Human Psychology and Thinking](human-psychology-and-thinking.md)

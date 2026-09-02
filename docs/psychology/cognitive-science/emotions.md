@@ -3,8 +3,10 @@ slug: /psychology/emotions
 title: Emotions
 description: Explore the concept of emotions through comprehensive emotion wheels, designed to help you understand and navigate your feelings effectively.
 created: 2023-05-15
-updated: 2024-12-19
+updated: 2026-09-03
 ---
+See also: [Emodiversity](psychology/cognitive-science/emodiversity.md) - the idea that well-being comes from experiencing the full range of emotions, not maximizing happiness.
+
 ## Emotion Wheels
 
 ![Emotion Wheel I](media/Pasted%20image%2020230514131840.jpg)

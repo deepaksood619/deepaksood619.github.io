@@ -3,7 +3,7 @@ slug: /databases/concepts/isolation-levels
 title: Understanding Database Isolation Levels
 description: Learn how isolation levels impact transaction integrity and user visibility in database systems.
 created: 2023-03-05
-updated: 2025-09-03
+updated: 2026-09-01
 ---
 ```sql
 SELECT @@TX_ISOLATION;
@@ -27,25 +27,25 @@ Isolation is one of the [ACID](https://en.wikipedia.org/wiki/ACID)([Atomicity](h
 
 The ANSI/ISO standard SQL 92 refers to three differentread phenomenawhen Transaction 1 reads data that Transaction 2 might have changed.
 
-#### Dirty reads
+### Dirty reads
 
 *A dirty read (aka uncommitted dependency)* occurs when a transaction is allowed to read data from a row that has been modified by another running transaction and not yet committed.
 
-#### Lost Update
+### Lost Update
 
 A lost update occurs when two different transactions are trying to update the same column on the same row within a database at the same time. Typically, one transaction updates a particular column in a particular row, while another that began very shortly afterward did not see this update before updating the same value itself. The result of the first transaction is then "lost", as it is simply overwritten by the second transaction.
 
-#### Non-repeatable reads
+### Non-repeatable reads
 
 A *non-repeatable read* occurs, when during the course of a transaction, a row is retrieved twice and the values within the row differ between reads.
 
-#### Phantom reads
+### Phantom reads
 
 A *phantom read* occurs when, in the course of a transaction, new rows are added or removed by another transaction to the records being read.
 
 [Understanding Phantom Reads Problem with hands on examples - YouTube](https://www.youtube.com/watch?v=n_t0IO0mq5Q)
 
-#### The incorrect summary problem
+### The incorrect summary problem
 
 While one transaction takes a summary over the values of all the instances of a repeated data-item, a second transaction updates some instances of that data-item. The resulting summary does not reflect a correct result for any (usually needed for correctness) precedence order between the two transactions (if one is executed before the other), but rather some random result, depending on the timing of the updates, and whether certain update results have been included in the summary or not.
 

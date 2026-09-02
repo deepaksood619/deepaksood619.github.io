@@ -117,3 +117,4 @@ A CRN is a valid URI having an "authority" of confluent.cloud or a self-managed 
 - [Apache Kafka 101: Confluent's Flagship Course on Apache Kafka® Fundamentals ft. Tim Berglund - YouTube](https://www.youtube.com/playlist?list=PLf38f5LhQtheK16nwnCYFqH23WUUvZfSb)
 	- [What You'll Learn in This Apache Kafka® 101 Course](https://developer.confluent.io/courses/apache-kafka/events/)
 - [Cost Allocation in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/billing/cost-allocation.html)
+- [Optimize Confluent Cloud Clients for Throughput](technologies/confluent/cloud/confluent-cloud-client-throughput-optimization.md)

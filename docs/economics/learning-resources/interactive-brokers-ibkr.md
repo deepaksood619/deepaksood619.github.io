@@ -3,7 +3,7 @@ slug: /Interactive Brokers (IBKR)
 title: Interactive Brokers (IBKR)
 description: Interactive Brokers (IBKR)
 created: 2026-06-24
-updated: 2026-08-05
+updated: 2026-09-01
 ---
 
 - IBKR strongly discourages third-party deposits
@@ -11,6 +11,7 @@ updated: 2026-08-05
 - [Commission Free ETFs \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/trading/commission-free-etfs-mkt.php)
 - [Mutual Funds Outside the US \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds-non-us.php?re=europe)
 - See also: [International ETFs (Equity)](economics/investment-products/equity-funds/international-etfs.md) and [International Debt ETFs (IBKR + UCITS)](economics/investment-products/debt-funds/international-debt-etfs-ibkr.md)
+- Selling a bond/ETF on LSE and immediately buying a stock like AMZN/GOOG on NASDAQ: on a **margin account** this is instant (buying power isn't gated by settlement date, regardless of exchange); on a **cash account** you must wait for T+1 (US)/T+2 (LSE) settlement or risk a free-riding violation — see [Settlement: Selling on LSE/NASDAQ and Immediately Buying Stocks](economics/investment-products/debt-funds/international-debt-etfs-ibkr.md#settlement-selling-on-lsenasdaq-and-immediately-buying-stocks-on-ibkr)
 - [Commissions Mutual Funds \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds.php)
 - [Interest Rates \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/accounts/fees/pricing-interest-rates.php?gclid=CjwKCAiAzPy8BhBoEiwAbnM9Ox8c9hBoKsjM1OcUHPlMxv8me31dVnUy73jfnS_kV7ZpssPb_9aBJxoC6_4QAvD_BwE)
 - [Can an Indian resident open an account on Interactive Brokers for trading globally? - Quora](https://www.quora.com/Can-an-Indian-resident-open-an-account-on-Interactive-Brokers-for-trading-globally)
@@ -47,6 +48,21 @@ Interactive Brokers (IBKR) offers two primary commission structures: **Fixed** a
 
 When you buy US stock frequently in the **$1,000 to $3,500 range**, switching to **Tiered pricing** is likely to save you money. Your trades currently incur a $1.00 minimum fee on the Fixed plan, while on a Tiered plan, smaller US trades often cost as little as **$0.35** after accounting for minor pass-through fees. Additionally, for your **VWRA** purchase on the LSE, which currently cost you **$4.00**, a Tiered plan would typically lower that cost to around **$1.70 to $2.00**
 
+## Margin Account Cost
+
+Holding a margin account itself is free — IBKR doesn't charge extra just for the account type. The cost only shows up if you actually **borrow** (carry a negative/debit cash balance):
+
+- **Regulatory minimum:** FINRA requires $2,000 net equity to use margin at all.
+- **Interest only on the debit balance:** margin interest = benchmark rate (Fed Funds Effective Rate) + a tiered spread that shrinks as the borrowed amount grows. As of mid-2026, USD rates on IBKR Pro start around **5-6%** for the first ~$100K borrowed, stepping down toward `<1%` above ~$200M (with a ~0.75% floor). IBKR Lite's spread runs about 1% higher than Pro at every tier.
+- **Accrual:** interest accrues daily, posts on the 3rd business day of the following month.
+- **Reg T / margin call risk:** if account equity falls below the maintenance margin requirement, IBKR can force-liquidate positions.
+- **Pattern Day Trader (PDT) rule:** requires $25K net equity only if you day-trade the **same security** 4+ times in 5 business days in a margin account. Selling one stock and buying a *different* one doesn't count as a day trade, so it never touches this rule.
+
+**Worked example:** sell $100 of stock A, then 10 minutes later buy $100 of a different stock B — **no margin interest is charged**, because your net cash balance never goes negative (you're reallocating cash you already have, not borrowing extra). Margin interest is a function of your debit balance, not of settlement timing or which exchange each leg traded on. Only the normal per-trade commission applies to each leg (see [IBKR Pricing Plan](#ibkr-pricing-plan) above). Interest would only kick in if the new purchase were *larger* than the sale proceeds (e.g. sell $100, buy $150 — interest accrues on the extra $50 until covered).
+
+- [Margin Trading \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/margin.php)
+- [Margin Rates and Financing \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/margin-rates.php)
+
 ## Stock Yield Enhancement Program (SYEP)
 
 The **Stock Yield Enhancement Program (SYEP)** is a fully automated passive income program by Interactive Brokers (IBKR) that lets you monetize your long-term portfolio. By enrolling, you permit IBKR to lend your fully-paid shares of US stocks or LSE ETFs to short-sellers who pay an interest rate determined by market demand. This interest is split 50/50 between you and IBKR, accumulating daily and paying out monthly without restricting your portfolio's liquidity. You retain full economic ownership, meaning you can sell your shares at any time, which automatically terminates the loan.
@@ -78,7 +94,7 @@ When you enroll, IBKR automatically manages the lending process behind the scene
 
 While SYEP is a low-risk way to boost returns, keep these critical nuances in mind before enrolling:
 
-- **Cash-in-Lieu of Dividends:** If your lent-out stock pays a dividend, you will receive a "Payment in Lieu of Dividend" instead. For US citizens, this is taxed at normal income rates rather than the lower qualified dividend rate. _Note: Since you own non-dividend tech stocks like GOOG/AMZN or Irish-domiciled accumulating ETFs like **VWRA** (which don't pay out cash dividends), this tax trap will likely have zero impact on your current holdings._
+- **Cash-in-Lieu of Dividends:** If your lent-out stock pays a dividend, you will receive a "Payment in Lieu of Dividend" instead. For US citizens, this is taxed at normal income rates rather than the lower qualified dividend rate. *Note: Since you own non-dividend tech stocks like GOOG/AMZN or Irish-domiciled accumulating ETFs like **VWRA** (which don't pay out cash dividends), this tax trap will likely have zero impact on your current holdings.*
 - **No SIPC Protection:** While your shares are lent out, they are not covered by SIPC investor protection. Instead, IBKR mitigates this risk by securing your loan with cash collateral.
 - **Voting Rights:** You temporarily forfeit your proxy voting rights on the shares while they are actively being lent out to another trader.
 
@@ -97,7 +113,7 @@ Even if the borrower defaults or goes bankrupt, your shares are fully protected.
 While you cannot lose your shares, there are distinct drawbacks you must consider:
 
 - **The India Tax Trap (Cash-in-Lieu):** If a US stock pays a dividend while it is lent out, you will receive a **"Payment in Lieu of Dividend."** In India, standard US dividends face a flat 25% withholding tax. However, "Payments in Lieu" may not qualify under the US-India Double Taxation Avoidance Agreement (DTAA), meaning you could face higher tax complexity or lose the ability to claim Foreign Tax Credit (FTC) on that specific payment.
-    - _Why this matters to you:_ For your Irish-domiciled ETF (**VWRA**), this is a **non-issue** because it is an _accumulating_ ETF that does not distribute cash dividends. For non-dividend US tech stocks like **GOOG** and **AMZN**, this also has no impact. It will only affect dividend-paying assets.
+    - *Why this matters to you:* For your Irish-domiciled ETF (**VWRA**), this is a **non-issue** because it is an *accumulating* ETF that does not distribute cash dividends. For non-dividend US tech stocks like **GOOG** and **AMZN**, this also has no impact. It will only affect dividend-paying assets.
 - **Loss of SIPC Insurance:** While your shares are lent out, they are removed from standard SIPC investor protection (which covers up to $500,000 if IBKR fails). Instead, your security shifts entirely to the **USD cash collateral** held at a third-party bank.
 - **Low Yield for Popular Stocks:** The income is based on market demand. Highly popular, large-cap stocks like **AMZN**, **GOOG**, and high-volume ETFs like **VWRA** are easy to find in the market. Because demand to borrow them is relatively low, your yield will likely be minimal (often less than 0.1% to 1% annually).
 - **Forfeiture of Voting Rights:** You cannot vote in corporate actions while your shares are on loan.

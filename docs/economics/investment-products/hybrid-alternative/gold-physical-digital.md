@@ -42,6 +42,8 @@ updated: 2026-06-13
 
 ## Gold ETFs
 
+**International (USD) gold ETFs/ETCs via IBKR — US-domiciled (GLD, IAU, SGOL, GLDM) vs Ireland-domiciled UCITS (IGLN, SGLD):** see [International Gold ETFs (US vs UCITS)](economics/investment-products/equity-funds/international-etfs.md#international-gold-etfs-us-vs-ucits).
+
 - Nippon India ETF Gold BEES (0.82%) (AUM - Rs. 18,780 crs)
 - **Zerodha Gold ETF (Expense Ratio: 0.32%)**
 - Mirae Asset Gold ETF (Expense Ratio: 0.34%)

@@ -3,7 +3,7 @@ slug: /knowledge/biology/heart
 title: Heart
 description: Learn about atherosclerosis, its risks, heart attacks, and sudden cardiac events impacting 1 in 4 individuals in India and the importance of heart health.
 created: 2025-06-22
-updated: 2025-07-28
+updated: 2026-09-03
 ---
 **Atherosclerosis** is **the buildup of fats, cholesterol and other substances in and on the artery walls**. This buildup is called plaque. The plaque can cause arteries to narrow, blocking blood flow. The plaque also can burst, leading to a blood clot.
 
@@ -42,8 +42,23 @@ What can you do?
 5. Sleep for 8 hours. Under sleep even for 2 hours increases your risk of heart attack by 200%
 6. Eat less. Law of thermodynamics. All excess energy will be converted into fat (triglycerides). The more triglyceride, the more vehicles required.
 
-[Prashant Desai on LinkedIn: #heart #health | 408 comments](https://www.linkedin.com/posts/itsprashantdesai_heart-health-activity-7276811579344457728-Erud?utm_source=share&utm_medium=member_desktop)
+## 5 Silent Causes of Artery Blockage
 
-[Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup - YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
+20% of heart attacks happen in people with normal cholesterol and zero standard risk factors - perfectly fit, healthy people can still have arteries silently clogging.
 
-[Watch this to never get a heart attack \| Padma Bhushan Cardiac Surgeon \| Rethink India Ep. 9 - YouTube](https://youtu.be/tHkt17D0AWA)
+**Self-test - Capillary Refill Test:** Press your fingernail until it turns white, release it, and count the seconds until it turns pink again. `>2` seconds may mean circulation is already compromised.
+
+1. **Genetics & family history** - a parent or grandparent with artery blockage before age 55 means inherited risk that exercise can't fully override. Get a **coronary calcium score** (~₹4,000-5,000) to see actual plaque/calcium buildup in coronary arteries before symptoms appear; a score above 400 needs aggressive prevention.
+2. **Insulin resistance** - damages arteries daily even with normal fasting blood sugar and normal weight; ~25% of Indian adults have this without knowing it. See [Insulin Resistance](../diseases-conditions/diabetes.md). Test: fasting insulin `>10` μIU/mL or HbA1c `>5.7`% indicates insulin resistance even if blood sugar looks normal.
+3. **Chronic inflammation** - triggered by `<5` hours of sleep (+30% arterial inflammation), AQI `>300` (+20% heart attack risk even in healthy people), untreated gum disease (bacteria entering the bloodstream), and chronic stress/high cortisol. Test: hs-CRP (high-sensitivity C-reactive protein); `>3` mg/L indicates inflammation that can damage arteries.
+4. **Lipoprotein(a) [Lp(a)]** - a genetic "sticky cholesterol" not covered by standard lipid panels; LDL and HDL can look perfect while Lp(a) is silently clogging arteries. ~20% of Indians have altered Lp(a) levels, raising heart attack risk 3-4x. Test: Lp(a) `>30` mg/dL needs aggressive LDL lowering, possibly medication.
+5. **Late detection** - many wait for chest pain or breathlessness, but arteries are often already 70-90% blocked by then. ECG alone isn't enough for early detection.
+
+**Action plan:** book fasting insulin, Lipoprotein(a), and hs-CRP tests to reveal hidden risks standard checkups miss; get a coronary calcium score if there's family history of early heart disease; maintain a heart-healthy diet, regular physical activity, and avoid smoking/tobacco.
+
+## Links
+
+- [Prashant Desai on LinkedIn: #heart #health | 408 comments](https://www.linkedin.com/posts/itsprashantdesai_heart-health-activity-7276811579344457728-Erud?utm_source=share&utm_medium=member_desktop)
+- [Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup - YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
+- [Watch this to never get a heart attack \| Padma Bhushan Cardiac Surgeon \| Rethink India Ep. 9 - YouTube](https://youtu.be/tHkt17D0AWA)
+- [Do This 10-Second Test for Blocked Arteries (Check Now) - Dr Sumit Kapadia - YouTube](https://youtu.be/oySSu-v_BME)

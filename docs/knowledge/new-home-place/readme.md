@@ -31,6 +31,7 @@ updated: 2026-08-24
 - [indian-tier2-3-exurban-analysis](knowledge/new-home-place/indian-tier2-3-exurban-analysis.md)
 - [indian-tier2-3-additional-cities](knowledge/new-home-place/indian-tier2-3-additional-cities.md)
 - [dehradun-aqi-and-weather](knowledge/new-home-place/dehradun-aqi-and-weather.md)
+- [tier1-tier2-relocation-family-case-studies](knowledge/new-home-place/tier1-tier2-relocation-family-case-studies.md)
 
 ## Indian IT-Hub Relocation Research
 

@@ -8,6 +8,7 @@ updated: 2026-08-19
 - [places-to-live-criteria](knowledge/new-home-place/places-to-live-criteria.md)
 - [indian-tier2-3-additional-cities](knowledge/new-home-place/indian-tier2-3-additional-cities.md)
 - [it-hub-relocation-comparison](knowledge/new-home-place/it-hub-relocation-comparison.md)
+- [tier1-tier2-relocation-family-case-studies](knowledge/new-home-place/tier1-tier2-relocation-family-case-studies.md) - real families' actual income/expense outcomes after moving
 
 ## Prompt
 

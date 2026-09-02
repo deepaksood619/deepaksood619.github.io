@@ -3,7 +3,7 @@ slug: /knowledge/language/grammer-vocabulary
 title: Grammer / Vocabulary
 description: Explore the fundamentals of grammar and vocabulary, including clauses, phrases, phonology, syntax, and more, to enhance your linguistic understanding.
 created: 2023-03-05
-updated: 2026-08-19
+updated: 2026-08-27
 ---
 Linguistics is the set of [structural](https://en.wikipedia.org/wiki/Structural) rules governing the composition of [clauses](https://en.wikipedia.org/wiki/Clause_(linguistics)), [phrases](https://en.wikipedia.org/wiki/Phrase) and [words](https://en.wikipedia.org/wiki/Words) in a [natural language](https://en.wikipedia.org/wiki/Natural_language). The term refers also to the study of such rules and this field includes [phonology](https://en.wikipedia.org/wiki/Phonology), [morphology](https://en.wikipedia.org/wiki/Morphology_(linguistics)) and [syntax](https://en.wikipedia.org/wiki/Syntax), often complemented by [phonetics](https://en.wikipedia.org/wiki/Phonetics), [semantics](https://en.wikipedia.org/wiki/Semantics) and [pragmatics](https://en.wikipedia.org/wiki/Pragmatics).
 
@@ -251,6 +251,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **Chekhov's gun -** if a gun is included in a story, there must be a reason for it, such as being fired at some later point.
 - A **Homeowners Association (HOA)** is a private, legally incorporated organization that governs a housing community, manages common areas, sets architectural guidelines, and enforces neighborhood rules.
 - **Creativity / Gamer / Gaming the System:** Manipulating processes, metrics, or Key Performance Indicators (KPIs) to make performance look better on paper without actually improving results.
+- **Meat proxy -** A person who forwards Al-generated text, code, or other output without reading, understanding, or validating it. The person acts only as a relay between the Al system and the intended recipient.
 
 ### Shill / Shilling
 

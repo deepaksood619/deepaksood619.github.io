@@ -165,8 +165,11 @@ docs/.obsidian/plugins/meld-encrypt/data.json
 docs/.obsidian/plugins/github-stars/data.json
 docs/.obsidian/plugins/editor-width-slider/data.json
 docs/.obsidian/plugins/copilot/data.json
+docs/.obsidian/plugins/recent-files-obsidian/data.json
+docs/.obsidian/plugins/learnkit/data.json
 graph.json
-.claude
+.claude/*
+!.claude/skills/
 docs/.obsidian/plugins/learnkit/configuration/api-keys.json
 docs/.obsidian/plugins/learnkit/backups/*.db
 docs/.obsidian/plugins/learnkit/scheduling/*.db

@@ -222,6 +222,8 @@ Insulin resistance is a key driver of Type 2 diabetes and metabolic syndrome.
 
 See [Metabolic Syndrome](knowledge/biology/genetics-omics/others.md) for detailed criteria.
 
+Insulin resistance is also one of the [5 silent causes of artery blockage](knowledge/biology/anatomy/heart.md#5-silent-causes-of-artery-blockage) - it can damage arteries even when fasting blood sugar looks normal.
+
 ## Nutrition and Diabetes
 
 ### Glycemic Control Through Diet

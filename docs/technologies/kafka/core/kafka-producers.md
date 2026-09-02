@@ -171,3 +171,4 @@ Kafka only guarantees ordering *within* a partition. If you dynamically move `Te
 - https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html
 - [Tutorial: How to Tune the Kafka Producer Client](https://developer.confluent.io/courses/architecture/producer-hands-on/)
 - [How to optimize your Kafka producer for throughput using Confluent](https://developer.confluent.io/tutorials/optimize-producer-throughput/confluent.html)
+- [Optimize Confluent Cloud Clients for Throughput](technologies/confluent/cloud/confluent-cloud-client-throughput-optimization.md)

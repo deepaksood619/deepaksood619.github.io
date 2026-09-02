@@ -3,7 +3,7 @@ slug: /cloud/readme
 title: Cloud
 description: Explore our comprehensive guide on cloud services, featuring AWS, Azure, GCP, Firebase, and essential infrastructure tools for optimal technology deployment.
 created: 2024-01-30
-updated: 2025-11-09
+updated: 2026-09-02
 ---
 ## Major Cloud Providers
 
@@ -21,3 +21,4 @@ updated: 2025-11-09
 ## Infrastructure Tools
 
 - [Cloud Infrastructure Tools](tools.md) - Multi-cloud management, IaC, monitoring tools
+- [AWS Latency Monitoring](https://www.cloudping.co/)
