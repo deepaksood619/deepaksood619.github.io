@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/context-engineering
 title: Context Engineering
 description: Discover the importance of context engineering in AI, focusing on systematic orchestration to enhance performance and optimize retrieval for successful applications.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-09-01
 ---
 Context engineering is rapidly becoming a crucial skill for AI engineers. It's no longer just about clever prompting; it's about the systematic orchestration of context.
 
@@ -104,6 +104,19 @@ My opinion: Context engineering is no longer optional, it's a key pillar in buil
 ![context-engineering](media/Screenshot%202025-09-13%20at%204.17.21%20PM.jpg)
 
 ![context engineering](https://substackcdn.com/image/fetch/$s_!GjNA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9534a00d-5563-42ba-82e9-6c1a2aa1f04f_2526x1518.png)
+
+## Context Rot and the Attention Decay Mechanism
+
+Context rot is the phenomenon where LLMs become less effective as their context window grows, even when the added tokens are relevant. The term was coined by a Hacker News commenter in June 2025, and Chroma published a widely-read study on it in July 2025.
+
+**Why it happens:** The attention architecture has problematic scaling properties. As Anthropic researchers explain, "context must be treated as a finite resource with diminishing marginal returns...every new token introduced depletes this budget." Mechanically, LLMs must compare each new token against every previous token in the context window, so computing cost scales quadratically — a context with 10x more tokens requires ~100x more computing power per token generated. As the window fills, attention is diluted across more tokens, degrading the model's ability to weigh what matters.
+
+**Evidence:**
+
+- Needle-in-a-haystack tests: GPT-4 Turbo and Claude 2.1 showed degraded performance as context length increased, particularly when the relevant information was positioned midway through the document (the "lost in the middle" effect).
+- Adobe Research (February 2025) tested complex reasoning at a 32,000-token context: single-hop reasoning accuracy for GPT-4o dropped from 99% to 70%, and Claude 3.5 Sonnet fell from 88% to 30%. Multi-hop reasoning (requiring two logical connections) degraded even more severely as context expanded.
+
+**Mitigation:** Context engineering techniques (below) can curate tokens and remove extraneous information to keep the model focused, but they mitigate the underlying problem rather than solve it fundamentally — context remains a finite, decaying resource.
 
 ## Core Strategies
 

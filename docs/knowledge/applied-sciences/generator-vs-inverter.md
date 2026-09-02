@@ -69,6 +69,8 @@ Third, tall tubular batteries have a highly restricted cycle life of approximate
 
 ### The Lithium-Iron-Phosphate (LFP) Revolution
 
+See also: [LFP vs NMC Batteries](lfp-vs-nmc-batteries.md) for how LFP compares to NMC chemistry in EV applications.
+
 Lithium-Iron-Phosphate technology has entirely revolutionized the residential inverter landscape. Unlike flooded lead-acid units, LFP batteries are completely solid-state, hermetically sealed, and emit no toxic or explosive hydrogen gases during operation. Consequently, they require absolute zero maintenance over their entire operational life.
 
 The upfront capital cost of a lithium battery remains higher than lead-acid; a 1.5 kWh LFP module from an Indian brand sits between ₹22,000 and ₹30,000, while the massive 5 kWh banks required for heavy air conditioning loads retail between ₹1,08,000 and ₹1,15,000. Advanced units featuring Smart Battery Management Systems (BMS) with Bluetooth logic monitoring command even higher premiums, with highly specialized 50Amp-rated smart units retailing for over ₹77,000 to ₹1,81,000. Despite this higher initial capital expenditure (CAPEX), the technical advantages of lithium intercalation physics are overwhelming:

@@ -14,4 +14,5 @@ updated: 2026-06-06
 - [Embedded Systems / Electronics](embedded-systems-electronics)
 - [Control Engineering](control-engineering)
 - [generator-vs-inverter](knowledge/applied-sciences/generator-vs-inverter.md)
+- [LFP vs NMC Batteries](knowledge/applied-sciences/lfp-vs-nmc-batteries.md)
 - [Others / Power / Energy](others-power-energy)

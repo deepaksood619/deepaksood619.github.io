@@ -3,7 +3,7 @@ slug: /ideas/brainstorm/ai-ml-opportunities
 title: AI/ML Startup Opportunities
 description: Brainstorm list of AI and machine learning startup ideas including ChatGPT applications, AI assistants, content generation, and automation tools
 created: 2023-03-05
-updated: 2026-06-26
+updated: 2026-08-30
 ---
 
 ## AI/ChatGPT Ideas
@@ -21,6 +21,7 @@ updated: 2026-06-26
   - Automatically write efficient SQL queries
   - No need for PowerBI reports / manual SQL / visualization creation
   - Auto-choose best graphs/plots/visualization, add refresh intervals
+  - Smallest AI model that can be bundled with app, so as to do a specific task, like give a database username and password, and start talking to database via Natual language, or confluent mcp server that you write what you want in natural language and it writes the right command for you and give you results. Also if AI is running locally in the system/edge, then no data is going outside of your system, and everything works as required
 
 ### Generative AI Content
 
