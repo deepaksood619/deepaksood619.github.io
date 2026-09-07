@@ -12,7 +12,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 [GitHub - luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. · GitHub](https://github.com/luongnv89/claude-howto) ⭐ 37k
 
 - [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 83k
+- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 93k
 - [ccusage](https://ccusage.com/)
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
@@ -84,7 +84,7 @@ Structured dev workflow framework with TDD, debugging, planning, and code review
 - writing-plans - Detailed implementation plans
 - verification-before-completion - Ensure fixes work
 
-[GitHub - obra/superpowers](https://github.com/obra/superpowers) ⭐ 229k
+[GitHub - obra/superpowers](https://github.com/obra/superpowers) ⭐ 282k
 
 [Superpowers 6 — Massively Parallel Procrastination](https://blog.fsck.com/2026/06/15/Superpowers-6/)
 
@@ -267,7 +267,7 @@ hermes gateway      # Start messaging gateway
 
 ### Others / Agents / Skills
 
-- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 246k
+- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 250k
 	- [ECC Tools - Open Agent Harness System for GitHub App Automation and Security](https://ecc.tools/)
 - [Introducing Microsoft Scout: Your always-on personal agent \| Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/)
 - [GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA · GitHub](https://github.com/garrytan/gstack) ⭐ 110k
@@ -484,6 +484,47 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 
 - [How to use ANY local vLLM with Claude Code](https://www.reddit.com/r/LocalLLaMA/comments/1ss9q8b/)
 - [Running Claude Code with local LLMs](https://medium.com/@vito.rallo/running-claude-code-with-local-llms-3e9a0084dfe1)
+
+## Settings
+
+```json title="settings.local.json"
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Edit",
+      "Write",
+      "WebFetch",
+      "Grep",
+      "Glob",
+      "LS",
+      "MultiEdit",
+      "NotebookRead",
+      "NotebookEdit",
+      "TodoRead",
+      "TodoWrite",
+      "WebSearch"
+    ]
+  }
+}
+```
+
+```json title="settings.json"
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(.venv/bin/python ' *)",
+      "Bash(.venv/bin/python ' *)",
+      "Bash(.venv/bin/python << *)",
+      "Bash(.venv/bin/python <<*)",
+      "Bash(.venv/bin/python << 'EOF'*)",
+      "Bash(curl ' *)",
+      ]
+	}
+}
+```
 
 ## Learning Resources
 

@@ -134,7 +134,7 @@ You can also explicitly list both regional endpoints in `bootstrap.servers` (e.g
 Gateway HA only ensures **reachability**. For a real DR story you still need:
 
 1. **Server-side DR with Cluster Linking**
-    - Use **Cluster Linking** between your primary and DR Confluent Cloud clusters for low-latency async replication.
+    - Use **[Cluster Linking](technologies/confluent/data-integration/cluster-linking.md)** between your primary and DR Confluent Cloud clusters for low-latency async replication. For switching which side is writable, see `reverse-and-start` vs `failover` vs `truncate-and-restore` in the Cluster Linking notes.
 2. **Failover orchestration (RTO control)** - When Region A is down / primary cluster unhealthy, your DR runbook should:
     - Promote mirror topics on DR cluster to **read/write** as part of the failover.
     - Update the **streaming domain mapping** in the surviving region’s Gateway (or both) to point routes at the DR cluster instead of the primary.

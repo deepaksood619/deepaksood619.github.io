@@ -87,3 +87,4 @@ Below the tables, provide a concise, bulleted summary highlighting:
 - [Millet Recipes - 10 Best Healthy & Easy Recipes \| Best Millet Breakfast Recipes \|Protein Rich Recipe - YouTube](https://www.youtube.com/watch?v=k2txCBdoHkQ)
 
 - [Homemade Paneer - Low-Fat High-Protein Guide](knowledge/biology/nutrition/food-types/paneer-homemade-low-fat.md)
+- [Budget Vegetarian High-Protein Diet (India)](knowledge/biology/nutrition/diet-planning/budget-vegetarian-high-protein-diet.md)

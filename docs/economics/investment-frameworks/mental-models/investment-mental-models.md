@@ -79,6 +79,10 @@ There is no quantitative measure of market efficiency and testing the idea is di
 
 https://en.wikipedia.org/wiki/Efficient-market_hypothesis
 
+## Reflexivity (George Soros)
+
+George Soros's theory (from *The Alchemy of Finance*) is a direct counterpoint to EMH: markets are not just passively determined by fundamentals - if a market is pushed far enough, the market's own behaviour starts to determine the fundamentals rather than the other way around, creating self-fulfilling spirals. Applied to currencies: if enough participants believe a currency will weaken further, importers rush to buy dollars early and exporters/investors delay bringing money in, which itself accelerates the depreciation - independent of underlying fundamentals. See [Rupee Depreciation, Reflexivity & Market Psychology](economics/sector-analysis/rupee-depreciation-reflexivity-market-psychology.md) for how this plays out in the USD/INR market and in RBI policy responses.
+
 ## Game Theory
 
 Game theory is the study of [mathematical models](https://en.wikipedia.org/wiki/Mathematical_model) of strategic interaction between rational decision-makers.It has applications in all fields of [social science](https://en.wikipedia.org/wiki/Social_science), as well as in [logic](https://en.wikipedia.org/wiki/Logic) and [computer science](https://en.wikipedia.org/wiki/Computer_science). Originally, it addressed [zero-sum games](https://en.wikipedia.org/wiki/Zero-sum_game), in which one person's gains result in losses for the other participants. Today, game theory applies to a wide range of behavioral relations, and is now an [umbrella term](https://en.wikipedia.org/wiki/Umbrella_term) for the [science](https://en.wikipedia.org/wiki/Science) of logical decision making in humans, animals, and computers.

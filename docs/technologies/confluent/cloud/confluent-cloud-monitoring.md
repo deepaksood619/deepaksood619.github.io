@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-monitoring
 title: Confluent Cloud Monitoring Guide
 description: Explore our comprehensive guide on monitoring Confluent Cloud, including metrics, notifications, and consumer lag management.
 created: 2026-02-27
-updated: 2026-08-07
+updated: 2026-09-03
 ---
 [Confluent Cloud Metrics](https://api.telemetry.confluent.cloud/docs/descriptors/datasets/cloud
 
@@ -40,6 +40,12 @@ curl -X GET 'https://api.telemetry.confluent.cloud/v2/metrics/cloud/descriptors/
 ```bash
 curl -X GET 'https://api.telemetry.confluent.cloud/v2/metrics/cloud/descriptors/metrics?resource_type=kafka' -u '<API_KEY>:<SECRET>'
 ```
+
+### Improved metric data freshness from 5 minutes to 3 minutes
+
+We have improved the freshness of our metric data from 5 minutes to 3 minutes. Metric data points are now available to the organisation within 3 minutes through the export endpoint. This is a fully backwards-compatible update that requires no action or changes from your end, so users utilizing the export endpoint for integrations like Grafana and Prometheus will see this performance improvement automatically.
+
+[Confluent Cloud Metrics API: Reference Documentation](https://api.telemetry.confluent.cloud/docs?_ga=2.208498450.1044343608.1788180119-855817452.1788028358&_gl=1*zg37tq*_gcl_au*MTczMzIxODgzMi4xNzg4MDI4MzU4*_ga*ODU1ODE3NDUyLjE3ODgwMjgzNTg.*_ga_D2D3EGKSGD*czE3ODgyNjA5MzQkbzQkZzAkdDE3ODgyNjA5MzQkajYwJGwwJGgw#section/Versioning)
 
 ### io.confluent.kafka.server
 

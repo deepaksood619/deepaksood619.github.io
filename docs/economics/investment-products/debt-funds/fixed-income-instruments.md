@@ -272,6 +272,8 @@ This is incredibly lucrative for investors. At a standard 6% rate, the full $10 
 - **Currency:** Foreign currency deposits (USD, EUR, GBP, etc.)
 - **Risk:** Exchange rate risk, interest rate changes, credit risk on leveraged exposure
 
+**See also:** [Rupee Depreciation, Reflexivity & Market Psychology](economics/sector-analysis/rupee-depreciation-reflexivity-market-psychology.md) - how RBI uses a subsidized FCNR/ECB swap window as a macro policy tool to defend the rupee, and the consequences/contingent liabilities of that approach
+
 **Regulatory Context:**
 
 - Governed by RBI regulations for NRI deposits

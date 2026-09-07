@@ -3,25 +3,11 @@ slug: /menu-diet-chart-non-glycemic-indian-family-diet-chart
 title: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 description: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 created: 2026-06-24
-updated: 2026-08-26
+updated: 2026-09-07
 ---
 ## Multigrain Atta Details - 10 kg
 
-### Cheap but healthy
-
-| **Quantity** | **Item**      | **Why this change?**                                                                                          | **Kg Rate** | **New Price (₹)** |
-| ------------ | ------------- | ------------------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
-| **5 kg**     | Wheat (Gehu)  | **Increased:** Cheapest ingredient (₹54/kg). 50% wheat is the sweet spot for soft, easily digestible rotis.   | ₹54         | 270               |
-| **1 kg**     | Chana         | **Slightly reduced:** Still gives a massive protein boost and lowers the glycemic index, but saves money.     | ₹120        | 120               |
-| **1 kg**     | Jau (Barley)  | **Slightly reduced:** Fantastic cheap grain (₹60/kg) for digestion and cholesterol management.                | ₹60         | 60                |
-| **1 kg**     | Jowar         | **Maintained:** A great, affordable millet (₹60/kg) that adds fiber and keeps you full.                       | ₹60         | 60                |
-| **500 g**    | Ragi          | **Reduced:** Ragi is expensive (₹120/kg). 500g is still plenty to give you a strong calcium boost.            | ₹120        | 60                |
-| **500 g**    | Soya          | **Reduced:** Soya is the priciest (₹140/kg). 500g provides plenty of protein without making the flour bitter. | ₹140        | 70                |
-| **500 g**    | Bajra         | **Maintained:** Cheap (₹60/kg) and rich in iron.                                                              | ₹60         | 30                |
-| **500 g**    | Makka         | **Maintained:** Cheap (₹60/kg) and great for eye health and fiber.                                            | ₹60         | 30                |
-| **10 kg**    | **NEW TOTAL** |                                                                                                               |             | **₹700**          |
-
-### Lower Wheat
+### Lower Wheat (Current)
 
 | **Quantity** | **Item (Hindi)** | **Item (English)**     | **Total Price (₹)** | **Kg Rate (₹/kg)** |
 | ------------ | ---------------- | ---------------------- | ------------------- | ------------------ |
@@ -36,19 +22,6 @@ updated: 2026-08-26
 | **10 kg**    | **कुल योग**      | **Sum of Ingredients** | **845**             |                    |
 
 - Sat, 18 Jul 2026 - Rs. 845
-
-| **Quantity** | **Item (Hindi on Receipt)** | **Item (English)**     | **Price (₹) - 14 Dec 2025** |
-| ------------ | --------------------------- | ---------------------- | --------------------------- |
-| **1 kg**     | चना                         | Chana (Chickpeas)      | 120                         |
-| **1 kg**     | जौ                          | Jau (Barley)           | 60                          |
-| **1 kg**     | रागी                        | Ragi (Finger Millet)   | 120                         |
-| **1 kg**     | ज्वार                       | Jowar (Sorghum)        | 60                          |
-| **500 g**    | बाजरा                       | Bajra (Pearl Millet)   | 30                          |
-| **500 g**    | मक्का                       | Makka (Maize / Corn)   | 30                          |
-| **500 g**    | सोया                        | Soya (Soybean)         | 70                          |
-| **4.5 kg**   | गेहूं                       | Gehu (Wheat)           | 225                         |
-| **10 kg**    | **कुल योग**                 | **Sum of Ingredients** | **715**                     |
-
 - 14 May 2026 - Rs. 790
 - 14 Feb 2026 - Rs. 650
 - 14 Dec 2025 - Rs. 715
@@ -60,21 +33,21 @@ Here is my current weekly meal schedule:
 
 | **Day**       | **Breakfast (Carb + Protein Focus)**               | **Lunch (Daal + Dry Sabzi + MultiGrain Roti)** | **Salad**                             | **Evening Snack**                  | **Dinner (Gravy Sabzi + MultiGrain Roti)**                 |
 | ------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------- | ---------------------------------- | ---------------------------------------------------------- |
-| **1 - Mon**   | Ragi Uttapam + Imli + Peanut Chutney               | Dal Palak + Pumpkin                            | Sprouted Moong Onion Tomato           | Boiled Chana & Veggie Salad        | White Sauce Whole Wheat Pasta with a lot of veggies        |
-| **1 - Tues**  | Moong daal chilla + Imli + Peanut Chutney          | Daal Makhni + Pyaaz tomato sabzi               | Cucumber                              | Watermelon & Apple slices          | Palak Paneer                                               |
-| **1 - Wed**   | Veg Suji / Oats Upma with peanuts & veggies + dahi | Rajma + Mix Veg Raita                          | Kachumber (Cucumber, tomato, onion)   | Fresh Mango & Papaya               | Drumsticks (moringa)                                       |
+| **1 - Mon**   | Ragi Uttapam + Imli + Thick Peanut Chutney         | Dal Palak + Pumpkin                            | Sprouted Moong Onion Tomato           | Boiled Chana & Veggie Salad        | White Sauce Whole Wheat Pasta with Soya Granules + a lot of veggies |
+| **1 - Tues**  | Moong daal chilla + Imli + Thick Peanut Chutney    | Daal Makhni + Pyaaz tomato sabzi               | Cucumber                              | Watermelon & Apple slices + Roasted Chana | Palak Paneer                                               |
+| **1 - Wed**   | Veg Suji / Oats Upma with peanuts & veggies + dahi | Rajma + Mix Veg Raita                          | Kachumber (Cucumber, tomato, onion)   | Fresh Mango & Papaya + Buttermilk with Seeds Mix | Drumsticks (moringa)                                       |
 | **1 - Thurs** | Veg poha with peanuts & veggies + dahi             | Daal Palak + Barbatti / Beans aloo             | Peanut                                | Bananas & Grapes                   | Mushroom do pyaaza                                         |
-| **1 - Fri**   | Chana daal dhokla + Peanut Chutney                 | Raungi (Lobia) + Torai                         | Carrot & Radish                       | Muskmelon (Kharbuja) & Pomegranate | MultiGrain Aata Aalo Samosa                                |
-| **1 - Sat**   | Stuffed Paratha (broccoli/gobhi)                   | Dal + Mix Veg                                  | Mixed Green Leaves Salad              | Litchi & Apple                     | Pau bhaji (aata/whole wheat pau)                           |
-| **1 - Sun**   | Idle Sambhar                                       | Sambhar + Bhindi                               | Beetroot & Corn Salad                 | Papaya & Bananas                   | Soyabean aloo gravy                                        |
+| **1 - Fri**   | Chana daal dhokla + Peanut Chutney                 | Raungi (Lobia) + Torai                         | Carrot & Radish                       | Muskmelon (Kharbuja) & Pomegranate + Soya Nuts | MultiGrain Aata Aalo Samosa + Paneer Tikka side            |
+| **1 - Sat**   | Stuffed Paratha (broccoli/gobhi)                   | Dal + Mix Veg                                  | Mixed Green Leaves Salad              | Litchi & Apple + Sprouts Chaat     | Pau bhaji (aata/whole wheat pau) with Soya Granules mixed in |
+| **1 - Sun**   | Idle Sambhar + Thick Peanut Chutney                | Sambhar + Bhindi                               | Beetroot & Corn Salad                 | Papaya & Bananas + Roasted Chana   | Soyabean aloo gravy                                        |
 |               |                                                    |                                                |                                       |                                    |                                                            |
-| **2 - Mon**   | Whole Wheat Macroni + dahi                         | Mix Veg Kadhi                                  | Sprouted Moong Onion Tomato           | Watermelon & Apple slices          | Lauki kofta / Kela kofta                                   |
-| **2 - Tues**  | Mix Veg Sandwich (Aata Bread)                      | Yellow Daal + Green Onion                      | Cucumber                              | Muskmelon & Grapes                 | Shahi Paneer                                               |
-| **2 - Wed**   | Stuffed paratha + dahi                             | Daal Palak + Vegetable                         | Kachumber Salad                       | Fresh Mango & Litchi               | Baingan Barta (Baigan Bharta)                              |
-| **2 - Thurs** | Besan Paneer Chila + Imli + Peanut Chutney         | Mix Daal + Lauki                               | Cucumber Stick & Lemon Salad          | Watermelon & Pomegranate           | Paneer bhurji + Pyaaz Tomato                               |
-| **2 - Fri**   | Sabudana/veg/foxtail poha + dahi                   | Mix Daal + Patta gobhi                         | Corn Salad                            | Papaya & Guava                     | White Matar + aata/whole wheat Kulcha                      |
-| **2 - Sat**   | Stuffed paratha + dahi                             | Raungi + Barbatti aloo                         | Radish & Lemon Salad                  | Bananas & Apple                    | HomeMade Pani Puri Party with white matar and aloo filling |
-| **2 - Sun**   | Kala Chana + Paratha + Dahi                        | Mix Daal + Torai                               | Cabbage & Carrot Slaw / Lettuce salad | Fresh Mango & Jamun                | Ragi Dosa                                                  |
+| **2 - Mon**   | Whole Wheat Macroni with Paneer Cubes + dahi       | Mix Veg Kadhi                                  | Sprouted Moong Onion Tomato           | Watermelon & Apple slices + Buttermilk with Seeds Mix | Lauki kofta / Kela kofta (besan + Soya Granules) |
+| **2 - Tues**  | Mix Veg Sandwich (Aata Bread)                      | Yellow Daal + Green Onion                      | Cucumber                              | Muskmelon & Grapes + Soya Nuts     | Shahi Paneer                                               |
+| **2 - Wed**   | Stuffed paratha + dahi                             | Daal Palak + Vegetable                         | Kachumber Salad                       | Fresh Mango & Litchi + Sprouts Chaat | Baingan Barta mixed with Paneer Bhurji                     |
+| **2 - Thurs** | Besan Paneer Chila + Imli + Peanut Chutney         | Mix Daal + Lauki                               | Cucumber Stick & Lemon Salad          | Watermelon & Pomegranate + Roasted Chana | Paneer bhurji + Pyaaz Tomato                               |
+| **2 - Fri**   | veg/foxtail/oats poha + dahi                       | Mix Daal + Patta gobhi                         | Corn Salad                            | Papaya & Guava + Buttermilk with Seeds Mix | White Matar + aata/whole wheat Kulcha + Paneer Tikka side  |
+| **2 - Sat**   | Stuffed paratha + dahi                             | Raungi + Barbatti aloo                         | Radish & Lemon Salad                  | Bananas & Apple + Soya Nuts        | HomeMade Pani Puri Party with white matar, aloo & boiled chana filling |
+| **2 - Sun**   | Kala Chana + Paratha + Dahi                        | Mix Daal + Torai                               | Cabbage & Carrot Slaw / Lettuce salad | Fresh Mango & Jamun + Sprouts Chaat | Ragi Dosa + Thick Peanut Chutney                           |
 
 ### Multivitamins Daily
 
@@ -99,26 +72,36 @@ Here is my current weekly meal schedule:
 
 ### TODO
 
-- Stop Sabudana completely
 - Move from Poha to Oats/foxtail (Red/Brown poha)
 	- [ओट्स का पोहा \| Oats Poha Recipe \| Weight Loss Recipe \| Oats recipe for breakfast \| kabitaskitchen - YouTube](https://www.youtube.com/watch?v=2IZGwlq-k98)
 - Upma
 	- [Kodo Millet Upma \| Healthy Breakfast Ideas \| Millet Recipes \| Upma Recipes \| Varagu Upma - YouTube](https://www.youtube.com/watch?v=WURBzGR6BDA)
+- A spoon of soya granules or roasted chana powder stirred into the dal while cooking
 
 ### IMP Pointers
 
 - [diet-nutritional-analysis](knowledge/biology/nutrition/diet-planning/diet-nutritional-analysis.md)
 - Start taking juice with lunch
 - Put lemon in lunch/dinner specially with palak, moringa, daal makhani
+	- Add Nimbu/Lemon to cold/warm food (not hot) before eating specially in iron reach food
 - semolina is still a refined wheat product. It digests very quickly, provides minimal fiber, and causes rapid spikes in blood sugar.
 - no tea, no coffee anytime - only water
-- Pizza (Cook on leave)
-- Add Nimbu/Lemon to cold/warm food (not hot) before eating specially in iron reach food
+- Pizza (Only when cook on leave or once a month, max veggies)
+- Protein - [budget-vegetarian-high-protein-diet](knowledge/biology/nutrition/diet-planning/budget-vegetarian-high-protein-diet.md)
+
+### Portions
+
+- Roti - 2 multigrain
+- Dal portions - 1.5 katori (Thick dal, not watery)
+- Vegetables - 1 katori
 
 ### Daily Accompaniments
 
 - **For Lunch:** Serve alongside your choice of **Achaar**, **Papad**, and **Chutney**.
 - **Balance Tips:** The breakfasts pair complex carbs (oats, dalia, quinoa, paratha) with protein sources (paneer, sprouts, kala chana, moong/besan batter). Lunches provide comprehensive plant protein via lentils/beans combined with wheat and rice. Dinners are kept lighter on the digestive system by eliminating dry vegetables and lentils, focusing strictly on a vegetable or paneer-based gravy with roti.
+- **Milk at night with dry fruits - Almond + Cashew + Walnut + Pista** (~11g protein, done daily)
+- **Evening Snack:** every day pairs fruit with a rotating protein item - Roasted Chana / Soya Nuts / Sprouts Chaat / Buttermilk with Seeds Mix (flax seeds powder, pumpkin seeds, watermelon seeds, sunflower seeds, chia seeds, sesame seeds) - see weekly table above
+- **Dinner:** low-protein gravies (pasta, samosa, pau bhaji, kofta, bharta, kulcha, pani puri) now carry soya granules or a paneer add-in - see weekly table above
 
 #### Lemon
 

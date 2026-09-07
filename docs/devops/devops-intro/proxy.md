@@ -3,7 +3,7 @@ slug: /devops/devops-intro/proxy
 title: Understanding Proxy Load Balancing
 description: Explore how proxy load balancing enhances service availability, traffic management, and supports A/B testing and canary releases.
 created: 2024-01-19
-updated: 2024-12-19
+updated: 2026-09-03
 ---
 The initial use case for the proxy is just load balancing: spread the incoming requests across the active set of pods. In addition to making the service IP highly available, this also enables splitting traffic across versions for canary testing and more generally for A/B testing. It is also the mechanism used for a progressive rollout of a new version.
 
@@ -168,4 +168,6 @@ A reverse proxy is good for:
 
 ## Links
 
-[Load Balancer](devops/devops-intro/load-balancer.md)
+- [Load Balancer](devops/devops-intro/load-balancer.md)
+- [squid : Optimising Web Delivery](https://www.squid-cache.org/)
+- [GitHub - squid-cache/squid: Squid Web Proxy Cache - Source Code · GitHub](https://github.com/squid-cache/squid)

@@ -3,7 +3,7 @@ slug: /technologies/confluent/cluster-linking
 title: Cluster Linking for Data Replication
 description: Discover how Cluster Linking enables seamless data replication across clusters with Confluent Cloud for enhanced availability and sharing.
 created: 2026-03-04
-updated: 2026-08-25
+updated: 2026-09-07
 ---
 Cluster Linking allows you to directly connect clusters and perfectly mirror topics, consumer offsets, and ACLs from one cluster to another.
 
@@ -27,6 +27,14 @@ confluent kafka link create tokyo-sydney
 confluent kafka mirror create clickstream.tokyo
    --link tokyo-sydney
 ```
+
+**Cluster Linking is link-level, but mirroring operations are topic-level.**
+
+- One cluster link can contain multiple mirror topics; you do **not** need a separate link per topic.
+- You can create, pause, promote, fail over, or delete mirror topics **individually**.
+- Pausing/stopping one mirror topic does not stop the others.
+- If you pause or delete the **cluster link**, it affects mirroring for all topics attached to that link.
+- Auto-create configuration is link-level, but filters can restrict which source topics are mirrored.
 
 ## Topic types
 
@@ -63,6 +71,37 @@ Bidirectional cluster links are useful for certain types of migrations, where co
 
 Prefer the standard old → new link (consumers moving with or before producers) when possible — it preserves offsets and syncs consumer groups, so consumers resume on the new cluster with minimal duplicate processing. Reach for the producer-first/prefixed pattern only when consumers must stay on the old cluster and can be updated to subscribe to two topic names.
 
+### Reverse-and-start vs reverse-and-swap vs failover vs truncate-and-restore
+
+Four related operations for switching which side of a mirror is writable — each with different data-loss and reversibility trade-offs. All of the reverse and truncate-and-restore operations require a bidirectional cluster link; `truncate-and-restore` additionally requires KRaft mode on Confluent Platform.
+
+| Operation | Purpose | Data-loss behavior | Result |
+| --- | --- | --- | --- |
+| `reverse-and-start` | Planned switchover/failback while both clusters are available | Designed to preserve data after synchronization; source is briefly read-only | Source and mirror roles are exchanged; new mirror becomes ACTIVE |
+| `reverse-and-swap` | Informal umbrella term, not a primary CLI command | Depends on the underlying reverse operation | Usually means reversing roles via `reverse-and-start` or `reverse-and-pause` |
+| `failover` | Emergency DR when the source is unavailable | May lose records within replication lag | Mirror immediately becomes a writable normal topic; irreversible |
+| `truncate-and-restore` | Re-establish mirroring after a failover/promote | Deletes divergent records written to the old primary after failover; those records may be lost unless reprocessed | Old primary becomes a mirror of the active DR topic |
+
+**Rule of thumb:**
+
+- Both sides healthy → `reverse-and-start`
+- Source unavailable → `failover`
+- After failover, restore mirroring → `truncate-and-restore`
+- Complete failback to the original primary → `truncate-and-restore` followed by `reverse-and-start`
+
+```bash
+# planned switchover/failback (both clusters reachable)
+confluent kafka mirror reverse-and-start <topic> --link <link-name>
+
+# unplanned DR failover (source down/unreachable)
+confluent kafka mirror failover <topic> --link <link-name>
+
+# restore redundancy after failover: truncate divergent data on the old
+# primary, wait for it to catch up as a mirror, then switch roles back
+confluent kafka mirror truncate-and-restore <topic> --link <link-name>
+confluent kafka mirror reverse-and-start <topic> --link <link-name>
+```
+
 ## Restrictions and limitations
 
 To use bidirectional mode for Cluster Linking, both clusters must be one of these types:
@@ -81,3 +120,4 @@ Consumer group prefixing cannot be enabled for bidirectional links. Setting `co
 - [Overview of Cluster Linking Confluent Platform | Confluent Documentation](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/index.html)
 - [Cluster Linking on Confluent Cloud for data sharing across multi-region clusters | Confluent Documentation](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html)
 - [Managing and Configuring Cluster Links on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/cluster-links-cc.html)
+- [Manage Mirror Topics for Cluster Linking on Confluent Platform \| Confluent Documentation](https://docs.confluent.io/platform/current/multi-dc-deployments/cluster-linking/mirror-topics-cp.html)

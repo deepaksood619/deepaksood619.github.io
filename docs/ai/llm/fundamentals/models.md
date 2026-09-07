@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/models
 title: Models
 description: Explore generative and discriminative models, their differences, types like voice models, and how they learn to generate and classify data effectively.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-09-04
 ---
 - [voice-models](ai/llm/fundamentals/voice-models.md)
 
@@ -26,6 +26,9 @@ updated: 2026-06-18
 
 ## ChatGPT / OpenAI
 
+- [GPT-6 Astra: A new generation of intelligence \| OpenAI](https://openai.com/index/gpt-6-astra/)
+	- [Ten advances in mathematics and theoretical computer science \| OpenAI](https://openai.com/index/ten-advances-in-mathematics/)
+	- [GitHub - openai/ten-proofs: Lean certificates accompanying ten proofs in mathematics and theoretical computer science · GitHub](https://github.com/openai/ten-proofs)
 - [Introducing gpt-oss \| OpenAI](https://openai.com/index/introducing-gpt-oss/)
 	- [GPT-OSS - OpenAI's open source model fixes + long context support is here! 🦥 1. Fixed float16 infinite losses (\>65504 overflows) 2. SWA=128 Flex default uses 129 tokens (extra 1) 3. Fixed MXFP4… \| Daniel Han \| 42 comments](https://www.linkedin.com/posts/danielhanchen_gpt-oss-openais-open-source-model-fixes-activity-7366886695532756992-VyFL)
 	- [Long Context gpt-oss Training \| Unsloth Documentation](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training)

@@ -3,7 +3,7 @@ slug: /languages/java/spring
 title: Spring
 description: Discover how Spring Boot simplifies Java application development with embedded servers and seamless integration for microservices and RESTful APIs.
 created: 2023-03-05
-updated: 2026-06-17
+updated: 2026-09-04
 ---
 ## Spring Boot
 
@@ -40,3 +40,5 @@ spring jpa tutorial
 https://github.com/spring-projects/spring-petclinic
 
 [Model Context Protocol (MCP) Spring AI Reference](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html)
+
+[Spring Cloud Sleuth](https://docs.spring.io/spring-cloud-sleuth/docs/2.2.x-SNAPSHOT/reference/html/)

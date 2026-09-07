@@ -183,6 +183,8 @@ As per ICMR an adult should consume 0.8g-1g of protein as per his body weight. F
 
 Combining cereals with pulses in the ratio of 3:1 will improve the protein quality of your meal as per ICMR.
 
+**See also:** [Budget Vegetarian High-Protein Diet (India)](knowledge/biology/nutrition/diet-planning/budget-vegetarian-high-protein-diet.md) - hitting 110g protein/day for ~₹150
+
 ## References
 
 - https://en.wikipedia.org/wiki/List_of_macronutrients

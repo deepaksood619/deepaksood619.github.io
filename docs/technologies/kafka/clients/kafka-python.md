@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-python
 title: "Kafka-Python Overview: Consumer and Producer"
 description: Explore the kafka-python library for Apache Kafka, including consumer iterators and high-level producers for efficient stream processing.
 created: 2023-03-05
-updated: 2026-05-30
+updated: 2026-09-07
 ---
 Python client for the Apache Kafka distributed stream processing system. (consumer iterators)
 
@@ -72,3 +72,4 @@ The KafkaProducer can be used across threads without issue, unlike the KafkaCons
 
 - [confluent-kafka](technologies/confluent/governance/confluent-kafka.md)
 - [Java Client for Apache Kafka | Confluent Documentation](https://docs.confluent.io/kafka-clients/java/current/overview.html)
+- [GitHub - twmb/franz-go: franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc. · GitHub](https://github.com/twmb/franz-go)

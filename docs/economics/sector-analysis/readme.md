@@ -12,6 +12,7 @@ updated: 2026-08-06
 	- [ai-infrastructure-arms-race](economics/sector-analysis/ai-infrastructure-arms-race.md)
 - [Luxury Automotive Manufacturing in India](economics/sector-analysis/luxury-automotive-manufacturing-india.md)
 - [usd-inr-exchange-rate-outlook-analysis](economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis.md)
+	- [Rupee Depreciation, Reflexivity & Market Psychology](economics/sector-analysis/rupee-depreciation-reflexivity-market-psychology.md)
 - [franchise](management/business/franchise.md)
 
 ## [1. Sector analysis overview](https://zerodha.com/varsity/chapter/sector-analysis-overview/)

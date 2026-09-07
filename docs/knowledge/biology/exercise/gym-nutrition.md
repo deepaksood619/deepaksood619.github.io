@@ -55,3 +55,4 @@ Protein supplement daily - after gym
 
 - [Guest Series with Dr. Andy Galpin - YouTube](https://www.youtube.com/playlist?list=PLPNW_gerXa4N_PVVoq0Za03YKASSGCazr)
 - [Everything You Thought You Knew About Protein Is Wrong | Stanford's Professor Christopher Gardner - YouTube](https://www.youtube.com/watch?v=DMwf_9wqWY0)
+- [Budget Vegetarian High-Protein Diet (India)](knowledge/biology/nutrition/diet-planning/budget-vegetarian-high-protein-diet.md)

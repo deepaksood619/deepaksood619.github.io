@@ -3,7 +3,7 @@ slug: /economics/learning-resources/tools-platforms
 title: Tools
 description: Discover essential tools for stock market analysis, including FII/DII data, stock screeners, and AI chat assistance for informed investment decisions.
 created: 2025-01-16
-updated: 2026-08-07
+updated: 2026-09-03
 ---
 - [FII DII Data based on activity on NSE, BSE](https://web.stockedge.com/fii-activity)
 - [Market Monitor \| Tijori Finance](https://www.tijorifinance.com/in/markets?sort_column=1D&sort_type=asc)
@@ -104,6 +104,33 @@ updated: 2026-08-07
 - [Cashews](https://cashews.finance/)
 - Bluecoins
 - [what's is the best / simplest budget tracker/ expenses tracker apps? : r/androidapps](https://www.reddit.com/r/androidapps/comments/1fb5ge6/whats_is_the_best_simplest_budget_tracker/)
+
+### AndroMoney
+
+```text
+Expense
+├─ Essentials    (small, frequent, unavoidable)
+│  ├─ Food
+│  ├─ Utilities
+│  ├─ Transportation
+│  ├─ School
+|  ├─ Rent
+|  ├─ Staff (household help)
+├─ Living        (recurring/periodic household costs)
+│  ├─ Medical
+│  ├─ Clothing/Beauty
+│  ├─ Furniture/Appliances
+│  ├─ Business Expenses   ← ADD (proven recurring)
+│  ├─ Taxes                ← ADD (proven recurring)
+│  └─ Others                (true catch-all only — see habit below)
+├─ Entertainment: Party · Travel · Others
+└─ Social: Gifts · Family · Others
+
+Income: Salary · Repayment · Interest · Cashback · Gift · Profit · Dividend · Others
+Transfer: General Transfer
+```
+
+**Always fill the Note field for others categories**
 
 ## Foreign Investment Brokers
 

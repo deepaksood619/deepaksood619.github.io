@@ -3,7 +3,7 @@ slug: /technologies/confluent/cli-tools
 title: Essential CLI Tools for Kafka Management
 description: Explore essential CLI tools for managing Kafka, Confluent Cloud, and deploying resources efficiently.
 created: 2025-12-20
-updated: 2026-08-24
+updated: 2026-09-06
 ---
 - [Kafka Commands](technologies/kafka/kafka-commands/readme.md)
 
@@ -128,6 +128,50 @@ kafka-producer-perf-test \
 - `npx @confluentinc/mcp-confluent@1.3.0 --init-oauth-config`
 - `claude mcp add confluent -- npx -y @confluentinc/mcp-confluent --config ./config.yaml`
 - [Kafka and AI walk into a bar...](https://softwaremill.com/managing-kafka-with-ai-and-mcp/)
+
+### Setting up Confluent Cloud managed MCP server in Claude Code
+
+#### Get a Confluent Cloud API key
+
+The managed MCP server (`https://api.confluent.cloud/mcp/v1`) uses **HTTP Basic auth**, not Bearer tokens.
+
+- Use a **Global API key** (works for both global + regional servers) or a **Cloud API key** (global server only).
+- Resource-scoped keys (cluster-only, Schema Registry-only) are **not supported**.
+- Create one via Confluent Cloud Console, or CLI:
+
+`confluent api-key create --resource cloud`
+
+#### Base64-encode `key:secret`
+
+`printf '%s' '<API_KEY>:<API_SECRET>' | base64`
+
+#### Add the MCP server to Claude Code
+
+`claude mcp add --transport http confluent-mcp-global https://api.confluent.cloud/mcp/v1 --header "Authorization: Basic base64-encoded-key:secret"`
+
+Scope defaults to `local` (private to you, in the current project). Use `-s user` or `-s project` for a different scope.
+
+#### Verify the connection
+
+`claude mcp get confluent-mcp-global`
+
+Should show `Status: ✔ Connected`.
+
+#### Restart Claude Code
+
+MCP tools are only loaded at session start — restart (or open a new session) in the project for the `mcp__confluent-mcp-global__*` tools to become available.
+
+#### Smoke test
+
+Ask Claude to list environments — it should call `list_environments` and return your Confluent Cloud environment(s).
+
+**Common pitfall:** a placeholder like `Authorization: Bearer <CONFLUENT_CLOUD_API_KEY>` left unfilled, or using `Bearer` instead of `Basic`, causes an HTTP 401 with OAuth fallback
+disabled.
+
+**Useful commands:**
+
+- `claude mcp list` — health-check all configured MCP servers
+- `claude mcp remove confluent-mcp-global -s local` — remove/reset the config
 
 ## Others
 

@@ -251,6 +251,7 @@ Until these external fractures heal, the Indian Rupee remains fundamentally expo
 
 ## Links
 
+- [Rupee Depreciation, Reflexivity & Market Psychology](economics/sector-analysis/rupee-depreciation-reflexivity-market-psychology.md) - reflexivity, FPI tax problem, corporate debt market, REER, and why currency levels are secondary to real-economy fundamentals
 - [How real is a ₹150 dollar?](https://finshots.in/markets/how-real-is-a-150-dollar/)
 	- Purchasing Power Parity (PPP) effect
 	- FDI (foreign direct investment) / FPI (foreign portfolio investment)

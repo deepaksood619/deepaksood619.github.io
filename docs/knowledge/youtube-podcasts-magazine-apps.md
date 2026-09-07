@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-08-24
+updated: 2026-09-07
 ---
 ## Youtube
 
@@ -376,6 +376,7 @@ updated: 2026-08-24
     - https://www.discoveryplus.in/show/history-of-the-world
 - [The Plate India - YouTube](https://youtube.com/@theplateindia)
 - [MotorOctane - YouTube](https://youtube.com/@motoroctane)
+- [youtube.com/@lumencity](https://www.youtube.com/@lumencity)
 
 ## Magazine
 

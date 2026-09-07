@@ -3,7 +3,7 @@ slug: /confluent-cloud-client-throughput-optimization
 title: Optimize Confluent Cloud Clients for Throughput
 description: Tune Kafka producer and consumer configurations on Confluent Cloud to maximize data throughput.
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-07
 ---
 To optimize for throughput, producers and consumers must move as much data as possible within a given amount of time. For high throughput, try maximizing the rate at which the data moves — the data rate should be the fastest possible rate.
 
@@ -82,3 +82,4 @@ Where the application allows it, use consumer groups with multiple consumers to 
 - [How to choose the number of topics/partitions in a Kafka cluster](https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster)
 - [Comprehensive Kafka Configurations](technologies/kafka/internals/kafka-configurations.md)
 - [Confluent Cloud Client Quotas](technologies/confluent/cloud/confluent-cloud-client-quotas.md)
+- [Five Years of Kafka at Razorpay’s UPI Switch \| by Kshitij Nawandar \| Sep, 2026 \| Razorpay Engineering](https://engineering.razorpay.com/tryst-with-kafka-2f5cef766c45)

@@ -18,6 +18,8 @@ Making this version at home ensures a fresh, preservative-free block that fits e
 | Protein  | ~18-19g                   | ~21-24g                  |
 | Fat      | ~20-25g                   | ~4-8g                    |
 
+**See also:** [Budget Vegetarian High-Protein Diet (India)](knowledge/biology/nutrition/diet-planning/budget-vegetarian-high-protein-diet.md) - paneer is high quality but pricier than soya for hitting a daily protein target on a budget
+
 ## Yield and Nutritional Comparison (From 2 Liters of Milk)
 
 The yield and nutrition of paneer depend directly on the fat and solids-not-fat (SNF) content of the milk source.

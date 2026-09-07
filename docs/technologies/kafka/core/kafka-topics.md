@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-topics
 title: Understanding Kafka Topics
 description: Learn about Kafka topics, their structure, and how producers and consumers interact with data in the messaging system.
 created: 2025-12-15
-updated: 2026-04-03
+updated: 2026-09-03
 ---
 - A topic is a category of messages in Kafka
 - The producers publish the messages into topics
@@ -115,3 +115,7 @@ If you are starting from scratch, adopt this specific template. It strikes the b
 - Build topic names from most general to most specific.
 - Plan for future growth and cross-team usage.
 - Document your naming convention and educate all Kafka users in your organization.
+
+## Links
+
+[How to Choose the Number of Topics/Partitions in a Kafka Cluster? \| Confluent](https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster/)
