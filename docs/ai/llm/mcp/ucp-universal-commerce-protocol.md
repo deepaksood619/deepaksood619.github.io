@@ -3,7 +3,7 @@ slug: /ucp-universal-commerce-protocol
 title: UCP - Universal Commerce Protocol
 description: Google's open standard enabling direct AI-powered checkout across Google Search AI Mode and Gemini, with REST API and MCP binding support.
 created: 2026-06-24
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 UCP is an open standard that unifies digital commerce. It enables direct, instant purchases across AI surfaces like AI Mode in Google Search and the Gemini app, reducing friction and cart abandonment.
 
@@ -257,3 +257,7 @@ Post-integration, merchants access via Merchant Center Analytics:
 - [Overview  \|  Google Universal Commerce Protocol (UCP) Guide  \|  Google for Developers](https://developers.google.com/merchant/ucp/guides)
 - [Google UCP \| Universal Commerce Protocol \| Pixus](https://www.pixus.uk/google-ucp-management/)
 - [GitHub - Universal-Commerce-Protocol/conformance: Conformance Tests for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/conformance)
+- [UCP v2026-04-08: The Spec Just Got Its Biggest Update Since Launch — UCP Checker Blog](https://ucpchecker.com/blog/ucp-v2026-04-08-spec-update)
+- [GitHub - Universal-Commerce-Protocol/python-sdk: The official Python SDK for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/python-sdk)
+	- [ucp-sdk · PyPI](https://pypi.org/project/ucp-sdk/)
+	- `pip install ucp-sdk`

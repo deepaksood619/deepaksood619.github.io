@@ -37,26 +37,31 @@ updated: 2026-09-02
 Hero MotoCorp (formerly Hero Honda) is India's largest two-wheeler manufacturer by volume, headquartered in New Delhi/Gurugram. Founded by the Munjal family, it operated as a JV with Honda until the split in 2010-11, after which it became fully promoter-owned as Hero MotoCorp. It is led by Dr. Pawan Munjal (Chairman) with Niranjan Gupta as CEO.
 
 **Business Model:**
+
 - **Revenue Streams:** Motorcycles (mass-market + premium), scooters, electric two-wheelers (Vida), spare parts/accessories, exports.
 - **Key Products/Services:** Splendor and HF Deluxe (mass-market motorcycles), Pleasure/Destini/Xoom (scooters), Xtreme/Karizma/Mavrick and the Harley-Davidson-partnered X440 (premium), Vida V1/VX2 (EVs).
 - **Distribution:** India's largest two-wheeler dealer/service network (9,000+ touchpoints), plus exports to 40+ countries.
 
 **Market Position:**
+
 - **Market Rank:** #1 in India two-wheelers by volume; competes with Honda Motorcycle & Scooter India (unlisted), Bajaj Auto, TVS Motor, and Eicher Motors (Royal Enfield, premium segment).
 - **Key Competitors:** Honda (HMSI), Bajaj Auto, TVS Motor.
 
 **Competitive Moat:**
+
 - Largest rural/semi-urban distribution and after-sales network in the Indian 2W industry.
 - Decades-old brand trust — Splendor has been among India's best-selling motorcycles for over 20 years.
 - Manufacturing scale and cost leadership in the mass-market ICE segment.
 - Emerging EV moat via Vida, now at an 11.7% EV market share, and a premium-segment push via the Harley-Davidson partnership (X440).
 
 **Management Quality:**
+
 - **Leadership:** Dr. Pawan Munjal (Chairman & CEO of the promoter group); Niranjan Gupta serves as CEO, bringing a professional-management layer to a founder-led business.
 - **Track Record:** Sustained #1 volume position for over two decades; successful post-Honda-split transition; recent EV pivot and premium partnership execution.
 - **Concerns:** Historically slower to react to the scooter/EV shift than TVS and Bajaj; management is prioritizing absolute EBITDA growth over margin percentage near-term, which could keep margins volatile.
 
 **Corporate Governance:**
+
 - **Promoter Holding:** 34.73% (Below ideal 50%+ threshold, but stable)
 - **Promoter Pledge:** 0.00% (Confirmed via formal FY26 declaration — no shares pledged)
 - **Institutional Support:** FII 31.09%, DII 24.26%
@@ -131,6 +136,7 @@ Q1 FY27 revenue grew ~35% YoY (vs. Q1 FY26's Rs. 9,728 Cr) on strong festive/GST
 **Shareholding Rating:** 7/10
 
 Key observations:
+
 - Promoter holding of 34.73% is on the lower side of the scoring rubric's ideal band, but it has been stable for years with zero pledge, which meaningfully de-risks the governance concern typically associated with sub-40% promoter stakes.
 - Combined FII+DII holding of over 55% and rising is a strong vote of institutional confidence.
 
@@ -183,6 +189,7 @@ Key observations:
 Continued mid-teens EPS growth on steady volume gains and gradual margin recovery toward the 14-16% guided band, with the valuation gap to peers narrowing modestly as Vida's losses shrink.
 
 **Expected Return Distribution:**
+
 - **Bull Case (30% probability):** 25% upside — Rs. 6,500
 - **Base Case (50% probability):** 16% return — Rs. 6,000
 - **Bear Case (20% probability):** 17% downside — Rs. 4,300
@@ -200,27 +207,32 @@ Continued mid-teens EPS growth on steady volume gains and gradual margin recover
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results and festive-season (Navratri/Diwali) retail sell-through data
 - Commodity price trend (steel/aluminium) for margin trajectory confirmation
 
 **Medium-term (3-12 months):**
+
 - Vida EV market share trajectory and progress toward EBITDA breakeven
 - Harley-Davidson X440 premium-segment volume ramp
 - Brokerage target price revisions (current average ~Rs. 5,951-6,100)
 
 **Long-term (1-3 years):**
+
 - Structural EV mix shift in Indian 2W industry and Hero's relative positioning
 - Export market expansion beyond current 40+ countries
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. Revenue growth (target: sustain `>`15% YoY)
 2. OPM trend (target: recover toward 14-16% guided band)
 3. Vida EV market share and loss trajectory
 4. Promoter holding (watch for any change from the stable 34.73%)
 
 **Trigger Events:**
+
 - ✅ **Buy more:** OPM recovers above 14.5% for 2 consecutive quarters; Vida EV share crosses 15%
 - 🔻 **Reduce/Exit:** OPM falls below 12% sustainably; promoter pledge appears; sustained EV market share loss to Ola/TVS/Bajaj
 

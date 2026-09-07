@@ -346,7 +346,7 @@ The Men's Underwear Index (MUI) is an economic indicator that suggests that an i
 
 ## Boots Theory
 
-The **Sam Vimes theory of socioeconomic unfairness**, often called simply the **boots theory**, is an [economic theory](https://en.wikipedia.org/wiki/Economic_theory "Economic theory") that **people in poverty have to buy cheap and subpar products that need to be replaced repeatedly, proving more expensive in the long run than more expensive items.** The term was coined by English fantasy writer Sir [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett "Terry Pratchett") in his 1993 _[Discworld](https://en.wikipedia.org/wiki/Discworld "Discworld")_ novel _[Men at Arms](https://en.wikipedia.org/wiki/Men_at_Arms "Men at Arms")_. In the novel, [Sam Vimes](https://en.wikipedia.org/wiki/Sam_Vimes "Sam Vimes"), the captain of the [Ankh-Morpork City Watch](https://en.wikipedia.org/wiki/Ankh-Morpork_City_Watch "Ankh-Morpork City Watch"), illustrates the concept with the example of boots.
+The **Sam Vimes theory of socioeconomic unfairness**, often called simply the **boots theory**, is an [economic theory](https://en.wikipedia.org/wiki/Economic_theory "Economic theory") that **people in poverty have to buy cheap and subpar products that need to be replaced repeatedly, proving more expensive in the long run than more expensive items.** The term was coined by English fantasy writer Sir [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett "Terry Pratchett") in his 1993 *[Discworld](https://en.wikipedia.org/wiki/Discworld "Discworld")* novel *[Men at Arms](https://en.wikipedia.org/wiki/Men_at_Arms "Men at Arms")*. In the novel, [Sam Vimes](https://en.wikipedia.org/wiki/Sam_Vimes "Sam Vimes"), the captain of the [Ankh-Morpork City Watch](https://en.wikipedia.org/wiki/Ankh-Morpork_City_Watch "Ankh-Morpork City Watch"), illustrates the concept with the example of boots.
 
 [Boots theory - Wikipedia](https://en.wikipedia.org/wiki/Boots_theory)
 
@@ -379,7 +379,7 @@ The Kindleberger-Minsky model merges Charles Kindleberger's historical analysis 
 
 **Key Aspects of the Minsky-Kindleberger Framework:**
 
-- **The Cycle:** Based on Kindleberger’s _Manias, Panics, and Crashes_ (1978), the model outlines five stages: Displacement (a shock), Boom (euphoria/credit expansion), Overtrading (speculation), Revulsion (realization of risk), and Tranquility.
+- **The Cycle:** Based on Kindleberger’s *Manias, Panics, and Crashes* (1978), the model outlines five stages: Displacement (a shock), Boom (euphoria/credit expansion), Overtrading (speculation), Revulsion (realization of risk), and Tranquility.
 - **Minsky's Contribution:** Minsky provided the theoretical engine, focusing on how financial systems move from hedge (stable) to speculative, and finally Ponzi (unstable) finance, where debt servicing relies on rising asset prices.
 - **Shared Perspective:** Both were outsiders in the post-WWII economics academy, favoring American institutionalism over neoclassical models. They argued that instability is inherent to capitalism, not just an exogenous shock.
 - **Policy Implications:** Kindleberger highlighted the crucial need for an international lender of last resort (like central banks) to act during panics to prevent depressions.

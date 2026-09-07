@@ -3,7 +3,7 @@ slug: /claude-code-skills
 title: Claude Code Skills
 description: Claude Code Skills
 created: 2026-06-24
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 ## Built-in Commands
 
@@ -24,6 +24,7 @@ updated: 2026-09-02
 
 - **/review**: Code review of current changes
 - **/loop**: Run prompt on schedule (e.g., `/loop 5m check deployment`)
+- **/ultrareview**
 
 ### Monitoring
 
