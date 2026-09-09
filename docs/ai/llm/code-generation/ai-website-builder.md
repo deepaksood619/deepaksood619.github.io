@@ -72,7 +72,7 @@ To accelerate development, we should draw upon existing paradigms and open-sourc
     * *Analysis:* The foundational tech required to run a Node.js/Vite server directly inside the user's browser. This enables the zero-latency preview experience without provisioning expensive cloud VMs for every active user session.
 * **Model Context Protocol (MCP):** [modelcontextprotocol.io](https://modelcontextprotocol.io/)
     * *Analysis:* An emerging open standard that simplifies how AI agents connect to data sources and tools. We should implement MCP servers for Bluehost's deployment environments, giving the AI builder standardized, secure read/write access to the user's hosting space.
-* **OpenHands / Aider:** [github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+* **OpenHands / Aider:** [github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 83k
     * *Analysis:* Open-source agentic coding harnesses. While these are terminal-based, studying their code diffing mechanisms and Agentic RAG loops provides a blueprint for how to handle precise, multi-file code editing reliably.
-* **Puck (Visual Editor):** [github.com/measuredco/puck](https://github.com/measuredco/puck)
+* **Puck (Visual Editor):** [github.com/measuredco/puck](https://github.com/measuredco/puck) ⭐ 13k
     * *Analysis:* Open-source visual editors for React. Integrating a JSON-driven visual editor framework like Puck and attaching an LLM to its API allows us to skip building the drag-and-drop/AST state manager from scratch, focusing purely on the AI interaction layer.

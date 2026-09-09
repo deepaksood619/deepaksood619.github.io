@@ -170,4 +170,4 @@ A reverse proxy is good for:
 
 - [Load Balancer](devops/devops-intro/load-balancer.md)
 - [squid : Optimising Web Delivery](https://www.squid-cache.org/)
-- [GitHub - squid-cache/squid: Squid Web Proxy Cache - Source Code · GitHub](https://github.com/squid-cache/squid)
+- [GitHub - squid-cache/squid: Squid Web Proxy Cache - Source Code · GitHub](https://github.com/squid-cache/squid) ⭐ 3.1k

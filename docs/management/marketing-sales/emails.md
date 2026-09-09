@@ -34,7 +34,7 @@ updated: 2026-06-11
 - [Pricing | Mailjet](https://www.mailjet.com/pricing/)
 - [Ecommerce Email Marketing and SMS Platform \| Omnisend](https://www.omnisend.com/)
 - [Postmark: Fast, Reliable Email Delivery Service \| SMTP \| API](https://postmarkapp.com/)
-- [GitHub - useplunk/plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk) ⭐ 5.2k
+- [GitHub - useplunk/plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk) ⭐ 5.5k
 
 ## [Resend](https://resend.com/home)
 
@@ -59,7 +59,7 @@ r = resend.Emails.send({
 
 It acts as an SMTP server, provides a modern web interface to view & test captured emails, and includes an API for automated integration testing.
 
-- [GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers](https://github.com/axllent/mailpit) ⭐ 9.6k
+- [GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers](https://github.com/axllent/mailpit) ⭐ 10k
 - [Mailpit - email & SMTP testing tool](https://mailpit.axllent.org/)
 
 ### Others
@@ -103,7 +103,7 @@ Understanding the queue system explains most MTA behavior—why delivery can be 
 - **Postfix:** Modern, secure, widely used.
 	- [Postfix (software) - Wikipedia](https://en.wikipedia.org/wiki/Postfix_(software))
 	- [Postfix Documentation](https://www.postfix.org/documentation.html)
-	- [GitHub - postfixadmin/postfixadmin: PostfixAdmin - web based virtual user administration interface for Postfix mail servers](https://github.com/postfixadmin/postfixadmin) ⭐ 1.2k
+	- [GitHub - postfixadmin/postfixadmin: PostfixAdmin - web based virtual user administration interface for Postfix mail servers](https://github.com/postfixadmin/postfixadmin) ⭐ 1.3k
 	- [Integrating Amazon SES with Postfix - Amazon Simple Email Service](https://docs.aws.amazon.com/ses/latest/dg/postfix.html)
 - **Sendmail:** Legacy, complex configuration, still foundational.
 - SMTP2GO - [SMTP2GO: Reliable & Scalable Email Delivery Service](https://www.smtp2go.com/)

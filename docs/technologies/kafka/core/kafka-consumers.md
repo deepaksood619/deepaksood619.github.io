@@ -407,4 +407,4 @@ metadata.max.age.ms=300000  # Default 5 minutes, increase if stable
 - https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e
 - https://streaml.io/blog/exactly-once
 - [Introducing uFowarder: The Consumer Proxy for Kafka Async Queuing \| Uber Blog](https://www.uber.com/en-IN/blog/introducing-ufowarder/)
-	- [GitHub - uber/uForwarder: Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.](https://github.com/uber/uForwarder) ⭐ 217
+	- [GitHub - uber/uForwarder: Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.](https://github.com/uber/uForwarder) ⭐ 224

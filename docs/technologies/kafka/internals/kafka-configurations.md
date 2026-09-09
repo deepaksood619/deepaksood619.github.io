@@ -91,5 +91,5 @@ These settings apply to **both Producers and Consumers** (and Admin clients) to 
 
 ## Links
 
-- [librdkafka/CONFIGURATION.md at master · confluentinc/librdkafka · GitHub](https://github.com/confluentinc/librdkafka/blob/master/CONFIGURATION.md) ⭐ 985
+- [librdkafka/CONFIGURATION.md at master · confluentinc/librdkafka · GitHub](https://github.com/confluentinc/librdkafka/blob/master/CONFIGURATION.md) ⭐ 1.0k
 - [Optimize Confluent Cloud Clients for Throughput](technologies/confluent/cloud/confluent-cloud-client-throughput-optimization.md)

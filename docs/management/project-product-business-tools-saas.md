@@ -13,16 +13,16 @@ updated: 2026-06-11
 2. https://www.focalboard.com - Alternative to Asana / Trello / Notion
 3. Atlassian JIRA
     1. Free Open Source / Self hosted - https://www.taiga.io
-    2. [GitHub - makeplane/plane: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.](https://github.com/makeplane/plane) ⭐ 51k
+    2. [GitHub - makeplane/plane: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.](https://github.com/makeplane/plane) ⭐ 59k
 	    1. Free 12 seats on Plane Cloud
 	3. [Toggl Track: Time Tracking Software for Any Workflow](https://toggl.com/)
-		1. [GitHub - super-productivity/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. · GitHub](https://github.com/super-productivity/super-productivity) ⭐ 20k
+		1. [GitHub - super-productivity/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. · GitHub](https://github.com/super-productivity/super-productivity) ⭐ 22k
 4. Asana
 5. Clickup
 6. Orangescrum - https://github.com/Orangescrum/orangescrum
 7. https://kitemaker.co
 8. AirTable
-    1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb) ⭐ 63k
+    1. https://www.nocodb.com (Airtable Alternative) - [GitHub - nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb) ⭐ 65k
     2. [Equals | Dashboards and reports](https://equals.com/report/)
     3. [The enterprise work management platform](https://www.smartsheet.com/)
 9. Trello - https://blog.trello.com/trello-team-playbooks
@@ -35,7 +35,7 @@ updated: 2026-06-11
     - https://www.quora.com/What-Slack-to-do-list-app-do-you-recommend
     - https://about.gitlab.com/handbook/communication/chat
     - Huly
-	    - [GitHub - hcengineering/platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://github.com/hcengineering/platform) ⭐ 26k
+	    - [GitHub - hcengineering/platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://github.com/hcengineering/platform) ⭐ 28k
 	    - [Everything App for your teams](https://huly.io/)
 	    - [This self-hosted tool replaces all of your team communication and project management, and does it better, too](https://www.xda-developers.com/self-hosted-tool-replaces-communication-project-management/)
 14. Gmail

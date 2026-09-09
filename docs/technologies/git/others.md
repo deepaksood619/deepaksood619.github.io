@@ -40,23 +40,23 @@ Every Git repository has a.git/hooksfolder with a script for each hook you can b
 
 Here's a full list of hooks you can attach scripts to:
 
-- [applypatch-msg](https://github.com/git/git/blob/master/templates/hooks--applypatch-msg.sample) ⭐ 61k
-- [pre-applypatch](https://github.com/git/git/blob/master/templates/hooks--pre-applypatch.sample) ⭐ 61k
-- [post-applypatch](https://github.com/git/git/blob/master/Documentation/githooks.txt#L74) ⭐ 61k
-- [pre-commit](https://github.com/git/git/blob/master/templates/hooks--pre-commit.sample) ⭐ 61k
-- [prepare-commit-msg](https://github.com/git/git/blob/master/templates/hooks--prepare-commit-msg.sample) ⭐ 61k
-- [commit-msg](https://github.com/git/git/blob/master/templates/hooks--commit-msg.sample) ⭐ 61k
-- [post-commit](https://github.com/git/git/blob/master/Documentation/githooks.txt#L142) ⭐ 61k
-- [pre-rebase](https://github.com/git/git/blob/master/templates/hooks--pre-rebase.sample) ⭐ 61k
-- [post-checkout](https://github.com/git/git/blob/master/Documentation/githooks.txt#L160) ⭐ 61k
-- [post-merge](https://github.com/git/git/blob/master/Documentation/githooks.txt#L178) ⭐ 61k
-- [pre-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L221) ⭐ 61k
-- [update](https://github.com/git/git/blob/master/templates/hooks--update.sample) ⭐ 61k
-- [post-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L295) ⭐ 61k
-- [post-update](https://github.com/git/git/blob/master/templates/hooks--post-update.sample) ⭐ 61k
-- [pre-auto-gc](https://github.com/git/git/blob/master/Documentation/githooks.txt#L387) ⭐ 61k
-- [post-rewrite](https://github.com/git/git/blob/master/Documentation/githooks.txt#L394) ⭐ 61k
-- [pre-push](https://github.com/git/git/blob/master/Documentation/githooks.txt#L192) ⭐ 61k
+- [applypatch-msg](https://github.com/git/git/blob/master/templates/hooks--applypatch-msg.sample) ⭐ 63k
+- [pre-applypatch](https://github.com/git/git/blob/master/templates/hooks--pre-applypatch.sample) ⭐ 63k
+- [post-applypatch](https://github.com/git/git/blob/master/Documentation/githooks.txt#L74) ⭐ 63k
+- [pre-commit](https://github.com/git/git/blob/master/templates/hooks--pre-commit.sample) ⭐ 63k
+- [prepare-commit-msg](https://github.com/git/git/blob/master/templates/hooks--prepare-commit-msg.sample) ⭐ 63k
+- [commit-msg](https://github.com/git/git/blob/master/templates/hooks--commit-msg.sample) ⭐ 63k
+- [post-commit](https://github.com/git/git/blob/master/Documentation/githooks.txt#L142) ⭐ 63k
+- [pre-rebase](https://github.com/git/git/blob/master/templates/hooks--pre-rebase.sample) ⭐ 63k
+- [post-checkout](https://github.com/git/git/blob/master/Documentation/githooks.txt#L160) ⭐ 63k
+- [post-merge](https://github.com/git/git/blob/master/Documentation/githooks.txt#L178) ⭐ 63k
+- [pre-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L221) ⭐ 63k
+- [update](https://github.com/git/git/blob/master/templates/hooks--update.sample) ⭐ 63k
+- [post-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L295) ⭐ 63k
+- [post-update](https://github.com/git/git/blob/master/templates/hooks--post-update.sample) ⭐ 63k
+- [pre-auto-gc](https://github.com/git/git/blob/master/Documentation/githooks.txt#L387) ⭐ 63k
+- [post-rewrite](https://github.com/git/git/blob/master/Documentation/githooks.txt#L394) ⭐ 63k
+- [pre-push](https://github.com/git/git/blob/master/Documentation/githooks.txt#L192) ⭐ 63k
 
 ## Projects
 

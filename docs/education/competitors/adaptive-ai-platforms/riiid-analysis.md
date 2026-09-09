@@ -226,6 +226,6 @@ EdNet is the largest publicly released dataset of student-AI interactions in edu
 
 ## Links
 
-- [GitHub - Riiid-Team/AI-Learning: Using knowledge states of 100K+ students to predict whether a student will answer a question correctly. · GitHub](https://github.com/Riiid-Team/AI-Learning)
+- [GitHub - Riiid-Team/AI-Learning: Using knowledge states of 100K+ students to predict whether a student will answer a question correctly. · GitHub](https://github.com/Riiid-Team/AI-Learning) ⭐ 17
 - [Riiid Answer Correctness Prediction \| Kaggle](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)
 - TOEIC (Test of English for International Communication)

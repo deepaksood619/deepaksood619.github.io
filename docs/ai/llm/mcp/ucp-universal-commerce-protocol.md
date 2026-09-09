@@ -124,7 +124,7 @@ For merchants with complex requirements, an **iframe-based embedded checkout** i
 
 ## Testing the Integration
 
-[GitHub - Universal-Commerce-Protocol/conformance: Conformance Tests for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/conformance)
+[GitHub - Universal-Commerce-Protocol/conformance: Conformance Tests for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/conformance) ⭐ 27
 
 ### 1. Merchant Center Sandbox UI (Official)
 
@@ -256,8 +256,8 @@ Post-integration, merchants access via Merchant Center Analytics:
 - [MCP Model Context Protocol](ai/llm/mcp/mcp-model-context-protocol.md)
 - [Overview  \|  Google Universal Commerce Protocol (UCP) Guide  \|  Google for Developers](https://developers.google.com/merchant/ucp/guides)
 - [Google UCP \| Universal Commerce Protocol \| Pixus](https://www.pixus.uk/google-ucp-management/)
-- [GitHub - Universal-Commerce-Protocol/conformance: Conformance Tests for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/conformance)
+- [GitHub - Universal-Commerce-Protocol/conformance: Conformance Tests for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/conformance) ⭐ 27
 - [UCP v2026-04-08: The Spec Just Got Its Biggest Update Since Launch — UCP Checker Blog](https://ucpchecker.com/blog/ucp-v2026-04-08-spec-update)
-- [GitHub - Universal-Commerce-Protocol/python-sdk: The official Python SDK for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/python-sdk)
+- [GitHub - Universal-Commerce-Protocol/python-sdk: The official Python SDK for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/python-sdk) ⭐ 85
 	- [ucp-sdk · PyPI](https://pypi.org/project/ucp-sdk/)
 	- `pip install ucp-sdk`

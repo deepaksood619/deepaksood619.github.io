@@ -3,7 +3,7 @@ slug: /devops/ides/vscode-vs-code
 title: Essential VSCode Resources and Tips
 description: Explore VSCode debugging, online environments, and tools for effective coding and development in Python and beyond.
 created: 2023-03-05
-updated: 2025-02-15
+updated: 2026-09-08
 ---
 Remove empty lines - `Regex - ^(s)*$`
 
@@ -60,6 +60,7 @@ Remove empty lines - `Regex - ^(s)*$`
 
 - Shift+Option+F - format document
 - CMD + option + z - zen mode
+	- Cmd + K then release and press Z
 - CMD + Shift + D - Duplicate line
 - CMD + B = show hide project view
 - Opt + Shift + O = remove unused migrations

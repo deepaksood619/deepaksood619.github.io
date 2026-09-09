@@ -53,5 +53,5 @@ Confluent acquired WarpStream for **$220 million** in a deal completed on Sept
 - [Confluent acquires WarpStream \| Confluent](https://www.confluent.io/blog/confluent-acquires-warpstream/)
 - [WarpStream is Dead, Long Live WarpStream](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
 - [What is WarpStream by Confluent? (A Lightboard by Tim Berglund) - YouTube](https://www.youtube.com/watch?v=lrD0abLJhYY)
-- [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab)
+- [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab) ⭐ 0
 - [The Art of Being Lazy(log): Lower Latency and Higher Availability With Delayed Sequencing - WarpStream](https://www.warpstream.com/blog/the-art-of-being-lazy-log-lower-latency-and-higher-availability-with-delayed-sequencing)

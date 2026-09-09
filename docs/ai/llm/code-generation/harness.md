@@ -123,7 +123,7 @@ Building blocks that show up repeatedly when implementing a harness rather than 
 - **Browser-automation MCP servers** (Playwright MCP, Puppeteer MCP) - give an evaluator or QA agent the ability to click through a running app as a human tester would, rather than relying on unit/API-level tests alone. Known gap: some MCP browser tools can't see native browser `alert()`/`confirm()` modals, so features that depend on them tend to be under-tested.
 - **Structural/architecture enforcement:** ArchUnit-style structural tests for module-boundary violations, OpenRewrite recipes as computational codemods, semgrep/eslint as fast pre-commit sensors.
 - **Durable execution engines** (Temporal) for enterprise-scale durability - "replay-based fault tolerance" lets a workflow survive API failures, restarts, and deployments without losing progress, and lets a Human-in-the-Loop approval step "sleep" indefinitely without keeping the process alive.
-- **[swarmd](https://github.com/richardartoul/swarmd)** - multi-tenant runtime for running background agents safely; agents are defined in YAML and run as goroutines behind a virtual shell with custom tools.
+- **[swarmd](https://github.com/richardartoul/swarmd) ⭐ 31** - multi-tenant runtime for running background agents safely; agents are defined in YAML and run as goroutines behind a virtual shell with custom tools.
 
 ## Links
 

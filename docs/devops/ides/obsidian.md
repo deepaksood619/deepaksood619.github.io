@@ -141,7 +141,7 @@ Turn notes into study-ready material without leaving Obsidian.
 	- [💎 How Claude + Obsidian + MCP Solved My Organizational Problems](https://www.eleanorkonik.com/p/how-claude-obsidian-mcp-solved-my)
 - [GitHub - memd-app/me.md: AI-guided personal knowledge system. Build a verified knowledge graph of yourself through interview-style sessions with Claude. All data stays local. · GitHub](https://github.com/memd-app/me.md) ⭐ 13
 	- [me.md - Your Verified Personal Context](https://www.me.md/)
-- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 27k
+- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 30k
 
 ### Obsidian Hybrid Search
 

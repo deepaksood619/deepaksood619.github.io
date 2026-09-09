@@ -12,7 +12,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 [GitHub - luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. · GitHub](https://github.com/luongnv89/claude-howto) ⭐ 37k
 
 - [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 93k
+- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 83k
 - [ccusage](https://ccusage.com/)
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
@@ -84,7 +84,7 @@ Structured dev workflow framework with TDD, debugging, planning, and code review
 - writing-plans - Detailed implementation plans
 - verification-before-completion - Ensure fixes work
 
-[GitHub - obra/superpowers](https://github.com/obra/superpowers) ⭐ 282k
+[GitHub - obra/superpowers](https://github.com/obra/superpowers) ⭐ 229k
 
 [Superpowers 6 — Massively Parallel Procrastination](https://blog.fsck.com/2026/06/15/Superpowers-6/)
 
@@ -166,7 +166,7 @@ hermes gateway      # Start messaging gateway
 
 - [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 194k
 - [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
-- [GitHub - nesquena/hermes-webui: Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! · GitHub](https://github.com/nesquena/hermes-webui)
+- [GitHub - nesquena/hermes-webui: Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! · GitHub](https://github.com/nesquena/hermes-webui) ⭐ 15k
 
 ### Comparison: OpenClaw vs Hermes
 
@@ -178,22 +178,22 @@ hermes gateway      # Start messaging gateway
 
 ### Official & Curated
 
-- ​[**Superpowers**](https://github.com/obra/superpowers)**:** A structured dev workflow that forces Claude to brainstorm, plan, and test before writing any code. Useful when you want rigor over speed.
-- ​[**InsForge**](https://github.com/InsForge/InsForge)**:** Semantic backend layer that exposes auth, database, storage, and functions through one agent-friendly API. Think of it as a unified backend for agents.
-- ​[**Bright Data Skills**](https://github.com/brightdata/skills)**:** Teaches Claude to orchestrate 60+ MCP tools for web scraping and structured data extraction. Handles the messy parts of live web access.
-- ​[**Context7**](https://github.com/upstash/context7)**:** MCP server that feeds live, version-specific library docs directly into Claude's context. No more hallucinated APIs from outdated training data.
-- ​[**Claude-Mem**](https://github.com/thedotmack/claude-mem)**:** Persistent memory plugin that auto-captures sessions and reinjects relevant context into future ones. Solves the "Claude forgot everything" problem between sessions.
-- ​[**Everything Claude Code**](https://github.com/affaan-m/everything-claude-code)**:** Curated skills and rules collection with smart token-saving compaction at logical breakpoints. A good starting point if you're building your own `.claude/` setup.
-- ​[**Planning with Files**](https://github.com/OthmanAdi/planning-with-files)**:** Persistent markdown files for planning, progress tracking, and knowledge storage across sessions. Simple approach, surprisingly effective for multi-session projects.
-- ​[**Sentry Security Review**](https://github.com/getsentry/skills)**:** Security review skill built on 15 years of real Sentry patches and Django ORM pitfalls. Catches the kind of bugs that only show up in production.
-- ​[**Frontend Design**](https://github.com/anthropics/claude-quickstarts)**:** Official Anthropic skill for distinctive, non-generic UI output with bold design choices. Ships with Claude Code and pushes past the default "looks like every other AI-generated UI" problem.
-- ​[**Web Quality Skills**](https://github.com/addyosmani/web-quality-skills)**:** Lighthouse and Core Web Vitals optimization for performance, accessibility, and SEO. Bakes web quality checks directly into the agent loop.
-- ​[**n8n-MCP**](https://github.com/czlonkowski/n8n-mcp)**:** MCP server with docs and schemas for all 1,396 n8n automation nodes. If you're building automations with n8n, this gives Claude full visibility into the node catalog.
-- ​[**Claude-Reflect**](https://github.com/BayramAnnakov/claude-reflect)**:** Captures your repeated corrections and turns them into reusable commands with human review. The agent learns your preferences over time instead of making the same mistakes.
-- ​[**cc-DevOps Skills**](https://github.com/akin-ozer/cc-devops-skills)**:** Generator and validator loops for Terraform, Kubernetes, Docker, and CI/CD configs. Generates infra code, then validates it before you apply.
-- ​[**Agent Sandbox**](https://github.com/disler/agent-sandbox-skill)**:** Isolated E2B cloud sandboxes for building, hosting, and testing apps without touching local files. Good for when you want the agent to experiment freely without risk.
-- ​[**Agile Workflow**](https://github.com/levnikolaevich/claude-code-skills)**:** Full agile delivery pipeline with multi-model parallel review via Codex and Gemini agents. Brings structured software delivery practices into the agent workflow.
-- ​[**Claude Code Plugins+**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)**:** Plugin directory with a CLI package manager for searching and installing niche skills. Think npm but for Claude Code skills.
+- ​[**Superpowers**](https://github.com/obra/superpowers) ⭐ 229k**:** A structured dev workflow that forces Claude to brainstorm, plan, and test before writing any code. Useful when you want rigor over speed.
+- ​[**InsForge**](https://github.com/InsForge/InsForge) ⭐ 12k**:** Semantic backend layer that exposes auth, database, storage, and functions through one agent-friendly API. Think of it as a unified backend for agents.
+- ​[**Bright Data Skills**](https://github.com/brightdata/skills) ⭐ 213**:** Teaches Claude to orchestrate 60+ MCP tools for web scraping and structured data extraction. Handles the messy parts of live web access.
+- ​[**Context7**](https://github.com/upstash/context7) ⭐ 58k**:** MCP server that feeds live, version-specific library docs directly into Claude's context. No more hallucinated APIs from outdated training data.
+- ​[**Claude-Mem**](https://github.com/thedotmack/claude-mem) ⭐ 83k**:** Persistent memory plugin that auto-captures sessions and reinjects relevant context into future ones. Solves the "Claude forgot everything" problem between sessions.
+- ​[**Everything Claude Code**](https://github.com/affaan-m/everything-claude-code) ⭐ 216k**:** Curated skills and rules collection with smart token-saving compaction at logical breakpoints. A good starting point if you're building your own `.claude/` setup.
+- ​[**Planning with Files**](https://github.com/OthmanAdi/planning-with-files) ⭐ 24k**:** Persistent markdown files for planning, progress tracking, and knowledge storage across sessions. Simple approach, surprisingly effective for multi-session projects.
+- ​[**Sentry Security Review**](https://github.com/getsentry/skills) ⭐ 807**:** Security review skill built on 15 years of real Sentry patches and Django ORM pitfalls. Catches the kind of bugs that only show up in production.
+- ​[**Frontend Design**](https://github.com/anthropics/claude-quickstarts) ⭐ 17k**:** Official Anthropic skill for distinctive, non-generic UI output with bold design choices. Ships with Claude Code and pushes past the default "looks like every other AI-generated UI" problem.
+- ​[**Web Quality Skills**](https://github.com/addyosmani/web-quality-skills) ⭐ 2.4k**:** Lighthouse and Core Web Vitals optimization for performance, accessibility, and SEO. Bakes web quality checks directly into the agent loop.
+- ​[**n8n-MCP**](https://github.com/czlonkowski/n8n-mcp) ⭐ 22k**:** MCP server with docs and schemas for all 1,396 n8n automation nodes. If you're building automations with n8n, this gives Claude full visibility into the node catalog.
+- ​[**Claude-Reflect**](https://github.com/BayramAnnakov/claude-reflect) ⭐ 1.1k**:** Captures your repeated corrections and turns them into reusable commands with human review. The agent learns your preferences over time instead of making the same mistakes.
+- ​[**cc-DevOps Skills**](https://github.com/akin-ozer/cc-devops-skills) ⭐ 237**:** Generator and validator loops for Terraform, Kubernetes, Docker, and CI/CD configs. Generates infra code, then validates it before you apply.
+- ​[**Agent Sandbox**](https://github.com/disler/agent-sandbox-skill) ⭐ 376**:** Isolated E2B cloud sandboxes for building, hosting, and testing apps without touching local files. Good for when you want the agent to experiment freely without risk.
+- ​[**Agile Workflow**](https://github.com/levnikolaevich/claude-code-skills) ⭐ 499**:** Full agile delivery pipeline with multi-model parallel review via Codex and Gemini agents. Brings structured software delivery practices into the agent workflow.
+- ​[**Claude Code Plugins+**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) ⭐ 2.4k**:** Plugin directory with a CLI package manager for searching and installing niche skills. Think npm but for Claude Code skills.
 - [Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit) ⭐ 1.1k - Quality-focused skills
 
 ### Performance & Efficiency
@@ -241,10 +241,10 @@ hermes gateway      # Start messaging gateway
 
 ### Domain-Specific
 
-- [Sentry Security Review](https://github.com/getsentry/skills) - 15 years of real patches & Django pitfalls
-- [Web Quality Skills](https://github.com/addyosmani/web-quality-skills) - Lighthouse & Core Web Vitals
-- [cc-DevOps Skills](https://github.com/akin-ozer/cc-devops-skills) - Terraform, K8s, Docker, CI/CD
-- [n8n-MCP](https://github.com/czlonkowski/n8n-mcp) - 1,396 n8n automation nodes
+- [Sentry Security Review](https://github.com/getsentry/skills) ⭐ 807 - 15 years of real patches & Django pitfalls
+- [Web Quality Skills](https://github.com/addyosmani/web-quality-skills) ⭐ 2.4k - Lighthouse & Core Web Vitals
+- [cc-DevOps Skills](https://github.com/akin-ozer/cc-devops-skills) ⭐ 237 - Terraform, K8s, Docker, CI/CD
+- [n8n-MCP](https://github.com/czlonkowski/n8n-mcp) ⭐ 22k - 1,396 n8n automation nodes
 
 ### Research & Analysis
 
@@ -267,7 +267,7 @@ hermes gateway      # Start messaging gateway
 
 ### Others / Agents / Skills
 
-- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 250k
+- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 216k
 	- [ECC Tools - Open Agent Harness System for GitHub App Automation and Security](https://ecc.tools/)
 - [Introducing Microsoft Scout: Your always-on personal agent \| Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/)
 - [GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA · GitHub](https://github.com/garrytan/gstack) ⭐ 110k

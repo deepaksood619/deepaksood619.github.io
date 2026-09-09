@@ -213,13 +213,13 @@ updated: 2026-08-08
 - [\[2303.17564\] BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 - [AI4Finance Foundation · GitHub](https://github.com/AI4Finance-Foundation)
 	- [AI4Finance-Foundation.org - FinGPT, FinRobot, FinRL, AI Agent, FinLLMs, Open-Source Libraries](https://ai4finance.org/)
-	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 20k
+	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21k
 	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 7.2k
 
 ## DeepFakes
 
 - [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
-	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 96k
+	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 94k
 - [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
 
 ```bash

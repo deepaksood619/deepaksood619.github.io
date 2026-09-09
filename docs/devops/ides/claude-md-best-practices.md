@@ -612,6 +612,6 @@ When updating CLAUDE.md files:
 
 ## Additional Resources
 
-- [Andrej Karpathy's CLAUDE.md](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/CLAUDE.md) - Single-file approach with 4 core principles
+- [Andrej Karpathy's CLAUDE.md](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/CLAUDE.md) ⭐ 176k - Single-file approach with 4 core principles
 - [Claude Code Documentation](https://code.claude.com/docs) - Official Claude Code docs
 - [CLAUDE.md vs Skills vs Slash Commands](https://www.reddit.com/r/ClaudeAI/comments/1ped515/understanding_claudemd_vs_skills_vs_slash/) - Understanding the differences

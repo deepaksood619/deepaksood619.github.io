@@ -52,7 +52,7 @@ updated: 2026-06-18
 - [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
 - [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam) ⭐ 1.9k
 - [GitHub - comet-ml/opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.](https://github.com/comet-ml/opik) ⭐ 20k
-- [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry) ⭐ 7.2k
+- [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry) ⭐ 7.4k
 - [GitHub - evidentlyai/evidently: Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.](https://github.com/evidentlyai/evidently) ⭐ 7.6k
 - [3 Ways to Monitor Spending on Your OpenAI Account \| Torii](https://www.toriihq.com/articles/how-to-monitor-spending-openai)
 

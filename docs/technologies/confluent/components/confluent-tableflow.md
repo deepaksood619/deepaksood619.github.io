@@ -48,4 +48,4 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 - [Introducing Tableflow: Unifying Streaming and Analytics](https://www.confluent.io/blog/introducing-tableflow/)
 - [Starburst + Confluent Tableflow \| Starburst](https://www.starburst.io/blog/tableflow-confluent-starburst/)
 - [Updates and Deletes \| Apache Iceberg + Tableflow - YouTube](https://www.youtube.com/watch?v=64NKr3kBm-8)
-- [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab)
+- [GitHub - sami2ahmed/ws-tableflow-lab: WarpStream Tableflow workshop lab · GitHub](https://github.com/sami2ahmed/ws-tableflow-lab) ⭐ 0

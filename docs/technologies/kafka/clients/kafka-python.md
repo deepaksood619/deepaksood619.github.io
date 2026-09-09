@@ -72,4 +72,4 @@ The KafkaProducer can be used across threads without issue, unlike the KafkaCons
 
 - [confluent-kafka](technologies/confluent/governance/confluent-kafka.md)
 - [Java Client for Apache Kafka | Confluent Documentation](https://docs.confluent.io/kafka-clients/java/current/overview.html)
-- [GitHub - twmb/franz-go: franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc. · GitHub](https://github.com/twmb/franz-go)
+- [GitHub - twmb/franz-go: franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc. · GitHub](https://github.com/twmb/franz-go) ⭐ 3.1k

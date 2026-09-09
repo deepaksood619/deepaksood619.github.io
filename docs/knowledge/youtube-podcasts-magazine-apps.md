@@ -547,7 +547,7 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
 - Cloudflare DNS: 1.1.1.1
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 118k
-	- [GitHub - iptv-org/awesome-iptv: A curated list of resources related to IPTV · GitHub](https://github.com/iptv-org/awesome-iptv)
+	- [GitHub - iptv-org/awesome-iptv: A curated list of resources related to IPTV · GitHub](https://github.com/iptv-org/awesome-iptv) ⭐ 12k
 - Torrents
     - [Checking Browser Services](https://old-gods.technorozen.workers.dev/1746434002950/home/)
     - https://www.highspeedcdnserver.workers.dev/1763392793140/top-100

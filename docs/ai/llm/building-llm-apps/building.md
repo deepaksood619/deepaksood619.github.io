@@ -35,7 +35,7 @@ updated: 2026-06-18
 
 ## Building
 
-- [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT) ⭐ 59k
+- [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT) ⭐ 63k
 
 ![LLM Working](media/llm-working.jpg)
 
@@ -108,7 +108,7 @@ Something similar is true of LLMs: their ability to perform cognitive tasks grea
 - Langdock
 - LLM Spark
 
-- [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 185k
+- [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187k
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
 - [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 - [GitHub - jerryjliu/llama\_index: **LlamaIndex** (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index) ⭐ 50k
@@ -125,17 +125,17 @@ Something similar is true of LLMs: their ability to perform cognitive tasks grea
 - [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS) ⭐ 46k
 - [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5.8k
 - [AI Development Cloud Platform | Deploy & Manage AI Logic](https://mindsdb.com/)
-- [GitHub - microsoft/autogen: A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ](https://github.com/microsoft/autogen) ⭐ 59k
+- [GitHub - microsoft/autogen: A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ](https://github.com/microsoft/autogen) ⭐ 61k
 - [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI) ⭐ 116k
     - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
-- [GitHub - bentoml/OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) ⭐ 12k
+- [GitHub - bentoml/OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) ⭐ 13k
     - [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/)
 - [GitHub - agiresearch/AIOS: AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS) ⭐ 5.9k
     - [LLM agent operating system (AIOS) and the future of LLM-powered agents | by Simeon Emanuilov | Apr, 2024 | Medium](https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34)
 - [AirLLM Unleashed. Efficiently Running 70B LLM Inference… | by Haribaskar Dhanabalan | Medium](https://medium.com/@haribaskar.dhanabalan/airllm-unleashed-2e32dae74c3d)
 - [GitHub - microsoft/TinyTroupe: LLM-powered multiagent persona simulation for imagination enhancement and business insights.](https://github.com/microsoft/TinyTroupe) ⭐ 7.5k
 - [GitHub - browserbase/stagehand: An AI web browsing framework focused on simplicity and extensibility.](https://github.com/browserbase/stagehand) ⭐ 23k
-- [GitHub - microsoft/semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel) ⭐ 28k
+- [GitHub - microsoft/semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel) ⭐ 29k
 
 ### Ollama / LM Studio
 

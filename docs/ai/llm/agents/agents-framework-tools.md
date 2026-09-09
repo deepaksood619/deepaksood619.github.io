@@ -126,10 +126,10 @@ autogenstudio serve --team=team-config.json --port=5000
 ## Frameworks
 
 - [GitHub - langchain-ai/langchain: The agent engineering platform · GitHub](https://github.com/langchain-ai/langchain) ⭐ 139k
-- [GitHub - microsoft/autogen: A programming framework for agentic AI · GitHub](https://github.com/microsoft/autogen) ⭐ 59k
+- [GitHub - microsoft/autogen: A programming framework for agentic AI · GitHub](https://github.com/microsoft/autogen) ⭐ 61k
 - [GitHub - agno-agi/agno: Build, run, manage agentic software at scale. · GitHub](https://github.com/agno-agi/agno) ⭐ 41k
 - [GitHub - OpenBMB/ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration · GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 33k
-- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs. · GitHub](https://github.com/langchain-ai/langgraph) ⭐ 34k
+- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs. · GitHub](https://github.com/langchain-ai/langgraph) ⭐ 41k
 - [GitHub - huggingface/smolagents: 🤗 smolagents: a barebones library for agents that think in code. · GitHub](https://github.com/huggingface/smolagents) ⭐ 28k
 - [GitHub - mastra-ai/mastra: From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. · GitHub](https://github.com/mastra-ai/mastra) ⭐ 25k
 	- [TypeScript AI Agent Framework & Platform \| Mastra](https://mastra.ai/)

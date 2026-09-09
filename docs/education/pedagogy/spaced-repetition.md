@@ -622,7 +622,7 @@ The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 
 - Wozniak, P. A. (1990). SuperMemo 2 Algorithm. [https://www.supermemo.com/en/archives1990-2015/english/ol/sm2](https://www.supermemo.com/en/archives1990-2015/english/ol/sm2)
 - Wozniak, P. A., & Gorzelanczyk, E. J. (1994). Optimization of repetition spacing in the practice of learning. *Acta Neurobiologiae Experimentalis, 54*, 59-62
-- FSRS Documentation: [https://github.com/open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)
+- FSRS Documentation: [https://github.com/open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) ⭐ 4.0k
 - [Studying - Anki Manual](https://docs.ankiweb.net/studying.html)
 - [Statistics - Anki Manual](https://docs.ankiweb.net/stats.html)
 
@@ -640,7 +640,7 @@ The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 
 ## Generating Flashcards
 
-- [GitHub - jalliet/flashcards: Augment Claude with this skill to help create atomic flashcards from a bank of sources (project ideally) that help you learn based precisely on the science. · GitHub](https://github.com/jalliet/flashcards)
+- [GitHub - jalliet/flashcards: Augment Claude with this skill to help create atomic flashcards from a bank of sources (project ideally) that help you learn based precisely on the science. · GitHub](https://github.com/jalliet/flashcards) ⭐ 12
 - [socialistic.ai](https://socialistic.ai/)
 
 ## Links

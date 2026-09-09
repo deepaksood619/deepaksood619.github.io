@@ -208,6 +208,6 @@ http://localhost:8081/config/Kafka-value
 ## References
 
 - [Schema Registry for Confluent Platform \| Confluent Documentation](https://docs.confluent.io/current/schema-registry/docs/index.html)
-- [GitHub - confluentinc/schema-registry: Confluent Schema Registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2.4k
+- [GitHub - confluentinc/schema-registry: Confluent Schema Registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2.5k
 - [Schema Registry Best Practices](https://www.confluent.io/blog/best-practices-for-confluent-schema-registry/)
 - [Confluent Schema Registry \| Apache Kafka 101 (2025 Edition) - YouTube](https://www.youtube.com/watch?v=RgEoYw6u0sg)

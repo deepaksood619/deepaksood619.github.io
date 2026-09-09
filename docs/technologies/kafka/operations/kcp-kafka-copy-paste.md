@@ -823,13 +823,13 @@ kcp migration execute
 
 The **Connect Migration Utility** is the recommended tool to translate configs to their fully managed equivalents, including some class/version conversions and offset-preservation support.
 
-[GitHub - confluentinc/connect-migration-utility · GitHub](https://github.com/confluentinc/connect-migration-utility/)
+[GitHub - confluentinc/connect-migration-utility · GitHub](https://github.com/confluentinc/connect-migration-utility/) ⭐ 7
 
 [Migrate Kafka Connectors to Fully Managed—Fast](https://www.confluent.io/blog/migrate-self-fully-managed-connectors/)
 
 ## Links
 
-- [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 27 (Kafka Copy Paste)
+- [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 28 (Kafka Copy Paste)
 - [KCP Documentation](https://confluentinc.github.io/kcp/0.8.7/)
 - [Getting Started with Zero-Cut Migrations](https://confluentinc.github.io/kcp/0.8.7/getting-started-with-zero-cut-migrations/)
 - [Demo: Migrate to Confluent Cloud with Kafka Copy Paste (KCP) - YouTube](https://www.youtube.com/watch?v=9EflgaCNzhE)

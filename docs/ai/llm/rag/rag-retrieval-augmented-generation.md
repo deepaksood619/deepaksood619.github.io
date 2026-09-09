@@ -119,7 +119,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GitHub - bitswired/website-to-knowledge-base](https://github.com/bitswired/website-to-knowledge-base) ⭐ 83
 - [GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate](https://github.com/weaviate/Verba) ⭐ 7.7k
 - [GitHub - deepsense-ai/ragbits: Building blocks for rapid development of GenAI applications](https://github.com/deepsense-ai/ragbits) ⭐ 1.6k
-- [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag) ⭐ 2.3k
+- [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag) ⭐ 5.1k
 - [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown) ⭐ 150k
 - **[GitHub - HKUDS/RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything) ⭐ 21k**
 - [GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.](https://github.com/yichuan-w/LEANN) ⭐ 12k
@@ -131,7 +131,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 ### NoCode Tools
 
 - **RAGFlow** - RAGFlow is a RAG engine for deep document understanding! It lets you build enterprise-grade RAG workflows on complex docs with well-founded citations. Supports multimodal data understanding, web search, deep research, etc. 100% open-source with 59k+ stars!
-	- [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow) ⭐ 82k
+	- [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow) ⭐ 90k
 - **xpander** - xpander is a framework-agnostic backend for agents that manages memory, tools, multi-user states, events, guardrails, etc. While it is not a core no-code tool, you can build, test, and deploy Agents by primarily using the UI. Compatible with LlamaIndex, CrewAI, etc.
 	- https://github.com/xpander-ai/xpander.ai
 - **Transformer Lab** - Transformer Lab is an app to experiment with LLMs: - Train, fine-tune, or chat.

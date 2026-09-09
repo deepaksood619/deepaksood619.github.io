@@ -15,9 +15,9 @@ updated: 2026-08-24
     1. https://github.com/lightbend/kafka-lag-exporter
     2. https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
 4. Burrow
-5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop) ⭐ 6.1k
+5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop) ⭐ 6.2k
     1. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
-6. [GitHub - tchiotludo/akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... · GitHub](https://github.com/tchiotludo/akhq)
+6. [GitHub - tchiotludo/akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... · GitHub](https://github.com/tchiotludo/akhq) ⭐ 3.9k
 7. Kafka-UI
     1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui) ⭐ 12k
     2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
@@ -25,7 +25,7 @@ updated: 2026-08-24
 9. Kafka Cruise Control
 10. Kakfa-monitor https://github.com/linkedin/kafka-monitor
 11. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
-12. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks) ⭐ 123
+12. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks) ⭐ 124
 
 [Kafka Administration and Monitoring UI Tools](https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools)
 

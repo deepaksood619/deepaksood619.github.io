@@ -28,7 +28,7 @@ updated: 2026-09-04
 
 - [GPT-6 Astra: A new generation of intelligence \| OpenAI](https://openai.com/index/gpt-6-astra/)
 	- [Ten advances in mathematics and theoretical computer science \| OpenAI](https://openai.com/index/ten-advances-in-mathematics/)
-	- [GitHub - openai/ten-proofs: Lean certificates accompanying ten proofs in mathematics and theoretical computer science · GitHub](https://github.com/openai/ten-proofs)
+	- [GitHub - openai/ten-proofs: Lean certificates accompanying ten proofs in mathematics and theoretical computer science · GitHub](https://github.com/openai/ten-proofs) ⭐ 174
 - [Introducing gpt-oss \| OpenAI](https://openai.com/index/introducing-gpt-oss/)
 	- [GPT-OSS - OpenAI's open source model fixes + long context support is here! 🦥 1. Fixed float16 infinite losses (\>65504 overflows) 2. SWA=128 Flex default uses 129 tokens (extra 1) 3. Fixed MXFP4… \| Daniel Han \| 42 comments](https://www.linkedin.com/posts/danielhanchen_gpt-oss-openais-open-source-model-fixes-activity-7366886695532756992-VyFL)
 	- [Long Context gpt-oss Training \| Unsloth Documentation](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training)
@@ -289,7 +289,7 @@ So... what's the deal with TTMs?
 
 - [Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)
 - gpt-image-1
-- [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 85k
+- [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 122k
 - [Google Vids: AI-powered video creator and editor \| Google Workspace](https://workspace.google.com/products/vids/)
 
 ## HuggingFace
