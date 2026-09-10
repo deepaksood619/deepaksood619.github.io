@@ -43,7 +43,7 @@ Security policies also contain notable differences between the various cloud pro
 - CloudFormation
 - Ansible
 - [Terratest \| Automated tests for your infrastructure code.](https://terratest.gruntwork.io/)
-- [GitHub - pulumi/pulumi: Pulumi - Infrastructure as Code in any programming language 🚀](https://github.com/pulumi/pulumi) ⭐ 25k
+- [GitHub - pulumi/pulumi: Pulumi - Infrastructure as Code in any programming language 🚀](https://github.com/pulumi/pulumi) ⭐ 26k
 	- [Pulumi - Infrastructure as Code in Any Programming Language](https://www.pulumi.com/)
 	- [OpenTofu vs. Terraform \| Pulumi Docs](https://www.pulumi.com/docs/iac/concepts/vs/terraform/opentofu/)
 - [System Initiative](https://www.systeminit.com/)

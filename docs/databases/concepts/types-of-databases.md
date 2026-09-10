@@ -92,22 +92,22 @@ https://rethinkdb.com
 - [DSEGraph](https://www.datastax.com/products/datastax-enterprise-graph)- DataStax graph database with OLTP and OLAP support.
 - [GRAKN.AI](https://grakn.ai/)- Distributed OLTP/OLAP knowledge graph system.
 - [Hadoop (Spark)](https://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer)- OLAP graph processor using Spark.
-- [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 264- OLTP graph database running on Apache HBase.
+- [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 263- OLTP graph database running on Apache HBase.
 - [Huawei Graph Engine Service](https://www.huaweicloud.com/en-us/product/ges.html)- Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
 - IBM Graph- OLTP graph database as a service.
 - [JanusGraph](http://janusgraph.org/)- Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
-- [JanusGraph (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend/) ⭐ 447- The Amazon DynamoDB Storage Backend for JanusGraph.
+- [JanusGraph (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend/) ⭐ 446- The Amazon DynamoDB Storage Backend for JanusGraph.
 	- https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
 - [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) ⭐ 0- OLTP graph database (using Bolt Protocol).
-- [OrientDB](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 96- OLTP graph database
+- [OrientDB](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 97- OLTP graph database
 - [Apache S2Graph](https://s2graph.apache.org/)- OLTP graph database running on Apache HBase.
-- [Sqlg](https://github.com/pietermartin/sqlg) ⭐ 258- OLTP implementation on SQL databases.
+- [Sqlg](https://github.com/pietermartin/sqlg) ⭐ 260- OLTP implementation on SQL databases.
 - [Stardog](https://stardog.com/)- RDF graph database with OLTP and OLAP support.
 - [TinkerGraph](https://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin)- In-memory OLTP and OLAP reference implementation.
 - Titan - Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
-- [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) ⭐ 447- The Amazon DynamoDB storage backend for Titan.
+- [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) ⭐ 446- The Amazon DynamoDB storage backend for Titan.
 - [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend) ⭐ 29- The Tupl storage backend for Titan.
-- [Unipop](https://github.com/rmagen/unipop) ⭐ 208- OLTP Elasticsearch and JDBC backed graph.
+- [Unipop](https://github.com/rmagen/unipop) ⭐ 213- OLTP Elasticsearch and JDBC backed graph.
 - http://tinkerpop.apache.org
 
 Examples

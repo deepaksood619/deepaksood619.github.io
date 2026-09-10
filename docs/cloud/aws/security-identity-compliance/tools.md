@@ -51,9 +51,9 @@ The following cloud providers are currently supported/planned:
 - Alibaba Cloud (alpha)
 - Oracle Cloud Infrastructure (alpha)
 
-[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) ⭐ 7.7k
+[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) ⭐ 7.8k
 
-[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image) ⭐ 7.7k
+[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image) ⭐ 7.8k
 
 ### Running scoutsuite (Download scoutsuite repo)
 
@@ -84,7 +84,7 @@ https://cloudcustodian.io
 
 Security Content Automation Protocol ([SCAP](https://www.open-scap.org/#)) is U.S. standard maintained by National Institute of Standards and Technology ([NIST](https://www.open-scap.org/#)).
 
-[GitHub - OpenSCAP/openscap: NIST Certified SCAP 1.2 toolkit](https://github.com/OpenSCAP/openscap) ⭐ 1.7k
+[GitHub - OpenSCAP/openscap: NIST Certified SCAP 1.2 toolkit](https://github.com/OpenSCAP/openscap) ⭐ 1.8k
 
 ## Trivy
 
@@ -107,7 +107,7 @@ Scanners (what Trivy can find there):
 - Sensitive information and secrets
 - Software licenses
 
-[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 36k
+[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 38k
 
 [Trivy Home - Trivy](https://trivy.dev/)
 
@@ -135,7 +135,7 @@ Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secrets l
 
 [Gitleaks](https://gitleaks.io/)
 
-[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks) ⭐ 28k
+[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks) ⭐ 29k
 
 ## Others
 

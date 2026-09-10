@@ -134,9 +134,9 @@ https://www.ferretdb.io - A truly Open Source MongoDB alternative
 ## References
 
 - https://www.tutorialspoint.com/mongodb
-- [GitHub - mongodb/mongo: The MongoDB Database · GitHub](https://github.com/mongodb/mongo) ⭐ 28k
+- [GitHub - mongodb/mongo: The MongoDB Database · GitHub](https://github.com/mongodb/mongo) ⭐ 29k
 - https://www.toptal.com/mongodb/interview-questions
-- [GitHub - ramnes/awesome-mongodb: :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications · GitHub](https://github.com/ramnes/awesome-mongodb) ⭐ 2.6k
+- [GitHub - ramnes/awesome-mongodb: :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications · GitHub](https://github.com/ramnes/awesome-mongodb) ⭐ 2.7k
 - [**https://university.mongodb.com/**](https://university.mongodb.com/)
 - [**https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d**](https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d)
 - [MongoDB Internal Architecture](https://www.youtube.com/watch?v=ONzdr4SmOng)

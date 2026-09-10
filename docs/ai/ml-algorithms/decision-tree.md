@@ -307,4 +307,4 @@ https://towardsdatascience.com/decision-tree-ba64f977f7c3
 
 ## Links
 
-- [GitHub - mljar/supertree: Visualize decision trees in Python](https://github.com/mljar/supertree) ⭐ 569
+- [GitHub - mljar/supertree: Visualize decision trees in Python](https://github.com/mljar/supertree) ⭐ 685

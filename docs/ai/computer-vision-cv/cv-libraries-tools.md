@@ -68,7 +68,7 @@ https://developers.google.com/ml-kit/vision/face-detection
 
 https://github.com/ipazc/mtcnn
 
-[**GitHub - ageitgey/face_recognition**: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition) ⭐ 56k
+[**GitHub - ageitgey/face_recognition**: The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition) ⭐ 57k
 
 https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv
 
@@ -216,4 +216,4 @@ Spatial-level transforms will simultaneously change both an input image as well 
 
 ## Others
 
-- [GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 36k
+- [GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 37k

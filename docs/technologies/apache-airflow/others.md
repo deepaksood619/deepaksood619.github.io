@@ -155,7 +155,7 @@ While **Apache Kafka**, combined with stream processing, can act as a **workf
 ### Links
 
 - [Open Source Durable Execution | Temporal Technologies](https://temporal.io/)
-- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 21k
+- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 23k
 - [Getting to know Temporal - YouTube](https://www.youtube.com/watch?v=wIpz4ioK0gI)
 - [Documentation | Temporal Documentation](https://docs.temporal.io/)
 - [Temporal Web UI | Temporal Documentation](https://docs.temporal.io/web-ui)
@@ -170,10 +170,10 @@ While **Apache Kafka**, combined with stream processing, can act as a **workf
 
 ## Mage.ai
 
-- [GitHub - mage-ai/mage-ai: 🧙 Build, run, and manage data pipelines for integrating and transforming data.](https://github.com/mage-ai/mage-ai) ⭐ 8.7k - 8K stars
+- [GitHub - mage-ai/mage-ai: 🧙 Build, run, and manage data pipelines for integrating and transforming data.](https://github.com/mage-ai/mage-ai) ⭐ 8.8k - 8K stars
 - [Give your data team magical powers | Mage](https://www.mage.ai/)
 - [The Airflow alternative worth checking out: Mage.ai - YouTube](https://www.youtube.com/watch?v=3gXsFEC3aYA)
-- [mage-ai/mage\_integrations/mage\_integrations/destinations/bigquery/README.md at master · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/blob/master/mage_integrations/mage_integrations/destinations/bigquery/README.md) ⭐ 8.7k
+- [mage-ai/mage\_integrations/mage\_integrations/destinations/bigquery/README.md at master · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/blob/master/mage_integrations/mage_integrations/destinations/bigquery/README.md) ⭐ 8.8k
 - [\[BUG\] Pipelines stuck due to high CPU usage of Mage scheduler · Issue #5345 · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/issues/5345)
 - [Multi-Tenant Foundation for Data Mesh Excellence in Mage Pro - Magical workflows for data engineering – Mage AI](https://www.mage.ai/events/multi-tenant-foundation-for-data-mesh-excellence-in-mage-pro)
 - [Mage tips & tricks - Mage AI](https://docs.mage.ai/guides/tips-and-tricks)
@@ -188,7 +188,7 @@ The infinitely scalable and flexible workflow orchestration platform that seamle
 Flyte is an open-source orchestrator that facilitates building production-grade data and ML pipelines. It is built for scalability and reproducibility, leveraging Kubernetes as its underlying platform. With Flyte, user teams can construct pipelines using the Python SDK, and seamlessly deploy them on both cloud and on-premises environments, enabling distributed processing and efficient resource utilization.
 
 - [Build production-grade data and ML workflows, hassle-free with Flyte](https://flyte.org/)
-- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 7.1k
+- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 7.4k
 - [Flyte School: A Practical Introduction to Machine Learning Orchestration - YouTube](https://www.youtube.com/watch?v=0cP9pLLeqT4)
 - [Self-serve Feature Engineering Platform Using Flyte and Feast - Ketan Umare, & Felix Wang, - YouTube](https://www.youtube.com/watch?v=Km2ii0F8Yl0)
 - [Flyte: Production-Grade Data and Machine Learning Orchestration - Shivay Lamba & Ekansh Gupta - YouTube](https://www.youtube.com/watch?v=7ZDFhZ4hut0)
@@ -228,7 +228,7 @@ The leading data integration platform for ETL / ELT data pipelines from APIs, da
 
 Ultimate vision is to help you move data from any source to any destination. Airbyte already provides the largest [catalog](https://docs.airbyte.com/integrations/) of 300+ connectors for APIs, databases, data warehouses, and data lakes.
 
-[GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte) ⭐ 21k
+[GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte) ⭐ 22k
 
 [Airbyte | Open-Source Data Integration Platform | ELT tool](https://airbyte.com/)
 

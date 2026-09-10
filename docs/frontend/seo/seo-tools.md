@@ -5,9 +5,9 @@ description: Discover a curated list of essential SEO tools, including Google re
 created: 2024-12-03
 updated: 2026-06-11
 ---
-- [GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 989
+- [GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 1.1k
 	- [Awesome SEO tools list](https://seotoolslist.org/#/)
-- [GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo) ⭐ 2.7k
+- [GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo) ⭐ 2.8k
 - [Moz - Google Algorithm Update History](https://moz.com/google-algorithm-change)
 
 ## Google Tools

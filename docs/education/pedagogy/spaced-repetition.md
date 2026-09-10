@@ -640,7 +640,7 @@ The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 
 ## Generating Flashcards
 
-- [GitHub - jalliet/flashcards: Augment Claude with this skill to help create atomic flashcards from a bank of sources (project ideally) that help you learn based precisely on the science. · GitHub](https://github.com/jalliet/flashcards) ⭐ 12
+- [GitHub - jalliet/flashcards: Augment Claude with this skill to help create atomic flashcards from a bank of sources (project ideally) that help you learn based precisely on the science. · GitHub](https://github.com/jalliet/flashcards) ⭐ 15
 - [socialistic.ai](https://socialistic.ai/)
 
 ## Links

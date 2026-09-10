@@ -59,7 +59,7 @@ The fix forward method works best when changes are broken into small chunks that
 - [alembic](python/others/sqlalchemy/alembic.md)
 - Flyway - [MySQL Database Migration Tool | Version Control | Flyway](https://flywaydb.org/mysql)
 	- Flyway is good and simpler than Liquibase
-- Dbmate (database migration tool, allowing users to keep its database schema in sync with multiple developers and the production servers - Supports MySQL, PostgreSQL, SQLite, and ClickHouse) - [GitHub - amacneil/dbmate: :rocket: A lightweight, framework-agnostic database migration tool.](https://github.com/amacneil/dbmate) ⭐ 6.9k
+- Dbmate (database migration tool, allowing users to keep its database schema in sync with multiple developers and the production servers - Supports MySQL, PostgreSQL, SQLite, and ClickHouse) - [GitHub - amacneil/dbmate: :rocket: A lightweight, framework-agnostic database migration tool.](https://github.com/amacneil/dbmate) ⭐ 7.3k
 - Apache NiFi
 - rsync
 - Data migration tool (DM) by TiDB is an open-source tool
@@ -67,8 +67,8 @@ The fix forward method works best when changes are broken into small chunks that
 - Ladder
 - [Atlas | Open-source database schema management tool](https://atlasgo.io/) - manage your database schema as code
 - [SchemaHero - A modern approach to database schema migrations](https://schemahero.io/)
-	- [GitHub - schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero) ⭐ 1.1k
-- [GitHub - sqlpipe/sqlpipe: SQLpipe makes it easy to move the result of one query from one database to another.](https://github.com/sqlpipe/sqlpipe) ⭐ 106
+	- [GitHub - schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero) ⭐ 1.2k
+- [GitHub - sqlpipe/sqlpipe: SQLpipe makes it easy to move the result of one query from one database to another.](https://github.com/sqlpipe/sqlpipe) ⭐ 108
 	- [SQLpipe \| Data engineering tools and services](https://www.sqlpipe.com/)
 
 [10 Best Open Source Database Migration Tools](https://wisdomplexus.com/blogs/open-source-database-migration-tools/)

@@ -27,7 +27,7 @@ Devtron is designed to be modular, and its functionality can be easily extended 
 
 ##### CI/CD Integration
 
-[Devtron CI/CD with GitOps](https://github.com/devtron-labs/devtron#install-devtron-with-cicd-integration) ⭐ 5.5k integration is used to automate the builds and deployments and enables the software development teams to focus on meeting the business requirements, code quality, and security.
+[Devtron CI/CD with GitOps](https://github.com/devtron-labs/devtron#install-devtron-with-cicd-integration) ⭐ 5.6k integration is used to automate the builds and deployments and enables the software development teams to focus on meeting the business requirements, code quality, and security.
 
 - Devtron leverages Kubernetes auto-scaling and centralized caching to give you unlimited cost-efficient CI workers.
 - Supports pre-CI and post-CI integrations for code quality monitoring.
@@ -41,11 +41,11 @@ Devtron is designed to be modular, and its functionality can be easily extended 
 
 #### Architecture
 
-![image](https://github.com/devtron-labs/devtron/raw/main/assets/Architecture.jpg) ⭐ 5.5k
+![image](https://github.com/devtron-labs/devtron/raw/main/assets/Architecture.jpg) ⭐ 5.6k
 
 [Devtron | A Software Platform for Kubernetes Application Management](https://devtron.ai/)
 
-[GitHub - devtron-labs/devtron: Tool integration platform for Kubernetes](https://github.com/devtron-labs/devtron) ⭐ 5.5k
+[GitHub - devtron-labs/devtron: Tool integration platform for Kubernetes](https://github.com/devtron-labs/devtron) ⭐ 5.6k
 
 [Devtron Full Platform Walkthrough - August 2023 - YouTube](https://www.youtube.com/watch?v=_CjYBSKCog0&ab_channel=Devtron)
 

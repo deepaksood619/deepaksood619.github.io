@@ -988,7 +988,7 @@ spec:
 
 ### Community
 
-- [GitHub](https://github.com/argoproj/argo-cd) ⭐ 23k
+- [GitHub](https://github.com/argoproj/argo-cd) ⭐ 24k
 - [Slack](https://argoproj.github.io/community/join-slack)
 - [CNCF Landscape](https://landscape.cncf.io/)
 

@@ -11,6 +11,6 @@ updated: 2026-06-11
 
 ## TUF - The Update Framework
 
-The Update Framework (TUF) helps developers maintain the security of software update systems, providing protection even against attackers that compromise the repository or signing keys. TUF provides a flexible framework and [specification](https://github.com/theupdateframework/specification/blob/master/tuf-spec#the-update-framework-specification) ⭐ 399 that developers can adopt into any software update system.
+The Update Framework (TUF) helps developers maintain the security of software update systems, providing protection even against attackers that compromise the repository or signing keys. TUF provides a flexible framework and [specification](https://github.com/theupdateframework/specification/blob/master/tuf-spec#the-update-framework-specification) ⭐ 404 that developers can adopt into any software update system.
 
 https://theupdateframework.io

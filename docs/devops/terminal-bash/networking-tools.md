@@ -26,7 +26,7 @@ https://haydenjames.io/linux-networking-commands-scripts
 15. [ifstat](http://gael.roualland.free.fr/ifstat/)--report network interfaces bandwidth.
 16. [iftop](http://www.ex-parrot.com/pdw/iftop/)-- display bandwidth usage.
 17. [ip](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)(PDF file) --acommandwith more features that ifconfig (net-tools).
-18. [iperf3](https://github.com/esnet/iperf) ⭐ 8.5k-- network bandwidth measurement tool
+18. [iperf3](https://github.com/esnet/iperf) ⭐ 8.7k-- network bandwidth measurement tool
 19. [iproute2](https://wiki.linuxfoundation.org/networking/iproute2)--collection of utilities for controllingTCP/IP.
 20. [iptables](https://netfilter.org/)-- take control of network traffic.
 21. [IPTraf](http://iptraf.seul.org/)-- An IP Network Monitor.
@@ -38,8 +38,8 @@ https://haydenjames.io/linux-networking-commands-scripts
 27. [net-tools](http://net-tools.sourceforge.net/)-- utilities include: arp, hostname, ifconfig, [netstat](http://net-tools.sourceforge.net/man/netstat.8.html), rarp, route, plipconfig, slattach, mii-tool, iptunnel and ipmaddr.
 28. [ncat](https://nmap.org/ncat/)--improved re-implementation of the venerable netcat.
 29. [netcat](http://nc110.sourceforge.net/)-- networking utility for reading/writing network connections.
-30. [nethogs](https://github.com/raboof/nethogs) ⭐ 3.6k--a small 'net top' tool.
-31. [Netperf](https://github.com/HewlettPackard/netperf) ⭐ 964-- Network bandwidth Testing.
+30. [nethogs](https://github.com/raboof/nethogs) ⭐ 3.7k--a small 'net top' tool.
+31. [Netperf](https://github.com/HewlettPackard/netperf) ⭐ 977-- Network bandwidth Testing.
 32. [netplan](https://netplan.io/)--Netplan is a utility for easily configuring networking on a linux system.
 33. [netsniff-ng](http://netsniff-ng.org/)-- Swiss army knife for daily Linux network plumbing.
 34. [netwatch](http://www.slctech.org/~mackay/NETWATCH/netwatch.html)--monitoring Network Connections.
@@ -51,7 +51,7 @@ https://haydenjames.io/linux-networking-commands-scripts
 40. [nslookup](https://en.wikipedia.org/wiki/Nslookup)--query Internet name servers interactively.
 41. [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility))--send icmp echo_request to network hosts.
 42. [route](https://en.wikipedia.org/wiki/Route_(command))--show / manipulate the IP routing table.
-43. [slurm](https://github.com/mattthias/slurm) ⭐ 425-- network load monitor.
+43. [slurm](https://github.com/mattthias/slurm) ⭐ 423-- network load monitor.
 44. [snort](https://www.snort.org/)-- Network Intrusion Detection and Prevention System.
 45. [smokeping](https://oss.oetiker.ch/smokeping/)--keeps track of your network latency.
 46. [socat](http://www.dest-unreach.org/socat/)--establishes two bidirectional byte streams and transfers data between them.
@@ -67,7 +67,7 @@ https://haydenjames.io/linux-networking-commands-scripts
 54. [tracepath](https://linux.die.net/man/8/tracepath)--very similar function to traceroute.
 55. [traceroute](http://traceroute.sourceforge.net/)--print the route packets trace to network host.
 56. [vnStat](https://humdi.net/vnstat/)-- network traffic monitor.
-57. [websocat](https://github.com/vi/websocat) ⭐ 8.5k-- Connection forwarder from/to web sockets to/from usual sockets, in style of socat.
+57. [websocat](https://github.com/vi/websocat) ⭐ 8.7k-- Connection forwarder from/to web sockets to/from usual sockets, in style of socat.
 58. [wget](https://www.gnu.org/software/wget/)--retrieving files using HTTP, HTTPS, FTP and FTPS.
 59. [Wireless Tools for Linux](https://hewlettpackard.github.io/wireless-tools/Tools.html)-- includesiwconfig, iwlist, iwspy, iwpriv andifrename.
 60. [Wireshark](https://www.wireshark.org/)--network protocol analyzer.

@@ -67,12 +67,12 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 1. devops-exercises (67.9k⭐)
 	- Extensive practice with Linux, AWS, Docker, K8s
 	- 2600+ hands-on exercises & scenarios
-	- [GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions](https://github.com/bregman-arie/devops-exercises) ⭐ 83k
+	- [GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions](https://github.com/bregman-arie/devops-exercises) ⭐ 84k
 
 2. DevOps Interview Guide
 	- Cloud & DevOps specific scenarios
 	- Certification preparation resources
-	- [GitHub - ramanagali/Interview\_Guide: Interview, Certification preparation guide for Cloud DevOps professionals](https://github.com/ramanagali/Interview_Guide) ⭐ 647
+	- [GitHub - ramanagali/Interview\_Guide: Interview, Certification preparation guide for Cloud DevOps professionals](https://github.com/ramanagali/Interview_Guide) ⭐ 671
 
 3. DevOps Projects by NotHarshhaa
 	- Real-world project implementations
@@ -82,12 +82,12 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 4. DevOps Interview Questions
 	- Comprehensive question bank
 	- Latest industry practices covered
-	- [GitHub - rohitg00/devops-interview-questions: Creating this repository as a central hub for all DevOps interview questions to help you land your next job.](https://github.com/rohitg00/devops-interview-questions) ⭐ 1.9k
+	- [GitHub - rohitg00/devops-interview-questions: Creating this repository as a central hub for all DevOps interview questions to help you land your next job.](https://github.com/rohitg00/devops-interview-questions) ⭐ 2.0k
 
 5. Cloud-DevOps Learning Resources
 	- Free courses & tutorials
 	- Community contributed resources
-	- [GitHub - ahmedtariq01/Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) ⭐ 1.9k
+	- [GitHub - ahmedtariq01/Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) ⭐ 2.0k
 
 [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 

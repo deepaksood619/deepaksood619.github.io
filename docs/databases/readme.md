@@ -30,7 +30,7 @@ updated: 2026-06-25
 
 ## Links
 
-- [GitHub - mgramin/awesome-db-tools: Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools) ⭐ 5.1k
+- [GitHub - mgramin/awesome-db-tools: Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools) ⭐ 5.3k
 - [GitHub - shlomi-noach/awesome-mysql: A curated list of awesome MySQL software, libraries, tools and resources](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2.6k
-- [GitHub - Releem/awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance) ⭐ 542
-- [GitHub - agarcialeon/awesome-database: A curated list of amazingly awesome database libraries, resources.](https://github.com/agarcialeon/awesome-database) ⭐ 235
+- [GitHub - Releem/awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance) ⭐ 543
+- [GitHub - agarcialeon/awesome-database: A curated list of amazingly awesome database libraries, resources.](https://github.com/agarcialeon/awesome-database) ⭐ 240

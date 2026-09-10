@@ -109,7 +109,7 @@ Applications like "Deep Research", "Manus", and "Claude Code" have gotten around
 
 `deepagents` is a Python package that implements these in a general purpose way so that you can easily create a Deep Agent for your application.
 
-[GitHub - langchain-ai/deepagents: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. · GitHub](https://github.com/langchain-ai/deepagents) ⭐ 24k
+[GitHub - langchain-ai/deepagents: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. · GitHub](https://github.com/langchain-ai/deepagents) ⭐ 29k
 
 [deepagents \| LangChain Reference](https://reference.langchain.com/python/deepagents)
 
@@ -123,7 +123,7 @@ Building blocks that show up repeatedly when implementing a harness rather than 
 - **Browser-automation MCP servers** (Playwright MCP, Puppeteer MCP) - give an evaluator or QA agent the ability to click through a running app as a human tester would, rather than relying on unit/API-level tests alone. Known gap: some MCP browser tools can't see native browser `alert()`/`confirm()` modals, so features that depend on them tend to be under-tested.
 - **Structural/architecture enforcement:** ArchUnit-style structural tests for module-boundary violations, OpenRewrite recipes as computational codemods, semgrep/eslint as fast pre-commit sensors.
 - **Durable execution engines** (Temporal) for enterprise-scale durability - "replay-based fault tolerance" lets a workflow survive API failures, restarts, and deployments without losing progress, and lets a Human-in-the-Loop approval step "sleep" indefinitely without keeping the process alive.
-- **[swarmd](https://github.com/richardartoul/swarmd) ⭐ 31** - multi-tenant runtime for running background agents safely; agents are defined in YAML and run as goroutines behind a virtual shell with custom tools.
+- **[swarmd](https://github.com/richardartoul/swarmd) ⭐ 32** - multi-tenant runtime for running background agents safely; agents are defined in YAML and run as goroutines behind a virtual shell with custom tools.
 
 ## Links
 
@@ -133,6 +133,6 @@ Building blocks that show up repeatedly when implementing a harness rather than 
 - [What is AI Harness Engineering? Your Guide to Controlling Autonomous Systems \| by Mohit Sewak, Ph.D. \| Be Open - Writers & Readers Pub \| Mar, 2026 \| Medium](https://medium.com/be-open/what-is-ai-harness-engineering-your-guide-to-controlling-autonomous-systems-30c9c8d2b489)
 - [Harness Engineering: Turning AI Agents Into Reliable Engineers](https://www.reddit.com/r/ArtificialInteligence/comments/1sc3m1t/harness_engineering_turning_ai_agents_into/)
 - [Harness capabilities - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/harness)
-- [GitHub - richardartoul/swarmd: \`swarmd\` is a multi-tenant runtime for running background Agents in a safe and secure manner. Agents are defined in YAML and run as goroutines in a multi-tenant server with a virtual shell and custom tools. · GitHub](https://github.com/richardartoul/swarmd) ⭐ 31
+- [GitHub - richardartoul/swarmd: \`swarmd\` is a multi-tenant runtime for running background Agents in a safe and secure manner. Agents are defined in YAML and run as goroutines in a multi-tenant server with a virtual shell and custom tools. · GitHub](https://github.com/richardartoul/swarmd) ⭐ 32
 - [Architectural fitness function - ThoughtWorks Technology Radar](https://www.thoughtworks.com/en-de/radar/techniques/architectural-fitness-function)
 - [Approved Fixtures pattern](https://lexler.github.io/augmented-coding-patterns/patterns/approved-fixtures/)

@@ -615,7 +615,7 @@ act -s GITHUB_TOKEN=$GITHUB_TOKEN
 act workflow_dispatch -e event.json
 ```
 
-**Reference:** [nektos/act](https://github.com/nektos/act) ⭐ 71k
+**Reference:** [nektos/act](https://github.com/nektos/act) ⭐ 72k
 
 ## Performance Optimization
 
@@ -838,15 +838,15 @@ jobs:
 ### Marketplace Actions
 
 - [Setup Node.js](https://github.com/marketplace/actions/setup-node-js-environment)
-- [GitHub Pages Deploy](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.3k
+- [GitHub Pages Deploy](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.4k
 - [Checkout](https://github.com/marketplace/actions/checkout)
 - [Retry Step](https://github.com/marketplace/actions/retry-step)
 - [Lighthouse CI](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [Proof HTML](https://github.com/anishathalye/proof-html) ⭐ 123
+- [Proof HTML](https://github.com/anishathalye/proof-html) ⭐ 135
 
 ### Tools
 
-- [act - Run locally](https://github.com/nektos/act) ⭐ 71k
+- [act - Run locally](https://github.com/nektos/act) ⭐ 72k
 - [Blacksmith - Faster runners](https://blacksmith.sh/)
 - [Actions Toolkit](https://github.com/actions/toolkit) ⭐ 5.8k
 - [Azure K8s Actions](https://github.com/Azure/k8s-actions) ⭐ 114
@@ -872,12 +872,12 @@ jobs:
 ### Github Actions - [Marketplace](https://github.com/marketplace)
 
 - [Setup Node.js environment - GitHub Marketplace](https://github.com/marketplace/actions/setup-node-js-environment)
-- [GitHub - peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.3k
+- [GitHub - peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.4k
 - [Checkout - GitHub Marketplace](https://github.com/marketplace/actions/checkout)
 - [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
 - [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
 - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 123
+- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 135
 
 **Run github actions locally**
 

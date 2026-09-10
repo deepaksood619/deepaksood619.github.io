@@ -150,12 +150,12 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 ## Others
 
 - Clickhouse Cloud Limits - [Usage limits \| ClickHouse Docs](https://clickhouse.com/docs/cloud/bestpractices/usage-limits)
-- [GitHub - Altinity/clickhouse-operator: Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes](https://github.com/Altinity/clickhouse-operator) ⭐ 2.5k
+- [GitHub - Altinity/clickhouse-operator: Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes](https://github.com/Altinity/clickhouse-operator) ⭐ 2.6k
 
 ## Links
 
 - [Fast Open-Source OLAP DBMS - ClickHouse](https://clickhouse.com/)
-- [GitHub - ClickHouse/ClickHouse: ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse) ⭐ 48k
+- [GitHub - ClickHouse/ClickHouse: ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse) ⭐ 50k
 - [ClickHouse - YouTube](https://www.youtube.com/c/ClickHouseDB)
 - [What Is ClickHouse? | ClickHouse Docs](https://clickhouse.com/docs/en/intro)
 - [Getting Started with ClickHouse](https://clickhouse.com/company/events/getting-started-with-clickhouse?loc=getting-started)

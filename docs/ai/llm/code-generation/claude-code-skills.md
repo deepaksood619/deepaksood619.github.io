@@ -200,9 +200,9 @@ EOF
 
 **Skill resources:**
 
-- [Superpowers Skills Framework](https://github.com/obra/superpowers) ⭐ 229k
-- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 216k
-- [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 13k
+- [Superpowers Skills Framework](https://github.com/obra/superpowers) ⭐ 284k
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 255k
+- [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 15k
 - [Agent Skills Marketplace](https://skillsmp.com/)
 
 ## Prompt to install skill

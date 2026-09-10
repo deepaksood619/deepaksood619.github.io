@@ -7,7 +7,7 @@ updated: 2026-06-23
 ---
 - Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
 - An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
-- [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent) ⭐ 208
+- [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent) ⭐ 211
 - [Building LLM Agents with Tool Use - YouTube](https://youtu.be/5drn2DO7gNY)
 - [AI Agents Are Changing AWS Cost Prediction - YouTube](https://youtu.be/_cjuQlc62uc)
 
@@ -122,7 +122,7 @@ The benefits are real — better output quality, independent improvability of ea
 - [Mixture-of-Agents (MoA): A Breakthrough in LLM Performance - MarkTechPost](https://www.marktechpost.com/2025/08/09/mixture-of-agents-moa-a-breakthrough-in-llm-performance/)
 - [Design Systems And AI: Why MCP Servers Are The Unlock \| Figma Blog](https://www.figma.com/blog/design-systems-ai-mcp/)
 - [Agentic Systems 101: Fundamentals, Building Blocks, and How to Build Them (Part A)](https://www.dailydoseofds.com/ai-agents-crash-course-part-1-with-implementation/)
-	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 36k
+	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 37k
 
 ## Links
 
@@ -131,4 +131,4 @@ The benefits are real — better output quality, independent improvability of ea
 - [event-driven-multi-agent-systems](ai/llm/agents/event-driven-multi-agent-systems.md)
 - [langgraph-vs-semantic-kernel](ai/llm/agents/langgraph-vs-semantic-kernel.md)
 - [frontend-ui-frameworks-libraries](ai/llm/agents/frontend-ui-frameworks-libraries.md)
-- [GitHub - context-labs/HALO: Hierarchal Agent Loop Optimizer · GitHub](https://github.com/context-labs/halo) ⭐ 898
+- [GitHub - context-labs/HALO: Hierarchal Agent Loop Optimizer · GitHub](https://github.com/context-labs/halo) ⭐ 1.2k

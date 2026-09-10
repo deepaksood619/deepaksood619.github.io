@@ -152,4 +152,4 @@ updated: 2026-06-17
 
 ## Links
 
-- [GitHub - open-spaced-repetition/ts-fsrs: ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. · GitHub](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 691
+- [GitHub - open-spaced-repetition/ts-fsrs: ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. · GitHub](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 778

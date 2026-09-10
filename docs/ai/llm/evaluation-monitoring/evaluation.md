@@ -6,29 +6,29 @@ created: 2026-06-18
 updated: 2026-08-22
 ---
 - [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals) ⭐ 19k
-- [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 16k - a simple-to-use, open-source evaluation framework for LLM applications.
+- [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 18k - a simple-to-use, open-source evaluation framework for LLM applications.
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
 - [Evaluating LLM Models: A Guide to Popular Frameworks](https://medium.com/@abhghoshsgp/evaluating-llm-models-a-guide-to-popular-frameworks-59f236542d46)
 	- [MLflow LLM Evaluation (Legacy) \| MLflow](https://mlflow.org/docs/latest/genai/eval-monitor/llm-evaluation)
-	- [GitHub - explodinggradients/ragas: Supercharge Your LLM Application Evaluations 🚀](https://github.com/explodinggradients/ragas) ⭐ 14k
+	- [GitHub - explodinggradients/ragas: Supercharge Your LLM Application Evaluations 🚀](https://github.com/explodinggradients/ragas) ⭐ 16k
 	- [Model Evaluation Suite Quickstart — Deepchecks Documentation](https://docs.deepchecks.com/en/stable/tabular/auto_tutorials/quickstarts/plot_quick_model_evaluation.html)
 	- [GitHub - Arize-ai/phoenix: AI Observability & Evaluation](https://github.com/Arize-ai/phoenix) ⭐ 11k
 	- [TruLens for LLMs](https://www.trulens.org/)
 - [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval) ⭐ 2.0k
 - [Eureka: OSS Framework to evaluate LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/eureka-oss-framework-to-evaluate)
 - [The Needle In a Haystack Test. Evaluating the performance of RAG… | by Aparna Dhinakaran | Towards Data Science](https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38)
-	- [GitHub - gkamradt/LLMTest\_NeedleInAHaystack: Doing simple retrieval from LLM models at various context lengths to measure accuracy](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) ⭐ 2.3k
+	- [GitHub - gkamradt/LLMTest\_NeedleInAHaystack: Doing simple retrieval from LLM models at various context lengths to measure accuracy](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) ⭐ 2.4k
 	- [The Needle In a Haystack Test: Evaluating the Performance of LLM RAG Systems - Arize AI](https://arize.com/blog-course/the-needle-in-a-haystack-test-evaluating-the-performance-of-llm-rag-systems/)
 	- [Unlocking precision: The "Needle-in-a-Haystack" test for LLM evaluation](https://labelbox.com/guides/unlocking-precision-the-needle-in-a-haystack-test-for-llm-evaluation/)
 	- [The Needle in the Haystack Test and How Gemini Pro Solves It | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it)
 - [GitHub - huggingface/evaluation-guidebook: Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!](https://github.com/huggingface/evaluation-guidebook) ⭐ 2.1k
-- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) ⭐ 191 - a tool to evaluate the robustness of language models.
-- [**ragas**](https://github.com/explodinggradients/ragas) ⭐ 14k - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
+- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) ⭐ 196 - a tool to evaluate the robustness of language models.
+- [**ragas**](https://github.com/explodinggradients/ragas) ⭐ 16k - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps
 	- [Evaluating RAG Applications with RAGAs | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
-- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) ⭐ 326 - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
-- [GitHub - langchain-ai/openevals: Readymade evaluators for your LLM apps · GitHub](https://github.com/langchain-ai/openevals) ⭐ 1.1k
-- [GitHub - strands-agents/evals: A comprehensive evaluation framework for AI agents and LLM applications. · GitHub](https://github.com/strands-agents/evals) ⭐ 136
+- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) ⭐ 327 - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
+- [GitHub - langchain-ai/openevals: Readymade evaluators for your LLM apps · GitHub](https://github.com/langchain-ai/openevals) ⭐ 1.2k
+- [GitHub - strands-agents/evals: A comprehensive evaluation framework for AI agents and LLM applications. · GitHub](https://github.com/strands-agents/evals) ⭐ 191
 - [AutoEval](https://auto-eval.github.io/)
 -
 
@@ -84,8 +84,8 @@ Groundedness evaluation in Large Language Models (LLMs)—often referred to as f
 
 ### Common RAG Evaluation Frameworks & Tools
 
-- [**Ragas**](https://github.com/explodinggradients/ragas) ⭐ 14k - Popular framework for evaluating RAG systems
-- [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 16k - Tool for testing faithfulness and other metrics
+- [**Ragas**](https://github.com/explodinggradients/ragas) ⭐ 16k - Popular framework for evaluating RAG systems
+- [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 18k - Tool for testing faithfulness and other metrics
 - [**Haystack**](https://docs.haystack.deepset.ai/) - Features a FaithfulnessEvaluator node
 - [**IBM Watsonx**](https://www.ibm.com/watsonx) - Provides tools for AI governance and evaluation
 

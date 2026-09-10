@@ -71,7 +71,7 @@ https://www.toptal.com/python/topic-modeling-python
 [Topic modeling](https://en.wikipedia.org/wiki/Topic_modeling) is a related problem, where a program is given a list of [human language](https://en.wikipedia.org/wiki/Natural_language) documents and is tasked with finding out which documents cover similar topics.
 
 - [Extract Topics From Video/Audio With LLMs (Topic Modeling w/ LangChain) - YouTube](https://www.youtube.com/watch?v=pEkxRQFNAs4)
-- [langchain-tutorials/data\_generation/Topic Modeling With Language Models.ipynb at main · gkamradt/langchain-tutorials · GitHub](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Topic%20Modeling%20With%20Language%20Models.ipynb) ⭐ 7.4k
+- [langchain-tutorials/data\_generation/Topic Modeling With Language Models.ipynb at main · gkamradt/langchain-tutorials · GitHub](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Topic%20Modeling%20With%20Language%20Models.ipynb) ⭐ 7.5k
 
 ## Text Similarity Methods
 

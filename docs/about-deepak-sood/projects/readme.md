@@ -115,7 +115,7 @@ updated: 2026-06-25
 - [CodePen - Bubble Blast using AnimeJS](https://codepen.io/deepaksood619/full/Mrbdaj) (Dec'17)
 - [GitHub - deepaksood619/FCC-Random-Quote-Machine: A site that gives Random Quotes, an FreeCodeCamp project](https://github.com/deepaksood619/FCC-Random-Quote-Machine) ⭐ 0 [CodePen - FCC-RandomQuoteMachine](https://codepen.io/deepaksood619/full/KZNmBm) (Dec'17)
 - [GitHub - deepaksood619/FCC-Tribute-Linus-Torvalds: A basic HTML and bootstrap site for FreeCodeCamp Tribute Project](https://github.com/deepaksood619/FCC-Tribute-Linus-Torvalds) ⭐ 0 [FCC-Tribute Page for Linus Torvalds](https://codepen.io/deepaksood619/full/aEdojd) (Dec'17)
-- [GitHub - deepaksood619/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/deepaksood619/RegexCrossword/tree/master) ⭐ 39 (Oct'17 - Nov'17)
+- [GitHub - deepaksood619/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/deepaksood619/RegexCrossword/tree/master) ⭐ 40 (Oct'17 - Nov'17)
     - Profile - https://regexcrossword.com/players/38485
     - Stats - https://regexcrossword.com/stats
 - [GitHub - deepaksood619/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/deepaksood619/JavaScriptTicTacToe) ⭐ 1 [JS Tic Tac Toe - MiniMax](https://codepen.io/deepaksood619/full/VymOjG) (Oct'17)

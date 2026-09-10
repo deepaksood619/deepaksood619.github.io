@@ -6,7 +6,7 @@ created: 2024-09-18
 updated: 2026-03-27
 ---
 - [GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11k
-- [GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28k
+- [GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29k
 - https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english
 - https://www.freecodecamp.org/news/keras-video-course-python-deep-learning
 - https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction

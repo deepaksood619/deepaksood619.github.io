@@ -159,14 +159,14 @@ https://palletsprojects.com/p/jinja
 Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from [a fork of retrying](https://github.com/rholder/retrying/issues/65) ⭐ 1.9k which is sadly no longer [maintained](https://julien.danjou.info/python-tenacity/). Tenacity isn’t api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
 
 - [Tenacity — Tenacity documentation](https://tenacity.readthedocs.io/en/latest/)
-- [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity) ⭐ 8.6k
+- [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity) ⭐ 8.8k
 - [Awesome Python Library: Tenacity](https://new.pythonforengineers.com/blog/awesome-python-library-tenacity/)
 - [Retry flaky task in Python using Tenacity | by Parag Kamble | Medium](https://paragkamble.medium.com/retry-flaky-task-in-python-using-tenacity-c6fabcf9a3be)
 
 ## Serializers
 
 - [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k (UltraJSON) is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.7+.
-- [orjson](https://github.com/ijl/orjson) ⭐ 8.1k is a fast, correct JSON library for Python. It is the fastest python library for json encoding & decoding. It serializes dataclass, datetime, numpy, and UUID instances natively.
+- [orjson](https://github.com/ijl/orjson) ⭐ 8.2k is a fast, correct JSON library for Python. It is the fastest python library for json encoding & decoding. It serializes dataclass, datetime, numpy, and UUID instances natively.
 
 ### Benchmarking
 
@@ -177,11 +177,11 @@ Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in 
 ```
 
 - [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k is 3 times faster than the standard json library
-- [orjson](https://github.com/ijl/orjson) ⭐ 8.1k is over 6 times faster than the standard json library
+- [orjson](https://github.com/ijl/orjson) ⭐ 8.2k is over 6 times faster than the standard json library
 
 #### Conclusion
 
-For most cases, you would want to go with python’s standard json library which removes dependencies on other libraries. On other hand you could try out [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k which is simple replacement for python’s json library. If you want more speed and also want dataclass, datetime, numpy, and UUID instances and you are ready to deal with more complex code, then you can try your hands on [orjson](https://github.com/ijl/orjson) ⭐ 8.1k
+For most cases, you would want to go with python’s standard json library which removes dependencies on other libraries. On other hand you could try out [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k which is simple replacement for python’s json library. If you want more speed and also want dataclass, datetime, numpy, and UUID instances and you are ready to deal with more complex code, then you can try your hands on [orjson](https://github.com/ijl/orjson) ⭐ 8.2k
 
 [Benchmarking Python JSON serializers - json vs ujson vs orjson - Dollar Dhingra’s Blog](https://dollardhingra.com/blog/python-json-benchmarking/)
 

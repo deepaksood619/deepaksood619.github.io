@@ -64,7 +64,7 @@ https://martinfowler.com/articles/feature-toggles.html
 
 - [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
 - [Open Source LaunchDarkly Alternative](https://www.growthbook.io/compare/growthbook-vs-launchdarkly)
-	- [GitHub - growthbook/growthbook: Open Source Feature Flagging and A/B Testing Platform](https://github.com/growthbook/growthbook) ⭐ 7.9k
+	- [GitHub - growthbook/growthbook: Open Source Feature Flagging and A/B Testing Platform](https://github.com/growthbook/growthbook) ⭐ 8.3k
 
 ### [Flagsmith - Open Source Feature Flag & Remote Config Service](https://www.flagsmith.com/)
 
@@ -78,5 +78,5 @@ https://martinfowler.com/articles/feature-toggles.html
 
 #### Links
 
-- [GitHub - Flagsmith/flagsmith: Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/](https://github.com/Flagsmith/flagsmith) ⭐ 6.4k
+- [GitHub - Flagsmith/flagsmith: Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/](https://github.com/Flagsmith/flagsmith) ⭐ 6.5k
 - Open Source Feature Flagging and Remote Config Service.

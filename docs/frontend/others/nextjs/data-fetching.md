@@ -37,7 +37,7 @@ If you export a function called `getStaticProps` (Static Site Generation) from a
 
 ### Prisma ORM
 
-[GitHub - prisma/prisma: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB](https://github.com/prisma/prisma) ⭐ 46k
+[GitHub - prisma/prisma: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB](https://github.com/prisma/prisma) ⭐ 48k
 
 [Using Prisma ORM with MongoDB in Next.js | by Eshwaren M | ITNEXT](https://itnext.io/using-prisma-orm-with-mongodb-in-next-js-e42b1f7543e6)
 

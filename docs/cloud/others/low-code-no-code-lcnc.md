@@ -6,7 +6,7 @@ created: 2024-07-15
 updated: 2026-06-18
 ---
 - [n8n](technologies/others/n8n.md)
-- [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim) ⭐ 29k
+- [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim) ⭐ 30k
 	- [Sim](https://www.sim.ai/)
 - Medium Code
 - https://uxplanet.org/how-frontend-works-in-the-era-of-no-code-top-6-visual-development-tools-ae5c22b14f5d
@@ -32,9 +32,9 @@ updated: 2026-06-18
 
 ## Apps
 
-- [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (36K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith) ⭐ 40k
+- [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (36K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith) ⭐ 41k
 - [Budibase | Build internal tools in minutes, the easy way](https://budibase.com/) (24K stars) - [GitHub - Budibase/budibase: Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡](https://github.com/Budibase/budibase) ⭐ 28k
-- [Appwrite - Build like a team of hundreds](https://appwrite.io/) (48K stars) - [GitHub - appwrite/appwrite: Build like a team of hundreds\_](https://github.com/appwrite/appwrite) ⭐ 56k
+- [Appwrite - Build like a team of hundreds](https://appwrite.io/) (48K stars) - [GitHub - appwrite/appwrite: Build like a team of hundreds\_](https://github.com/appwrite/appwrite) ⭐ 57k
 - [Albato - a single no-code platform for all automations](https://albato.com/)
 - Paid tools
     - [Retool | The fastest way to build internal software.](https://retool.com)
@@ -52,13 +52,13 @@ updated: 2026-06-18
 ## nocode website builders
 
 - [Builder.io: Visual Development Platform](https://www.builder.io/) - Free Open Source
-	- [GitHub - BuilderIO/builder: Visual Development for React, Vue, Svelte, Qwik, and more](https://github.com/builderio/builder) ⭐ 8.7k
+	- [GitHub - BuilderIO/builder: Visual Development for React, Vue, Svelte, Qwik, and more](https://github.com/builderio/builder) ⭐ 8.8k
 	- [Introducing Fusion: Vibe Code at Any Scale](https://www.builder.io/blog/introducing-fusion)
 - [Webflow: Create a custom website | No-code website builder](https://webflow.com/)
 	- [6,000+ Webflow HTML website templates | Webflow](https://webflow.com/templates)
 - [Drag and Drop Website Builder - Create Websites with WebWave](https://webwave.me/)
 - [Locofy.ai - ship your products 5-10x faster - with low code](https://www.locofy.ai/)
-- [Plasmic | Build powerful apps fast- without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic) ⭐ 6.9k
+- [Plasmic | Build powerful apps fast- without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic) ⭐ 7.0k
 - [DhiWise: App Development Platform for High Productivity](https://www.dhiwise.com/)
 - [Dora AI - Generating powerful websites, one prompt at a time](https://www.dora.run/ai)
 - [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)

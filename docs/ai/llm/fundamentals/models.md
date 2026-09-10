@@ -116,7 +116,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 		- Requests per minute: ~15
 		- daily limit also for free requests = 200 per day
 - [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
-	- [GitHub - Google-Health/medgemma · GitHub](https://github.com/google-health/medgemma) ⭐ 1.5k
+	- [GitHub - Google-Health/medgemma · GitHub](https://github.com/google-health/medgemma) ⭐ 1.6k
 	- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
 	- [MedGemma — Google DeepMind](https://deepmind.google/models/gemma/medgemma/)
 	- [Intelligent-Internet/II-Medical-8B · Hugging Face](https://huggingface.co/Intelligent-Internet/II-Medical-8B)
@@ -154,8 +154,8 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 - [PartyRock](https://partyrock.aws/)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 - [Improve performance of Falcon models with Amazon SageMaker \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/)
-- [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/) ⭐ 5.4k
-	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth) ⭐ 66k
+- [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/) ⭐ 5.7k
+	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth) ⭐ 76k
 	- [DeepSeek-R1-0528: How to Run Locally \| Unsloth Documentation](https://docs.unsloth.ai/basics/deepseek-r1-0528-how-to-run-locally#fine-tuning-deepseek-r1-0528-with-unsloth)
 - [Command Models: The AI-Powered Solution for the Enterprise](https://cohere.com/command)
 - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
@@ -169,8 +169,8 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 	- [Mistral AI](https://docs.mistral.ai/getting-started/models/models_overview/)
 	- Mistral and Mixtral are both language models developed by Mistral AI, but they differ significantly in architecture and performance. **Mistral 7B** is a smaller, more efficient model, while **Mixtral 8x7B** is a larger, more powerful "mixture of experts" model. Mixtral generally outperforms Mistral 7B in most tasks, especially those requiring reasoning and complex language understanding, but it also requires more computational resources.
 - [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
-- [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3) ⭐ 27k
-	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen) ⭐ 21k
+- [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3) ⭐ 28k
+	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen) ⭐ 22k
 	- [Qwen (Qwen)](https://huggingface.co/Qwen)
 	- Alibaba
 	- Qwen3-Coder-Flash - The 30B model excels in coding & agentic tasks. Run locally with 1M context length & in full precision with just 33GB RAM.
@@ -306,7 +306,7 @@ So... what's the deal with TTMs?
 
 ### Transformer Models
 
-- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers) ⭐ 161k
+- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers) ⭐ 165k
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
@@ -317,7 +317,7 @@ So... what's the deal with TTMs?
 - [Get Tabnine](https://www.tabnine.com/install)
 - [Cursor - The AI-first Code Editor](https://cursor.sh/)
 - [mutable.ai. AI Accelerated Software Development.](https://mutable.ai/)
-- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations) ⭐ 4.6k
+- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations) ⭐ 5.0k
 	- [Sur](https://sur.pollinations.ai/)
 	- [Pollinations.AI](https://pollinations.ai/)
 - [Groq is fast inference for AI builders](https://groq.com/)
@@ -338,7 +338,7 @@ So... what's the deal with TTMs?
 - [vector-embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
 - [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) ⭐ 4.8k
-- [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1.1k
+- [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1.2k
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [The Perfect Cheating Machine? - Cal Newport](https://calnewport.com/the-perfect-cheating-machine/)
 - [linkedin.com/company/soketlabs/?originalSubdomain=in](https://www.linkedin.com/company/soketlabs/?originalSubdomain=in)

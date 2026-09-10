@@ -20,7 +20,7 @@ MLflow is a platform to streamline machine learning development, including track
 - [MLflow Models](https://mlflow.org/docs/latest/models.html): A model packaging format and tools that let you easily deploy the same model (from any ML library) to batch and real-time scoring on platforms such as Docker, Apache Spark, Azure ML and AWS SageMaker.
 - [MLflow Model Registry](https://mlflow.org/docs/latest/model-registry.html): A centralized model store, set of APIs, and UI, to collaboratively manage the full lifecycle of MLflow Models.
 
-[GitHub - mlflow/mlflow: Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow) ⭐ 26k
+[GitHub - mlflow/mlflow: Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow) ⭐ 28k
 
 [MLflow | MLflow](https://mlflow.org/)
 
@@ -201,7 +201,7 @@ https://www.cortex.dev
 	- SHAP (SHapley Additive exPlanations)
 	- FastAPI
 	- Docker
-- [GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7.1k
+- [GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7.3k
 - [GitHub - pycaret/pycaret: Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. · GitHub](https://github.com/pycaret/pycaret) ⭐ 9.8k
 
 ## SAAS Tools

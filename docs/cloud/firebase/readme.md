@@ -76,5 +76,5 @@ With Remote Config personalization, you can automatically select Remote Config p
 | Team       | 500 GB              |
 | Enterprise | Custom              |
 
-- [GitHub - instantdb/instant: The realtime client-side database](https://github.com/instantdb/instant) ⭐ 10k
+- [GitHub - instantdb/instant: The realtime client-side database](https://github.com/instantdb/instant) ⭐ 11k
 - https://counter.dev

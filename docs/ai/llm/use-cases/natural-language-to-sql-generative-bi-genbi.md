@@ -21,8 +21,8 @@ Unified NLQ (Natural Language Query)
 	- [Uber’s AI SQL Generator for Data Insights — QueryGPT \| by codevil \| Feb, 2025 \| Medium](https://medium.com/@bilosantonela1996/ubers-ai-sql-generator-for-data-insights-querygpt-090a82bd42a7)
 	- [QueryGPT](https://querygpt.xyz/)
 - [Wren AI \| GenBI (Generative BI) & Embedded Analytics for Smarter Decisions](https://getwren.ai/)
-	- [GitHub - Canner/WrenAI: ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.](https://github.com/Canner/WrenAI) ⭐ 16k - 9.7K
-	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine) ⭐ 660
+	- [GitHub - Canner/WrenAI: ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.](https://github.com/Canner/WrenAI) ⭐ 18k - 9.7K
+	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine) ⭐ 663
 	- [Wrenai Cloud Api Demo - a Hugging Face Space by getWrenAI](https://huggingface.co/spaces/getWrenAI/wrenai-cloud-api-demo)
 	- [Wren AI](https://docs.getwren.ai/oss/overview/cloud_vs_self_host)
 	- [The Wren AI Blog - Wren AI vs. Vanna: The Enterprise Guide to Choosing a Text-to-SQL Solution](https://getwren.ai/post/wren-ai-vs-vanna-the-enterprise-guide-to-choosing-a-text-to-sql-solution)

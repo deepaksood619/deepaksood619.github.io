@@ -92,7 +92,7 @@ As an aside - I still almost always recommend still using a columnar file format
 
 ## Tools
 
-[GitHub - hangxie/parquet-tools: A utility to deal with Parquet data · GitHub](https://github.com/hangxie/parquet-tools) ⭐ 201
+[GitHub - hangxie/parquet-tools: A utility to deal with Parquet data · GitHub](https://github.com/hangxie/parquet-tools) ⭐ 207
 
 ## References
 

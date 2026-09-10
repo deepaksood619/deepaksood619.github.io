@@ -106,7 +106,7 @@ source my_project/bin/activate
 
 ### pyenv-virtualenvwrapper
 
-[**pyenv-virtualenvwrapper**](https://github.com/yyuu/pyenv-virtualenvwrapper) ⭐ 678 is a plugin for pyenv by the same author as pyenv, to conveniently integrate virtualenv wrapper into pyenv.
+[**pyenv-virtualenvwrapper**](https://github.com/yyuu/pyenv-virtualenvwrapper) ⭐ 677 is a plugin for pyenv by the same author as pyenv, to conveniently integrate virtualenv wrapper into pyenv.
 
 ### pipenv
 

@@ -24,5 +24,5 @@ The EMQ X broker could be extended by Plugins. A plugin is an Erlang application
 | [emqx_stomp](https://github.com/emqx/emqx-stomp) ⭐ 5                     | STOMP Protocol Plugin                     |
 | [emqx_recon](https://github.com/emqx/emqx-recon) ⭐ 6                     | Recon Plugin                              |
 | [emqx_reloader](https://github.com/emqx/emqx-reloader) ⭐ 5               | Reloader Plugin                           |
-| [emqx_web_hook](https://github.com/emqx/emqx-web-hook) ⭐ 82               | Web Hook Plugin                           |
+| [emqx_web_hook](https://github.com/emqx/emqx-web-hook) ⭐ 83               | Web Hook Plugin                           |
 | [emqx_lua_hook](https://github.com/emqx/emqx-lua-hook) ⭐ 27               | Lua Hook Plugin                           |

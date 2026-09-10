@@ -131,13 +131,13 @@ https://www.seldon.io
 
 ## Roadmap
 
-[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md) ⭐ 631
+[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md) ⭐ 634
 
 [MLOps Roadmap](https://roadmap.sh/mlops)
 
 ### Examples
 
-[GitHub - sayakpaul/ml-deployment-k8s-fastapi: This project shows how to serve an ONNX-optimized image classification model as a web service with FastAPI, Docker, and Kubernetes.](https://github.com/sayakpaul/ml-deployment-k8s-fastapi) ⭐ 223
+[GitHub - sayakpaul/ml-deployment-k8s-fastapi: This project shows how to serve an ONNX-optimized image classification model as a web service with FastAPI, Docker, and Kubernetes.](https://github.com/sayakpaul/ml-deployment-k8s-fastapi) ⭐ 224
 
 [MLOps roadmap 2024. The MLOps engineer role is different… | by Vechtomova Maria | Marvelous MLOps | Dec, 2023 | Medium](https://medium.com/marvelous-mlops/mlops-roadmap-2024-ff4216b8bc62)
 
@@ -176,7 +176,7 @@ https://www.seldon.io
 - [Ray | Faster Python](python/advanced/faster-python.md#ray)
 - [Home - MLOps Community](https://mlops.community/)
 - [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops) ⭐ 14k
-- [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops) ⭐ 5.2k
+- [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops) ⭐ 5.3k
 - [10 Awesome Resources for Learning MLOps | DataCamp](https://www.datacamp.com/blog/10-awesome-resources-for-learning-mlops)
 - [Let’s Architect! Learn About Machine Learning on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/)
 - [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215) - YouTube](https://www.youtube.com/watch?v=2kzJPhgDkDE)
@@ -186,6 +186,6 @@ https://www.seldon.io
 	- ZenML
 	- MLflow
 	- KubeFlow
-- [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack) ⭐ 693
+- [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack) ⭐ 708
 - [The Full MLOps Blueprint: Background and Foundations for ML in Production](https://www.dailydoseofds.com/mlops-crash-course-part-1/)
 - [If you would like to start learning MLOps in 2025, start with this : Day 1: Intro to MLOps: ML Meets DevOps: https://lxop.in/day1 Day 2: MLOps Tools Landscape: https://lxop.in/day2 Day 3: Data… \| Sandip Das \| 54 comments](https://www.linkedin.com/posts/sandip-das-developer_if-you-would-like-to-start-learning-mlops-activity-7361968872574345218-6qxv/)

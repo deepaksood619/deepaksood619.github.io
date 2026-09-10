@@ -34,6 +34,6 @@ Django maintains a list of "authentication backend" that is checks for authentic
 	- [Setting up a Django OAuth2 server & client | Raphaël Yancey](https://raphaelyancey.fr/en/2018/05/28/setting-up-django-oauth2-server-client.html)
 	- [Google - django-allauth](https://docs.allauth.org/en/latest/socialaccount/providers/google.html)
 - [GitHub - jazzband/django-oauth-toolkit: OAuth2 goodies for the Djangonauts!](https://github.com/jazzband/django-oauth-toolkit) ⭐ 3.3k
-- [GitHub - casbin/pycasbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Python](https://github.com/casbin/pycasbin) ⭐ 1.7k
+- [GitHub - casbin/pycasbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Python](https://github.com/casbin/pycasbin) ⭐ 1.8k
 - django-rest-framework-jwt
 - [Django REST Framework Authentication | TestDriven.io](https://testdriven.io/blog/django-rest-auth/)

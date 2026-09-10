@@ -63,5 +63,5 @@ You might expect over 5000 MB/s (e.g. 5M of 1 KB msg/sec) throughput for writes 
 ## Links
 
 - https://iggy.apache.org/
-- [GitHub - apache/iggy](https://github.com/apache/iggy) ⭐ 4.4k
+- [GitHub - apache/iggy](https://github.com/apache/iggy) ⭐ 4.8k
 - [Apache Iggy™ Graduates to a Top-Level Project \| Apache Iggy](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)

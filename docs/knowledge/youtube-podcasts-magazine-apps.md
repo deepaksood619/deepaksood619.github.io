@@ -507,7 +507,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - [YouTube Transcript - read YouTube videos](https://youtubetranscript.com/)
 - [12ft Ladder](https://12ft.io/)
 	- [Bypass Paywalls Clean - Wikipedia](https://en.m.wikipedia.org/wiki/Bypass_Paywalls_Clean)
-	- [GitHub - csns1/bypass-paywalls-chrome-clean-magnolia1234: Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)](https://github.com/csns1/bypass-paywalls-chrome-clean-magnolia1234) ⭐ 943
+	- [GitHub - csns1/bypass-paywalls-chrome-clean-magnolia1234: Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)](https://github.com/csns1/bypass-paywalls-chrome-clean-magnolia1234) ⭐ 1.2k
 	- [Webpage archive](https://archive.ph/)
 - https://freedium.cfd/
 
@@ -546,7 +546,7 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
 - Google DNS: **8.8.8.8** and 8.8.4.4
 - Cloudflare DNS: 1.1.1.1
 
-- [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 118k
+- [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 138k
 	- [GitHub - iptv-org/awesome-iptv: A curated list of resources related to IPTV · GitHub](https://github.com/iptv-org/awesome-iptv) ⭐ 12k
 - Torrents
     - [Checking Browser Services](https://old-gods.technorozen.workers.dev/1746434002950/home/)
@@ -593,10 +593,10 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
 - pdf drive
 - Youtube Downloader
     - Not working - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)
-    - Not working - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl) ⭐ 140k
+    - Not working - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl) ⭐ 141k
 	    - `youtube-dl --cookies cookies.txt https://www.udemy.com/aws-certified-developer-associate-dva-c01/ --verbose`
 	    - `youtube-dl -u user@domain.com -p P@ssw0rd https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/lecture/12313178#content`
-    - Working - [GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp) ⭐ 170k
+    - Working - [GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp) ⭐ 190k
         - `brew install yt-dlp`
         - `yt-dlp https://www.youtube.com/watch?v=9NfX6tn7bXU`
 - [Watch Movies Streaming Online Free | TV Show Online HD](https://theflixer.tv/)

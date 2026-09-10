@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=kDWHPlrEgEY
 
 ## Semaphore
 
-- [GitHub - semaphoreio/semaphore: All-in-one delivery platform for AI-driven development.](https://github.com/semaphoreio/semaphore?tab=readme-ov-file) ⭐ 1.5k
+- [GitHub - semaphoreio/semaphore: All-in-one delivery platform for AI-driven development.](https://github.com/semaphoreio/semaphore?tab=readme-ov-file) ⭐ 1.6k
 - [About Semaphore \| Semaphore](https://docs.semaphore.io/CE/getting-started/about-semaphore)
 - [Continuous Integration & Delivery - Semaphore](https://semaphore.io/)
 - [Confluent Migrates from Jenkins to Semaphore - YouTube](https://www.youtube.com/watch?v=YSyv3fWpy_A)

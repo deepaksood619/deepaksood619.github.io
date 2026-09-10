@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-08-22
+updated: 2026-09-10
 ---
 ## Shortcuts
 
@@ -152,7 +152,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	- https://jfper.link/
 	- https://uxert.link/
 	- https://yrkde.link/
-- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina) ⭐ 45k
+- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina) ⭐ 46k
 - ~~Anki Flash Cards~~ -
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
 - **Bombsquad**
@@ -172,6 +172,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 ### Claude Code
 
 - Install study, note, flashcard, company-analysis skills from ai/llm/code-generation/company-analysis-skill files and folder
+- Install lsp from https://karanbansal.in/blog/claude-code-lsp/#setting-it-up and rtk for token and context savings
+-
 - https://www.firecrawl.dev/glossary/web-scraping-apis/how-to-extract-youtube-transcript-in-claude-code
 	- **run both commands**
 		- npx -y firecrawl-cli@latest init --all --browser
@@ -182,7 +184,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Cmd + Shift + G in Finder
 - Alfred - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
-	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.5k
+	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.7k
 	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands) ⭐ 6.8k
 	- [A love letter to Raycast ❤️](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 
@@ -253,7 +255,7 @@ https://www.google.com/inputtools
 
 - Nimbus Screenshot & Screen Video
 - [Screen Recorder](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
-- Best alternative to loom - [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity) ⭐ 18k
+- Best alternative to loom - [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity) ⭐ 19k
 - Loom (cannot download with free version)
 	- [Loom Video Downloader](https://getof.net/en/loom-video-downloader/)
 - CloudApp
@@ -325,7 +327,7 @@ brew services cleanup
 - bat
 - ~~neovim~~ - https://github.com/neovim/neovim
 - ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
-- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 16
+- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 27
 - ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
 - python3
 - moreutils
@@ -337,7 +339,7 @@ brew services cleanup
 #### Clipboard Manager (maccy)
 
 - **brew install maccy**
-- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy) ⭐ 20k
+- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy) ⭐ 22k
 	- Settings
 		- Launch at login
 		- Check for updates automatically
@@ -349,13 +351,13 @@ brew services cleanup
 	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
 - [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp) ⭐ 2.1k
 - [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ) ⭐ 12k
-- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard) ⭐ 5.8k
+- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard) ⭐ 5.9k
 - [GitHub - TermiT/Flycut: Clean and simple clipboard manager for developers](https://github.com/TermiT/Flycut) ⭐ 2.7k
 - [The 5 best clipboard managers in 2025 \| Zapier](https://zapier.com/blog/best-clipboard-managers/)
 
 #### hstr (reverse search)
 
-[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr) ⭐ 4.4k
+[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr) ⭐ 4.5k
 
 ```bash
 brew install hstr
@@ -471,11 +473,11 @@ model = gemini-2.5-flash
 ```
 
 - Alternatives
-	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai) ⭐ 867
-	- [GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models. · GitHub](https://github.com/dh1011/llm-term) ⭐ 152
-	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage) ⭐ 403
-	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd) ⭐ 95
-	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal) ⭐ 827
+	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai) ⭐ 868
+	- [GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models. · GitHub](https://github.com/dh1011/llm-term) ⭐ 154
+	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage) ⭐ 409
+	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd) ⭐ 100
+	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal) ⭐ 851
 
 #### Settings
 

@@ -5,7 +5,7 @@ description: Discover key tools like CyberChef and Dex for encryption, data anal
 created: 2023-03-05
 updated: 2026-06-11
 ---
-- [GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef) ⭐ 35k
+- [GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef) ⭐ 36k
 - [CyberChef](https://gchq.github.io/CyberChef/)
 
 ## dex
@@ -32,7 +32,7 @@ Implementations
 
 ## SPIRE
 
-SPIRE (the [SPIFFE](https://github.com/spiffe/spiffe) ⭐ 1.8k Runtime Environment) is a tool-chain for establishing trust between software systems across a wide variety of hosting platforms. Concretely, SPIRE exposes the [SPIFFE Workload API](https://github.com/spiffe/go-spiffe/blob/master/proto/spiffe/workload/workload.proto) ⭐ 199 which can attest running software systems and issue [SPIFFE IDs](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) ⭐ 1.8k and [SVID](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) ⭐ 1.8k s to them. This in turn allows two workloads to establish trust between each other, for example by establishing an mTLS connection or by signing and verifying a JWT token. Or for a workload to securely authenticate to a secret store, a database, or a cloud provider service.
+SPIRE (the [SPIFFE](https://github.com/spiffe/spiffe) ⭐ 1.8k Runtime Environment) is a tool-chain for establishing trust between software systems across a wide variety of hosting platforms. Concretely, SPIRE exposes the [SPIFFE Workload API](https://github.com/spiffe/go-spiffe/blob/master/proto/spiffe/workload/workload.proto) ⭐ 209 which can attest running software systems and issue [SPIFFE IDs](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) ⭐ 1.8k and [SVID](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) ⭐ 1.8k s to them. This in turn allows two workloads to establish trust between each other, for example by establishing an mTLS connection or by signing and verifying a JWT token. Or for a workload to securely authenticate to a secret store, a database, or a cloud provider service.
 spire-server
 
 - Identity Mapping
@@ -157,4 +157,4 @@ https://certbot.eff.org
 
 [Security Tools](cloud/aws/security-identity-compliance/tools.md)
 
-[GitHub - WerWolv/ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. · GitHub](https://github.com/werwolv/imhex) ⭐ 54k
+[GitHub - WerWolv/ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. · GitHub](https://github.com/werwolv/imhex) ⭐ 55k

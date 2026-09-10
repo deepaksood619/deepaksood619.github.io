@@ -101,7 +101,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Contentful](https://www.contentful.com/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-contentful/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-contentful) | [starter](https://www.gatsbyjs.com/starters/contentful/starter-gatsby-blog/) |
 | [WordPress](https://www.wordpress.com/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-wordpress/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-wordpress) | [starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-wordpress-blog) |
 | [Shopify](https://www.shopify.com/) | [guide](https://www.gatsbyjs.com/docs/building-an-ecommerce-site-with-shopify/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-shopify) | [starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-shopify/) |
-| [Sanity](https://www.sanity.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-sanity) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-sanity/) | [starter](https://github.com/sanity-io/sanity-template-gatsby-portfolio) ⭐ 70 |
+| [Sanity](https://www.sanity.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-sanity) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-sanity/) | [starter](https://github.com/sanity-io/sanity-template-gatsby-portfolio) ⭐ 69 |
 | [Strapi](https://strapi.io/) | [guide](https://www.gatsbyjs.com/guides/strapi/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-strapi) |  |
 | [Contentstack](https://www.contentstack.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-contentstack) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-contentstack) |  |
 | [DatoCMS](https://www.datocms.com/) | [guide](https://www.gatsbyjs.com/guides/datocms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-datocms) | [starter](https://www.gatsbyjs.com/starters/datocms/gatsby-blog-demo/) |
@@ -132,7 +132,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Builder.io](https://www.builder.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-builder-io/) | [docs](https://www.gatsbyjs.com/plugins/@builder.io/gatsby/) | |
 |[Flotiq](https://flotiq.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-flotiq/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-flotiq) | |
 
-[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 39k
+[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 41k
 
 [Decap CMS | Open-Source Content Management System](https://decapcms.org/)
 

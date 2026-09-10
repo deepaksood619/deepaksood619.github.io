@@ -127,7 +127,7 @@ Polars is a blazingly fast DataFrames library implemented in Rust using [Apache 
 - Powerful expression API
 - Hybrid Streaming (larger than RAM datasets)
 
-[GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 39k
+[GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 40k
 
 [Polars](https://www.pola.rs/)
 
@@ -174,7 +174,7 @@ https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f560
 
 [https://meltano.com](https://meltano.com/)
 
-[GitHub - meltano/meltano: Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.](https://github.com/meltano/meltano) ⭐ 2.5k
+[GitHub - meltano/meltano: Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.](https://github.com/meltano/meltano) ⭐ 2.6k
 
 ## Generative Art
 

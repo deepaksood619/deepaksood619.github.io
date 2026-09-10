@@ -18,7 +18,7 @@ updated: 2026-07-01
 - https://anapioficeandfire.com
 - Twitter Developer APIs
 - [Pushshift | Guide](https://api.pushshift.io/guide)
-    - [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw) ⭐ 221
+    - [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw) ⭐ 222
 - News API
     - [News API - Search News and Blog Articles on the Web](https://newsapi.org/)
     - [Free News API](https://www.newscatcherapi.com/free-news-api)
@@ -44,7 +44,7 @@ updated: 2026-07-01
 
 ## Local Infra Mock
 
-[GitHub - floci-io/floci: Light, fluffy, and always free - The AWS Local Emulator alternative · GitHub](https://github.com/floci-io/floci) ⭐ 14k
+[GitHub - floci-io/floci: Light, fluffy, and always free - The AWS Local Emulator alternative · GitHub](https://github.com/floci-io/floci) ⭐ 24k
 
 - [Floci — Fast, Free AWS Emulator](https://floci.io/)
 

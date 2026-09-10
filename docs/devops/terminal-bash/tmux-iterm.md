@@ -78,9 +78,9 @@ Restore window arrangement - Shift + Cmd + R
 
 ## Others
 
-- [GitHub - manaflow-ai/cmux: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. · GitHub](https://github.com/manaflow-ai/cmux) ⭐ 23k
+- [GitHub - manaflow-ai/cmux: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. · GitHub](https://github.com/manaflow-ai/cmux) ⭐ 27k
 - [Herdr: one terminal for the whole herd](https://herdr.dev/)
-	- [GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal. · GitHub](https://github.com/ogulcancelik/herdr) ⭐ 8.7k
+	- [GitHub - ogulcancelik/herdr: agent multiplexer that lives in your terminal. · GitHub](https://github.com/ogulcancelik/herdr) ⭐ 37k
 - [Superlogical](https://www.superlogical.com/)
 
 ### byobu

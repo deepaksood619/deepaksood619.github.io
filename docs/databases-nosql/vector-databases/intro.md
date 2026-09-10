@@ -34,12 +34,12 @@ A Vector DB lets you find "closest meaning" instead of exact keyword matches by 
 - [Learn Vector Database in 10 Mins - Hottest AI Apps DB!](https://youtu.be/sVNrXXM1txo?si=xc1nFrwmRzD2f9CO)
 - [What Are Vector Databases? | MongoDB](https://www.mongodb.com/basics/vector-databases)
 - [Chroma](https://www.trychroma.com/) - the AI-native open-source embedding database
-    - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma) ⭐ 28k
+    - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma) ⭐ 29k
     - [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
-- [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus) ⭐ 45k
+- [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus) ⭐ 46k
     - [Vector database - Milvus](https://milvus.io/)
 - [Qdrant - Vector Database - Qdrant](https://qdrant.tech/)
-	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant) ⭐ 32k
+	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant) ⭐ 34k
 - [GitHub - kuzudb/kuzu: Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.](https://github.com/kuzudb/kuzu) ⭐ 4.0k
 
 ## Working

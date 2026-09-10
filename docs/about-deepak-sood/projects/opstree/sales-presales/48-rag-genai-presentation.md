@@ -44,7 +44,7 @@ Share knowledge, expertise, and experiences using TensorFlow or any open-source 
 
 ## Hackathon
 
-- [GitHub - google-gemini/cookbook: Examples and guides for using the Gemini API.](https://github.com/google-gemini/cookbook) ⭐ 17k
+- [GitHub - google-gemini/cookbook: Examples and guides for using the Gemini API.](https://github.com/google-gemini/cookbook) ⭐ 18k
 - Go to https://aistudio.google.com/app/
 - Get your own API Key
 - Create API Key

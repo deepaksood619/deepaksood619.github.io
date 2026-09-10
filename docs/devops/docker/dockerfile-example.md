@@ -5,7 +5,7 @@ description: Learn to create a Dockerfile for Python applications with our detai
 created: 2023-03-05
 updated: 2026-03-27
 ---
-[GitHub - irbigdata/data-dockerfiles: a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.](https://github.com/irbigdata/data-dockerfiles) ⭐ 584
+[GitHub - irbigdata/data-dockerfiles: a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.](https://github.com/irbigdata/data-dockerfiles) ⭐ 580
 
 ## Example 1
 

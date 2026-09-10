@@ -54,7 +54,7 @@ Supervised fine-tuning means updating a pre-trained language model using labeled
 
 ## Performance Optimization
 
-### [GitHub - microsoft/BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet) ⭐ 39k
+### [GitHub - microsoft/BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet) ⭐ 40k
 
 bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU (with NPU and GPU support coming next).
 
@@ -75,7 +75,7 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 
 ### Quantization - GGUF
 
-**Q4_K_M** is a **K-Quant** method, a smart, mixed-precision compression technique developed by the [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 116k team. Instead of crushing every single parameter down to 4 bits uniformly, K-Quants identify which layers are highly sensitive and keep them at a higher precision while aggressively compressing the less important layers.
+**Q4_K_M** is a **K-Quant** method, a smart, mixed-precision compression technique developed by the [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 128k team. Instead of crushing every single parameter down to 4 bits uniformly, K-Quants identify which layers are highly sensitive and keep them at a higher precision while aggressively compressing the less important layers.
 
 The GGUF naming convention acts as a code: **Q[Target Bits] _ [Algorithm] _ [Size Suffix]**.
 
@@ -112,6 +112,6 @@ The following data outlines how the most popular GGUF types perform on a typical
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://www.youtube.com/watch?v=t-0s_2uZZU0)
 - [KV Caching in LLMs, explained visually](https://www.dailydoseofds.com/p/kv-caching-in-llms-explained-visually/)
 - [Inside CALM: Google DeepMind’s Unique Method to Augment LLMs with Other LLMs \| by Jesus Rodriguez \| Medium](https://jrodthoughts.medium.com/inside-calm-google-deepminds-unique-method-to-augment-llms-with-other-llms-92cb9526e66c)
-	- [GitHub - google-deepmind/calm](https://github.com/google-deepmind/calm) ⭐ 58
+	- [GitHub - google-deepmind/calm](https://github.com/google-deepmind/calm) ⭐ 59
 	- [Accelerating text generation with Confident Adaptive Language Modeling (CALM)](https://research.google/blog/accelerating-text-generation-with-confident-adaptive-language-modeling-calm/)
 - [\[2408.13296v1\] The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities](https://arxiv.org/abs/2408.13296v1)

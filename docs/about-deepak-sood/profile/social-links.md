@@ -27,7 +27,7 @@ updated: 2026-03-27
 - [https://sites.google.com/view/deepak-sood](https://sites.google.com/view/deepak-sood)
 - LinkTree - https://linktr.ee/deepaksood
 - itsmy.fyi - [Deepak Kumar Sood](https://itsmy.fyi/me/deepak)
-    - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109) ⭐ 201
+    - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109) ⭐ 199
 - Bento - [Bento - deepaksood](https://bento.me/deepaksood) [Bento - deepaksood619](https://bento.me/deepaksood619)
 - Topmate - https://topmate.io/deepaksood619
 - Sessionize Speaker Page - https://sessionize.com/deepaksood619

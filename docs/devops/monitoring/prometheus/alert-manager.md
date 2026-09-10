@@ -5,7 +5,7 @@ description: Learn how Alertmanager centralizes alert management, handling group
 created: 2023-03-05
 updated: 2026-06-11
 ---
-The [Alertmanager](https://github.com/prometheus/alertmanager) ⭐ 8.5k handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts.
+The [Alertmanager](https://github.com/prometheus/alertmanager) ⭐ 8.6k handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts.
 
 Flapping - when an alert has changed states more than 4 times in a one-hour time window
 
@@ -55,6 +55,6 @@ https://prometheus.io/docs/alerting/alertmanager
 
 https://prometheus.io/docs/alerting/configuration
 
-[https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml](https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml) ⭐ 8.5k
+[https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml](https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml) ⭐ 8.6k
 
-[GitHub - robusta-dev/robusta: Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation](https://github.com/robusta-dev/robusta) ⭐ 3.0k
+[GitHub - robusta-dev/robusta: Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation](https://github.com/robusta-dev/robusta) ⭐ 3.1k

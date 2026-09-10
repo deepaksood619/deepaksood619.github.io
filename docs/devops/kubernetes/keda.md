@@ -59,6 +59,6 @@ https://learnk8s.io/scaling-celery-rabbitmq-kubernetes
 
 https://keda.sh
 
-[GitHub - kedacore/keda: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda) ⭐ 10k
+[GitHub - kedacore/keda: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda) ⭐ 11k
 
 [Scaling Kubernetes-based Event-driven Workloads with Keda & Karpenter • Roland Barcia • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=QaPbcayEicw&ab_channel=GOTOConferences)

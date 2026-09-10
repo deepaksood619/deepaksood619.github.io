@@ -42,4 +42,4 @@ https://github.com/mrdoob/three.js
 
 ## Others
 
-[GitHub - oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager - all in one](https://github.com/oven-sh/bun) ⭐ 93k
+[GitHub - oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager - all in one](https://github.com/oven-sh/bun) ⭐ 96k

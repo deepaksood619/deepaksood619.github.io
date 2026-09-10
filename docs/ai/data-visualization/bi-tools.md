@@ -148,7 +148,7 @@ DataIQ is a business intelligence platform designed to help organizations manage
 
 ## Others
 
-- **[GitHub - microsoft/data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator) ⭐ 16k**
+- **[GitHub - microsoft/data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator) ⭐ 17k**
 - https://www.talend.com/
 - [GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective) ⭐ 11k
 - [ThoughtSpot | The AI-Powered Analytics Platform](https://www.thoughtspot.com/)
@@ -161,7 +161,7 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [Online Chart Builder - ChartBlocks](https://www.chartblocks.io/)
 - [Welcome \| Superset](https://superset.apache.org/)
 - [Cube: Agentic Analytics Platform](https://cube.dev/)
-	- [GitHub - cube-js/cube: 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics](https://github.com/cube-js/cube) ⭐ 20k
+	- [GitHub - cube-js/cube: 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics](https://github.com/cube-js/cube) ⭐ 21k
 	- [Cube.js, the Open Source Dashboard Framework: Ultimate Guide \| by Artyom Keydunov \| Cube Dev \| Medium](https://medium.com/cube-dev/cube-js-the-open-source-dashboard-framework-ultimate-guide-af38bc9955a1)
 	- [Question about cube.dev : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/1du2bij/question_about_cubedev/)
 - [Semantic Layer Solution - BI & Data & Analytics Software \| AtScale](https://www.atscale.com/)

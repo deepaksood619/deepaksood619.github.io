@@ -257,14 +257,14 @@ https://markdown-here.com
 
 ## Pdf to markdown
 
-* [GitHub - Stirling-Tools/Stirling-PDF: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere · GitHub](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 81k
+* [GitHub - Stirling-Tools/Stirling-PDF: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere · GitHub](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 92k
 	* [**Stirling PDF**](https://stirlingpdf.io/)
 	* [I started editing all my PDF files with this free, self-hosted tool, and I’m not going back](https://www.xda-developers.com/started-editing-all-pdf-files-with-this-free-self-hosted-tool/)
-* [GitHub - opendatalab/MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · GitHub](https://github.com/opendatalab/MinerU) ⭐ 67k
-* [GitHub - docling-project/docling: Get your documents ready for gen AI · GitHub](https://github.com/docling-project/docling) ⭐ 61k
-* [GitHub - jgm/pandoc: Universal markup converter · GitHub](https://github.com/jgm/pandoc) ⭐ 45k
+* [GitHub - opendatalab/MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · GitHub](https://github.com/opendatalab/MinerU) ⭐ 80k
+* [GitHub - docling-project/docling: Get your documents ready for gen AI · GitHub](https://github.com/docling-project/docling) ⭐ 66k
+* [GitHub - jgm/pandoc: Universal markup converter · GitHub](https://github.com/jgm/pandoc) ⭐ 46k
 * [GitHub - facebookresearch/nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents · GitHub](https://github.com/facebookresearch/nougat) ⭐ 10k
-* [GitHub - datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy · GitHub](https://github.com/datalab-to/marker) ⭐ 36k
+* [GitHub - datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy · GitHub](https://github.com/datalab-to/marker) ⭐ 40k
 
 ```bash
 pip install marker-pdf

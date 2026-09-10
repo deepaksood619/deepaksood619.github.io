@@ -21,7 +21,7 @@ CRI-O is an implementation of the Kubernetes CRI (Container Runtime Interface) t
 
 CRI-O supports OCI container images and can pull from any container registry. It is a lightweight alternative to using Docker, Moby or rkt as the runtime for Kubernetes.
 
-This project is currently in incubation as part of Kubernetes. It uses the Kubernetes Container Runtime Interface with OCI-compatible runtimes, thus the name [CRI-O](https://github.com/cri-o/cri-o) ⭐ 5.6k. Currently, there is support for runC (default) and Clear Containers, but a stated goal of the project is to work with any OCI-compliant runtime.
+This project is currently in incubation as part of Kubernetes. It uses the Kubernetes Container Runtime Interface with OCI-compatible runtimes, thus the name [CRI-O](https://github.com/cri-o/cri-o) ⭐ 5.7k. Currently, there is support for runC (default) and Clear Containers, but a stated goal of the project is to work with any OCI-compliant runtime.
 
 While newer than Docker or rkt, this project has gained major vendor support due to its flexibility and compatibility.
 
@@ -152,4 +152,4 @@ https://mobyproject.org
 
 ## Others
 
-- [GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. · GitHub](https://github.com/apple/container) ⭐ 43k
+- [GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. · GitHub](https://github.com/apple/container) ⭐ 50k

@@ -209,8 +209,8 @@ If running a instance for less than 12-15 hours then on-demand can be cheaper th
 
 ## Tools for checking costs
 
-- [GitHub - concurrencylabs/aws-cost-analysis: Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.](https://github.com/concurrencylabs/aws-cost-analysis) ⭐ 173
-- [GitHub - hystax/optscale: FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.](https://github.com/hystax/optscale) ⭐ 2.1k
+- [GitHub - concurrencylabs/aws-cost-analysis: Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.](https://github.com/concurrencylabs/aws-cost-analysis) ⭐ 172
+- [GitHub - hystax/optscale: FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.](https://github.com/hystax/optscale) ⭐ 2.2k
 - [Economize Cloud – Cloud Cost Optimization Software](https://www.economize.cloud/)
 
 ### Alerting
