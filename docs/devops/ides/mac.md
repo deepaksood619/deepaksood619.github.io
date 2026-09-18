@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-09-10
+updated: 2026-09-12
 ---
 ## Shortcuts
 
@@ -173,8 +173,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 - Install study, note, flashcard, company-analysis skills from ai/llm/code-generation/company-analysis-skill files and folder
 - Install lsp from https://karanbansal.in/blog/claude-code-lsp/#setting-it-up and rtk for token and context savings
--
-- https://www.firecrawl.dev/glossary/web-scraping-apis/how-to-extract-youtube-transcript-in-claude-code
+- Install playwright instead of browser-use
+- Don't install have limits - https://www.firecrawl.dev/glossary/web-scraping-apis/how-to-extract-youtube-transcript-in-claude-code
 	- **run both commands**
 		- npx -y firecrawl-cli@latest init --all --browser
 		- claude plugin install firecrawl@claude-plugins-official

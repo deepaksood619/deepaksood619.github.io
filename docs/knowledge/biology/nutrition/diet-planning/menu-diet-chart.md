@@ -3,7 +3,7 @@ slug: /menu-diet-chart-non-glycemic-indian-family-diet-chart
 title: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 description: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 created: 2026-06-24
-updated: 2026-09-07
+updated: 2026-09-11
 ---
 ## Multigrain Atta Details - 10 kg
 
@@ -31,23 +31,23 @@ updated: 2026-09-07
 
 Here is my current weekly meal schedule:
 
-| **Day**       | **Breakfast (Carb + Protein Focus)**               | **Lunch (Daal + Dry Sabzi + MultiGrain Roti)** | **Salad**                             | **Evening Snack**                  | **Dinner (Gravy Sabzi + MultiGrain Roti)**                 |
-| ------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------- | ---------------------------------- | ---------------------------------------------------------- |
-| **1 - Mon**   | Ragi Uttapam + Imli + Thick Peanut Chutney         | Dal Palak + Pumpkin                            | Sprouted Moong Onion Tomato           | Boiled Chana & Veggie Salad        | White Sauce Whole Wheat Pasta with Soya Granules + a lot of veggies |
-| **1 - Tues**  | Moong daal chilla + Imli + Thick Peanut Chutney    | Daal Makhni + Pyaaz tomato sabzi               | Cucumber                              | Watermelon & Apple slices + Roasted Chana | Palak Paneer                                               |
-| **1 - Wed**   | Veg Suji / Oats Upma with peanuts & veggies + dahi | Rajma + Mix Veg Raita                          | Kachumber (Cucumber, tomato, onion)   | Fresh Mango & Papaya + Buttermilk with Seeds Mix | Drumsticks (moringa)                                       |
-| **1 - Thurs** | Veg poha with peanuts & veggies + dahi             | Daal Palak + Barbatti / Beans aloo             | Peanut                                | Bananas & Grapes                   | Mushroom do pyaaza                                         |
-| **1 - Fri**   | Chana daal dhokla + Peanut Chutney                 | Raungi (Lobia) + Torai                         | Carrot & Radish                       | Muskmelon (Kharbuja) & Pomegranate + Soya Nuts | MultiGrain Aata Aalo Samosa + Paneer Tikka side            |
-| **1 - Sat**   | Stuffed Paratha (broccoli/gobhi)                   | Dal + Mix Veg                                  | Mixed Green Leaves Salad              | Litchi & Apple + Sprouts Chaat     | Pau bhaji (aata/whole wheat pau) with Soya Granules mixed in |
-| **1 - Sun**   | Idle Sambhar + Thick Peanut Chutney                | Sambhar + Bhindi                               | Beetroot & Corn Salad                 | Papaya & Bananas + Roasted Chana   | Soyabean aloo gravy                                        |
-|               |                                                    |                                                |                                       |                                    |                                                            |
-| **2 - Mon**   | Whole Wheat Macroni with Paneer Cubes + dahi       | Mix Veg Kadhi                                  | Sprouted Moong Onion Tomato           | Watermelon & Apple slices + Buttermilk with Seeds Mix | Lauki kofta / Kela kofta (besan + Soya Granules) |
-| **2 - Tues**  | Mix Veg Sandwich (Aata Bread)                      | Yellow Daal + Green Onion                      | Cucumber                              | Muskmelon & Grapes + Soya Nuts     | Shahi Paneer                                               |
-| **2 - Wed**   | Stuffed paratha + dahi                             | Daal Palak + Vegetable                         | Kachumber Salad                       | Fresh Mango & Litchi + Sprouts Chaat | Baingan Barta mixed with Paneer Bhurji                     |
-| **2 - Thurs** | Besan Paneer Chila + Imli + Peanut Chutney         | Mix Daal + Lauki                               | Cucumber Stick & Lemon Salad          | Watermelon & Pomegranate + Roasted Chana | Paneer bhurji + Pyaaz Tomato                               |
-| **2 - Fri**   | veg/foxtail/oats poha + dahi                       | Mix Daal + Patta gobhi                         | Corn Salad                            | Papaya & Guava + Buttermilk with Seeds Mix | White Matar + aata/whole wheat Kulcha + Paneer Tikka side  |
-| **2 - Sat**   | Stuffed paratha + dahi                             | Raungi + Barbatti aloo                         | Radish & Lemon Salad                  | Bananas & Apple + Soya Nuts        | HomeMade Pani Puri Party with white matar, aloo & boiled chana filling |
-| **2 - Sun**   | Kala Chana + Paratha + Dahi                        | Mix Daal + Torai                               | Cabbage & Carrot Slaw / Lettuce salad | Fresh Mango & Jamun + Sprouts Chaat | Ragi Dosa + Thick Peanut Chutney                           |
+| **Day**       | **Breakfast (Carb + Protein Focus)**                    | **Lunch (Daal + Dry Sabzi + MultiGrain Roti)** | **Salad**                             | **Evening Snack**                  | **Dinner (Gravy Sabzi + MultiGrain Roti)**                 |
+| ------------- | ------------------------------------------------------- | ---------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
+| **1 - Mon**   | Ragi Uttapam + Imli Chutney + Thick Peanut Chutney      | Dal Palak + Pumpkin                            | Sprouted Moong Onion Tomato           | Boiled Chana & Veggie Salad        | White Sauce Whole Wheat Pasta with Soya Granules + a lot of veggies |
+| **1 - Tues**  | Moong daal chilla + Imli Chutney + Thick Peanut Chutney | Daal Makhni + Pyaaz tomato sabzi               | Cucumber                              | Watermelon & Apple slices + Roasted Chana | Palak Paneer                                               |
+| **1 - Wed**   | Veg Suji / Oats Upma with peanuts & veggies + dahi      | Rajma + Mix Veg Raita                          | Kachumber (Cucumber, tomato, onion)   | Fresh Mango & Papaya + Buttermilk with Seeds Mix | Drumsticks (moringa)                                       |
+| **1 - Thurs** | Veg poha with peanuts & veggies + dahi                  | Daal Palak + Barbatti / Beans aloo             | Peanut                                | Bananas & Grapes                   | Mushroom do pyaaza                                         |
+| **1 - Fri**   | Chana daal dhokla + Peanut Chutney                      | Raungi (Lobia) + Torai                         | Carrot & Radish                       | Muskmelon (Kharbuja) & Pomegranate + Soya Nuts | MultiGrain Aata Aalo Samosa + Paneer Tikka side            |
+| **1 - Sat**   | Stuffed Paratha (broccoli/gobhi)                        | Dal + Mix Veg                                  | Mixed Green Leaves Salad              | Litchi & Apple + Sprouts Chaat     | Pau bhaji (aata/whole wheat pau) with Soya Granules mixed in |
+| **1 - Sun**   | Idle Sambhar + Thick Peanut Chutney                     | Sambhar + Bhindi                               | Beetroot & Corn Salad                 | Papaya & Bananas + Roasted Chana   | Soyabean aloo gravy                                        |
+|               |                                                         |                                                |                                       |                                    |                                                            |
+| **2 - Mon**   | Whole Wheat Macroni with Paneer Cubes + dahi            | Mix Veg Kadhi                                  | Sprouted Moong Onion Tomato           | Watermelon & Apple slices + Buttermilk with Seeds Mix | Lauki kofta / Kela kofta (besan + Soya Granules) |
+| **2 - Tues**  | Mix Veg Sandwich (Aata Bread)                           | Yellow Daal + Green Onion                      | Cucumber                              | Muskmelon & Grapes + Soya Nuts     | Shahi Paneer                                               |
+| **2 - Wed**   | Stuffed paratha + dahi                                  | Daal Palak + Vegetable                         | Kachumber Salad                       | Fresh Mango & Litchi + Sprouts Chaat | Baingan Barta mixed with Paneer Bhurji                     |
+| **2 - Thurs** | Besan Paneer Chila + Imli Chutney + Peanut Chutney      | Mix Daal + Lauki                               | Cucumber Stick & Lemon Salad          | Watermelon & Pomegranate + Roasted Chana | Paneer bhurji + Pyaaz Tomato                               |
+| **2 - Fri**   | veg/foxtail/oats poha + dahi                            | Mix Daal + Patta gobhi                         | Corn Salad                            | Papaya & Guava + Buttermilk with Seeds Mix | White Matar + aata/whole wheat Kulcha + Paneer Tikka side  |
+| **2 - Sat**   | Stuffed paratha + dahi                                  | Raungi + Barbatti aloo                         | Radish & Lemon Salad                  | Bananas & Apple + Soya Nuts        | HomeMade Pani Puri Party with white matar, aloo & boiled chana filling |
+| **2 - Sun**   | Kala Chana + Paratha + Dahi                             | Mix Daal + Torai                               | Cabbage & Carrot Slaw / Lettuce salad | Fresh Mango & Jamun + Sprouts Chaat | Ragi Dosa + Thick Peanut Chutney                           |
 
 ### Multivitamins Daily
 

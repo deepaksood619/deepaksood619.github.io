@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/grains
 title: Grains
 description: Discover the versatile uses of semolina in dishes like upma, pasta, and couscous, and learn about its varieties including rawa and its nutritional benefits.
 created: 2025-02-26
-updated: 2026-07-02
+updated: 2026-09-15
 ---
 ## Semolina / Sooji
 
@@ -47,21 +47,23 @@ Millets are [indigenous](https://en.wikipedia.org/wiki/Indigenous_(ecology)) to 
 
 Millets may have been consumed by humans for about 7,000 years and potentially had "a pivotal role in the rise of multi-crop agriculture and settled farming societies".
 
-- Major - Jowar, Bajra, Ragi
-- Minor - Others
+Millets are classed as **major** (larger grains: Jowar, Bajra, Ragi) or **minor** (smaller grains, considered more healing: the rest).
 
-| **English**                     | **Hindi**                    |
-| ------------------------------- | ---------------------------- |
-| Amaranth                        | Rajgira/ Ramdana             |
-| Barnyard                        | Sanwa/ Samvat ke Chawal      |
-| Buckwheat                       | Kuttu                        |
-| **Finger millet**               | **Ragi / Nachni**            |
-| Foxtail millet                  | Kangni / Kakum               |
-| Kodu / Kodo                     | Kodon                        |
-| Little millet                   | Moraiyo/ Kutki/ Shavan/ Sama |
-| Pearl millet                    | Bajra                        |
-| Proso millet (broomcorn millet) | Chena                        |
-| Sorghum                         | Jowar                        |
+| **English**                     | **Hindi**                    | **Type** | **Protein/100g** | **Calcium/100g** | **Fibre vs. whole wheat** |
+| -------------------------------- | ---------------------------- | -------- | ----------------- | ------------------ | --------------------------- |
+| Amaranth                        | Rajgira/ Ramdana             | -        | -                  | -                   | -                            |
+| Barnyard                        | Sanwa/ Samvat ke Chawal      | Minor    | -                  | -                   | ~9x                          |
+| Buckwheat                       | Kuttu                        | -        | -                  | -                   | -                            |
+| **Finger millet**               | **Ragi / Nachni**            | Major    | -                  | ~350mg             | ~3x                          |
+| Foxtail millet                  | Kangni / Kakum               | Minor    | ~12g               | -                   | ~8x                          |
+| Kodu / Kodo                     | Kodon                        | Minor    | -                  | -                   | ~9x                          |
+| Little millet                   | Moraiyo/ Kutki/ Shavan/ Sama | Minor    | -                  | -                   | ~9x                          |
+| Pearl millet                    | Bajra                        | Major    | -                  | -                   | -                            |
+| Proso millet (broomcorn millet) | Chena                        | Minor    | ~12g               | -                   | -                            |
+| Sorghum                         | Jowar                        | Major    | -                  | -                   | -                            |
+| Browntop millet                 | Hari Kangni                  | Minor    | -                  | -                   | -                            |
+
+For reference: white rice has ~6.5g protein and ~10mg calcium per 100g; whole wheat has ~30mg calcium and ~1.2g fibre per 100g (rice has ~0.2g fibre per 100g).
 
 ![image](media/Nutrition_Pulses-Daal-Lentils-image23.jpg)
 
@@ -72,6 +74,29 @@ https://en.wikipedia.org/wiki/Millet
 https://www.wellcurve.in/blog/different-types-of-millets
 
 https://pristineorganics.com/millet-ancient-grains-for-a-healthier-future
+
+### Why Millets Disappeared from Indian Plates
+
+Archaeological evidence shows millets were a global staple long before wheat/rice dominance: a 4,000-year-old noodle bowl excavated in China (Lajia site, analyzed in 2005) was made from broomcorn (proso) and foxtail millet with no wheat, and dental plaque on Harappan-era human skeletons in North India (~4,000 years old) contained starch traces of little millet and foxtail millet.
+
+Millets were displaced from Indian farms in two historical phases:
+
+- **British colonial era:** To fund tea imports from China without depleting silver reserves, the East India Company pressured (and where needed, coerced) farmers in Bihar and Uttar Pradesh to grow opium instead of millets, alongside other cash crops like indigo and cotton, for export to China. The resulting loss of food-crop farmland contributed to a series of severe famines across India between the 1800s and early 1900s.
+- **Green Revolution (from the 1960s):** Post-independence, India adopted high-yielding wheat and rice varieties requiring heavy chemical fertiliser and pesticide use to solve the famine-era food shortage. Rice and wheat spread through farms, markets, and ration shops, further sidelining the remaining millet cultivation.
+
+Simple substitutions: use bajra, ragi, or jowar flour in place of wheat for roti; use kangni, kodra, or sawa in place of rice. Buy unpolished millets where possible — commercial polishing (like with rice/wheat) strips away the outer nutrient- and fibre-rich layers. See the nutrient columns in the table above for protein, calcium, and fibre comparisons vs. rice/wheat.
+
+**Gut effects:** unlike wheat, millets are naturally gluten-free (which is why millet dough isn't sticky/stretchy like wheat dough) and much higher in fibre, which acts like a gentle "broom" for the intestines, easing bowel movements and reducing gas, bloating, and constipation.
+
+**Three common mistakes when eating millets:**
+
+1. Not soaking them — millets should be soaked 8 hours or overnight to hydrate them and ease digestion.
+2. Mixing multiple millet varieties in the same meal — each variety is said to support a different organ system, so combining them dilutes the effect; eat one variety per meal.
+3. Eating millets without vegetables — pair with plenty of water-rich vegetables so the meal isn't too drying. Suggested plate: ~30% millets, ~30% dal/legumes, ~30% water-rich vegetables.
+
+**Blood sugar effect:** unlike rice/wheat, where the carbohydrate is a "naked carb" not shielded by fibre and gets broken down into blood sugar within about 15 minutes (causing a spike-then-crash cycle of fatigue, cravings, and fat storage), millet grains have fibre interleaved with the carbohydrate itself. This forces digestive enzymes to release glucose slowly, over roughly 6 hours, avoiding sharp blood-sugar spikes — the basis for millets' low glycemic index and their use in diabetes and blood-sugar management (claims made by Dr. Khadar Vali, "the Millet Man of India," a Padma Shri awardee referenced in the source video).
+
+Source: [The Greatest Food Theft in Indian History (& You Still Pay the Price) - Satvic Movement](https://youtu.be/BVOE4617rrw)
 
 ## Oats
 

@@ -2594,5 +2594,6 @@ updated: 2026-06-04
 - http://youtube.com/post/UgkxRJD7-sb7w_B-U23Q1W-dliAWyLeb_UK0
 - http://youtube.com/post/UgkxolfFMDkcYWgadJMe5RP_lee_s2PWyQpw
 - http://youtube.com/post/Ugkx0JlM4KPqbAsdhqld9DPETZeC84agIfHw
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
 
 ## End

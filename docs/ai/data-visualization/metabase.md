@@ -3,7 +3,7 @@ slug: /ai/data-visualization/metabase
 title: Metabase
 description: Discover Metabase, the open-source business intelligence tool that simplifies data analysis with intuitive graphs, dashboards, and team sharing features.
 created: 2023-07-17
-updated: 2026-06-11
+updated: 2026-09-18
 ---
 Metabase is an open source business intelligence tool. It lets you ask questions about your data, and displays answers in formats that make sense, whether that's a bar graph or a detailed table.
 
@@ -79,16 +79,21 @@ docker run -d -p 3000:3000 \
 
 ### Filters
 
-[Dashboard filters](https://www.metabase.com/docs/latest/dashboards/filters)
+- [Dashboard filters](https://www.metabase.com/docs/latest/dashboards/filters)
+- [SQL parameters](https://www.metabase.com/docs/latest/questions/native-editor/sql-parameters)
 
-[SQL parameters](https://www.metabase.com/docs/latest/questions/native-editor/sql-parameters)
+## Agents
+
+- [Metabot - Metabase's AI assistant \| Metabase Documentation](https://www.metabase.com/docs/latest/ai/metabot)
+- [GitHub - TongHuaLabs/metabase-dashboard-skill: Claude Code skill for building fully functional Metabase dashboards end-to-end · GitHub](https://github.com/TongHuaLabs/metabase-dashboard-skill)
+- [GitHub - CognitionAI/metabase-mcp-server: Cognition's Metabase MCP Server · GitHub](https://github.com/CognitionAI/metabase-mcp-server)
+- [Metabase Data Studio: Build the semantic layer that makes AI analytics trustworthy - YouTube](https://www.youtube.com/watch?v=e1tzbLpY8oo)
+- [Agent-driven development \| Metabase Documentation](https://www.metabase.com/docs/latest/ai/agent-driven-development)
+	- [Metabase CLI \| Metabase Documentation](https://www.metabase.com/docs/latest/installation-and-operation/metabase-cli)
 
 ## Links
 
-[Embedding Metabase: Setting up customer-facing analytics - YouTube](https://www.youtube.com/watch?v=cwYXnUHA5HM)
-
-[Metabot](https://www.metabase.com/glossary/metabot)
-
-- No longer supported
-
-[minusx.ai | AI Data Scientist](https://minusx.ai/)
+- [Embedding Metabase: Setting up customer-facing analytics - YouTube](https://www.youtube.com/watch?v=cwYXnUHA5HM)
+- [minusx.ai | AI Data Scientist](https://minusx.ai/)
+- [How to use models in Metabase \| Getting started with Metabase - YouTube](https://www.youtube.com/watch?v=Cb7-wLAgSCA)
+- [Documents \| Metabase Documentation](https://www.metabase.com/docs/latest/documents/introduction)

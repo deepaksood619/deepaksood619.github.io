@@ -3,7 +3,7 @@ slug: /economics/glossary/fintech-banking-terms
 title: Fintech / NBFC / Banking Terms
 description: Explore essential banking and fintech terms, including CASA ratio, NPA, and asset-liability management, to enhance your financial understanding and literacy.
 created: 2023-03-05
-updated: 2026-06-09
+updated: 2026-09-15
 ---
 ## Banking Parameters
 
@@ -273,10 +273,9 @@ https://fintechnews.sg/62502/fintech-india/updated-top-30-open-banking-influence
 
 ## Links
 
-[BNPL](economics/personal-finance/wealth-building/buy-now-pay-later-bnpl.md)
-
-[Best Bank Stocks to Buy | Banking Industry in India | SBI, HDFC Bank, ICICI Bank, Axis Bank & Kotak - YouTube](https://www.youtube.com/watch?v=mdS4n0R3s0U)
-
-[Why Should Wealth Industry Think Beyond IRR - YouTube](https://www.youtube.com/watch?v=rc3y9EwDj5c&ab_channel=RainmatterbyZerodha)
-
-[Debt Management’s Abundance Moment - Fintech Takes](https://fintechtakes.com/articles/2025-07-31/debt-managements-abundance-moment/)
+- [BNPL](economics/personal-finance/wealth-building/buy-now-pay-later-bnpl.md)
+- [Best Bank Stocks to Buy | Banking Industry in India | SBI, HDFC Bank, ICICI Bank, Axis Bank & Kotak - YouTube](https://www.youtube.com/watch?v=mdS4n0R3s0U)
+- [Why Should Wealth Industry Think Beyond IRR - YouTube](https://www.youtube.com/watch?v=rc3y9EwDj5c&ab_channel=RainmatterbyZerodha)
+- [Debt Management’s Abundance Moment - Fintech Takes](https://fintechtakes.com/articles/2025-07-31/debt-managements-abundance-moment/)
+- [Why No One has built a retail ARC so far?](https://allaboutfintech.beehiiv.com/p/why-no-one-has-built-a-retail-arc-so-far)
+	- ARC - Asset Reconstruction Company (Lending companies)
