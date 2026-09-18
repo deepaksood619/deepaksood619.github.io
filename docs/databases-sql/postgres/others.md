@@ -3,7 +3,7 @@ slug: /databases-sql/postgres/others
 title: Others
 description: Explore essential PostgreSQL extensions like PostGIS for geospatial data, hstore for key-value storage, and pg_timetable for advanced scheduling.
 created: 2023-03-13
-updated: 2026-07-16
+updated: 2026-09-19
 ---
 ## Postgres Extensions
 
@@ -67,6 +67,8 @@ https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-sche
 | pg_visibility      | examine the visibility map (VM) and page-level visibility info       |
 
 [GitHub - timescale/pg\_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.](https://github.com/timescale/pg_textsearch) ⭐ 4.0k
+
+**pg_duckdb** - embeds DuckDB's vectorized OLAP engine inside a running Postgres server for accelerated analytics and direct Parquet reads. For the reverse direction (querying/importing Postgres from DuckDB via the `postgres` extension), see [DuckDB § PostgreSQL Integration](databases-nosql/others/duckdb.md#postgresql-integration).
 
 ## pgagroal
 

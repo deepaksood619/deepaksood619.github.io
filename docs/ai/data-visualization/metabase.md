@@ -3,7 +3,7 @@ slug: /ai/data-visualization/metabase
 title: Metabase
 description: Discover Metabase, the open-source business intelligence tool that simplifies data analysis with intuitive graphs, dashboards, and team sharing features.
 created: 2023-07-17
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 Metabase is an open source business intelligence tool. It lets you ask questions about your data, and displays answers in formats that make sense, whether that's a bar graph or a detailed table.
 
@@ -73,6 +73,8 @@ docker run -d -p 3000:3000 \
   metabase/metabase:$METABASE_DOCKER_VERSION
 ```
 
+Metabase has no built-in [DuckDB](databases-nosql/others/duckdb.md) support, but a community driver (`duckdb.metabase-driver.jar`) exists — drop it into the Metabase `plugins` directory, restart, then point a new database connection at the local `.db` file path. See [DuckDB § PostgreSQL Integration](databases-nosql/others/duckdb.md#postgresql-integration) for a pattern that syncs Postgres (e.g. RDS) into DuckDB nightly and serves Metabase off of that.
+
 [GitHub - nobuyo/metastasis: DaC(Dashboard as Code) for Metabase.](https://github.com/nobuyo/metastasis) ⭐ 5
 
 ## Dashboards
@@ -97,3 +99,4 @@ docker run -d -p 3000:3000 \
 - [minusx.ai | AI Data Scientist](https://minusx.ai/)
 - [How to use models in Metabase \| Getting started with Metabase - YouTube](https://www.youtube.com/watch?v=Cb7-wLAgSCA)
 - [Documents \| Metabase Documentation](https://www.metabase.com/docs/latest/documents/introduction)
+- [Building an AI-Powered SQL Assistant with Metabase \| by Sebastian Cajamarca \| Medium](https://medium.com/@sebastiancajamarca/building-an-ai-powered-sql-assistant-with-metabase-2443105fe3a3)

@@ -3,7 +3,7 @@ slug: /claude-md-best-practices
 title: CLAUDE.md Best Practices
 description: Best practices for organizing and maintaining CLAUDE.md files in hierarchical project structures for Claude Code
 created: 2026-06-22
-updated: 2026-06-24
+updated: 2026-09-19
 ---
 Guide for organizing CLAUDE.md files across project hierarchies, based on implementing a 6-file hierarchy in a large-scale documentation project.
 
@@ -20,6 +20,14 @@ A project memory file that Claude Code reads at the start of every session to un
 **Key characteristic:** Unlike Skills or Slash Commands, CLAUDE.md is **always loaded** and provides persistent context for every session.
 
 For general Claude Code usage, see [Claude Code](ai/llm/code-generation/claude-code.md).
+
+## Full-File Loading, Not Selective Heading Reads
+
+Claude reads a markdown file's entire text into its active context window when it loads it — CLAUDE.md, a project memory file, or any research/reference `.md` file. It does not scan headings first and skip sections it judges irrelevant; the whole file consumes context budget regardless of which part answers the current question.
+
+Headings, subheadings, and lists still matter: they help Claude parse structure and relationships in the text and improve retrieval accuracy once everything is loaded, but they don't reduce what gets read in.
+
+Because the full file always counts against the context window, keep files concise (CLAUDE.md target: under 200 lines) — see [context rot](ai/llm/prompting/context-engineering.md#context-rot-and-the-attention-decay-mechanism) for why longer contexts degrade performance. For large bodies of content, prefer progressive disclosure: keep the main file short and point to secondary reference docs that only get read on demand, and split by topic into dedicated files rather than one large file.
 
 ## Hierarchical CLAUDE.md Organization
 

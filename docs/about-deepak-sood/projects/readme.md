@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/readme
 title: Overview of Current Projects
 description: Explore diverse projects in fintech, edtech, and more, showcasing expertise in cost optimization, database management, and analytics.
 created: 2023-12-01
-updated: 2026-06-25
+updated: 2026-09-19
 ---
 ## Domain Knowledge
 
@@ -106,6 +106,7 @@ updated: 2026-06-25
 
 ## Personal Projects
 
+- [Postgres, DuckDB & Metabase Data Platform Architecture](about-deepak-sood/projects/personal/data-platform-architecture.md)
 - [28-woocommerce-ai-assistant-technical-deep-dive](about-deepak-sood/projects/personal/28-woocommerce-ai-assistant-technical-deep-dive.md)
 - [29-woocommerce-ai-assistant-product-journey](about-deepak-sood/projects/personal/29-woocommerce-ai-assistant-product-journey.md)
 - [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/personal/70-interview-datainsight-alerting-engine.md) (Nov'2023)

@@ -3,7 +3,7 @@ slug: /technologies/confluent/disaster-recovery-dr-failover
 title: Disaster Recovery for Kafka Clients
 description: Learn how to implement effective disaster recovery and failover strategies for Kafka clients to ensure data continuity.
 created: 2026-04-21
-updated: 2026-09-08
+updated: 2026-08-18
 ---
 ## DR Failover
 
@@ -38,7 +38,6 @@ The gateway needs to be very resilient to broker, cluster, or CSP region outages
 ### Strategies
 
 Create a cluster and don't add any topics/partitions
-
 - Keep it running just to have a bootstrap endpoint / RBACs rules etc
 
 ## Confluent Cloud Gateway

@@ -217,6 +217,7 @@ Direct Read/Write/Edit bypass link graph updates, backlink maintenance, cache in
 - NO H1 heading (title comes from frontmatter)
 - Blank lines between all blocks (paragraphs, lists, code, tables)
 - Natural language slugs: `/topic-name` NOT `/folder/path/topic-name`
+- **No hard-wrapped lines within a paragraph or list item** — write each paragraph/bullet as one continuous line, however long, and let the editor/browser soft-wrap it. Don't break a sentence across multiple source lines with a manual line break (the "pasted from an LLM" look: a bullet's text continuing on the next line indented under it). One list item = one line.
 
 **Code blocks:**
 
