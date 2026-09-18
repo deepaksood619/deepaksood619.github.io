@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/prompt-examples
 title: Prompt Examples
 description: Discover a versatile collection of prompt examples for education, AI applications, and effective learning tools to enhance your creativity and productivity.
 created: 2026-06-18
-updated: 2026-08-24
+updated: 2026-09-18
 ---
 - [personal-tutor-prompt](education/product-concepts/personal-tutor-prompt.md)
 - [quiz-app-prompt](education/product-concepts/quiz-app-prompt.md)
@@ -36,6 +36,7 @@ Repost with prompts
 
 - [LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn](https://taplio.com/linkedin-post-formatter)
 - [Kagi Translate](https://translate.kagi.com/?from=auto&to=linkedin&text=I+am+going+to+us)
+- https://linkedinsane.com/
 
 ### Links in Post vs Comments
 

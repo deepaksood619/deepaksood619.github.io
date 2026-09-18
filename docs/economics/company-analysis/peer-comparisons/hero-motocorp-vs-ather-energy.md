@@ -2,14 +2,14 @@
 slug: /hero-motocorp-vs-ather-energy-comparison
 title: Hero MotoCorp vs Ather Energy - Two-Wheeler Comparison 2026
 description: Value-compounder vs growth-story comparison of India's two-wheeler leader against a pure-play EV scooter maker, across fundamentals, valuation, and technicals
+created: 2026-09-02
+updated: 2026-09-11
 sector: Auto (Two-Wheelers - ICE vs EV)
 analysis_type: peer-comparison
 date: 2026-09-02
 analyst: Claude (LLM-generated)
 data_sources: [Screener.in, NSE, Business Standard, Investing.com, Trendlyne, GuruFocus, Upstox]
 tags: [peer-comparison, nse, auto, two-wheelers, ev]
-created: 2026-09-02
-updated: 2026-09-02
 ---
 
 - **Comparison Date:** September 2, 2026

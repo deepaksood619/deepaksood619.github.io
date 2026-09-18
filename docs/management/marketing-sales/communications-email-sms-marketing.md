@@ -3,7 +3,7 @@ slug: /management/marketing-sales/communications-email-sms-marketing
 title: Effective Email and SMS Marketing Strategies
 description: Explore key strategies and channels for successful email and SMS marketing to enhance your communication efforts.
 created: 2025-04-29
-updated: 2026-06-11
+updated: 2026-09-14
 ---
 - [Emails](management/marketing-sales/emails.md)
 
@@ -48,6 +48,7 @@ https://www.gigsmedia.in
 - Whatsapp
     - YellowMessenger
     - https://netcorecloud.com/blog/new-pricing-model-for-whatsapp-api-1st-february-2022/
+    - [Whatomate — Self-hosted WhatsApp Calling, IVR & Messaging](https://whatomate.io/)
 
 ## Metrics
 

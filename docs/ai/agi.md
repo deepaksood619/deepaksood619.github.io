@@ -3,7 +3,7 @@ slug: /ai/agi
 title: AGI (Artificial General Intelligence)
 description: Explore AGI, the future of artificial intelligence, and its implications for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
 created: 2023-03-05
-updated: 2026-08-27
+updated: 2026-09-14
 ---
 **Future of Jobs - You can outsource the thinking but not the understanding**
 
@@ -89,3 +89,8 @@ One day, frontier AI research used to be done by meat computers in between eatin
 - [The Actual Reason Why Google “Fell Out” of the AI Race Changes Everything](https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell)
 - [Databricks Hits $190 Billion Valuation As CEO Ali Ghodsi Claims AGI Already Arrived](https://www.forbes.com/sites/victordey/2026/08/13/databricks-hits-190-billion-valuation-as-ceo-ali-ghodsi-claims-agi-already-arrived/?)
 - [The Hugging Face incident and the road ahead \| OpenAI](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
+- [The Bill That Won't Shrink - Plain Sight](https://plainsight1.substack.com/p/the-bill-that-wont-shrink)
+- [AI may have just solved a million-dollar math problem. The field will never be the same \| Scientific American](https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/)
+	- [On the Navier–Stokes Millennium Prize Problem \| OpenAI](https://openai.com/index/navier-stokes-solution/)
+- [Superintelligence is a Fairy Tale. But Chasing It Can Still Cause Harm. - Cal Newport](https://calnewport.com/superintelligence-is-a-fairy-tale-but-chasing-it-can-still-cause-harm/)
+- [Dario Amodei — We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)

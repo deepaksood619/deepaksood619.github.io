@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-09-10
+updated: 2026-09-18
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -310,6 +310,16 @@ Each turn resends the whole conversation as input, so an uncompacted session's c
 - **Claude Code on the web/app:** Same engine as desktop — auto-compact runs automatically, and `/compact` works right in the input, so you get the same manual control on the go.
 
 [TradeUsage — Buy Claude credits without Max pricing](https://tradeusage.com/)
+
+### Prompt Caching Mechanics
+
+The Claude API is stateless, so Claude Code resends the entire conversation on every turn. Prompt caching makes this cheap by reusing matching prefixes instead of reprocessing them.
+
+- **Request structure:** Requests render in a fixed order — tools → system → messages. This stable prefix at the front is what makes caching effective; new user input at the tail is never cached.
+- **Cache matching:** Caching operates on exact bytes of the rendered prompt — a single-byte change invalidates everything downstream of that point.
+- **Pricing:** Cache reads cost ~0.1x the input price; cache writes cost 1.25x (5-minute TTL) or 2x (1-hour TTL).
+- **Break-even:** Whether caching saves money depends on TTL and turn frequency. The 5-minute TTL is cheaper for rapid back-and-forth; the 1-hour TTL only justifies its doubled write cost when 5–60 minutes elapse between turns.
+- **Invalidation order:** Tool changes invalidate the whole cache; system prompt changes bust the system + messages tiers; plain message appends preserve the prefix cache.
 
 ## Advanced Features
 

@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/ecology
 title: Ecology
 description: Explore the fascinating world of ecology, including troglobites in caves and the essential role of cereals and their components in our ecosystem.
 created: 2023-03-05
-updated: 2025-11-09
+updated: 2026-09-14
 ---
 Troglobites - animals that live in cave
 
@@ -28,6 +28,25 @@ https://en.wikipedia.org/wiki/Cereal
 A pseudocereal is one of any non-grasses that are used in much the same way as [cereals](https://en.wikipedia.org/wiki/Cereal)(true cereals are [grasses](https://en.wikipedia.org/wiki/Grasses)). Their seed can be ground into [flour](https://en.wikipedia.org/wiki/Flour) and otherwise used as cereals. Examples of pseudocereals are [amaranth](https://en.wikipedia.org/wiki/Amaranth_grain)([Love-lies-bleeding](https://en.wikipedia.org/wiki/Love-lies-bleeding_(plant)), [red amaranth](https://en.wikipedia.org/wiki/Red_amaranth), [Prince-of-Wales-feather](https://en.wikipedia.org/wiki/Prince-of-Wales-feather)), [quinoa](https://en.wikipedia.org/wiki/Quinoa), and [buckwheat](https://en.wikipedia.org/wiki/Buckwheat).
 
 https://en.wikipedia.org/wiki/Pseudocereal
+
+## [Thermoregulation](https://en.wikipedia.org/wiki/Thermoregulation "Thermoregulation") in animals
+
+- [Ectotherm](https://en.wikipedia.org/wiki/Ectotherm "Ectotherm")
+- [Endotherm](https://en.wikipedia.org/wiki/Endotherm "Endotherm")
+- [Mesotherm](https://en.wikipedia.org/wiki/Mesotherm "Mesotherm")
+- [Poikilotherm](https://en.wikipedia.org/wiki/Poikilotherm)
+- [Homeothermy](https://en.wikipedia.org/wiki/Homeothermy "Homeothermy")
+- [Heterothermy](https://en.wikipedia.org/wiki/Heterothermy "Heterothermy")
+- [Stenotherm](https://en.wikipedia.org/wiki/Stenotherm "Stenotherm")
+- [Eurytherm](https://en.wikipedia.org/wiki/Eurytherm "Eurytherm")
+- [Thermolabile](https://en.wikipedia.org/wiki/Thermolabile "Thermolabile")
+- [Thermostability](https://en.wikipedia.org/wiki/Thermostability "Thermostability")
+- [Gigantothermy](https://en.wikipedia.org/wiki/Gigantothermy "Gigantothermy")
+- [Kleptothermy](https://en.wikipedia.org/wiki/Kleptothermy "Kleptothermy")
+- [Bradymetabolism](https://en.wikipedia.org/wiki/Bradymetabolism "Bradymetabolism")
+- [Tachymetabolism](https://en.wikipedia.org/wiki/Warm-blooded "Warm-blooded")
+- [Thermogenesis](https://en.wikipedia.org/wiki/Thermogenesis "Thermogenesis")
+- [Thermobiology](https://en.wikipedia.org/wiki/Thermobiology "Thermobiology")
 
 ## Links
 

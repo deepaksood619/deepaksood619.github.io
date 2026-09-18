@@ -3,7 +3,7 @@ slug: /technologies/brokers/rabbitmq
 title: Understanding RabbitMQ and High Availability
 description: Explore RabbitMQ's capabilities as a distributed message broker with high availability and interoperability features.
 created: 2024-05-31
-updated: 2024-06-04
+updated: 2026-09-08
 ---
 The Polyglot Broker (Distributed Message Broker)
 
@@ -111,3 +111,4 @@ This setup ensures that RabbitMQ remains available and continues to function cor
 - [RabbitMQ : How to setup a RabbitMQ cluster - for beginners - YouTube](https://www.youtube.com/watch?v=FzqjtU2x6YA&ab_channel=ThatDevOpsGuy)
 - [Learnings from Running 1000s of Production RabbitMQ Clusters • Lovisa Johansson • RabbitMQ Summit - YouTube](https://www.youtube.com/watch?v=nxQrpLfX3rs)
 - [Idiomatic RabbitMQ • Gavin M. Roy • RabbitMQ Summit - YouTube](https://www.youtube.com/watch?v=fNbdgWe5Tbs&ab_channel=GOTOConferences)
+- [RabbitMQ vs. Apache Kafka \| RabbitMQ](https://www.rabbitmq.com/docs/compare/kafka)

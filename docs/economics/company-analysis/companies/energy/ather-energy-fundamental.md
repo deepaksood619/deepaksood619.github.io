@@ -1338,15 +1338,10 @@ Ather is priced as if it's already a profitable, high-growth leader. In reality,
 
 **Existing Related Analyses:**
 
+- [Indian Auto Sector - Comprehensive Overview](economics/company-analysis/sectors/indian-auto-sector-overview.md) - Full sector comparison including TVS Motor, Bajaj Auto, and Ola Electric
 - [Reliance Industries - Fundamental Analysis](economics/company-analysis/companies/energy/reliance-industries-fundamental.md) - No direct sector overlap, but relevant for understanding conglomerate with energy transition (new energy pivot)
 - [Hero MotoCorp - Fundamental Analysis](economics/company-analysis/companies/auto/hero-motocorp-fundamental.md) - Strategic shareholder in Ather (30.68% stake) and the ICE+EV market leader Ather's Vida brand competes against
 - [Hero MotoCorp vs Ather Energy - Peer Comparison](economics/company-analysis/peer-comparisons/hero-motocorp-vs-ather-energy.md) - Side-by-side fundamental and technical comparison
-
-**Potential Future Analyses to Enhance This Report:**
-
-- **TVS Motor Company - Fundamental Analysis** - Direct competitor with iQube electric scooter
-- **Bajaj Auto - Fundamental Analysis** - Direct competitor with Chetak electric scooter
-- **Ola Electric - Fundamental Analysis** (if/when listed) - Market leader in E2W
 - **Automobile Sector - E2W Peer Comparison** - Comparative analysis of all listed E2W players
 - **Electric Vehicle Sector Overview** - Macro trends, policy landscape, growth projections
 

@@ -3,7 +3,7 @@ slug: /economics/company-analysis/readme
 title: Company Analysis
 description: Discover comprehensive company analyses, sector reports, and investment frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
 created: 2026-06-03
-updated: 2026-08-04
+updated: 2026-09-11
 ---
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 
@@ -56,6 +56,66 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Risk Level:** High — Avoid new entry until profitability stabilizes and valuation corrects to PE `<50x`
   - **Data Date:** July 22, 2026, 3:52 PM IST (Price: Rs. 438, Market Cap: Rs. 71,372 Cr)
   - **Next Update:** After Q1 FY27 earnings (August 2026) or promoter holding stabilization
+
+### Sun Pharmaceutical Industries Limited
+
+- [Sun Pharma - Fundamental Analysis (September 11, 2026)](economics/company-analysis/companies/healthcare/sun-pharma-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:SUNPHARMA / BSE:524715
+  - **Score:** 6.8/10 ⭐⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Buy / Accumulate (Medium-High Conviction)
+  - **Target Price:** Rs. 2,050 (~11% upside)
+  - **Key Highlights:** India's #1 pharma company; specialty/innovative medicines franchise (Ilumya, Winlevi, Leqselvi) crossed $1 Bn annualized revenue; near debt-free (D/E 0.06x), highest R&D spend in the sector. **Concerns:** Halol (Gujarat) facility remains stuck under a multi-year FDA import alert (re-classified OAI June 2026); US generics sales declining (-9.7% YoY Q1 FY27).
+  - **Data Date:** September 11, 2026 (Price: ~Rs. 1,843-1,874, Market Cap: Rs. 4,42,245 Cr)
+  - **Next Update:** After Q2 FY27 earnings (October-November 2026) or Halol facility status change
+
+### Dr. Reddy's Laboratories Limited
+
+- [Dr. Reddy's Laboratories - Fundamental Analysis (September 11, 2026)](economics/company-analysis/companies/healthcare/dr-reddys-laboratories-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:DRREDDY / BSE:500124
+  - **Score:** 5.7/10 ⭐⭐⭐ (Medium-High Risk)
+  - **Recommendation:** Hold (Medium Conviction)
+  - **Target Price:** Rs. 1,295 (~11% upside; brokerage targets range widely from Rs. 1,040 to Rs. 1,740)
+  - **Key Highlights:** Diversified generics + biosimilars + consumer health platform with strong India (+17%) and Emerging Markets (+31%) growth. **Concerns:** Semaglutide (GLP-1) API quality failure forced a Rs. 240 Cr provision and PLI-benefit loss in Q1 FY27, crashing net profit -69% YoY; Pomerantz Law Firm now investigating potential securities-fraud claims tied to the disclosure; stock at a fresh 52-week low.
+  - **Data Date:** September 11, 2026 (Price: Rs. 1,172, Market Cap: Rs. 97,854 Cr)
+  - **Next Update:** After Q2 FY27 earnings or confirmation of semaglutide commercial supply resumption (targeted November 2026)
+
+### Cipla Limited
+
+- [Cipla - Fundamental Analysis (September 11, 2026)](economics/company-analysis/companies/healthcare/cipla-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:CIPLA / BSE:500087
+  - **Score:** 6.2/10 ⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Hold / Accumulate on Dips (Medium Conviction)
+  - **Target Price:** Rs. 1,575 (~11% upside; Kotak upgraded to Buy, target Rs. 1,725)
+  - **Key Highlights:** India's #1 respiratory brand (Foracort `>`Rs. 1,000 Cr), debt-free (D/E ~0.02x), record FY26 revenue, strongest DII backing (34.35%) in the sector. **Concerns:** Third-party CDMO (Pharmathen, Greece) production halt on Lanreotide plus gRevlimid fade drove net profit -27% YoY (FY26), -39% YoY (Q1 FY27); new CEO (Achin Gupta) took over April 2026.
+  - **Data Date:** September 11, 2026 (Price: ~Rs. 1,410, Market Cap: ~Rs. 1,12,000 Cr)
+  - **Next Update:** After Q2 FY27 earnings or confirmation of Lanreotide production resumption
+
+### Divi's Laboratories Limited
+
+- [Divi's Laboratories - Fundamental Analysis (September 11, 2026)](economics/company-analysis/companies/healthcare/divis-laboratories-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:DIVISLAB / BSE:532488
+  - **Score:** 6.8/10 ⭐⭐⭐⭐ (valuation-capped)
+  - **Recommendation:** Hold (existing) / Avoid New Entry (Low-Medium Conviction)
+  - **Target Price:** Rs. 8,000 (~-14% from CMP; most brokerage targets sit at or below current price)
+  - **Key Highlights:** India's largest API/CDMO, debt-free, 33-41% operating margins, ROCE 22%, blue-chip client base, China+1 and GLP-1/peptide beneficiary. **Concerns:** Richest valuation in the sector (PE ~83-86x, EV/EBITDA ~62x); rising customer concentration (~49% top-5 clients).
+  - **Data Date:** September 11, 2026 (Price: Rs. 9,338, Market Cap: Rs. 2,47,881 Cr)
+  - **Next Update:** After Q2 FY27 earnings or a material valuation correction
+
+### Lupin Limited
+
+- [Lupin - Fundamental Analysis (September 12, 2026)](economics/company-analysis/companies/healthcare/lupin-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:LUPIN / BSE:500257
+  - **Score:** 7.7/10 ⭐⭐⭐⭐ (Medium Risk)
+  - **Recommendation:** Buy (High Conviction)
+  - **Target Price:** Rs. 2,500 (~19% upside; Nomura Rs. 2,580, Trendlyne consensus ~Rs. 2,509; UBS holds an outlying Sell)
+  - **Key Highlights:** Best growth-plus-valuation combination in the sector — 16 consecutive quarters of YoY growth, ROE 28.7%/ROCE ~30% (best-in-class), FY26 net profit +62% YoY, FCF nearly quadrupled to Rs. 5,527 Cr, yet trades at just 16-18x PE (roughly half of Sun Pharma/Dr. Reddy's/Cipla). **Concerns:** UBS downgrade citing US GLP-1 generic competitive risk; long-dated US generic tariff escalation threat (2028-29); recurring USFDA Form 483 observations across multiple facilities (Goa, Somerset NJ, Pune, Indore, Ankleshwar) though none escalated to warning-letter status.
+  - **Data Date:** September 12, 2026 (Price: ~Rs. 2,095-2,103, Market Cap: Rs. 95,926 Cr)
+  - **Next Update:** After Q2 FY27 earnings (October-November 2026) or any USFDA facility status change
 
 ### Reliance Industries Limited
 
@@ -268,6 +328,40 @@ This directory contains comprehensive company analyses, sector reports, peer com
 ### Others
 
 - [zaggle-comprehensive](economics/company-analysis/companies/technology/zaggle-comprehensive.md)
+
+## Sector Analysis
+
+### Indian Auto Sector
+
+- [Indian Auto Sector - Comprehensive Overview and Comparison (September 11, 2026)](economics/company-analysis/sectors/indian-auto-sector-overview.md)
+  - **Type:** Sector Analysis (12 companies across PV, 2W/3W, CV, Tractor, EV)
+  - **Coverage:** Maruti Suzuki, Tata Motors (CV), Tata Motors PV (incl. JLR), Mahindra & Mahindra, Bajaj Auto, TVS Motor, Eicher Motors, Hero MotoCorp, Ashok Leyland, Escorts Kubota, Force Motors, Ather Energy, Ola Electric
+  - **Key Highlights:**
+    - 🟢 **Highest-Scoring Name:** Mahindra & Mahindra (8.1/10) — #1 tractor, resurgent SUV, credible EV scale-up, Strong Buy
+    - 🟢 **Best Value:** Hero MotoCorp — cheapest 2W major on PE/PEG despite comparable-or-better return ratios
+    - 🟢 **GST 2.0 Tailwind (effective Sep 22, 2025):** Cut auto GST 28%→18% (cars/2W) and 12%→5% (tractors), driving the best-ever festive-season sales in industry history
+    - ⚠️ **Richly Valued:** TVS Motor, Bajaj Auto, Eicher Motors trade at or above brokerage fair value — better suited to a pullback than a chase
+    - 🔴 **Avoid:** Ola Electric (2.3/10) — e2W market share collapsed 18%→8% in one year, persistent cash burn
+    - 🌍 **Global Context:** India trades at a premium to Toyota/Ford/GM but is the only major auto market combining volume growth + policy tailwind + an orderly (non-price-war) EV transition
+  - **Verdict:** Selectively good time to invest — favor Mahindra & Mahindra, Hero MotoCorp, Maruti Suzuki, and Ashok Leyland over richly-valued 2W peers or the distressed EV pure-play Ola Electric
+  - **Data Date:** September 11, 2026
+  - **Next Update:** After Q2 FY27 results across the sector (late October-November 2026)
+
+### Indian Pharmaceutical Sector
+
+- [Indian Pharmaceutical Sector - Overview & Investment Analysis (September 11, 2026)](economics/company-analysis/sectors/indian-pharma-sector-overview.md)
+  - **Type:** Sector Analysis (12 companies — Generics, API/CDMO, Biosimilars, Branded Formulations, Specialty, Hospitals)
+  - **Coverage:** Sun Pharma, Dr. Reddy's, Cipla, Divi's Laboratories, Lupin, Aurobindo Pharma, Torrent Pharmaceuticals, Zydus Lifesciences, Alkem Laboratories, Mankind Pharma, Biocon, Apollo Hospitals
+  - **Key Highlights:**
+    - 🟢 **Best Value:** Lupin (7.7/10, [full analysis](economics/company-analysis/companies/healthcare/lupin-fundamental.md)) — PE only 16.2x against 16 consecutive quarters of YoY growth and best-in-class ROE 28.7%/ROCE ~30%, the strongest growth-plus-valuation combination in the sector
+    - 🟢 **Best Diversified Quality:** Zydus Lifesciences (7.2/10) — reasonable PE 23x, ROE 21.2%, well-balanced across US generics/India/consumer wellness
+    - 🔴 **Priced for Perfection:** Divi's Laboratories (PE ~83-86x) and Torrent Pharma (PE ~85x) — excellent businesses, but most brokerage targets sit at or below the current price
+    - ⚠️ **Company-Specific Shocks, Not Sector-Wide:** Dr. Reddy's (semaglutide API quality miss, -69% YoY profit, Pomerantz securities-fraud probe) and Cipla (Lanreotide CDMO halt, -39% YoY profit) both stumbled in Q1 FY27 while Sun Pharma and Lupin posted strong results the same quarter
+    - 🔴 **Avoid:** Biocon (4.2/10) — PE 184x against collapsing profitability and heavy promoter dilution
+    - 🌍 **Global Context:** Nifty Pharma trades ~22% above its 5-year median PE after +17.7% YTD 2026 (vs. Nifty 50 -6.9%); several Indian majors now trade at multiples above de-rated global innovators (Pfizer, Novo Nordisk) despite structurally lower margins/R&D intensity. **Key risk:** the US Section 232 tariff exemption on generics/biosimilars is temporary (zero-tariff only through August 2026, scheduled to escalate to 100% by 2028) and not well-priced into current valuations.
+  - **Verdict:** Selective, not a broad sector buy — favor Lupin, Zydus Lifesciences, and Alkem on weakness; hold (don't chase) the rich-multiple compounders (Divi's, Torrent, Mankind); size Dr. Reddy's/Cipla only after their company-specific issues show confirmed resolution
+  - **Data Date:** September 11, 2026
+  - **Next Update:** After Q2 FY27 results across the sector (October-November 2026) or any US Section 232 tariff exemption reassessment
 
 ## US Stocks
 

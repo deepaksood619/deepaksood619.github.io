@@ -3,7 +3,7 @@ slug: /ai/llm/prompting/prompt-engineering
 title: Prompt Engineering
 description: Discover the art of prompt engineering, focusing on tailored prompt design to enhance AI model performance and user interaction on platforms like Kaggle.
 created: 2026-06-18
-updated: 2026-08-19
+updated: 2026-09-12
 ---
 [Prompt Engineering \| Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
 
@@ -358,3 +358,4 @@ Knowledge based retrieval tool -
 ## Links
 
 - [Prompt 4.7 - by Ruben Hassid - How to AI](https://ruben.substack.com/p/prompt-47)
+- [Reducing cost and improving performance with Claude Platform \| Claude by Anthropic](https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform)

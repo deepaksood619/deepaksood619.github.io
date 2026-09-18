@@ -3,7 +3,7 @@ slug: /technologies/kafka/readme
 title: Comprehensive Guide to Apache Kafka
 description: Explore Kafka architecture, installation, configurations, and more in this detailed guide for developers and data engineers.
 created: 2023-03-05
-updated: 2026-09-02
+updated: 2026-09-18
 ---
 Apache Kafka is an open-source distributed event streaming platform used for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
@@ -80,3 +80,4 @@ Apache Kafka is an open-source distributed event streaming platform used for hig
 - [Others](technologies/kafka/others.md)
 - [Slides - Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
 - [The Feynman Guide to Apache Kafka — José María Cabeza Rodríguez — José María Cabeza Rodríguez](https://chemacabeza.dev/writing/the-feynman-guide-to-apache-kafka)
+- [Building a Streaming Lakehouse with Open Source: Kafka to Iceberg to Trino to Superset \| Viktor Gamov](https://gamov.io/posts/streaming-lakehouse/)

@@ -3,7 +3,7 @@ slug: /psychology/travelling
 title: Travelling
 description: Explore thoughtful travel experiences that prioritize meaningful connections and mindful living over constant partying and superficial adventures.
 created: 2024-08-08
-updated: 2026-08-14
+updated: 2026-09-14
 ---
 Every weekend shouldn't be a party. Once a year trip plan
 
@@ -90,3 +90,4 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 - [buying-guide](psychology/consumer-decision-making/buying-guide.md)
 - [buying-guide-car](psychology/consumer-decision-making/buying-guide-car.md)
 - Traveling Singapore - Free Singapore Tour
+- [Indiahikes - Treks That Transform Lives](https://indiahikes.com/#gref)

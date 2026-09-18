@@ -3,7 +3,7 @@ slug: /ai/llm/building-llm-apps/libraries
 title: Libraries
 description: Discover the top Python libraries of 2023 for LLM training, application development, data extraction, and more to enhance your AI projects effectively.
 created: 2026-06-18
-updated: 2026-08-07
+updated: 2026-09-10
 ---
 [Top Python libraries of 2023 | Tryolabs](https://tryolabs.com/blog/top-python-libraries-2023)
 
@@ -437,3 +437,5 @@ These aren't toys. Each one replaces a paid product that you're still being char
 	- [GitHub - RyanCodrai/turbovec: A vector index built on TurboQuant, written in Rust with Python bindings · GitHub](https://github.com/RyanCodrai/turbovec) ⭐ 17k
 - [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 30k
 - [Agent Plugins](https://agent-plugins.org/)
+- [GitHub - Egonex-AI/Understand-Anything: Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. · GitHub](https://github.com/Egonex-AI/Understand-Anything)
+	- [DeepWiki repository wikis - Devin Docs](https://docs.devin.ai/work-with-devin/deepwiki)

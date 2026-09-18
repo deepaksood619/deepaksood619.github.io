@@ -3,7 +3,7 @@ slug: /courses/course-time-series-analysis/time-series-modeling
 title: Time-Series Modeling
 description: Explore time-series modeling to predict future patterns with significant coefficients, optimal model simplicity, and essential criteria for evaluation.
 created: 2023-03-05
-updated: 2026-06-26
+updated: 2026-09-14
 ---
 ## Endogenous variable - The variable we are estimating
 
@@ -480,6 +480,6 @@ The Prophet model is an open-source tool developed by Facebook for time series f
 
 ## Links
 
-[ETC3550/ETC5550 Applied forecasting - ETC3550/5550 Applied forecasting](https://af.numbat.space/)
-
-[How to build forecasting models with Vertex AI - YouTube](https://www.youtube.com/watch?v=5-qjRpjdE5s&ab_channel=GoogleCloudTech)
+- [ETC3550/ETC5550 Applied forecasting - ETC3550/5550 Applied forecasting](https://af.numbat.space/)
+- [How to build forecasting models with Vertex AI - YouTube](https://www.youtube.com/watch?v=5-qjRpjdE5s&ab_channel=GoogleCloudTech)
+- [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)

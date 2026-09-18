@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/code-generators-coding-generators
 title: Code Generators / Coding Generators
 description: Discover advanced code generators like Gemini Code Assist and GitHub Copilot for efficient coding, modernization, and seamless integration in your projects.
 created: 2026-06-18
-updated: 2026-08-04
+updated: 2026-09-10
 ---
 - [claude-code](ai/llm/code-generation/claude-code.md)
 
@@ -189,3 +189,4 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [The Roadmap for Mastering AI-Assisted Coding in 2025 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/)
 - [Replit vs Bolt vs Lovable (2025) — Hands‑On Review: What I’d Renew, What I’d Pause](https://www.thetoolnerd.com/p/replit-vs-bolt-vs-lovable-2025-handson-review-thetoolnerd)
 - [Agentic coding at ClickHouse](https://clickhouse.com/blog/agentic-coding)
+- [GitHub - Egonex-AI/Understand-Anything: Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. · GitHub](https://github.com/Egonex-AI/Understand-Anything)

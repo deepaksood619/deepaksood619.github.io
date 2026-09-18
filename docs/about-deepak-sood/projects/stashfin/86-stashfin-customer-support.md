@@ -3,38 +3,38 @@ slug: /about-deepak-sood/projects/86-stashfin-customer-support
 title: Stashfin Customer Support Enhancements
 description: Discover Stashfin's improved customer support with proactive communication, real-time assistance, and user-friendly resources.
 created: 2023-12-01
-updated: 2024-12-19
+updated: 2026-09-14
 ---
-### Improvements
+## Improvements
 
-#### Proactive Communication
+### Proactive Communication
 
 - Implement timely notifications for users about upcoming payments, EMIs, and system maintenance.
 - Provide clear and transparent information on payment breakdowns and costs.
 
-#### Enhanced User Interface
+### Enhanced User Interface
 
 - Redesign the online platform for a user-friendly experience.
 - Include easy-to-use payment options and troubleshoot common issues.
 
-#### Real-time Issue Resolution
+### Real-time Issue Resolution
 
 - Introduce a real-time customer support chat for immediate issue resolution. (YM)
 - Establish a dedicated support team to address payment-related concerns promptly.
 
-#### Education and Support
+### Education and Support
 
 - Develop user guides and FAQs to educate customers about the lending platform.
 - Offer online tutorials and resources to guide users through the payment process.
 
-#### Others
+### Others
 
 - Added Hindi language support
 - CSAT of agents
 - Moved from fixed pricing for CS agents to dynamic pricing where based on CSAT, payments will be done
 - Canned responses for CS agents for increased productivity
 
-### KPIs
+## KPIs
 
 - Total tickets
 - Number of unique customers
@@ -50,7 +50,7 @@ updated: 2024-12-19
 - RBI Escalation
 - Number of Tickets resolved/pending
 
-### Creating and maintaining product roadmaps
+## Creating and maintaining product roadmaps
 
 ![product-roadmap-example](media/Pasted%20image%2020231201183958.jpg)
 

@@ -250,7 +250,7 @@ On balance, the valuation discount to peers appears wider than the fundamental g
 
 ## Related Analyses
 
-- No direct two-wheeler peer analyses (Bajaj Auto, TVS Motor, Eicher Motors) exist yet in this knowledge base as of this writing.
+- [Indian Auto Sector - Comprehensive Overview](economics/company-analysis/sectors/indian-auto-sector-overview.md) — full sector comparison including Bajaj Auto, TVS Motor, and Eicher Motors.
 - [Bosch Limited - Comprehensive Analysis](economics/company-analysis/companies/auto/bosch-limited-comprehensive.md) — auto-ancillary supplier to the same Indian 2W/4W OEM ecosystem.
 - [Ather Energy - Fundamental Analysis](economics/company-analysis/companies/energy/ather-energy-fundamental.md) — cross-sector comparison point as an EV two-wheeler pure-play competing with Hero's Vida brand.
 - [Hero MotoCorp vs Ather Energy - Peer Comparison](economics/company-analysis/peer-comparisons/hero-motocorp-vs-ather-energy.md) — side-by-side fundamental and technical comparison.

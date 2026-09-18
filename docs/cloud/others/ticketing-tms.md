@@ -3,7 +3,7 @@ slug: /cloud/others/ticketing-tms
 title: Ticketing / TMS
 description: Discover top Ticketing Management Systems (TMS) with features like automation, omnichannel support, and FAQs to enhance your customer service experience.
 created: 2023-03-05
-updated: 2025-07-19
+updated: 2026-09-14
 ---
 **Ticketing Management System (TMS)**
 
@@ -68,6 +68,8 @@ https://learnwoo.com/best-open-source-help-desk-support-ticketing-system
 
 - Direct Assignment
 - Round Robin Assignment
+
+[libredesk - Modern Open Source Omnichannel Customer Support Desk \| Free & Self-Hosted](https://libredesk.io/)
 
 ## Customer Self Service Portal / Self Service Strategy / Knowledgebase / Knowledge base
 

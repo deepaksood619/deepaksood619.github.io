@@ -3,7 +3,7 @@ slug: /knowledge/biology/mbbs-medicine-medical-health
 title: MBBS / Medicine / Medical / Health
 description: Explore the comprehensive MBBS curriculum covering pre-clinical, para-clinical, and clinical phases, essential for aspiring medical professionals.
 created: 2023-03-05
-updated: 2026-07-20
+updated: 2026-09-15
 ---
 Shared decision making
 
@@ -57,6 +57,8 @@ An Internist is a physician specialising in internal medicine, treating complex 
 - **Persistent cough**, which is a cough that lasts for more than 3 weeks and may worsen in severity.
 
 [What your child's cough is telling you](https://www.childrens.com/health-wellness/what-your-childs-cough-is-telling-you)
+
+**Croup:** A harsh, barking cough that suddenly wakes a toddler up in the middle of the night is the classic, textbook sign of croup. Croup is a very common viral infection that causes swelling around the vocal cords and windpipe. Because the airway is narrow, the air squeezing through the swollen vocal cords creates that distinct barking sound. It is notorious for striking suddenly in the middle of the night, often after a child has gone to bed seemingly fine.
 
 ## Health
 

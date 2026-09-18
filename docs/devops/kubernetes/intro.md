@@ -3,7 +3,7 @@ slug: /devops/kubernetes/intro
 title: Introduction to Kubernetes Orchestration
 description: Explore Kubernetes and container orchestration, including concepts like Borg, orchestration vs. choreography, and application containerization.
 created: 2023-03-05
-updated: 2026-05-09
+updated: 2026-09-14
 ---
 **One liner - Kubernetes/Mesos - software tools to manage and coordinate containers**
 
@@ -141,11 +141,17 @@ https://www.objectif-libre.com/en/blog/2018/03/19/kubernetes-ipvs
 - Container image names cannot be longer than 63 characters
 - One container can have two services
 
-## Kubernetes 1.19
+## Updates / ChangeLogs
 
-https://kubernetes.io/docs/concepts/workloads/pods/pod-topology-spread-constraints
+### Kubernetes 1.19
 
-https://kubernetes.io/docs/concepts/services-networking/ingress
+- https://kubernetes.io/docs/concepts/workloads/pods/pod-topology-spread-constraints
+- https://kubernetes.io/docs/concepts/services-networking/ingress
+
+### Others
+
+- [Kubernetes v1.37: Garhwal \| Kubernetes](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/)
+	- The theme for Kubernetes v1.37 is **Garhwal** (गढ़वाल, pronounced _gaṛhvāl_), a Himalayan region of Uttarakhand, India. The snow-capped peaks of the Garhwal Himalaya, deodar forests, terraced fields, rivers and streams, and mountain paths shape both the region and the logo. Together, these elements reflect a community in which every layer, route, and contribution is connected.
 
 ## References
 

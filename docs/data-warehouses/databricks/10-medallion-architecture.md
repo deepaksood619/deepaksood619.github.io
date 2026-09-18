@@ -3,7 +3,7 @@ slug: /data-warehouses/databricks/10-medallion-architecture
 title: Understanding Medallion Architecture
 description: Explore the medallion architecture, a data design pattern for optimizing data flow in lakehouse environments.
 created: 2023-03-07
-updated: 2025-06-10
+updated: 2026-09-18
 ---
 ## What is a medallion architecture?
 
@@ -57,3 +57,4 @@ The Medallion architecture is compatible with the concept of a **data mesh.** Br
 - [Implementing Medallion architecture in Snowflake | by Valentin Loghin | Medium](https://medium.com/@valentin.loghin/implementing-medallion-architecture-in-snowflake-4e1539d23c09)
 - [Medallion Architecture 101—Inside Bronze, Silver & Gold Layers](https://www.chaosgenius.io/blog/medallion-architecture/)
 - [Data Lakehouse Medallion Architecture using Azure Databricks, Delta Lake, and Azure Data Factory | by Amlan Patnaik | Medium](https://medium.com/@amlaninfinity/data-lakehouse-medallion-architecture-using-azure-databricks-delta-lake-and-azure-data-factory-e7635536d001)
+- [Building a Streaming Lakehouse with Open Source: Kafka to Iceberg to Trino to Superset \| Viktor Gamov](https://gamov.io/posts/streaming-lakehouse/)

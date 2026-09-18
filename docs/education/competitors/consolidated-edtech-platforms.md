@@ -3,7 +3,7 @@ slug: /education/competitors/consolidated-edtech-platforms
 title: Consolidated EdTech Platforms Overview
 description: Explore a comprehensive analysis of top edtech competitors in AI tutoring, learning platforms, upskilling, and LMS sectors.
 created: 2026-05-04
-updated: 2026-05-23
+updated: 2026-09-14
 ---
 Comprehensive overview of edtech competitors across AI tutoring, learning platforms, upskilling, and LMS categories. Analysis based on publicly available information from company homepages and product pages.
 
@@ -626,6 +626,8 @@ Simple, intuitive interface compared to traditional LMS complexity. Open source 
 **Comparison to Adaptive Learning Platform:**
 
 Frappe LMS is a content delivery and management system, not an adaptive learning platform. Our platform would add intelligent adaptivity, learning science principles, and personalization on top of basic LMS functionality.
+
+- [ExamPro - Exams & Quizzes for Frappe Framework](https://lebmatter.github.io/exampro/)
 
 ---
 

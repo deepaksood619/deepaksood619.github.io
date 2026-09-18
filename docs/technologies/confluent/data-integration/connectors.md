@@ -3,7 +3,7 @@ slug: /confluent-kafka-connect-connectors
 title: Confluent Kafka Connect Connectors
 description: Confluent Kafka Connect Connectors
 created: 2026-06-24
-updated: 2026-07-16
+updated: 2026-09-18
 ---
 ## Connectors
 
@@ -24,6 +24,64 @@ https://github.com/evokly/kafka-connect-mqtt
 	- The Debezium MongoDB connector is **not capable of monitoring the changes of a standalone MongoDB server**, since standalone servers do not have an oplog. The connector will work if the standalone server is converted to a replica set with one member.
 - [MongoDB Atlas Source Connector for Confluent Cloud Quick Start \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-source.html)
 	- The fully-managed MongoDB Atlas Source connector for Confluent Cloud moves data from a MongoDB replica set into an Apache Kafka® cluster. The connector configures and consumes change stream event documents and publishes them to a Kafka topic.
+
+### Debezium MongoDB Connector vs MongoDB Atlas Source Connector
+
+For a self-managed MongoDB cluster, choose based primarily on where Kafka Connect runs and the CDC event format you need.
+
+| Area          | Debezium MongoDB connector                                                                                        | MongoDB Atlas Source connector                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Deployment    | Self-managed Kafka Connect plugin on Confluent Platform, Kubernetes, or VMs.                                       | Fully managed in Confluent Cloud; it can connect to self-managed MongoDB using `MONGODB_SELF_MANAGED`.                        |
+| CDC mechanism | Debezium CDC based on MongoDB replica-set/sharded-cluster change capture and oplog.                                | MongoDB Change Streams using resume tokens.                                                                                    |
+| MongoDB topology | Supports replica sets and sharded clusters; not standalone MongoDB servers.                                     | Supports self-managed MongoDB, provided the cluster is reachable from Confluent Cloud.                                        |
+| Event format  | Debezium envelope: typically before, after, op, source, and timestamps.                                            | MongoDB change-stream documents, or optionally full documents.                                                                |
+| Operations    | You manage Kafka Connect, plugin installation, upgrades, monitoring, networking, and offsets.                      | Confluent manages the connector runtime and offset management.                                                                |
+| Scaling       | Debezium MongoDB supports one task per connector in the Confluent Platform connector documentation.                | The Atlas source connector also supports one task; increasing `tasks.max` does not horizontally scale it.                     |
+| Support model | Confluent supports specific Debezium-built versions on Confluent Platform; Debezium itself is open source.         | Fully managed and supported as a Confluent Cloud connector; the underlying connector is MongoDB-maintained.                   |
+
+| Aspect                | MongoDbAtlasSource                                      | MongoDbCdcSource                                                       |
+| --------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Underlying connector  | Official MongoDB Kafka Connector                        | Debezium MongoDB connector                                             |
+| Template ID           | MongoDbAtlasSource                                      | MongoDbCdcSource                                                       |
+| Best suited for       | Simple MongoDB/Atlas CDC and document replication       | Enterprise CDC pipelines requiring Debezium semantics                  |
+| Snapshot modes        | latest, timestamp, copy_existing                        | initial, always, never, no_data, when_needed, initial_only             |
+| Incremental snapshots | Not supported                                           | Supported through signals                                              |
+| Output                | Raw change-stream event or full document                | Debezium envelope with before, after, source, op, and ts_ms            |
+| Filtering             | One database/collection plus aggregation pipeline       | Database/collection include/exclude lists and field filtering/renaming |
+| Output formats        | Avro, JSON_SR, Protobuf, JSON, String, BSON             | Avro, JSON_SR, Protobuf, JSON                                          |
+| Parallelism           | Configurable tasks.max                                  | Maximum one task                                                       |
+| Topic naming          | More flexible namespace mapping, suffix, and separators | Standard topic.prefix-based naming                                     |
+| Heartbeats            | Not exposed                                             | Supported                                                              |
+| Authentication        | SCRAM-SHA-256 and X.509                                 | SCRAM and AWS IAM for Atlas                                            |
+| Maintenance           | MongoDB Kafka Connector                                 | Debezium-based connector                                               |
+
+#### Recommendation
+
+- Use Debezium if you need the standard Debezium event envelope, Debezium-compatible downstream consumers, detailed CDC semantics, or you are already running Kafka Connect yourself.
+- Use the MongoDB Atlas Source connector if your Kafka cluster is in Confluent Cloud and you want the lowest operational overhead—even though the MongoDB database is self-managed.
+- If you need hard-delete/tombstone handling, before/after semantics, or consistency with Debezium connectors for PostgreSQL/MySQL, Debezium is generally the better fit.
+- If you need a simpler MongoDB-native change-stream representation and managed operations, choose the Atlas connector.
+- Important: "Atlas Source connector" does not necessarily mean the database must be MongoDB Atlas—the Confluent Cloud connector supports self-managed MongoDB with a standard host/port connection string.
+
+#### Which one should you choose?
+
+Choose **`MongoDbAtlasSource`** when you need:
+
+- Straightforward MongoDB change-stream ingestion.
+- BSON or String output.
+- Aggregation-pipeline filtering.
+- Multiple connector tasks.
+- Flexible topic naming.
+- X.509 authentication.
+
+Choose **`MongoDbCdcSource`** when you need:
+
+- A standard Debezium event envelope.
+- Incremental or signal-based snapshots.
+- Consistent CDC semantics across MongoDB, MySQL, PostgreSQL, and other Debezium connectors.
+- Field-level filtering or renaming.
+- Heartbeats and Debezium-specific metrics.
+- AWS IAM authentication for MongoDB Atlas.
 
 ## SQL Server Connector
 
