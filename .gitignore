@@ -170,6 +170,7 @@ docs/.obsidian/plugins/learnkit/data.json
 graph.json
 .claude/*
 !.claude/skills/
+!.claude/settings.json
 docs/.obsidian/plugins/learnkit/configuration/api-keys.json
 docs/.obsidian/plugins/learnkit/backups/*.db
 docs/.obsidian/plugins/learnkit/scheduling/*.db
