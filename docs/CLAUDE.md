@@ -394,6 +394,22 @@ Value <50 or >100
 Value `<50` or `>100`
 ```
 
+**Never use bare curly braces `{...}` in prose** — MDX parses `{...}` as a JS expression and tries to compile its contents with acorn. Plain-English text inside braces (e.g. `{last successful sync timestamp}`) is not valid JS and fails the build with "Could not parse expression with acorn".
+
+❌ Wrong:
+
+```markdown
+Surface "data as of {last successful sync timestamp}" on the dashboard.
+```
+
+✅ Correct (wrap in backticks so it's treated as inline code, not a JSX expression):
+
+```markdown
+Surface "data as of `{last successful sync timestamp}`" on the dashboard.
+```
+
+Or better, avoid literal `{}` placeholders in prose entirely — use `<placeholder>` (escaped) or plain wording instead.
+
 ### Links & Images
 
 **Links:**

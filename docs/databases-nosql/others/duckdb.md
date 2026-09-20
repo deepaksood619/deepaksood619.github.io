@@ -208,6 +208,12 @@ Cloud-hosted, free-tier option: wraps an open-source DuckDB engine behind a Post
 
 - [Hands-On Exploratory Data Analysis with DuckDB](https://www.packtpub.com/en-us/learning/how-to-tutorials/hands-on-exploratory-data-analysis-with-duckdb)
 
+## CDC
+
+- [Replicate PostgreSQL to DuckDB with CDC \| ingestr](https://getbruin.com/docs/ingestr/tutorials/cdc-postgres-duckdb.html)
+- [pg\_duckpipe: Real-time CDC for streaming Postgres Table into Columnar Ducklake - DEV Community](https://dev.to/ywxiao/pgduckpipe-real-time-cdc-for-streaming-postgres-table-into-columnar-ducklake-536d)
+- [GitHub - relytcloud/pg\_duckpipe: Real-time streaming ingestion (CDC) for HTAP in PostgreSQL · GitHub](https://github.com/relytcloud/pg_duckpipe)
+
 ## Links
 
 - [My First Billion (of Rows) in DuckDB | by João Pedro | Towards Data Science](https://towardsdatascience.com/my-first-billion-of-rows-in-duckdb-11873e5edbb5)

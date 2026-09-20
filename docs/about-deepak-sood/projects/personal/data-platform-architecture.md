@@ -48,7 +48,7 @@ Architecture for a personal data platform that needed to keep a transactional Po
 - Start with a nightly full resync — simple, and the right starting point before building anything more complex.
 - Run the sync from inside the same network as the source database rather than over VPN; network latency/throughput, not query cost, was the real limiter on how long a full sync takes.
 - Move from full resync to incremental **only once full-resync time genuinely approaches the batch window** — a resumable-sync bookkeeping table is most of the way there; a true incremental sync additionally needs a reliable "changed since" signal on every table, which is worth confirming rather than assuming. Don't build CDC machinery before the simple version is actually the bottleneck.
-- Surface **"data as of {last successful sync timestamp}"** on every dashboard, sourced from the sync job's own bookkeeping — staleness should be visible at a glance, not something someone has to check manually.
+- Surface **"data as of `{last successful sync timestamp}`"** on every dashboard, sourced from the sync job's own bookkeeping — staleness should be visible at a glance, not something someone has to check manually.
 
 ## Gold Layer: Three Homes, by Audience and Write Pattern
 

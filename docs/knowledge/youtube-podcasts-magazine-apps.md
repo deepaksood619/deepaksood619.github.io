@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-09-07
+updated: 2026-09-19
 ---
 ## Youtube
 
@@ -549,6 +549,7 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 138k
 	- [GitHub - iptv-org/awesome-iptv: A curated list of resources related to IPTV · GitHub](https://github.com/iptv-org/awesome-iptv) ⭐ 12k
 - Torrents
+	- https://1337x.bz/
     - [Checking Browser Services](https://old-gods.technorozen.workers.dev/1746434002950/home/)
     - https://www.highspeedcdnserver.workers.dev/1763392793140/top-100
     - https://thepiratebay.isworking.xyz/
@@ -560,14 +561,12 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
     - https://waytohunt.org/1337x-proxy-mirror-sites
     - https://www.1377x.to
     - 1377x.to
-    - https://1337x.bz/
     - [1337x.to | Download Free Torrent and Magnet Links](https://1337x.isworking.xyz/)
     - https://1337xto.to/
     - [1337x | Free Movies, TV Series, Music, Games and Software](https://www.1337x.tw/)
     - https://www1.thepiratebay3.to/
     - 1337xxx.to
     - 1337xx.to
-    - https://1337x.unblockit.onl/home
     - https://1337x.megha.workers.dev/1704646085898/trending
     - [Filmywap | Filmywap 2024 Bollywood Movies Download, Latest Hindi HD Movies, Hollywood Hindi Dubbed Movies, South Indian Hindi Dubbed Movies Free Download](https://www.filmywap.pg.in/)
     - https://sitenable.co/proxify.php?proxy=c2l0ZW5hYmxlLmNv&site=aHR0cDovLzEzMzd4LnRv
