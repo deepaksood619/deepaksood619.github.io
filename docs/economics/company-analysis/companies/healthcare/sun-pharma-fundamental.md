@@ -210,25 +210,30 @@ Continued mid-single-digit consolidated growth led by specialty and India, offse
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results (October-November 2026) — watch India growth sustainability and US decline trajectory
 - Any update on Halol facility remediation status
 
 **Medium-term (3-12 months):**
+
 - Leqselvi and Unloxcyt sales ramp toward guided targets
 - Generic semaglutide (Noveltreat/Sematrinity) market share gains in India
 
 **Long-term (1-3 years):**
+
 - Nidlegy registrational trial results and potential EU/US approval
 - Specialty franchise scaling toward a larger share of consolidated revenue, structurally improving margin mix
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. India domestic revenue growth (target: sustain `>`12% YoY)
 2. US formulations revenue trend (watch for stabilization vs. continued decline)
 3. Specialty/innovative medicines revenue run-rate (target: continued growth past $1 Bn annualized)
 
 **Trigger Events:**
+
 - ✅ **Buy more:** Halol import alert lifted; specialty products hit guided revenue milestones
 - 🔻 **Reduce/Exit:** Further US generics acceleration downward; specialty pipeline disappointments; new FDA actions at other facilities
 

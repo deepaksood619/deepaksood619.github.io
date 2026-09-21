@@ -198,4 +198,4 @@ However, the two-child constellation—particularly the enduring, lifelong bond 
 
 While extending the family to three or more children triggers the detrimental realities of Resource Dilution Theory, the two-child family effectively balances the intensive emotional investment required of modern parenting with the profound emotional dividends of the sibling experience. Ultimately, it is not the structural number of children that dictates psychological success, but rather the parents' capacity to maintain a resilient marital foundation, resist the paralyzing pressures of perfectionistic intensive parenting, and foster a domestic environment characterized by equitable, highly attuned love.
 
-[‎Gemini - direct access to Google AI](https://gemini.google.com/share/63780902716e)
+[Gemini - direct access to Google AI](https://gemini.google.com/share/63780902716e)

@@ -54,5 +54,4 @@ var NotesDaterPlugin = class extends import_obsidian.Plugin {
   }
 };
 
-
 /* nosourcemap */

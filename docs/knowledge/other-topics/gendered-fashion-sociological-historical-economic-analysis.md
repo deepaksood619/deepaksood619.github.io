@@ -47,7 +47,7 @@ Crucially, Veblen applied this theory directly to women's fashion. Veblen argued
 
 - **Skirts and Drapery:** Society’s tenacious attachment to long, heavy skirts existed precisely because the fabric was expensive, hampered the wearer at every turn, and utterly incapacitated her for useful exertion.
 
-- **Excessively Long Hair:** Like the skirt, wearing the hair excessively long served to show a physical hindrance to useful labor.
+- **Excessively Long Hair:** Like the skirt, wearing the hair excessively long served to show a physical hindrance to useful labor. See also the evolutionary and cultural-signaling accounts of this norm in [Female Objectification](../../psychology/relationships-social/female-objectification.md#why-long-hair-is-coded-as-feminine).
 
 - **The Corset:** Veblen viewed the corset as a literal form of physical mutilation, undergone for the specific purpose of lowering the subject's vitality and rendering her permanently unfit for work. While it impaired the wearer's physical well-being, this physical loss was offset by the gain in social reputability, as her infirmity proved her high status.
 

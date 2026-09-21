@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-09-18
+updated: 2026-09-21
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -288,6 +288,7 @@ hermes gateway      # Start messaging gateway
 	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
 - [OpenCode \| The open source AI coding agent](https://opencode.ai/)
 - [**How to extract YouTube transcript in Claude Code \| Firecrawl Glossary**](https://www.firecrawl.dev/glossary/web-scraping-apis/how-to-extract-youtube-transcript-in-claude-code)
+- [GitHub - raiyanyahya/recall: Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline. · GitHub](https://github.com/raiyanyahya/recall)
 
 ## Pricing
 
@@ -601,3 +602,7 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 	- **Learning**: Collaborative, learn-by-doing mode where Claude will not only share "Insights" while coding, but also ask you to contribute small, strategic pieces of code yourself. Claude Code will add `TODO(human)` markers in your code for you to implement.
 - [Using Claude Code: The unreasonable effectiveness of HTML \| Claude](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)
 - [The Only Claude Code Masterclass You'll Ever Need (No Coding) - YouTube](https://www.youtube.com/watch?v=cSOpT-vCXck)
+- [claude-code-tools \| claude-code-tools](https://pchalasani.github.io/claude-code-tools)
+	- [lmsh — Natural Language Shell \| claude-code-tools](https://pchalasani.github.io/claude-code-tools/tools/lmsh/)
+- [The /grill-me Skill](https://www.aihero.dev/skills-grill-me)
+- [Find Skills — AI Agent Skill by Vercel Labs \| AgenticSkills](https://agenticskills.io/skills/find-skills)

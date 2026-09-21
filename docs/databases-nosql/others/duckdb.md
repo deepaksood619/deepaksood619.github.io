@@ -231,3 +231,4 @@ Cloud-hosted, free-tier option: wraps an open-source DuckDB engine behind a Post
 - [Distributed DuckDB - dual execution and differential storage | Github - citguru/openduck](https://github.com/citguru/openduck) ⭐ 570
 - [A Preview of DuckDB v2.0 – DuckDB](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 - [GitHub - motherduckdb/metabase\_duckdb\_driver: Metabase DuckDB Driver shipped as 3rd party plugin · GitHub](https://github.com/motherduckdb/metabase_duckdb_driver)
+- [The fastest OLAP databases compared: DuckDB, MotherDuck, ClickHouse, Snowflake, BigQuery](https://motherduck.com/learn/fastest-olap-databases-compared/)

@@ -3,16 +3,16 @@ slug: /CLAUDE
 title: claude.md
 description: Content infrastructure guidance for Obsidian vault management and markdown formatting
 created: 2026-04-15
-updated: 2026-07-04
+updated: 2026-09-21
 ---
 
 **Inherits:** Project infrastructure from [root CLAUDE.md](CLAUDE.md)
 
-Content infrastructure guidance for working with 7400+ markdown notes in Obsidian vault.
+Content infrastructure guidance for working with 2900+ markdown notes in Obsidian vault.
 
 ## Quick Reference
 
-**Vault Path:** `/Users/deepaksood/deepaksood619.github.io/docs`
+**Vault Path:** `/Users/deepak/deepaksood619.github.io/docs`
 
 **Obsidian CLI:** `/Applications/Obsidian.app/Contents/MacOS/Obsidian`
 
@@ -293,7 +293,7 @@ mcp__obsidian-hybrid-search__search(query="hierarchical configuration", limit=5)
 **Command syntax:** `key=value` pairs (NOT `--flags`)
 
 ```bash
-VAULT="/Users/deepaksood/deepaksood619.github.io/docs"
+VAULT="/Users/deepak/deepaksood619.github.io/docs"
 /Applications/Obsidian.app/Contents/MacOS/Obsidian <command> vault="$VAULT" key="value"
 ```
 
@@ -436,7 +436,7 @@ graph TD
 
 ### Content Organization
 
-- **7400+ notes** across 280 folders
+- **2900+ notes** across 400+ folders
 - **Zettelkasten method:** Atomic notes with cross-linking
 - **Media:** All images in `/docs/media/`
 - **No number prefixes:** Semantic filenames only

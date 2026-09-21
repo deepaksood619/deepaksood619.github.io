@@ -206,25 +206,30 @@ Semaglutide issue resolves broadly on the guided November 2026 timeline; India/E
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results (October-November 2026) — confirmation of semaglutide resupply progress
 - Any update/resolution on the Pomerantz investigation
 
 **Medium-term (3-12 months):**
+
 - Commercial semaglutide supply resumption (targeted November 2026) and ramp to 6-7 million pens
 - Rituximab and IV formulation biosimilar US approval decisions (late CY2026)
 
 **Long-term (1-3 years):**
+
 - Biosimilars pipeline scaling into a meaningful share of consolidated revenue
 - Consumer healthcare (NRT) integration fully realized, diversifying earnings mix further
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. Semaglutide resupply status and pen volumes (target: 6-7 million pens H2 FY27 as guided)
 2. North America segment revenue trend (watch for stabilization)
 3. Any developments in the Pomerantz securities-fraud investigation
 
 **Trigger Events:**
+
 - ✅ **Buy more:** Confirmed semaglutide resupply on/ahead of schedule; Pomerantz investigation resolved without material impact; biosimilar approvals land as guided
 - 🔻 **Reduce/Exit:** Further delay or new quality issues in semaglutide manufacturing; investigation escalates to a formal securities class action; additional FDA warning letters
 

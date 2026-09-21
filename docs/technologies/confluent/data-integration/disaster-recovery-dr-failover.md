@@ -38,6 +38,7 @@ The gateway needs to be very resilient to broker, cluster, or CSP region outages
 ### Strategies
 
 Create a cluster and don't add any topics/partitions
+
 - Keep it running just to have a bootstrap endpoint / RBACs rules etc
 
 ## Confluent Cloud Gateway

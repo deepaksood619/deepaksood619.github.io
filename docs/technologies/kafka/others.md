@@ -27,7 +27,7 @@ And with Confluent Platform 5.4 or newer, you have the additional option to [cen
 
 ## Other Stream Processing Brokers
 
-- Apache Pulsar
+- [Apache Pulsar](technologies/apache/apache-pulsar.md) - see the Pulsar vs Kafka comparison table there for architecture, storage, and multi-tenancy differences
 - AWS Kinesis
 - AWS SQS
 - Google Cloud Pub/Sub

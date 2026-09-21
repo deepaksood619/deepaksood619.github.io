@@ -220,25 +220,30 @@ Growth continues at a more moderate but still healthy pace (India settles into l
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results (October-November 2026) — watch whether the 30%+ OPM level and India re-acceleration are sustained
 - Kotak Healthcare Conference (scheduled September 17, 2026) — management commentary on GLP-1 and tariff risk framing
 
 **Medium-term (3-12 months):**
+
 - Sandoz (ranibizumab) and Valorum (Armlupeg) biosimilar licensing deals beginning to contribute disclosed royalty/milestone revenue
 - Continued US ANDA approval cadence (6 approvals/3 launches in Q1 FY27 alone) sustaining the launch pipeline
 
 **Long-term (1-3 years):**
+
 - Resolution of the US generic tariff framework (2028-2029 escalation schedule) and any manufacturing-footprint response
 - Respiratory complex-generics franchise scaling further into the `>`$45 Bn global inhaler market opportunity
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. India revenue growth sustainability (target: maintain low-teens+ YoY as seen in Q1 FY27's +13.9-15.1%)
 2. OPM trend (watch for stability at/above 29-30% vs. any reversion toward FY25's 23% level)
 3. Any escalation of USFDA Form 483 observations (particularly at Goa) toward warning-letter status
 
 **Trigger Events:**
+
 - ✅ **Buy more:** Valuation re-rates toward peer multiples while growth sustains; biosimilar licensing deals begin disclosed revenue contribution; no facility escalates to warning-letter status
 - 🔻 **Reduce/Exit:** US GLP-1 generic pricing collapses faster than modeled (validating UBS's thesis); any USFDA warning letter/import alert; sharp India growth deceleration
 

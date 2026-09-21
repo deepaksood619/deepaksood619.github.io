@@ -3,187 +3,96 @@ slug: /CLAUDE
 title: CLAUDE.md
 description: Project-level guidance for Claude Code when working with deepaksood619.github.io Docusaurus knowledge base
 created: 2026-04-15
-updated: 2026-06-22
+updated: 2026-09-21
 ---
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
-Personal knowledge base built with Docusaurus 3.8, containing 2600+ markdown notes organized by topic and deployed to GitHub Pages. The content covers computer science, AI/ML, databases, algorithms, book summaries, economics, psychology, and more.
+Personal knowledge base ("Deep Notes" / "Second Brain") built with Docusaurus 3.10, containing 2900+ markdown notes (~280k lines of prose) across 400+ folders, deployed to GitHub Pages at https://deepaksood619.github.io/. Content spans computer science, AI/ML, databases, algorithms, book summaries, economics, psychology, and more.
 
 **Key characteristics:**
 
-- Large-scale documentation site (280k+ lines of markdown)
-- Note-taking follows Zettelkasten method
-- Primary editing done in Obsidian, published via Docusaurus
-- Auto-deploys on push to master branch
+- Docs-only site: docs serve as the site root (`routeBasePath: '/'`, `blog: false`)
+- Zettelkasten note-taking; primary editing in Obsidian, published via Docusaurus
+- Auto-deploys on every push to `master`
 
 ## Development Commands
 
-**Available commands:**
-
 ```bash
-# Install dependencies
-npm ci
-
-# Start dev server (http://localhost:3000)
-npm start
-
-# Build for production
-npm run build
-
-# Serve production build locally
-npm run serve
-
-# Clear Docusaurus cache
-npm run clear
-
-# Pre-commit checks (runs automatically via hooks)
-pre-commit run --all-files
+npm ci                       # Install dependencies (clean install)
+npm start                    # Dev server with hot reload (http://localhost:3000)
+npm run build                # Production build (fails on broken links)
+npm run serve                # Serve the production build locally
+npm run clear                # Clear Docusaurus cache (.docusaurus/)
+pre-commit run --all-files   # Run all pre-commit hooks manually
 ```
 
-**Environment requirements:**
+**Docker alternative:** `docker-compose up` builds/serves via `Dockerfile` (see `docker-compose.yaml`).
 
-- Node.js ≥18.0
-- For large builds, set: `NODE_OPTIONS=--max_old_space_size=4096`
+**Environment:**
 
-## Content Structure
+- Node.js ≥18 locally; CI builds on Node 21
+- Large builds need memory: `NODE_OPTIONS=--max_old_space_size=4096` (set in CI; use locally if the build OOMs)
+- No test suite — validation is the production build (broken links throw) plus pre-commit hooks
 
-All content lives in `/docs` with topic-based folders:
+## Architecture
 
-- `ai/` - ML algorithms, LLM, computer vision, NLP, deep learning
-- `algorithms/`, `data-structures/` - CS fundamentals
-- `databases/`, `databases-sql/`, `databases-nosql/`, `data-warehouses/` - Database topics
-- `devops/`, `cloud/`, `frontend/` - Engineering topics
-- `book-summaries/` - Book notes
-- `economics/`, `psychology/`, `management/` - Non-technical knowledge
-- `about-deepak-sood/` - Personal profile and experience
+**`docusaurus.config.js`** is the single source of build behavior. Non-obvious pieces:
 
-**Navigation:** Sidebar auto-generates from folder structure (configured in `sidebars.js`). Alphabetically sorted, nested structure.
+- **Rspack "faster" pipeline** (`future.faster`, Docusaurus 3.10+): Rspack bundler + persistent cache, parallel SSG worker threads, MDX cross-compiler cache, plus a custom inline webpack plugin disabling `concatenateModules` for faster rebuilds. This is why rebuilds are fast; don't remove without reason.
+- **Search: Algolia** (`themeConfig.algolia`, index `deepaksood619io.tmp`). The `@easyops-cn/docusaurus-search-local` dependency is installed but its theme block is commented out — Algolia is the active search.
+- **Math: KaTeX** via `remark-math` + `rehype-katex` (KaTeX CSS loaded from CDN); LaTeX math renders in notes.
+- **Custom remark plugin** `src/remark/obsidian-image-paths.js` (registered as `beforeDefaultRemarkPlugins`): rewrites Obsidian-style image URLs (`media/<file>`) to the correct depth-relative path at build, so notes at any folder depth reference images the same way. See "Content" below.
+- **Excluded from build** (`docs.exclude`): `**/office/**`, `**/flashcards.md`, `**/flashcards-*.md`. `/office` is the only Google-Drive-synced folder and holds sensitive data — never read or edit it without explicit approval.
+- **Other plugins:** PWA (offline), ideal-image (responsive images, disabled in dev), gtag + Google Tag Manager, sitemap.
+- **Link safety:** `onBrokenLinks: 'throw'` and `markdown.hooks.onBrokenMarkdownLinks: 'throw'` — any broken internal link fails the build.
+- `showLastUpdateAuthor`/`showLastUpdateTime` are on, so the build needs full git history (CI checks out with `fetch-depth: 0`).
 
-## Architecture Notes
+**Other source dirs:** `src/css/custom.css` (theme overrides); `sidebars.js` (a single autogenerated sidebar from the `docs/` tree — alphabetical, nested). `numberPrefixParser: false`, so numeric filename prefixes are kept literally — use them only for intentional ordering.
 
-**Docusaurus configuration** (`docusaurus.config.js`):
+## Content
 
-- Docs-only mode (no blog) - docs serve as site root (`routeBasePath: '/'`)
-- Algolia search integration for full-text search
-- Mermaid diagram support via `@docusaurus/theme-mermaid`
-- PWA plugin for offline access
-- Google Analytics (gtag) + Google Tag Manager
-- `/office` folder excluded from build (the only folder synced to Google Drive; the rest of the repo is a plain local git checkout)
+All content lives in `/docs`, organized into topic folders (`ai/`, `algorithms/`, `databases*/`, `data-warehouses/`, `devops/`, `cloud/`, `economics/`, `knowledge/`, `psychology/`, `book-summaries/`, `about-deepak-sood/`, …). The sidebar auto-generates from this structure.
 
-**Content guidelines:**
+**Images:** store in `docs/media/`; in markdown reference them Obsidian-style as `media/<file>` (or `../media/...`) — the remark plugin normalizes the path for the file's depth.
 
-- Markdown files may contain internal links using relative paths
-- Mermaid diagrams supported in markdown code blocks
-- Images stored in `/docs/media/`
-- Number prefixes in filenames are NOT parsed (`numberPrefixParser: false`)
+**Markdown/MDX, frontmatter, slugs, Obsidian CLI, and all content-authoring rules:** see [docs/CLAUDE.md](docs/CLAUDE.md). Project-wide invariants worth repeating: no H1 (title comes from frontmatter), never change an existing `slug` (breaks links), standard markdown links only (no `[[wikilinks]]`), always fence code blocks with a language, and escape `<`, `>`, `{...}` in prose for MDX.
+
+**Automated note workflows** (project skills in `.claude/skills/`, invoked by slash command): `/note` (add & auto-categorize a topic), `/study` (interactive study + note update), `/flashcards` (LearnKit flashcards), `/company-analysis` (financial analysis into `economics/`).
 
 ## Deployment
 
-GitHub Actions workflow (`.github/workflows/deploy.yml`) auto-deploys on:
+`.github/workflows/deploy.yml` runs on push to `master` (or manual dispatch): `npm ci` → cache `.docusaurus`/`node_modules/.cache` → `npm run build` → publish `./build` to the `gh-pages` branch (peaceiris/actions-gh-pages, `force_orphan`). Served at https://deepaksood619.github.io/. `build-deploy.sh` is a manual fallback for the same gh-pages push.
 
-- Push to `master` branch
-- Manual workflow dispatch
+## Pre-commit Hooks (`.pre-commit-config.yaml`)
 
-Build artifacts published to `gh-pages` branch → served at https://deepaksood619.github.io/
+Run automatically on commit:
 
-## Pre-commit Hooks
+- `markdownlint` + `markdownlint-fix` — lint/auto-fix markdown (config in `.markdownlint.jsonc`)
+- `check-markdown-links` → `check-markdown-links.js` — custom internal-link validator
+- `docusaurus-mdx-checker` → `npx docusaurus-mdx-checker` — catches MDX-incompatible syntax before it breaks the build
+- `black` — formats any Python
+- pre-commit-hooks: large-file, trailing-whitespace, end-of-file-fixer, check-yaml, merge-conflict, case-conflict, `detect-aws-credentials`, `detect-private-key`
 
-Configured in `.pre-commit-config.yaml`:
-
-- `markdownlint` - Markdown linting/auto-fixing
-- `black` - Python code formatting
-- Large file detection, trailing whitespace, YAML validation
-- Custom `docusaurus-mdx-checker.sh` - Validates MDX compatibility
-
-**To bypass hooks** (not recommended): `git commit --no-verify`
-
-## Working with Content
-
-**When editing markdown files:**
-
-- Preserve relative link structure between docs
-- Images use relative paths to `/docs/media/`
-- Frontmatter not required but can include title/description
-- Mermaid diagrams: use ```mermaid code blocks
-- Internal links validated at build time (`onBrokenLinks: 'throw'`)
-
-**When adding new topic areas:**
-
-- Create folder under `/docs`
-- Add index file or individual .md files
-- Sidebar auto-generates from structure
-- Consider existing taxonomy before creating top-level folders
-
-**Testing changes:**
-
-- Run `npm start` to preview with hot reload
-- Check for broken links (build will fail on broken links)
-- Verify search indexing after deployment (Algolia)
-
-## Content Editing
-
-**For content editing, Obsidian CLI usage, and markdown formatting guidelines:**
-→ See [docs/CLAUDE.md](docs/CLAUDE.md)
+Bypass (discouraged): `git commit --no-verify`. **Never auto-commit — commit only when the user explicitly asks** (see docs/CLAUDE.md).
 
 ## CLAUDE.md Hierarchy
 
+Claude Code loads every CLAUDE.md from the root down to the working directory; inner files extend and override outer ones.
+
 ```text
-.
-├── CLAUDE.md (this file - project infrastructure)
-└── docs/
-    ├── CLAUDE.md (content infrastructure - Obsidian CLI, markdown rules)
-    ├── economics/
-    │   ├── CLAUDE.md (financial KB - inherits docs/CLAUDE.md)
-    │   └── company-analysis/
-    │       └── CLAUDE.md (company analysis - inherits all above)
-    ├── education/CLAUDE.md (education wiki - inherits docs/CLAUDE.md)
-    └── ideas/CLAUDE.md (startup research - inherits docs/CLAUDE.md)
+CLAUDE.md                                  # this file — project infrastructure (build, deploy, config)
+docs/CLAUDE.md                             # content infrastructure — Obsidian CLI, markdown/MDX rules
+docs/economics/CLAUDE.md                   # financial KB
+docs/economics/company-analysis/CLAUDE.md  # company analysis
+docs/education/CLAUDE.md                   # education research wiki
+docs/ideas/CLAUDE.md                       # startup research
 ```
 
-**How hierarchy works:**
-
-- Claude Code walks UP the directory tree loading all CLAUDE.md files
-- Inner files take precedence for conflicting instructions
-- Instructions are additive (child extends parent)
-
-## When to Create Domain CLAUDE.md Files
-
-Create domain-specific CLAUDE.md files for **LLM-maintained knowledge bases** where Claude actively:
-
-- Creates/updates structured content (not just edits existing notes)
-- Maintains cross-references and consistency
-- Follows templates and quality standards
-- Performs systematic research and synthesis
-
-**Current domains with CLAUDE.md files:**
-
-- `economics/` - Financial research, company analysis, taxation
-- `economics/company-analysis/` - Detailed company fundamental/technical analysis
-- `education/` - Education startup research wiki
-- `ideas/` - Multi-domain startup opportunity research
-
-**Folders WITHOUT CLAUDE.md files** (passive note collections):
-
-- `ai/`, `databases/`, `algorithms/`, `book-summaries/`, etc.
-- These are personal learning notes edited manually in Obsidian
-- They inherit all rules from `docs/CLAUDE.md` automatically
+Create a domain CLAUDE.md only for **LLM-maintained** KBs — where Claude authors structured content, maintains cross-references, and follows templates (e.g. `economics/`, `education/`, `ideas/`). Passive note collections (`ai/`, `databases/`, `algorithms/`, `book-summaries/`, …) need none; they inherit `docs/CLAUDE.md`.
 
 ## Working Directory
 
-**Recommended:** Open Claude Code at project root (`deepaksood619.github.io/`)
-
-- Full access to git operations and build file visibility
-- CLAUDE.md hierarchy loads automatically when you cd to subfolders
-- Use `cd docs/economics` to focus context when needed
-
-## Obsidian Integration
-
-Primary editing happens in Obsidian with these considerations:
-
-- Obsidian-specific syntax (e.g., `[[wikilinks]]`) NOT compatible - use standard markdown links
-- Graph view and backlinks are Obsidian-only features
-- `.obsidian/` folder contains Obsidian settings (git-ignored except hotkeys.json)
-- See `docs/CLAUDE.md` for complete Obsidian CLI reference
+Open Claude Code at the project root for full git and build visibility; `cd` into a subfolder (e.g. `docs/economics`) to focus context — the hierarchy loads automatically.

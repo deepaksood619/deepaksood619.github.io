@@ -266,4 +266,4 @@ Based on the physiological evidence, the recommendations for periprandial hydrat
 
 In summary, water is a critical, dynamic facilitator of the digestive process, not a mechanical impediment. By intelligently tailoring fluid volume, temperature, and timing to one's individual gastrointestinal anatomy and metabolic objectives, periprandial hydration can be safely utilized to optimize nutrient absorption, manage body weight, stabilize glycemic responses, and prevent acute digestive discomfort.
 
-[‎Gemini - direct access to Google AI](https://gemini.google.com/share/65709b02c4a4)
+[Gemini - direct access to Google AI](https://gemini.google.com/share/65709b02c4a4)

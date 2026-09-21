@@ -207,25 +207,30 @@ Lanreotide resupply timeline (H1 FY27 per company guidance) is met roughly on sc
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results (October-November 2026) — watch for EBITDA margin trajectory toward the 18.5-20% guided range
 - Any update on Lanreotide/Pharmathen resupply timeline
 
 **Medium-term (3-12 months):**
+
 - gAdvair launch and initial US market share capture
 - Lanreotide production resumption (guided H1 FY27)
 
 **Long-term (1-3 years):**
+
 - Oncology biologics licensing deals (Keytruda biosimilar QL2107 with Qilu Pharma; HER2 bispecific ADC with SBP Group) reaching commercialization
 - New CEO's strategic direction becoming clearer
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. EBITDA margin trend (target: recovery toward 18.5-20% guided range)
 2. Lanreotide resupply status
 3. India "One India" chronic-therapy growth sustainability
 
 **Trigger Events:**
+
 - ✅ **Buy more:** Lanreotide resupply confirmed; EBITDA margin recovers to guided range; gAdvair market share tracking ahead of the ~12-18% estimate
 - 🔻 **Reduce/Exit:** Further margin guidance cuts; additional CDMO/facility disruptions; South Africa currency shock materially hits One Africa segment
 

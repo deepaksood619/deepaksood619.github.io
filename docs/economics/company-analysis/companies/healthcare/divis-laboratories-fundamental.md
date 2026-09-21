@@ -208,25 +208,30 @@ Business fundamentals remain excellent, but the stock re-rates modestly toward t
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Q2 FY27 results (October-November 2026) — watch whether the ~41% margin level from Q1 FY27 is sustained or normalizes
 - Any confirmed named GLP-1/peptide contract disclosures
 
 **Medium-term (3-12 months):**
+
 - Kakinada SEZ Unit 3 remaining process blocks coming online
 - Customer concentration trend (watch for further increase or diversification)
 
 **Long-term (1-3 years):**
+
 - GLP-1/peptide API demand scaling into a durable, multi-year revenue stream
 - Potential valuation normalization toward sector-typical multiples as growth matures
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. OPM sustainability (watch whether ~40%+ Q1 FY27 level holds or reverts toward the 30-33% historical range)
 2. Top-5 customer concentration trend
 3. Capex progress on Kakinada Unit 3 and molecule-level demand confirmation
 
 **Trigger Events:**
+
 - ✅ **Buy more:** A significant valuation correction (20%+ pullback) while fundamentals remain intact; confirmed large GLP-1/peptide contract wins
 - 🔻 **Reduce/Exit:** Customer concentration continues rising past 50%+; margin reverts sharply from Q1 FY27's elevated level; signs of Kakinada Unit 3 underutilization
 

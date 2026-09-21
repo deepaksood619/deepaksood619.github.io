@@ -106,7 +106,10 @@ updated: 2026-09-19
 
 ## Personal Projects
 
-- [Postgres, DuckDB & Metabase Data Platform Architecture](about-deepak-sood/projects/personal/data-platform-architecture.md)
+- [Data Platform Architecture: Postgres + DuckDB Baseline](about-deepak-sood/projects/personal/data-platform-architecture-postgres-duckdb.md)
+    - [Alternative: Full DuckDB Ecosystem (CDC + DuckLake + QUACK)](about-deepak-sood/projects/personal/data-platform-architecture-duckdb-ecosystem.md)
+    - [Alternative: ClickHouse Instead of DuckDB](about-deepak-sood/projects/personal/data-platform-architecture-clickhouse.md)
+    - [Comparison of the Three Architectures](about-deepak-sood/projects/personal/data-platform-architecture-comparison.md)
 - [28-woocommerce-ai-assistant-technical-deep-dive](about-deepak-sood/projects/personal/28-woocommerce-ai-assistant-technical-deep-dive.md)
 - [29-woocommerce-ai-assistant-product-journey](about-deepak-sood/projects/personal/29-woocommerce-ai-assistant-product-journey.md)
 - [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/personal/70-interview-datainsight-alerting-engine.md) (Nov'2023)

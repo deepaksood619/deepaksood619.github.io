@@ -3,7 +3,7 @@ slug: /knowledge/law/others
 title: Others
 description: Explore legal services including divorce lawyer costs, RPAD, and writ jurisdiction in India for comprehensive legal guidance and support.
 created: 2023-03-05
-updated: 2026-01-10
+updated: 2026-09-20
 ---
 RPAD (Registered Post with Acknowledgement Due)
 
@@ -51,6 +51,10 @@ The doctrine of casus omissus outlines the circumstances where a court can suppl
 ### Doli Incapax
 
 Section 82 of the IPC, also known as doli incapax, states that "Nothing is an offence which is done by a child under 7 years of age," **providing absolute immunity from criminal prosecution** for children below 7 years old. The reason for this exemption is that children **below the age of 7 cannot understand the difference between right and wrong**. The law aims to protect them by granting complete immunity from criminal prosecution, trial, and conviction.
+
+### Perjury (False Evidence)
+
+See [Perjury in India](knowledge/law/perjury-india.md) — why perjury feels unpunished despite being a crime under Sections 227/229 of the Bharatiya Nyaya Sanhita, and how enforcement compares to the US/UK.
 
 ### Other Doctrines
 
