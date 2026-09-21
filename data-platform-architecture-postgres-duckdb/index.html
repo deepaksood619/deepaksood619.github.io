@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-about-deepak-sood/projects/personal/data-platform-architecture-postgres-duckdb" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.10.2">
+<title data-rh="true">Data Platform Architecture: Postgres + DuckDB Baseline | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/data-platform-architecture-postgres-duckdb"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Data Platform Architecture: Postgres + DuckDB Baseline | Deep Notes"><meta data-rh="true" name="description" content="Design notes for a hybrid OLTP/OLAP data platform - Postgres as source of truth, a DuckDB analytical layer, shared Metabase BI, and whether a lakehouse format (DuckLake) is actually needed for collaborative gold tables."><meta data-rh="true" property="og:description" content="Design notes for a hybrid OLTP/OLAP data platform - Postgres as source of truth, a DuckDB analytical layer, shared Metabase BI, and whether a lakehouse format (DuckLake) is actually needed for collaborative gold tables."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/data-platform-architecture-postgres-duckdb"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/data-platform-architecture-postgres-duckdb" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/data-platform-architecture-postgres-duckdb" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"About Deepak Sood","item":"https://deepaksood619.github.io/about-deepak-sood/readme"},{"@type":"ListItem","position":2,"name":"Overview of Current Projects","item":"https://deepaksood619.github.io/about-deepak-sood/projects/readme"},{"@type":"ListItem","position":3,"name":"Data Platform Architecture: Postgres + DuckDB Baseline","item":"https://deepaksood619.github.io/data-platform-architecture-postgres-duckdb"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css" integrity="sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM" crossorigin="anonymous">
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.5f7a29ba.css">
+<script src="/assets/js/runtime~main.5559bb81.js" defer="defer"></script>
+<script src="/assets/js/main.3e293b71.js" defer="defer"></script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top navbarHideable_m1mJ"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a><a class="navbar__item navbar__link" href="/about-deepak-sood/readme">About Me</a><a class="navbar__item navbar__link" href="/ai/llm/readme">LLM Notes</a><a class="navbar__item navbar__link" href="/databases/readme">Databases</a><a class="navbar__item navbar__link" href="/economics/readme">Economics</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Meta+k)" aria-keyshortcuts="Meta+k"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8" stroke="currentColor" fill="none" stroke-width="1.4"></circle><path d="m21 21-4.3-4.3" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd sidebarWithHideableNavbar_wUlq"><a tabindex="-1" class="sidebarLogo_isFc" href="/"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"><b>Deep Notes</b></a><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/CLAUDE"><span class="linkLabel_WmDU">claude.md</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href="/about-deepak-sood/readme"><span class="categoryLinkLabel_W154">About Deepak Sood</span></a><button aria-label="Collapse sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/about-deepak-sood/achievements-activities-awards-certifications"><span class="categoryLinkLabel_W154">professional</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/about-deepak-sood/financial-journey-till-2026"><span class="categoryLinkLabel_W154">profile</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" tabindex="0" href="/about-deepak-sood/projects/readme"><span class="categoryLinkLabel_W154">Overview of Current Projects</span></a><button aria-label="Collapse sidebar category &#x27;Overview of Current Projects&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/about-deepak-sood/projects/75-bake-io-data-engineering"><span class="categoryLinkLabel_W154">bake-io</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/about-deepak-sood/projects/99-ciso-cybersecurity"><span class="categoryLinkLabel_W154">ciso-cybersecurity</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/about-deepak-sood/projects/25-wso2-automated-claims-processing"><span class="categoryLinkLabel_W154">opstree</span></a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" tabindex="0" href="/about-deepak-sood/projects/28-woocommerce-ai-assistant-technical-deep-dive"><span class="categoryLinkLabel_W154">personal</span></a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/about-deepak-sood/projects/28-woocommerce-ai-assistant-technical-deep-dive"><span class="linkLabel_WmDU">WooCommerce AI Assistant Insights</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/about-deepak-sood/projects/29-woocommerce-ai-assistant-product-journey"><span class="linkLabel_WmDU">WooCommerce AI Assistant Overview</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/about-deepak-sood/projects/70-interview-datainsight-alerting-engine"><span class="linkLabel_WmDU">DataInsight Alerting Engine Interview</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/about-deepak-sood/projects/98-others"><span class="linkLabel_WmDU">Automated Faculty Self-Appraisal System</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/data-platform-architecture-clickhouse"><span class="linkLabel_WmDU">Data Platform Alternative: ClickHouse Instead of DuckDB</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/data-platform-architecture-comparison"><span class="linkLabel_WmDU">Data Platform Architecture Comparison: Three Options</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/data-platform-architecture-duckdb-ecosystem"><span class="linkLabel_WmDU">Data Platform Alternative: Full DuckDB Ecosystem (CDC + DuckLake + QUACK)</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/data-platform-architecture-postgres-duckdb"><span class="linkLabel_WmDU">Data Platform Architecture: Postgres + DuckDB Baseline</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/data-platform-architecture"><span class="linkLabel_WmDU">Postgres, DuckDB &amp; Metabase Data Platform Architecture</span></a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role="button" aria-expanded="false" tabindex="0" href="/about-deepak-sood/projects/80-stashfin"><span class="categoryLinkLabel_W154">stashfin</span></a></div></li></ul></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ai/readme"><span class="categoryLinkLabel_W154">AI</span></a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/algorithms/readme"><span class="categoryLinkLabel_W154">Algorithms</span></a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/book-summaries/readme"><span class="categoryLinkLabel_W154">Book Summaries</span></a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cloud/readme"><span class="categoryLinkLabel_W154">Cloud</span></a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/computer-science/readme"><span class="categoryLinkLabel_W154">Computer Science</span></a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/courses/readme"><span class="categoryLinkLabel_W154">Courses / Certifications</span></a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/data-structures/readme"><span class="categoryLinkLabel_W154">Data Structures</span></a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/data-warehouses/readme"><span class="categoryLinkLabel_W154">Data Warehouses</span></a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases/readme"><span class="categoryLinkLabel_W154">Databases</span></a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases-nosql/readme"><span class="categoryLinkLabel_W154">NoSQL Databases</span></a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases-sql/readme"><span class="categoryLinkLabel_W154">SQL Databases</span></a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/decentralized-applications/readme"><span class="categoryLinkLabel_W154">Decentralized Applications</span></a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/devops/readme"><span class="categoryLinkLabel_W154">DevOps</span></a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/economics/readme"><span class="categoryLinkLabel_W154">Economics &amp; Finance</span></a><button aria-label="Expand sidebar category &#x27;Economics &amp; Finance&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/education/readme"><span class="categoryLinkLabel_W154">Education</span></a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/frontend/readme"><span class="categoryLinkLabel_W154">Frontend</span></a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ideas/readme"><span class="categoryLinkLabel_W154">Ideas - Startup Research Index</span></a><button aria-label="Expand sidebar category &#x27;Ideas - Startup Research Index&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/knowledge/readme"><span class="categoryLinkLabel_W154">Knowledge</span></a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/languages/readme"><span class="categoryLinkLabel_W154">Languages</span></a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/management/readme"><span class="categoryLinkLabel_W154">Management</span></a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/mathematics/readme"><span class="categoryLinkLabel_W154">Mathematics</span></a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/networking/readme"><span class="categoryLinkLabel_W154">Networking</span></a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/psychology/readme"><span class="categoryLinkLabel_W154">Psychology</span></a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/python/readme"><span class="categoryLinkLabel_W154">Python</span></a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/"><span class="linkLabel_WmDU">Deepak&#x27;s Personal Knowledge Wiki</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/technologies/readme"><span class="categoryLinkLabel_W154">Technologies</span></a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/about-deepak-sood/readme"><span>About Deepak Sood</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/about-deepak-sood/projects/readme"><span>Overview of Current Projects</span></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">personal</span></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Data Platform Architecture: Postgres + DuckDB Baseline</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Data Platform Architecture: Postgres + DuckDB Baseline</h1></header><h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="status">Status<a href="#status" class="hash-link" aria-label="Direct link to Status" title="Direct link to Status" translate="no">​</a></h2>
+<p>This is a design/decision record, not a build log. Nothing described here is implemented yet —
+there is no real data in any of these layers. The point of writing it down now is to pressure-test
+the architecture on paper (and later against synthetic/mock data) before writing pipeline code
+against it, so the reasoning survives even if the first attempt at the design changes.</p>
+<p>This is the <strong>current recommendation</strong>. Two alternatives were evaluated in full and set aside for
+now, each with its own document: <strong><a class="" href="/data-platform-architecture-duckdb-ecosystem">a full DuckDB ecosystem variant</a></strong>
+(CDC + DuckLake + QUACK adopted together) and <strong><a class="" href="/data-platform-architecture-clickhouse">a ClickHouse-based warehouse</a></strong>.
+See the <strong><a class="" href="/data-platform-architecture-comparison">comparison document</a></strong> for a side-by-side and
+the conditions that would justify switching.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="overview">Overview<a href="#overview" class="hash-link" aria-label="Direct link to Overview" title="Direct link to Overview" translate="no">​</a></h2>
+<p>Architecture for a personal data platform: keep a transactional Postgres database as the single
+source of truth for a live application, while giving a small team of analysts fast, shared,
+self-serve analytics on top of a dataset that&#x27;s expected to grow into the tens-of-GB range and be
+updated regularly (not just appended to) — without adding operational overhead the project&#x27;s
+actual scale doesn&#x27;t justify yet.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="requirements">Requirements<a href="#requirements" class="hash-link" aria-label="Direct link to Requirements" title="Direct link to Requirements" translate="no">​</a></h2>
+<ul>
+<li class="">Postgres stays the OLTP source of truth; the app never gets slower because analysts are running
+heavy aggregate queries against the same data.</li>
+<li class="">Analysts get fast ad hoc/aggregate query performance, shared across the team, not one person&#x27;s
+laptop.</li>
+<li class="">The source database is expected to be updated regularly — existing rows change, not just new
+rows appended — so the analytics layer needs a real answer for &quot;how does it stay in sync without
+re-copying everything on every change.&quot;</li>
+<li class="">A data-quality fix lands once, in one place, and every downstream table inherits it — never
+patched per-analysis.</li>
+<li class="">Room for a handful of people to collaboratively curate a shared table (not just read
+dashboards), without reaching for more infrastructure than the problem actually needs.</li>
+<li class="">No infrastructure added ahead of an actual scale/concurrency need.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="bronze--silver--gold-layering">Bronze / Silver / Gold Layering<a href="#bronze--silver--gold-layering" class="hash-link" aria-label="Direct link to Bronze / Silver / Gold Layering" title="Direct link to Bronze / Silver / Gold Layering" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Bronze</strong> — raw ingested payloads in object storage, one prefix per source, partitioned by
+ingestion date. Append-only, never mutated after write — the durable source of truth precisely
+because it never changes; every downstream fix is a script that reads bronze and rewrites
+silver, not a hand patch applied once.</li>
+<li class=""><strong>Silver</strong> — normalized, structured tables in Postgres. This is what the application reads and
+writes directly, and the only layer that gets corrected when a data-quality bug is found.</li>
+<li class=""><strong>Gold</strong> — aggregated, analysis-ready tables. Splits three ways depending on audience and write
+pattern (below) rather than one blanket answer.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="postgres-serving-layer-and-source-of-truth">Postgres: Serving Layer and Source of Truth<a href="#postgres-serving-layer-and-source-of-truth" class="hash-link" aria-label="Direct link to Postgres: Serving Layer and Source of Truth" title="Direct link to Postgres: Serving Layer and Source of Truth" translate="no">​</a></h2>
+<ul>
+<li class="">The only thing the frontend/backend touches directly — the right tool for low-traffic,
+mostly-read, occasional-write, transactional access.</li>
+<li class=""><strong>Full-text search</strong>: a generated <code>tsvector</code> column over the relevant text fields plus a GIN
+index, planned in from the start rather than assumed to fall out of the schema for free.</li>
+<li class=""><strong>Least-privilege access</strong>: the app gets a read-write role; a dedicated <strong>read-only role</strong> for
+anything else that touches this database (BI tool connections, sync jobs) — separate from the
+app&#x27;s credential, so a shared analytics box or a nightly job can never mutate production data.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="duckdb-the-analytical-layer">DuckDB: the Analytical Layer<a href="#duckdb-the-analytical-layer" class="hash-link" aria-label="Direct link to DuckDB: the Analytical Layer" title="Direct link to DuckDB: the Analytical Layer" translate="no">​</a></h2>
+<ul>
+<li class="">A local, columnar, embedded copy of the OLTP data, rebuilt/synced on a schedule — free, fast,
+and safe to query as hard as analysis needs without loading the instance the product depends on.</li>
+<li class="">Always derived, never hand-edited directly.</li>
+<li class="">Default path for any OLAP-shaped question (aggregates, dashboards, exploration); fall back to
+querying Postgres directly only when the copy is confirmed stale for the question being asked,
+or the very latest row is genuinely required.</li>
+<li class="">Key constraint that shapes everything else in this design: <strong>DuckDB has no client-server
+daemon and allows many readers or one writer on a file, never both at once.</strong></li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="the-clickhouse-detour-performance-cpu-memory-storage">The ClickHouse Detour: Performance, CPU, Memory, Storage<a href="#the-clickhouse-detour-performance-cpu-memory-storage" class="hash-link" aria-label="Direct link to The ClickHouse Detour: Performance, CPU, Memory, Storage" title="Direct link to The ClickHouse Detour: Performance, CPU, Memory, Storage" translate="no">​</a></h2>
+<p>Before settling on DuckDB, seriously considered replacing it with ClickHouse — a real
+client-server warehouse with native concurrent writers and mature CDC ingestion tooling. Worth
+recording the actual trade-off, since it wasn&#x27;t a quick dismissal:</p>
+<p><strong>What ClickHouse would have fixed cleanly:</strong></p>
+<ul>
+<li class="">A single BI-tool connection can join across every table on the server — no per-file/per-domain
+connection juggling the way DuckDB requires (see the Metabase section below).</li>
+<li class="">Native concurrent readers <em>and</em> writers — the single-writer constraint DuckDB has just doesn&#x27;t
+exist.</li>
+<li class="">Mature, purpose-built Postgres CDC paths (below), instead of having to defer CDC as &quot;a later
+option once batch sync is the bottleneck.&quot;</li>
+</ul>
+<p><strong>Performance</strong></p>
+<ul>
+<li class="">Both are vectorized, columnar engines and sit near the top of published single-node OLAP
+benchmarks (e.g. ClickBench) — neither is &quot;slow&quot;; the difference is in shape, not raw speed.</li>
+<li class="">DuckDB has no network hop and near-zero startup cost (it&#x27;s in-process) — for a single analyst
+running ad hoc queries against data that fits on one machine, it can feel as fast or faster than
+ClickHouse. Its join optimizer and out-of-core hash join are genuinely excellent — often more
+predictable on complex multi-way joins than ClickHouse, which favors denormalized/wide tables
+and rewards careful query design.</li>
+<li class="">ClickHouse&#x27;s advantage is specifically <strong>concurrent multi-user load</strong> — a query scheduler and
+thread pool built for many simultaneous queries against one shared server, with central resource
+governance (per-user/role memory quotas, query queueing). DuckDB has no equivalent; each
+connection/process manages its own memory, fine when mediated through one BI tool connection,
+but with no centralized control.</li>
+</ul>
+<p><strong>CPU</strong></p>
+<ul>
+<li class="">DuckDB: no background daemon. CPU is spent only when a query runs.</li>
+<li class="">ClickHouse: <code>MergeTree</code> engines run continuous background merge/compaction threads — a real,
+ongoing CPU cost even when idle, and worse under frequent small writes. Streaming CDC writes
+row-by-row into ClickHouse is a known way to hit the &quot;too many parts&quot; problem: small parts
+accumulate faster than merges can consolidate them, background-merge CPU spikes, and inserts
+eventually throttle. The fix is well-established (batch inserts via a buffer/async_insert rather
+than per-row CDC writes) but it&#x27;s a design constraint to build in from day one.</li>
+</ul>
+<p><strong>Memory</strong></p>
+<ul>
+<li class="">DuckDB can spill larger-than-RAM operations (sorts, joins, aggregations) to disk gracefully — a
+real strength for a single box without sizing RAM for worst-case query size.</li>
+<li class="">ClickHouse manages memory server-side with configurable per-query/per-user limits, which matters
+more once several analysts share one server — but the server needs headroom for concurrent
+queries <em>and</em> background merges running simultaneously, not just peak query size.</li>
+</ul>
+<p><strong>Storage / compression</strong></p>
+<ul>
+<li class="">Both use strong columnar compression by default (dictionary encoding, RLE, DuckDB&#x27;s FSST for
+strings, ZSTD support in both) — out of the box, comparable.</li>
+<li class="">ClickHouse&#x27;s edge is tunability at scale: per-column codecs (<code>Delta</code>, <code>DoubleDelta</code>, <code>Gorilla</code>
+for floats/time series, <code>LowCardinality</code> for repeated strings) can meaningfully beat DuckDB&#x27;s
+defaults — but only if someone invests the time to choose codecs per column. Untuned, the gap is
+small.</li>
+<li class="">Redundancy/backup is the bigger structural difference: DuckDB&#x27;s &quot;backup&quot; is copying one file.
+ClickHouse gives native replication and tiered/object-storage-backed storage, but that&#x27;s
+infrastructure to own and operate, not something that comes free.</li>
+</ul>
+<p><strong>The actual cost trade-off</strong>: DuckDB is free at rest — zero cost when idle, since there&#x27;s no
+server. ClickHouse requires a continuously-running, correctly-sized box (headroom for concurrent
+queries <em>and</em> background merges) even when idle. At the scale this project is actually at (tens of
+GB, a handful of analysts), that&#x27;s a real, ongoing cost DuckDB doesn&#x27;t have, and it isn&#x27;t justified
+by the two gaps ClickHouse would close — <strong>finalized on DuckDB</strong>, solving its two real gaps
+directly instead (file-splitting strategy below, and the DuckLake question further down).</p>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="cdc-research-done-during-the-detour-kept-for-later-reference">CDC research done during the detour (kept for later reference)<a href="#cdc-research-done-during-the-detour-kept-for-later-reference" class="hash-link" aria-label="Direct link to CDC research done during the detour (kept for later reference)" title="Direct link to CDC research done during the detour (kept for later reference)" translate="no">​</a></h3>
+<p>Even though ClickHouse wasn&#x27;t adopted, the CDC research is worth keeping, since &quot;Postgres updated
+regularly&quot; may eventually justify CDC into whatever the analytical layer is:</p>
+<ul>
+<li class=""><strong><a href="https://clickhouse.com/blog/introducing-walshadow" target="_blank" rel="noopener noreferrer" class="">WalShadow</a></strong> — ClickHouse&#x27;s own open
+source Postgres CDC tool. Instead of logical replication (what most CDC tools use), it consumes
+the same <strong>physical WAL</strong> stream Postgres uses for standby replication, decoding it directly into
+ClickHouse-native blocks. Per ClickHouse&#x27;s own published benchmarks against PeerDB: ~200ms
+commit-to-visible latency at full source throughput, versus ~10s latency and roughly 40% of
+source throughput for a logical-replication-based pipeline. Also handles schema evolution
+(<code>ADD/RENAME/DROP COLUMN</code>, <code>CREATE TABLE</code>) as normal operation, not a special case.<!-- -->
+<ul>
+<li class=""><strong>Caveat</strong>: consuming physical WAL requires the source Postgres to expose it, which most
+managed Postgres offerings don&#x27;t. Works on self-hosted Postgres or ClickHouse&#x27;s own Managed
+Postgres (physical-WAL access was private preview at time of research). Confirm this before
+assuming it&#x27;s a drop-in for whatever Postgres hosting gets chosen.</li>
+<li class="">Land CDC&#x27;d tables using <code>ReplacingMergeTree</code> (keyed by primary key, versioned by an
+LSN/updated-at column); queries against recently-updated rows need <code>FINAL</code> or an explicit
+dedup pattern (<code>argMax</code> per key) to avoid seeing stale/duplicate versions — the real tradeoff
+for the write concurrency this buys.</li>
+</ul>
+</li>
+<li class=""><strong>Fallback: logical-replication-based CDC</strong> (PeerDB, or Debezium) if physical WAL access isn&#x27;t
+available — higher latency, lower throughput, but works against logical replication, which
+essentially every managed Postgres supports.</li>
+<li class=""><strong>Operational risk either way</strong>: a dead CDC consumer means the warehouse goes silently stale, or
+— for logical-replication tools — the replication slot&#x27;s retained WAL grows unbounded on the
+source until disk fills, a production incident on the serving database. Alert on consumer
+liveness and (for logical replication) slot/WAL size.</li>
+</ul>
+<p>For the DuckDB path specifically, CDC stays a later option: Postgres logical replication into
+DuckDB is the next step only once incremental batch sync (below) genuinely can&#x27;t keep up — not
+adopted by default, given the added operational surface (replication slot monitoring) isn&#x27;t
+justified until batch sync is the proven bottleneck.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="shared-hosting-not-one-laptop">Shared Hosting, Not One Laptop<a href="#shared-hosting-not-one-laptop" class="hash-link" aria-label="Direct link to Shared Hosting, Not One Laptop" title="Direct link to Shared Hosting, Not One Laptop" translate="no">​</a></h2>
+<ul>
+<li class="">One modest VM, colocated on the same private network as the Postgres instance — not reached only
+over a residential VPN, since network hop distance is the more likely bottleneck in sync timing
+than raw compute.</li>
+<li class="">Metabase&#x27;s web UI as the primary shared-access path — no SSH, no query-engine knowledge
+required, and it already covers the SQL editor, saved questions, and dashboards this need is
+really after.</li>
+<li class=""><strong>File-splitting strategy matters, and per-table is the wrong granularity.</strong> Metabase maps one
+connection to one DuckDB file, and files can&#x27;t be joined across separate connections — so:<!-- -->
+<ul>
+<li class=""><strong>Per-table files</strong>: sync/atomic-swap cost per change would be small, but this means one
+Metabase connection <em>per table</em> — dozens of unjoinable connections. Rejected.</li>
+<li class=""><strong>One giant warehouse file</strong>: joins work fine in Metabase, but an atomic-swap rebuild has to
+copy the whole file even for a one-row change — cost scales with total warehouse size, not
+with what changed. Rejected for a source that updates regularly.</li>
+<li class=""><strong>Per-domain files</strong> (the actual choice): tables that get queried/joined together stay in the
+same file/connection; an atomic-swap rebuild only copies one domain&#x27;s data; the number of
+Metabase connections stays small (single digits to low tens, matching analysis domains, not
+table count).</li>
+<li class="">For genuine cross-domain joins, build a dedicated rollup file as its own scheduled artifact
+(reads from multiple domain files, writes a joined result) rather than relying on ad hoc
+<code>ATTACH</code> tricks inside a Metabase query — DuckDB does support <code>ATTACH</code>-ing another file
+mid-session, but it&#x27;s driver/version-dependent and better treated as a power-user escape hatch
+than the primary design.</li>
+</ul>
+</li>
+<li class="">SSH access to the box for anyone who needs raw DuckDB/Python access beyond the BI editor.</li>
+<li class=""><strong>Concurrency rule to enforce in every script</strong>: never open a live <code>.duckdb</code> file read-write from
+an ad hoc session while a scheduled build/sync might also touch it. Build into a temp file,
+atomically rename — scoped to the one domain file being updated, not the whole warehouse.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="sync-cadence-postgres-silver--duckdb">Sync Cadence: Postgres (Silver) → DuckDB<a href="#sync-cadence-postgres-silver--duckdb" class="hash-link" aria-label="Direct link to Sync Cadence: Postgres (Silver) → DuckDB" title="Direct link to Sync Cadence: Postgres (Silver) → DuckDB" translate="no">​</a></h2>
+<p>The core worry that shaped this section: a source database that&#x27;s updated <em>regularly</em> — new
+tables added over time, existing rows changed, not just appended — naively implies &quot;rebuild
+everything, constantly.&quot; That&#x27;s only true if the sync job is built two specific wrong ways:</p>
+<ul>
+<li class=""><strong>Discover tables dynamically</strong> (introspect <code>information_schema</code>, or an explicit versioned
+config) rather than a hardcoded table list — a new Postgres table shouldn&#x27;t require editing the
+sync job to be picked up.</li>
+<li class=""><strong>Sync incrementally by default</strong> (<code>updated_at</code>-based append/upsert), not truncate-and-reload.
+Requires every silver table to reliably bump <code>updated_at</code> on both insert <em>and</em> update — confirm
+this before relying on it. Done this way, a regularly-updated source does not mean &quot;rebuild
+everything&quot; on each sync — only the rows that actually changed move.</li>
+<li class="">Combined with the per-domain file split above, an atomic-swap rebuild&#x27;s cost is bounded by &quot;one
+domain&#x27;s changed rows,&quot; not &quot;the whole warehouse,&quot; regardless of how often Postgres changes.</li>
+<li class="">If update frequency ever makes even incremental batch sync run uncomfortably often, Postgres
+logical replication (CDC) into the affected domain file is the next step for specifically the
+high-churn tables — with the WAL-retention monitoring caveat from the CDC section above.</li>
+<li class="">Surface <strong>&quot;data as of <code>{last sync}</code>&quot;</strong> on every dashboard, sourced from the sync job&#x27;s own
+bookkeeping, so staleness is visible rather than assumed.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="gold-layer-three-homes-by-audience-and-write-pattern">Gold Layer: Three Homes, by Audience and Write Pattern<a href="#gold-layer-three-homes-by-audience-and-write-pattern" class="hash-link" aria-label="Direct link to Gold Layer: Three Homes, by Audience and Write Pattern" title="Direct link to Gold Layer: Three Homes, by Audience and Write Pattern" translate="no">​</a></h2>
+<ol>
+<li class=""><strong>Scheduled, analyst-facing, never hand-edited</strong> (e.g. cross-entity rollups, aggregate
+summaries) — a plain DuckDB domain file, single writer per refresh, registered as its own
+Metabase connection so any analyst can query, join against, or build a new question on top of
+it.</li>
+<li class=""><strong>Product-facing</strong> — materializations the application itself serves stay in Postgres, refreshed
+on the sync cadence, because that&#x27;s the only thing the app&#x27;s connection reaches.</li>
+<li class=""><strong>Human-curated, collaboratively edited</strong> — e.g. a canonicalization/aliasing table, or a
+manually reviewed flag queue, where multiple people edit the <em>same</em> rows over time. This is the
+one case a single-writer DuckDB file genuinely can&#x27;t serve — and the case the next section
+works through, rather than assuming a lakehouse format is automatically the answer.</li>
+</ol>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="do-we-actually-need-ducklake">Do We Actually Need DuckLake?<a href="#do-we-actually-need-ducklake" class="hash-link" aria-label="Direct link to Do We Actually Need DuckLake?" title="Direct link to Do We Actually Need DuckLake?" translate="no">​</a></h2>
+<p>DuckLake (a lakehouse format: SQL-database catalog + Parquet data files, adding transactional
+multi-writer support on top of DuckDB) only matters for gold-layer case 3 above — every other
+table in this design has exactly one writer at a time, which plain DuckDB already handles.</p>
+<p>Worth noticing about that one table specifically: it&#x27;s almost certainly <strong>small and
+row-oriented</strong> — an alias/canonicalization table or a review queue is hundreds to low-thousands of
+rows, edited a few at a time by a handful of people. That&#x27;s a transactional access pattern, not an
+analytical one — exactly what Postgres is already good at, and arguably a mismatch for a
+columnar/Parquet-backed format regardless of how solid the format&#x27;s concurrency story is.</p>
+<p>Two real options considered:</p>
+<ol>
+<li class=""><strong>Put that one table in Postgres, not DuckDB at all.</strong> Postgres already handles concurrent
+writers natively — no new technology, no pilot risk. For read-side joins against the rest of
+the gold layer, DuckDB can query Postgres live via its <code>postgres</code> scanner/<code>ATTACH</code> (read-only,
+at query time) instead of the table needing to physically live in DuckDB.</li>
+<li class=""><strong>Adopt DuckLake anyway</strong>, if the goal is keeping everything inside one DuckDB/Parquet
+ecosystem and avoiding a second system with its own concurrency model — accepting a newer,
+still-maturing multi-writer conflict story (real GitHub issues report concurrent-write failures
+and compaction conflicts, even post-1.0) as a tradeoff, piloted on this one low-stakes table.</li>
+</ol>
+<p><strong>Current lean: option 1 — Postgres, not DuckLake.</strong> The table in question is small and
+row-shaped, which plays to Postgres&#x27;s proven strengths rather than DuckLake&#x27;s still-settling ones,
+and avoids adopting new infrastructure to solve a problem that already has a boring, reliable
+answer. DuckLake would only earn its place if this table&#x27;s edit volume or size grew into genuinely
+analytical territory (unlikely for an alias/review-queue table), or if a second concurrently-
+written table appeared that didn&#x27;t fit Postgres for some other reason. <strong>Not fully closed out</strong> —
+worth revisiting if either of those conditions shows up.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="evaluated-and-deferred-quack">Evaluated and Deferred: QUACK<a href="#evaluated-and-deferred-quack" class="hash-link" aria-label="Direct link to Evaluated and Deferred: QUACK" title="Direct link to Evaluated and Deferred: QUACK" translate="no">​</a></h2>
+<p>A beta client-server protocol for remote <code>ATTACH</code> access to a DuckDB instance over the network was
+evaluated and <strong>not</strong> adopted: it solves <em>remote network access</em> to a live DuckDB file, which isn&#x27;t
+the actual gap here — Metabase plus SSH already gives everyone access to the shared VM. The real
+gap was the file-splitting/Metabase-connection problem (solved above) and the concurrent-writer
+question (the DuckLake discussion above). No built-in TLS, permissive default authorization, and a
+documented concurrent-insert ceiling past 8 threads at time of evaluation — revisit once it reaches
+a stated production release, but nothing here currently depends on it.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="data-quality-loop">Data Quality Loop<a href="#data-quality-loop" class="hash-link" aria-label="Direct link to Data Quality Loop" title="Direct link to Data Quality Loop" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Bronze immutable, silver corrected</strong> — every fix, including retroactive backfills for
+already-ingested rows, is a script that reads bronze and rewrites silver. The DuckDB copy
+inherits the fix for free on the next sync; nobody re-implements the same workaround in analysis
+queries.</li>
+<li class=""><strong>One tracked list of known data-quality issues</strong> (what&#x27;s wrong, how it was found, whether it
+needs a one-time backfill vs. an ongoing pipeline fix, status) instead of the same issue being
+independently rediscovered by whoever happens to be looking next.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="script-organization">Script Organization<a href="#script-organization" class="hash-link" aria-label="Direct link to Script Organization" title="Direct link to Script Organization" translate="no">​</a></h2>
+<ul>
+<li class="">Split by pipeline stage: ingestion (source collection) → transform (bronze→silver ETL,
+backfills) → an analyst toolkit (gold-mart builders, ad hoc profiling) → a BI-tool provisioning
+script for dashboards.</li>
+<li class="">Label one-off/bootstrap scripts (initial migrations, one-time backfills) clearly as non-recurring
+so nobody later assumes they&#x27;re scheduled jobs.</li>
+<li class="">Every script reads database credentials from the environment — never hardcode them or commit a
+credentials file.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="open-questions--next-steps">Open Questions / Next Steps<a href="#open-questions--next-steps" class="hash-link" aria-label="Direct link to Open Questions / Next Steps" title="Direct link to Open Questions / Next Steps" translate="no">​</a></h2>
+<ul>
+<li class="">Resolve the DuckLake-vs-Postgres question for the human-curated table once it&#x27;s clear whether
+that table actually needs to exist yet.</li>
+<li class="">Validate this whole design against synthetic/mock data before real ingestion starts — exercise
+the sync job, the read-only role, dynamic table discovery, and a gold-mart build end to end to
+find what breaks before committing to it at real scale.</li>
+<li class="">Confirm whether <code>updated_at</code> is reliably bumped on every silver table before depending on
+incremental sync.</li>
+<li class="">Build full-text search (tsvector/GIN) alongside the first version of the silver schema, not as a
+later addition.</li>
+<li class="">Basic operational hygiene before this is more than one person&#x27;s dependency: alerting on sync job
+failure, confirmed automated Postgres backups, and a real migration tool for schema changes.</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="stack-proposed">Stack (Proposed)<a href="#stack-proposed" class="hash-link" aria-label="Direct link to Stack (Proposed)" title="Direct link to Stack (Proposed)" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Postgres</strong> — OLTP source of truth, dedicated read-only role for analytical access.</li>
+<li class=""><strong>DuckDB</strong> — embedded columnar analytical layer, per-domain files, atomic-swap refresh.</li>
+<li class=""><strong>Postgres</strong> (again, not DuckLake, current lean) — home for the one human-curated
+concurrently-edited gold table, read into DuckDB analysis via live <code>ATTACH</code>/scanner.</li>
+<li class=""><strong>Metabase</strong> — shared analyst-facing SQL editor, saved questions, dashboards.</li>
+<li class=""><strong>A cloud VM, colocated with the Postgres instance</strong> — shared hosting for the DuckDB files and
+Metabase.</li>
+<li class=""><strong>Considered and set aside for now</strong>: ClickHouse (proper warehouse, real cost of a
+continuously-running server), DuckLake (lakehouse format, open question above), WalShadow/PeerDB
+(CDC, deferred until batch sync is the proven bottleneck), QUACK (remote DuckDB protocol, no
+current gap it closes).</li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/about-deepak-sood/projects/personal/data-platform-architecture-postgres-duckdb.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2026-09-21T11:29:09.000Z" itemprop="dateModified">Sep 21, 2026</time></b> by <b>Deepak Sood</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/data-platform-architecture-duckdb-ecosystem"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Data Platform Alternative: Full DuckDB Ecosystem (CDC + DuckLake + QUACK)</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/data-platform-architecture"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Postgres, DuckDB &amp; Metabase Data Platform Architecture</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#status" class="table-of-contents__link toc-highlight">Status</a></li><li><a href="#overview" class="table-of-contents__link toc-highlight">Overview</a></li><li><a href="#requirements" class="table-of-contents__link toc-highlight">Requirements</a></li><li><a href="#bronze--silver--gold-layering" class="table-of-contents__link toc-highlight">Bronze / Silver / Gold Layering</a></li><li><a href="#postgres-serving-layer-and-source-of-truth" class="table-of-contents__link toc-highlight">Postgres: Serving Layer and Source of Truth</a></li><li><a href="#duckdb-the-analytical-layer" class="table-of-contents__link toc-highlight">DuckDB: the Analytical Layer</a></li><li><a href="#the-clickhouse-detour-performance-cpu-memory-storage" class="table-of-contents__link toc-highlight">The ClickHouse Detour: Performance, CPU, Memory, Storage</a><ul><li><a href="#cdc-research-done-during-the-detour-kept-for-later-reference" class="table-of-contents__link toc-highlight">CDC research done during the detour (kept for later reference)</a></li></ul></li><li><a href="#shared-hosting-not-one-laptop" class="table-of-contents__link toc-highlight">Shared Hosting, Not One Laptop</a></li><li><a href="#sync-cadence-postgres-silver--duckdb" class="table-of-contents__link toc-highlight">Sync Cadence: Postgres (Silver) → DuckDB</a></li><li><a href="#gold-layer-three-homes-by-audience-and-write-pattern" class="table-of-contents__link toc-highlight">Gold Layer: Three Homes, by Audience and Write Pattern</a></li><li><a href="#do-we-actually-need-ducklake" class="table-of-contents__link toc-highlight">Do We Actually Need DuckLake?</a></li><li><a href="#evaluated-and-deferred-quack" class="table-of-contents__link toc-highlight">Evaluated and Deferred: QUACK</a></li><li><a href="#data-quality-loop" class="table-of-contents__link toc-highlight">Data Quality Loop</a></li><li><a href="#script-organization" class="table-of-contents__link toc-highlight">Script Organization</a></li><li><a href="#open-questions--next-steps" class="table-of-contents__link toc-highlight">Open Questions / Next Steps</a></li><li><a href="#stack-proposed" class="table-of-contents__link toc-highlight">Stack (Proposed)</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>
