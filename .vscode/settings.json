@@ -17,9 +17,18 @@
         ".docusaurus": true,
         "**/.obsidian": true,
         "build": true,
-        "node_modules": true
+        "node_modules": true,
+        "**/.DS_Store": true,
+        ".claude/prompts": true,
+        ".claude/settings.local.json": true,
+        ".firecrawl": true,
+        ".obsidian-hybrid-search.db": true,
+        ".obsidian-hybrid-search.db-shm": true,
+        ".obsidian-hybrid-search.db-wal": true,
+        "docs/Clippings": true,
+        "docs/.root-obsidian.txt": true
     },
-    "explorer.excludeGitIgnore": true,
+    "explorer.excludeGitIgnore": false,
     "files.watcherExclude": {
         ".docusaurus": true,
         "build": true
