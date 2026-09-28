@@ -26,6 +26,8 @@ You need to tell Kafka how the brokers can reach each other, but also make sure 
 
 The key thing is that when you run a client, the broker you pass to it is just where it's going to go and get the metadata about brokers in the cluster from. The actual host & IP that it will connect to for reading/writing data is based on the data that the broker passes back in that initial connection - even if it's just a single node and the broker returned is the same as the one connected to.
 
+See [Kafka client-broker connection lifecycle](technologies/kafka/internals/kafka-client-broker-connection-lifecycle.md) for how this bootstrap/metadata request fits into the full connection sequence (TCP handshake, TLS, SASL, then the metadata request itself).
+
 For configuring this correctly, you need to understand that Kafka brokers can have multiple *listeners*. A listener is a combination of
 
 1. Host/IP

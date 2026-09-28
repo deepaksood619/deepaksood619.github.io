@@ -3,7 +3,7 @@ slug: /economics/personal-finance/readme
 title: Finance / Investing
 description: Discover essential finance and investing strategies, including protection methods, retirement planning, and wealth-building techniques for lasting financial security.
 created: 2023-03-05
-updated: 2026-09-03
+updated: 2026-09-27
 ---
 - Protection
 	- [emergency-fund](economics/personal-finance/protection/emergency-fund.md)
@@ -12,8 +12,10 @@ updated: 2026-09-03
 	- [fire-financial-independence](economics/personal-finance/retirement-planning/fire-financial-independence.md)
 	- [nps-national-pension-scheme](economics/personal-finance/retirement-planning/nps-national-pension-scheme.md)
 	- [sequence-risk](economics/personal-finance/retirement-planning/sequence-risk.md)
+	- [retiring-abroad-bali-cost-of-living-case-study](economics/personal-finance/retirement-planning/retiring-abroad-bali-cost-of-living-case-study.md)
 - Wealth Building
 	- [buy-now-pay-later-bnpl](economics/personal-finance/wealth-building/buy-now-pay-later-bnpl.md)
 	- [credit-card-rewards-comparison-india](economics/personal-finance/wealth-building/credit-card-rewards-comparison-india.md)
 	- [legacy-estate-planning](economics/personal-finance/wealth-building/legacy-estate-planning.md)
 	- [personal-finance-framework](economics/personal-finance/wealth-building/personal-finance-framework.md)
+	- [home-loan-overdraft](economics/personal-finance/wealth-building/home-loan-overdraft.md)

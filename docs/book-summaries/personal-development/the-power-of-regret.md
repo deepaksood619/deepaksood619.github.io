@@ -3,7 +3,7 @@ slug: /book-summaries/personal-development/the-power-of-regret
 title: The Power of Regret
 description: Discover how anticipating regret shapes choices, from foundation regrets about missed efforts to boldness regrets about unseized opportunities in life.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-09-28
 ---
 [THE POWER OF REGRET by Daniel Pink | Core Message](https://youtu.be/CPsxbUod2UU)
 
@@ -53,3 +53,7 @@ Connection Regrets (letting key relationships drift):
 
 - I wish I'd reached out to...
 - I wish I'd forgiven...
+
+## Related
+
+- [30 Cheat Codes for Life](book-summaries/personal-development/30-cheat-codes-for-life.md)

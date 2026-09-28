@@ -3,7 +3,7 @@ slug: /ideas/brainstorm/physical-products
 title: Physical Products & Hardware Startup Ideas
 description: Brainstorm list of physical product and hardware startup opportunities including marketplace platforms, IoT devices, civil engineering, and consumer products
 created: 2023-03-05
-updated: 2026-08-22
+updated: 2026-09-28
 ---
 
 ## Marketplace & Platforms
@@ -39,6 +39,7 @@ Features: Dynamic pricing and price surge (like Uber/Ola)
 ### Consumer Electronics
 
 - **Socket without switch** - Smart power management
+  - See full unit-economics analysis for the smart plug market: [Smart Plug Dropshipping & Manufacturing Business (India)](ideas/01-startup-opportunities/vetted/smart-plug-dropshipping-manufacturing-india.md)
 - **Smart appliance for Indian cooking** (like DelishUp)
   - Smart connected appliance
   - Pre-sets for cooking tasks
@@ -179,6 +180,7 @@ References:
 
 - **Affordable tiffin service** - P2P tiffin service
 - **Healthy food options** - Outside healthy things (bhutta, sweet potato, etc.)
+- **Ingredient-transparent, low-commission restaurant platform** - see full vetted analysis: [Healthy, Ingredient-Transparent Restaurant Platform](ideas/01-startup-opportunities/vetted/healthy-ingredient-transparent-restaurant-platform.md)
 
 **References:**
 

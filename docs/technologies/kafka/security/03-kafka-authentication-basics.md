@@ -54,3 +54,5 @@ Supported mechanisms include:
 - **SASL/SCRAM:** Salted Challenge Response Authentication Mechanism (more secure than PLAIN as passwords aren't sent over the wire).
 - **SASL/GSSAPI (Kerberos):** Used often in enterprise environments (e.g., Active Directory integration).
 - **SASL/OAUTHBEARER:** Token-based authentication using OAuth 2.0 standards.
+
+See [Kafka client-broker connection lifecycle](technologies/kafka/internals/kafka-client-broker-connection-lifecycle.md) for where this authentication step fits relative to the TCP handshake, TLS negotiation, and the Kafka wire protocol.

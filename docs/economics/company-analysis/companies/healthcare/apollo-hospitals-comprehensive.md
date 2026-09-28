@@ -622,13 +622,14 @@ Apollo Hospitals is India's premier integrated healthcare franchise — the gold
 **Existing Related Analyses:**
 
 - [US Market Bubble Evaluation 2026](economics/company-analysis/us-market-bubble-evaluation-2026-06-03.md) - Macro market context
+- [Indian Hospital Chains Sector Overview](economics/company-analysis/sectors/indian-hospital-chains-sector-overview.md) - Sector-level trends, bed shortage data, NPPA/PM-JAY impact, medical tourism, consolidation wave
+- [Apollo Hospitals vs Hospital Chain Peers - Peer Comparison](economics/company-analysis/peer-comparisons/hospital-chains-peer-comparison.md) - Full 8-company comparison against Fortis, Max Healthcare, Narayana Hrudayalaya, Medanta, KIMS, Rainbow Children's, and Aster DM Quality Care
 
 **Potential Future Analyses to Enhance This Report:**
 
 - **Max Healthcare - Comprehensive Analysis** - Direct hospital peer for comparison
 - **Narayana Hrudayalaya - Fundamental Analysis** - Cheaper entry alternative
 - **Fortis Healthcare - Fundamental Analysis** - Third large-cap peer
-- **Healthcare Sector Overview** - Sector-level trends, bed shortage data, NHPS impact, medical tourism
 
 ---
 

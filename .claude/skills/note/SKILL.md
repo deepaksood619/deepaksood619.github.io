@@ -63,6 +63,7 @@ updated: <YYYY-MM-DD>
 ```
 
 - slug: /natural language, lowercase-with-hyphens, 2-5 words, descriptive for SEO (`/apache-kafka-streams`, not `/kafka`). Never change an existing slug.
+- **Slug has zero path segments, regardless of which folder the file lives in.** Before creating, check it doesn't start with the category/folder name (`/ideas/topic`, `/ai/topic`, `/economics/personal-finance/topic` are all wrong — this exact mistake has happened before). Don't copy the pattern from a neighboring file either; several older files in this vault predate this rule and still use folder-based slugs. Correct form is always just `/topic-name`.
 - No H1 heading — title comes from frontmatter.
 - Structure: 1-2 sentence intro, then `## Key Points / Features` (5-10 bullets), a couple of concise topical sections, then `## Links` for source + further reading.
 - Length target: ~50-150 lines. Put supplementary detail under Links, not inline.

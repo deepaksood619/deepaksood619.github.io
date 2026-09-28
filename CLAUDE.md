@@ -3,7 +3,7 @@ slug: /CLAUDE
 title: CLAUDE.md
 description: Project-level guidance for Claude Code when working with deepaksood619.github.io Docusaurus knowledge base
 created: 2026-04-15
-updated: 2026-09-21
+updated: 2026-09-25
 ---
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -61,6 +61,44 @@ All content lives in `/docs`, organized into topic folders (`ai/`, `algorithms/`
 **Markdown/MDX, frontmatter, slugs, Obsidian CLI, and all content-authoring rules:** see [docs/CLAUDE.md](docs/CLAUDE.md). Project-wide invariants worth repeating: no H1 (title comes from frontmatter), never change an existing `slug` (breaks links), standard markdown links only (no `[[wikilinks]]`), always fence code blocks with a language, and escape `<`, `>`, `{...}` in prose for MDX.
 
 **Automated note workflows** (project skills in `.claude/skills/`, invoked by slash command): `/note` (add & auto-categorize a topic), `/study` (interactive study + note update), `/flashcards` (LearnKit flashcards), `/company-analysis` (financial analysis into `economics/`).
+
+## Vault Search (obsidian-hybrid-search)
+
+`obsidian-hybrid-search` (see `docs/devops/ides/obsidian.md`) is installed globally (`npm install -g obsidian-hybrid-search`) and indexes this vault (`docs/`) with hybrid BM25 + local semantic embeddings (`Xenova/multilingual-e5-small`, no API key). It **cannot be registered as an MCP server** here — Confluent's Claude Code enterprise policy blocks `claude mcp add` at every scope (user/project/local). Use the CLI directly instead:
+
+```bash
+# from repo root, always point --db at the vault's db file
+obsidian-hybrid-search --db docs/.obsidian-hybrid-search.db search "<query>"
+obsidian-hybrid-search --db docs/.obsidian-hybrid-search.db read <vault-relative-path>
+obsidian-hybrid-search --db docs/.obsidian-hybrid-search.db status   # indexed note/chunk counts
+obsidian-hybrid-search --db docs/.obsidian-hybrid-search.db reindex  # after bulk content changes
+```
+
+Prefer this over `grep`/`Explore` for semantic/fuzzy lookups across the vault (e.g. "find notes related to X" style queries) — it ranks by meaning, title, tags, and aliases, not just literal text match. General rule for this repo: **if a capability would normally be an MCP server and MCP registration is blocked by policy, fall back to invoking the same tool's CLI directly via Bash.**
+
+## YouTube Transcript Extraction
+
+When a note/study workflow needs a YouTube video's content (e.g. `/note <url>`), pull the transcript only — never download the full video just to read it. `yt-dlp`, `ffmpeg`, and `whisper-cpp` (`whisper-cli`) are installed via Homebrew for this.
+
+1. **Try captions first** (no download at all):
+
+   ```bash
+   yt-dlp --skip-download --write-auto-sub --sub-lang en --sub-format vtt -o "out.%(ext)s" "<url>"
+   ```
+
+   Strip the `.vtt` timestamps/tags down to plain text (dedupe consecutive repeated lines — auto-sub VTTs repeat lines across cue windows).
+
+2. **If that 429s** (YouTube rate-limits the caption endpoint fairly easily, especially for Shorts — retries and alternate `player_client` values rarely help), fall back to local transcription instead of keeping retrying:
+
+   ```bash
+   yt-dlp -f bestaudio -x --audio-format wav -o "out.%(ext)s" "<url>"   # audio only, not the video
+   ffmpeg -y -i out.wav -ar 16000 -ac 1 -c:a pcm_s16le out16k.wav        # whisper.cpp needs 16kHz mono
+   whisper-cli -m <model.bin> -f out16k.wav -otxt -of out --no-prints
+   ```
+
+   `whisper-cli` needs a GGML model file, which Homebrew does **not** bundle — download one once (e.g. `ggml-base.en.bin`, ~140MB) from `https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.en.bin` and reuse it.
+
+3. **Clean up afterward:** delete the downloaded audio/video and any model file once the text is extracted and saved into the vault note — don't leave large binaries in the working tree or `~/Downloads`. Only the resulting markdown note is meant to persist.
 
 ## Deployment
 

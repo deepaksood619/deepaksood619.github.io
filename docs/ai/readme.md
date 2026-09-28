@@ -3,11 +3,12 @@ slug: /ai/readme
 title: AI
 description: Explore the world of AI with insights on ML algorithms, deep learning, data science, NLP, computer vision, and valuable resources for learning and growth.
 created: 2023-03-05
-updated: 2026-04-13
+updated: 2026-09-28
 ---
 ## Core Topics
 
 - [Artificial General Intelligence (AGI)](agi.md)
+- [Post-AGI Economy - What Will Humans Do and Pay For](post-agi-economy-human-work.md)
 - [ML Fundamentals](ml-fundamentals/readme.md)
 - [ML Algorithms](ml-algorithms/readme.md)
 - [Deep Learning](deep-learning/readme.md)

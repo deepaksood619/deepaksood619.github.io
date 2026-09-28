@@ -363,6 +363,21 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** September 11, 2026
   - **Next Update:** After Q2 FY27 results across the sector (October-November 2026) or any US Section 232 tariff exemption reassessment
 
+### Indian Hospital Chains Sector
+
+- [Indian Hospital Chains Sector Overview (September 28, 2026)](economics/company-analysis/sectors/indian-hospital-chains-sector-overview.md)
+  - **Type:** Sector Analysis (8 companies — private hospital delivery chains, distinct from pharma manufacturers)
+  - **Coverage:** Apollo Hospitals, Max Healthcare, Aster DM Quality Care, Fortis Healthcare, Global Health (Medanta), Narayana Hrudayalaya, KIMS (Krishna Institute), Rainbow Children's Medicare
+  - **Key Highlights:**
+    - 🟢 **Structural Tailwind:** ~1.4 hospital beds per 1,000 population (well below developed-market levels) underpins a multi-decade private capacity-expansion cycle
+    - 🟢 **Consolidation Wave:** Aster DM–Quality Care India (Blackstone-backed) merger completed July 2026, creating a combined ~10,600-bed entity (Aster + CARE Hospitals + KIMSHEALTH Kerala + Evercare)
+    - 🟢 **Best Quality-Adjusted Value:** Narayana Hrudayalaya (PE/ROE 2.11) and Apollo Hospitals (PE/ROE 2.86) screen cheapest relative to their return profiles
+    - 🔴 **Avoid — Priced for Perfection:** KIMS/Krishna Institute (PE 154x vs. ROE 11.3%) and Aster DM Quality Care (PE 181x vs. ROE 11.3%) — both disconnected from current fundamentals
+    - ⚠️ **Naming Caution:** Listed "KIMS" (Krishna Institute of Medical Sciences, Hyderabad) is unrelated to Kerala's "KIMSHEALTH" (now part of Aster DM Quality Care) — similar initials, different companies
+  - **Verdict:** Selective — the structural growth story is real, but valuation dispersion is wide; favor Apollo, Narayana Hrudayalaya, and Rainbow Children's over the richly-valued KIMS and Aster DM Quality Care
+  - **Data Date:** September 28, 2026
+  - **Next Update:** After Q2 FY27 earnings season (October-November 2026) or material progress on Aster DM Quality Care's merger integration
+
 ## US Stocks
 
 ### Alphabet Inc. (Google)
@@ -670,6 +685,15 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Key Highlights:** Hero's market cap (Rs. 1,04,010 Cr) is ~1.52x Ather's (Rs. 68,354 Cr) despite Hero generating ~11x Ather's quarterly revenue and being solidly profitable vs. Ather's still-loss-making status — Ather trades at a steep growth premium (P/S ~15-18x) vs. Hero's cheap ~2.2x. Technically, Hero sits near its 50-DMA after a same-day sales-miss selloff (Sep 2, 2026) while Ather remains ~80%+ above both moving averages. Hero MotoCorp itself holds a 30.68% strategic stake in Ather.
   - **Data Date:** September 2, 2026
   - **Next Update:** After either company's Q2 FY27 results
+
+### Apollo Hospitals vs Indian Hospital Chain Peers
+
+- [Apollo Hospitals vs Hospital Chain Peers - Valuation & Quality Comparison (September 28, 2026)](economics/company-analysis/peer-comparisons/hospital-chains-peer-comparison.md)
+  - **Type:** Fundamental Peer Comparison (8 companies)
+  - **Companies:** NSE:APOLLOHOSP vs. NSE:FORTIS, NSE:MAXHEALTH, NSE:NH, NSE:MEDANTA, NSE:KIMS, NSE:RAINBOW, NSE:ASTERDM
+  - **Key Highlights:** Apollo (PE/ROE 2.86) is the highest-quality large-cap in the group but not the cheapest — Narayana Hrudayalaya (PE/ROE 2.11) and Rainbow Children's Medicare (PE/ROE 3.06) both screen cheaper on a quality-adjusted basis. KIMS (Krishna Institute) and Aster DM Quality Care are the sector's clearest red flags, both trading at PE 150x+ against just 11.3% ROE. Full ranked recommendation: Apollo `>` Narayana Hrudayalaya `>` Rainbow `>` Max Healthcare `>` Medanta `>` Fortis `>` KIMS `>` Aster DM Quality Care.
+  - **Data Date:** September 28, 2026
+  - **Next Update:** After Q2 FY27 results across the group
 
 ## Market Analysis
 

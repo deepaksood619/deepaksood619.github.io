@@ -321,6 +321,7 @@ The Claude API is stateless, so Claude Code resends the entire conversation on e
 - **Pricing:** Cache reads cost ~0.1x the input price; cache writes cost 1.25x (5-minute TTL) or 2x (1-hour TTL).
 - **Break-even:** Whether caching saves money depends on TTL and turn frequency. The 5-minute TTL is cheaper for rapid back-and-forth; the 1-hour TTL only justifies its doubled write cost when 5–60 minutes elapse between turns.
 - **Invalidation order:** Tool changes invalidate the whole cache; system prompt changes bust the system + messages tiers; plain message appends preserve the prefix cache.
+- **Practical levers beyond not restarting a session:** structure prompts static-content-first, dynamic-content-last, so the stable prefix stays cacheable; keep tool definitions and the system prompt stable, since reordering/editing tools or changing effort/thinking settings invalidates the cache from that point forward; prefer the 1-hour TTL when follow-ups might land more than 5 minutes apart (the cache window counts generation time too, so a long response eats into it); and where you need to inject new guidance mid-conversation, add it as a mid-conversation message rather than editing the top-level system prompt, which lets you steer behavior without breaking the cached prefix.
 
 ## Advanced Features
 
@@ -477,6 +478,61 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 - Dense, structured HTML specs > long Markdown
 - Upfront token cost pays off by preventing iteration loops
 - Include visual diagrams, schemas, flowcharts
+
+## AI-Native Engineering Maturity Model
+
+A useful way to think about team-level adoption, in four increasing steps:
+
+1. **Assisted** - one Claude session as a pair-programming peer; human and agent work through complexity together in the same thread.
+2. **Parallel** - familiarity with the tool grows into running several sessions at once (e.g. multiple terminals/worktrees), but the human still personally orchestrates and instructs each one.
+3. **Supervised autonomy** - Claude shifts from executor to orchestrator, directing groups of sub-agents; the human sets direction for the orchestrator rather than for each worker.
+4. **AI-native** - hundreds to thousands of agents run per day, mostly triggered by events (a PR push, a schedule, a webhook) rather than by a person typing a prompt.
+
+The jump from step 2 to steps 3-4 is less about new features and more a mindset shift: treating Claude as an orchestrator that distributes work, not just a single executor with "a brain and hands."
+
+### Planning vs. execution: where to spend tokens
+
+Spend the more expensive model/effort on **planning** (Plan Mode or an equivalent), since a task executed with real clarity needs far fewer, cheaper iterations than one executed without it. Once the plan is clear, execution itself is often not that complex - a cheaper/faster model can carry it out.
+
+A pattern for carrying that clarity across a cache break: after planning, write a canonical plan file (`intent.md`, `plan.md`, whatever name you prefer) and start a **fresh session** for execution that reads from that file, rather than continuing the planning session. Have the executor update the plan file to mark off completed steps as it goes, so any new execution session (or sub-agent) can see progress directly from the file instead of re-deriving state from the codebase.
+
+**What breaks prompt caching:** switching models, switching effort level, and compacting/starting a new conversation. Since each of these forces a full re-read of context, only break cache deliberately - typically right at the planning → execution transition - rather than mid-task.
+
+### Permission modes as a ladder
+
+Permission modes range from fully manual (approval required for anything beyond reading a file) to fully bypassed (no prompts at all, even for risky actions). Auto mode sits in the middle: it only asks for manual approval when it judges an action as potentially risky, otherwise it proceeds - which in practice lets agents run in much longer, uninterrupted horizons without sacrificing safety, since a consistent automated risk check tends to catch more than an inconsistent human skimming every prompt.
+
+### Hooks as the source of determinism
+
+CLAUDE.md instructions are read as guidance and are inherently interpretable/subjective. Hooks are plain deterministic scripts that run at fixed points in the agent loop (session start, after the user submits a prompt, before/after a tool call, at turn end) and cannot be skipped or reinterpreted. As you delegate larger chunks of work to agents, hooks - not CLAUDE.md - are what actually enforces guardrails: compliance checks, test-passing checks, lint gates, and prompt-injection screening before a tool runs.
+
+### Sub-agents and dynamic workflows
+
+A sub-agent spins up its own context window derived from the parent session, which keeps the parent session's context clean (context hygiene) and lets each sub-agent get a narrow, specific objective. Claude can summon a sub-agent explicitly on request or autonomously when it detects the opportunity.
+
+Dynamic/orchestrated workflows go a step further: a first wave of sub-agents scouts the surface area to be changed, then a deterministic script partitions the actual work across a second wave of sub-agents so they don't collide on the same files (avoiding merge conflicts from uncoordinated parallel edits). This is token-intensive, so it's worth reserving for two situations: exploring a large, unfamiliar codebase for the first time, or executing a wide-reaching refactor that touches many files and needs coordinated multi-agent execution.
+
+### Loop engineering
+
+Rather than asking Claude to do something, checking the result yourself, and re-prompting, loop engineering has you define **the objective** and **the verification checks** up front, then let the agent act as executor, checker, and optimizer in one continuous loop - revising its own approach against the checks and only surfacing back to you once they pass.
+
+Practical guidelines for building a good loop:
+
+- Give the agent the access it needs (MCP connectors, ability to drive a UI, etc.) to actually judge whether a check has passed - an agent without the right tool access can't verify what it built.
+- Have Claude help write the checks themselves, since it holds full context on what's being built - checks disconnected from the actual goal waste iterations.
+- Don't over-specify checks to the point only one exact answer can satisfy them, and don't under-specify to where the checks miss real defects - both waste tokens.
+- Checks don't have to be binary; a threshold-based check (e.g. "test failure rate below some percentage") works too.
+- Always cap the maximum number of loop iterations so a loop that can't find a passing state doesn't run indefinitely.
+- Use a strong/expensive model for the initial planning and a cheaper model for the repeated execution iterations inside the loop.
+- **Separate the generator from the evaluator.** An agent grading its own work tends to confidently approve mediocre output, so route verification through a distinct reviewer (ideally one that can't see the generator's own reasoning/chain of thought) checking against pre-agreed acceptance criteria written up front, combined with deterministic checks (tests, CI) that the generator didn't author itself.
+
+As an alternative (or complement) to `/compact` for preserving continuity across a context reset, some practitioners prefer an explicit **handoff pattern**: ask Claude to generate both a compaction summary prompt and a resume prompt, save those, and start the next session from the resume prompt rather than relying on automatic compaction - useful when you want more control over exactly what carries forward (e.g. skills/rules that plain compaction tends to drop) than `/compact` gives you.
+
+The counterintuitive result: most of the tokens spent in ad hoc, un-looped usage go toward iterating on incomplete or imperfect results. A well-specified loop with good checks tends to reduce total cost, because it converges in fewer, better-targeted iterations - which is why cost is better measured **per completed outcome** than per token.
+
+### Agentic development lifecycle (ADLC)
+
+As more code ships through agents, the bottleneck shifts away from writing code and toward reviewing and accepting it. The natural next step is running loops in the background, triggered by events rather than by a person at a keyboard - e.g. an agentic loop kicked off automatically on every PR push to do automated code review, bug hunting, and PR checks. This effectively becomes a CI/CD layer built out of agent loops sitting underneath day-to-day engineering work, and it depends on the same ingredients as an individual loop: clear objectives, strong verification, and hooks enforcing that verification consistently.
 
 ## Integrations
 

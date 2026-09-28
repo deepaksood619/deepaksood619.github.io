@@ -7,6 +7,7 @@ updated: 2026-01-25
 ---
 [Kafka Security 101 \| Secure and Maintain Your Apache Kafka® Systems - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2t3_wc1tm1rHDO9tbtfX1T)
 
+- [Kafka client-broker connection lifecycle](technologies/kafka/internals/kafka-client-broker-connection-lifecycle.md) - TCP handshake, TLS, SASL, and the wire protocol in order
 - [01-intro-to-kafka-security](technologies/kafka/security/01-intro-to-kafka-security.md)
 - [03-kafka-authentication-basics](technologies/kafka/security/03-kafka-authentication-basics.md)
 - [04-kafka-authentication-with-ssl-and-sasl_ssl](technologies/kafka/security/04-kafka-authentication-with-ssl-and-sasl_ssl.md)

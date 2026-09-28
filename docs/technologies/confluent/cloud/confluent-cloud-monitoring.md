@@ -3,9 +3,11 @@ slug: /technologies/confluent/confluent-cloud-monitoring
 title: Confluent Cloud Monitoring Guide
 description: Explore our comprehensive guide on monitoring Confluent Cloud, including metrics, notifications, and consumer lag management.
 created: 2026-02-27
-updated: 2026-09-03
+updated: 2026-09-28
 ---
-[Confluent Cloud Metrics](https://api.telemetry.confluent.cloud/docs/descriptors/datasets/cloud
+https://api.telemetry.confluent.cloud/docs
+
+IMP - [Confluent Cloud Metrics](https://api.telemetry.confluent.cloud/docs/descriptors/datasets/cloud)
 
 [Dedicated cluster performance and expansion in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/monitoring/monitor-performance.html)
 
@@ -180,3 +182,9 @@ If you use Kafka Connect or Schema Registry, they need their own guardrails.
 
 - **Kafka Connect Task Failures:** Alert if `connector-failed-task-count > 0`. A failed task means the pipeline is broken, even if the connector itself shows as "Running".
 - **Schema Registry Unavailability:** Alert on HTTP 5xx errors from the registry. If producers cannot fetch schemas, they will fail to serialize and drop messages.
+
+## Links
+
+- [GitHub - mcolomerc/confluent-cloud-cost-exporter: Confluent Cloud cost exporter · GitHub](https://github.com/mcolomerc/confluent-cloud-cost-exporter)
+- [jmx-monitoring-stacks/ccloud-prometheus-grafana/README.md at main · confluentinc/jmx-monitoring-stacks · GitHub](https://github.com/confluentinc/jmx-monitoring-stacks/blob/main/ccloud-prometheus-grafana/README.md)
+	- [jmx-monitoring-stacks/ccloud-prometheus-grafana/utils/docker-compose-template.yaml at f376263fc6d7270185ab6abab9a8c379079e2a92 · confluentinc/jmx-monitoring-stacks · GitHub](https://github.com/confluentinc/jmx-monitoring-stacks/blob/f376263fc6d7270185ab6abab9a8c379079e2a92/ccloud-prometheus-grafana/utils/docker-compose-template.yaml)

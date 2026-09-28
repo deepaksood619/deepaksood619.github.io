@@ -355,6 +355,15 @@ updated: YYYY-MM-DD
   - ❌ Avoid: `/hyperloglog` (missing context)
 - Prevents 404s when files move
 
+**MANDATORY pre-create check (a recurring mistake, so check every time, not just when it "feels" folder-like):** before writing a new file's frontmatter, or running `Obsidian create`/`Write`, read the slug you're about to use and confirm it does **not** start with any `docs/` top-level or intermediate folder/category name — `ai/`, `ideas/`, `economics/`, `education/`, `technologies/`, `knowledge/`, `psychology/`, `book-summaries/`, etc. — or any subfolder segment (`personal-finance/`, `retirement-planning/`, `pedagogy/`, ...). The slug is a flat, natural-language phrase with **zero path segments**, full stop, regardless of which folder the file physically lives in.
+
+  - ❌ Wrong: `/ideas/healthy-ingredient-transparent-restaurant-platform` (category prefix `ideas/` - this exact mistake happened once already)
+  - ❌ Wrong: `/ai/post-agi-economy-human-work` (category prefix `ai/`)
+  - ❌ Wrong: `/economics/personal-finance/retirement-planning/fire-financial-independence` (full folder path as slug - several older files in this vault do this; it is wrong, don't copy the pattern even though precedent exists)
+  - ✅ Right: `/healthy-ingredient-transparent-restaurant-platform`
+  - ✅ Right: `/post-agi-economy-human-work`
+  - Do not pattern-match off a neighboring file's existing slug to decide the format - some older files in this vault predate this rule and still use folder-based slugs. Judge each new slug only against the rule above, never against nearby examples.
+
 ### Page Structure
 
 ```markdown

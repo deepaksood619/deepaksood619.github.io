@@ -44,6 +44,7 @@ updated: 2026-08-19
     - Vanuatu - Rs 91,05,000
 - India has taxes like Europe/England services like Somalia or any other African countries
 - [14 countries offering golden visas for Indians \| Condé Nast Traveller India](https://www.cntraveller.in/story/countries-that-offer-golden-visas-to-indians/)
+- Retire-abroad cost-of-living case study: [Retiring Abroad - Bali Cost of Living Case Study](economics/personal-finance/retirement-planning/retiring-abroad-bali-cost-of-living-case-study.md) - retiring on `~$1,300`/month
 
 ## Climate resilient
 

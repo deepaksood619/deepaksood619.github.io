@@ -68,6 +68,16 @@ updated: 2026-07-21
    - Ad-supported or API monetization
    - **Research needed:** Data sources, scraping feasibility
 
+9. **[Healthy, Ingredient-Transparent Restaurant Platform](01-startup-opportunities/vetted/healthy-ingredient-transparent-restaurant-platform.md)** - Consumer/Food Tech
+   - Ingredient/quality transparency badge (oil, maida/atta) + low-commission ordering riding ONDC (3-12% vs 25-35% on Zomato/Swiggy)
+   - Targets restaurants squeezed into quality-cutting by aggregator commissions, and health-conscious consumers with no equivalent of clean-label transparency for delivery food
+   - **Research needed:** Restaurant/consumer interviews, ONDC integration cost, verification-mechanism design
+
+10. **[Smart Plug Dropshipping & Manufacturing Business (India)](01-startup-opportunities/vetted/smart-plug-dropshipping-manufacturing-india.md)** - Consumer Hardware/D2C
+    - Import/dropship smart plugs from China (~₹361 landed cost) vs. sell at ₹850 branded retail price (~57% gross margin); or local EMS manufacture at 5,000+ scale (~₹150-220/unit)
+    - Cost-down path to ₹300 retail via value-engineered 6A units, local SKD assembly, bulk-pack distribution
+    - **Research needed:** Real supplier/EMS quotes, BIS-registered China OEM, domestic wholesale partner
+
 ---
 
 ## Research Categories
@@ -283,6 +293,7 @@ High-priority startup concepts with full market analysis, unit economics, and GT
 - [Conversational Reminder Assistant](01-startup-opportunities/vetted/conversational-reminder-assistant.md) ⭐⭐⭐⭐
 - [SaaS Apocalypse Opportunities](01-startup-opportunities/vetted/saas-apocalypse-opportunities.md) - Strategic framework
 - [Software Startup Analysis](01-startup-opportunities/vetted/software-startup-analysis.md) - Comparative analysis
+- [Healthy, Ingredient-Transparent Restaurant Platform](01-startup-opportunities/vetted/healthy-ingredient-transparent-restaurant-platform.md) ⭐⭐⭐ - Needs primary research
 
 #### Brainstorm Lists
 

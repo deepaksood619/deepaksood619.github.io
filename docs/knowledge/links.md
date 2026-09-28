@@ -3,7 +3,7 @@ slug: /knowledge/links
 title: Links
 description: Discover daily top headlines, insightful analyses, and essential video links curated for your knowledge and growth in news, finance, and technology.
 created: 2023-09-16
-updated: 2026-06-22
+updated: 2026-09-28
 ---
 ## Daily
 
@@ -19722,5 +19722,6 @@ updated: 2026-06-22
 19650. [Fukra Insaan’s Editor Exposes Everything 😯](https://youtu.be/0tBlu1te3qY)
 19651. [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](https://youtu.be/adNErrz2aA0)
 19652. [The "Winners" of The Iran War](https://youtu.be/rId69udDbwM)
+19653. [Here's how you can become the most INTERESTING person!!](https://youtube.com/shorts/sBHfZp6TvsY) - trivia/fun-fact sites: Historical Tech Tree, Mental Floss, The Factinator, The Language Nerds, sizeof.life
 
 ## End

@@ -3,7 +3,7 @@ slug: /ai/agi
 title: AGI (Artificial General Intelligence)
 description: Explore AGI, the future of artificial intelligence, and its implications for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
 created: 2023-03-05
-updated: 2026-09-23
+updated: 2026-09-28
 ---
 **Future of Jobs - You can outsource the thinking but not the understanding**
 
@@ -47,6 +47,10 @@ One day, frontier AI research used to be done by meat computers in between eatin
 [GitHub - karpathy/nanochat: The best ChatGPT that $100 can buy. · GitHub](https://github.com/karpathy/nanochat) ⭐ 58k
 
 [I don’t think we are close to “AI scientists”](https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists)
+
+## Related
+
+- [Post-AGI Economy - What Will Humans Do and Pay For](ai/post-agi-economy-human-work.md)
 
 ## Links
 

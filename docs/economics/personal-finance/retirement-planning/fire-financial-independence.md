@@ -3,7 +3,7 @@ slug: /economics/personal-finance/retirement-planning/fire-financial-independenc
 title: Financial Independence, Retire Early (FIRE) / Retirement
 description: Discover the FIRE movement, where saving and investing 50-70% of your income empowers you to achieve financial independence and retire early.
 created: 2023-03-05
-updated: 2026-08-20
+updated: 2026-09-27
 ---
 FIRE means to save and invest aggressively in your 20s and 30s so that you can live the latter years of your life freely
 
@@ -185,6 +185,10 @@ The point of making money is not so you can buy everything.
 - KIPPERs - Kids in Parents' Pockets Eroding Retirement Savings
 - PODWOGs - Parents of DINKs Without Grandchildren
 - [The Rise In DINKs, SINKs, DINKWADs, KIPPERs And More](https://www.forbes.com/sites/jackkelly/2024/06/20/the-rise-in-dinks-sinks-dinkwads-kippers/)
+
+## Geographic Arbitrage
+
+Retiring in a lower cost-of-living country can stretch a modest corpus far further than staying in a high-cost home country — see [Retiring Abroad - Bali Cost of Living Case Study](economics/personal-finance/retirement-planning/retiring-abroad-bali-cost-of-living-case-study.md) for a real budget breakdown of retiring on `~$1,300`/month in Bali versus needing `~$2,000`/month to get by in Los Angeles.
 
 ## Equity Allocation
 

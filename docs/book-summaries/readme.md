@@ -3,7 +3,7 @@ slug: /book-summaries/readme
 title: Book Summaries
 description: Discover concise book summaries on business, finance, personal development, psychology, and more to enhance your knowledge and inspire growth.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-09-28
 ---
 A curated collection of book summaries organized by topic.
 
@@ -11,7 +11,7 @@ A curated collection of book summaries organized by topic.
 
 - [Business](#business) - Strategy, leadership, sales, and branding (21 books)
 - [Economics & Finance](#economics--finance) - Economics, investing, and financial wisdom (11 books)
-- [Personal Development](#personal-development) - Growth, habits, and life improvement (16 books)
+- [Personal Development](#personal-development) - Growth, habits, and life improvement (17 books)
 - [Productivity](#productivity) - Focus, time management, and learning (14 books)
 - [Psychology](#psychology) - How the mind works and mental strength (9 books)
 - [Philosophy & Relationships](#philosophy--relationships) - Living well and interpersonal skills (13 books)
@@ -77,6 +77,7 @@ Habits, growth mindset, career, and life transitions.
 - [The 4 Hour Workweek](personal-development/the-4-hour-workweek.md)
 - [The 5 AM Club](personal-development/the-5-am-club.md)
 - [The Art of Impossible](personal-development/the-art-of-impossible.md)
+- [30 Cheat Codes for Life](personal-development/30-cheat-codes-for-life.md)
 - [The Power of Regret](personal-development/the-power-of-regret.md)
 - [The Seven Habits of Highly Effective People](personal-development/the-seven-habits-of-highly-effective-people.md)
 - [The Slight Edge](personal-development/the-slight-edge.md)

@@ -3,7 +3,7 @@ slug: /home-loan-tax-optimization-india
 title: Home Loan Tax Optimization - India
 description: Comprehensive guide to maximizing tax savings through home loans under Section 24(b) for self-occupied and let-out properties in India
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-09-27
 ---
 
 **Applicable:** FY 2025-26 (AY 2026-27)
@@ -280,6 +280,7 @@ Source: [SMFG Grihashakti](https://www.smfggrihashakti.in), [India Today](https:
 
 - [Income Tax Deductions Overview](economics/taxation/deductions.md)
 - [Section 80C Investments](economics/taxation/deductions.md)
+- [Home Loan Overdraft (OD) Facility](economics/personal-finance/wealth-building/home-loan-overdraft.md)
 
 ## References
 
