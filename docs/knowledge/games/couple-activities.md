@@ -3,7 +3,7 @@ slug: /knowledge/games/couple-activities
 title: Couple Activities
 description: Explore exciting couple activities that strengthen bonds, from dancing and photography to learning art, languages, and enjoying sports together.
 created: 2023-03-05
-updated: 2026-06-27
+updated: 2026-09-22
 ---
 ## Activities
 
@@ -36,6 +36,8 @@ updated: 2026-06-27
 ## Fun
 
 - Jigsaw puzzle
+	- [Karen Puzzles - YouTube](https://www.youtube.com/@KarenPuzzles)
+	- [Meagan After Dark - YouTube](https://www.youtube.com/@meaganafterdark)
 - Jenga
 - Chess
 - Crossword

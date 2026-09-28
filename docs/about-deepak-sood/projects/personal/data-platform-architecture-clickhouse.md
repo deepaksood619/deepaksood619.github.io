@@ -70,6 +70,7 @@ columnar warehouse. Practical notes on using it well:
 ## Performance, CPU, Memory, Storage — the Full Comparison
 
 **Performance**
+
 - Both ClickHouse and DuckDB are vectorized, columnar engines near the top of published
   single-node OLAP benchmarks (e.g. ClickBench) — neither is "slow"; the difference is in shape.
 - DuckDB has no network hop and near-zero startup cost — for a single analyst running ad hoc
@@ -81,18 +82,21 @@ columnar warehouse. Practical notes on using it well:
   governance (per-user/role memory quotas, query queueing). DuckDB has no equivalent.
 
 **CPU**
+
 - DuckDB: no background daemon, CPU spent only when a query runs.
 - ClickHouse: `MergeTree` engines run continuous background merge/compaction threads — a real,
   ongoing CPU cost even when idle, worse under frequent small writes. See the "too many parts"
   discussion below — directly relevant given this architecture's CDC-driven ingestion.
 
 **Memory**
+
 - DuckDB can spill larger-than-RAM operations (sorts, joins, aggregations) to disk gracefully.
 - ClickHouse manages memory server-side with configurable per-query/per-user limits — better
   central control once several analysts share one server, but the server needs headroom for
   concurrent queries *and* background merges simultaneously.
 
 **Storage / compression**
+
 - Both use strong columnar compression by default (dictionary encoding, RLE, DuckDB's FSST for
   strings, ZSTD in both) — comparable out of the box.
 - ClickHouse's edge is tunability at scale: per-column codecs (`Delta`, `DoubleDelta`, `Gorilla`
@@ -124,6 +128,7 @@ performance deficiency.
 Postgres CDC tool, and the main reason this architecture is competitive on ingestion freshness.
 
 **How it works, technically** (per ClickHouse's own writeup):
+
 1. **Schema tracking** — a shadow Postgres instance replays catalog WAL records to maintain an
    up-to-date view of table structures, columns, and types as the schema evolves.
 2. **Parallel decoding** — Rust-based decoders process heap records independently, without
@@ -241,6 +246,7 @@ Postgres for the one collaborative table). ClickHouse Cloud reduces the operatio
 of this cost but not the continuous-billing part.
 
 **Concrete signals that would flip this decision**:
+
 - The warehouse approaches the hundreds-of-GB/low-TB range, where DuckDB's single-node model
   starts to strain.
 - Analysts genuinely need heavy concurrent queries *directly* against the warehouse, not mediated

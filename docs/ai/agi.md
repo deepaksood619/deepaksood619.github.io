@@ -3,7 +3,7 @@ slug: /ai/agi
 title: AGI (Artificial General Intelligence)
 description: Explore AGI, the future of artificial intelligence, and its implications for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
 created: 2023-03-05
-updated: 2026-09-14
+updated: 2026-09-23
 ---
 **Future of Jobs - You can outsource the thinking but not the understanding**
 
@@ -94,3 +94,4 @@ One day, frontier AI research used to be done by meat computers in between eatin
 	- [On the Navier–Stokes Millennium Prize Problem \| OpenAI](https://openai.com/index/navier-stokes-solution/)
 - [Superintelligence is a Fairy Tale. But Chasing It Can Still Cause Harm. - Cal Newport](https://calnewport.com/superintelligence-is-a-fairy-tale-but-chasing-it-can-still-cause-harm/)
 - [Dario Amodei — We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
+- [MIT Explains the 12 Possible Endings for AI - YouTube](https://youtu.be/FLcrvMfHUJM?si=pl9-SJQyj5SKeFe_)

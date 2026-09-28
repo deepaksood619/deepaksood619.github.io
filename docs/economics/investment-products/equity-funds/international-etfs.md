@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-09-01
+updated: 2026-09-21
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -121,6 +121,7 @@ updated: 2026-09-01
 	- The Vanguard FTSE Emerging Markets ETF (VWO) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the **emerging markets equity space**. It holds stocks of any market capitalization. VWO was launched on Mar 4, 2005 and is issued by Vanguard.
 	- [VWO ETF Stock Price & Overview](https://stockanalysis.com/etf/vwo/)
 - **Vanguard Global Stock Index Fund (VT Index)**
+	- Mutual-fund share class: [VTWAX - Vanguard Total World Stock Index Fund](economics/investment-products/equity-funds/vtwax-total-world-stock-index-fund.md) (Admiral Shares, same FTSE Global All Cap Index and underlying portfolio as VT, but daily-NAV mutual fund instead of an intraday-traded ETF)
 - [Vanguard Total International Stock ETF (VXUS) ETF Stock Price & Overview](https://stockanalysis.com/etf/vxus/)
 - MSCI World Index
 - MSCI All Country World Index

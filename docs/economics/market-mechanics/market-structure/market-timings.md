@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/market-timings
 title: Market Timings
 description: Complete guide to global market trading hours including NASDAQ, LSE, Indian equity markets, currency, and commodity trading sessions with timezone conversions.
 created: 2026-07-29
-updated: 2026-08-05
+updated: 2026-09-22
 ---
 
 ## Overview
@@ -14,11 +14,11 @@ Understanding market timings is crucial for traders and investors operating acro
 
 ### NASDAQ & NYSE (US Markets)
 
-| Market Hours for NYSE & NASDAQ | ET | IST |
-|-------------------------------|----|----|
-| Pre-market trading hours | 4:00 AM to 9:30 AM | 1:30 PM to 7:00 PM |
-| Normal trading hours | 9:30 AM to 4:00 PM | **7:00 PM to 1:30 AM** |
-| After-hours trading | 4:00 PM to 8:00 PM | 1:30 AM to 5:30 AM |
+| Market Hours for NYSE & NASDAQ | ET                 | IST                    |
+| ------------------------------ | ------------------ | ---------------------- |
+| Pre-market trading hours       | 4:00 AM to 9:30 AM | 1:30 PM to 7:00 PM     |
+| Normal trading hours           | 9:30 AM to 4:00 PM | **7:00 PM to 1:30 AM** |
+| After-hours trading            | 4:00 PM to 8:00 PM | 1:30 AM to 5:30 AM     |
 
 **Key Points:**
 

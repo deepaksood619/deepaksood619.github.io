@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/others
 title: Service Monitoring and Log Management Tools
 description: Explore Heartbeat for service uptime checks and Fluent Bit for log processing and forwarding across various platforms.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-09-27
 ---
 - [Amazon Opensearch](cloud/aws/analytics/amazon-opensearch.md)
 
@@ -96,3 +96,4 @@ https://toptechtips.github.io/2019-07-08-add_python_code_to_apm
 ## Others
 
 - [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 30k
+- [GitHub - typesense/typesense: Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences · GitHub](https://github.com/typesense/typesense)

@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/models
 title: Models
 description: Explore generative and discriminative models, their differences, types like voice models, and how they learn to generate and classify data effectively.
 created: 2026-06-18
-updated: 2026-09-04
+updated: 2026-09-23
 ---
 - [voice-models](ai/llm/fundamentals/voice-models.md)
 
@@ -23,6 +23,14 @@ updated: 2026-09-04
 - **Instruction-tuned language models** are trained to predict responses to the instructions given in the input. This allows them to perform sentiment analysis, or to generate text or code.
 	- Generate a poem in the style of x
 - **Dialog-tuned language models** are trained to have a dialog by predicting the next response. Think of chatbots or conversational AI.
+
+## Jev
+
+- [Introducing System One Models & Jev - TypeSafe AI Blog](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- [Example use cases - TypeSafe AI](https://docs.typesafe.ai/concepts/use-case-map)
+- [Lies, Damned Lies, and Benchmarks - TypeSafe AI Blog](https://typesafe.ai/blog/antibenchmaxxing)
+- [The Bitterest Lesson - TypeSafe AI Blog](https://typesafe.ai/blog/bitterest-lesson)
+- [convaiinnovations/laya · Hugging Face](https://huggingface.co/convaiinnovations/laya)
 
 ## ChatGPT / OpenAI
 

@@ -48,6 +48,7 @@ for BI joins, and routing the one collaborative table to Postgres instead of Duc
 not blocking.
 
 **Move to the DuckDB Ecosystem variant if, and only if, at least one of these becomes true:**
+
 - Incremental batch sync (the baseline's sync strategy) starts running uncomfortably often, and
   near-real-time freshness is worth an always-on process to get.
 - A second table needs genuine concurrent multi-person editing, and routing multiple tables into
@@ -56,6 +57,7 @@ not blocking.
   is a real point of friction, not a hypothetical one.
 
 **Move to ClickHouse if, and only if, at least one of these becomes true:**
+
 - The warehouse approaches the hundreds-of-GB/low-TB range, where DuckDB's single-node embedded
   model starts to strain regardless of file-splitting tricks.
 - Analysts need heavy concurrent queries *directly* against the warehouse, not mediated by the BI

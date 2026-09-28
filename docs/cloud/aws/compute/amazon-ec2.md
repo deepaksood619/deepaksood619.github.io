@@ -3,14 +3,14 @@ slug: /cloud/aws/compute/amazon-ec2
 title: Amazon EC2
 description: Explore Amazon EC2 for scalable virtual servers in the cloud, and learn how to install Docker on your Ubuntu EC2 instance for seamless application deployment.
 created: 2024-12-21
-updated: 2026-06-17
+updated: 2026-09-28
 ---
 Virtual Servers in the Cloud
 
 - [amazon-ec2-instance-types](cloud/aws/compute/amazon-ec2-instance-types.md)
 - [amazon-ec2-asg](cloud/aws/compute/amazon-ec2-asg.md)
 
-### installing docker in ubuntu ec2 instance
+## installing docker in ubuntu ec2 instance
 
 [Ubuntu \| Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
 
@@ -59,7 +59,7 @@ echo "alias dc='docker compose'" >> ~/.bashrc && source ~/.bashrc
 
 [AWS EC2 Instance Types](cloud/aws/compute/amazon-ec2-instance-types.md)
 
-### installing docker in amazon-linux ec2 instance
+## installing docker in amazon-linux ec2 instance
 
 ```bash
 # 1. Update your system
@@ -90,7 +90,7 @@ sudo pip3 install docker-compose --ignore-installed requests
 docker-compose --version
 ```
 
-### Deploy code to EC2
+## Deploy code to EC2
 
 ```bash
 chmod +x /home/ubuntu/deploy.sh

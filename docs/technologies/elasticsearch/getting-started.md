@@ -3,7 +3,7 @@ slug: /technologies/elasticsearch/getting-started
 title: Getting Started with Elasticsearch
 description: Learn how to efficiently use Elasticsearch with optimistic concurrency control and Java API for seamless data operations.
 created: 2023-03-05
-updated: 2024-11-29
+updated: 2026-09-27
 ---
 ## Points
 
@@ -15,11 +15,11 @@ Used by Elasticsearch, this approach assumes that conflicts are unlikely to happ
 
 If you are using Java, Elasticsearch comes with two built-in clients that you can use in your code:
 
-#### Node client
+### Node client
 
 The node clientjoins a local cluster as anon data node. In other words, it doesn't hold any data itself, but it knows what data lives on which node in the cluster, and can forward requests directly to the correct node.
 
-#### Transport client
+### Transport client
 
 The lighter-weighttransport client can be used to send requests to a remote cluster. It doesn't join the cluster itself, but simply forwards requests to a node in the cluster.
 

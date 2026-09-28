@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-09-21
+updated: 2026-09-28
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -501,8 +501,11 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
 
 ## Settings
 
-```json title="settings.local.json"
+```json title="settings.json"
 {
+  "env": {
+    "CLAUDE_CODE_DISABLE_FEEDBACK_SURVEY": "1"
+  },
   "permissions": {
     "allow": [
       "Bash",
@@ -521,22 +524,6 @@ From [Using Claude Code: HTML](https://claude.com/blog/using-claude-code-the-unr
       "WebSearch"
     ]
   }
-}
-```
-
-```json title="settings.json"
-{
-  "permissions": {
-    "allow": [
-      "Bash(python3 -c ' *)",
-      "Bash(.venv/bin/python ' *)",
-      "Bash(.venv/bin/python ' *)",
-      "Bash(.venv/bin/python << *)",
-      "Bash(.venv/bin/python <<*)",
-      "Bash(.venv/bin/python << 'EOF'*)",
-      "Bash(curl ' *)",
-      ]
-	}
 }
 ```
 

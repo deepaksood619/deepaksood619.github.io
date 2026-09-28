@@ -26,6 +26,11 @@ Content infrastructure guidance for working with 2900+ markdown notes in Obsidia
 
 Use Obsidian Hybrid Search MCP for concept-based discovery:
 
+**Health check (do this before relying on semantic search):**
+
+- **Not installed** — if the `mcp__obsidian-hybrid-search__*` tools aren't available, tell the user up front (don't silently fall back to grep). Setup: see [Obsidian Hybrid Search](devops/ides/obsidian.md#obsidian-hybrid-search--vector-db--knowledge-base--embeddings); register with `OBSIDIAN_VAULT_PATH` set to the repo root (`/Users/deepaksood/deepaksood619.github.io`, where `.obsidian-hybrid-search.db` lives).
+- **Stale index** — check `last_indexed` via `npx -y -p obsidian-hybrid-search@latest obsidian-hybrid-search status` (run from the repo root). If it's more than **15 days** old, tell the user and offer to run `obsidian-hybrid-search reindex` (incremental; uses local `Xenova/multilingual-e5-small` embeddings stored in sqlite-vec).
+
 ```bash
 # Find content by concept, not exact keywords
 mcp__obsidian-hybrid-search__search(

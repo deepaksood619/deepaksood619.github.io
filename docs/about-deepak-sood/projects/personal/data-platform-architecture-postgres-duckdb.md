@@ -81,6 +81,7 @@ client-server warehouse with native concurrent writers and mature CDC ingestion 
 recording the actual trade-off, since it wasn't a quick dismissal:
 
 **What ClickHouse would have fixed cleanly:**
+
 - A single BI-tool connection can join across every table on the server — no per-file/per-domain
   connection juggling the way DuckDB requires (see the Metabase section below).
 - Native concurrent readers *and* writers — the single-writer constraint DuckDB has just doesn't
@@ -89,6 +90,7 @@ recording the actual trade-off, since it wasn't a quick dismissal:
   option once batch sync is the bottleneck."
 
 **Performance**
+
 - Both are vectorized, columnar engines and sit near the top of published single-node OLAP
   benchmarks (e.g. ClickBench) — neither is "slow"; the difference is in shape, not raw speed.
 - DuckDB has no network hop and near-zero startup cost (it's in-process) — for a single analyst
@@ -103,6 +105,7 @@ recording the actual trade-off, since it wasn't a quick dismissal:
   but with no centralized control.
 
 **CPU**
+
 - DuckDB: no background daemon. CPU is spent only when a query runs.
 - ClickHouse: `MergeTree` engines run continuous background merge/compaction threads — a real,
   ongoing CPU cost even when idle, and worse under frequent small writes. Streaming CDC writes
@@ -112,6 +115,7 @@ recording the actual trade-off, since it wasn't a quick dismissal:
   than per-row CDC writes) but it's a design constraint to build in from day one.
 
 **Memory**
+
 - DuckDB can spill larger-than-RAM operations (sorts, joins, aggregations) to disk gracefully — a
   real strength for a single box without sizing RAM for worst-case query size.
 - ClickHouse manages memory server-side with configurable per-query/per-user limits, which matters
@@ -119,6 +123,7 @@ recording the actual trade-off, since it wasn't a quick dismissal:
   queries *and* background merges running simultaneously, not just peak query size.
 
 **Storage / compression**
+
 - Both use strong columnar compression by default (dictionary encoding, RLE, DuckDB's FSST for
   strings, ZSTD support in both) — out of the box, comparable.
 - ClickHouse's edge is tunability at scale: per-column codecs (`Delta`, `DoubleDelta`, `Gorilla`
@@ -245,6 +250,7 @@ analytical one — exactly what Postgres is already good at, and arguably a mism
 columnar/Parquet-backed format regardless of how solid the format's concurrency story is.
 
 Two real options considered:
+
 1. **Put that one table in Postgres, not DuckDB at all.** Postgres already handles concurrent
    writers natively — no new technology, no pilot risk. For read-side joins against the rest of
    the gold layer, DuckDB can query Postgres live via its `postgres` scanner/`ATTACH` (read-only,

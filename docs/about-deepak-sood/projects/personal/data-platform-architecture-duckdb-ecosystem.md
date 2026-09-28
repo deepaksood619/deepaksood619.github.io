@@ -55,6 +55,7 @@ first-party CDC ingestion tool. The practical options:
   answer once volumes genuinely outgrow a single-process tool like `ingestr`.
 
 **What it needs on Postgres**:
+
 - `rds.logical_replication = 1` (or the equivalent for whatever Postgres host is chosen) — a
   static parameter requiring an instance reboot, so this needs a scheduled maintenance window, not
   an ad hoc flip.
@@ -63,6 +64,7 @@ first-party CDC ingestion tool. The practical options:
   baseline already establishes.
 
 **Landing pattern**:
+
 - Land into its own small, frequently-updated domain file (e.g. a `*_live.duckdb` alongside the
   per-domain files from the baseline), never the large/rarely-changing bulk files — CDC apply is
   cheap per-row; don't reintroduce the whole-file-copy cost the baseline's per-domain split was
@@ -116,6 +118,7 @@ adds transactional multi-writer support on top of DuckDB/Parquet, which is exact
 DuckDB has for a table multiple people edit concurrently.
 
 **Setup**:
+
 - **Catalog**: a dedicated Postgres database (e.g. `CREATE DATABASE ducklake_catalog`) on the
   existing Postgres instance — no new service to stand up, one instance to back up/monitor.
   Attached via `ATTACH 'ducklake:postgres:dbname=ducklake_catalog host=...' AS lake (DATA_PATH
@@ -133,6 +136,7 @@ DuckDB has for a table multiple people edit concurrently.
   doesn't change the catalog or the query surface.
 
 **Scope the pilot deliberately narrow**:
+
 - Single-row inserts/updates only, not batch/partition-level changes — DuckLake's automatic
   conflict retry (`ducklake_max_retry_count`, default 10; `ducklake_retry_backoff`, default 1.5×)
   is designed for exactly this write shape.
@@ -166,6 +170,7 @@ machine/tooling (a local Python notebook, a personal DuckDB CLI) without SSH —
 convenience improvement, not a capability the baseline is missing entirely.
 
 **Current limitations, as of this evaluation**:
+
 - Beta status, with the DuckDB team's own "initial implementation" framing and a stated
   fall-2026/DuckDB-v2.0 GA target — not yet the finished product.
 - No built-in TLS — traffic between client and server isn't encrypted in transit by the protocol
@@ -176,6 +181,7 @@ convenience improvement, not a capability the baseline is missing entirely.
   use it simultaneously.
 
 **Mitigations if adopted now, ahead of GA**:
+
 - Restrict access to the same private network/VPN the SSH access already requires — never expose
   port 9494 publicly.
 - Treat it as a read-only, power-user convenience layer on top of the existing access model, not a
@@ -212,6 +218,7 @@ baseline.
 ## Pros/Cons vs. the Baseline
 
 **Pros of this variant**:
+
 - Near-real-time data freshness where it matters (CDC), instead of nightly/incremental-batch
   latency.
 - A genuinely solved concurrent-writer story for gold tables (DuckLake), without introducing
@@ -220,6 +227,7 @@ baseline.
   Metabase-first model for everyone else.
 
 **Cons of this variant**:
+
 - Three additional pieces of infrastructure to operate, monitor, and secure, each with real,
   documented immaturity (CDC's WAL-retention risk, DuckLake's concurrent-write edge cases, QUACK's
   beta security posture) — versus the baseline's "a file on disk plus a nightly job."
