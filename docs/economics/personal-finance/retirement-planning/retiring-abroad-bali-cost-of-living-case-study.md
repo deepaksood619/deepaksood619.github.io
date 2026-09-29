@@ -12,9 +12,9 @@ Debbie Welsh, 57, sold her Los Angeles house, car, and belongings for $550,000 a
 
 - **Housing:** 1-bed/1.5-bath, `~1,100` sq ft, 10-year lease paid upfront (`~$8,000`/year averaged, including $35,000 in renovations over the lease); mother's house on a separate 4-year lease, `~$350`/month ($16,800 paid upfront).
 - **Utilities & maintenance:** `~$75`/month utilities (water, gas, electric, phone, internet) + `~$60`/month property maintenance (pool, AC, water delivery, waste) + `~$45`/month maid (once a week).
-- **Transport:** Owns a scooter ($500 one-time) costing `~$6`/month in gas/maintenance; supplements with Go-Jek/Grab taxis at `~$22`/month (her) and `~$33`/month (mother) — a point-to-point ride costs `~$7`.
+- **Transport:** Owns a scooter ($500 one-time) costing `~$6`/month in gas/maintenance; supplements with Go-Jek/Grab taxis at`~$22`/month (her) and `~$33`/month (mother) — a point-to-point ride costs`~$7`.
 - **Food:** `~$310`/month groceries (local/organic items much cheaper than imported Western goods); eats out 2-3x/week at `~$7`/meal.
-- **Healthcare:** International health insurance `~$124`/month with a $10,000 deductible (emergencies only); local clinic visit `~$15`, medication $2-6; mother's US Medicare ($200/month) does not work in Bali. A full-time in-home caregiver, if ever needed, would cost `~$500`/month total.
+- **Healthcare:** International health insurance `~$124`/month with a $10,000 deductible (emergencies only); local clinic visit `~$15`, medication $2-6; mother's US Medicare ($200/month) does not work in Bali. A full-time in-home caregiver, if ever needed, would cost`~$500`/month total.
 - **Visa:** Her 2-year visa cost $732 total; her mother's 1-year visa costs `~$1,000`/year (visa costs change annually).
 - **Pets:** Vet house-call `~$10`, vaccinations `~$50`; dog food `~$3`/kilo (lasts 3 days); cat food is comparatively expensive.
 
