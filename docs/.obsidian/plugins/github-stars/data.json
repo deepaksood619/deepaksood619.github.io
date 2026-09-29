@@ -1,0 +1,7 @@
+{
+  "cacheExpiry": 302400,
+  "apiToken": "",
+  "numberFormat": "abbreviated",
+  "updateEmbeddedStarsOnRefresh": true,
+  "showTokenWarnings": true
+}
