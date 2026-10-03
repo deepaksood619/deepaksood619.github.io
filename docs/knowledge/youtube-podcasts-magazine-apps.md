@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 ## Youtube
 
@@ -233,6 +233,7 @@ updated: 2026-09-27
 - [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci)
 - [Fully Charged Show - YouTube](https://www.youtube.com/fullychargedshow)
 - [The PrimeTime - YouTube](https://www.youtube.com/@theprimetimeagen)
+- [Marques Brownlee - YouTube](https://www.youtube.com/@mkbhd)
 
 ### Finance / Stocks / Personal finance / Economics
 

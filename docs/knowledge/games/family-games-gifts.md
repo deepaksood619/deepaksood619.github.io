@@ -3,7 +3,7 @@ slug: /knowledge/games/family-games-gifts
 title: Family Games / Gifts
 description: Discover fun family games and gifts, perfect for game nights with kids and couples, including classic card games, charades, and engaging activities.
 created: 2023-03-05
-updated: 2026-07-27
+updated: 2026-10-02
 ---
 - [couple-activities](knowledge/games/couple-activities.md)
 - [kids-games](knowledge/games/kids-games.md)
@@ -114,6 +114,7 @@ https://www.jigsawplanet.com
 ### Others
 
 - Ant Farm - **Formicarium** - A formicarium or ant farm is a vivarium which is designed primarily for the study of ant colonies and how ants behave.
+- [Resin Art for Beginners \| My FIRST Resin Project \| Easy Step-by-Step 3 Coasters + Book Holder DIY - YouTube](https://www.youtube.com/watch?v=UhBu2_obhIY)
 
 ## [35 Fun Things to Do at Home as a Family](https://www.signupgenius.com/home/fun-things-to-do-family.cfm)
 

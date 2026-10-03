@@ -3,7 +3,7 @@ slug: /knowledge/geography/india
 title: India
 description: Explore India's demographics with a population of 1.428 billion, highlighting sex ratios and literacy rates across states and union territories.
 created: 2023-03-05
-updated: 2026-07-04
+updated: 2026-10-01
 ---
 ## Population Distribution
 
@@ -16,6 +16,11 @@ updated: 2026-07-04
 - Chhattisgarh - 960 females out of 1000 males
 
 [List of states and union territories of India by sex ratio - Wikipedia](https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_sex_ratio)
+
+## States
+
+- Chhattisgarh and Jharkhand will die or not grow
+	- [The Indian states solar is forgetting \| Why power plants run short on coal \| The Daily Brief #560 - YouTube](https://youtu.be/CKvuc0NEAaQ?si=kNVlbPVjW9PJbYFO)
 
 ## Education
 

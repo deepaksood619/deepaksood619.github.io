@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/harness
 title: Harness
 description: Discover how an AI harness enhances LLMs into autonomous agents, improving accuracy, reducing review toil, and optimizing tool usage for quality systems.
 created: 2026-06-18
-updated: 2026-08-19
+updated: 2026-10-02
 ---
 A harness in AI/LLM is the infrastructure, tools, and orchestration code that surrounds a Large Language Model (LLM) to transform it from a chatbot into an autonomous agent. It acts as the "control plane" that manages the model's memory, context, tool usage (APIs, search), and safety boundaries.
 
@@ -136,3 +136,4 @@ Building blocks that show up repeatedly when implementing a harness rather than 
 - [GitHub - richardartoul/swarmd: \`swarmd\` is a multi-tenant runtime for running background Agents in a safe and secure manner. Agents are defined in YAML and run as goroutines in a multi-tenant server with a virtual shell and custom tools. · GitHub](https://github.com/richardartoul/swarmd) ⭐ 32
 - [Architectural fitness function - ThoughtWorks Technology Radar](https://www.thoughtworks.com/en-de/radar/techniques/architectural-fitness-function)
 - [Approved Fixtures pattern](https://lexler.github.io/augmented-coding-patterns/patterns/approved-fixtures/)
+- [GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1 · GitHub](https://github.com/walkinglabs/learn-harness-engineering)

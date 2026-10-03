@@ -3,13 +3,23 @@ slug: /knowledge/new-home-place/real-estate-market-india
 title: Real Estate Market in India
 description: Notes on the Indian real estate market, Noida property market specifics, broker contacts, rates, and investment analysis links.
 created: 2024-02-23
-updated: 2026-08-19
+updated: 2026-10-02
 ---
 - [buying-checklist](knowledge/new-home-place/buying-checklist.md)
 - [property-documents-legal-and-loans](knowledge/new-home-place/property-documents-legal-and-loans.md)
 - [home-building-and-architecture](knowledge/new-home-place/home-building-and-architecture.md)
 
 ## Real Estate / Realty Market
+
+### Asset Classes in Real Estate
+
+- Residential - For own use. Not an investment product.
+- Plots - Asset Appreciation of around 15% CAGR. No Cashflow.
+- Retail/Office - Around 6% rental yield + 5% appreciation.
+- Warehousing - Around 8% rental yield + 5% appreciation.
+- Large Lands - Asset Appreciation of around 20% CAGR over 20+ years timeframe. No Cashflow.
+
+### Links
 
 - [Texas Real Estate Listings \| Ekdahl Real Estate](https://ekdahlrealestate.net/)
     - $3.6M - 371.75 Acres
