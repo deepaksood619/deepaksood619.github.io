@@ -3,7 +3,7 @@ slug: /about-deepak-sood/projects/readme
 title: Overview of Current Projects
 description: Explore diverse projects in fintech, edtech, and more, showcasing expertise in cost optimization, database management, and analytics.
 created: 2023-12-01
-updated: 2026-09-19
+updated: 2026-10-03
 ---
 ## Domain Knowledge
 
@@ -106,7 +106,8 @@ updated: 2026-09-19
 
 ## Personal Projects
 
-- [Data Platform Architecture: Postgres + DuckDB Baseline](about-deepak-sood/projects/personal/data-platform-architecture-postgres-duckdb.md)
+- [data-platform-architecture](about-deepak-sood/projects/personal/data-platform-architecture.md)
+	- [Data Platform Architecture: Postgres + DuckDB Baseline](about-deepak-sood/projects/personal/data-platform-architecture-postgres-duckdb.md)
     - [Alternative: Full DuckDB Ecosystem (CDC + DuckLake + QUACK)](about-deepak-sood/projects/personal/data-platform-architecture-duckdb-ecosystem.md)
     - [Alternative: ClickHouse Instead of DuckDB](about-deepak-sood/projects/personal/data-platform-architecture-clickhouse.md)
     - [Comparison of the Three Architectures](about-deepak-sood/projects/personal/data-platform-architecture-comparison.md)

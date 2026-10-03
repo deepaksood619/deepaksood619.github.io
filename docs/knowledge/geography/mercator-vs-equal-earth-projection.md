@@ -33,7 +33,7 @@ Every flat map of a sphere distorts something — area, shape, distance, or dire
 | Equal Earth (2018) | Yes | Moderate — closer to natural appearance | Education, scientific/statistical world maps |
 | Robinson / Winkel tripel | No (compromise projections) | Better than Mercator, not equal-area | General-purpose atlases (e.g. National Geographic) |
 
-![](media/1789463268263.jpeg)
+![image](media/1789463268263.jpeg)
 
 ## 2026 UN Resolution
 

@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-commands/readme
 title: Essential Kafka Commands Guide
 description: Explore key Kafka commands for setup, topics, producers, and consumers to enhance your streaming applications.
 created: 2026-03-21
-updated: 2026-03-21
+updated: 2026-09-29
 ---
 - [00-kafka-setup](technologies/kafka/kafka-commands/00-kafka-setup.md)
 - [01-kafka-topics](technologies/kafka/kafka-commands/01-kafka-topics.md)
@@ -11,6 +11,10 @@ updated: 2026-03-21
 - [03-kafka-consumers](technologies/kafka/kafka-commands/03-kafka-consumers.md)
 - [04-kafka-groups-configs](technologies/kafka/kafka-commands/04-kafka-groups-configs.md)
 - [confluent cli-tools](technologies/confluent/tools/cli-tools.md)
+
+## Installation
+
+`curl -O https://packages.confluent.io/archive/8.3/confluent-8.3.2.zip`
 
 ## Configuration
 

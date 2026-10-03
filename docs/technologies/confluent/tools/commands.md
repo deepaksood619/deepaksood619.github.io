@@ -3,7 +3,7 @@ slug: /technologies/confluent/commands
 title: Essential Kafka Commands Guide
 description: Explore key Kafka and Confluent commands for managing clusters, topics, and services effectively using CLI tools.
 created: 2025-12-10
-updated: 2026-08-06
+updated: 2026-10-02
 ---
 ```bash
 ./kafka-topics --version
@@ -169,3 +169,9 @@ confluent local services status
 [Tutorial: Use Confluent CLI with Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/confluent-cli/current/beginner-cloud.html)
 
 [confluent local services \| Confluent Documentation](https://docs.confluent.io/confluent-cli/current/command-reference/local/services/index.html)
+
+## Flink
+
+```bash
+confluent flink query --sql "SELECT * FROM orders LIMIT 10;"
+```

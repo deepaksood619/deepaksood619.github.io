@@ -3,7 +3,7 @@ slug: /devops/terminal-bash/others
 title: Understanding Boot Process Steps
 description: Learn the essential steps of the boot process, from BIOS/UEFI initialization to OS loading and system startup.
 created: 2023-03-05
-updated: 2026-06-17
+updated: 2026-09-29
 ---
 ## Boot
 
@@ -237,6 +237,8 @@ pv abc.sql.gz | parallel --pipe --block 10M zgrep -o "text_string" > output.txt
 
 ## Others
 
-[GitHub - google/zx: A tool for writing better scripts](https://github.com/google/zx) ⭐ 46k
-
-[GitHub - YS-L/csvlens: Command line csv viewer](https://github.com/YS-L/csvlens) ⭐ 4.0k
+- [GitHub - google/zx: A tool for writing better scripts](https://github.com/google/zx) ⭐ 46k
+- [GitHub - YS-L/csvlens: Command line csv viewer](https://github.com/YS-L/csvlens) ⭐ 4.0k
+- [GitHub - pqrs-org/Karabiner-Elements: Karabiner-Elements is a powerful tool for customizing keyboards on macOS · GitHub](https://github.com/pqrs-org/Karabiner-Elements)
+- [GitHub - lwouis/alt-tab-macos: Windows alt-tab on macOS · GitHub](https://github.com/lwouis/alt-tab-macos)
+- [GitHub - rxhanson/Rectangle: Move and resize windows on macOS with keyboard shortcuts and snap areas · GitHub](https://github.com/rxhanson/Rectangle)

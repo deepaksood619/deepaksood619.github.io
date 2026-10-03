@@ -3,7 +3,7 @@ slug: /networking/mqtt/intro
 title: Overview of MQTT Features
 description: Discover MQTT's lightweight protocol ideal for M2M and IoT, featuring publish-and-subscribe messaging with flexible quality of service options.
 created: 2023-03-05
-updated: 2024-02-05
+updated: 2026-09-29
 ---
 ## Features
 
@@ -61,3 +61,4 @@ The MQTT protocol was invented in 1999 by Andy Stanford-Clark (IBM) and Arlen Ni
 - [Message Oriented Architecture (MOM)](computer-science/system-design/message-oriented-architecture-mom.md)
 - Getting started with MQTT by DZone Refcardz
 - https://www.hivemq.com/blog/6-facts-why-its-worth-upgrading-to-mqtt-3-1-1
+- [Streaming IoT sensor data from MQTT to Kafka](https://developer.confluent.io/blog/kafka-mqtt-iot/)

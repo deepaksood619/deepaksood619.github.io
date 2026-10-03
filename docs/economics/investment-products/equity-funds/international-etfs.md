@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -152,6 +152,50 @@ updated: 2026-09-21
 
 [How to Invest in International Mutual Funds the right way? - YouTube](https://www.youtube.com/watch?v=qRT917PvEns)
 
+## US Dividend / Value
+
+| **Metric**           | **SCHD (Schwab US Dividend Equity)** |
+| --------------------- | ------------------------------------- |
+| **Price**              | ~$30.72                                |
+| **P/E Ratio**          | ~17.1x                                 |
+| **Dividend Yield**     | ~3.1-3.4%                              |
+| **AUM**                | ~$85.0B                                |
+| **Expense Ratio**      | 0.06%                                  |
+| **Holdings**           | 104                                    |
+| **52-Week Range**      | $23.87 - $31.95                        |
+| **Inception**          | Oct 2011                               |
+| **1Y / 3Y (ann.) / 5Y (ann.) / 10Y (ann.) Total Return** | +27.2% / +15.3% / +10.2% / +12.9% |
+
+**Critical take:** this is the single cleanest "style diversifier" for a portfolio that's otherwise all growth/momentum (`QQQM`/`VGT`/individual mega-cap tech) — it tracks a value/quality-dividend index (profitability + leverage + dividend-growth screens, not just high current yield), so it doesn't overlap with a US-tech-heavy book the way another growth fund would. The 1-year return (+27.2%) is flattered by the broad 2026 market rally and shouldn't be read as "dividend stocks are suddenly a growth play" — the 10-year (+12.9% ann.) is the more honest read on what this fund actually does over a full cycle. Cheap (0.06% TER), large and liquid ($85B AUM), no red flags.
+
+[SCHD ETF Stock Price & Overview - Stock Analysis](https://stockanalysis.com/etf/schd/)
+
+**UCITS alternative:** there is no UCITS fund that replicates SCHD's exact index (the Dow Jones US Dividend 100). The closest widely-available Ireland-domiciled equivalent is the **WisdomTree US Quality Dividend Growth UCITS ETF** — ticker `DGRA` (USD Acc, ISIN `IE00BZ56RG20`, ~$631M AUM, 0.33% TER) or `DGRW` (USD Dist, ~$173M AUM). Same spirit (quality + dividend-growth screen, not pure high-yield) but a **different underlying index** and a meaningfully higher TER (0.33% vs. SCHD's 0.06%) — treat as directionally similar, not a precise substitute, and prefer the Acc share class (`DGRA`) for the same tax-deferral logic as `VWRA` over `VWRP`.
+
+## Clean Energy / Solar
+
+| **Metric**        | **TAN (Invesco Solar)** | **ICLN (iShares Global Clean Energy)** |
+| ------------------ | ------------------------ | ---------------------------------------- |
+| **Price**          | ~$48.04                  | ~$19.06                                   |
+| **AUM**            | ~$1.5-1.6B                | ~$2.09B                                   |
+| **Expense Ratio**  | 0.70%                     | 0.39%                                     |
+| **Holdings Focus** | Pure-play solar (MAC Global Solar Energy Index) | Broader clean energy (solar + wind + other, ~30 largest global names) |
+| **1Y Return**      | +43.5%                   | +42.0%                                    |
+| **3Y Return (ann.)** | **-6.7%**               | **+2.4%**                                 |
+
+**Critical take — read the 3-year number before the 1-year one:** both funds just had a strong 12 months, but that sits inside a multi-year drawdown (TAN is still net negative annualized over 3 years despite the recent rally) — this is the textbook shape of a boom-bust thematic fund: the 2020-2021 clean-energy bubble, a brutal 2022-2024 correction, and a partial 2025-2026 recovery that hasn't yet undone the damage. Unlike `VXUS`/`SCHD` above, this is **not** a "safe diversifier" — it's a higher-volatility, policy-dependent satellite bet (tax-credit phaseouts and new supply-chain restrictions are live 2026 headwinds even as data-center power demand is a tailwind). If pursuing this idea at all, **ICLN over TAN**: broader (lower single-technology concentration), cheaper (0.39% vs 0.70%), and a less violently negative 3-year number. Size as a small satellite position, not a core holding, and go in understanding you're buying into the recovery leg of a boom-bust cycle, not a steady compounder.
+
+[ICLN ETF Overview](https://www.trackinsight.com/en/fund/ICLN) · [TAN ETF Overview](https://etfdb.com/etf/TAN/)
+
+**UCITS alternatives (longer track record, confirms the boom-bust read even more starkly):**
+
+| Ticker | Name | ISIN | Exchange | TER | AUM | 1Y | 3Y (ann.) | 5Y (ann.) | 10Y (ann.) | Inception |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **INRG** | iShares Global Clean Energy UCITS ETF | IE00B1XNHC34 | LSE | 0.65% | ~$3.74B | +58.1% | +5.0% | **-1.6%** | +10.3% | Jul 2007 |
+| **ISUN** / RAYS | Invesco Solar Energy UCITS ETF | IE00BM8QRZ79 | LSE | — | smaller, 29 holdings | — | — | — | — | — |
+
+INRG's **19-year track record makes the boom-bust pattern unambiguous**: a +10.3% 10-year annualized return sitting alongside a **negative** 5-year annualized return (-1.6%) means almost the entire lifetime gain was banked in one early boom phase, with the 2020-2021 bubble and subsequent crash netting out to a loss over the most recent 5 years. Note INRG's TER (0.65%) is actually **higher** than US-domiciled ICLN's (0.39%) — the UCITS wrapper's estate-tax benefit here comes at a real, non-trivial cost premium, worth weighing against how large a position this would be. `ISUN`/`RAYS` (Invesco's own UCITS solar fund, tracking the STOXX Global Solar Energy Index rather than TAN's MAC Global Solar index) exists as the direct UCITS sibling to TAN, but is small/less liquid — the same "ICLN/INRG over TAN/ISUN" logic from the US-domiciled comparison above applies here too.
+
 ## Defensive Stocks (Non-Tech)
 
 | **ETF Name & Ticker**                     | **Sector Focus**    | **Why It Hedges Against an AI Bust**                                                                                                                                                                                                 |
@@ -163,7 +207,7 @@ updated: 2026-09-21
 
 | **Metric**                       | **KXI (Global Staples)**   | **IXJ (Global Healthcare)**   | **JXI (Global Utilities)** | **VXUS (Vanguard Total Intl)**    |
 | -------------------------------- | -------------------------- | ----------------------------- | -------------------------- | --------------------------------- |
-| **AUM (Fund Size)**              | ~$1 Billion                | $4.13 Billion                 | $318 Million               | $157.1 Billion                    |
+| **AUM (Fund Size)**              | ~$1 Billion                | $4.13 Billion                 | $318 Million               | $157.1 Billion¹                   |
 | **Expense Ratio**                | 0.38%                      | 0.42%                         | 0.39%                      | 0.05%                             |
 | **Number of Holdings**           | ~92                        | ~110                          | 88                         | ~8,755                            |
 | **1-Year Return**                | ~10%                       | 17.86%                        | 12.40%                     | ~12%                              |
@@ -192,6 +236,7 @@ updated: 2026-09-21
 
 - **The Profile:** A massive, ultra-cheap (0.05% expense ratio) fund that owns almost every investable publicly traded company outside the United States (nearly 9,000 stocks).
 - **Performance Context:** It is not purely "defensive" in the way utilities are; rather, it is a geographic hedge. It protects you from _US-specific_ overvaluations and the dominance of the US tech giants.
+- ¹ **AUM data quality note (Oct 2026):** a separate web lookup returned $650B+ for VXUS's AUM (vs. the $157.1B above) — that figure is almost certainly wrong (it would make VXUS larger than `SPY` at $624B, implausible for an ex-US total-market fund) and is more likely a scraper conflating VXUS with Vanguard's combined international-fund family AUM across share classes. Treat $157.1B as the more reliable figure; re-verify against vanguard.com or stockanalysis.com directly before relying on either for a sizing decision.
 
 ### UCITS ETF Comparison vs. VWRA
 
@@ -296,6 +341,15 @@ When you search for these on IBKR, you will see multiple versions (listing on di
 
 - Taiwan Semiconductor Manufacturng Co Ltd (TPE: 2330)
 - Samsung Electronics Co Ltd (KRX: 005930)
+- **BYD Co Ltd** (SEHK: 1211 / OTC unsponsored ADR: BYDDY, 1 ADR = 2 H-shares)
+	- Price ~HK$95-109 (1211.HK); 52-week range HK$81.80 - HK$159.27
+	- P/E ~21-27x depending on source — **above** the Asian auto industry average (~21.6x) and well above the broader peer average (~9.9x); a DCF model instead suggests undervaluation vs. estimated future cash flows — genuinely mixed signal, not a clean "cheap" or "expensive" call
+	- Access: either the actual H-share (1211.HK — needs HKEX trading permissions enabled on IBKR) or the US OTC ADR `BYDDY` (unsponsored — BYD doesn't support it with financials, thinner liquidity, price can lag the HK line). Prefer the HK listing if permissions allow.
+	- Not VIE-structured (unlike e.g. Alibaba) so carries less of the China-ADR delisting/VIE risk premium specifically, but still carries general HK/China geopolitical and currency risk
+- **MercadoLibre Inc** (NASDAQ: MELI) — LatAm e-commerce + fintech
+	- Price ~$1,805; all-time high $2,614 (Jun 2025) — currently ~30% below ATH
+	- P/E ~49x — **not cheap** despite being well off its high; revenue growth ~39% YoY is what's funding that multiple
+	- Critical take: good business, but "down 30% from its ATH" and "statistically cheap" are different claims — at 49x earnings this is a quality-growth name trading at a smaller premium, not a value opportunity
 
 ## Difference
 

@@ -3,7 +3,7 @@ slug: /computer-science/general/others
 title: Understanding Indirection in Programming
 description: Explore the concept of indirection in computer programming and learn how it simplifies access to data through memory addresses and pointers.
 created: 2023-03-05
-updated: 2024-09-17
+updated: 2026-09-29
 ---
 ISO 3103 - How to brew tea?
 
@@ -52,13 +52,12 @@ However, translation alone is not sufficient due to its word-for-word approach, 
 
 ### Difference
 
-|   |   |
-|---|---|
-|**Term**|**Definition**|
-|Globalization (G11N)|The process by which businesses or other organizations develop international influence or start operating on a global scale.|
-|Internationalization (I18N)|The design and development of a product, application or document content that enables easy Localization for target audiences that vary in culture, region, or language.|
-|Localization (L10N)|The linguistic adaptation of content for the target region, its languages, and cultural particularities in order to make it appropriate, easily understandable, and comfortable to use for local native language speakers.|
-|Translation (T9N)|The literal word-for-word transformation of a source text into the target language.|
+| **Term**                    | **Definition**                                                                                                                                                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Globalization (G11N)        | The process by which businesses or other organizations develop international influence or start operating on a global scale.                                                                                               |
+| Internationalization (I18N) | The design and development of a product, application or document content that enables easy Localization for target audiences that vary in culture, region, or language.                                                    |
+| Localization (L10N)         | The linguistic adaptation of content for the target region, its languages, and cultural particularities in order to make it appropriate, easily understandable, and comfortable to use for local native language speakers. |
+| Translation (T9N)           | The literal word-for-word transformation of a source text into the target language.                                                                                                                                        |
 
 [GILT: Globalization, Internationalization, Localization, Translation - and the Difference Between them - AD VERBUM](https://www.adverbum.com/en/blog/globalization-internationalization-localization-translation)
 
@@ -106,3 +105,7 @@ Once a successful fork bomb has been activated in a system it may not be possibl
 `:(){ :|:& };:`
 
 [Fork() Bomb - GeeksforGeeks](https://www.geeksforgeeks.org/fork-bomb/)
+
+## Others
+
+- [THIS THING DELETED 3 MONTHS OF WORK!!!! · Issue #32405 · microsoft/vscode · GitHub](https://github.com/microsoft/vscode/issues/32405)

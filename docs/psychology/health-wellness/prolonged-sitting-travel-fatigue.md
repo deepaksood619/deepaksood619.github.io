@@ -11,7 +11,7 @@ Struggling to sit through long car rides or flights is an incredibly common issu
 ## Ergonomic & Muscular Strain
 
 - **The "C-Curve" problem:** most car and airplane seats sink in the middle, forcing your body into a "C" shape. This flattens the natural inward curve of your lower back, putting pressure on lumbar discs and muscles.
-- **Sciatica & nerve compression:** sitting for hours without a break compresses the sciatic nerve and lower spine discs, causing a dull ache, sharp shooting pain, or an inability to sit still.
+- **Sciatica & nerve compression:** sitting for hours without a break compresses the sciatic nerve and lower spine discs, causing a dull ache, sharp shooting pain, or an inability to sit still. See [Sciatica (Sciatic Nerve Pain)](knowledge/biology/diseases-conditions/sciatica-sciatic-nerve-pain.md) for the underlying anatomy and treatment.
 - **Muscle shortening:** with hips and knees bent at 90 degrees for hours, hip flexors and hamstrings stay in a shortened position and stiffen/ache.
 
 ## Restricted Circulation

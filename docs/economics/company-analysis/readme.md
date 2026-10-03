@@ -3,7 +3,7 @@ slug: /economics/company-analysis/readme
 title: Company Analysis
 description: Discover comprehensive company analyses, sector reports, and investment frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
 created: 2026-06-03
-updated: 2026-09-11
+updated: 2026-10-01
 ---
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 
@@ -744,6 +744,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 ## Others
 
 - [Why is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
+- They want to cash in their investment while it's at the top because they know 2026 end or early 2027 there is a big financial crash coming that'll make 2008 look like a walk in the park and it's a brilliant strategy actually. Because after the crash the graph will go towards the bottom until 2030-31 when I think it will start to bounce back.
 
 ## Quick Links
 

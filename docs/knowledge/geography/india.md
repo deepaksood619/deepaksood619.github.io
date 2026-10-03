@@ -87,6 +87,8 @@ updated: 2026-10-01
 
 ## Economics
 
+[India's Top 100 Economic Cities and Consumption Corridors](economics/sector-analysis/india-top-100-economic-cities-consumption.md)
+
 [How many Indians earn more than Rs 1 crore annually? The Hurun Wealth Report 2025 reveals - Money News \| The Financial Express](https://www.financialexpress.com/money/how-many-indians-earn-more-than-rs-1-crore-annually-the-hurun-wealth-report-2025-reveals-3983400/)
 
 [What happened to Black money? Where is Indian Economy failing? \| IBP \| Prof. Arun Kumar - YouTube](https://www.youtube.com/watch?v=zt5uqErQysk)

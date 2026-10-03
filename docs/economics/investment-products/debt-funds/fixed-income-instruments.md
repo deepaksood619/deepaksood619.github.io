@@ -330,6 +330,12 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 6. **Purchase the bonds:** Once you have selected a tax-free bond, decide on the number of bonds you want to purchase and complete the transaction through your broker.
 7. **Risk management:** Remember that tax-free bonds are subject to credit risk, market risk, and interest rate risk. Be aware of these risks and consult with a financial advisor on ways to minimise them.
 
+#### Effective (tax-equivalent) yield
+
+Because the coupon is fully tax-free, a lower headline rate on a tax-free bond can beat a higher taxable FD/bond rate for investors in higher tax slabs. Compare using the tax-equivalent yield formula: `Taxable-equivalent yield = Tax-free coupon / (1 - tax slab rate)`.
+
+**Example:** PFC (AAA-rated) tax-free bonds trading in the secondary market at an `~8.92%` coupon are, for an investor in the 30-33% tax bracket, equivalent to a taxable instrument yielding well above 8.92% pre-tax — making them attractive versus taxable FDs/bonds of similar credit quality once the tax adjustment is applied, subject to secondary-market price/yield at time of purchase (tax-free bonds trade at a premium/discount to face value, which changes the actual yield-to-maturity vs. the coupon rate).
+
 #### Links
 
 - [What are Tax-Free Bonds: Features, Benefits & How to Invest](https://www.bajajfinserv.in/what-are-tax-free-bonds)
@@ -342,6 +348,7 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 - [Do retail investors invest in tax free bonds in India? - Quora](https://www.quora.com/Do-retail-investors-invest-in-tax-free-bonds-in-India)
 - [Are tax-free bonds still available for investment in 2025? - Quora](https://www.quora.com/Are-tax-free-bonds-still-available-for-investment-in-2025)
 - [Should I Park My Lump Sum in Bonds and Invest Only the Interest in MFs?](https://freefincal.com/should-i-park-my-lump-sum-in-bonds-and-invest-only-the-interest-in-mfs/)
+- [Tax-Free Fixed Income - My Favourite Investment - YouTube](https://youtube.com/shorts/DKoP6v4eUw4)
 
 ## Links
 

@@ -3,7 +3,7 @@ slug: /computer-science/general/common
 title: Common Tech Acronyms Explained
 description: Explore essential tech acronyms like CAPTCHA, API, AJAX, and more, providing clarity on common terms used in web development.
 created: 2023-03-05
-updated: 2026-05-01
+updated: 2026-09-29
 ---
 CAPTCHA - Completely Automated Public Turing test to tell Computers and Humans Apart
 
@@ -16,23 +16,23 @@ AJAX - Asynchronous JavaScript and XML - Web applications can send and retrieve 
 - SHA - Secure Hash
 - JSX - Javascript XML
 
-### Accessibility ARIA - Accessible Rich Internet Applications
+## Accessibility ARIA - Accessible Rich Internet Applications
 
 Defines different front-end methodologies that make web content accessible for disabled people who access the web with Assistive Technologies (AT), such as screen readers.
 
-### BOM - Browser Object Model
+## BOM - Browser Object Model
 
 A browser specific convention referring to all the objects exposed by the web browser. Unlike DOM, there is no standard for implementation and no strict definition, so browser vendors are free to implement the BOM in any way they wish.
 
-### CTA - Call-To-Action
+## CTA - Call-To-Action
 
 A CTA is a message directed to users or prospective customers to take an immediate action.
 
-### DOM - Document Object Model
+## DOM - Document Object Model
 
 An API for HTML and XML documents, used by browsers to render these documents. The DOM specifies the logical structure of a document, and represents it as a node tree in which nodes are objects that represent different parts of the document.
 
-### MIME - Multipurpose Internet Mail Extensions
+## MIME - Multipurpose Internet Mail Extensions
 
 An Internet standard that extends the format of email to support:
 

@@ -11,6 +11,7 @@ updated: 2026-08-06
 	- [hyperscalers-cloud-capex-deep-research-analysis](economics/sector-analysis/hyperscalers-cloud-capex-deep-research-analysis.md)
 	- [ai-infrastructure-arms-race](economics/sector-analysis/ai-infrastructure-arms-race.md)
 - [Luxury Automotive Manufacturing in India](economics/sector-analysis/luxury-automotive-manufacturing-india.md)
+- [India's Top 100 Economic Cities and Consumption Corridors](economics/sector-analysis/india-top-100-economic-cities-consumption.md)
 - [usd-inr-exchange-rate-outlook-analysis](economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis.md)
 	- [Rupee Depreciation, Reflexivity & Market Psychology](economics/sector-analysis/rupee-depreciation-reflexivity-market-psychology.md)
 - [franchise](management/business/franchise.md)

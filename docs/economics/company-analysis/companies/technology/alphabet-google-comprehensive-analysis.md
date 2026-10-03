@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/technology/alphabet-google-comprehen
 title: Alphabet Google Comprehensive Investment Analysis
 description: Discover why Alphabet is a strong buy with high growth potential and robust financials in our detailed June 2026 analysis.
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-10-03
 ---
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NASDAQ
@@ -61,6 +61,15 @@ Alphabet Inc. operates as a global technology conglomerate with dominant positio
 | Shares Outstanding | 12.12B |
 | P/E Ratio | 27.54 |
 | Dividend Yield | 0.24% |
+
+## Data Update Log (2026-10-03)
+
+This analysis's core thesis/price target are from June 2026 and are **now stale per KB standards (`>3` months)** — flagging the valuation specifically rather than doing a full refresh:
+
+- **Trailing P/E has compressed sharply**: 27.54x (this report, June 2026) → **17.10-17.20x** (Google Finance and GuruFocus independently agree, as of early Sept/Oct 2026). This is a real, corroborated move, not a data error — my initial reaction to a user-supplied 17.10x figure was skepticism based on stale aggregator data that hadn't updated; it checked out against GuruFocus.
+- **Why the compression:** Q2 2026 EPS of $9.11 vs. a consensus of $2.87 (reported ~July 22, 2026) is a ~3-4x beat — unusually large for a mega-cap and a strong signal that trailing EPS includes a one-time item (comparable to the Anthropic-stake-markup dynamic already documented for Amazon, see that company's analysis), not pure organic earnings growth.
+- **Forward P/E (~21.9x, GuruFocus, Sept 2026)** is the more trustworthy read for this reason — still reasonable (roughly in line with the broader market's ~21x forward multiple) but **not** the screaming 17x bargain the trailing number implies in isolation.
+- **Action item for next full update:** confirm what drove the Q2 2026 EPS beat (one-time gain vs. durable) and re-run the full valuation section against it — don't carry forward the 27.54x/$425 target from this report without that check.
 
 ## Investment Thesis
 

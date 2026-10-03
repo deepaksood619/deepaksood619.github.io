@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/code-generators-coding-generators
 title: Code Generators / Coding Generators
 description: Discover advanced code generators like Gemini Code Assist and GitHub Copilot for efficient coding, modernization, and seamless integration in your projects.
 created: 2026-06-18
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 - [claude-code](ai/llm/code-generation/claude-code.md)
 
@@ -168,6 +168,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [GitHub - InsForge/InsForge: The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. · GitHub](https://github.com/InsForge/InsForge) ⭐ 13k
 - [GrapeRoot — Give your codebase a brain](https://graperoot.dev/)
 - [exe.dev - ssh exe.dev](https://exe.dev/)
+- [GitHub - google/ax: Google's open agentic orchestration runtime · GitHub](https://github.com/google/ax)
 
 ## SAAS
 

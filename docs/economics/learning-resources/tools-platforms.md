@@ -3,7 +3,7 @@ slug: /economics/learning-resources/tools-platforms
 title: Tools
 description: Discover essential tools for stock market analysis, including FII/DII data, stock screeners, and AI chat assistance for informed investment decisions.
 created: 2025-01-16
-updated: 2026-09-03
+updated: 2026-10-02
 ---
 - [FII DII Data based on activity on NSE, BSE](https://web.stockedge.com/fii-activity)
 - [Market Monitor \| Tijori Finance](https://www.tijorifinance.com/in/markets?sort_column=1D&sort_type=asc)
@@ -131,6 +131,9 @@ Transfer: General Transfer
 ```
 
 **Always fill the Note field for others categories**
+
+- Export/Import - Export to a CSV file
+	- Export to Google Docs
 
 ## Foreign Investment Brokers
 

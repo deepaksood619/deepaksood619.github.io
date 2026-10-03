@@ -3,7 +3,7 @@ slug: /management/product-management/retail-offline-sales
 title: Boosting Retail Offline Sales
 description: Discover how in-store shoppers spend 60% more and visit more frequently, enhancing your retail sales strategy.
 created: 2023-03-05
-updated: 2023-12-05
+updated: 2026-10-03
 ---
 Well, a few years ago, professors at Wharton and Harvard delved into this phenomenon and found something quite interesting. Customers who visit a physical store spend more money. In fact, they spend 60% more on average per order. They’re willing to splurge on higher-priced items. Instead of simply buying casual T-shirts, they might spend more on buying formal shirts. They’re expanding their shopping basket.
 
@@ -14,3 +14,7 @@ The cherry on top? They also don’t return products as much. The sale is done a
 All this leads to one thing-the cash register rings ka-ching at physical stores! And this is what the researchers called the **supercharged consumer.**
 
 https://finshots.in/archive/digital-is-dying-brick-and-mortar-is-alive
+
+[GitHub - target/retail-fraud-taxonomy-viewer: Retail Fraud Taxonomy Viewer · GitHub](https://github.com/target/retail-fraud-taxonomy-viewer)
+
+- [Retail Fraud Taxonomy Viewer](https://target.github.io/retail-fraud-taxonomy-viewer/)

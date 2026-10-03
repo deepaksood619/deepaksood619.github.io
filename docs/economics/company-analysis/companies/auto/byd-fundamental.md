@@ -3,7 +3,7 @@ slug: /byd-company-fundamental
 title: BYD Company Limited - Fundamental Analysis 2026
 description: BYD overtook Tesla in revenue and BEV volume in 2025, but a domestic price war has crashed margins, turned free cash flow negative, and tripled leverage in a single year.
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-10-03
 company: BYD Company Limited
 ticker: HKEX:1211 / SZSE:002594
 sector: Auto - Electric Vehicles
@@ -244,6 +244,12 @@ Assumes the domestic price war persists but doesn't worsen materially, overseas 
 
 - ✅ **Buy more:** Two consecutive quarters of margin stabilization/improvement alongside a clear FCF inflection back toward positive
 - 🔻 **Reduce/Exit:** Further debt increases alongside continued negative FCF, or a second consecutive quarter of profit decline exceeding 40% YoY
+
+## Data Update Log (2026-10-03)
+
+Note on scope: **BYD is an individual equity, not a fund — it has no "AUM."** For capital/return context use market cap (~HK$947.34B at the Aug 3, 2026 analysis date) and price returns (-22.0% over the trailing year as of that date) instead.
+
+**Apparent price action since Aug 3, 2026 (flagged, not yet verified against a primary source):** a fresh round of web research puts BYD's 52-week range at roughly HK$81.80-HK$159.27, vs. this report's Aug 3 range of HK$71.40-HK$120.80. The high end moved up ~32% (HK$120.80 → HK$159.27), which — since that old high was already inside the Aug 3 window — implies a substantial rally sometime after this report was written, not a data error. This would materially change the valuation section (current PE 27.68x / forward PE 18.05x were measured off a HK$94.15 price; a price near the new HK$159 high would push both multiples meaningfully higher). **Don't treat the Valuation/Target Price sections above as current** until a fresh primary-source price pull (e.g. stockanalysis.com or the HKEX feed directly) confirms the current price, updated trailing/forward EPS, and whether Q2/H1 2026 results (flagged in this report's own "Near-term catalysts" as the key test) came in strong enough to justify a re-rating.
 
 ## Conclusion
 

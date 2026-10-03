@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -195,9 +195,11 @@ hermes gateway      # Start messaging gateway
 - ​[**Claude-Reflect**](https://github.com/BayramAnnakov/claude-reflect) ⭐ 1.4k**:** Captures your repeated corrections and turns them into reusable commands with human review. The agent learns your preferences over time instead of making the same mistakes.
 - ​[**cc-DevOps Skills**](https://github.com/akin-ozer/cc-devops-skills) ⭐ 306**:** Generator and validator loops for Terraform, Kubernetes, Docker, and CI/CD configs. Generates infra code, then validates it before you apply.
 - ​[**Agent Sandbox**](https://github.com/disler/agent-sandbox-skill) ⭐ 383**:** Isolated E2B cloud sandboxes for building, hosting, and testing apps without touching local files. Good for when you want the agent to experiment freely without risk.
+	- [GitHub - agent-substrate/substrate: Agent Substrate: the core system · GitHub](https://github.com/agent-substrate/substrate)
 - ​[**Agile Workflow**](https://github.com/levnikolaevich/claude-code-skills) ⭐ 559**:** Full agile delivery pipeline with multi-model parallel review via Codex and Gemini agents. Brings structured software delivery practices into the agent workflow.
 - ​[**Claude Code Plugins+**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) ⭐ 2.7k**:** Plugin directory with a CLI package manager for searching and installing niche skills. Think npm but for Claude Code skills.
 - [Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit) ⭐ 1.7k - Quality-focused skills
+- [GitHub - gastownhall/beads: Beads - A memory upgrade for your coding agent · GitHub](https://github.com/gastownhall/beads)
 
 ### Performance & Efficiency
 

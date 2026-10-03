@@ -3,7 +3,7 @@ slug: /economics/company-analysis/companies/technology/amazon-comprehensive-anal
 title: In-Depth Amazon Financial Analysis
 description: Explore our comprehensive analysis of Amazon's market position, growth potential, and investment recommendations.
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-10-03
 ---
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NASDAQ
@@ -58,6 +58,14 @@ The company employs 1,575,000 full-time workers and serves hundreds of millions 
 | Average Volume | 45.0M shares |
 | Beta (5Y) | 1.47 |
 | Employees | 1,575,000 |
+
+## Data Update Log (2026-10-03)
+
+This report's 30.68x P/E (June 2026) is **stale per KB standards (`>3` months)**:
+
+- **P/E has fallen further to ~20.2-22x** (user-supplied Google Finance figure 20.23x, corroborated by independent aggregator data at 20.5-22x as of Sept 2026) — consistent with this report's own already-flagged dynamic: trailing EPS is boosted by ~$53.4B in investment gains from Amazon's Anthropic stake, so the trailing multiple understates the "core" business multiple. Forward P/E excluding those gains was reported at ~23x — a cleaner read, modestly above the broad market's ~21x forward multiple, not a bargain but not expensive either.
+- **Price action:** Amazon made a fresh all-time high (~$287) in 2026, above this report's June price of $261.26 — unlike Alphabet/Meta/Moderna/Salesforce/MercadoLibre, Amazon is one of the few names in recent research sitting at/near its historical peak, not meaningfully below it.
+- **Action item for next full update:** reconcile the Anthropic-stake-gain treatment across both the trailing P/E and the cash-flow statement (it likely also inflates reported operating cash flow this report cites) before carrying forward the $313 target.
 
 ## Investment Thesis
 
