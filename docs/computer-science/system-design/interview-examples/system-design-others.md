@@ -125,6 +125,7 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 - HTTP + json is not good (because contract is not upheld from developers while sending apis)
 - [Overview of Discord's data platform that daily processes petabytes of data and trillion points - YouTube](https://www.youtube.com/watch?v=yGpEzO32lU4)
 - [10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)
+- [Resilient Checkout](https://frontendatlas.com/system-design/resilient-checkout-payment-flow) - Free frontend system-design question and full reference answer covering lost payment responses, recovery with the same payment-attempt identity, and reconciliation across browser tabs.
 - [How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 - [Ep 1 - @RazorpayEngineering's journey to microservices and ensuring data consistency - YouTube](https://www.youtube.com/watch?v=yqkyq8TPWbg)
 - [How to NOT Fail a System Design Interview (By a Data Engineer) - YouTube](https://www.youtube.com/watch?v=WQBc2mY9Jng)
