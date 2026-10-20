@@ -3,7 +3,7 @@ slug: /psychology/soft-skills/speaking-story-talking-conversation-presentation-p
 title: Effective Speaking and Presentation Tips
 description: Learn essential phrases and body language techniques for impactful storytelling and presentations.
 created: 2023-03-05
-updated: 2026-08-14
+updated: 2026-10-19
 ---
 Use english - Indians have a bias towards English
 
@@ -174,6 +174,16 @@ It's hard to compute, but it's how the world works.
 5. Make It Visual
 6. Make It Personal & Easy to Relate To
 7. Add Surprise
+
+### Four Business Stories (Stories That Stick, Kindra Hall)
+
+From [STORIES THAT STICK by Kindra Hall | Core Message](https://youtu.be/bVCLsovwZys). Every story needs an identifiable character, authentic emotion (show it, do not dramatize), a significant moment of realization after which the character is changed, and specific vivid details.
+
+- **Value story:** a customer uses the product to overcome adversity and reach an outcome, showing features and benefits indirectly (the Extra gum "Sarah and Juan" ad reversed declining sales after feature-focused ads failed)
+- **Customer story:** the value story told raw by a real customer, credible because they have nothing to gain; about 85% of consumers trust online reviews as much as personal recommendations (Native deodorant built its strongest sales quarter on ads made from emailed customer stories)
+- **Founder story:** differentiates when competitors make identical quality claims; on Shark Tank (116 pitches analyzed) pitches telling the founder's launch struggle were significantly more likely to get a deal
+- **Purpose story:** a vulnerable personal struggle that inspires others to persevere; in a survey of 1,000 employees, those who knew their company's challenging beginnings were 40% more likely to say its work makes a difference
+- The 2011 Airbnb pitch to a16z is the example: the founders' story turned a skeptic into an investor in 29 minutes
 
 [7 Storytelling Techniques and How To Apply Them - Practical Ecommerce](https://www.practicalecommerce.com/7-storytelling-techniques-and-how-to-apply-them)
 

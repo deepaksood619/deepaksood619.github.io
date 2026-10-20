@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/finance-investing
 title: Finance / Investing
 description: Discover essential investing strategies focusing on exit points, diversification, and goal-based investing to maximize your financial success and minimize risk.
 created: 2023-07-12
-updated: 2026-10-01
+updated: 2026-10-09
 ---
 In Investing - Exit matters far more than Entry
 
@@ -13,6 +13,8 @@ In Investing - Exit matters far more than Entry
 - Rule 2 - portfolio allocation is the only important thing that matters and rebalancing
 - Rule 3 - diversification
 - Goal based investing
+
+Equity has unlimited upside but limited downside, at most for downside you can lose your whole principle, but for upside you can multiply your principle multiple times.
 
 Temperament - A person’s character, especially as it affects the way he/she behaves and feels
 

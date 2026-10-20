@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafka-producers
 title: Understanding Kafka Producers
 description: Learn how Kafka producers create and send messages to topics and partitions in a Kafka ecosystem.
 created: 2023-03-05
-updated: 2026-01-28
+updated: 2026-10-09
 ---
 The producer is the creator of the message in Kafka
 
@@ -165,6 +165,41 @@ Kafka only guarantees ordering *within* a partition. If you dynamically move `Te
 |**Control Plane**|Calculates fair distribution and updates the Tenant-to-Partition map.|
 |**Metadata Store**|Holds the "Source of Truth" map (e.g., Zookeeper, Redis).|
 |**Smart Producer**|Consults the map to route messages to the correct physical partition.|
+
+## Partitioning Strategies, Batching and Request Rate
+
+- Partitioning is a **client-side** decision made per message (per batch for sticky). It is **not** tied to leader election or reconnection.
+- Flow: partitioner picks a partition -> record is appended to that **(topic, partition) buffer** -> buffer flushes when `batch.size` is reached or `linger.ms` expires -> batch is sent to the partition's current leader.
+- A batch holds records for **one topic-partition only**, so the partitioner decides which batch a record joins.
+- Leader election only changes the destination broker: the producer gets `NOT_LEADER_OR_FOLLOWER`, refreshes metadata, resends. The partition choice does not change.
+
+| Strategy | Behaviour | Effect |
+|---|---|---|
+| Round-robin (e.g. kafka-go default) | Next partition for every message | Each partition buffer fills slowly -> many small batches, more requests, worse compression |
+| Sticky (Java client / librdkafka for keyless records) | Stays on one partition until the batch is full or linger expires, then switches | Fuller batches, fewer requests, better compression, still balanced over time |
+| Hash by key | `hash(key) % partitions` | Same key -> same partition (ordering); a hot key makes a hot partition; batching is good only if many keys map to each partition |
+
+- librdkafka default partitioner is `consistent_random` (hash of key, random for keyless); `sticky.partitioning.linger.ms` gives sticky behaviour for keyless messages.
+- The Java client combines batches for several partitions on the same broker into one Produce request. **librdkafka does not: each Produce request carries one partition's batch** (see [librdkafka](technologies/kafka/clients/librdkafka.md)), and kafka-go also sends one request per topic-partition batch. Small batches hurt request count most there.
+- More partitions with round-robin means each batch fills slower. Keep the batch limits and `linger` in mind when choosing the partition count.
+
+### Many producers vs few partitions
+
+- There is no producer-to-partition mapping: every producer instance can write to every partition and keeps its own per-partition buffers. Total request rate is the sum across all producer instances.
+- With a low per-instance message rate, batches stay small even with sticky partitioning, so `linger.ms` ends up deciding batch size. Fewer, larger producer processes batch better and open fewer connections.
+- Do not pin producer instance `i` to partition `i mod N`: a slow instance or a leader move then skews one partition.
+- Consumers behave differently: within a group at most one consumer reads a partition, so consumers beyond the partition count sit idle (they still hold connections, send heartbeats and enlarge rebalances). See [Kafka Consumers](technologies/kafka/core/kafka-consumers.md).
+
+### Producer settings checklist for a client review
+
+- Batching: `linger.ms` / `BatchTimeout`, `batch.size` / `BatchSize`, max batch bytes within the topic `max.message.bytes`
+- Compression type (applied consistently; compression is per batch, so it needs reasonably full batches)
+- Request, write and dial timeouts (too aggressive values cause redial and retry storms)
+- Retries and backoff (`retries` / `MaxAttempts`, `retry.backoff.ms`)
+- Connection reuse: one producer or transport per process, idle timeout, metadata refresh interval
+- Partitioning strategy (sticky or hash instead of round-robin; hash only if per-key ordering is needed)
+- `acks`, async delivery error handling (completion callback, bounded in-memory queue)
+- Consumer side: `fetch.min.bytes`, `client.rack` (follower fetching, same-AZ placement)
 
 ## Links
 

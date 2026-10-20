@@ -3,7 +3,7 @@ slug: /computer-science/system-design/event-driven-architecture
 title: Understanding Event Driven Architecture
 description: Explore event driven architecture and event sourcing, detailing how events are recorded and processed in various applications.
 created: 2023-03-05
-updated: 2024-12-16
+updated: 2026-10-19
 ---
 ## Event Driven Architecture / Event Sourcing
 
@@ -202,6 +202,16 @@ Other types of jobs for task queues include
 - scheduling periodic jobs such as batch processes
 
 https://www.fullstackpython.com/task-queues.html
+
+## Case Study: Extend (SNS/SQS to Kafka)
+
+From [Making Great Bets: How Extend Built a Serverless, Event-Driven Foundation with Confluent](https://youtu.be/lnVzyZy0Pvg) (Confluent's Life Is But a Stream podcast, 2026). Extend runs a B2B2C platform for product protection, shipping protection and returns, built 100% serverless (TypeScript, infrastructure as code, automated testing), with Confluent Cloud Kafka as the "central nervous system".
+
+- **Why leave SNS/SQS:** bottlenecks at volume, no persistence or retention (a consumer must be listening, so no replay), and no schema enforcement at scale
+- **Why Kafka:** an immutable persistent log, so events can be replayed for future uses (fraud signals, new analytics, training) and when service boundaries change; they never self-hosted Kafka and chose Confluent Cloud over MSK for developer experience, automation and RBAC
+- **Lambda integration:** the Kafka event source mapping handles consumer management, rebalancing and back pressure, so engineers write only the handler; a sink connector fits only corner cases. Kafka TypeScript clients mostly wrap librdkafka, so Extend maintains a small pure-TS client for Lambda
+- **Cost attribution:** with everything serverless every revenue event traces to tech spend, and the cost per revenue event falls with volume
+- **Adoption lesson:** engineers resisted schemas as extra work, and the value showed up as fewer broken downstream contracts and replay for debugging, so give each team its "aha moment"; set the foundation early and schemas first
 
 ## Links
 

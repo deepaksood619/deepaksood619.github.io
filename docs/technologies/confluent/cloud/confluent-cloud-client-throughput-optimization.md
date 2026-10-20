@@ -3,7 +3,7 @@ slug: /confluent-cloud-client-throughput-optimization
 title: Optimize Confluent Cloud Clients for Throughput
 description: Tune Kafka producer and consumer configurations on Confluent Cloud to maximize data throughput.
 created: 2026-09-02
-updated: 2026-09-07
+updated: 2026-10-09
 ---
 To optimize for throughput, producers and consumers must move as much data as possible within a given amount of time. For high throughput, try maximizing the rate at which the data moves — the data rate should be the fastest possible rate.
 
@@ -40,6 +40,39 @@ Use `lz4` for performance instead of `gzip`, which is more compute intensive and
 
 Unlike Confluent Platform, `compression.type` is not configurable on Confluent Cloud topics.
 
+### Codec trade-offs
+
+- **gzip (DEFLATE = LZ77 + Huffman):** good ratio, but the slowest of the four and the most CPU per byte on the producer. Memory is modest (about a 32 KB window). Kafka's own tests have shown it as the worst throughput option, so use it only when network or storage cost dominates and CPU is spare.
+- **zstd (LZ77 + FSE/Huff0 entropy coding):** best ratio of the four, and at its default level it is both smaller and faster than gzip. It has tunable levels (negative `--fast` levels up to 22). Higher levels cost much more compression CPU and a larger window/memory, but decompression speed stays roughly constant across levels. Needs Kafka 2.1+ clients and brokers (KIP-110).
+- **lz4:** very fast compression and the fastest decompression, with a lower ratio than zstd or gzip. Smallest CPU and memory footprint, so it is the usual default pick for throughput and latency.
+- **snappy:** similar class to lz4 (fast, modest ratio, low CPU). It trades about 20-100% larger output than zlib's fastest mode for roughly an order of magnitude more speed (see [Understanding Zstandard Compression](algorithms/data-compression/others.md)). In practice lz4 is usually equal or better, so snappy is mostly kept for compatibility.
+
+Reference numbers (lzbench, Silesia corpus, single core, from the zstd README):
+
+| Compressor | Ratio | Compress | Decompress |
+|---|---|---|---|
+| zstd 1.5.7 -1 | 2.896 | 510 MB/s | 1550 MB/s |
+| zlib 1.3.1 -1 (gzip's engine) | 2.743 | 105 MB/s | 390 MB/s |
+| lz4 1.10.0 | 2.101 | 675 MB/s | 3850 MB/s |
+| snappy 1.2.1 | 2.089 | 520 MB/s | 1500 MB/s |
+
+Ratios on real Kafka data differ: JSON, Avro with repeated field names, and logs compress well, while already-compressed payloads (images, encrypted data) gain nothing. Always benchmark on your own messages.
+
+**Is the "gzip/zstd = better compression but more CPU and memory; snappy/lz4 = faster but less compression" rule true?** Mostly yes, with two corrections:
+
+- zstd is not more CPU-hungry than gzip. At comparable or better ratio it compresses and decompresses faster. Only its high levels (10+) cost more CPU and memory than the fast codecs.
+- "Lazy" is the wrong word. lz4 and snappy are LZ77-style byte-oriented codecs with no entropy-coding (Huffman/FSE) stage and only a quick match search, which is why they are fast and give a lower ratio. gzip and zstd add entropy coding and a deeper match search.
+
+### Where compression happens in Kafka
+
+- Compression is per record batch on the producer, so larger batches (`batch.size`, `linger.ms`) compress better. Compression CPU is paid by the producer and decompression by the consumer. The broker normally stores the batch as-is.
+- If the topic or broker `compression.type` is set to a specific codec different from the producer's, the broker must decompress and recompress, which costs broker CPU. The default `producer` keeps the producer's codec.
+- Compression reduces network bytes and disk usage (and on Confluent Cloud, billed ingress and egress bytes), and it raises effective throughput when the network is the bottleneck rather than CPU.
+- Kafka 3.8+ (KIP-390) adds per-codec level settings (`compression.gzip.level`, `compression.lz4.level`, `compression.zstd.level`) for tuning the ratio vs CPU trade-off.
+- Rule of thumb: CPU-bound or latency-sensitive means `lz4`; network or storage-bound means `zstd`; avoid `gzip` unless a legacy client requires it.
+
+Links: [Kafka Producers](technologies/kafka/core/kafka-producers.md), [Zstd benchmarks](https://github.com/facebook/zstd), [Snappy](algorithms/data-compression/others.md)
+
 ## Producer acks
 
 When a producer sends a message to Confluent Cloud, the message goes to the leader broker for the target partition. The producer then awaits a response from the leader broker (assuming `acks` is not `0`, in which case the producer does not wait for any acknowledgment at all) before proceeding to send the next messages.
@@ -74,6 +107,18 @@ Where the application allows it, use consumer groups with multiple consumers to 
 
 - `fetch.min.bytes`: increase to ~100000 (default `1`)
 - `fetch.max.wait.ms=500` (default `500`)
+
+## Diagnosing Why an Enterprise Cluster Runs at a High eCKU
+
+- eCKU is the **maximum across dimensions** (ingress, egress, requests, connections, connection attempts, partitions), so the highest-utilised dimension sets the size. The Console chart *Cluster Overview > Monitor > eCKU usage* shows each dimension normalised, and whichever nears 1.0 is the driver.
+- Compare each dimension with the per-eCKU limits in [Cluster Types](technologies/confluent/cloud/confluent-cluster-types.md), not only the one you suspect.
+- **Metrics API gotcha:** `io.confluent.kafka.server/received_bytes` and `sent_bytes` (and the request count) are **deltas per sample**, not rates or hourly totals. Work out the bucket size (1-min query granularity vs the Grafana step, e.g. 5-min on a 24h panel) before converting to MB/s. Reading a 5-min bucket as hourly under-states traffic by 5-60x and leads to a false "well below the limits" conclusion.
+- Metrics data points are typically available within about 3 minutes, so poll with that latency in mind.
+- Ingress is measured on compressed wire bytes, so compression and batching directly affect the ingress eCKU. Request rate depends on batch sizes (see [Kafka Producers](technologies/kafka/core/kafka-producers.md)).
+- Scale-down is slow (about 1 hour cooldown, `confluent.incremental.ramp.up.cooldown.ms`), so connection or traffic bursts keep eCKU high for at least that long. Jitter restarts and cap autoscaler step sizes to avoid connection-attempt bursts.
+- Connections measured by the broker-side `active_connection_count` metric can read higher than the client-side JMX `connection-count`.
+- Levers when ingress or requests drive it: larger batches with a short linger, stronger compression, sending less data (sampling or trimming payloads), isolating bulk log topics onto another cluster (e.g. Freight).
+- Retry storms: when a client change causes rejections (e.g. `MESSAGE_TOO_LARGE`), aggressive timeouts and many retries can create a connection storm that throttles the whole cluster via connection quotas. Check `max.request.size`, topic `max.message.bytes`, and broker `message.max.bytes` together.
 
 ## Links
 

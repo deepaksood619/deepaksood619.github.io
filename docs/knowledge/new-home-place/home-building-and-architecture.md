@@ -74,6 +74,7 @@ updated: 2026-08-19
 - [This Indore Residence Showcases Modern Luxury Living! (House Tour)](https://youtu.be/ODfmhoRZQQE)
 - [He Sent A Helicopter For Me To Visit His 7.5-Acre Mansion In Pune!](https://youtu.be/7tC0uRdXnPs)
 - [Arghya Bungalow Nashik #allaboutarchitecture #architectureanddesign #nashik](https://youtu.be/2EmkhErCOUU)
+- [Juliet House Pune #allaboutarchitecture #architectureanddesign #Pune](https://youtu.be/6TyRESQv6b4) - English-townhouse-inspired home by AMA Design Studio on a 4,500 sq ft plot (about 7,000 sq ft built-up): brick and rough-plaster facade, Georgian windows and Juliet balconies, a 13-ft living room opening to an acoustic music room, a dumbwaiter linking every level, and six en-suite bedrooms on the top two floors
 
 ## Links
 

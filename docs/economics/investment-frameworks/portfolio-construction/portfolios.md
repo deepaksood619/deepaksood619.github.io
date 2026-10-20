@@ -3,7 +3,7 @@ slug: /economics/investment-frameworks/portfolio-construction/portfolios
 title: Portfolios
 description: Explore diverse investment portfolios including equity, debt, gold, real estate, and crypto to optimize asset allocation for financial growth.
 created: 2026-06-13
-updated: 2026-06-17
+updated: 2026-10-19
 ---
 ## Portfolio
 
@@ -130,6 +130,8 @@ https://freefincal.com/can-i-use-these-two-index-funds-for-retirement-instead-of
     - Axis midcap fund (10.56%)
     - Mirae asset emerging bluechip fund (10.56%)
     - Canara robeco bluechip equity fund (10.42%)
+
+**See also:** [Concentrated Small-Cap Investor Case Study](economics/investment-frameworks/portfolio-construction/concentrated-smallcap-investor-shubham-sethi.md) - an extreme, undiversified alternative with position-sizing and 200-DMA entry and exit rules.
 
 ## 3-bucket portfolio
 

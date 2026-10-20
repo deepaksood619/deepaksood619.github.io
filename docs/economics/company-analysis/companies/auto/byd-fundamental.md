@@ -3,7 +3,7 @@ slug: /byd-company-fundamental
 title: BYD Company Limited - Fundamental Analysis 2026
 description: BYD overtook Tesla in revenue and BEV volume in 2025, but a domestic price war has crashed margins, turned free cash flow negative, and tripled leverage in a single year.
 created: 2026-08-03
-updated: 2026-10-03
+updated: 2026-10-05
 company: BYD Company Limited
 ticker: HKEX:1211 / SZSE:002594
 sector: Auto - Electric Vehicles
@@ -249,7 +249,30 @@ Assumes the domestic price war persists but doesn't worsen materially, overseas 
 
 Note on scope: **BYD is an individual equity, not a fund — it has no "AUM."** For capital/return context use market cap (~HK$947.34B at the Aug 3, 2026 analysis date) and price returns (-22.0% over the trailing year as of that date) instead.
 
-**Apparent price action since Aug 3, 2026 (flagged, not yet verified against a primary source):** a fresh round of web research puts BYD's 52-week range at roughly HK$81.80-HK$159.27, vs. this report's Aug 3 range of HK$71.40-HK$120.80. The high end moved up ~32% (HK$120.80 → HK$159.27), which — since that old high was already inside the Aug 3 window — implies a substantial rally sometime after this report was written, not a data error. This would materially change the valuation section (current PE 27.68x / forward PE 18.05x were measured off a HK$94.15 price; a price near the new HK$159 high would push both multiples meaningfully higher). **Don't treat the Valuation/Target Price sections above as current** until a fresh primary-source price pull (e.g. stockanalysis.com or the HKEX feed directly) confirms the current price, updated trailing/forward EPS, and whether Q2/H1 2026 results (flagged in this report's own "Near-term catalysts" as the key test) came in strong enough to justify a re-rating.
+**CORRECTION (2026-10-05):** the "apparent rally to ~HK$159" entry previously logged here was wrong — it came from an unreliable secondary web-search aggregation, not a primary source, and this entry retracts it. **Verified live via IBKR market data (5 Oct 2026, 4:08pm GMT+8): price HK$74.10, down 31.45% (-HK$34.00) over the trailing year** — implying a price of ~HK$108.10 a year ago. This means BYD has **continued declining, not rallied**: down a further ~21% from this report's Aug 3, 2026 price of HK$94.15, in just two months.
+
+**This is a material development, not just "cheaper now":** the report's own **Bear Case** (HK$55-65, -31% to -42% from the HK$94.15 base) was framed over a **12-month horizon**. At HK$74.10, the stock is already ~21% below the Aug 3 base in only 2 months — tracking meaningfully ahead of the bear case's pace, not stabilizing. This is more consistent with the margin-compression/negative-FCF/rising-leverage deterioration flagged in the original report *continuing*, rather than the market irrationally overselling a fundamentally sound business. The report's own flagged near-term catalyst — Q2/H1 2026 results as "the key test of whether the Q1 2026 profit collapse was a trough or the start of a longer decline" — has **not yet been checked against this price move**. Treat this drop as a reason to re-verify fresh financials before buying, not as a discount to buy into on the old thesis alone. The Valuation/Target Price sections above should be treated as stale until FY2026 H1 actuals are pulled and reconciled against this new price.
+
+## Q2/H1 2026 Results Check (2026-10-05) — the key test this report flagged, now answered (with caveats)
+
+This report's own "near-term catalyst" (Q2/H1 2026 results testing whether Q1's profit collapse was a trough or a continuing decline) has now been checked:
+
+| Metric | Q1 2026 | **Q2 2026 (new)** | H1 2026 total |
+|---|---|---|---|
+| Revenue YoY | -11.82% | **-3%** | -7.13% |
+| Net profit YoY | -55.38% | **+30%** (first YoY profit growth in 5 quarters) | -20.54% |
+| Gross margin | — | 18.9% (1-year high) | 18.85% (up from 18.01% H1 2025) |
+| Operating cash flow | — | — | ¥37.3B (up from ¥31.8B, +17.3% YoY) |
+
+**Verdict: trough, not continuation** — the specific scenario this report worried about (Q1 being the start of a longer decline) did not materialize. Q2 shows genuine recovery on revenue, profit, and margin. Overseas momentum accelerated further (471,091 units outside mainland China in Q2 alone, +82.5% YoY).
+
+**Three reasons this isn't a clean "re-rate to Buy" signal, though:**
+
+1. Q2 results still **missed analyst forecasts by ~12%** — likely why the stock kept falling even after this became public (reported ~Aug 28, 2026), not before.
+2. **New risk, not in the original report**: coverage flags **second-generation Blade Battery supply shortages constraining H1 2026 sales** — a production bottleneck limiting conversion of strong demand into delivered revenue.
+3. **FX losses still weighing on profit** (same yuan-strength issue as Q1), and **free cash flow could not be confirmed as turned positive** — only operating cash flow improved; capex data for H1 2026 wasn't found, so whether the FY2025 FCF collapse (+¥36.1B → -¥97.7B) has actually reversed, or merely moderated, remains unresolved.
+
+**Updated stance**: upgrade from "wait for confirmation of a trough" to "trough confirmed, but real open questions remain (FCF, battery supply, repeated forecast misses)." Still a **Hold**, not an upgrade to Buy — appropriate for existing holders or a small, speculative new satellite position, not for sizing up on conviction. The Valuation section's multiples (27.68x trailing / 18.05x forward PE, off a HK$94.15 price) are now stale given the price has since fallen to HK$74.10 (verified live, 5 Oct 2026) — a full re-rate of the valuation section against both the new price and H1 actuals is still owed, not done here.
 
 ## Conclusion
 
@@ -263,9 +286,13 @@ This combination — real strategic strength alongside a clearly deteriorating n
 
 **Portfolio Allocation:** 2-4% of portfolio (large-cap scale leader, but elevated near-term earnings and cash-flow risk warrants a moderate position size)
 
+**Actual position taken (2026-10-06):** 1211.HK (BYD CO LTD-H, SEHK) — **$950 USD** committed, consistent with the "small satellite" sizing discipline used throughout this portfolio's other China/satellite picks (`ICLN`, `CRM` similarly sized in the ~$900-1,500 range).
+
 ## Related Analyses
 
-No existing EV-sector overview or peer comparison file (e.g., Tesla, NIO, Li Auto) was found in this knowledge base at the time of writing. A future `auto/global-ev-peer-comparison.md` file comparing BYD, Tesla, and other EV makers would be a natural addition once those companies are analyzed individually.
+- [CATL - Fundamental Analysis](economics/company-analysis/companies/auto/catl-fundamental.md) — China EV-supply-chain peer, added 2026-10-05. Opposite risk/reward shape to BYD: CATL is a stronger, more stable business (accelerating growth, #1 in both EV batteries and energy storage) trading at a fair-not-discounted price, versus BYD's weaker-but-potentially-bottoming business at a depressed price.
+
+No existing EV-sector overview or peer comparison file (e.g., Tesla, NIO, Li Auto) was found in this knowledge base at the time of writing. A future `auto/global-ev-peer-comparison.md` file comparing BYD, CATL, Tesla, and other EV makers would be a natural addition once those companies are analyzed individually.
 
 ## Disclaimer
 

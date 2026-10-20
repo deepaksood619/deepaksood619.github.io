@@ -23,6 +23,7 @@ updated: 2026-07-20
 - [Diseases Overview](diseases-conditions/diseases.md)
 - [Diabetes](diseases-conditions/diabetes.md)
 - [Branch Retinal Vein Occlusion (BRVO)](diseases-conditions/branch-retinal-vein-occlusion-brvo.md)
+- [Stye (Hordeolum)](diseases-conditions/stye-hordeolum.md)
 - [Dental & Oral Health](diseases-conditions/dental-oral-health.md)
 - [Diabetic Blood Glucose Meters](diseases-conditions/diabetics-blood-glucose-meters-glucometers.md)
 - [Gastro Problems](diseases-conditions/gastro-problems.md)

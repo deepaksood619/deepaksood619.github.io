@@ -3,7 +3,7 @@ slug: /technologies/confluent/cli-tools
 title: Essential CLI Tools for Kafka Management
 description: Explore essential CLI tools for managing Kafka, Confluent Cloud, and deploying resources efficiently.
 created: 2025-12-20
-updated: 2026-09-06
+updated: 2026-10-10
 ---
 - [Kafka Commands](technologies/kafka/kafka-commands/readme.md)
 
@@ -128,6 +128,16 @@ kafka-producer-perf-test \
 - `npx @confluentinc/mcp-confluent@1.3.0 --init-oauth-config`
 - `claude mcp add confluent -- npx -y @confluentinc/mcp-confluent --config ./config.yaml`
 - [Kafka and AI walk into a bar...](https://softwaremill.com/managing-kafka-with-ai-and-mcp/)
+- [Access Confluent Cloud with the Managed MCP Servers \| Confluent Documentation](https://docs.confluent.io/cloud/current/ai/ai-tools/managed-mcp-server.html)
+
+**Flink tools added to the Managed MCP Server!**
+
+- **Manage Flink SQL statements:** `create_flink_statement`, `list_flink_statements`, `read_flink_statement`, `delete_flink_statement`, `validate_flink_sql`
+- **Debug Flink SQL statements:** `check_flink_statement_health`, `detect_flink_statement_issues`, `get_flink_statement_exceptions`, `get_flink_statement_profile`
+- **Flink metrics:** `get_flink_statement_metrics`, plus `flink_statement` added as a resource type on `list_metrics` (`query_metrics` remains Kafka-only)
+- **Ground SQL in real schema:** `describe_flink_table_schema` returns a Flink table's schema (columns, types, primary key, watermarks, connector options) so an AI assistant can write accurate SQL grounded in real columns instead of guessing.
+
+The AI assistant can now author, validate, and troubleshoot Flink SQL directly, grounded in real schema. Create and delete tools ask the assistant to confirm with you first before taking action (client-dependent: some clients, including Claude Code auto mode, may skip the prompt).
 
 ### Setting up Confluent Cloud managed MCP server in Claude Code
 

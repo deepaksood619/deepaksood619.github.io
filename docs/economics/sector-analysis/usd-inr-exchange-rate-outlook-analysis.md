@@ -3,7 +3,7 @@ slug: /economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis
 title: USD INR Exchange Rate Outlook Analysis
 description: Explore the USD INR exchange rate outlook and macroeconomic drivers affecting the Indian Rupee's depreciation in this comprehensive May 2026 analysis.
 created: 2026-05-21
-updated: 2026-05-23
+updated: 2026-10-19
 ---
 **Macroeconomic Drivers and Future Trajectory of the Indian Rupee: An Exhaustive Analysis of the USD/INR Depreciation - Tue, 19 May 2026**
 
@@ -91,6 +91,19 @@ This severe capital flight starkly highlighted India's regional underperformance
 While some market analysts argue that the worst of the single-session institutional exits may be concluding—noting a reduced daily selling volume of ₹340.89 crore in mid-May following a period of FIIs acting as net buyers for a marginal ₹1,329.17 crore after seven sessions of net selling averaging ₹4,144.01 crore—the cumulative supply overhang remains a heavy anchor on domestic sentiment. The Month-to-Date (MTD) figures for May still showed ₹25,984.99 crore in net selling, indicating that structural outflows persist.
 
 In the currency markets, this dynamic equates to a catastrophic double jeopardy scenario for the Indian Rupee. Not only is the nation paying record amounts of dollars for its inelastic imports, but the traditional offset—foreign dollars entering the domestic equity markets—has violently reversed. This complete failure to bridge the expanding current account deficit with capital account surpluses essentially removes the floor beneath the Rupee, leaving it entirely exposed to free-market supply and demand dynamics.
+
+### FII Flows, July to October 2026
+
+From [India's Big Breakup: Why Foreign Investors Are Dumping Indian Stocks in 2026 (The Indian Express)](https://youtu.be/ry7RZzDxjqE), Oct 2026; figures come from a speech-to-text transcript, so verify exact numbers.
+
+- **Whiplash:** after about USD 28 bn of selling from March to June, FIIs bought about USD 5.2 bn in July-August (August alone USD 3.1 bn, the highest monthly inflow in about 2 years) as valuations cooled, AI hype wobbled and Q1 FY27 earnings beat; an analyst called it an "opportunistic bet", not conviction
+- **Reversal:** net outflow of Rs 45,536 crore in September and over Rs 40,000 crore in just the first few trading days of October; Nifty is down about 14% YTD. DIIs and mutual funds absorbed much of the selling
+- **Trigger 1, US yields:** the 10-year Treasury above 5.2%, the highest since 2002, makes EM equity risk (8-9% expected) hard to justify against a risk-free 5.2% in USD
+- **Trigger 2, strong dollar:** DXY above 102 (an 18-month high), so a 5% stock gain minus a 6% rupee fall is a loss on conversion
+- **Trigger 3, oil:** Brent above USD 100 and India's landed import basket above USD 120 a barrel; with over 85% of crude imported, the chain is imported inflation, a wider trade deficit, a weaker rupee and then an RBI hike (done on 7 Oct), which slows growth and compresses margins
+- **Tax drag:** foreign investors pay both STT and capital gains tax, which IIFL Capital estimates at about 2.4 percentage points a year off post-tax returns, the only factor in India's control
+- **Counter-case:** the top Indian companies grow profits about 12-15% a year, so earnings can double in 5-6 years against a flat 5% bond; the IMF raised India's FY2026-27 growth forecast to 7% and the RBI expects 7.1%
+- **Not only India:** Korea and Taiwan had the largest 2026 exits (profit-taking after AI rallies); India's outflows are smaller but more persistent
 
 ### United States Monetary Policy and Dollar Supremacy
 

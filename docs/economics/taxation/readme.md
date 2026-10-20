@@ -18,3 +18,4 @@ updated: 2026-07-25
 - [Business Entity Taxation in India](economics/taxation/business-entity-taxation-india.md)
 - [Clubbing of Income](economics/taxation/clubbing-of-income.md)
 - [ESOP Exercise Tax and the Dry Tax Trap in India](economics/taxation/esop-exercise-tax-dry-tax-trap-india.md)
+- [Section 80G - Donations and NGO Registration](economics/taxation/section-80g-donations-ngo.md)

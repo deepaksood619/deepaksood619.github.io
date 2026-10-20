@@ -3,7 +3,7 @@ slug: /budget-vegetarian-high-protein-diet-india
 title: Budget Vegetarian High-Protein Diet (India)
 description: How to hit 110g of protein a day on a vegetarian diet for about ₹150, using soya chunks, thick lentils, chickpea flour, milk and curd.
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-10-19
 ---
 73% of diets in India are protein deficient. A high-protein vegetarian diet does not require whey or paneer-level spending — 110g of protein/day is achievable for ~₹150 using soya chunks, thick lentils, chickpea flour (besan), milk and curd.
 
@@ -32,6 +32,15 @@ updated: 2026-09-07
 
 - Lentil protein alone is incomplete (low in methionine) — combine with curd + a little rice to complete the amino acid profile
 - Besan chilla + paneer topping increases protein and completes the amino profile
+
+## Primary vs Secondary Protein Sources
+
+From [Ranking 15 vegetarian protein sources from worst to best - Food Pharmer with Arpit Mangal](https://youtu.be/hPFX2IXxuN0). Every meal needs at least one **primary** source (about 18-20 g protein per 100 g, well absorbed, full amino profile) plus secondary sources such as dal or besan, e.g. besan chilla with paneer or tofu. Ranking worst to best by protein-to-calorie ratio, cost per gram and absorption:
+
+- **Not protein sources (carb or fat dominant):** oats (about 70% carbs, 12% protein), peanuts (about 50% fat), green peas (4-5 g protein vs about 15 g carbs, so treat as a vegetable), rajma (carb-dominant, low in methionine), besan chilla (2-3 chillas give under about 5-10 g), bhuna chana (about 55 g carbs vs 20 g protein, a good snack instead of chips), sprouts (impractical volumes)
+- **Secondary:** dal (30 g dal plus 30 g rice gives only about 9 g protein with 40+ g carbs) and sattu (about 20 g protein and 60 g carbs per 100 g, but a glass uses about 30 g, so about 6 g protein)
+- **Primary:** edamame (complete but expensive), tempeh (about 20 g protein and 8 g carbs, complete, with fiber), Greek yogurt (about 9-10 g protein vs about 4 g for regular curd, but poor value), tofu (complete, affordable and much lower in fat than paneer), high-protein low-fat paneer (25-28 g vs 18-20 g for regular, casein digests slowly), and soy chunks at rank 1 (about 52 g protein per 100 g and the cheapest accessible source)
+- **Soy and estrogen:** the host says no studies show soy raises estrogen; whey is superior but costs more than soy protein at about ₹1,500/kg
 
 ## Sample Day: 110g Protein for ~₹150
 

@@ -69,3 +69,5 @@ https://learn.finology.in/courses/legal/indian-penal-code
 ## Others
 
 [3 New Criminal Bills Explained | Why we need New Criminal Laws? - YouTube](https://www.youtube.com/watch?v=ny6HImdeCfE)
+
+See also: [Police Defying Court Release Orders](knowledge/law/police-defying-court-orders.md) (habeas corpus enforcement, contempt).

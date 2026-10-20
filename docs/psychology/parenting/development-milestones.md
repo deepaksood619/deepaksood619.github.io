@@ -3,7 +3,7 @@ slug: /child-development-milestones
 title: Child Development Milestones
 description: Month-by-month developmental milestones, activities, and what to expect at each stage
 created: 2026-06-24
-updated: 2026-07-13
+updated: 2026-10-11
 ---
 
 ## Month-by-Month Guide
@@ -194,6 +194,18 @@ Toddlers crave independence and want to do "real" work. Giving them actual respo
 
 - **Food Prep:** Let them use a dull, child-safe nylon knife to cut bananas or soft cheese. Have them pour their own water from a small pitcher.
 - **Household Contributions:** Have them sort laundry (putting all the dark clothes in one pile), match socks together, or use a small spray bottle of water and a rag to wipe down baseboards.
+
+## Teaching a Child to Read at Home
+
+Three-stage approach from the Toddlers Can Read channel: find the child's current stage, ignore the other two, and teach the smallest next step through games.
+
+1. **Find the stage:** show shuffled letter flashcards and allow 2 seconds per sound (no answer in 2 seconds means not known). Then test blending with 2-sound words, then 3, then 4. Beyond 4 sounds, move on to advanced sounds.
+2. **Stage 1, letter sounds:** teach 3 sounds at a time (not all 26, and skip the ABC song, which teaches names rather than sounds). Play games (jump on, throw, or hit the sound) until they are fast, then add 3 more.
+3. **Stage 2, blending:** start with 2-sound words (it, at, in, on) rather than mom, dad, cat, dog. Stretch the sounds together, jump in with your own voice if they stall, and add one sound at a time. Hiccups here are normal.
+4. **Stage 3, advanced sounds:** do not teach every rule. Notice which ones trip the child (th, ee, etc.), teach a couple at a time with words and games.
+5. **Routine:** small daily steps build confidence in both child and parent; if a game flops, try another the next day.
+
+[How to Teach Your Child to Read at Home (START HERE) - Toddlers Can Read - YouTube](https://youtu.be/JjfFQwOKTcw)
 
 ## Related Topics
 

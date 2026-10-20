@@ -3,7 +3,7 @@ slug: /psychology/biases-fallacies
 title: Biases / Fallacies
 description: Explore logical fallacies, including formal and informal types, to enhance your arguments and detect misleading information in discussions.
 created: 2023-03-05
-updated: 2026-06-23
+updated: 2026-10-11
 ---
 There are two major types of **logical fallacies**
 
@@ -532,6 +532,21 @@ And that misconception is called the broken window fallacy.
 [Every Logical Fallacy Explained in 4 Minutes - YouTube](https://www.youtube.com/watch?v=VZbYecAkGo0&ab_channel=Explainem)
 
 [31 logical fallacies in 8 minutes - YouTube](https://www.youtube.com/watch?v=Qf03U04rqGQ&ab_channel=JillBearup)
+
+## Curse of Knowledge
+
+The more you know, the more obvious your ideas feel, so you forget what it is like not to know them and stay silent ("everyone already knows this"). Smart people then fall behind people who speak up.
+
+- **Babble hypothesis:** people who talk more in a group tend to become its leaders, regardless of intelligence
+- **Feedback loop:** the confident person ships mediocre work, gets corrected, fixes it, and is genuinely better a year later, while the quiet one never tests their ideas
+- **Root cause:** fear of being seen failing or sounding less smart than people assume you are
+- **Fix:** put ideas out earlier, treat mistakes as cheap
+
+[Why you're smart, but NOT successful - Aevy TV - YouTube Shorts](https://youtube.com/shorts/5inNOyoL9uY)
+
+## Pratfall Effect
+
+Social psychology finding (Aronson, 1966): a highly competent person who makes a small blunder (spilling coffee) becomes more likable, while an average person making the same blunder becomes less liked. Visible competence means one mistake will not define you, so protecting your reputation from small errors is usually unnecessary.
 
 ## Links
 

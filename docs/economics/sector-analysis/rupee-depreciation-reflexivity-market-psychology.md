@@ -3,7 +3,7 @@ slug: /rupee-depreciation-reflexivity-market-psychology
 title: Rupee Depreciation, Reflexivity & Market Psychology
 description: Ananth Narayan (ex-SEBI, former currency trader) on why currency levels are secondary to fundamentals, George Soros's reflexivity, the FPI tax problem, and India's over-financialization.
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-10-19
 ---
 
 Notes from a Zerodha Varsity bootcamp conversation (Mumbai, 11 July 2026) between Ananth Narayan (former currency trader, ex-SEBI whole-time member) and Nithin Sasikumar / Pranav Agarwal, on what actually drives the rupee and why the psychology around "100" may matter more than the fundamentals. See [USD/INR Exchange Rate Outlook Analysis](economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis.md) for the numeric/technical forecast side of this story.
@@ -38,6 +38,19 @@ The move reflects reflexivity thinking in policy: it's a "bazooka" meant to brea
 - **Deferred, contingent liability:** in 3-5 years RBI must roll over the swap or supply real dollars from reserves. If the underlying structural problems (weak net FDI/FPI, underdeveloped corporate debt market, FPI tax friction) are still unresolved by then, the same rupee pressure resurfaces later, potentially at larger scale.
 - **It's a stabilizer, not a fix:** it doesn't address *why* capital isn't coming in - the source-based FPI tax regime, the repressed corporate bond market, or real-economy competitiveness (land acquisition, labour laws, ease of doing business). Repeated reliance on it also risks becoming a standing crutch that the market learns to expect, rather than a genuine long-term capital solution.
 - **India's economic future hinges on using this bought time productively:** shifting FPI taxation to a residence-based model, freeing interest rates to let a genuine corporate bond market develop, and fixing real-economy bottlenecks so FDI comes in for productive capacity rather than just financial-market exposure. If those structural fixes don't happen, FCNR swaps become a recurring, rising-cost patch rather than a one-time bridge through a crisis.
+
+## RBI measures to defend the rupee, October 2026
+
+Figures are as of October 2026 from an [Indian Express explainer](https://youtu.be/Ntxyac1LagA); some are uncertain (auto-captions).
+
+- **Level:** the rupee is down almost 7% in 2026, with a record low of 96.96 per USD in May and 94.75 on 15 Oct. The cause is a structural trade deficit (constant dollar demand), plus oil and US Treasury yields/FPI outflows that the RBI cannot control
+- **Repo hike:** on 7 Oct the RBI raised the repo rate 25 bp to 5.5%, but the effect was swamped by the excess rupee liquidity created by the June concessional FCNR(B) swap window (dollars in, rupees out)
+- **Foreign Exchange Risk Reserve (FERR):** banks must hold a cash reserve with the RBI equal to 20% of the rupee value of specified FX derivative contracts above USD 2M notional. The idea is borrowed from China, which cut its own ratio from 20% to 0 in March 2026 to push down a strong yuan; India reversed the direction
+- **Hedging rules:** the underlying-exposure proof threshold for FX derivatives was cut from USD 100M to USD 5M, and cancelled rupee derivative contracts cannot be rebooked. Hedging costs may rise about 1.1-1.6 percentage points (annualised, approaching about 6%), so firms may delay hedging and push demand back to spot
+- **Oil dollar window:** the RBI now supplies dollars directly from reserves to IOC, HPCL and BPCL, removing the largest structural dollar buyers from the spot market
+- **Cost:** Reuters estimates the RBI deployed about USD 75-80B through spot sales and dollar-rupee swaps since 8 June, roughly half of the more than USD 140B mobilised via the swap window; this is not a loss of reserves. Reserves were about USD 734.6B (week to 2 Oct), about USD 51B below the early-September peak, with net forward dollar liabilities of about USD 200B (end-September)
+- **Implicit tolerance:** Ambit analysts note repeated RBI intervention near 97 per USD, a tolerance level rather than an official target
+- **Verdict:** the measures treat the symptom (trade deficit), not the cause, so the outcome depends on crude oil and foreign risk appetite
 
 ## Europe's China problem as an opportunity for India
 

@@ -60,7 +60,7 @@ All content lives in `/docs`, organized into topic folders (`ai/`, `algorithms/`
 
 **Markdown/MDX, frontmatter, slugs, Obsidian CLI, and all content-authoring rules:** see [docs/CLAUDE.md](docs/CLAUDE.md). Project-wide invariants worth repeating: no H1 (title comes from frontmatter), never change an existing `slug` (breaks links), standard markdown links only (no `[[wikilinks]]`), always fence code blocks with a language, and escape `<`, `>`, `{...}` in prose for MDX.
 
-**Automated note workflows** (project skills in `.claude/skills/`, invoked by slash command): `/note` (add & auto-categorize a topic), `/study` (interactive study + note update), `/flashcards` (LearnKit flashcards), `/company-analysis` (financial analysis into `economics/`).
+**Automated note workflows** (project skills in `.claude/skills/`, invoked by slash command): `/note` (add & auto-categorize a topic), `/study` (interactive study + note update), `/flashcards` (LearnKit flashcards), `/company-analysis` (financial analysis into `economics/`), `/keep-cleanup` (monthly Google Keep export: plain links appended to `knowledge/links.md`, green links read and merged into notes).
 
 ## Vault Search (obsidian-hybrid-search)
 
@@ -76,9 +76,30 @@ obsidian-hybrid-search --db docs/.obsidian-hybrid-search.db reindex  # after bul
 
 Prefer this over `grep`/`Explore` for semantic/fuzzy lookups across the vault (e.g. "find notes related to X" style queries) — it ranks by meaning, title, tags, and aliases, not just literal text match. General rule for this repo: **if a capability would normally be an MCP server and MCP registration is blocked by policy, fall back to invoking the same tool's CLI directly via Bash.**
 
+## Monthly Google Keep Cleanup (`/keep-cleanup`)
+
+The user exports two Google Keep docs as `.docx` into `~/Downloads` (`Google Keep Document - Links` and `... - Green Links`). Plain links are appended to `docs/knowledge/links.md`; green links are read and merged into notes. Full workflow, scripts and a "Learnings and Techniques" section are in `.claude/skills/keep-cleanup/SKILL.md`. The points that matter outside that skill:
+
+- **The Keep export is newest-first and `links.md` is oldest-first**: reverse the block before appending, dedupe on the video id, and strip `?si=`/`?is=` params.
+- **Transcripts at scale:** use the remote-debugging Chrome script (see the YouTube section below). yt-dlp 429s, raw caption URLs return nothing, the Playwright MCP browser gets HTTP 400, and Whisper loops on long or Hindi audio.
+- **Keep the main context small:** have parallel subagents summarize batches of transcripts into scratchpad files (they must not edit the vault), then file the notes yourself, serially.
+- **Shell gotchas on this machine:** zsh does not word-split variables (use `bash -c` for `pre-commit run --files ...`), there is no `timeout`, foreground `sleep` is blocked (use a background `until` loop), and the Playwright MCP leaves a `.playwright-mcp/` folder at the repo root that must be deleted, not committed.
+- **Validation noise:** the link checker's 16 old broken `media/...` image links and the MDX checker's `docs/office/` errors are pre-existing; only errors in files you touched count (never open `docs/office/` files).
+
+## Personal Google Drive Access
+
+The Drive/Docs MCP connectors here are tied to the **Confluent** work account (`dsood@confluent.io`) and can't see the user's personal Drive (the `~/My Drive` mount is the work account too). For personal Drive/Sheets files, use the setup documented in `/Users/deepak/repos/personal/asset-allocation/CLAUDE.md` (sections "Diagnosing a live-sheet issue" and "Pushing this notebook's output without Colab"):
+
+- **Service account (preferred, no browser login):** Cloud project `gsheets-510720` with the Sheets + Drive APIs enabled; the account is `sheets-writer@gsheets-510720.iam.gserviceaccount.com`. Its JSON key is `/Users/deepak/repos/personal/asset-allocation/gsheets-*.json` (gitignored; never print, copy, or commit it). Use it from that repo's venv: `/Users/deepak/repos/personal/asset-allocation/.venv/bin/python` has `gspread` and `google-auth`. `gspread.service_account(filename=...)` for Sheets; for Docs, use the Drive API (`files.export` with `mimeType=text/plain`) via `google.auth` `AuthorizedSession`.
+- **It only sees files explicitly shared with its `client_email`.** To process a file, the user must share it (Viewer is enough to read) with that address. A file that isn't shared appears as "not found", not as a permission error.
+- **Fallback:** `clasp` OAuth (own client secret `client_secret_*.json` in that repo, token in `~/.clasprc.json`) is scoped to Apps Script + Sheets, so it isn't a way into Docs. Otherwise ask the user to drop an export (`.docx`/`.txt`) in `~/Downloads`.
+- Needs the user's go-ahead: using the key was blocked once by the auto-mode classifier as credential exploration. Ask before first use in a session, and only touch the specific files the user named.
+
 ## YouTube Transcript Extraction
 
 When a note/study workflow needs a YouTube video's content (e.g. `/note <url>`), pull the transcript only — never download the full video just to read it. `yt-dlp`, `ffmpeg`, and `whisper-cpp` (`whisper-cli`) are installed via Homebrew for this.
+
+0. **For more than a couple of videos, drive the user's own Chrome over remote debugging** (no rate limit): `.claude/skills/keep-cleanup/scripts/yt_transcripts_cdp.js` opens each watch page, clicks "Show transcript" and saves the transcript; setup steps are in `.claude/skills/keep-cleanup/SKILL.md` (§2a). It needs the user to start Chrome with `--remote-debugging-port=9222` and a separate `--user-data-dir`. yt-dlp's caption endpoint 429s after ~10 videos, a raw `timedtext` URL returns an empty body, and the Playwright MCP browser gets HTTP 400 from YouTube's transcript call. (If you combine yt-dlp's `--print` with `--skip-download`, add `--no-simulate`, or no subtitle file gets written.)
 
 1. **Try captions first** (no download at all):
 
@@ -93,12 +114,12 @@ When a note/study workflow needs a YouTube video's content (e.g. `/note <url>`),
    ```bash
    yt-dlp -f bestaudio -x --audio-format wav -o "out.%(ext)s" "<url>"   # audio only, not the video
    ffmpeg -y -i out.wav -ar 16000 -ac 1 -c:a pcm_s16le out16k.wav        # whisper.cpp needs 16kHz mono
-   whisper-cli -m <model.bin> -f out16k.wav -otxt -of out --no-prints
+   whisper-cli -m ~/.cache/whisper/ggml-base.en.bin -f out16k.wav -otxt -of out --no-prints
    ```
 
-   `whisper-cli` needs a GGML model file, which Homebrew does **not** bundle — download one once (e.g. `ggml-base.en.bin`, ~140MB) from `https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.en.bin` and reuse it.
+   `whisper-cli` needs a GGML model file, which Homebrew does **not** bundle. The model lives at `~/.cache/whisper/ggml-base.en.bin` (~140MB) — **keep it there permanently and reuse it; never delete it or re-download it.** Only if the file is missing, fetch it once: `mkdir -p ~/.cache/whisper && curl -L -o ~/.cache/whisper/ggml-base.en.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.en.bin`.
 
-3. **Clean up afterward:** delete the downloaded audio/video and any model file once the text is extracted and saved into the vault note — don't leave large binaries in the working tree or `~/Downloads`. Only the resulting markdown note is meant to persist.
+3. **Clean up afterward:** delete the downloaded audio/video and intermediate wav/txt files (work in the scratchpad dir, not the working tree or `~/Downloads`) once the text is extracted and saved into the vault note. **Do not delete the Whisper model** in `~/.cache/whisper/`. Only the resulting markdown note is meant to persist in the repo.
 
 ## Deployment
 

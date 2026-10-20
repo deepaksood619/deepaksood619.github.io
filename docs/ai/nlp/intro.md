@@ -3,7 +3,7 @@ slug: /ai/nlp/intro
 title: NLP
 description: Explore Natural Language Processing with insights on word embeddings, pretraining techniques, and key models like word2vec and GloVe for improved NLP applications.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-10-19
 ---
 - [14. Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html)
 - [14.1. Word Embedding (word2vec)](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html)
@@ -70,6 +70,7 @@ https://www.toptal.com/python/topic-modeling-python
 
 [Topic modeling](https://en.wikipedia.org/wiki/Topic_modeling) is a related problem, where a program is given a list of [human language](https://en.wikipedia.org/wiki/Natural_language) documents and is tasked with finding out which documents cover similar topics.
 
+- [Topic Modeling with Embeddings and K-means](ai/data-science/intro.md) - sentence embeddings plus K-means recipe with the elbow method
 - [Extract Topics From Video/Audio With LLMs (Topic Modeling w/ LangChain) - YouTube](https://www.youtube.com/watch?v=pEkxRQFNAs4)
 - [langchain-tutorials/data\_generation/Topic Modeling With Language Models.ipynb at main · gkamradt/langchain-tutorials · GitHub](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Topic%20Modeling%20With%20Language%20Models.ipynb) ⭐ 7.5k
 

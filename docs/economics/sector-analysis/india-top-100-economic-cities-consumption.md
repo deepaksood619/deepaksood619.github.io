@@ -3,7 +3,7 @@ slug: /india-top-100-economic-cities-consumption
 title: India's Top 100 Economic Cities and Consumption Corridors
 description: PRICE / Tata Sons Research breakdown of India's top 100 economic cities, five economic corridors, income and consumption anomalies, and the weekend spending economy
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-19
 ---
 
 PRICE (People Research on India's Consumer Economy) and Tata Sons Research report "The Many Urban Indias" (2025-26), based on the ICE 360° household survey of 100 cities covering 282 million people. It splits the cities into the Big Six, Boomtowns, Breakout, and Frontier tiers and finds that smaller cities often out-spend the metros per household.
@@ -94,6 +94,8 @@ Tier figures are from press coverage of the report (Goodreturns, ThePrint, Busin
   - Transportation spending alone is about ₹2.9 lakh crore (over $33 billion), larger than the entire consumption market of Pune (₹2.5 lakh crore) or Ahmedabad
   - Dairy consumption alone is roughly $10 billion
 - Education and health spending together total ₹8.4 lakh crore annually
+
+**Interpretation (ThePrint explainer):** the report applies classic economics to why city size predicts so little. Joan Robinson's market segmentation (1933) says one apparent market is really several, and Friedman's permanent income hypothesis (1957) explains why high earners spend in deliberate lumps, which is why Bengaluru earns the most of the Big Six but spends only 54.1% of income. Chennai's 27.7% debt-to-income, the highest of all 100 cities, is mostly housing and vehicle loans, so under the Modigliani-Brumberg life-cycle hypothesis it reads as borrowing for assets rather than distress. Chandigarh is an outlier with high income, spending and savings plus low debt, and it is not representative of the Frontier tier, which has the lowest average income (about ₹12 lakh) and the highest share of financially stretched households (1 in 4). The report's appendix uses a Pareto (1896) distribution to estimate top-end incomes that surveys miss. [Source](https://youtu.be/A_IUPcPIdAc)
 
 ## Shifting Spending Patterns and the Weekend Economy
 

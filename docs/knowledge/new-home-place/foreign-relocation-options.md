@@ -3,7 +3,7 @@ slug: /knowledge/new-home-place/foreign-relocation-options
 title: Foreign Relocation Options
 description: Shortlist of foreign countries to move to, climate-resilience factors, a first-hand Canada immigration account, and the deep-research prompt used for relocation analysis.
 created: 2026-05-14
-updated: 2026-08-19
+updated: 2026-10-16
 ---
 - [places-to-live-criteria](knowledge/new-home-place/places-to-live-criteria.md)
 - [australia-nz-relocation-overview](knowledge/new-home-place/australia-nz-relocation-overview.md)
@@ -108,3 +108,7 @@ Based on these criterias and everything about me, do a deep research on where I 
 About me - https://deepaksood619.github.io/about-deepak-sood/ Father of 2 daughters (age 3 years, another 5 months) I am aged 32 and wife 31 both in IT.
 
 This prompt produced the deep-research reports split across [australia-nz-relocation-overview](knowledge/new-home-place/australia-nz-relocation-overview.md), [indian-tier2-3-exurban-analysis](knowledge/new-home-place/indian-tier2-3-exurban-analysis.md), and [it-hub-relocation-comparison](knowledge/new-home-place/it-hub-relocation-comparison.md).
+
+## Links
+
+- [Singapore vs India - Finances - Google Sheets](https://docs.google.com/spreadsheets/d/14He9ekfqIFgdKVqc9DcH_Zr3otSpKMReBDAjRCQlm4A/edit?usp=sharing)

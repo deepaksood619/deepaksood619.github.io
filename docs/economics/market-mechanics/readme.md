@@ -14,6 +14,7 @@ updated: 2026-08-01
 - [Order Types](economics/market-mechanics/market-structure/order-types.md) - Market orders, limit orders, stop-loss orders, and advanced order types
 - [IPO Process](economics/market-mechanics/market-structure/ipo-process.md) - Initial public offering mechanics and subscription process
 - [Market Indicators](economics/market-mechanics/market-structure/market-indicators.md) - Volatility index (VIX), equity risk premium, CAPM, and market surveillance
+- [FPI Exit Scenario](economics/market-mechanics/market-structure/fpi-exit-scenario-nifty.md) - FPI vs DII ownership, domestic absorption capacity, and scenario-based Nifty 50 levels if foreign investors exit
 
 ## Technical Analysis
 

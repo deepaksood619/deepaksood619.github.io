@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/nifty-indexes-indices
 title: Nifty Indexes / Indices
 description: Discover comprehensive insights into Nifty Indexes and Indices, covering broad-based, sectoral, thematic, and strategy indices for informed investing.
 created: 2024-06-11
-updated: 2026-06-09
+updated: 2026-10-11
 ---
 ![Sensex then versus now](../../../media/Pasted%20image%2020241006231135.jpg)
 
@@ -166,3 +166,14 @@ updated: 2026-06-09
 - [Nifty50 & Short Duration Debt – Dynamic P/B](https://www.niftyindices.com/indices/equity/strategy-indices/nifty50-short-duration-debt-dynamic-p-b)
 - [Nifty50 & Short Duration Debt – Dynamic P/E](https://www.niftyindices.com/indices/equity/strategy-indices/nifty50-short-duration-debt-dynamic-p-e)
 - [Nifty Equity Savings](https://www.niftyindices.com/indices/equity/strategy-indices/nifty-equity-savings)
+
+## Index Rebalancing as Slow Momentum
+
+Alok Jain (Weekend Investing) argues a market-cap-weighted index behaves like a very slow momentum strategy: free-float market cap is price times free-float shares, so rising stocks climb from small cap to midcap to Nifty Next 50 to Nifty 50, and losers are shunted out the other way. Nifty indices rebalance semi-annually (effective April and October).
+
+- **Oct 2026 example (per transcript, names partly garbled):** Wipro moved out of Nifty 50 (replaced by BSE Ltd). Out of Nifty Next 50: Indian Hotels, Lodha, REC, Shree Cement, United Spirits; in: Hitachi Energy, Polycab, Vedanta, Vodafone Idea and Wipro.
+- **Numbers cited:** outgoing six stocks averaged -12% over one year, incoming four +46%, Nifty 50 -10%. "Out" does not require a loss; a flat stock is displaced by relatively stronger ones.
+- **Cost of the slow clock:** an index holder keeps owning losers until the committee acts. Wipro peaked in Feb 2025 and was removed 30 Sep 2026 (exiting in Feb 2025 meant about -8%, Jan 2026 about -21%, at removal about -48% from the peak); Shree Cement fell from about 32,000 to 21,000 before exit; Yes Bank stayed in Nifty from about 410 down to about 20.
+- **Takeaway:** momentum is the core of the benchmark; a faster momentum strategy (weekly or monthly reviews) cuts losers earlier, but index momentum funds are also slow.
+
+[Watch This Video If You Are An Index Investor - Weekend Investing - YouTube](https://youtu.be/QIpwOpVXSbo)

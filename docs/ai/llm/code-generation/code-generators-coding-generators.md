@@ -118,6 +118,21 @@ ChatDev has evolved from a specialized software development multi-agent system i
 
 [GitHub - OpenBMB/ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration · GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 34k
 
+## Code Reviews
+
+There's been a lot of debate about AI vs human code review recently. Here's some actual data and observations from inside Meta:
+
+- Engineers now push ~3x the code they did a year ago. Human review capacity obviously didn't triple.
+- In an analysis involving 535k+ reviewed diffs, the production-incident rate for AI-reviewed diffs was 1/50th that of human reviewed.
+- The revert rate for AI reviewed diffs was 1/3rd of the human reviewed.
+- Median review wall time dropped by 35% compared to human-reviewed diffs.
+- Experts then looked at every production incident caused by AI-approved diffs. A human reviewer wouldn't have caught any of those issues anyway in a manual review.
+- Meta's internal coding agent lands ~3,000 diffs a week, and 59% need zero human edits.
+
+Human review as default for most code changes is already obsolete, and might even be riskier.
+
+[2605.30208](https://arxiv.org/pdf/2605.30208)
+
 ## Others
 
 - Tabnine

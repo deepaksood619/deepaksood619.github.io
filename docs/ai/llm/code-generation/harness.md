@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/harness
 title: Harness
 description: Discover how an AI harness enhances LLMs into autonomous agents, improving accuracy, reducing review toil, and optimizing tool usage for quality systems.
 created: 2026-06-18
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 A harness in AI/LLM is the infrastructure, tools, and orchestration code that surrounds a Large Language Model (LLM) to transform it from a chatbot into an autonomous agent. It acts as the "control plane" that manages the model's memory, context, tool usage (APIs, search), and safety boundaries.
 
@@ -113,6 +113,16 @@ Applications like "Deep Research", "Manus", and "Claude Code" have gotten around
 
 [deepagents \| LangChain Reference](https://reference.langchain.com/python/deepagents)
 
+## HarnessTax: How Much Does the Harness Matter?
+
+UC Berkeley / Arena Intelligence study (Pan, Yang, Arabzadeh, Chiang, Stoica, Zaharia, 2026) evaluating 21 model-harness pairs: seven models across three harnesses (Claude Code, Codex CLI, and Pi) on SWE-bench Lite and Terminal-Bench 2.0. Each pair ran on the same 30 sampled tasks, three attempts per task, capped at 100 agent turns, with costs computed from a fixed direct-API price list dated September 1, 2026.
+
+- **Harness choice has little effect on task success rate, but can significantly affect cost.** The same model can achieve similar success rates at up to 5x cost. Claude Fable 5 solves 97.8% of attempts in Claude Code, 96.7% in Codex and 96.7% in Pi, yet Claude Code costs about twice as much as Pi ($1.33 vs $0.67). Across shared models, Claude Code costs about 2.0x Pi and 1.6x Codex on SWE-bench Lite, and 1.5x Pi on Terminal-Bench 2.0 (geometric means of cost ratios), while the average harness effect on success rate stays within ±2% on SWE-bench Lite and about ±5% on Terminal-Bench 2.0.
+- **A simple harness can be competitive.** Pi reaches the Pareto frontier on both benchmarks with just four tools: read, write, edit, and bash. Across all seven models, Claude Code's mean initial context is over 10x Pi's (longer instructions and larger tool schemas), so a "harness tax" can begin with the first model call.
+- **Models may perform better with other harnesses than with their own.** Across the six Anthropic and OpenAI models and both benchmarks, an alternative harness achieves the highest observed success rate in nine of twelve comparisons. For example GPT-5.6 Sol scores 83.3% in Pi vs 78.9% in Codex on Terminal-Bench 2.0, at about half the cost ($0.42 vs $0.76).
+- **Caveats:** results are limited to two open-source benchmarks the models may have seen in training; harness complexity should be treated as an empirical trade-off, and richer harness features may still help on harder, frontier-boundary tasks.
+- **Takeaway:** model evaluations should compare the same model's cost and success across commonly used harnesses rather than accepting a coding agent's default harness.
+
 ## Tools and Open Source Libraries
 
 Building blocks that show up repeatedly when implementing a harness rather than just an agent framework:
@@ -127,6 +137,7 @@ Building blocks that show up repeatedly when implementing a harness rather than 
 
 ## Links
 
+- [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
 - [Effective harnesses for long-running agents \\ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Harness design for long-running application development \\ Anthropic](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)

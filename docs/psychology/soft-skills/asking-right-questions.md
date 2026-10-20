@@ -3,7 +3,7 @@ slug: /psychology/soft-skills/asking-right-questions
 title: Asking the Right Questions
 description: Learn how to ask open-ended questions to gather insightful information and encourage deep reflection.
 created: 2023-03-05
-updated: 2025-08-28
+updated: 2026-10-19
 ---
 A good question is the one that lets you obtain the **type, quality,** and **quantity** of information you need.
 
@@ -213,6 +213,16 @@ Rest assured my intention was never to take this client casually. Apologies if y
 8. What’s a conversation you had recently that changed the way you see things?
 9. Which small moment from this week felt unexpectedly meaningful?
 10. What’s something you’re curious about right now that you haven’t yet explored deeply?
+
+### 5 Conversation Commandments
+
+From [Be a Better Communicator: 5 Conversation Commandments (Productivity Game)](https://youtu.be/ph8njBnvfSE), drawing on Carnegie, Cabane, Leil Lowndes, Duhigg and Goulston.
+
+1. **Be genuinely interested** (Dale Carnegie) - do not rehearse your own stories; wonder what is new in their FORD: Family, Occupation, Recreation, Dreams
+2. **Maximize their charisma** (Olivia Fox Cabane, The Charisma Myth) - presence, warmth and power; use the flooding smile (pause one second on seeing someone, then let a big smile spread slowly into the eyes), take up space, and insert pauses when speaking
+3. **Be slightly unexpected** - answer with an insider twist or playful honesty, which gives the other person material to riff on
+4. **Ask deep questions** (Charles Duhigg, Supercommunicators) - in a 2016 Harvard speed-dating study, pairs who asked emotion-eliciting questions rather than fact questions got second dates. DEEP = Dreams, Elevated experiences, Passions ("Do you love doing that?", "What was your favorite experience at college?"); follow the clues they give
+5. **Make others feel heard** (Mark Goulston, Just Listen) - nod and say "hmm", and paraphrase by echoing a specific part of their story with emotion rather than a generic "that must be frustrating"
 
 ## Links
 

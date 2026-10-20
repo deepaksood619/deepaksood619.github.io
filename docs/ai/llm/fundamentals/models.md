@@ -145,6 +145,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 	- **After Optimization (Gemini 3.5 Flash):** Terminal-Bench 2.1: **76.2%** (+12% improvement), GDPval-AA: **1,656 Elo** (+17% improvement)
 	- **Business Impact:** API pricing at **$1.50/M input tokens** roughly 40% cheaper than Gemini 3.1 Pro at 4× the output speed; Macquarie Bank has already deployed it to process 100+ page customer onboarding documents autonomously
 	- [Google’s 4× Faster Bargain AI](https://businessanalytics.substack.com/p/googles-4-faster-bargain-ai)
+- [Google Flow Music](https://www.flowmusic.app/)
 
 ## Llama
 
@@ -161,6 +162,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 
 - [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27k
 - [Grok \| xAI](https://x.ai/grok)
+    - xAI "Grokbots" (about Aug 2026, per a presenter's claims in [this weekly AI roundup](https://youtu.be/NGMzAJSMseU)): AI "employees" with their own cloud computers, a "teach a task" recorder that turns a demonstrated workflow into a reusable skill, scheduled routines and Gmail/Calendar/Drive/Slack plugins; they run only on Grok 4.6 (API price stated as $2 in / $6 out per million tokens)
 - Vicuna
 - Bloom
 - [PartyRock](https://partyrock.aws/)

@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-cloud-flink
 title: Confluent Cloud Flink Guide
 description: Discover how to process data using Flink on Confluent Cloud with our comprehensive overview and quick start guides.
 created: 2026-01-28
-updated: 2026-08-13
+updated: 2026-10-19
 ---
 - [Process Data with Flink](https://docs.confluent.io/cloud/current/flink/index.html)
 - [Overview](https://docs.confluent.io/cloud/current/flink/overview.html)
@@ -163,6 +163,14 @@ The state size is the amount of state that a statement has accumulated. Confluen
 	- Deduplicate topic
 	- Mask fields
 	- Create embeddings
+
+## Table API, UDFs and Process Table Functions
+
+From the [Flink Table API, UDFs and PTFs demo](https://youtu.be/AFp_CZyUzJM) (2026):
+
+- **Table API for Java** is GA: a code-first way to define pipelines (the demo builds a table of high-value transactions above a threshold), with the statement visible in the Flink workspace
+- **UDFs** are GA: reusable Java or Python logic as an escape hatch when built-ins are not enough. The demo shows Java UDFs on GCP and Python UDFs on AWS (risk-score UDFs created with `CREATE FUNCTION` and tested with `SELECT`)
+- **Process Table Functions (PTFs)** are GA in Java on AWS, Azure and GCP: stateful functions with custom state and timers, for use cases like fraud detection and dynamic pricing. The demo PTF emits a row once a customer has 3 or more transactions inside a time window, showing logic across multiple events where a UDF works per row
 
 ## Others
 

@@ -3,7 +3,7 @@ slug: /ai/llm/evaluation-monitoring/benchmarking-monitoring
 title: Benchmarking / Monitoring
 description: Discover LangFuse, the open-source platform for LLM benchmarking and monitoring, offering observability, metrics, evaluations, and seamless integration.
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-03
 ---
 - [evaluation](ai/llm/evaluation-monitoring/evaluation.md)
 
@@ -98,6 +98,13 @@ However, it’s also important to evaluate **Output TPS**, which specifically m
 > Output TPS = Output Tokens / Time to Generate Output Tokens (TAT in seconds)
 
 Output TPS is a more focused metric that excludes input token processing. It provides a clear measure of the model’s raw generation speed, offering insights into how efficiently the model produces output regardless of the complexity or size of the input.
+
+**Fastest measured output speeds (snapshot as of Oct 2026, from a Google AI Overview citing BenchLM, Infercom and Hacker News, not independently verified):**
+
+- **Specialized ASIC / hardwired hardware:** Taalas-based Llama models reach up to 15,000-17,000 tokens/sec by hardwiring model weights directly onto custom silicon rather than running on standard GPUs
+- **Ultra-fast commercial APIs:** Celeris-1 (Celeris) measured at 1,535 tokens/sec (leading API-tracked output speeds); Mercury 2 / Mercury 2.5 (Inception) around 637-846 tokens/sec
+- **Open-weight models:** GPT-OSS-120B / GPT-OSS 20B reach 313-713+ tokens/sec depending on infrastructure and prompt length; Llama 4 Scout up to 2,600 tokens/sec on specialized high-throughput leaderboards
+- **High-quality frontier models (score 70+):** Gemini 3.8 Flash leads at 236 tokens/sec
 
 ### GPU Usage
 

@@ -3,7 +3,7 @@ slug: /confluent-cloud-aws-private-network-interface-pni
 title: AWS Private Network Interface (PNI) for Confluent Cloud
 description: Secure, cost-effective private networking for Confluent Cloud using AWS Elastic Network Interfaces - reduces costs by 50% vs PrivateLink
 created: 2026-07-05
-updated: 2026-08-18
+updated: 2026-10-09
 ---
 Confluent PNI is a secure, low-cost private networking option built directly on fundamental AWS networking primitives such as AWS Elastic Network Interfaces (ENI). It leverages the same underlying AWS networking primitives used to power Amazon's own services, such as Amazon Elastic Kubernetes Service (EKS) or AWS Lambda.
 
@@ -43,6 +43,8 @@ Because an ENI acts like a local network card inside your subnet, PNI allows for
 - **No IP Address Management**: Freedom from IP address management or routing constraints
 - **Cross-AZ/VPC Flexibility**: Move network interfaces across AZs and services
 - **Simplified DNS Management**: Eliminates VPC endpoint overhead
+
+With PNI, the Kafka client resolves the Confluent-provided `glb` hostname through public DNS. Confluent’s DNS returns the private IP addresses of the PNI ENIs deployed in the customer VPC. AWS Multi-VPC ENI Attachment connects those customer-VPC ENIs to Confluent-managed VMs in Confluent’s AWS account. Traffic therefore reaches Confluent over private IP space without PrivateLink, VPC peering, or a customer-managed private hosted zone. Same-VPC clients use normal VPC-local routing; clients in other networks require customer-managed routing to the ENI VPC.
 
 ## Cost Savings
 

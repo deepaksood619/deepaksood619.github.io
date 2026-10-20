@@ -3,7 +3,7 @@ slug: /technologies/confluent/confluent-intelligence
 title: Confluent Intelligence Overview
 description: Discover how Confluent Intelligence integrates LLMs, ML, RAG, and agentic AI into your streaming data workflows.
 created: 2026-01-11
-updated: 2026-06-19
+updated: 2026-10-19
 ---
 Confluent Intelligence enables you to seamlessly integrate large-language models (LLMs), machine learning (ML), retrieval-augmented generation (RAG), and agentic AI into your streaming data workflows.
 
@@ -70,6 +70,12 @@ Common use cases include:
 - **IoT analytics:** Monitor sensor data in industrial settings to detect equipment malfunctions or predict maintenance needs.
 - **Retail analytics:** Forecast demand and optimize inventory by identifying purchasing trends in real time.
 - **Marketing:** Monitor marketing campaign performance in real-time.
+
+**Time-series foundation models and Real-time Context Engine updates** (Confluent demos, 2026): the AI forecast function in Confluent Cloud Flink takes a model parameter, so you can switch between IBM Granite TTM, FlowState, PatchTST and Google TimesFM (the default) with no other setup; the models support forecasting and anomaly detection. In an [IBM Granite demo](https://youtu.be/knU4XB-90Nw) hourly Spanish energy demand was forecast 96 hours ahead, and the stored forecast closely tracked later actuals (no accuracy figures given). The model name "PatchTST" is inferred from a garbled caption.
+
+- **Upsert mode:** Real-time Context Engine now supports upsert-mode tables, so agents querying through the RTCE MCP server get only the latest state per key instead of a changelog; enable it per topic with a toggle in the console (MCP tools: get metadata, list topics, query data)
+- **Lightning queries:** a REST API for direct key lookups on RTCE-enabled topics (previously MCP only), using a global API key, returning schema plus data, for low-latency application lookups
+- [Demo: Real-time anomaly detection and forecasting, Real-Time Context Engine for AI agents (YouTube)](https://youtu.be/M4jAsrDWjt4)
 
 ## Links
 

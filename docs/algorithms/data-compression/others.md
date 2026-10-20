@@ -3,7 +3,7 @@ slug: /algorithms/data-compression/others
 title: Understanding Zstandard Compression
 description: Explore Zstandard, a fast lossless compression algorithm by Facebook, for efficient real-time data compression.
 created: 2023-03-05
-updated: 2026-03-27
+updated: 2026-10-10
 ---
 ![image](../../media/data-compression-Others-image1.jpg)
 
@@ -72,25 +72,53 @@ snappy.uncompress(r)
 
 ### Working
 
-#### Phase 1: Dictionary Creation
+#### Phase 1: Blocks
 
-Before compressing the data, Snappy creates a dictionary based on a sample of the input data. This dictionary consists of sequences of bytes that occur frequently in the input data. The dictionary is used to replace these sequences with shorter codes during compression, which improves the compression ratio.
+The reference implementation fragments the input into blocks of up to 64 KB and compresses each independently, so back-references never cross a block boundary. This keeps the hash table small and cache-friendly and lets blocks be processed separately.
 
-#### Phase 2: Blocks
+#### Phase 2: Match finding (LZ77-style)
 
-Snappy divides the input data into blocks of up to 64 KB in size. Each block is compressed separately, which makes it possible to decompress individual parts of the data without having to decompress the entire file.
+Snappy scans the block and hashes every 4-byte sequence into a small hash table that remembers the last position where that sequence was seen. If the table points to an earlier position with the same bytes, it extends the match forwards and emits a copy. If not, the byte is kept as a literal. It takes the first match found and does no deeper search, and when it finds no matches for a while it skips ahead faster, which is why it is fast but gives a modest ratio. There is no pre-built dictionary and no sampling pass.
 
-#### Phase 3: Huffman coding
+#### Phase 3: Output format
 
-Snappy uses Huffman coding to compress the data within each block. Huffman coding assigns shorter codes to more frequently occuring symbols. Snappy uses a pre-defined set of Huffman codes that is optimized for the type of data being compressed
+There is no Huffman or other entropy coding stage. The compressed stream is a varint holding the uncompressed length, followed by a sequence of elements. The low 2 bits of each element's tag byte give its type:
 
-#### Phase 4: Compressed output
+| Tag bits | Element | Notes |
+|---|---|---|
+| `00` | Literal | Raw bytes copied as-is, length stored in the tag or in following bytes |
+| `01` | Copy, 1-byte offset | Length 4-11, offset up to 2047 |
+| `10` | Copy, 2-byte offset | Length 1-64, offset up to 65535 |
+| `11` | Copy, 4-byte offset | Length 1-64, offset up to 2^32 - 1 |
 
-The compressed data is output in a block-based format that includes information about the size of each block, the length of the uncompressed data, and the contents of the dictionary
+A copy means "repeat `length` bytes starting `offset` bytes back in the already-decompressed output".
 
-#### Phase 5: Decompression
+#### Phase 4: Decompression
 
-Snappy reverses the compression process. It reads the block headers, decompresses each block using the Huffman codes and dictionary, and concatenates the decompressed blocks to produce the original data.
+The decompressor reads the length preamble, then walks the elements: literals are copied straight to the output and copies are replayed from earlier output. It needs no tables or entropy decoding, which is why decompression is very fast. The raw format has no checksum; the separate framing format adds CRC-32C checksums per chunk.
+
+## Codec Comparison: gzip vs zstd vs lz4 vs snappy
+
+- **gzip (DEFLATE = LZ77 + Huffman):** good ratio, but the slowest of the four and the most CPU per byte. Memory is modest (about a 32 KB window).
+- **zstd (LZ77 + FSE/Huff0 entropy coding):** best ratio of the four, and at its default level it is both smaller and faster than gzip. It has tunable levels (negative `--fast` levels up to 22). Higher levels cost much more compression CPU and a larger window/memory, but decompression speed stays roughly constant across levels.
+- **lz4:** very fast compression and the fastest decompression, with a lower ratio than zstd or gzip. Smallest CPU and memory footprint.
+- **snappy:** same class as lz4 (fast, modest ratio, low CPU). In practice lz4 is usually equal or better, so snappy is mostly kept for compatibility.
+
+Reference numbers (lzbench, Silesia corpus, single core, from the zstd README):
+
+| Compressor | Ratio | Compress | Decompress |
+|---|---|---|---|
+| zstd 1.5.7 -1 | 2.896 | 510 MB/s | 1550 MB/s |
+| zlib 1.3.1 -1 (gzip's engine) | 2.743 | 105 MB/s | 390 MB/s |
+| lz4 1.10.0 | 2.101 | 675 MB/s | 3850 MB/s |
+| snappy 1.2.1 | 2.089 | 520 MB/s | 1500 MB/s |
+
+**Rule "gzip/zstd = better ratio but more CPU and memory; snappy/lz4 = faster but lower ratio":** mostly true, with two corrections:
+
+- zstd is not more CPU-hungry than gzip. At comparable or better ratio it compresses and decompresses faster. Only its high levels (10+) cost more CPU and memory than the fast codecs.
+- lz4 and snappy are byte-oriented LZ77-style codecs with no entropy-coding (Huffman/FSE) stage and only a quick match search. That is why they are fast and give a lower ratio. gzip and zstd add entropy coding and a deeper match search.
+
+Ratios on real data differ: JSON, logs and repeated-key formats compress well, while already-compressed payloads (images, encrypted data) gain nothing. Always benchmark on your own data. For how these codecs are used in Kafka (per-batch compression, broker recompression, `compression.type`), see [Optimize Confluent Cloud Clients for Throughput](technologies/confluent/cloud/confluent-cloud-client-throughput-optimization.md).
 
 ## Roaring Bitmaps
 

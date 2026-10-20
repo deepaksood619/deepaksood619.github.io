@@ -3,7 +3,7 @@ slug: /economics/taxation/income-tax
 title: Income Tax
 description: Explore income tax slabs, rates, and surcharges for individuals and HUFs under 60 years, including additional cess for effective financial planning.
 created: 2025-02-27
-updated: 2026-05-18
+updated: 2026-10-19
 ---
 | Income Tax Slabs        | Tax Rate for Individual & HUF Below the Age Of 60 Years |
 |------------------------|------------------------------------------------|
@@ -50,6 +50,17 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 ![Old vs New Tax Regime](../../media/Pasted%20image%2020250202154540.png)
 
 [The Old Tax Regime is almost dead](http://youtube.com/post/UgkxClgrQ0G3MrDevP87p1LjDb4ik-DOre9x)
+
+**How income tax is computed (FY 2025-26)** from [Understanding Indian Tax System (Labour Law Advisor)](https://youtu.be/xIE-BW_hR5c), a Hinglish walkthrough. Several figures in the transcript are garbled, and the slab and rebate numbers below were inferred from the tax amounts, so verify them against the Budget before relying on them.
+
+- **Five heads of income:** salary, house property, business or profession, capital gains, other sources (FD interest, dividends, gambling, gifts from non-relatives). Gifts from close relatives are not income, and the Centre does not tax agricultural income
+- **Accrual:** FD interest is taxed each year as it accrues even if paid at maturity, unrealised share and MF gains are untaxed until sale, and a third house is taxed on deemed rent even if vacant
+- **New regime slabs:** 0-4L nil; 4-8L 5%; 8-12L 10%; 12-16L 15%; 16-20L 20%; 20-24L 25%; above 24L 30%. The only major deduction is the ₹75,000 standard deduction for salaried people; the old regime keeps 80C, home-loan interest, insurance premiums and HRA
+- **Rebate and marginal relief:** section 87A makes tax nil up to ₹12L taxable income in the new regime (₹5L, a ₹12,500 rebate, in the old). Above ₹12L marginal relief caps tax at the income over ₹12L, so a ₹50,000 raise just past the limit is taxed away almost entirely
+- **Special flat rates get no rebate:** crypto, gambling and game-show winnings are taxed at 30% with no basic exemption; LTCG on listed shares and equity MFs is 12.5% above ₹1.25L a year and STCG is 20%. With the same ₹12L income, salary pays nothing, LTCG pays about ₹87,000, and gambling or crypto about ₹3.74 lakh
+- **Surcharge and cess:** surcharge applies above ₹50L income (the video does not mention that the new regime caps it at 25%), then 4% health and education cess on tax plus surcharge
+- **Collection and filing:** TDS, TCS and advance tax all credit against your PAN and show up in AIS/TIS, Form 26AS and Form 16; filing is mandatory above the basic exemption (₹4L new, ₹2.5L old) and worth doing for nil income to claim refunds and build income history; the return is due 31 July for individuals. Salaried and capital-gains-only filers can switch regimes every year, while business filers cannot
+- The Income Tax Act 2025 replaces the 1961 Act and renames assessment and previous year to just "tax year"; see [Deductions](economics/taxation/deductions.md) for the section mapping
 
 ## Taxation Comparison
 

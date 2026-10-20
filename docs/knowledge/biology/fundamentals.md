@@ -3,7 +3,7 @@ slug: /knowledge/biology/intro
 title: Biology
 description: Explore biology's role in longevity through DNA protection, dietary choices, and physical fitness while understanding organism classification and taxonomy.
 created: 2023-03-05
-updated: 2026-07-05
+updated: 2026-10-03
 ---
 ## Live longer
 
@@ -96,6 +96,8 @@ https://en.wikipedia.org/wiki/Carrying_capacity
 ## Other Organisms
 
 [Slime mold - Wikipedia](https://en.wikipedia.org/wiki/Slime_mold)
+
+**Hematophagy** (also haematophagy or hematophagia; Greek αἷμα *haima* "blood" + φαγεῖν *phagein* "to eat"): the practice by certain animals of feeding on blood. Since blood is a fluid tissue rich in nutritious proteins and lipids that can be taken without great effort, it is a preferred form of feeding for many small animals, such as worms and arthropods. Some intestinal nematodes, such as Ancylostomatids, feed on blood extracted from the capillaries of the gut, and about 75 percent of all species of leeches (e.g., *Hirudo medicinalis*) are hematophagous. The spider *Evarcha culicivora* feeds indirectly on vertebrate blood by specializing on blood-filled female mosquitoes as its preferred prey. Some fish (lampreys and candirus), mammals (especially vampire bats), and birds (the vampire finch, Hood mockingbird, Tristan thrush, and oxpeckers) also practice hematophagy. [Source](https://en.wikipedia.org/wiki/Hematophagy)
 
 ## Resources
 

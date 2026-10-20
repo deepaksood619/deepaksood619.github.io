@@ -3,7 +3,7 @@ slug: /kcp-kafka-copy-paste
 title: kcp-kafka-copy-paste
 description: Automated Kafka migration toolkit for zero-cut migrations to Confluent Cloud using CC Gateway, Cluster Linking, and KCP CLI orchestration
 created: 2026-06-24
-updated: 2026-07-30
+updated: 2026-10-19
 ---
 ## Intro
 
@@ -752,6 +752,13 @@ During cutover, clients see `BROKER_NOT_AVAILABLE` with message "Migration to Co
 - Triggers automatic retries in all standard Kafka clients (Java, Python, Go, librdkafka) - no code changes required
 - Brief partial downtime window of approximately 60 seconds
 - Single bootstrap URL change for clients - that's the entire ask
+
+From the [Zero Downtime, Zero Client Code Changes: Migrating from Apache Kafka to Confluent Cloud deep dive](https://youtu.be/XimbKShxP4s):
+
+- **Migration groups:** a logical set of topics plus the client apps that migrate together (e.g. a payments group with `payment-transactions` and `payment-events`). Each group gets its own gateway route and bootstrap endpoint, so teams repoint on their own schedule while the gateway keeps proxying to the source cluster
+- **Cutover window:** a few KCP commands per group, with a window under 30 seconds in the presenters' testing (vs about 60 seconds above); consumers resume at the same offsets in Confluent Cloud and producers buffer, then succeed once the gateway is unblocked
+- **Credential swap:** the gateway accepts clients with one mechanism (e.g. username and password) and swaps in Confluent Cloud API keys looked up from a secrets store (AWS Secrets Manager or HashiCorp Vault), so no client config changes
+- **Roadmap:** traffic-plane-aware migration (consumers and producers independently) and principal- and topic-level granularity
 
 ### Authentication Support
 

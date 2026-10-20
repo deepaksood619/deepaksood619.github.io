@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/daily-requirements
 title: Daily Requirements
 description: Discover daily macronutrient requirements, including essential carbohydrates, proteins, and fats, to fuel your energy and support a healthy lifestyle.
 created: 2023-03-05
-updated: 2026-04-07
+updated: 2026-10-19
 ---
 ## Macronutrients
 
@@ -105,6 +105,14 @@ It has two main components -
 - **Soluble fiber -** which dissolves in water -- is readily fermented in the [colon](https://en.wikipedia.org/wiki/Colon_(anatomy)) into gases and physiologically active [by-products](https://en.wikipedia.org/wiki/By-product), such as [short-chain fatty acids](https://en.wikipedia.org/wiki/Short-chain_fatty_acid) produced in the [colon](https://en.wikipedia.org/wiki/Colon_(anatomy)) by [gut bacteria](https://en.wikipedia.org/wiki/Gut_flora); it is [viscous](https://en.wikipedia.org/wiki/Viscous), may be called [prebiotic](https://en.wikipedia.org/wiki/Prebiotic_(nutrition)) fiber, and delays [gastric emptying](https://en.wikipedia.org/wiki/Stomach#Function) which, in humans, can result in an extended feeling of fullness.
 - **Insoluble fiber -** which does not dissolve in water -- is inert to digestive enzymes in the upper [gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract) and provides bulking.Some forms of insoluble fiber, such as [resistant starches](https://en.wikipedia.org/wiki/Resistant_starch), can be fermented in the colon.Bulking fibers absorb water as they move through the [digestive system](https://en.wikipedia.org/wiki/Digestive_system), easing [defecation](https://en.wikipedia.org/wiki/Defecation).
 
+**Indian fiber sources** (adults need 25-30 g a day and most Indians fall well short; only plant foods have fiber, so paneer, eggs, chicken and fish have none), from [Ranking 10 fiber foods from worst to best - Food Pharmer](https://youtu.be/RjtNG0nXdWA). Figures are per 100 g and some are approximate:
+
+- **Seeds:** chia about 35 g (7 g per 2 tablespoons, no cooking needed), flax about 27 g (3 g per tablespoon; eat lightly ground because whole seeds can pass undigested)
+- **Legumes (cooked):** chana about 8 g, chole about 7.5 g (without bhature), rajma about 6.5 g, dal about 5 g (whole lentils, whole moong and whole masoor have more than split ones)
+- **Fruit and others:** guava is high in fiber, has more vitamin C than orange and is cheap, which makes it the most underrated swap for chips at snack time; avocado about 7 g but costly; roasted edamame is high but pricey; okra only about 3-4 g
+- **Marketing warning:** atta Maggi ("fiber of 3 rotis") and Chocos ("fiber of 1 roti") do not replace whole foods
+- **Sample day:** 50 g oats (5 g) plus 2 tablespoons chia (7 g), guava in the evening, and rajma, chole, dal or chana at lunch and dinner; add isabgol only if still short. Raise fiber gradually and drink more water alongside
+
 **See also:** [Isabgol (Psyllium Husk)](knowledge/biology/nutrition/isabgol-psyllium-husk.md) - Natural soluble fiber supplement for digestive health
 
 - Antioxidants
@@ -172,6 +180,8 @@ It has two main components -
 - Grains and cereals are generally good sources of the B group vitamins and fibre
 - Full-fat dairy and egg yolks are generally sources of the fat soluble vitamins A, D and E
 - Milk and vegetable or soya bean oil are generally good sources of vitamin K, which can also be synthesised by gut bacteria
+
+**Supplement-induced nausea (multivitamin + fish oil):** Multivitamins with minerals (zinc, calcium, iron) commonly irritate the stomach, especially on an empty stomach or with a light meal; zinc is a frequent cause of nausea and vomiting. High-dose fish oil (omega-3) is fatty and slows gastric emptying, so taking both together keeps the irritating minerals in the stomach longer. Fixes: take the multivitamin in the middle of a substantial solid meal with a full glass of water, separate it from fish oil by a few hours (e.g. fish oil at lunch, multivitamin at dinner), don't take it fasting, and if it still causes vomiting, stop and ask a doctor about a gentler formulation. For immediate relief: eat something plain and starchy (toast, crackers, banana), sip water or ginger/peppermint tea, stay upright for 30-45 minutes. Not medical advice.
 
 ![image](media/Nutrition_Daily-Requirements-image1.jpg)
 

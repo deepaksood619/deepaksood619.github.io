@@ -3,7 +3,7 @@ slug: /ai/data-science/intro
 title: Intro
 description: Explore essential steps in machine learning projects, including data preparation, model evaluation, and predictive analytics for effective decision-making.
 created: 2023-03-05
-updated: 2025-12-10
+updated: 2026-10-19
 ---
 1. Problem Framing
 2. Data Understanding
@@ -129,6 +129,17 @@ The grouping of relevant words is highly suggestive of an abstract theme which i
 - Difference between graphs and dendrograms
 - Gensim
 - LDA
+
+### Topic Modeling with Embeddings and K-means
+
+Sentence-based topic modeling labels whole sentences by intent instead of labeling each word. [Topic Modeling with Clustering: A Beginner's Guide to NLP (Analytics Vidhya DataHour)](https://youtu.be/BVAsqDh0yxc) walks through a news-headline demo.
+
+- **Libraries:** Gensim (LDA is probabilistic with a topic per word; LSA uses dimensionality reduction), scikit-learn (LDA, NMF), and pretrained options such as BERTopic, SBERT and LLMs
+- **Clustering types:** partitioning (centroid-based, e.g. K-means) vs hierarchical (tree-based, e.g. agglomerative); hard (one cluster per point, K-means) vs soft (overlapping with probabilities, e.g. LDA). K-means is fast and cheap but needs K upfront; agglomerative does not
+- **Recipe:** clean the text, encode each sentence to a vector (`all-MiniLM-L6-v2` from sentence-transformers is a good fit for sentences and short paragraphs), L2-normalize the embeddings so scikit-learn's Euclidean K-means approximates cosine similarity, pick K with the elbow method (plot inertia for K up to about 10, or 30-100 on larger data), then fit K-means
+- **Labeling clusters:** cluster ids are meaningless integers, so take the sentence closest to each centroid as the representative and name the topic from it (or have an LLM name it); visualize by reducing to 2D and coloring by cluster
+- **Limits:** choosing K costs extra compute, hard clustering struggles with outliers and overlapping topics, and cluster names still need a human or a model
+- **Uses:** intent classification, summarization, review and feedback mining, customer and market segmentation, and mapping chatbot feedback topics against thumbs up/down
 
 ## Building a Data Science Team
 

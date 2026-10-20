@@ -3,7 +3,7 @@ slug: /technologies/confluent/cloud-security/21-authenticating-users-and-applica
 title: User and Application Authentication
 description: Learn how to securely authenticate users and applications in Confluent Cloud with SSO and best practices.
 created: 2025-12-10
-updated: 2026-08-07
+updated: 2026-10-07
 ---
 [Course: Introduction to Confluent Cloud Security](https://developer.confluent.io/courses/cloud-security/intro/)
 
@@ -122,6 +122,8 @@ Global API keys simplify authentication across these Confluent Cloud resources:
 - ksqlDB
 
 With global API keys, you can streamline your development workflow whether you’re building new applications, managing infrastructure with Terraform, or implementing multi-cluster failover scenarios.
+
+**Global API key can work across multiple Confluent Cloud environments** within the same organization, including supported Kafka clusters and services.
 
 ### Note
 

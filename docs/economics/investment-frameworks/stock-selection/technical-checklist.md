@@ -3,7 +3,7 @@ slug: /economics/investment-frameworks/stock-selection/technical-checklist
 title: Technical Analysis Checklist
 description: Discover a comprehensive technical analysis checklist to systematically evaluate stock trading opportunities using key indicators like MACD, RSI, and Bollinger Bands.
 created: 2026-06-09
-updated: 2026-08-08
+updated: 2026-10-19
 ---
 ## Overview
 
@@ -157,6 +157,8 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 - Target: Rs 115
 - Stop Loss: Rs 95
 - RRR = (115-100) / (100-95) = 15/5 = 3.0 Excellent
+
+**See also:** the 200-day moving average entry and exit rule in the [Concentrated Small-Cap Investor Case Study](economics/investment-frameworks/portfolio-construction/concentrated-smallcap-investor-shubham-sethi.md) (take only a small position below the 200 DMA, deploy big money above it, and sell a winner only when price breaks it).
 
 ## Trading Principles
 

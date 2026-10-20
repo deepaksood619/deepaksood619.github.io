@@ -3,7 +3,7 @@ slug: /ai/llm/building-llm-apps/libraries
 title: Libraries
 description: Discover the top Python libraries of 2023 for LLM training, application development, data extraction, and more to enhance your AI projects effectively.
 created: 2026-06-18
-updated: 2026-09-25
+updated: 2026-10-16
 ---
 [Top Python libraries of 2023 | Tryolabs](https://tryolabs.com/blog/top-python-libraries-2023)
 
@@ -363,6 +363,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**TokenMonster**](https://github.com/alasdairforsythe/tokenmonster) ⭐ 627 - Determine the tokens that optimally represents a dataset at any specific vocabulary size
 - [GitHub - microsoft/LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.](https://github.com/microsoft/LLMLingua) ⭐ 6.6k
 - On-Device Compute - [GitHub - cactus-compute/cactus: Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.](https://github.com/cactus-compute/cactus) ⭐ 6.0k
+	- Playstore - Cactus Chat
 
 ## Python Programming
 

@@ -3,7 +3,7 @@ slug: /education/pedagogy/memory
 title: Understanding Memory Processes
 description: Explore memory retention techniques like spaced repetition, interleaving, and the role of the hippocampus in memory consolidation.
 created: 2023-03-05
-updated: 2026-06-17
+updated: 2026-10-19
 ---
 Brain have a visual spatial center - Therefore images are stored very efficiently.
 
@@ -156,6 +156,21 @@ Forgetting can be caused by two different processes. The first is a **failure of
 - Memories follow an exponential decay curve, it fades fast just after studying something and began to slow down after 2 days
 - Spend about 1/10 of your study time revising old material
 - Insert brief periods of revision of old material into the study of new material
+
+## Memory as Construction, Forgetting and Dopamine
+
+From [Memory Scientist's Guide To Building A 100X Sharper Brain (Raj Shamani with Nikolay Kukushkin, NYU)](https://youtu.be/vNvCQpGYdLo).
+
+- **Memory is not a camera:** it is "a change that outlasts its cause", and the same molecular machinery appears in non-brain cells (kidney cells distinguish spaced from massed chemical pulses). It is prioritization, not storage: an escalating stimulus pattern forms a memory and a waning one does not
+- **Primacy and recency:** beginnings and endings are retained, middles are lost
+- **Recall rewrites memory:** flashbulb memories (e.g. 9/11) decayed at the same rate as everyday ones while confidence stayed high, and about a third of the details were gone within a month. Writing and photos help correct this
+- **Repetition works because each repeat changes the brain** ("repetition without repetition", Vygotsky); link new information to an existing mental model (name plus hometown). A task marked complete is forgotten faster
+- **Forgetting is essential:** Shereshevsky remembered everything but could not abstract, handle metaphor or recognize faces
+- **Forgetting bad memories:** stop recreating them (do not ruminate), refocus attention instead of suppressing (white-bear suppression rebounds), and talk about a problem only if the conversation can reach a solution
+- **Sleep:** waking strengthens used synapses and sleep scales all of them down, preserving the differences; dreams integrate memories and help motor-skill consolidation
+- **Dopamine drives wanting, not pleasure:** it responds to surprise (prediction error). Unpredictable rewards drive persistence (Skinner's pigeons, slot machines, social media), so bundle a wanted habit with a wanted reward (podcast only at the gym)
+- **Childhood amnesia (before about age 4):** the brain first installs pattern models before logging events
+- **Persuasion:** open and close a talk with surprise (primacy and recency), fill the middle with comfort, and always deliver a payoff
 
 ## References
 

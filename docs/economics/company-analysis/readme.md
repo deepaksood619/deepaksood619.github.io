@@ -617,6 +617,28 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Position Sizing:** 2-4% of portfolio (scale leader, but elevated near-term earnings/cash-flow risk)
   - **Data Date:** August 3, 2026 (Price: HK$94.15, Market Cap: ~HK$947.34B)
   - **Next Update:** After H1/Q2 2026 results (expected August 2026)
+  - **Update (Oct 5, 2026):** price verified live at HK$74.10, -31.45% trailing year, down a further ~21% since the Aug analysis. Q2/H1 2026 results checked: Q2 net profit +30% YoY (first YoY growth in 5 quarters, confirms Q1 was a trough not a continuing collapse), but still missed forecasts ~12%, plus a new Blade-Battery-shortage risk and unconfirmed FCF turnaround — stays Hold, not upgraded to Buy.
+  - **Position taken (Oct 6, 2026):** $950 USD, 1211.HK via SEHK — satellite-sized, consistent with this portfolio's other China/satellite picks.
+
+### Contemporary Amperex Technology Co Ltd (CATL)
+
+- [CATL - Fundamental Analysis (October 5, 2026)](economics/company-analysis/companies/auto/catl-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** SZSE:300750 (primary) / HKEX:3750 (secondary, H-shares, listed May 2025)
+  - **Score:** 7.2/10 ⭐⭐⭐⭐ (Medium Conviction)
+  - **Recommendation:** Hold / selective accumulate on weakness
+  - **Target Price:** HK$650 (JPMorgan, ~5% upside from last-known HK$621.50 — stale, see below)
+  - **Key Highlights:**
+    - 🟢 **Global #1 in both EV batteries (39.2% share, 9th straight year) and energy storage (30.4% share, 5th straight year)**
+    - 🟢 **H1 2026 Revenue Accelerated to +54.8% YoY** (vs. FY2025's already-strong +17.04%), beating market expectations — contrast with BYD's forecast miss
+    - 🟢 **Energy Storage Is a Second Engine:** +87.54% YoY in H1 2026, growing ~2x faster than the core power-battery business, less exposed to the domestic EV price war hurting BYD
+    - 🔴 **Not Cheap:** P/E (30.82x) roughly at its own historical average after a 96-107% post-IPO rally — limited valuation cushion, opposite setup to BYD's depressed price
+    - 🔴 **Lockup/Insider Overhang:** ~77.5M IPO lockup shares released from Nov 2025; co-founder Huang Shilin transferring ~1% of total shares
+    - ⚠️ **Real Data Gaps:** cash flow, balance sheet, and precise margin figures not located in this research pass — flagged, not estimated
+  - **Position Sizing:** 2-4% of a China-satellite sleeve if pursued — not additive to an existing BYD position's China allocation
+  - **Data Date:** October 5, 2026 (financials current through H1 2026; price verified live same day at **HK$483.40** — down ~22% from the July snapshot, pushing P/E to ~24x, below its own historical average)
+  - **Next Update:** After Q3 2026 results
+  - **Position taken (Oct 6, 2026):** $6,200 USD, 3750.HK via SEHK — **~6.5x the size of the BYD position**, well above the "2-4% satellite" sizing this report recommended; flagged as a deliberate departure from this portfolio's usual satellite discipline, not an error.
 
 ### Samsung Electronics Co Ltd
 

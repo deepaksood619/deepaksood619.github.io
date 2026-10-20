@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -170,7 +170,89 @@ updated: 2026-10-03
 
 [SCHD ETF Stock Price & Overview - Stock Analysis](https://stockanalysis.com/etf/schd/)
 
-**UCITS alternative:** there is no UCITS fund that replicates SCHD's exact index (the Dow Jones US Dividend 100). The closest widely-available Ireland-domiciled equivalent is the **WisdomTree US Quality Dividend Growth UCITS ETF** — ticker `DGRA` (USD Acc, ISIN `IE00BZ56RG20`, ~$631M AUM, 0.33% TER) or `DGRW` (USD Dist, ~$173M AUM). Same spirit (quality + dividend-growth screen, not pure high-yield) but a **different underlying index** and a meaningfully higher TER (0.33% vs. SCHD's 0.06%) — treat as directionally similar, not a precise substitute, and prefer the Acc share class (`DGRA`) for the same tax-deferral logic as `VWRA` over `VWRP`.
+**Three US ETF themes (Pranay Kapoor, not investment advice):** dividends via `SCHD` (about 100 US companies, ~3.2% yield, 0.06% expense ratio); growth via `SPYG` (0.04% expense ratio, tech-dominated today but automatically rotates to whichever category leads growth); small-cap value via `AVUV` (actively managed, value-focused small caps, ~0.25% expense ratio, higher because it is active). [US ETFs Part 2 - YouTube Shorts](https://youtube.com/shorts/0M7Z_XeZxpQ)
+
+**UCITS alternative — verified Oct 2026, verdict: `DGRA` is NOT a substitute, name-alike only:** there is no UCITS fund that replicates SCHD's exact index (the Dow Jones US Dividend 100). The obvious-looking candidate, **WisdomTree US Quality Dividend Growth UCITS ETF** (`DGRA`, USD Acc, ISIN `IE00BZ56RG20`, ~$893M AUM as of Jul 2026, 0.33% TER), checked out badly on actual holdings: its **Technology sector weight is 27.8%** (vs. SCHD's ~10.4%) and its **#1 holding is Microsoft at 6.16%**, followed by Apple, Nvidia, and Broadcom in the top 10. For a portfolio that's already MSFT/QQQM/VGT-heavy, `DGRA` adds to the exact concentration SCHD exists to offset — despite the similar-sounding name and "quality dividend" framing, it is a methodologically different fund and should not be swapped in for SCHD.
+
+**`USDV`** (SPDR S&P US Dividend Aristocrats UCITS ETF, Ireland, ISIN `IE00B6YX5D40`, $3.42B AUM, 0.35% TER, tracks 20+ consecutive years of dividend increases) — **verified Oct 2026, holds up well**: Technology is only **9.09%** of the fund (lower than even SCHD's 10.4%), top 10 (Accenture, Verizon, Chevron, Realty Income, PepsiCo, Target, Medtronic, Kenvue, ADP, Nike) has **zero overlap** with a typical US-tech-heavy book, and critically **no Microsoft and no Qualcomm** — unlike `DGRA` (6.16% Microsoft) and unlike SCHD itself post-Sept-2026-rebalance (4.74% Qualcomm). P/E ~16.25, reasonably valued. Sector spread: Industrials 18.7%, Consumer Staples 15.6%, Utilities 12.9%, Financials 12.2%, Tech 9.1%, Health Care 8.3%, remainder spread thin.
+
+**Confirmed: no Accumulating share class exists for `USDV`.** Both `USDV` and the alternate ticker `UDVD` resolve to the same ISIN (`IE00B6YX5D40`) — same Distributing share class on different exchanges, not a separate Acc line. A related-but-distinct product, the "SPDR S&P US Dividend Aristocrats **Screened** UCITS ETF" (ISIN `IE00BYTH5R14`, ESG-screened), exists but is a different fund with its own holdings — not an Acc version of `USDV`. Practical effect: `USDV` pays real cash distributions, taxable as income in India annually, rather than deferring tax via internal reinvestment the way `VWRA`/`IGLN`/`VXUA` do. It still keeps the US-estate-tax exemption (that comes from Ireland domicile, independent of distribution policy) — just not the income-tax-deferral benefit. One lower-quality source had also shown Qualcomm at #2 in `USDV`'s holdings (2.18%) while the more authoritative Oct 2, 2026 SSGA factsheet above does not — re-verify live before committing real money.
+
+**If Accumulating is a hard requirement (USDV is Dist-only), three more candidates checked:**
+
+| Fund | Acc ticker | Tech weight | Overlap found | TER | Verdict |
+| --- | --- | --- | --- | --- | --- |
+| Fidelity US Quality Income UCITS | `FUSA` | **33%** | Nvidia 7.5%, Apple 6.7%, Microsoft 5.9%, Alphabet 5.7% | — | Ruled out — worse than `DGRA`. "Quality factor" screens select profitable mega-cap tech, the opposite of what's needed here. |
+| VanEck Morningstar US Dividend Leaders | not found | — | only the global "Developed Markets" version was found (42% Financial Services) | — | Inconclusive — no confirmed pure-US UCITS version located. |
+| **WisdomTree US Equity Income UCITS** | `DHS`-family (**verify exact ISIN before buying**) | **4.3%** | **IBM** (held directly in this portfolio) | 0.29% | **Best Acc candidate found** — lower tech weight than even `USDV` |
+
+`WisdomTree US Equity Income` tracks a pure high-dividend-yield screen (not a "quality" factor) — Chevron/IBM/Gilead/Morgan Stanley/Merck in the top 5, Financials 22.4%, Tech only 4.3%. **Verification flag:** three different ISINs surfaced across sources (`IE00BD6RZT93`, `IE00BQZJBQ63`, `IE00BD6RZW23`) for what's described as the same fund — likely different currency/hedged share classes, but confirm directly on wisdomtree.com before buying. The ticker `DHS` is **also** a well-known US-domiciled WisdomTree ETF on NYSE Arca — the same ticker-collision risk already flagged for `VXUS`/`VXUA` — don't trust a bare ticker search, confirm exchange + ISIN + "Acc" explicitly on the live factsheet.
+
+**Final verdict for a ~$3,000-sized position:** if Dist is acceptable, lean **SCHD** over `USDV` here. The TER gap (0.06% vs. 0.35%) is a small, guaranteed, compounding cost every year; the US estate-tax exposure on a position this size is a small, probabilistic tail risk. The asymmetry favors cost at this scale, even though `USDV` would be the better pick on a much larger slice of the portfolio where the estate-tax math carries more weight. `DGRA` remains ruled out regardless of size (wrong fund — 27.8% tech, 6.16% Microsoft).
+
+**One live overlap worth tracking regardless of domicile choice:** SCHD's Sept 2026 rebalance made **Qualcomm (QCOM) its largest holding at 4.74%**, up from 2.68% — a stock already held directly in this portfolio. Not a reason to skip SCHD (the other ~95% is genuinely new exposure), but it means SCHD is not a zero-overlap diversifier in practice.
+
+## China
+
+Three structurally different ways money reaches a Chinese company, each with a different risk profile — understand this before picking a ticker, not after:
+
+- **H-shares** (Hong Kong-listed, e.g. `1211.HK` for BYD — see "International Stocks" below): **real, direct equity ownership** of the mainland company, just listed in HK. The cleanest structure — no VIE, no swap, no synthetic replication.
+- **VIE-structured ADRs** (most US-listed Chinese names — Alibaba `BABA`, JD, PDD, Tencent Music, etc.): you own shares in a **Cayman Islands shell company**, not the Chinese operating business — the shell has *contractual* claims on the real company's profits, because Chinese law restricts foreign ownership in sectors like internet/media. These contracts are **not formally recognized under Chinese law and have never been tested in court** — the single biggest structural risk in US-listed China exposure, independent of how the underlying business performs.
+- **A-shares** (mainland Shanghai/Shenzhen-listed, e.g. CATL's primary listing `300750.SZ`): historically not directly accessible to foreign retail; US-domiciled "A-shares" ETFs like `ASHR` typically replicate via **swaps/derivatives**, not by holding the actual shares — an added counterparty-risk layer on top of China-specific risk.
+
+**US-domiciled ETFs:**
+
+| Ticker | Name | Structure | TER | AUM | 1Y | 3Y (ann.) | 5Y | Inception |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **MCHI** | iShares MSCI China | Blend: A/H/ADR/B/Red-chip/P-chip | 0.59% | ~$5.8-8.1B (volatile across sources) | -5.7% | +11.5% | -1.1% ann. | Mar 2011 |
+| FXI | iShares China Large-Cap | H-shares + ADRs, SOE-heavy (FTSE China 50) | 0.73% | ~$5.7B | -7.3% | — | -20.0% (5Y total) | — |
+| KWEB | KraneShares CSI China Internet | **Heaviest VIE concentration** (Alibaba, Tencent, PDD, Meituan) | 0.70% | ~$6.6B | -22.8% | — | **-57.6% (5Y total)** | — |
+| ASHR | Xtrackers Harvest CSI 300 | Synthetic A-shares (swap-based) | 0.65% | ~$1.4-1.8B | — | — | — | — |
+
+**UCITS (Ireland, USD):**
+
+| Ticker | Name | ISIN | TER | AUM | Returns | Top Holdings |
+| --- | --- | --- | --- | --- | --- | --- |
+| **ICHA**/ICHN/ICHD | iShares MSCI China UCITS ETF | IE00BJ5JPG56 | **0.28%** | `>`£2.8B | YTD `>`+30% (Dec 2025, stimulus-driven rally) | Tencent ~17%, Alibaba ~10%, Xiaomi |
+
+**Critical take — this is the rare case where UCITS is cheaper, not just more estate-tax-efficient:** `ICHA`'s 0.28% TER actually beats `MCHI`'s 0.59% US-domiciled equivalent on the *same* underlying MSCI China index — no tradeoff needed here, both the cost and the estate-tax argument point the same direction for a non-US person. This fund still carries the same VIE exposure as `MCHI` (Tencent + Alibaba alone are ~27% of it), it's just cheaper to hold.
+
+**The 5-year numbers above are the honest picture of what "investing in China broadly" has actually been**: MCHI -1.1% annualized, FXI -20% cumulative, KWEB -58% cumulative — the 2021-2023 tech-sector regulatory crackdown, a real-estate crisis, and US-China tensions all landed in the same multi-year window. The late-2025 stimulus rally (+30%+ YTD) is real but sits inside that same multi-year drawdown — same "read the 5-year number before the 1-year one" lesson as the clean-energy funds above, arguably more extreme here.
+
+**For this portfolio specifically:** `BYD` (H-shares, already researched — see "International Stocks" below and `economics/company-analysis/companies/auto/byd-fundamental.md`) is structurally the *safer* way to express a China view versus a VIE-heavy fund like `KWEB` or a single VIE ADR like `BABA` — real equity, no contractual-claim risk. If broader China exposure (beyond one EV maker) is wanted, **`ICHA` over `MCHI`** for the reasons above, sized as a genuine satellite position given the volatility shown above — not a core holding.
+
+### MCHI deep dive (verified Oct 2026)
+
+**Top 10 holdings:** Tencent (13.3-15.1%, rolls between filing dates), Alibaba (10.1-10.2%), China Construction Bank (3.8-4.1%), Xiaomi (2.4-2.5%), PDD/Pinduoduo (2.3-2.6%), ICBC (2.3%), Ping An Insurance (2.2%), Bank of China (1.9%), Meituan (1.9%), **BYD (1.8%)**. Top 10 ≈ 42% of the fund.
+
+**Sector breakdown:** Consumer Cyclical 22.63% (Alibaba/PDD/Meituan e-commerce), Financial Services 20.88% (the state-owned bank bloc — CCB/ICBC/Bank of China/Ping An), Communication Services 17.73% (Tencent, GICS-classified here not as "Technology"), Technology only 11.77%, Health Care 5.98%, Materials 5.96%, Industrials 5.10%, Energy 3.89%, Consumer Defensive 2.95%, Utilities 1.62%, Real Estate 1.49%.
+
+**Valuation: P/E 13.78** (verified Sept 2026) — genuinely cheap in absolute terms, well below the broad US market's ~21x forward multiple and below MSCI China's own historical average. This is a real, statistically-grounded discount, not just "down a lot."
+
+**Critical finding — direct overlap with this portfolio's existing China picks:** MCHI holds **both BYD (1.82%) and CATL (1.28%)** — already-held individual positions in this portfolio. Combined, ~3.1% of any MCHI position would duplicate stock-specific exposure already owned directly. The other ~97% (Tencent, Alibaba, the SOE banks, Xiaomi, PDD, Meituan) is genuinely new exposure, not duplicative — this is a partial overlap, not a DGRA-style "wrong fund entirely" problem, but worth knowing before treating MCHI/ICHA as 100% incremental diversification.
+
+**AEB (Euronext Amsterdam) market timings** — same pattern as `VWRA`'s LSE timings elsewhere in this doc. Euronext Amsterdam's standard continuous trading session is **09:00-17:30 CET/CEST** (confirmed; a 07:00 CET pre-opening order-entry phase and a brief post-close auction also exist, but no trades execute in the pre-open window):
+
+- **Summer (CEST, roughly late March-late October, same DST window as UK):** 12:30 PM – 9:00 PM IST
+- **Winter (CET, late October-late March):** 1:30 PM – 10:00 PM IST
+
+(These happen to be identical to `VWRA`'s LSE timings in IST — Amsterdam opens later in local clock time than London but sits one timezone hour ahead, so the two effects exactly cancel.)
+
+**Verdict — is it worth adding:** the fund itself is well-constructed (large AUM, broad, statistically cheap P/E, real diversification beyond EV/battery names into financials/e-commerce/consumer). The actual decision isn't "is MCHI good" (yes) — it's **"how big do I want total China exposure to be."** Adding it on top of BYD+CATL grows the China sleeve further rather than just diversifying the existing allocation; decide that sizing question deliberately rather than adding it as a reflexive "more diversification is always better" move. If added, **`ICHA` over `MCHI`** per the cost/estate-tax logic above.
+
+### CTCE — a concentrated China-tech bet, not an ICHN alternative (verified Oct 2026)
+
+**iShares MSCI China Tech UCITS ETF** (LSE: `CTCE`, also `CTEC` on Euronext Amsterdam/SIX), tracks the **MSCI China Technology Sub-Industries ESG Screened Select Capped Index** — a classification-driven tech-only index, not a general China basket. Easy to mistake for another flavour of `ICHN`; it's actually a different risk category entirely, closer to the US-domiciled `KWEB` above.
+
+- **Top holdings (Jul 2026):** Tencent 7.6%, NetEase 7.46%, Xiaomi 7.39%, PDD 6.88%, Alibaba 6.58%, JD.com 4.48%, Lenovo 4.02%, Baidu 3.61%, Kuaishou 2.69%, **CATL ~2.5%**.
+- **Sector mix:** Technology Services 28.5%, Electronic Technology 24.7%, Retail Trade 21.2%, Producer Manufacturing 8.1% — **no financials, no banks, no diversification outside tech/internet** (contrast with `ICHN`'s ~21% SOE-bank ballast).
+- **TER:** 0.45-0.56% (sources disagreed, verify live) — notably pricier than `ICHN`'s 0.28%.
+- **AUM:** ~$2.07B. **Launched Dec 8, 2021** — under 4 years old, no 5-year track record yet.
+- **Returns:** wildly inconsistent across sources/snapshot dates (+15.04% to +36.55% "1-year" depending when measured) — a volatility signal in itself, not just noisy data.
+- **BYD is NOT held** (confirmed directly — excluded because it's classified as an automaker, not a "technology sub-industry," unlike battery-maker CATL which does qualify). **CATL overlap is real** (~2.5%) for this portfolio's existing CATL position.
+- **VIE concentration is near-total:** 8 of the 9 listed top holdings (Tencent, NetEase, Xiaomi, PDD, Alibaba, JD, Baidu, Kuaishou) are VIE-structured or VIE-adjacent Chinese internet names — essentially zero dilution from non-VIE holdings, unlike `ICHN`'s bank ballast.
+
+**Verdict: do not substitute for `ICHN`.** They answer different questions — `ICHN` is the broad-diversification tool; `CTCE` is a concentrated, high-volatility, near-all-VIE single-theme bet, structurally closer to `KWEB` (which posted a **-58% 5-year cumulative return** through the 2021-2023 crackdown) than to anything "diversified." Only consider as a small, deliberate satellite addition on top of (not instead of) `ICHN`, sized for the volatility shown above, with the CATL overlap in mind.
 
 ## Clean Energy / Solar
 
@@ -230,13 +312,19 @@ INRG's **19-year track record makes the boom-bust pattern unambiguous**: a +10.3
 **3. iShares Global Utilities (JXI)**
 
 - **The Profile:** The ultimate "boring" investment. It holds power, gas, and water companies globally. Because these companies operate as local monopolies with highly regulated pricing, their revenues are incredibly stable.
-- **Performance Context:** JXI acts almost like a bond equivalent. Capital appreciation is usually slow, but it pays out higher, consistent dividends. _Note: It is the smallest fund of the four ($318M AUM), though still perfectly liquid for a retail investor._
+- **Performance Context:** JXI acts almost like a bond equivalent. Capital appreciation is usually slow, but it pays out higher, consistent dividends. *Note: It is the smallest fund of the four ($318M AUM), though still perfectly liquid for a retail investor.*
 
 **4. Vanguard Total International Stock (VXUS)**
 
 - **The Profile:** A massive, ultra-cheap (0.05% expense ratio) fund that owns almost every investable publicly traded company outside the United States (nearly 9,000 stocks).
-- **Performance Context:** It is not purely "defensive" in the way utilities are; rather, it is a geographic hedge. It protects you from _US-specific_ overvaluations and the dominance of the US tech giants.
+- **Performance Context:** It is not purely "defensive" in the way utilities are; rather, it is a geographic hedge. It protects you from *US-specific* overvaluations and the dominance of the US tech giants.
 - ¹ **AUM data quality note (Oct 2026):** a separate web lookup returned $650B+ for VXUS's AUM (vs. the $157.1B above) — that figure is almost certainly wrong (it would make VXUS larger than `SPY` at $624B, implausible for an ex-US total-market fund) and is more likely a scraper conflating VXUS with Vanguard's combined international-fund family AUM across share classes. Treat $157.1B as the more reliable figure; re-verify against vanguard.com or stockanalysis.com directly before relying on either for a sizing decision.
+- **VXUS UCITS alternative — `VXUA`, verified Oct 2026, verdict: not yet, buy `VXUS` instead:** Vanguard's own Ireland-domiciled equivalent is the **FTSE All-World ex-US UCITS ETF**, tracking the same FTSE All-World ex-US index family (developed + emerging markets ex-US — a genuine methodology match, unlike `XUSE` above which is MSCI *World* ex-USA, developed-only).
+  - **Acc share class** (the one you'd want, tax-deferral): ISIN `IE0009A5ADV9`, ticker **`VXUA`** on LSE (USD), TER **0.12%** (cheaper than `VWRA`'s 0.22%) — but **AUM only ~€95m (~$100M)** as of Aug 31, 2026, and no trading-volume data could be found at all (itself a sign of thin liquidity).
+  - **Dist share class** (not what you want): ISIN `IE000G1H7OC0`, ticker `VXUD`, AUM only ~€9m — even smaller.
+  - **Ticker-collision trap:** this same fund's Acc class *also* lists on LSE in **GBP** under the ticker `VXUS` (SEDOL BW9N995) — identical string to the US-domiciled ETF you already hold, on a different exchange/currency. Check ticker *and* currency *and* exchange together before ordering, not just the ticker.
+  - **Launched 2026-08-18** — ~7 weeks old as of this check. Compare to `VXUS`'s $156,989m AUM and $788.85M/day average volume: VXUA has roughly 1/1,500th the assets and no confirmable trading depth.
+  - **Verdict:** the TER case is real, but not worth the execution risk (wide spreads likely, ticker-collision risk) on a fund this immature. **Buy `VXUS` (you already hold it) rather than switching to `VXUA` now.** Revisit in 6-12 months once it's had time to build assets and a trading history.
 
 ### UCITS ETF Comparison vs. VWRA
 
@@ -317,14 +405,14 @@ These trade on the London Stock Exchange (LSE) but are denominated in **USD**.
 **Choose:** **VWRA** (Vanguard) or **ISAC** (iShares).
 
 - **Why:** These two are almost identical. They cover the **entire planet**. You get exposure to the US (Apple, Microsoft), Europe, **plus** Emerging Markets (China, India, Brazil) in one single ticker.
-- **The slight edge:** `VWRA` is often preferred by the "FIRE" (Financial Independence) community because it tracks the _FTSE All-World_ index, which includes slightly more medium/small-cap companies than the _MSCI ACWI_ index used by ISAC.
+- **The slight edge:** `VWRA` is often preferred by the "FIRE" (Financial Independence) community because it tracks the *FTSE All-World* index, which includes slightly more medium/small-cap companies than the *MSCI ACWI* index used by ISAC.
 
 #### Option B: The "Developed Markets Only"
 
 **Choose:** **IWDA** (iShares).
 
-- **Why:** If you believe Emerging Markets (like India/China) are risky or will underperform, you buy this. It invests _only_ in developed economies (mostly USA, Japan, Europe).
-- **The Trap:** If you live in India, you are _already_ heavily exposed to the Indian economy (your job, your house, your rupees). Many investors skip Emerging Markets in their global portfolio to avoid "doubling down" on risk. However, for a true "global citizen" strategy, Option A is safer.
+- **Why:** If you believe Emerging Markets (like India/China) are risky or will underperform, you buy this. It invests *only* in developed economies (mostly USA, Japan, Europe).
+- **The Trap:** If you live in India, you are *already* heavily exposed to the Indian economy (your job, your house, your rupees). Many investors skip Emerging Markets in their global portfolio to avoid "doubling down" on risk. However, for a true "global citizen" strategy, Option A is safer.
 
 ### Critical "How-To" for Interactive Brokers (IBKR)
 
@@ -335,7 +423,7 @@ When you search for these on IBKR, you will see multiple versions (listing on di
 1. **Search Ticker:** Type `VWRA`.
 2. **Select Exchange:** Choose **LSE (London Stock Exchange)**.
 3. **Currency:** Ensure it says **USD**.
-    - _Note:_ You might see `VWRP` (same fund, but in GBP). **Do not buy that** unless you hold Pounds. You want `VWRA` (USD) to match the dollars you sent via LRS.
+    - *Note:* You might see `VWRP` (same fund, but in GBP). **Do not buy that** unless you hold Pounds. You want `VWRA` (USD) to match the dollars you sent via LRS.
 
 ## International Stocks
 

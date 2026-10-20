@@ -3,7 +3,7 @@ slug: /knowledge/new-home-place/real-estate-market-india
 title: Real Estate Market in India
 description: Notes on the Indian real estate market, Noida property market specifics, broker contacts, rates, and investment analysis links.
 created: 2024-02-23
-updated: 2026-10-02
+updated: 2026-10-19
 ---
 - [buying-checklist](knowledge/new-home-place/buying-checklist.md)
 - [property-documents-legal-and-loans](knowledge/new-home-place/property-documents-legal-and-loans.md)
@@ -54,6 +54,14 @@ updated: 2026-10-02
 - [How I ACTUALLY Spend My 1.05 Crore Salary in Bangalore](https://youtu.be/xtCGdheYWvk)
 
 ## Noida Property Market
+
+**Costs, supply mismatch and registry risk** ([We investigated UP's Biggest Housing Scam](https://youtu.be/uJvJj443N5s), undated, likely 2025-26; figures are from a Hinglish transcript):
+
+- **Stuck buyers:** prices rose about 125% in 7 years, yet about 1.5 lakh families still await possession (stuck projects worth about ₹1.18 lakh crore); buyers only see the flats that doubled
+- **Mismatch:** 52% of buyers want flats under ₹1 crore but only 23% of supply is under ₹1 crore, while above ₹3 crore demand is 6% against 27% of supply, which lifts the average city price
+- **True cost of a ₹2 crore flat:** about ₹50 lakh down payment (75% loan) and about ₹78 lakh up front including other costs; a ₹1.5 crore loan for 20 years at 8% has an EMI of about ₹1.25 lakh a month and about ₹1.51 crore of interest, so the all-in cost is about ₹3.79 crore. At 30% of in-hand salary that needs over ₹4 lakh a month in hand
+- **Quality risks:** plaster falling, seepage, basement flooding and cracks in high-rises, and water often not reaching 40-floor towers. Stress-test before booking: occupancy load at full occupancy, lifts per flat and a service lift, water backup if the borehole fails, power backup for lifts and common areas, and what the maintenance terms include and exclude
+- **Possession is not ownership:** the Noida Authority leases land to the developer and the buyer gets a registered sub-lease deed. About 73,000 flats have occupancy certificates, but about 40% of those still lack permission for registry because developers owe the Authority dues. Check pending dues on the Noida Authority website, the occupancy certificate on UP RERA, and actual registries on the UP Registration Department website
 
 - [The Shocking Truth About Noida Real Estate 2025 – Don't Make These Mistakes! @propertyduniya - YouTube](https://www.youtube.com/watch?v=qykwBt1kQsk)
 - [Inside an Ultra Luxury 17,000 sq ft Villa in Hyderabad (House Tour).](https://youtu.be/kHmNT9sRT1M)

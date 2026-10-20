@@ -3,7 +3,7 @@ slug: /knowledge/biology/others
 title: Others
 description: Explore insights on health, autophagy, and angiogenesis while uncovering key concepts from Blinkist summaries that enhance wellness and longevity.
 created: 2023-03-05
-updated: 2026-04-28
+updated: 2026-10-19
 ---
 ## Blinkists
 
@@ -169,6 +169,25 @@ Hydra don't age
 10. Immune malfunction
 
 ![image](media/bio-Others-image2.jpg)
+
+### Information Theory of Aging (David Sinclair)
+
+From [TOP Harvard Scientist: These 5 Habits Are Aging You Faster (Raj Shamani)](https://youtu.be/gfCg5srOjN0), Sep 2026. These are the speaker's claims, and the therapy is not yet proven in humans.
+
+- **Core idea:** aging is mainly loss of epigenetic information, not DNA mutation. Chromatin regulators relocate to repair DNA breaks and fail to return, so cells forget their identity (published in Cell, 2023)
+- **Evidence in mice:** cutting DNA for 2 weeks caused premature aging 10 months later (gray, hunched, memory loss, epigenetic clock about 50% older than twins)
+- **Reversal:** the three Yamanaka factors OSK (c-Myc left out to avoid cancer), delivered by AAV, restored youthful cell identity, regrew the optic nerve in mice and restored vision in old and glaucoma mice; an eye-disease safety trial of the "ER-100" therapy in about 18 patients is reported to be under way
+- **Biological age:** differs per organ and can be read from epigenetic clocks (Horvath) via a cheek swab or blood; twins can differ by about 10 years. Lifestyle accounts for roughly 50-80% of the aging rate
+- **Adversity vs abundance:** fasting, exercise, sauna, cold and plant polyphenols activate repair defenses (xenohormesis), while constant feeding accelerates aging; cycle both
+
+### Longevity Habits Claimed to Matter
+
+- **Fasting:** fewer than 3 meals a day, a 14-18 hour daily fast window, and small non-carb items do not break it
+- **NAD:** NMN (a precursor) roughly doubles blood NAD, which sirtuins need; the speaker takes NMN plus resveratrol under doctor supervision and measures everything. Change one thing at a time and measure it
+- **Markers:** keep HbA1c about 5-5.2 (above 7 is diabetic); sugar glycates long-lived proteins such as skin collagen; CRP fell within a month on a plant-focused diet
+- **Exercise and sleep:** aerobic exercise to lose breath for 10 minutes 3 times a week plus strength training; sauna 20 minutes 3 times a week is associated with less heart disease; deep-sleep quality (over 90% efficiency) matters more than hours
+- **Ages you faster:** X-rays/CT scans (DNA breaks), smoking, sunburn, loud noise, overeating, a sedentary life, junk food, overcooked vegetables (colour loss means polyphenol loss) and chronic stress
+- **Caution:** avoid metformin and rapamycin in young healthy people (rapamycin suppresses immunity); the taurine evidence has weakened
 
 ![image](media/Others-image3-biology.jpg)
 

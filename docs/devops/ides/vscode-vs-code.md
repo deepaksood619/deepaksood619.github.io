@@ -3,9 +3,24 @@ slug: /devops/ides/vscode-vs-code
 title: Essential VSCode Resources and Tips
 description: Explore VSCode debugging, online environments, and tools for effective coding and development in Python and beyond.
 created: 2023-03-05
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 Remove empty lines - `Regex - ^(s)*$`
+
+## History and Design
+
+From [The Story of VS Code (Official Documentary)](https://youtu.be/kHL3XzjpT5w). The source is a speech-to-text transcript, so some names are uncertain.
+
+- **Strategy:** Microsoft's developer tools historically served Windows only (C#, C++); VS Code was "meet developers where they are", meaning any OS, any language and any developer
+- **Origin (~2010-11):** web apps were becoming full applications, so Microsoft put Steve Lucco on a JS engine, Anders Hejlsberg on TypeScript, and recruited Erich Gamma (Eclipse) to open a Zurich lab building a browser-born IDE
+- **Monaco** was the browser code editor built first, and it is still VS Code's editor (also used in OneDrive and elsewhere). TypeScript and the editor co-evolved, with the editor team as TypeScript's earliest heavy customer
+- **Desktop pivot:** a web-only editor was too narrow, so the team moved to Node WebKit and then Electron; it was announced at Build in April 2015 for Windows, Mac and Linux and open-sourced in November 2015 as a single snapshot commit (branding kept in a private build layer)
+- **Performance rules:** never run long scripts on the UI thread, render only the visible lines (about 50) so cost is proportional to the edit even in million-line files, and hand-write DOM rendering instead of using jQuery
+- **Extensions** run in a separate extension-host process, so a buggy extension never freezes the editor (the contrast with Atom's "everything hackable"). The tradeoff is a limited API surface, but extensions written a decade ago still run
+- **Language Server Protocol (JSON-RPC):** language intelligence is written in the language's own stack and one server serves many editors (originated from the TypeScript server; 100+ languages now)
+- **Remote development:** because the UI and extension host were already split, extensions can run remotely, which led to WSL, Dev Containers, Remote-SSH, Codespaces and vscode.dev (press the period key on GitHub). Atom declined after Microsoft acquired GitHub
+- **Accessibility:** moved to the first item in iteration plans, with weekly meetings with screen-reader users and automated Playwright accessibility checks that can fail PRs
+- **AI era:** Copilot grew from early-2020 GPT-3 access; AI features are built into VS Code rather than an extension, on an autonomy slider from ask to edits to agent mode, with release cadence moving from monthly to weekly. Forks such as Cursor and Windsurf build on VS Code because its UI APIs cannot cover every future UI
 
 ## Debugging Python
 
@@ -83,6 +98,7 @@ Remove empty lines - `Regex - ^(s)*$`
 - Search > `Command + Shift + L` - Cursor in every searched line
 - `Opt + up/down arrow` - Move line up/down
 - `cmd + opt + r` - Reveal in finder
+- `cmd + option + c` - Copy current file path from system root (same as obsidian)
 
 ## Navigation
 

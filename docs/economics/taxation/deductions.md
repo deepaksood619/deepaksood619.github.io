@@ -151,6 +151,7 @@ Alternatively, the landlord and the tenant may mutually agree to not get the agr
 	- Rs 1,25,000 (Starting fromthe financialyear 2015-16) where disability is more than 80%.
 	- These deductions are allowed irrespective of your actual expenditure.
 - Sec 80E - Repayment of Loan for higher education (only Interest)
+- Sec 80G - Donations (see [Section 80G - Donations and NGO Registration](economics/taxation/section-80g-donations-ngo.md))
 - Sec 80GG - Rent Paid
 - Sec 80U - Handicapped
 

@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-10-17
+updated: 2026-10-19
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -165,23 +165,24 @@ claude mcp add-json obsidian-hybrid-search '{"command":"npx","args":["-y","-p","
 
 ## Obsidian Shortcuts
 
-| **Todo**                       | **Shortcut**                         |
-| ------------------------------ | ------------------------------------ |
-| Search in all files            | `Cmd+Shift+F`                        |
-| Search in specific path/folder | `path:technologies/flink checkpoint` |
-| Toggle edit/preview mode       | `Ctrl/Cmd E`                         |
-| Insert External link           | `Ctrl/Cmd-K`                         |
-| Indent                         | `Ctrl/Cmd-]`                         |
-| Unindent                       | `Cmd-[`                              |
-| Jump into selected backlink    | `Alt/Opt-Enter`                      |
-| Navigate forward               | `cmd+ctrl + ->`                      |
-| Naviagte back                  | `cmd+ctrl + <-`                      |
-| Add current date               | Insert current date (cmd + y)        |
-| Add checkbox                   | `cmd + L`                            |
-| Delete the line                |                                      |
-| Insert Current Date            | `cmd + D`                            |
-| Strikethrough                  | `cmd + shift + x`                    |
-| Reveal in Finder               | `cmd + opt + r`                      |
+| **Todo**                                                 | **Shortcut**                         |
+| -------------------------------------------------------- | ------------------------------------ |
+| Search in all files                                      | `Cmd+Shift+F`                        |
+| Search in specific path/folder                           | `path:technologies/flink checkpoint` |
+| Toggle edit/preview mode                                 | `Ctrl/Cmd E`                         |
+| Insert External link                                     | `Ctrl/Cmd-K`                         |
+| Indent                                                   | `Ctrl/Cmd-]`                         |
+| Unindent                                                 | `Cmd-[`                              |
+| Jump into selected backlink                              | `Alt/Opt-Enter`                      |
+| Navigate forward                                         | `cmd+ctrl + ->`                      |
+| Naviagte back                                            | `cmd+ctrl + <-`                      |
+| Add current date                                         | Insert current date (cmd + y)        |
+| Add checkbox                                             | `cmd + L`                            |
+| Delete the line                                          |                                      |
+| Insert Current Date                                      | `cmd + D`                            |
+| Strikethrough                                            | `cmd + shift + x`                    |
+| Copy current file path from system root (same as vscode) | `cmd + option + c`                   |
+| Reveal in Finder                                         | `cmd + opt + r`                      |
 
 ### Some basics
 
@@ -418,5 +419,6 @@ While **tags** and **keywords** both classify content, they serve entirely diffe
 - Zettlr - [I found an open-source app like Obsidian, except it's better](https://www.xda-developers.com/found-open-source-app-like-obsidian-except-its-better/)
 	- [GitHub - Zettlr/Zettlr: Your One-Stop Publication Workbench](https://github.com/Zettlr/Zettlr) ⭐ 13k
 - Google Keep
+	- [GitHub - kiwiz/gkeepapi: An unofficial client for the Google Keep API. · GitHub](https://github.com/kiwiz/gkeepapi)
 	- [Memos - Open Source, Self-hosted Note Taking - Memos](https://usememos.com/)
 	- [GitHub - usememos/memos: A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.](https://github.com/usememos/memos) ⭐ 63k

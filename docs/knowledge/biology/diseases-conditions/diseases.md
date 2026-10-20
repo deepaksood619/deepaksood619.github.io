@@ -87,7 +87,7 @@ An eating disorder characterized by markedly reduced appetite or total aversion 
 
 ## Boils
 
-- A boil is a common, painful infection of a hair follicle and the surrounding skin. It begins as a red lump, then fills with pus as white blood cells rush in to fight the infection. Good home care can often clear up a single boil, also known as a skin abscess. A doctor's care is needed when a boil resists treatment or develops in certain vulnerable areas of the body.
+- A boil is a common, painful infection of a hair follicle and the surrounding skin. It begins as a red lump, then fills with pus as white blood cells rush in to fight the infection. Good home care can often clear up a single boil, also known as a skin abscess. A doctor's care is needed when a boil resists treatment or develops in certain vulnerable areas of the body. See also [Stye (Hordeolum)](knowledge/biology/diseases-conditions/stye-hordeolum.md) for the eyelid equivalent.
 
 ![image](media/Diseases-Tests-image4.jpg)
 

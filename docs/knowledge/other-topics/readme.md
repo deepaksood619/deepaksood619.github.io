@@ -14,6 +14,8 @@ updated: 2026-06-07
 - [Environmental Sciences](knowledge/other-topics/climate-change.md)
 - [Philosophy](knowledge/other-topics/philosophy.md)
 - [Education / PhD](knowledge/other-topics/education-phd.md)
+- [Indian Government Schools](knowledge/other-topics/indian-school-education-government-schools.md)
+- [Study Abroad Decision Framework](knowledge/other-topics/study-abroad-decision-framework.md)
 - [Chemistry Outline](knowledge/other-topics/chemistry-outline.md)
 - [Clothes / Textiles](knowledge/other-topics/clothes-textiles.md)
 - [durable-clothing-brands-value-for-money](knowledge/other-topics/durable-clothing-brands-value-for-money.md)

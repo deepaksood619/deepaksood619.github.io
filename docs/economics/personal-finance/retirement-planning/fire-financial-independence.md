@@ -3,7 +3,7 @@ slug: /economics/personal-finance/retirement-planning/fire-financial-independenc
 title: Financial Independence, Retire Early (FIRE) / Retirement
 description: Discover the FIRE movement, where saving and investing 50-70% of your income empowers you to achieve financial independence and retire early.
 created: 2023-03-05
-updated: 2026-09-27
+updated: 2026-10-03
 ---
 FIRE means to save and invest aggressively in your 20s and 30s so that you can live the latter years of your life freely
 
@@ -166,6 +166,13 @@ The point of making money is not so you can buy everything.
 - [Don't be in a hurry to retire early even if you can afford to!](https://freefincal.com/dont-be-in-a-hurry-to-retire-early-even-if-you-can-afford-to/)
 	- “It has been my experience that one cannot, in any shape or form, depend on human relations for lasting reward. It is only work that truly satisfies.” – Bette Davis
 	- you can quit your regular job **only if** you have a clear time management plan with a good chunk of it used for gainful employment.
+- [Will the AI Bubble Destroy our Retirement? - Mr. Money Mustache (2026-09-25)](https://www.mrmoneymustache.com/2026/09/25/will-the-ai-bubble-destroy-our-retirement/)
+	- Fear of AI bubbles, crashes and global crises shouldn't stop retirement planning: the worries of 2006 (housing, outsourcing) look minor in hindsight despite a real financial crisis, and "$100,000 investment ballooned into $852,000" over 20 years
+	- "Prosperity comes from Productivity": financial systems are abstractions, real value derives from human work and innovation
+	- AI spend is large (`$1.8 trillion` since 2022, with another trillion expected next year), but global progress 2005-2025 was larger still: extreme poverty 20% → 8%, infant mortality halved, solar `40x` cheaper, EVs from zero to ~25% of vehicle sales
+	- Humans are "Danger Detection Machines" that keep moving the goalposts. Response: understand where your fear comes from, take action to build confidence, tune out fear-mongering media, build resilience through learning and time outdoors
+	- AI framed as a "cognitive nail gun": it will displace some workers but create new industries, as the Internet did. Real AI safety/alignment and data-center emissions concerns are policy problems that deserve attention
+	- Wealth is only one part of your life situation: genetics, relationships, gratitude and outdoor activity matter more to happiness than portfolio fluctuations
 - [Shift from tax-saving to wealth-creation mode to become rich!](https://freefincal.com/shift-from-tax-saving-to-wealth-creation-mode-to-become-rich/)
 	- The only way to become rich is by
 		- increasing income

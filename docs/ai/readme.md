@@ -9,6 +9,7 @@ updated: 2026-09-28
 
 - [Artificial General Intelligence (AGI)](agi.md)
 - [Post-AGI Economy - What Will Humans Do and Pay For](post-agi-economy-human-work.md)
+- [Role of Crypto in the AI World](crypto-ai-agents-decentralized-ai.md)
 - [ML Fundamentals](ml-fundamentals/readme.md)
 - [ML Algorithms](ml-algorithms/readme.md)
 - [Deep Learning](deep-learning/readme.md)

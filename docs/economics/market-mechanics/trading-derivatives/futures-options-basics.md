@@ -3,7 +3,7 @@ slug: /economics/market-mechanics/trading-derivatives/futures-options-basics
 title: Futures / Options / Trading
 description: Explore futures, options, and trading strategies to maximize profit and minimize risk, with insights on derivatives like swaps and forward contracts.
 created: 2023-03-05
-updated: 2026-06-09
+updated: 2026-10-19
 ---
 Buy the rumor, sell the news
 
@@ -294,6 +294,18 @@ https://www.indiratrade.com/algo-trading
 https://www.trality.com
 
 [GitHub - JerBouma/AlgorithmicTrading: This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.](https://github.com/JerBouma/AlgorithmicTrading) ⭐ 1.1k
+
+### Building a semi-automated scanner with AI and Kite Connect
+
+[Build a Trading Algo with AI | No Coding Required (Zerodha Varsity)](https://youtu.be/V9Ra8klDzrM) builds an SMA-crossover scanner using only natural-language prompts to a coding agent (OpenAI Codex in the video; Claude Code or any LLM agent works the same way).
+
+- **Algo definition** — a set of instructions turning data into a signal (semi-automated: alerts, you place the orders) or into orders (fully automated); start semi-automated
+- **Spec** — scan the Nifty 100 on daily candles, flag a bullish/bearish signal when the 6-day SMA crosses the 30-day SMA, and rank signals by how recent the crossover is
+- **Zerodha setup** — create an app on the Kite developer portal; the Connect type costs ₹500 per 30 days and includes historical and live data (the Personal type has no historical data); redirect URL can be any URL
+- **Credentials** — API key plus API secret kept in a local `.env` file and treated as bank-grade secrets; the login URL redirects with a `request_token` (expires within minutes) that is exchanged for an access token valid for 24 hours
+- **Prompts** — first prompt generates one Python file (authenticate, fetch Nifty 100 instrument tokens and history, compute SMA6/SMA30, detect crossovers, rank, print symbol/signal/date/close); then three prompts add a React + Vite front end and FastAPI back end with login, profile and Signals tabs (short SMA, long SMA, lookback inputs)
+- **Verification** — spot-check a signal against the Kite chart with a double moving average indicator (6, 30); the host did not independently verify the generated code, so treat output as alerts only
+- **Cost and extensions** — ₹500/month for Kite Connect plus a paid coding-agent plan; the same approach extends to other indicators, candlestick patterns, volume or range breakouts, intraday timeframes, MCX and BSE; fully automated order placement was deferred to a possible future video
 
 ## Price action strategy
 

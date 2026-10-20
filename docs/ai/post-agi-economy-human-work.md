@@ -52,3 +52,7 @@ The honest state of the field: there is very little empirical data to settle thi
 - [Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies - Fortune](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 - [Jobs AI Won't Replace in 2026 - Extern](https://www.extern.com/post/jobs-ai-wont-replace-guide)
 - [AGI (Artificial General Intelligence)](ai/agi.md)
+
+## Related
+
+- [Role of Crypto in the AI World](ai/crypto-ai-agents-decentralized-ai.md) - agent payments, identity and decentralized AI

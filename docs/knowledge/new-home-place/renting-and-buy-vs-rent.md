@@ -3,7 +3,7 @@ slug: /knowledge/new-home-place/renting-and-buy-vs-rent
 title: Renting vs Buying a Home
 description: Practical renting tips and the buy-vs-rent decision for a home, with cost comparisons and reference links.
 created: 2024-02-23
-updated: 2026-08-19
+updated: 2026-10-19
 ---
 - [buying-checklist](knowledge/new-home-place/buying-checklist.md)
 - [property-documents-legal-and-loans](knowledge/new-home-place/property-documents-legal-and-loans.md)
@@ -23,6 +23,16 @@ updated: 2026-08-19
 - Take the value of the home that you are considering multiply by 5% and divide by 12
 - **Never buy a home, don't buy a land too**
     - **Land is not that scarce, world has too much land (Africa is 9 times of India)** because house depreciates in value, but land appreciates in value land is a commodity, house is a consumer good
+
+### Is a Flat Overpriced? Five Numbers
+
+From [Yeh Flat Overpriced Hai Ya Nahi? (The Vipul Talks)](https://youtu.be/X4eE46UKFU0), a Hinglish video; yield figures are approximate 2026 data.
+
+1. **Circle rate vs market price:** the circle rate is the government rate (state registration site) and the market rate comes from MagicBricks, 99acres or local dealers. A market price well above circle rate means strong demand and one near or below it is a warning. Stamp duty is charged on the higher of the two
+2. **Rental yield** = annual rent / property value x 100 (₹1 crore at ₹30,000 a month is 3.6%). India's gross average is about 5% (Hyderabad above 5%, Pune about 4%, Mumbai and Bangalore 3.5-4%, Delhi NCR sometimes below 3%); net yield is at least a percentage point lower after maintenance, property tax, vacancy and brokerage
+3. **Price-to-rent ratio** = price / annual rent (₹1 crore at ₹25,000 a month is about 33). Below 20, buying makes financial sense; above 25, renting is better. Most metros are well above 25, and Mumbai is about 40-45
+4. **Appreciation potential:** metros have historically returned 8-12% a year, not guaranteed. Check infrastructure (metro, highway, airport), employment (new offices), the supply pipeline (heavy launches cap prices) and the micro-market's 5-year trend
+5. **Total return and liquidity:** total return is yield plus appreciation (4% + 8% = 12%) against FDs at 6.5-7% and equity MFs historically at 12-15%. Selling takes 2-4 months and buy-side costs are about 7-9%, so property needs a 7-10 year horizon
 
 ### Links
 

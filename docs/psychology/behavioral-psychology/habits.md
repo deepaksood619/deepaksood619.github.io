@@ -3,7 +3,7 @@ slug: /psychology/habits
 title: Habits
 description: Discover how your habits shape your identity and learn essential self-improvement strategies to foster self-control, goal-setting, and personal growth.
 created: 2023-03-05
-updated: 2026-06-18
+updated: 2026-10-19
 ---
 ## Self-Control
 
@@ -253,6 +253,18 @@ https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 - If we do not create and control our environment, our environment creates and controls us
 - Surround yourself with people who promote & praise the behavior you're striving for
+
+## 9 Micro-Habits for Attention, Energy and Happiness
+
+From [9 Boring Habits That Will Put You Ahead of 99% of People (Sandeep Swadia)](https://youtu.be/LXaFHI_2Hus). The theme is to break big goals into small steps, like climbing Everest without looking up.
+
+- **Correct after the click:** you cannot prevent the reflex (reaching for the phone), so attach one small good action right after it fires (get water, take deep breaths)
+- **Control inputs:** unfinished items stay open in the brain (Zeigarnik effect), so process email and Slack in 2-3 fixed batch windows and touch each item once with the 4D framework: Do, Delegate, Date (snooze), Delete
+- **Write to think:** Bezos's Amazon silent memo reading, and handwritten notes give better conceptual understanding than typing. Before a hard decision write what you know, what you are assuming and the next honest action
+- **Quantize the action:** shrink the habit to the smallest start packet (one line, half a push-up, a 1-minute walk) to cut the force needed to start
+- **Caffeine cut-off:** caffeine half-life is about 5-6 hours and caffeine even 6 hours before bed disrupted sleep in a 2013 study, so stop at least 6 hours before bedtime
+- **Ride the waves:** ultradian cycles (Kleitman) of about 80-120 minutes mean the afternoon dip is a signal, not a failure; work a 60-90 minute focus block, then a real 10-20 minute recovery with no feed or inbox
+- **Happiness:** look up at the night sky (awe), look in the mirror with gratitude, and forgive yourself when habits break rather than spiralling in shame
 
 ## Genius Habits
 

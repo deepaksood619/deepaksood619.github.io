@@ -108,15 +108,27 @@ Highest income and best historical total returns among bond ETFs, but with equit
 
 **UCITS (Ireland, USD):**
 
-| Ticker   | Name (Acc/Dist)                                 | ISIN         | Exchanges                                  | TER   | AUM                           | 1Y                                                         | 3Y (cum.) | 5Y (cum.) | Inception |
-| -------- | ----------------------------------------------- | ------------ | ------------------------------------------ | ----- | ----------------------------- | ---------------------------------------------------------- | --------- | --------- | --------- |
-| **JPEA** | iShares JPM $ EM Bond UCITS ETF (Acc)           | IE00BYXYYK40 | LSE, XETRA, SIX, gettex                    | 0.45% | €2.04B                        | +8.37%                                                     | +23.64%   | +11.55%   | Apr 2017  |
-| IHYU     | iShares $ High Yield Corp Bond UCITS ETF (Dist) | IE00B4PY7Y77 | LSE, SIX, XETRA, Stuttgart, Borsa Italiana | 0.50% | €2.19B                        | +6.64%                                                     | +20.26%   | +24.05%   | Sep 2011  |
-| IHYA     | iShares $ High Yield Corp Bond UCITS ETF (Acc)  | IE00BYXYYL56 | LSE, SIX, XETRA                            | 0.50% | €2.47B                        | ~ same total return profile as IHYU, reinvested internally |           |           | Apr 2017  |
-| IEMB     | iShares JPM $ EM Bond UCITS ETF (Dist)          | IE00B2NPKV68 | LSE, XETRA, Stuttgart, Borsa Italiana      | 0.45% | €3.67B                        | +8.26%                                                     | +23.71%   | +11.51%   | Feb 2008  |
-| EMCA     | iShares JPM $ EM Corp Bond UCITS ETF (Acc)      | IE00BFM6TD65 | LSE, XETRA, and others                     | 0.50% | Smaller/less liquid than JPEA | —                                                          | —         | —         | Apr 2012  |
+| Ticker   | Name (Acc/Dist)                                 | ISIN         | Exchanges                                  | TER   | AUM    | 1Y                                                         | 3Y (cum.) | 5Y (cum.) | Inception |
+| -------- | ----------------------------------------------- | ------------ | ------------------------------------------ | ----- | ------ | ---------------------------------------------------------- | --------- | --------- | --------- |
+| **JPEA** | iShares JPM $ EM Bond UCITS ETF (Acc)           | IE00BYXYYK40 | LSE, XETRA, SIX, gettex                    | 0.46% | $1.93B | **-0.28%** (verified direct from iShares, Oct 2026)¹ | +23.64% (stale, see¹) | +11.55% (stale, see¹) | Apr 2017  |
+| IHYU     | iShares $ High Yield Corp Bond UCITS ETF (Dist) | IE00B4PY7Y77 | LSE, SIX, XETRA, Stuttgart, Borsa Italiana | 0.50% | €2.19B | +6.64%                                                     | +20.26%   | +24.05%   | Sep 2011  |
+| IHYA     | iShares $ High Yield Corp Bond UCITS ETF (Acc)  | IE00BYXYYL56 | LSE, SIX, XETRA                            | 0.50% | €2.47B | ~ same total return profile as IHYU, reinvested internally |           |           | Apr 2017  |
+| IEMB     | iShares JPM $ EM Bond UCITS ETF (Dist)          | IE00B2NPKV68 | LSE, XETRA, Stuttgart, Borsa Italiana      | 0.45% | €3.67B | +8.26%                                                     | +23.71%   | +11.51%   | Feb 2008  |
+| EMCA     | iShares JPM $ EM Corp Bond UCITS ETF (Acc)      | IE00BFM6TD65 | LSE, XETRA, and others                     | 0.50% | Smaller/less liquid than JPEA | — | — | — | Apr 2012 |
 
 **Pros:** Meaningfully higher yield/return than Treasuries or core aggregate (IHYU's 5-year cumulative return of +24% beats every other bond category here); EM debt adds geographic diversification away from US/developed-market rates.
+
+¹ **Returns are rolling snapshots, not stable facts — reconciled Oct 2026:** the +8.37%/+23.64%/+11.55% figures above were accurate when first pulled (this doc's August 2026 data note), but a "1-year return" is a trailing window, not a fixed historical fact — it changes as the market moves even if nothing about the fund itself changes. Verified directly against iShares' own page (not a secondary aggregator): NAV fell to **$6.3052** (Oct 2, 2026), YTD return **-2.71%**, trailing 1-year **-0.28%** — EM bonds sold off over 2026, flipping the 1-year number from solidly positive to slightly negative within the same year. The silver lining: **Weighted Average YTM is now 7.24%** (up from 6.18-6.25% in the mid-2026 snapshot below) — the price fall and the yield rise are the same move seen from opposite ends; a worse trailing return but a better entry yield for new money. The 3Y/5Y cumulative figures are left as originally pulled and should be treated as similarly stale until re-verified — don't assume any return figure in this doc (for any fund) is current without rechecking the date it was pulled.
+
+### JPEA detail (verified Oct 2026) — credit quality, duration, country mix
+
+Tracks the **J.P. Morgan EMBI Global Core Index** — USD-denominated (hard-currency, not local-currency) EM **sovereign** debt, 620-686 individual holdings, top 15 positions only ~8.75% of the fund combined (well-diversified at the bond level).
+
+- **Credit mix:** Sovereign 87.15%, Energy 5.09%, Finance 4.20%, Non-Energy Materials 1.77%, Other 2.02% — overwhelmingly government debt, confirming the "different risk factor from US corporate credit" case made above.
+- **Top countries:** Mexico, Saudi Arabia, Turkey lead; Romania 3.32%, Egypt 3.19% further down — a geopolitically/commodity-sensitive mix. Country-level aggregate concentration (summing each country's multiple bond issues) wasn't available from sources checked — likely higher than any single bond's weight; verify on the live factsheet if sizing a large position.
+- **Effective Duration ~6.5-6.6 years, Weighted Average Maturity ~10.7-10.8 years, Yield to Worst 6.18-6.25%, coupon ~5.51%** — this is intermediate/long-duration exposure, not a cash-equivalent. A 1% parallel rate move would swing the fund's price ~6.5% in the opposite direction. Don't conflate with the short-duration SGOV/IB01 sleeve above — in a global rate-spike scenario, duration risk and EM credit-spread widening can hit simultaneously (correlated downside), unlike a genuine flight-to-safety bond.
+- **Launch date discrepancy, flagged not resolved:** this table (and most secondary sources) say JPEA's own Acc share class launched Apr 2017, but one factsheet-adjacent source returned "15-Feb-2008" — likely that source conflating JPEA's launch with its Dist sibling `IEMB` (confirmed Feb 2008 above), not an error in this table. Treat Apr 2017 as current best data.
+- **Real default risk is not theoretical**: the 2022 EM shock already discussed above (Russia sovereign write-down, Sri Lanka/Zambia/Ghana/Ethiopia defaults) happened inside this same index — a reminder that EM sovereign credit risk materializes periodically, not just in theory.
 
 ### IHYU/IHYA (High Yield Corporate) vs IEMB/JPEA (EM Sovereign): Which One
 
@@ -141,6 +153,27 @@ This reframes "which ETF is best" here: the INR debt side already supplies deep,
 - **Primary allocation → `IB01`/`SGOV`** (short Treasury, see [Short-Term / Cash Management](#short-term--cash-management-low-duration) above): near-zero duration/credit risk, the one bucket in this whole page uncorrelated with the equity book — matches the original "liquid dollars for AMZN/GOOG opportunities" goal better than any credit-risk sleeve.
 - **Small satellite, if extra yield is wanted → `JPEA`**: still the better of IHYA/JPEA for the reasons above.
 - **Skip `IHYA`/`IHYU` for this portfolio specifically**: its risk driver (US corporate credit cycle) duplicates the same exposure already carried via `AMZN`/`GOOG`/`VWRA` — it isn't diversification, it's concentration.
+
+## Short-Duration High Yield (better 1-year "parking with yield" fit than JPEA)
+
+`JPEA`/`IEMB` above (6.5-6.6yr effective duration) are a poor match for a short (~1-year) hold — real interest-rate risk could erase the yield pickup in a rate-rise scenario. These get a similar 5-7% yield with far less duration risk:
+
+**US-domiciled:**
+
+| Ticker | Name | Exchange | TER | AUM | Effective Duration | Yield | Inception |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **SHYG** | iShares 0-5 Year High Yield Corporate Bond | NASDAQ | 0.30% | $7.75B | 2.14-2.37yr | 6.59% SEC / 7.04% trailing 12m | Oct 2013 |
+| **BKLN** | Invesco Senior Loan (floating-rate bank loans) | NYSE Arca | 0.67% | $6.97-7.28B | ~0 (floating resets) | ~6.2-7% (30-day 6.23%) | Mar 2011 |
+| HYG | iShares iBoxx $ High Yield Corp Bond (standard duration, for contrast) | NYSE Arca | 0.49% | $17.4B | ~2.91yr | 6.7% | Apr 2007 |
+
+**UCITS (Ireland, USD):**
+
+| Ticker | Name (Acc/Dist) | ISIN | TER | AUM | Effective Duration | Yield (YTM) | Inception |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **SDHY** | iShares $ Short Duration High Yield Corp Bond UCITS ETF (Acc) | IE00BZ17CN18 | 0.45% | $2.77B | 2.11yr | 6.31% | Oct 2013 |
+| SDHG | iShares $ Short Duration High Yield Corp Bond UCITS ETF (Dist) | IE00BCRY6003 | 0.45% | — | ~same profile | ~same profile | — |
+
+**Verdict:** `SDHY` is the best match if the UCITS/Acc/estate-tax benefits matter for this slot — same risk/return shape as `SHYG` (2.11yr duration, 6.31% YTM), large enough AUM, 12-year track record (no VXUA-style immaturity risk). `SHYG` itself is cheaper (0.30% vs 0.45%) if estate tax isn't a concern here. `BKLN`'s floating-rate structure minimizes duration risk furthest of all, at a real cost premium (0.67% TER) — worth it specifically if rate-direction uncertainty is the dominant worry, not just duration length. All three still carry real US-corporate high-yield **credit** risk (defaults rise in a recession) — this trades JPEA's EM-sovereign/duration risk for US-corporate-credit/shorter-duration risk, not for risk-free; true riskless 1-year parking stays `SGOV`/`IB01` at ~3.5-4%.
 
 ## International / Global Aggregate (ex-US)
 

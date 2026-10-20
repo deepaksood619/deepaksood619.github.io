@@ -3,7 +3,7 @@ slug: /knowledge/other-topics/politics/indian-polity
 title: India Polity
 description: Explore India's polity with essential insights on the Constitution, federalism, and the parliamentary system to excel in UPSC CSE/IAS preparations.
 created: 2023-03-05
-updated: 2026-06-16
+updated: 2026-10-19
 ---
 [Complete M Laxmikanth Polity in 100 Parts by Dr Sidharth Arora | Crack UPSC CSE/IAS 2021/22/23](https://www.youtube.com/watch?v=TXhSrKJ1ahk)
 
@@ -43,6 +43,11 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 ## Parliament
 
 - 2.5 lakhs per minute cost of running parliament
+- **Changing the number of Lok Sabha seats:** the total is fixed by Article 81 and the state-wise allocation by Article 82, so changing them needs a constitutional amendment under Article 368: two-thirds of members present and voting, and a majority of the total membership of the House (about 362 of 543 in the Lok Sabha)
+- **Seat freeze:** the 543-seat total has been frozen on the 1971 census (extended in 1976 for 25 years, and again in 2001 until after the first census after 2026), so states that controlled their population growth, mainly in the south, are not penalised
+- **106th Amendment (2023):** gives women 33% reservation, but it takes effect only after a new census and delimitation
+- **131st Amendment Bill (vote on 17 Apr 2026):** proposed raising the Lok Sabha from 543 to 850; it got 298 votes against about 352 needed, and failed
+- **Tenth Schedule (anti-defection law, 1985):** paragraph 4 protects a merger if two-thirds of a legislature party agrees, so defecting members first merge into a third party. A 2026 wave of opposition MPs switching to the NDA via this route is alleged by The Deshbhakt to be aimed at reaching a two-thirds majority; this is the channel's opinion and unverified (Aug 2026). [Source](https://youtu.be/vArlou3CRDM)
 
 ## Bilateral Exercises of the Indian Armed Forces
 
@@ -70,6 +75,8 @@ Unko nazar lag gyi h, itna acha kaam krte the. Thoda unka is time me humko suppo
 
 - [MP Cough Syrup Tragedy \| India's Fake Medicine Crisis \| Who's The Next Victim? \| Akash Banerjee - YouTube](https://www.youtube.com/watch?v=nPytG61BX5o)
 - [Bihar ke jeetne waale ko baazigar kehte hain \| Ep. 3 : My X's stories - YouTube](https://www.youtube.com/watch?v=wFXKMq1FEjQ)
+- [INDIA IS DOOMED - MahiNergy (YouTube)](https://youtu.be/r0JhTqG9Ky4) - opinion video (Jul 2026) on the NEET paper-leak student protest and police action at the 20 July march to Parliament; the specific allegations in it are the creator's and unverified
+- See also [Naxalism and the Maoist Insurgency in Bastar](knowledge/other-topics/politics/naxalism-maoist-insurgency-bastar.md)
 
 ### References
 
@@ -110,3 +117,4 @@ Unko nazar lag gyi h, itna acha kaam krte the. Thoda unka is time me humko suppo
 ## Links
 
 - [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)
+- [Police Defying Court Release Orders](knowledge/law/police-defying-court-orders.md)

@@ -3,7 +3,7 @@ slug: /psychology/paradox
 title: Paradox
 description: Explore the intriguing world of paradoxes, including the omnipotence paradox and the barber paradox, uncovering their logical implications and consequences.
 created: 2024-01-12
-updated: 2026-01-25
+updated: 2026-10-03
 ---
 [**Omnipotence paradox**](https://en.wikipedia.org/wiki/Omnipotence_paradox "Omnipotence paradox"): Can an [omnipotent](https://en.wikipedia.org/wiki/Omnipotent "Omnipotent") being create a rock too heavy for itself to lift?
 
@@ -275,6 +275,7 @@ These paradoxes have in common a contradiction arising from either [self-referen
 - [**Grandfather paradox**](https://en.wikipedia.org/wiki/Grandfather_paradox "Grandfather paradox"): If one travels back in time and kills their grandfather before he conceives one of their parents, which precludes their own conception and, therefore, they could not go back in time and kill their grandfather.
 - [**Polchinski's paradox**](https://en.wikipedia.org/wiki/Polchinski#Polchinski.27s_paradox "Polchinski"): A billiard ball can be thrown into a wormhole in such a way that it would emerge in the past and knock its incoming past self away from the wormhole entrance, creating a variant of the [grandfather paradox](https://en.wikipedia.org/wiki/Grandfather_paradox "Grandfather paradox").
 - [**Hitler's murder paradox**](https://en.wikipedia.org/wiki/Hitler%27s_murder_paradox "Hitler's murder paradox"): One can travel back in time and murder [Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler "Adolf Hitler") before he can instigate [World War II](https://en.wikipedia.org/wiki/World_War_II "World War II") and [the Holocaust](https://en.wikipedia.org/wiki/The_Holocaust "The Holocaust"); but if he had never instigated that, then the murder removes any _reason_ for the travel.
+- [**Block universe (eternalism) / Andromeda paradox**](https://en.wikipedia.org/wiki/Andromeda_paradox "Andromeda paradox"): The philosophical counterpart of the predestination paradox ("since you are talking about it, it has already happened"). Per the Rietdijk–Putnam argument and Penrose's Andromeda paradox, past, present and future coexist in a four-dimensional spacetime continuum, so the future has already "occurred" and you only experience it sequentially. In a predestination loop, trying to prevent or talk about an event is exactly what completes the timeline: you don't change the past, you only fulfill it. See also [eternalism](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time) "Eternalism (philosophy of time)").
 
 ## Linguistics and artificial intelligence
 
