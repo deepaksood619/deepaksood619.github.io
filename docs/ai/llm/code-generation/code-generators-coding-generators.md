@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/code-generators-coding-generators
 title: Code Generators / Coding Generators
 description: Discover advanced code generators like Gemini Code Assist and GitHub Copilot for efficient coding, modernization, and seamless integration in your projects.
 created: 2026-06-18
-updated: 2026-09-29
+updated: 2026-10-10
 ---
 - [claude-code](ai/llm/code-generation/claude-code.md)
 
@@ -142,6 +142,8 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot) ⭐ 34k
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
+	- **[Kiro Crew - Kiro](https://kiro.dev/crew/)**
+		- [GitHub - kirodotdev/KiroCrew: A persistent workspace for development work that self-improves and continues beyond one session. · GitHub](https://github.com/kirodotdev/kirocrew)
 	- [Kiro - The New Agentic AI IDE from AWS - DEV Community](https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311)
 	- [Kiro Documentation](https://aws.amazon.com/documentation-overview/kiro/)
 	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro) ⭐ 4.3k

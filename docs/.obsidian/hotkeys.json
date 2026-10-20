@@ -98,14 +98,7 @@
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
   "editor:save-file": [],
-  "nldates-obsidian:nlp-today": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Y"
-    }
-  ],
+  "nldates-obsidian:nlp-today": [],
   "editor:toggle-bold": [
     {
       "modifiers": [
@@ -213,6 +206,24 @@
         "Mod"
       ],
       "key": "E"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "workspace:copy-full-path": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }

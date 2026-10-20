@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/models
 title: Models
 description: Explore generative and discriminative models, their differences, types like voice models, and how they learn to generate and classify data effectively.
 created: 2026-06-18
-updated: 2026-09-23
+updated: 2026-10-19
 ---
 - [voice-models](ai/llm/fundamentals/voice-models.md)
 
@@ -31,6 +31,8 @@ updated: 2026-09-23
 - [Lies, Damned Lies, and Benchmarks - TypeSafe AI Blog](https://typesafe.ai/blog/antibenchmaxxing)
 - [The Bitterest Lesson - TypeSafe AI Blog](https://typesafe.ai/blog/bitterest-lesson)
 - [convaiinnovations/laya · Hugging Face](https://huggingface.co/convaiinnovations/laya)
+- Others
+	- [Introducing Strands Decider 2B: a small, open source, decision model \| Strands Agents](https://strandsagents.com/blog/introducing-strands-decider/)
 
 ## ChatGPT / OpenAI
 
@@ -49,6 +51,7 @@ updated: 2026-09-23
 - [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
 - [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
 	- [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
+	- [How often does ChatGPT tell people what they want to hear?](https://kirangarimella.substack.com/p/how-often-does-chatgpt-tell-people)
 - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
 - [Here are 3 Major Announcements from OpenAI DevDay - YouTube](https://www.youtube.com/shorts/6u-snbY_CXs)
 - [Introducing ChatGPT Atlas - YouTube](https://www.youtube.com/live/8UWKxJbjriY)
@@ -113,6 +116,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 		- **Autonomy:** Solves **3x more production tasks**
 		- **Token Cost:** While pricing remains the same at $5/M input and $25/M output tokens, the model uses an updated tokenizer that increases the total token count by 1.0x to 1.35x for the same input text.
 	- Opus 4.7 is currently Anthropic's most capable _generally available_ model, but it is "broadly less capable" than the **Claude Mythos Preview**. Anthropic deliberately reduced 4.7's cybersecurity capabilities compared to Mythos to prevent high-risk autonomous exploits
+- [Introducing Claude Opus 5.5 \\ Anthropic](https://www.anthropic.com/claude-opus-5-5)
 
 ## Gemini
 
@@ -351,3 +355,4 @@ So... what's the deal with TTMs?
 - [The Perfect Cheating Machine? - Cal Newport](https://calnewport.com/the-perfect-cheating-machine/)
 - [linkedin.com/company/soketlabs/?originalSubdomain=in](https://www.linkedin.com/company/soketlabs/?originalSubdomain=in)
 - [Claude Exporter - Save Claude as PDF, MD and more](https://www.claudexporter.com/en)
+- [ChessLM](https://queen-project.github.io/)

@@ -3,7 +3,7 @@ slug: /cloud/firebase/firebase-google-analytics
 title: Firebase / Google Analytics
 description: Discover how Google Analytics for Firebase integrates mobile app insights with web support, offering unlimited reporting and audience segmentation.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-10-16
 ---
 Google Analytics for Firebase, formerly Firebase Analytics, is now known as Google Analytics. It works great for your mobile apps! Oh, but Google Analytics for Mobile has been deprecated; they recommend you use Firebase Analytics, which, as you'll recall, is now Google Analytics. In recent news, you'll be excited to hear that Google Analytics now supports web apps, but don't confuse that with Google Analytics for the web!
 
@@ -242,6 +242,12 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 ### MixPanel
 
 Mixpanel helps you learn how people use your app with mobile & web analytics. Instead of tracking page views, you can measure and see how people are actually using your app by tracking actions.
+
+### Others
+
+- [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/)
+	- It's free, forever
+	- Alternative for hotjar
 
 ## Links
 

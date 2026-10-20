@@ -15,5 +15,6 @@ updated: 2026-07-25
 - [GST](economics/taxation/gst.md)
 - [HUF / Private Trust](economics/taxation/huf-private-trust.md)
 	- [indian-company-types](economics/corporate-finance/indian-company-types.md)
+- [Business Entity Taxation in India](economics/taxation/business-entity-taxation-india.md)
 - [Clubbing of Income](economics/taxation/clubbing-of-income.md)
 - [ESOP Exercise Tax and the Dry Tax Trap in India](economics/taxation/esop-exercise-tax-dry-tax-trap-india.md)

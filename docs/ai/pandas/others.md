@@ -3,7 +3,7 @@ slug: /ai/pandas/others
 title: Others
 description: Discover essential Python tools for data analysis, including pandas_profiling for quick insights, SQL reading techniques, and the user-friendly bamboolib interface.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-10-05
 ---
 https://en.wikipedia.org/wiki/Math_Kernel_Library
 
@@ -23,12 +23,9 @@ https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b
 
 ```python
 mydb1 = pymysql.connect(host=hosts,
-
-user=user,
-
-password=password,
-
-database=dbname)
+	user=user,
+	password=password,
+	database=dbname)
 
 chunks = pd.read_sql(query, mydb1, chunksize=50000)
 

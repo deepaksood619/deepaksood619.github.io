@@ -62,6 +62,7 @@ The presumptive scheme of taxation reduces the compliance burden on small profes
 
 Taxes can be significantly reduced. For 60 lakh under 44ADA tax is only around 7L instead of 12L in normal method.
 
+- [Business Entity Taxation in India](economics/taxation/business-entity-taxation-india.md) - presumptive taxation across entities
 - [Section 44ADA – Presumptive Tax Scheme for Professionals](https://cleartax.in/s/section-44ada)
 - [Section 44ADA - Presumptive Tax for Professionals](https://groww.in/p/tax/section-44ada-of-income-tax-act)
 - [Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)

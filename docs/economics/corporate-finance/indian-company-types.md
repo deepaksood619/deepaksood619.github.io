@@ -14,6 +14,8 @@ updated: 2026-06-09
 4. Public Limited Company
 5. [HUF / Private Trust](economics/taxation/huf-private-trust.md)
 
+Tax comparison: [Business Entity Taxation in India](economics/taxation/business-entity-taxation-india.md)
+
 | **Particulars** | **Proprietorship** | **Private Limited Company** |
 |---|---|---|
 | **Form of business** | It is the easiest form of business, therefore can be started anywhere easily. | It is a legal form of business, therefore cannot be started without going through legal formalities. |

@@ -3,7 +3,7 @@ slug: /knowledge/games/family-games-gifts
 title: Family Games / Gifts
 description: Discover fun family games and gifts, perfect for game nights with kids and couples, including classic card games, charades, and engaging activities.
 created: 2023-03-05
-updated: 2026-10-02
+updated: 2026-10-18
 ---
 - [couple-activities](knowledge/games/couple-activities.md)
 - [kids-games](knowledge/games/kids-games.md)
@@ -50,6 +50,7 @@ updated: 2026-10-02
 
 ## Party / Family Games
 
+- Gota - [HOW TO PLAY \| 5 STONES GAME \| INDOOR GAMES \| CHILDHOOD GAMES \| TRADITIONAL \| INDIAN \| KIDS GAMES \| - YouTube](https://www.youtube.com/watch?v=mwT5H7qV27U)
 - Musical chairs
 - Uno
 - Jenga
@@ -191,3 +192,5 @@ As each guest got $1 back, each guest only paid $9, bringing the total paid to $
 	- **Gimbal Shots**
 	- [10 SMARTPHONE GIMBAL SHOTS in 5 Minutes - Zhiyun Smooth XS](https://www.youtube.com/watch?v=Cu-Mhhx9kSw&ab_channel=MikoTiotangco)
 - [SPYRAFOUR BLAST MODES 🔥💦 - YouTube](https://www.youtube.com/watch?v=fxHUvzjvoW8)
+- Bati - [Children Play Bati Game After the Vacation 2022 - YouTube](https://www.youtube.com/watch?v=Ftf3948lD3c)
+	- [Kanche kaise khelte hain \| How To Play Marbles \| कंचा खेलना सीखें \| bachapan ka khel goli \| kancha - YouTube](https://www.youtube.com/watch?v=RItx45wpX0A)

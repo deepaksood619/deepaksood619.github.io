@@ -3,7 +3,7 @@ slug: /computer-science/testing/postman
 title: "Postman: Mock API Resources"
 description: Explore top mock API servers and resources for testing REST APIs with Postman. Enhance your development workflow effortlessly.
 created: 2023-03-05
-updated: 2026-07-01
+updated: 2026-10-06
 ---
 ## Fake API REST Mocks Server Tests (Mock API)
 
@@ -36,6 +36,8 @@ updated: 2026-07-01
 - [**https://httpdump.io/**](https://httpdump.io/)
 - https://github.com/typicode/json-server
 - https://my-json-server.typicode.com
+- [Nominatim](https://nominatim.org/)
+	- Nominatim uses OpenStreetMap data to find locations on Earth by name and address (geocoding). It can also do the reverse, find an address for any location on the planet.
 
 ### API Marketplace
 

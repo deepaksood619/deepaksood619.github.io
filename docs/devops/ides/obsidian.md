@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-09-25
+updated: 2026-10-17
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -181,6 +181,7 @@ claude mcp add-json obsidian-hybrid-search '{"command":"npx","args":["-y","-p","
 | Delete the line                |                                      |
 | Insert Current Date            | `cmd + D`                            |
 | Strikethrough                  | `cmd + shift + x`                    |
+| Reveal in Finder               | `cmd + opt + r`                      |
 
 ### Some basics
 

@@ -3,13 +3,13 @@ slug: /ai/pandas/data-structures
 title: Data Structures
 description: Explore the pandas DataFrame, a versatile two-dimensional data structure for storing and manipulating labeled tabular data with aligned arithmetic operations.
 created: 2023-03-05
-updated: 2023-03-07
+updated: 2026-10-05
 ---
 `*class* pandas. **DataFrame** (*data=None*,*index=None*, *columns=None*, *dtype=None*, *copy=False*)`
 
 Two-dimensional size-mutable, potentially heterogeneous tabular data structure with labeled axes (rows and columns). Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects. The primary pandas data structure.
 
-### Parameters
+## Parameters
 
 - **data :** numpy ndarray (structured or homogeneous), dict, or DataFrame
 

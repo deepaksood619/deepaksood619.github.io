@@ -3,11 +3,11 @@ slug: /decentralized-applications/crypto-investing
 title: Crypto Investing
 description: Explore crypto investing strategies, from buying top coins like Bitcoin and Ethereum to mining and monitoring gas fees for optimal returns.
 created: 2023-03-05
-updated: 2026-01-10
+updated: 2026-10-08
 ---
 - Don't buy it, mine it
 
-### Buy and HODL
+## Buy and HODL
 
 - Bitcoin
 - Ethereum
@@ -15,23 +15,23 @@ updated: 2026-01-10
 - Polygon (MATIC) (Maybe)
 - Avalanche
 
-#### Others
+### Others
 
 - Cosmos
 - Mina
 
-### Gas Fees Comparison
+## Gas Fees Comparison
 
 - [L1 & L2 Comparisons & Benchmarks - Cross-Chain Usage, Growth, Gas, Fees](https://dune.com/msilb7/l2-and-l1-fee-comparison-benchmarks)
 - [Fees - DefiLlama](https://defillama.com/fees)
 
-### DYOR Tools
+## DYOR Tools
 
 - Messari
 - Binance research
 - Icodrops
 
-### Dashboards / Monitoring
+## Dashboards / Monitoring
 
 - [DefiLlama - DeFi Dashboard - TVL](https://defillama.com/?_sp=4a5917cc-9246-49fa-a008-41c519296ec8.1684908761328)
     - [TVL Rankings - DefiLlama](https://defillama.com/top-protocols)

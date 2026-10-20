@@ -3,7 +3,7 @@ slug: /parenting-resources
 title: Parenting Resources
 description: Curated collection of books, apps, YouTube channels, and educational resources for parents
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-10-03
 ---
 
 ## Books
@@ -40,6 +40,8 @@ updated: 2026-06-24
 - Piano
 
 ## Youtube Channels
+
+[Common Sense Media: Age-Based Media Reviews for Families \| Common Sense Media](https://www.commonsensemedia.org/)
 
 ### Dance & Music
 

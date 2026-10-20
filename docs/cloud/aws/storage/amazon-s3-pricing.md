@@ -3,7 +3,7 @@ slug: /cloud/aws/storage/amazon-s3-pricing
 title: Amazon S3 Pricing
 description: Discover Amazon S3 pricing options, including costs for Standard, Intelligent-Tiering, Glacier, and more, tailored for your data storage needs.
 created: 2024-06-04
-updated: 2026-07-22
+updated: 2026-10-19
 ---
 - S3 Standard (Frequently accessed data) - $0.023 per GB
 - S3 Intelligent-Tiering - $0.023per GB
@@ -48,13 +48,13 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 
 **S3 TCO Calculator**
 
-|Cost Component|S3 Standard|Glacier Instant Retrieval|
-|---|---|---|
-|Capacity Managed|10,240 GB|10,240 GB|
-|Monthly Storage Fee|$235.52|$40.96|
-|Data Retrieval Fee|$0.00|$46.08|
-|Request Fees|$0.13|$3.15|
-|Total Monthly TCO|$235.65|$90.19|
+| Cost Component      | S3 Standard | Glacier Instant Retrieval |
+| ------------------- | ----------- | ------------------------- |
+| Capacity Managed    | 10,240 GB   | 10,240 GB                 |
+| Monthly Storage Fee | $235.52     | $40.96                    |
+| Data Retrieval Fee  | $0.00       | $46.08                    |
+| Request Fees        | $0.13       | $3.15                     |
+| Total Monthly TCO   | $235.65     | $90.19                    |
 
 | Storage Class                                                                                                                               | Storage pricing           |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |

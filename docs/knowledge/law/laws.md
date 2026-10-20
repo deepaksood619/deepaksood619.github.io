@@ -3,7 +3,7 @@ slug: /knowledge/law/laws
 title: Laws
 description: Explore the impact of unnecessary laws on entrepreneurship in India, and understand key legal concepts like indemnification and contract term variations.
 created: 2023-03-05
-updated: 2025-02-14
+updated: 2026-10-16
 ---
 ## Thoughts
 
@@ -62,6 +62,6 @@ A virtual data room (sometimes called a VDR or Deal Room) is an online repositor
 
 ## Links
 
-[Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)
-
-[What is Happening to The Internet Archive? - YouTube](https://www.youtube.com/watch?v=bp2aowF0jUw)
+- [Best Judgments of 2022](https://www.youtube.com/watch?v=zfEf53ghkV0)
+- [What is Happening to The Internet Archive? - YouTube](https://www.youtube.com/watch?v=bp2aowF0jUw)
+- [Fruit of the poisonous tree - Wikipedia](https://en.wikipedia.org/wiki/Fruit_of_the_poisonous_tree)

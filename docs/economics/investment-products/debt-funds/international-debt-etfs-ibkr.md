@@ -3,7 +3,7 @@ slug: /economics/investment-products/debt-funds/international-debt-etfs-ibkr
 title: International Debt ETFs (IBKR + UCITS)
 description: Global bond ETFs tradeable via Interactive Brokers - US-domiciled vs UCITS (Ireland) versions - short-term cash/treasury funds vs long-duration, high-yield, and EM debt, with historical returns, pros and cons.
 created: 2026-08-09
-updated: 2026-09-01
+updated: 2026-10-05
 ---
 International debt (bond) ETFs let you hold US Treasuries, investment-grade corporates, high yield, or emerging-market debt in a single ticker via [Interactive Brokers (IBKR)](economics/learning-resources/interactive-brokers-ibkr.md). As with [international equity ETFs](economics/investment-products/equity-funds/international-etfs.md), each fund exists in two flavours: a **US-domiciled** version (NYSE/NASDAQ) and a **UCITS (Ireland-domiciled)** version tradeable on LSE/XETRA/SIX. Which one you should buy depends mainly on your tax residency, not on yield.
 
@@ -108,13 +108,13 @@ Highest income and best historical total returns among bond ETFs, but with equit
 
 **UCITS (Ireland, USD):**
 
-| Ticker   | Name (Acc/Dist)                                 | ISIN         | Exchanges                                  | TER   | AUM    | 1Y                                                         | 3Y (cum.) | 5Y (cum.) | Inception |
-| -------- | ----------------------------------------------- | ------------ | ------------------------------------------ | ----- | ------ | ---------------------------------------------------------- | --------- | --------- | --------- |
-| **JPEA** | iShares JPM $ EM Bond UCITS ETF (Acc)           | IE00BYXYYK40 | LSE, XETRA, SIX, gettex                    | 0.45% | €2.04B | +8.37%                                                     | +23.64%   | +11.55%   | Apr 2017  |
-| IHYU     | iShares $ High Yield Corp Bond UCITS ETF (Dist) | IE00B4PY7Y77 | LSE, SIX, XETRA, Stuttgart, Borsa Italiana | 0.50% | €2.19B | +6.64%                                                     | +20.26%   | +24.05%   | Sep 2011  |
-| IHYA     | iShares $ High Yield Corp Bond UCITS ETF (Acc)  | IE00BYXYYL56 | LSE, SIX, XETRA                            | 0.50% | €2.47B | ~ same total return profile as IHYU, reinvested internally |           |           | Apr 2017  |
-| IEMB     | iShares JPM $ EM Bond UCITS ETF (Dist)          | IE00B2NPKV68 | LSE, XETRA, Stuttgart, Borsa Italiana      | 0.45% | €3.67B | +8.26%                                                     | +23.71%   | +11.51%   | Feb 2008  |
-| EMCA     | iShares JPM $ EM Corp Bond UCITS ETF (Acc)      | IE00BFM6TD65 | LSE, XETRA, and others                     | 0.50% | Smaller/less liquid than JPEA | — | — | — | Apr 2012 |
+| Ticker   | Name (Acc/Dist)                                 | ISIN         | Exchanges                                  | TER   | AUM                           | 1Y                                                         | 3Y (cum.) | 5Y (cum.) | Inception |
+| -------- | ----------------------------------------------- | ------------ | ------------------------------------------ | ----- | ----------------------------- | ---------------------------------------------------------- | --------- | --------- | --------- |
+| **JPEA** | iShares JPM $ EM Bond UCITS ETF (Acc)           | IE00BYXYYK40 | LSE, XETRA, SIX, gettex                    | 0.45% | €2.04B                        | +8.37%                                                     | +23.64%   | +11.55%   | Apr 2017  |
+| IHYU     | iShares $ High Yield Corp Bond UCITS ETF (Dist) | IE00B4PY7Y77 | LSE, SIX, XETRA, Stuttgart, Borsa Italiana | 0.50% | €2.19B                        | +6.64%                                                     | +20.26%   | +24.05%   | Sep 2011  |
+| IHYA     | iShares $ High Yield Corp Bond UCITS ETF (Acc)  | IE00BYXYYL56 | LSE, SIX, XETRA                            | 0.50% | €2.47B                        | ~ same total return profile as IHYU, reinvested internally |           |           | Apr 2017  |
+| IEMB     | iShares JPM $ EM Bond UCITS ETF (Dist)          | IE00B2NPKV68 | LSE, XETRA, Stuttgart, Borsa Italiana      | 0.45% | €3.67B                        | +8.26%                                                     | +23.71%   | +11.51%   | Feb 2008  |
+| EMCA     | iShares JPM $ EM Corp Bond UCITS ETF (Acc)      | IE00BFM6TD65 | LSE, XETRA, and others                     | 0.50% | Smaller/less liquid than JPEA | —                                                          | —         | —         | Apr 2012  |
 
 **Pros:** Meaningfully higher yield/return than Treasuries or core aggregate (IHYU's 5-year cumulative return of +24% beats every other bond category here); EM debt adds geographic diversification away from US/developed-market rates.
 
