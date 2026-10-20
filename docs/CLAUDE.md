@@ -527,7 +527,7 @@ graph TD
 - ❌ **NEVER auto-commit** - require explicit user approval
 - ❌ **No wikilinks** - standard markdown only
 - ❌ **No folder-based slugs** - use natural language
-- ⚠️ **Office folder** - Never access `office/*` without explicit approval (sensitive data)
+- ❌ **NEVER reference the office folder** - no links, paths or "see private notes" pointers to `office/*` from any other note (it is private and excluded from the build, so links break the build and leak private paths). Never access `office/*` without explicit approval (sensitive data)
 
 ## External References
 

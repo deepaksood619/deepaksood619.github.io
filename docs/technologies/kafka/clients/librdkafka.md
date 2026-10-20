@@ -60,7 +60,7 @@ Fewer partitions help only when batches are otherwise small; once each partition
 
 ## Measured on a Confluent Cloud Standard cluster (2026-10-19)
 
-144 runs, librdkafka 1.9.2 and 2.16.0, client RTT about 300-500 ms (laptop in India to us-east-2), 600 B JSON, 30 msg/s per process. Full report: [librdkafka load test](office/iconfluent/tbo/librdkafka-partition-load-test.md).
+144 runs, librdkafka 1.9.2 and 2.16.0, client RTT about 300-500 ms (laptop in India to us-east-2), 600 B JSON, 30 msg/s per process.
 
 - Null key, 36 partitions: messages per Produce request 1.1 (linger 5), 1.5 (20), 3.6 (100), 6.9 (200). A unique timestamp key: 1.0-1.1 at every linger.
 - Fewer partitions, null key, linger 100: 36 partitions 3.6, 12 3.9, 6 4.3, 3 5.2. Keyed (100 keys), linger 100: 1.1 / 1.7 / 2.5 at 36 / 6 / 3 partitions.
