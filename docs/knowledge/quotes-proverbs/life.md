@@ -3,9 +3,11 @@ slug: /knowledge/quotes-proverbs/life
 title: Life
 description: Explore the philosophy of life, success, and money, highlighting the importance of giving, learning, and overcoming fear for a fulfilling existence.
 created: 2023-03-05
-updated: 2026-07-22
+updated: 2026-10-22
 ---
 It’s almost always about money.
+
+The more one have, the more one wants.
 
 Money leads to success which leads to more money
 

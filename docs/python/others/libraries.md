@@ -3,7 +3,7 @@ slug: /python/others/libraries
 title: Overview of PyPy and Its Benefits
 description: Discover PyPy, a fast and memory-efficient Python implementation that enhances performance for Python programs.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-10-22
 ---
 nose packages
 
@@ -57,6 +57,8 @@ This manager should be attached to a base model class in a model-inheritance tre
 py-spy is a sampling profiler for Python programs. It lets you visualize what your Python program is spending time on without restarting the program or modifying the code in any way. py-spy is extremely low overhead: it is written in Rust for speed and doesn't run in the same process as the profiled Python program. This means py-spy is safe to use against production Python code.
 
 https://github.com/benfred/py-spy
+
+More: [py-spy - Sampling Profiler for Python](python/others/py-spy.md)
 
 ## FII Memory profiler
 

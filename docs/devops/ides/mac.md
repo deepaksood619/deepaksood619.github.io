@@ -3,7 +3,7 @@ slug: /devops/ides/mac
 title: Essential Mac Shortcuts and Tips
 description: Discover essential Mac shortcuts for screenshots, quick commands, and more to enhance your productivity and streamline your workflow.
 created: 2023-03-05
-updated: 2026-10-04
+updated: 2026-10-22
 ---
 Apple's built-in **Universal Control** feature
 
@@ -337,6 +337,8 @@ brew services cleanup
 - tldr - https://tldr.sh https://github.com/tldr-pages/tldr
 - rename
 - maccy
+- bluesnooze - https://github.com/odlp/bluesnooze
+	- Sleeping Mac = Bluetooth off
 
 #### Clipboard Manager (maccy)
 

@@ -82,7 +82,7 @@ updated: 2026-10-19
 
 [How to build a product millions of people want (BUILD by Tony Fadell) - Core Message](https://youtu.be/rOKBvd7pxK8) summarizes the book as four stages: Pain, Personas, Prototyping, Progression. Fadell's origin story: his Lake Tahoe cabin took all night to warm up, and years later he saw $400 thermostats in ugly beige boxes right after helping launch the iPhone, which led to Nest (bought by Google for $3.2B).
 
-- **Pain:** the idea should haunt you for years and be a painkiller, not a vitamin. Readiness test: "I can't stop thinking about building a ___. If I don't build it, customers will continue suffering with___."
+- **Pain:** the idea should haunt you for years and be a painkiller, not a vitamin. Readiness test: "I can't stop thinking about building a _**. If I don't build it, customers will continue suffering with**_."
 - **Personas:** General Magic built advanced products nobody bought because it never pictured the customer. Nest built for two named, pictured personas (including brands they love and hate and what they spend on heating) and checked every feature, the box and the in-box items against them
 - **Prototyping:** mock the whole customer journey: deciding to buy (mock ad, site, reviews, checkout; Fadell started with a cardboard box cut to shelf-package size), opening the box (a stick-figure instruction sheet) and calling support
 - **Progression:** plan three releases. V1 is for early adopters and the goal is data, not profit (the first iPod worked only with Macs); V2 is better and broader (the iPod on PCs took sales from thousands to tens of millions), so watch what customers do and take complaints seriously; V3 is for profit, mostly behind-the-scenes cost changes plus retail partners and scale

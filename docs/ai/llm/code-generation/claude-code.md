@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-10-11
+updated: 2026-10-24
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -230,6 +230,8 @@ hermes gateway      # Start messaging gateway
     4. Deduplication - Collapses repeated log lines with counts
 - [Ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 160k - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Prompt Master](https://github.com/nidhinjs/prompt-master) ⭐ 14k - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
+- Graphify
+- Omniroute
 
 ### Frontend & Testing
 

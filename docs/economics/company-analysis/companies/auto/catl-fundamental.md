@@ -167,31 +167,37 @@ CATL continues to execute well (continued share gains, energy storage outgrowing
 ## Catalysts
 
 **Near-term (0-3 months):**
+
 - Confirmation of whether any further staggered lockup-share releases remain pending beyond the Nov 2025 tranche
 - Q3 2026 results — test of whether H1's margin-pressure-despite-share-gains pattern continues or stabilizes
 
 **Medium-term (3-12 months):**
+
 - Energy storage order book/contract wins — the segment growing at ~88% YoY makes forward bookings here more informative than EV-battery volume alone
 - Resolution/clarity on Huang Shilin's share transfer (buyer identity, stated purpose)
 
 **Long-term (1-3 years):**
+
 - Whether CATL's current ~40% global share is sustainable against CALB, BYD's own in-house battery unit, and non-Chinese rivals (LG, Panasonic, Samsung SDI) scaling up
 - Sodium-ion and next-gen chemistry commercialization — a potential moat extension if CATL maintains its lead
 
 ## Key Monitoring Parameters
 
 **Quarterly:**
+
 1. Revenue/profit growth rate trend (watch for deceleration from H1 2026's accelerated pace)
 2. Gross/operating margin trend specifically (the "declining margins despite share gains" signal needs a clear number, not just the directional note found here)
 3. Energy storage segment growth rate (the primary differentiator from BYD-style pure-EV exposure)
 
 **Trigger Events:**
+
 - ✅ **Buy more:** Confirmed margin stabilization, energy storage order momentum continuing, lockup overhang clearing without a material price impact
 - 🔻 **Reduce/Exit:** Margin compression accelerating, energy storage growth decelerating sharply, or a confirmed large insider-selling event beyond the already-flagged 1% transfer
 
 ## Data Quality Note (Important — read before acting on this analysis)
 
 This analysis was compiled from secondary news sources (CnEVPost, trade press, aggregated analyst commentary), not primary filings or a live market data feed, consistent with this knowledge base's standard caveat for China-domiciled companies. Specific gaps:
+
 - **Current price is stale**: last confirmed figure is HK$621.50 (July 24, 2026) — given BYD's price moved ~21% in just two months over this same period, CATL's current price should be re-verified live before any transaction, not assumed unchanged.
 - **Cash flow, balance sheet, and precise margin percentages** were not located and are flagged as gaps rather than estimated.
 - **IBKR/broker accessibility**: general web research found no specific restriction on secondary-market HKEX trading of 3750.HK by foreign retail brokers (the Reg S restriction found in earlier research applied to the 2025 IPO offering itself, not ongoing secondary trading) — but this was not confirmed directly against IBKR's own platform. Verify HK trading permissions and search the ticker directly (same process already used for BYD/1211.HK) before assuming accessibility.

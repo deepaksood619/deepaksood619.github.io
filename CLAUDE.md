@@ -11,6 +11,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 > [!WARNING]
 > **NEVER reference anything in `docs/office/` from any other note.** No links, no file paths, no names of office files, no "see private notes" pointers, and no copying office content into public notes. `docs/office/` is private (Google-Drive-synced, sensitive) and excluded from the build: a link into it breaks the build (`onBrokenMarkdownLinks: 'throw'`) and leaks private paths onto the public site. If a public note draws on office material, write the public facts directly and drop any pointer to the source. Never read or edit `docs/office/` without explicit approval.
 
+**Office folder guidance (local only):** `docs/office/` holds private work and personal records and is gitignored. Its layout, conventions and handling rules are in `docs/office/CLAUDE.md`, which is loaded automatically when working inside that folder and is never committed. This pointer in `CLAUDE.md` is the single permitted outward reference to `docs/office/`; it does not apply to notes under `docs/`.
+
 ## Project Overview
 
 Personal knowledge base ("Deep Notes" / "Second Brain") built with Docusaurus 3.10, containing 2900+ markdown notes (~280k lines of prose) across 400+ folders, deployed to GitHub Pages at https://deepaksood619.github.io/. Content spans computer science, AI/ML, databases, algorithms, book summaries, economics, psychology, and more.

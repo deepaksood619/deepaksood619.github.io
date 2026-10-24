@@ -3,9 +3,9 @@ slug: /python/advanced/faster-python
 title: Techniques for Faster Python Code
 description: Discover effective techniques to speed up Python, including line profiling, Numpy vectorization, and specialized data structures.
 created: 2023-03-05
-updated: 2026-06-11
+updated: 2026-10-22
 ---
-1. Line Profiling
+1. Line Profiling - [py-spy](python/others/py-spy.md) sampling profiler / flame graphs
 2. Numpy Vectorization
 3. Specilized data structures
     - scipy.spatial - For spatial query like distances, nearest neighbor, kd trees etc.
