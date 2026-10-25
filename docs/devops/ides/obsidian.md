@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-10-19
+updated: 2026-10-24
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -53,6 +53,7 @@ Extensions that helps make obsidian better
 - [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch) ⭐ 2.1k
 - [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc) ⭐ 908
 - [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt) ⭐ 970
+	- [Folder Encrypt - Obsidian Plugin](https://community.obsidian.md/plugins/folder-encrypt)
 - **[GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot) ⭐ 7.7k**
 - [GitHub - nhaouari/obsidian-textgenerator-plugin: Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.](https://github.com/nhaouari/obsidian-textgenerator-plugin) ⭐ 2.0k
 	- [GPT in Obsidian: Text Generator Plugin - YouTube](https://www.youtube.com/watch?v=OergqWCdFKc)
