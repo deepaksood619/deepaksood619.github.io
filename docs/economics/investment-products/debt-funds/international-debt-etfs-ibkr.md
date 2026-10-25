@@ -3,7 +3,7 @@ slug: /economics/investment-products/debt-funds/international-debt-etfs-ibkr
 title: International Debt ETFs (IBKR + UCITS)
 description: Global bond ETFs tradeable via Interactive Brokers - US-domiciled vs UCITS (Ireland) versions - short-term cash/treasury funds vs long-duration, high-yield, and EM debt, with historical returns, pros and cons.
 created: 2026-08-09
-updated: 2026-10-05
+updated: 2026-10-20
 ---
 International debt (bond) ETFs let you hold US Treasuries, investment-grade corporates, high yield, or emerging-market debt in a single ticker via [Interactive Brokers (IBKR)](economics/learning-resources/interactive-brokers-ibkr.md). As with [international equity ETFs](economics/investment-products/equity-funds/international-etfs.md), each fund exists in two flavours: a **US-domiciled** version (NYSE/NASDAQ) and a **UCITS (Ireland-domiciled)** version tradeable on LSE/XETRA/SIX. Which one you should buy depends mainly on your tax residency, not on yield.
 
@@ -243,6 +243,7 @@ Physical gold ETFs/ETCs give USD-denominated gold exposure via [Interactive Brok
 - **On IBKR:** search `IGLN` or `SGLD`, select the **LSE** listing, and confirm the currency shown is **USD** — a GBP-denominated line on the same underlying gold pool (e.g. `SGLN` for iShares) also trades on LSE; buy the USD line to match dollars sent via LRS, same rule as `VWRA` vs `VWRP`.
 - **Estate tax:** GLD/IAU/SGOL/GLDM are **US-situs assets** for non-US persons and exposed to US estate tax on death — see [US Estate Tax Avoidance for Non-Resident Aliens](economics/taxation/us-estate-tax-avoidance-nra.md). IGLN/SGLD, being Ireland-domiciled, avoid this — same logic as UCITS bond/equity ETFs.
 - **Note on PHAU:** WisdomTree's PHAU is **Jersey-domiciled**, not Ireland — it doesn't carry the same US-estate-tax-avoidance profile as IGLN/SGLD despite being an older, well-established product. Prefer IGLN or SGLD for the estate-tax benefit.
+- **Silver equivalent of IGLN — `ISLN`:** iShares Physical Silver ETC (USD), ISIN `IE00B4NCWG09`, Ireland-domiciled, LSE-listed, accumulating (no dividends), physical allocated silver bars held by JPMorgan, TER ~0.20% (sources vary 0.20-0.21%), AUM roughly $2-3.4B depending on source/date (Trackinsight: ~€3.14B as of May 2026) — re-verify live. Same logic as IGLN: Ireland domicile avoids the US-situs estate-tax exposure that US silver trusts (e.g. SLV) carry, and on IBKR pick the **USD** line (`ISLN`) rather than the GBP line on the same silver pool (`SSLN`). Sources: [Trackinsight ISLN](https://www.trackinsight.com/en/fund/ISLN), [Getquin](https://app.getquin.com/en/etf/IE00B4NCWG09/ishares-physical-silver-etc), [TradingView](https://in.tradingview.com/symbols/LSE-ISLN/analysis).
 
 ## Links
 

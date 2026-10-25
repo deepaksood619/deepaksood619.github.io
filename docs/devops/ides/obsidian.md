@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-10-24
+updated: 2026-10-25
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -74,6 +74,8 @@ Extensions that helps make obsidian better
 - [GitHub - ozntel/file-explorer-note-count: Obsidian Plugin for viewing the number of elements under each folder within the file explorer · GitHub](https://github.com/ozntel/file-explorer-note-count) ⭐ 153
 - [GitHub - RohitNahar-Offical/colorful-folders-obsidian: Automatically adds beautiful premium preset colors to all folders and subfolders in Obsidian · GitHub](https://github.com/rohitnahar-offical/colorful-folders-obsidian) ⭐ 13
 	- [GitHub - Mithadon/obsidian-color-folders-files: Obsidian plugin to customize the appearance of folders and files through a context menu with color picker and style options. · GitHub](https://github.com/Mithadon/obsidian-color-folders-files) ⭐ 48
+- [Folder notes - Obsidian Plugin](https://community.obsidian.md/plugins/folder-notes)
+- [SideNote - Obsidian Plugin](https://community.obsidian.md/plugins/side-note)
 
 ### LearnKit - Spaced Repetition (Flashcards)
 
@@ -330,6 +332,14 @@ Toggle side bars
 ## Open Source Alternatives
 
 - [GitHub Star History](https://www.star-history.com/#logseq/logseq&TriliumNext/Trilium&laurent22/joplin&Date)
+- [Best 12 Open Source Obsidian Alternatives in 2026](https://toolquestor.com/open-source/alternative/obsidian)
+- [I Tested 7 Open Source Obsidian Alternatives — Here’s My Top Pick \| by Haneem \| Medium](https://medium.com/@kmhaneem00/i-tested-7-open-source-obsidian-alternatives-heres-my-top-pick-5c35d0a6a3c8)
+	- Logseq
+		- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/downloads)
+		- Migrate
+			- [GitHub - chadly/obsidian-logseq-gpt-migrator: Migrate my Obsidian vault to Logseq using GPT-4 · GitHub](https://github.com/chadly/obsidian-logseq-gpt-migrator)
+			- [Converting obsidian to logseq (org mode)? - Questions & Help - Logseq](https://discuss.logseq.com/t/converting-obsidian-to-logseq-org-mode/20272/4)
+			- [I migrated my notes from Obsidian to Logseq, and I don't regret it](https://www.xda-developers.com/migrated-notes-to-logseq-from-obsidian-dont-regret-it/)
 - [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin) ⭐ 56k
 	- [Joplin](https://joplinapp.org/)
 	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)

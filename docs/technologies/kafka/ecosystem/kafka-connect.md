@@ -130,6 +130,7 @@ Distributed mode provides scalability and automatic fault tolerance for Kafka Co
 - [Workers](https://docs.confluent.io/current/connect/concepts.html#connect-workers)-- the running processes that execute connectors and tasks
 - [Converters](https://docs.confluent.io/current/connect/concepts.html#connect-converters)-- the code used to translate data between Connect and the system sending or receiving data
 - [Transforms](https://docs.confluent.io/current/connect/concepts.html#connect-transforms)-- simple logic to alter each message produced by or sent to a connector
+  - See [Kafka Connect SMTs](technologies/kafka/ecosystem/kafka-connect-smts.md) for the built-in transforms and examples
 
 ## Task
 

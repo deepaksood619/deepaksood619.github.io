@@ -15,5 +15,6 @@
   "templater-obsidian",
   "obsidian-linter",
   "file-explorer-note-count",
-  "meld-encrypt"
+  "meld-encrypt",
+  "folder-notes"
 ]

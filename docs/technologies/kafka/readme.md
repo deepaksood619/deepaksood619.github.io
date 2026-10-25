@@ -47,6 +47,7 @@ Apache Kafka is an open-source distributed event streaming platform used for hig
 ## Kafka Ecosystem
 
 - [Kafka Connect](technologies/kafka/ecosystem/kafka-connect.md)
+  - [Kafka Connect SMTs](technologies/kafka/ecosystem/kafka-connect-smts.md)
 - [Kafka Streams](technologies/kafka/ecosystem/kafka-streams.md)
 - [Strimzi (Kubernetes Operator)](technologies/kafka/ecosystem/strimzi.md)
 

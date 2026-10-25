@@ -3,7 +3,7 @@ slug: /claude-code-skills
 title: Claude Code Skills
 description: Claude Code Skills
 created: 2026-06-24
-updated: 2026-09-03
+updated: 2026-10-20
 ---
 ## Built-in Commands
 
@@ -121,6 +121,33 @@ updated: 2026-09-03
 | **Token Efficiency** | Entire prompt added to context every invocation                   | **Progressive Disclosure**: Only name/description load initially |
 
 [Understanding CLAUDE.md vs Skills vs Slash Commands](https://www.reddit.com/r/ClaudeAI/comments/1ped515/understanding_claudemd_vs_skills_vs_slash/)
+
+### Skills vs System Prompt
+
+A system prompt sets the permanent persona, core boundaries, and behavior rules for an AI across every interaction, while a skill is a modular, reusable procedure (often stored in a `SKILL.md` file) loaded on-demand to handle a specific, repeatable task.
+
+| Feature         | **System Prompt**                                         | **Skill (e.g., SKILL.md)**                                                  |
+| --------------- | --------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Scope**       | Global & permanent (holds across the entire session/app)  | Local & modular (loaded only when a matching task occurs)                   |
+| **Lifespan**    | Active for the duration of the assistant/agent instance   | Persists in your codebase or agent library across sessions                  |
+| **Primary Job** | Defines who the AI is, its tone, and safety rules         | Defines how to execute a specific workflow step-by-step                     |
+| **Trigger**     | Always active in the background                           | Called explicitly or selected automatically by the agent when relevant      |
+| **Analogy**     | Onboarding manual or job description for an employee      | A specialized SOP (Standard Operating Procedure) handbook or playbook       |
+
+**System prompt:**
+
+- **What it is:** The foundational instruction layer that dictates the AI's identity, general constraints, and overarching persona.
+- **When it applies:** Constantly in the background, regardless of what user query or task comes in.
+- **Example rules:** "You are a helpful coding assistant. Always reply in concise bullet points. Never reveal system architecture details."
+
+**Skill:**
+
+- **What it is:** A self-contained package of instructions, rules, and expected outputs (frequently defined in a version-controlled `SKILL.md` file).
+- **When it applies:** Pulled into the active context window only when a task requires it (e.g., running database queries, parsing a PDF, or formatting accessibility specs).
+- **How it is invoked:** Triggered explicitly by the user (referencing a skill name or command) or loaded implicitly when the agent recognizes the task matches the skill's description.
+- **Example rules:** "Current information search skill: Use live search for recent pricing, compare at least two sources, and separate verified facts from inferences."
+
+Sources: Google AI Overview, citing YouTube (AI News & Strategy Daily | Nate B Jones; UiPath with Jeppe) and Medium (Marco Kotrotsos).
 
 ### Creating Custom Skills
 

@@ -3,7 +3,7 @@ slug: /ai/llm/fundamentals/models
 title: Models
 description: Explore generative and discriminative models, their differences, types like voice models, and how they learn to generate and classify data effectively.
 created: 2026-06-18
-updated: 2026-10-19
+updated: 2026-10-22
 ---
 - [voice-models](ai/llm/fundamentals/voice-models.md)
 
@@ -117,6 +117,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 		- **Token Cost:** While pricing remains the same at $5/M input and $25/M output tokens, the model uses an updated tokenizer that increases the total token count by 1.0x to 1.35x for the same input text.
 	- Opus 4.7 is currently Anthropic's most capable _generally available_ model, but it is "broadly less capable" than the **Claude Mythos Preview**. Anthropic deliberately reduced 4.7's cybersecurity capabilities compared to Mythos to prevent high-risk autonomous exploits
 - [Introducing Claude Opus 5.5 \\ Anthropic](https://www.anthropic.com/claude-opus-5-5)
+- [Introducing Claude Duet \| Claude by Anthropic](https://claude.com/resources/articles/claude-duet)
 
 ## Gemini
 
@@ -276,6 +277,8 @@ So... what's the deal with TTMs?
 - [Granite Time Series Models - a ibm-granite Collection](https://huggingface.co/collections/ibm-granite/granite-time-series-models-663a90c6a2da73482bce3dc6)
 
 ## Small Language Models (SLMs / SLM)
+
+- [Apple Foundation Models CLI (fm)](ai/llm/building-llm-apps/apple-foundation-models-cli.md) - run Apple's on-device model locally
 
 [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 

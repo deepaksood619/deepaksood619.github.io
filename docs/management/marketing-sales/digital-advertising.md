@@ -3,7 +3,7 @@ slug: /management/marketing-sales/digital-advertising
 title: Understanding Digital Advertising Models
 description: Explore key digital advertising pricing models like CPM, CPC, and CPV to optimize your online campaigns effectively.
 created: 2024-12-18
-updated: 2025-04-29
+updated: 2026-10-25
 ---
 ## Pricing Models
 
@@ -96,3 +96,6 @@ Ad Manager is for you if you need:
 - [What is a Demand Side Platform (DSP)? How It Helps Publishers? | Publift - YouTube](https://www.youtube.com/watch?v=62jey51gr1c&ab_channel=Publift)
 	- [End to End Campaign Management - Google Display & Video 360](https://marketingplatform.google.com/about/display-video-360/)
 - [What’s Yield Optimization? - Effective Yield Optimization for Publishers Explained - YouTube](https://www.youtube.com/watch?v=rGWS1B-x0bU&ab_channel=Publift)
+- [Buffer: Social media management for everyone](https://buffer.com/)
+	- [Buffer \| Open](https://buffer.com/open)
+	- [I Tested 7 Buffer Alternatives, Here’s What Actually Worked \| by Haneem \| Medium](https://medium.com/@kmhaneem00/i-tested-7-buffer-alternatives-heres-what-actually-worked-8cb62aa710bb)

@@ -3,7 +3,7 @@ slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
 description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
 created: 2025-04-08
-updated: 2026-10-11
+updated: 2026-10-24
 ---
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
@@ -122,7 +122,6 @@ updated: 2026-10-11
 	- [VWO ETF Stock Price & Overview](https://stockanalysis.com/etf/vwo/)
 - **Vanguard Global Stock Index Fund (VT Index)**
 	- Mutual-fund share class: [VTWAX - Vanguard Total World Stock Index Fund](economics/investment-products/equity-funds/vtwax-total-world-stock-index-fund.md) (Admiral Shares, same FTSE Global All Cap Index and underlying portfolio as VT, but daily-NAV mutual fund instead of an intraday-traded ETF)
-- [Vanguard Total International Stock ETF (VXUS) ETF Stock Price & Overview](https://stockanalysis.com/etf/vxus/)
 - MSCI World Index
 - MSCI All Country World Index
 - S&P Global Index
@@ -211,8 +210,8 @@ Three structurally different ways money reaches a Chinese company, each with a d
 
 **UCITS (Ireland, USD):**
 
-| Ticker | Name | ISIN | TER | AUM | Returns | Top Holdings |
-| --- | --- | --- | --- | --- | --- | --- |
+| Ticker             | Name                         | ISIN         | TER       | AUM      | Returns                                       | Top Holdings                       |
+| ------------------ | ---------------------------- | ------------ | --------- | -------- | --------------------------------------------- | ---------------------------------- |
 | **ICHA**/ICHN/ICHD | iShares MSCI China UCITS ETF | IE00BJ5JPG56 | **0.28%** | `>`£2.8B | YTD `>`+30% (Dec 2025, stimulus-driven rally) | Tencent ~17%, Alibaba ~10%, Xiaomi |
 
 **Critical take — this is the rare case where UCITS is cheaper, not just more estate-tax-efficient:** `ICHA`'s 0.28% TER actually beats `MCHI`'s 0.59% US-domiciled equivalent on the *same* underlying MSCI China index — no tradeoff needed here, both the cost and the estate-tax argument point the same direction for a non-US person. This fund still carries the same VIE exposure as `MCHI` (Tencent + Alibaba alone are ~27% of it), it's just cheaper to hold.
@@ -253,6 +252,26 @@ Three structurally different ways money reaches a Chinese company, each with a d
 - **VIE concentration is near-total:** 8 of the 9 listed top holdings (Tencent, NetEase, Xiaomi, PDD, Alibaba, JD, Baidu, Kuaishou) are VIE-structured or VIE-adjacent Chinese internet names — essentially zero dilution from non-VIE holdings, unlike `ICHN`'s bank ballast.
 
 **Verdict: do not substitute for `ICHN`.** They answer different questions — `ICHN` is the broad-diversification tool; `CTCE` is a concentrated, high-volatility, near-all-VIE single-theme bet, structurally closer to `KWEB` (which posted a **-58% 5-year cumulative return** through the 2021-2023 crackdown) than to anything "diversified." Only consider as a small, deliberate satellite addition on top of (not instead of) `ICHN`, sized for the volatility shown above, with the CATL overlap in mind.
+
+**ICHN**
+
+- [iShares MSCI China A UCITS ETF (AMS:ICHN) Stock Price & Overview](https://stockanalysis.com/quote/ams/ICHN/)
+- iShares MSCI China A UCITS ETF is an exchange traded fund launched by BlackRock Asset Management Ireland Limited. It is managed by BlackRock Advisors (UK) Limited. The fund invests in the public equity markets of China. It seeks to invest in the stocks of companies operating across diversified sectors. The fund invests in the stocks of large-cap and mid-cap companies. It seeks to replicate the performance of the MSCI China A International Index, by employing representative sampling methodology. iShares MSCI China A UCITS ETF was formed on April 8, 2015 and is domiciled in Ireland.
+
+| Assets           | 2.19B        |
+| ---------------- | ------------ |
+| Expense Ratio    | 0.28%        |
+| PE Ratio         | 10.85        |
+| Forward PE       | 10.21        |
+| Volume           | 155,910      |
+| Open             | 5.05         |
+| Previous Close   | 5.04         |
+| Day's Range      | 5.03 - 5.06  |
+| 52-Week Low      | 4.98         |
+| 52-Week High     | 6.66         |
+| Beta             | 1.01         |
+| Holdings         | 592          |
+| Inception Date   | Jun 20, 2019 |
 
 ## Clean Energy / Solar
 
@@ -296,6 +315,9 @@ INRG's **19-year track record makes the boom-bust pattern unambiguous**: a +10.3
 | **Beta (Volatility vs. Market)** | Defensive (< 0.70)         | 0.52 (Highly Defensive)       | Defensive (< 0.70)         | 0.92 (Tracks Ex-US Global Market) |
 | **Top Country Exposure**         | US (~50%), UK, Switzerland | US (~70%), Switzerland, Japan | US (~65%), Europe (~30%)   | Japan, UK, Canada, China (0% US)  |
 | **Liquidity / Trading Volume**   | High (Easy to trade)       | Very High                     | Moderate to High           | Extremely High                    |
+
+- [Vanguard Total International Stock ETF (VXUS) ETF Stock Price & Overview](https://stockanalysis.com/etf/vxus/)
+	- The Vanguard Total International Stock ETF (VXUS) is an exchange-traded fund that is based on the FTSE Global All Cap x US index. The fund tracks a market cap-weighted index of stocks covering 99% of the global market capitalization outside the US. VXUS was launched on Jan 26, 2011 and is issued by Vanguard.
 
 ### Deep Dive into the Defensive Options
 
