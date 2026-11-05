@@ -31,6 +31,7 @@ updated: 2026-08-06
 - [Agentic Frameworks Deep Dive](agents/agentic-frameworks-deep-dive-analysis.md)
 - [LangGraph vs Semantic Kernel](agents/langgraph-vs-semantic-kernel.md)
 - [Frontend UI Frameworks](agents/frontend-ui-frameworks-libraries.md)
+- [AI Job Application Agents](agents/ai-job-application-agents.md)
 
 ## RAG
 

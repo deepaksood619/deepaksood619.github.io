@@ -234,6 +234,25 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** September 2, 2026 (Price: Rs. 5,187.50, Market Cap: Rs. 1,04,010 Cr)
   - **Next Update:** After Q2 FY27 results (expected early November 2026)
 
+### Mahindra & Mahindra Ltd
+
+- [Mahindra & Mahindra - Fundamental Analysis (October 28, 2026)](economics/company-analysis/companies/auto/mahindra-and-mahindra-fundamental.md)
+  - **Type:** Fundamental Analysis
+  - **Ticker:** NSE:M&M / BSE:500520
+  - **Score:** 7.8/10 ⭐⭐⭐⭐
+  - **Recommendation:** Buy (Medium-High Conviction)
+  - **Target Price:** Rs. 3,500 (`~`22% upside, 12-month horizon; own estimate)
+  - **Key Highlights:**
+    - 🟢 **Leadership:** #1 tractors (44.9% share), 25% SUV revenue share, #1 sub-3.5T LCV
+    - 🟢 **Growth:** FY26 revenue Rs. 1,98,639 Cr (`+24.8%`), profit `+32%`; Q1 FY27 revenue `+28%`
+    - 🟢 **De-rated:** PE 18.6x (vs `~`24.8x earlier), P/B 3.76x, ROE 20.3%; price Rs. 2,868 is `~`25% below the Rs. 3,840 high
+    - 🟢 **Institutional Support:** FII 33.34% + DII 34.19%
+    - ⚠️ **Consolidated Debt:** Rs. 1,36,936 Cr, mostly Mahindra Finance book; ROCE only 15.1%
+    - ⚠️ **Low Promoter Holding:** 18.39%; pledge not verified
+    - ⚠️ **Unexplained Decline:** price fell while earnings grew; no cause found; RSI `~`22.7 (Oct 9)
+  - **Data Date:** October 28, 2026 (Price: Rs. 2,868, Market Cap: Rs. 3,56,638 Cr)
+  - **Next Update:** After Q2 FY27 results (November 5, 2026)
+
 ### InterGlobe Aviation Limited (IndiGo)
 
 - [IndiGo (InterGlobe Aviation) - Fundamental Analysis (August 3, 2026)](economics/company-analysis/companies/aviation/indigo-fundamental.md)

@@ -3,11 +3,13 @@ slug: /about-deepak-sood/meetups-talks-sessions
 title: Meetups / Talks / Sessions
 description: Join our session on April 25, 2026, to explore best practices for securing sensitive data when integrating AI tools like GPT and Claude in fintech.
 created: 2023-03-05
-updated: 2026-08-01
+updated: 2026-10-29
 ---
 ## AI Fundamentals for Placements (Sun, 12 Jul 2026, Sun, 26 Jul 2026, Sat, 01 Aug 2026)
 
 **AI Fundamentals for Placements:** How Hiring is Changing & How to Stay Ahead - UnsaidTalks Mentorship Program
+
+https://docs.google.com/presentation/d/1K1hRDiDFSEWK-zNOuRE8hNcfvEyFKSmOvnTtYkgB_hE/edit?usp=sharing
 
 ![AI Fundamentals for Placements](media/WhatsApp%20Image%202026-07-10%20at%2015.08.39.jpeg)
 
@@ -100,8 +102,6 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 [#governance #dataprotection #governance #resilience #ai #ai #resilience #governance #risk #garime #beyondrisx #riskmanagement #governance #aigovernance #fintechrisk #machinelearning #datagovernance… \| GARiME](https://www.linkedin.com/posts/governance-dataprotection-governance-ugcPost-7455093773136711680-7jEf)
 
 ## Session: Building End-to-End Products using AI (23 Nov 2025)
-
-[Building End to End Product Using AI \| Building Personal Portfolio Website \| Draft Content - Google Docs](https://docs.google.com/document/d/1E0-iPwL15Si683ekUpzRlhyw9kCTglBcT3DpU6a1aMs/edit?usp=sharing)
 
 - [lovable-prompt-portfolio-website](ai/llm/prompting/lovable-prompt-portfolio-website.md)
 
@@ -233,6 +233,8 @@ Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2u
 	- Kafka, Flink, Iceberg, AI Agents – Connecting the Modern Data Stack with GenAI
 
 ## The AI Hiring Show: Vibe Coding, Power Hiring (5 July 2025)
+
+- Master's Union
 
 ![AI Hiring Show](media/Pasted%20image%2020250704202407.png)
 

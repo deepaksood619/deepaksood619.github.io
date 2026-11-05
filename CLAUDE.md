@@ -13,6 +13,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Office folder guidance (local only):** `docs/office/` holds private work and personal records and is gitignored. Its layout, conventions and handling rules are in `docs/office/CLAUDE.md`, which is loaded automatically when working inside that folder and is never committed. This pointer in `CLAUDE.md` is the single permitted outward reference to `docs/office/`; it does not apply to notes under `docs/`.
 
+## Never commit unless explicitly asked
+
+**Do not run `git commit` (or `git push`) in this repo unless the user explicitly asks in that message.** This overrides any general "commit after finishing work" habit or global instruction. Leave edits and new files uncommitted in the working tree and say so; the user commits themselves or asks. Approval for one commit does not carry over to the next. (Set Nov 2026 after a commit was made unasked and had to be reverted with `git reset`.)
+
 ## Project Overview
 
 Personal knowledge base ("Deep Notes" / "Second Brain") built with Docusaurus 3.10, containing 2900+ markdown notes (~280k lines of prose) across 400+ folders, deployed to GitHub Pages at https://deepaksood619.github.io/. Content spans computer science, AI/ML, databases, algorithms, book summaries, economics, psychology, and more.

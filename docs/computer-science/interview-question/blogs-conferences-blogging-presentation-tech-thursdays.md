@@ -3,7 +3,7 @@ slug: /computer-science/interview-question/blogs-conferences-blogging-presentati
 title: "Tech Thursdays: Blogging and Onboarding Series"
 description: Explore our Tech Thursdays series focusing on startup onboarding, coding best practices, and essential infrastructure setups for developers.
 created: 2023-03-05
-updated: 2025-08-20
+updated: 2026-10-28
 ---
 ## Startup onboarding series
 
@@ -90,10 +90,9 @@ https://teachable.com
 
 - Monte carlo simulation for dice roll with one dice and two dice
 
-## Tech Thursdays
-
 ## Icebreakers
 
+- Tech Thursdays
 - Typing Games (TypingCat, TypeRacer)
 - GitGames
 - **Hackathon / Coding**

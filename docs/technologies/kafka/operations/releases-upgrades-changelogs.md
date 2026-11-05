@@ -3,7 +3,7 @@ slug: /technologies/kafka/releases-upgrades-changelogs
 title: Apache Kafka Releases and Changelogs
 description: Explore the latest updates and changes in Apache Kafka, including features from versions 2.4 and 4.0.
 created: 2025-12-15
-updated: 2026-05-26
+updated: 2026-10-27
 ---
 [Apache Mail Archives](https://lists.apache.org/list.html?dev@kafka.apache.org)
 
@@ -104,6 +104,43 @@ Additional highlights include external schema support in JsonConverter for reduc
   • KIP-1211: num.partitions / default.replication.factor on the broker role. Set these on the controller role; broker-role values will be ignored in 5.0.
 
 [Apache Kafka 4.3 \| 25 KIPs, Kafka Streams, Share Group Controls, Broker Isolation, and more - YouTube](https://www.youtube.com/watch?v=lePgrOiX11U)
+
+## Apache Kafka 4.4
+
+**Highlights**
+
+- **Dead-letter queues for share groups (KAFKA-19469):** Share groups get DLQ support for records that can't be processed, complementing the Streams DLQ from KIP-1034.
+- **Share group offset initialization (KAFKA-20524):** Initialize share group start offsets from a specific offset or a file.
+- **KIP-1170: Unified cluster metadata bootstrapping.**
+- **KIP-1265: Automatic detection of internal API usage.**
+- **Rack-aware partitioning for the producer (KAFKA-19193).**
+- **CIDR-based host patterns for ACLs (KAFKA-20088).**
+- **Misrouted connection detection and handling (KAFKA-20246).**
+
+**Kafka Streams**
+
+- **Headers-aware state stores:** IQv2 support (KAFKA-20682) and transactional state stores (KAFKA-14412), building on 4.3's header-aware stores.
+- **KIP-1340:** Both the mapped key and the stream key are exposed in Streams-GlobalKTable joins.
+- **Broker-side custom assignors** for streams groups (KAFKA-20683) and a Streams Group Topology Description plugin (KAFKA-20618).
+- Headers support in `StreamPartitioner` (KAFKA-20197).
+
+**Connect**
+
+- New config to control internal topic creation (KAFKA-20430).
+
+**Deprecations and Removals**
+
+- Deprecated: `broker.id` (KAFKA-18628), `ClientQuotaCallback#updateClusterMetadata` (KAFKA-19566), Yammer-based metrics in `GroupCoordinatorMetrics` (KAFKA-20196).
+- Removed: `ConsumerMetrics` (KAFKA-20408), `numClassicGroupsTimelineCounter` (KAFKA-20405).
+
+**Upgrade Notes**
+
+- **DNS behavior change (KAFKA-20939):** A change in DNS resolution failure handling reportedly breaks some client applications. Check before upgrading.
+- **Downgrade from 4.3:** On clean shutdown, the RocksDB offsets column family is dropped (KAFKA-20543).
+- `bootstrap.resolve.timeout.ms` is marked experimental (KAFKA-20969).
+- Docker images now use Java 25 (KAFKA-20857).
+
+[Apache Kafka 4.4.0 Release Notes](https://downloads.apache.org/kafka/4.4.0/RELEASE_NOTES.html)
 
 ## Others
 

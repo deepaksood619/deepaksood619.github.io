@@ -3,7 +3,7 @@ slug: /psychology/soft-skills/speaking-story-talking-conversation-presentation-p
 title: Effective Speaking and Presentation Tips
 description: Learn essential phrases and body language techniques for impactful storytelling and presentations.
 created: 2023-03-05
-updated: 2026-10-19
+updated: 2026-10-28
 ---
 Use english - Indians have a bias towards English
 
@@ -95,6 +95,9 @@ Always tell stories, most visual stories are the best, and simple
         - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper) ⭐ 796
     - [Menti - Mentimeter - Interactive presentation software](https://www.mentimeter.com/)
     - [Kahoot! \| Learning games \| Make learning awesome!](https://kahoot.com/)
+	    - [GitHub - supabase-community/kahoot-alternative: An open source Kahoot alternative made with Next.js and Supabase · GitHub](https://github.com/supabase-community/kahoot-alternative)
+	    - [GitHub - mawoka-myblock/ClassQuiz: ClassQuiz is a quiz-application like Kahoot!, but open-source. · GitHub](https://github.com/mawoka-myblock/classquiz)
+	    - [12 best free Kahoot! alternatives in 2026 - Mentimeter](https://www.mentimeter.com/blog/education/kahoot-alternatives)
 - [Piggy | Mobile Content Creator 🐷](https://piggy.to/)
 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
 - [GitHub - googleworkspace/md2googleslides: Generate Google Slides from markdown · GitHub](https://github.com/googleworkspace/md2googleslides) ⭐ 4.7k

@@ -30,7 +30,7 @@
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": false,
-  "stopWhitespaceCollapsing": true,
+  "stopWhitespaceCollapsing": false,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
@@ -60,7 +60,7 @@
     "showEmptyFolders": false,
     "onlyIncludeSubfolders": false,
     "storeFolderCondition": true,
-    "showFolderNotes": false,
+    "showFolderNotes": true,
     "disableCollapseIcon": true,
     "alwaysCollapse": false,
     "autoSync": true,
@@ -80,12 +80,12 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "file_explorer",
   "supportedFileTypes": [
     "md"
   ],
   "boldName": true,
-  "boldNameInPath": false,
+  "boldNameInPath": true,
   "cursiveName": false,
   "cursiveNameInPath": false,
   "disableOpenFolderNoteOnClick": false,

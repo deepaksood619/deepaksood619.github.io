@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/code-generators-coding-generators
 title: Code Generators / Coding Generators
 description: Discover advanced code generators like Gemini Code Assist and GitHub Copilot for efficient coding, modernization, and seamless integration in your projects.
 created: 2026-06-18
-updated: 2026-10-10
+updated: 2026-11-04
 ---
 - [claude-code](ai/llm/code-generation/claude-code.md)
 
@@ -209,3 +209,4 @@ Human review as default for most code changes is already obsolete, and might eve
 - [Agentic coding at ClickHouse](https://clickhouse.com/blog/agentic-coding)
 - [GitHub - Egonex-AI/Understand-Anything: Graphs that teach \> graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. · GitHub](https://github.com/Egonex-AI/Understand-Anything)
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
+- [LGTM (Looks Good to Me) - Claude Opus 5.5 music video - YouTube](https://www.youtube.com/watch?v=3TNpOD6bov8)

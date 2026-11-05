@@ -167,3 +167,7 @@ autogenstudio serve --team=team-config.json --port=5000
 - [GitHub - growthxai/output: The open-source TypeScript framework for building AI workflows and agents. Designed for Claude Code describe what you want, Claude builds it, with all the best practices already in place. · GitHub](https://github.com/growthxai/output) ⭐ 435
 
 ![AI Agents Landscape](media/Pasted%20image%2020250114143214.jpg)
+
+## See also
+
+- [AI Job Application Agents](ai-job-application-agents.md)

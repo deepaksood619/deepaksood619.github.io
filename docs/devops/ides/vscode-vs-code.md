@@ -3,7 +3,7 @@ slug: /devops/ides/vscode-vs-code
 title: Essential VSCode Resources and Tips
 description: Explore VSCode debugging, online environments, and tools for effective coding and development in Python and beyond.
 created: 2023-03-05
-updated: 2026-10-19
+updated: 2026-10-28
 ---
 Remove empty lines - `Regex - ^(s)*$`
 
@@ -99,6 +99,7 @@ From [The Story of VS Code (Official Documentary)](https://youtu.be/kHL3XzjpT5w)
 - `Opt + up/down arrow` - Move line up/down
 - `cmd + opt + r` - Reveal in finder
 - `cmd + option + c` - Copy current file path from system root (same as obsidian)
+- `cmd + shift + v` - md preview
 
 ## Navigation
 

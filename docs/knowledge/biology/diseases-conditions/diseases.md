@@ -3,7 +3,7 @@ slug: /knowledge/biology/diseases
 title: Diseases
 description: Explore essential insights on diseases, lifestyle-related conditions, hyperthyroidism, and injury care for better health awareness and management.
 created: 2023-03-05
-updated: 2026-08-21
+updated: 2026-10-27
 ---
 Listening to your own body over a lifetime can tell you far more than any doctor in a small room for a rushed 10 minutes appointment.
 
@@ -331,6 +331,10 @@ Aerophagia can be chronic (long term) or acute (short term), and can be related 
 - Some doctors recommend you sleep with a humidifier; it moisturizes the room and can help keep you moisturized
 
 ## Irritation in mouth
+
+No Titanium di oxide, No SLS
+
+[Don’t Buy Toothpaste & Toothbrush before watching this video! \| Ft. Puneet Nanda - YouTube](https://www.youtube.com/watch?v=dJEA9ctrLxU)
 
 [Sodium Lauryl Sulfate-Free Toothpastes from Sensodyne](https://www.sensodyne.com/en-us/products/product-results/sodium-lauryl-sulfate-free-toothpaste/)
 
