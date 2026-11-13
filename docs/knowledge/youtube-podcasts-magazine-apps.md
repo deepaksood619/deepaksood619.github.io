@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-10-19
+updated: 2026-11-12
 ---
 ## Youtube
 
@@ -444,6 +444,7 @@ updated: 2026-10-19
 - KwikBrain
 - Masters of scale with Reid Hoffman
 - Nature Podcast
+	- [The Nature of Things - YouTube](https://www.youtube.com/@natureofthings)
 - Naval
 - Scott Young Podcast
 - Teamistry - Atlassian

@@ -3,7 +3,7 @@ slug: /ai/llm/code-generation/claude-code
 title: Claude Code
 description: Comprehensive guide to Claude Code - installation, features, skills, commands, frameworks, best practices, and creating custom skills
 created: 2026-06-18
-updated: 2026-10-24
+updated: 2026-11-13
 ---
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster.
 
@@ -50,6 +50,12 @@ claude -p "query"
 # Help
 claude --help
 claude update
+```
+
+### Slack Commands
+
+```bash
+/insights
 ```
 
 ## Core Features

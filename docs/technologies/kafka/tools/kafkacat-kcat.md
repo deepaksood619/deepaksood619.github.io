@@ -3,7 +3,7 @@ slug: /technologies/kafka/kafkacat-kcat
 title: Kafkacat / Kcat Overview
 description: Explore Kafkacat, a versatile producer and consumer for Apache Kafka that simplifies message handling and cluster management.
 created: 2023-03-05
-updated: 2026-01-28
+updated: 2026-11-13
 ---
 https://github.com/edenhill/kcat
 
@@ -21,7 +21,7 @@ Supports Avro message deserialization using the Confluent Schema-Registry, and g
 
 kcat is fast and lightweight; statically linked it is no more than 150Kb.
 
-#### Installing
+## Installing
 
 ```bash
 brew install kafkacat
