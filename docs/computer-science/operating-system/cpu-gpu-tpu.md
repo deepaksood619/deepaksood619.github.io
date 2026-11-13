@@ -3,7 +3,7 @@ slug: /computer-science/operating-system/cpu-gpu-tpu
 title: Understanding CPU, GPU, and TPU Differences
 description: Explore the key differences between CPU, GPU, and TPU architectures for efficient computing and faster neural network processing.
 created: 2023-03-05
-updated: 2026-05-04
+updated: 2026-11-13
 ---
 MAC - Multiplier, Adder, Accumulator
 
@@ -30,6 +30,7 @@ Specifically for matrix operations
 - NVIDIA's Vera Rubin NVL72 rack-scale systems are estimated to cost between $3.5 million and $8.8 million per unit, representing a premium of roughly 25% to over 100% more than the preceding Blackwell (GB200) racks. These systems are designed for high-end AI training and inference, utilizing next-generation Rubin GPUs (R100) and Vera CPUs.
 	- [Rack-Scale Agentic AI Supercomputer \| NVIDIA Vera Rubin NVL72](https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/)
 	- [NVIDIA Rubin at GTC 2026: Full Technical Breakdown](https://www.reddit.com/r/hardware/comments/1rvc8z8/nvidia_rubin_at_gtc_2026_full_technical_breakdown/)
+	- [Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs · Unemployment Labs](https://unemploymentlabs.com/checkpoint-forensics)
 
 ## TPU
 

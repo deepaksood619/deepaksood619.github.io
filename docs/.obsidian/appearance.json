@@ -3,5 +3,6 @@
   "accentColor": "",
   "theme": "system",
   "baseFontSize": 18,
-  "translucency": true
+  "translucency": true,
+  "showRibbon": true
 }

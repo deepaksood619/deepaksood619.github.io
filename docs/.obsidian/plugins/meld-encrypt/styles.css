@@ -1,7 +1,65 @@
 /* FEATURE IN LINE */
 
+/* Keep password prompts high on mobile and let long forms scroll.
+   Percentage sizing respects the modal container; dvh also caps the dialog
+   when the webview reports a smaller dynamic viewport. */
+.is-mobile .modal.meld-encrypt-password-dialog {
+	--meld-password-dialog-top: max(8px, var(--safe-area-inset-top, env(safe-area-inset-top, 0px)));
+	align-self: flex-start;
+	margin-top: var(--meld-password-dialog-top);
+	margin-bottom: auto;
+	max-height: calc(100% - var(--meld-password-dialog-top) - 8px);
+	padding: 12px;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+
+@supports (height: 100dvh) {
+	.is-mobile .modal.meld-encrypt-password-dialog {
+		max-height: min(calc(100% - var(--meld-password-dialog-top) - 8px), calc(100dvh - var(--meld-password-dialog-top) - 8px));
+	}
+}
+
+.is-mobile .meld-encrypt-password-dialog .modal-content {
+	min-height: 0;
+	flex: 1 1 auto;
+	overflow-y: auto;
+	padding-top: 0;
+	padding-bottom: max(8px, var(--safe-area-inset-bottom, env(safe-area-inset-bottom, 0px)));
+}
+
+.is-mobile .meld-encrypt-password-dialog .setting-item {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.is-mobile .meld-encrypt-password-dialog .setting-item-control {
+	margin-top: 4px;
+}
+
+/* Obsidian stretches mobile setting controls equally by default. Keep the
+   reveal button touch-sized and give the rest of the row to the input. */
+.is-mobile .meld-encrypt-password-dialog .setting-item-control > button.meld-encrypt-password-reveal {
+	flex: 0 0 44px;
+	width: 44px;
+	min-width: 44px;
+	min-height: 44px;
+	padding: 0;
+}
+
+.is-mobile .meld-encrypt-password-dialog .setting-item-control > input {
+	flex: 1 1 0;
+	width: 0;
+	min-width: 0;
+}
+
 .meld-encrypt-inline-reading-marker {
 	cursor: pointer;
+}
+
+.meld-encrypt-password-modal textarea {
+	width: 100%;
 }
 
 .meld-encrypt-decrypt-modal textarea{
@@ -26,3 +84,20 @@ div[data-type="meld-encrypted-view"] .view-content {
 }
 
 /* END FEATURE ENCRYPTED MD */
+
+.meld-encrypt-busy {
+	cursor: wait;
+}
+
+.meld-encrypt-external-paths {
+	white-space: pre;
+	width: 100%;
+}
+
+.meld-encrypt-external-paths-control {
+	width: 80%;
+}
+
+.workspace-ribbon .side-dock-ribbon-action.meld-encrypt-ribbon-hidden {
+	display: none;
+}
