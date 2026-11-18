@@ -1,0 +1,57 @@
+{
+  "short_name": "Deep Notes",
+  "name": "Deep Notes | Deepak's Personal Wiki",
+  "icons": [
+    {
+      "src": "/img/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "theme_color": "#7099bc",
+  "background_color": "#7099bc",
+  "display": "standalone",
+  "scope": "/",
+  "description": "Deep Notes | Deepak's Personal Wiki",
+  "screenshots": [
+    {
+      "src": "/img/screenshot1.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/img/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/img/screenshot3.jpg",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/img/screenshot4.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": [
+    "education",
+    "finance",
+    "productivity"
+  ],
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
