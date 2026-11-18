@@ -3,7 +3,7 @@ slug: /cloud/others/mdm-mobile-device-management
 title: MDM (Mobile Device Management)
 description: Discover how Mobile Device Management (MDM) enhances workforce productivity while ensuring the security of corporate data on smartphones, tablets, and laptops.
 created: 2024-02-07
-updated: 2025-02-14
+updated: 2026-11-17
 ---
 Mobile device management (MDM) is a proven methodology and toolset used to provide a workforce mobile productivity tools and applications while keeping corporate data secure.
 
@@ -22,6 +22,7 @@ Mobile device management (MDM) is a proven methodology and toolset used to provi
 - [Jumpcloud](https://jumpcloud.com/lp/mdm-fava-bean)
 - [Jamf Apple Device Management. Mac iPad iPhone TV Apple MDM](https://www.jamf.com/)
 - [Zero Trust Network Access (ZTNA) | Zero Trust | Cloudflare](https://www.cloudflare.com/en-gb/lp/ppc/zero-trust-network-access-x/)
+- [Microsoft Intune documentation - Microsoft Intune \| Microsoft Learn](https://learn.microsoft.com/en-us/intune/)
 
 ### Open Source Tools
 

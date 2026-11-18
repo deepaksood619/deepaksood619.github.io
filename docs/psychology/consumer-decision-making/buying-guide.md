@@ -3,7 +3,7 @@ slug: /psychology/buying-guide
 title: Buying guides
 description: Explore essential buying guides to make informed choices on shoes, cars, and home essentials, ensuring durability and functionality with every purchase.
 created: 2026-01-10
-updated: 2026-08-08
+updated: 2026-11-15
 ---
 - **Buy less, choose it well, make it last**
 - Don't buy black or white items, it gets very dirty pretty fast
@@ -343,3 +343,4 @@ So for a long haul international flight you can take middle aisle with aisle sid
 	- [Portronics Aerolift Solo Gas Spring Monitor Arm, Desk Mount for 13–32 Inch Screens, VESA 75x75 & 100x100 mm, Full Motion Tilt/Swivel/Rotation, C-Clamp & Grommet Installation, Aluminium Build : Amazon.in: Computers & Accessories](https://www.amazon.in/Portronics-Aerolift-Rotation-Installation-Aluminium/dp/B0GRHW6JVL/)
 	- [Amazon Basics Monitor Stand Height Adjustable Arm Mount](https://www.amazon.in/amazon-basics-Monitor-Height-Adjustable/dp/B07DHK5DHN/)
 	- Could have bought Amazon one, since heigh adjustable is not required mostly, since height is mostly fixed, most of the time you need to move left right, or tilt up and down, and not have to do whole monitor up and down
+- Car and scotty should be parked in shade, it increases its logetivity both from sun and water

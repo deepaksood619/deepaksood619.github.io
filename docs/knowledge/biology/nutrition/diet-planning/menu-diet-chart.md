@@ -3,7 +3,7 @@ slug: /menu-diet-chart-non-glycemic-indian-family-diet-chart
 title: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 description: Menu Diet Chart Non Glycemic Indian Family Diet Chart
 created: 2026-06-24
-updated: 2026-10-02
+updated: 2026-11-16
 ---
 ## Multigrain Atta Details - 10 kg
 
@@ -11,16 +11,17 @@ updated: 2026-10-02
 
 | **Quantity** | **Item (Hindi)** | **Item (English)**     | **Total Price (₹)** | **Kg Rate (₹/kg)** |
 | ------------ | ---------------- | ---------------------- | ------------------- | ------------------ |
-| **1.5 kg**   | चना              | Chana (Chickpeas)      | 180                 | **120**            |
-| **1.5 kg**   | जौ               | Jau (Barley)           | 90                  | **60**             |
-| **1.5 kg**   | रागी             | Ragi (Finger Millet)   | 180                 | **120**            |
-| **1 kg**     | ज्वार            | Jowar (Sorghum)        | 60                  | **60**             |
-| **500 g**    | बाजरा            | Bajra (Pearl Millet)   | 30                  | **60**             |
-| **500 g**    | मक्का            | Makka (Maize / Corn)   | 30                  | **60**             |
-| **1 kg**     | सोया             | Soya (Soybean)         | 140                 | **140**            |
-| **2.5 kg**   | गेहूं            | Gehu (Wheat)           | 135                 | **54**             |
-| **10 kg**    | **कुल योग**      | **Sum of Ingredients** | **845**             |                    |
+| **1.5 kg**   | चना              | Chana (Chickpeas)      | 180 - 210           | **120**            |
+| **1.5 kg**   | जौ               | Jau (Barley)           | 90 - 105            | **60**             |
+| **1.5 kg**   | रागी             | Ragi (Finger Millet)   | 180 - 210           | **120**            |
+| **1 kg**     | ज्वार            | Jowar (Sorghum)        | 60 - 70             | **60**             |
+| **500 g**    | बाजरा            | Bajra (Pearl Millet)   | 30 - 35             | **60**             |
+| **500 g**    | मक्का            | Makka (Maize / Corn)   | 30 - 35             | **60**             |
+| **1 kg**     | सोया             | Soya (Soybean)         | 140 - 140           | **140**            |
+| **2.5 kg**   | गेहूं            | Gehu (Wheat)           | 135 - 140           | **54**             |
+| **10 kg**    | **कुल योग**      | **Sum of Ingredients** | **845** - 945       |                    |
 
+- Mon, 16 Nov 2026 - Rs. 945
 - Sat, 18 Jul 2026 - Rs. 845
 - 14 May 2026 - Rs. 790
 - 14 Feb 2026 - Rs. 650

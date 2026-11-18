@@ -1,6 +1,5 @@
 [
   "obsidian-auto-link-title",
-  "obsidian-reveal-active-file",
   "table-editor-obsidian",
   "editing-toolbar",
   "editor-width-slider",
@@ -16,5 +15,6 @@
   "obsidian-linter",
   "file-explorer-note-count",
   "meld-encrypt",
-  "folder-notes"
+  "folder-notes",
+  "auto-reveal-in-explorer"
 ]

@@ -3,7 +3,7 @@ slug: /computer-science/general/newsletter-learning-resources
 title: Newsletter and Learning Resources
 description: Explore curated newsletters and essential learning resources for databases and advanced topics in web development.
 created: 2023-03-05
-updated: 2026-09-28
+updated: 2026-11-16
 ---
 https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send
 
@@ -75,6 +75,7 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 - Data Elixir
 - Jason @ ML Mastery
 - https://magazine.sebastianraschka.com/
+- dataelixir
 
 ## Learning + Taking notes
 

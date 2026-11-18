@@ -3,8 +3,10 @@ slug: /knowledge/biology/nutrition/oils
 title: Oils
 description: Discover the different types of oils, their processing methods, and the health impacts of popular options like olive, mustard, and coconut oil.
 created: 2025-02-26
-updated: 2025-03-27
+updated: 2026-11-16
 ---
+[“Which Oil?” Doesn't Matter Much. “How Much?” Does.](https://tbthealth.substack.com/p/which-oil-doesnt-matter-much-how)
+
 ## Processing
 
 - Cold pressed oil = kacchi ghani

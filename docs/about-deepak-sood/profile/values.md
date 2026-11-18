@@ -3,7 +3,7 @@ slug: /about-deepak-sood/values
 title: Values
 description: Explore our core values, emphasizing accomplishment, accountability, creativity, and community to inspire growth and foster positive relationships.
 created: 2025-02-26
-updated: 2026-07-11
+updated: 2026-11-15
 ---
 ## Core Values
 
@@ -171,6 +171,8 @@ The greatest fulfilment in life is to do something which is much larger than you
 	- [Sexual objectification - Wikipedia](https://en.wikipedia.org/wiki/Sexual_objectification)
 	- [Feminism - Wikipedia](https://en.wikipedia.org/wiki/Feminism)
 - [Pygmalion effect - Wikipedia](https://en.wikipedia.org/wiki/Pygmalion_effect)
+- No firecrackers
+- Vegetarian for planet
 
 ## Skeptical
 

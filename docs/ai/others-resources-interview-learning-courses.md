@@ -3,7 +3,7 @@ slug: /ai/others-resources-interview-learning-courses
 title: Others / Resources / Interview / Learning / Courses
 description: Explore essential resources, interviews, and courses for learning about machine learning, graph neural networks, and AI advancements effectively.
 created: 2023-03-05
-updated: 2026-07-24
+updated: 2026-11-16
 ---
 - [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&ab_channel=TensorFlow)
 - [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
@@ -99,6 +99,7 @@ updated: 2026-07-24
 3. [LLM Engineering: Master AI, Large Language Models & Agents \| Udemy](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
 4. [The Complete Agentic AI Engineering Course (2025) \| Udemy](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
 5. [CS146S Course: The Modern Software Developer \| Stanford University Bulletin](https://bulletin.stanford.edu/courses/2274401)
+6. [Maarten Grootendorst \| Substack](https://substack.com/@maartengrootendorst)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

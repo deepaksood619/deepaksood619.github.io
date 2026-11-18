@@ -3,7 +3,7 @@ slug: /knowledge/biology/nutrition/pulses-daal-lentils
 title: Pulses / Daal / Lentils
 description: Discover the essentials of Masoor daal, from identification to cooking tips, and explore the versatility of lentils and pulses in Indian cuisine.
 created: 2023-03-05
-updated: 2026-07-08
+updated: 2026-11-16
 ---
 [How To identify Indian Dals | Basic Cooking Skills For Beginners | Easy Guide To Lentils & Pulses - YouTube](https://www.youtube.com/watch?v=RUmFIvs2RRA&ab_channel=RajshriFood)
 
@@ -222,3 +222,4 @@ https://wholefully.com/sprouting-101
 ## Links
 
 - [grains](knowledge/biology/nutrition/food-types/grains.md)
+- Multigrain Atta Details - [menu-diet-chart](knowledge/biology/nutrition/diet-planning/menu-diet-chart.md)

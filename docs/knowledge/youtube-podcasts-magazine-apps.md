@@ -3,7 +3,7 @@ slug: /knowledge/youtube-podcasts-magazine-apps
 title: Youtube / Podcasts / Magazine / Apps
 description: Discover engaging YouTube channels, podcasts, and apps that explore science, technology, and exploration through captivating content and expert insights.
 created: 2023-03-05
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 ## Youtube
 
@@ -592,7 +592,11 @@ Switching from your ISP’s DNS to public DNS services like Google DNS or Cloudf
 	- [Morphe App for YouTube and Reddit - OFFICIAL SITE](https://morphe.software/)
 	- [MorpheApp · GitHub](https://github.com/morpheapp)
 - Pikashow
-- PPCine
+- PPCine / freecine
+- https://github.com/recloudstream/cloudstream
+	- Shortcode - megarepo
+		- https://github.com/self-similarity/MegaRepo/
+- https://themoviesflix.surf/
 - pdf drive
 - Youtube Downloader
     - Not working - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)

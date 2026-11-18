@@ -3,7 +3,7 @@ slug: /knowledge/quotes-proverbs/life
 title: Life
 description: Explore the philosophy of life, success, and money, highlighting the importance of giving, learning, and overcoming fear for a fulfilling existence.
 created: 2023-03-05
-updated: 2026-10-22
+updated: 2026-11-14
 ---
 It’s almost always about money.
 
@@ -1224,5 +1224,7 @@ You can attract luck simply by sharing your work publicly.
 [Zemblanity: When Bad Luck Is Built In \| Psychology Today](https://www.psychologytoday.com/us/blog/connect-the-dots/202603/zemblanity-when-bad-luck-is-built-in)
 
 “How we spend our non-working hours determines very largely how capably or incapably we spend our working hours.” – Charles Forbes
+
+Do what you can, with what you have, where you are - Theodore Roosevelt
 
 ## End

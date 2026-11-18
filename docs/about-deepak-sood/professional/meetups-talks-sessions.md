@@ -3,8 +3,14 @@ slug: /about-deepak-sood/meetups-talks-sessions
 title: Meetups / Talks / Sessions
 description: Join our session on April 25, 2026, to explore best practices for securing sensitive data when integrating AI tools like GPT and Claude in fintech.
 created: 2023-03-05
-updated: 2026-10-29
+updated: 2026-11-14
 ---
+## Master's Union - Intro to Data Architecture (Tue, 27 Oct 2026)
+
+- Presentation - [Where does your data live?](https://deepaksood619.github.io/data-architecture-intro/)
+- [Where does your data live? - Data Architecture intro (student notes)](https://deepaksood619.github.io/data-architecture-intro/student-notes.html)
+- [GitHub - deepaksood619/data-architecture-intro · GitHub](https://github.com/deepaksood619/data-architecture-intro)
+
 ## AI Fundamentals for Placements (Sun, 12 Jul 2026, Sun, 26 Jul 2026, Sat, 01 Aug 2026)
 
 **AI Fundamentals for Placements:** How Hiring is Changing & How to Stay Ahead - UnsaidTalks Mentorship Program

@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-10-25
+updated: 2026-11-18
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -33,6 +33,7 @@ Extensions that helps make obsidian better
 - Recent Files
 - Auto Link Title
 - Automatically Reveal Active File
+	- [GitHub - MartinoPolo/obsidian-auto-reveal-in-explorer: Obsidian plugin that auto-reveals the active file in the File Explorer without transferring keyboard focus · GitHub](https://github.com/martinopolo/obsidian-auto-reveal-in-explorer)
 - Wikipedia
 - Editing Toolbar / Obsidian Markdown formattting Assistant
 - Linter

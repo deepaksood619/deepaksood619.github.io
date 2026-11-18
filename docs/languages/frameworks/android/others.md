@@ -3,7 +3,7 @@ slug: /languages/frameworks/android/others
 title: Others
 description: Explore the differences between Android TV and Google TV, and discover new features in Android Studio with our comprehensive resources and guides.
 created: 2025-05-13
-updated: 2026-03-27
+updated: 2026-11-14
 ---
 ## Android TV vs Google TV
 
@@ -17,3 +17,11 @@ updated: 2026-03-27
 - [Journeys for Android Studio  \|  Android Developers](https://developer.android.com/studio/gemini/journeys)
 - [What's new in Android development tools - YouTube](https://www.youtube.com/watch?v=KXKP2tDPW4Y)
 - [GitHub - android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples) ⭐ 23k
+
+## ADB (Android Debug Bridge)
+
+```bash
+brew install scrcpy
+brew install --cask android-platform-tools
+scrcpy
+```
